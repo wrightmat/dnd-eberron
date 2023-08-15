@@ -1,4 +1,4 @@
-#item [[1-01. Delethorn Warehouse]]
+ #item [[1-01. Delethorn Warehouse]]
 
 This dread device draws on the power of Mabar, infusing the dead with the malign energy of the Endless Night. While it is active, any humanoid that dies within 2 miles of the resonator reanimates 1 minute later as a zombie under the control of the creature controlling the device.
 

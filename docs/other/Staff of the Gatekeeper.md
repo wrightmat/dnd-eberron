@@ -1,4 +1,4 @@
-#item [[1-10. Gatekeeper Seal]]
+ #item [[1-10. Gatekeeper Seal]]
 
 This staff is made of one large bone. Its head is carved and painted into the visage of the black dragon Vvaraak. The dragon’s eyes glow with a purple light whenever the staff is within 150 feet of an aberration.
 

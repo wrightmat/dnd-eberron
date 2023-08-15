@@ -49,4 +49,4 @@ actions:
     desc: "Kyrzin exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 20 (4d6 + 8) acid damage on a failed save or half as much on a successful one."
 ```
 
-A miniature version of [Kyrzin](creatures/Kyrzin).
+A miniature version of [[docs/creatures/Kyrzin|Kyrzin]].

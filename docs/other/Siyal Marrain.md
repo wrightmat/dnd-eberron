@@ -1,4 +1,4 @@
-#organization #druidic 
+ #organization #druidic 
 
 The Siyal Marrain, or Horse Watchers (in the common Galifaran tongue), are a Valenaran druidic order charged with keeping the Valenaran steeds, believed by the elves to be the descendants of elven warriors who fought against the Su'lat League to free the elven people from slavery, but were cursed to remain in the equine forms they had taken to carry their comrades into battle.
 

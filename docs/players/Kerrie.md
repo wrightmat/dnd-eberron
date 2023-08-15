@@ -1,4 +1,4 @@
-#player [[Windsor Stone]]
+ #player [[Windsor Stone]]
 
 Discord:: God’s first brain cell
 Pronouns:: she/her

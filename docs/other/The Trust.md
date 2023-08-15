@@ -1,4 +1,4 @@
-#organization #intelligence
+ #organization #intelligence
 
 The Trust is a national, non-military organization charged with the safety and security of Zilargo. The Trust acts as a secret police force in Zilargo and among gnomes abroad in Khorvaire.
 

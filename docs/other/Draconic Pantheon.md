@@ -1,4 +1,4 @@
-#organization #religion [[Aleithilithos]]
+ #organization #religion [[Aleithilithos]]
 
 The Draconic Pantheon of Shardspace originates from the Progenitor Dragons, whose true origins are unknown. It is said that each Progenitor is known by other names in other realms, where they may have visited or may visit in time (which has little meaning to them).
 

@@ -1,4 +1,4 @@
-#organization #druidic 
+ #organization #druidic 
 
 Bound to the magic of their lycanthrope ancestors, moonspeakers breathe the magic of the world, guided by the twelve moons of Eberron. Moonspeakers are powerful and versatile spellcasters, and they weave their magic into their own bodies as they extend and enhance their shifting ability. Leaving behind the ties of family and home, moonspeakers travel between shifter communities, teaching, guiding, and protecting. Often among the most powerful shifter spellcasters, moonspeakers serve as the champions and advisors of the shifter race.
 

@@ -1,4 +1,4 @@
-#organization #warband #tairnadal 
+ #organization #warband #tairnadal 
 
 The elves of the Valaes Tairn first set foot on the soil of Khorvaire thousands of years ago. They sought adventure and glory, and they hoped to find challenges worthy of the heroes of Xen’drik. There were no giants on the southwestern shore, but they found goblins aplenty. The Tairnadal elves welcomed war with the Empire of Dhakaan, and for decades hobgoblin and bugbear matched wits and steel with the warrior elves. It took the call of a greater conflict to draw the Valaes Tairn back to Aerenal — the clash of elf and dragon. When the forces of Argonnessen attacked Aerenal, the Tairnadal abandoned their holdings in Khorvaire and returned to their island home.
 

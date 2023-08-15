@@ -1,4 +1,4 @@
-#lore 
+ #lore 
 
 The githzerai aren’t natives of Kythri, and their presence is an act of defiance: through unparalleled mental discipline, they create bastions of order in the heart of chaos. If they seek order, why don’t they dwell in Daanvi? It’s not that they simply desire order, but to strengthen their will by imposing it on a reality that absolutely defies it. The struggle is the purpose. Beyond this, they’re served by the fact that even great powers can’t scry into Kythri.
 

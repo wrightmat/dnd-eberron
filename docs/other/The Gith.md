@@ -1,4 +1,4 @@
-#lore 
+ #lore 
 
 At some point we need to introduce the Gith, in order to plant the idea of alternate versions of Eberron, such the theorized “Githberron” that was the incarnation before our current one and was destroyed by the Daelkyr.
 

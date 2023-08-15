@@ -1,4 +1,4 @@
-#lore [[1. Zarantyr, the Storm Moon]]
+ #lore [[1. Zarantyr, the Storm Moon]]
 
 ### Red Slaadi
 

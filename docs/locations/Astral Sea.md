@@ -1,4 +1,4 @@
-#location 
+ #location 
 
 ```leaflet
 id: astral-map

@@ -1,4 +1,4 @@
-#lore 
+ #lore 
 
 The Draconic Prophecy is a record of things to come that has been playing out since creation.
 

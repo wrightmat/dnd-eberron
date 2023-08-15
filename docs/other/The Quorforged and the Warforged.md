@@ -1,4 +1,4 @@
-#lore 
+ #lore 
 
 > My thoughts are crystal and light, and they do not fade with the passage of time. Nations have risen and fallen while I have lain in my coffin of steel. Dal Quor is forever lost, and what remains is a twisted abomination. Believe what you will, but the quori came to this world in search of salvation, not conquest. It was the denizens of this land - the Sul'at League, the Group of Eleven, the Emperor Cul'sir - who brought war upon us, and who ultimately destroyed both our worlds. I am all that remains of the Dreaming Heart, the last spark of light in this new age of darkness. And you are not yet ready to hear the tale I have to tell.
 > -   The Docent Shira (Secrets of Xen’drik, page 154)

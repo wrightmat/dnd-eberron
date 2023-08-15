@@ -1,4 +1,4 @@
-#lore 
+ #lore 
 
 Irian is bursting with life. Songbirds, rabbits, and other creatures roam the Garden. The streets of the Amaranthine City are filled with happy people. But the Garden never has too many rabbits, and there’s no risk of the citizens of the Amaranthine City starving— or needing to go on strike to prevent it. Sometimes, if you glimpse one out of the corner of your eye, you might see them differently, as an outline of pale white light— a glowing shadow.
 

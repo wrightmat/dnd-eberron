@@ -1,4 +1,4 @@
-#item [[2-14. Shardjammer Finding a Siberys Shard]]
+ #item [[2-14. Shardjammer Finding a Siberys Shard]]
 
 Siberys dragonshards fall from the Ring of Siberys, the ring of crystals that encircles the world. While rare in Khorvaire, there are significant shard fields in the continent of Xen’drik, and this is a potential source of great wealth for explorers. Siberys dragonshards are amber in color, with swirling golden veins gleaming within.
 

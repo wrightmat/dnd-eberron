@@ -1,4 +1,4 @@
-#item [[2. Titan’s Folly]]
+ #item [[2. Titan’s Folly]]
 
 _Wondrous Item, Legendary (Requires Attunement)_
 

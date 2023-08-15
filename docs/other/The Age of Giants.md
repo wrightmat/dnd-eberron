@@ -1,4 +1,4 @@
-#lore 
+ #lore 
 
 40,000 years ago (Age of Giants), the Turning of the Age was occurring on Dal Quor (from the Dreaming Heart to the Dreaming Dark), and a large number of Quori left the plane and emerged in Xen'drik (due to the large number of manifest zones throughout Xen'drik), seeking refuge.
 

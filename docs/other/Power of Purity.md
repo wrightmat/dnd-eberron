@@ -1,4 +1,4 @@
-#organization #religion 
+ #organization #religion 
 
 > “I’ll not stand oppression.” —Harkra Loivaerl Lonadar
 

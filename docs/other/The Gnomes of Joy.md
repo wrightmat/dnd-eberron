@@ -1,4 +1,4 @@
-#lore 
+ #lore 
 
 When the Prince of Summer was betrayed by his lover, his heart froze and he became the Prince of Frost. So bitter was he that he tore the sun from the sky, swearing that there should be no light in the vale while there was no light in his heart. None of the lords of the court challenged him. Some remained silent out of fear, but most found that they preferred to live in moonlight, and so the Moon Court found its name.
 

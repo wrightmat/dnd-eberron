@@ -1,6 +1,4 @@
-#organization #religion 
-
-Type: Religious Order
+ #organization #religion 
 
 The Keepers of the Past are the religious leaders for the Tairnadal elves. They lead the Tairnadal elves in venerating their legendary ancestors, warriors who battled dragons and giants, and believe that their spirits live on and guide the living.
 

@@ -1,4 +1,4 @@
-#item #symbiont
+ #item #symbiont
 
 *Wondrous Item, Very Rare, Requires Attunement*
 

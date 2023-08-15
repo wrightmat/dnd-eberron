@@ -1,4 +1,4 @@
-#location [[Shardspace]]
+ #location [[Shardspace]]
 
 ![https://wrightmat.github.io/obsidian/img/aryth.png](https://wrightmat.github.io/obsidian/img/aryth.png)
 

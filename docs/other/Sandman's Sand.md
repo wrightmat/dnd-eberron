@@ -1,4 +1,4 @@
-#item 
+ #item 
 
 *Wondrous item, legendary (requires attunement)*
 

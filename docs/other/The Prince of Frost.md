@@ -1,4 +1,4 @@
-#lore 
+ #lore 
 
 It is said that, once, the Prince of Frost was not as cruel as he is now. Over a thousand years ago - it is said - he was the consort of the Queen of Winter, whom he loved with all his heart. The Winter Court was not always cold and desolate, once it was beautiful and full of life. The land danced with creatures of winter, the sky shone with the winter lights. All of this changed with the death of the Winter Queen.
 
