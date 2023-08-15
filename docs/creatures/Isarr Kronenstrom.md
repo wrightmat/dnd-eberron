@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 name: Isarr Kronenstrom
@@ -46,6 +46,5 @@ Although Isarr calls himself the Wolf King, few others in the Wolf Tribe support
 
 ### References
 
-Icewind Dale: Rime of the Frostmaiden
-
-https://www.dndbeyond.com/monsters/1123102-isarr-kronenstrom
+* Icewind Dale: Rime of the Frostmaiden
+* https://www.dndbeyond.com/monsters/1123102-isarr-kronenstrom

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/eberron/images/a/a6/Warforgedtitan.jpg/revision/latest?cb=20111216122645]]
@@ -37,4 +37,4 @@ actions:
 
 ### References
 
-https://www.dndwiki.io/monsters/warforged-titan
+* https://www.dndwiki.io/monsters/warforged-titan

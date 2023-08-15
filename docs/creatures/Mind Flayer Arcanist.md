@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #underdark 
+ #monster #underdark 
 
 ```statblock
 name: Mind Flayer Arcanist 
@@ -56,4 +56,4 @@ A few [mind flayers](https://www.dndbeyond.com/monsters/17104-mind-flayer) sup
 
 ### References
 
-Monster Manual, pg. 222
+* Monster Manual, pg. 222

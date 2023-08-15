@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/30784/170/1000/1000/638062031423594632.png]]
@@ -39,6 +39,8 @@ actions:
     desc: "The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one."
 ```
 
+### Description
+
 The mightiest of the golems, the iron golem is a massive, towering giant wrought of heavy metal. An iron golem’s shape can be worked into any form, though most are fashioned to look like giant suits of armor. Its fist can destroy creatures with a single blow, and its clanging steps shake the earth beneath its feet. Iron golems wield enormous blades to extend their reach, and all can belch clouds of deadly poison.
 
 An iron golem’s body is smelted with rare tinctures and admixtures. Though other golems bear weaknesses inherent in their materials or the power of the elemental spirit bound within them, iron golems were designed to be nearly invulnerable. Their iron bodies imprison the spirits that drive them, and are susceptible only to weapons imbued with magic or the strength of adamantine.
@@ -51,4 +53,4 @@ _**Constructed Nature.**_ A golem doesn’t require air, food, drink, or sleep.
 
 ### References
 
-https://www.dndbeyond.com/monsters/16935-iron-golem
+* https://www.dndbeyond.com/monsters/16935-iron-golem

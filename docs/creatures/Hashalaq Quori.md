@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/7725/997/1000/1000/637091671304812075.png]]
@@ -62,4 +62,4 @@ _**The Learned of Dal Quor.**_ Hashalaq quori are the loremasters of Dal Quor. 
 
 ### References
 
-Eberron: Rising from the Last War, pg. 305
+* Eberron: Rising from the Last War, pg. 305

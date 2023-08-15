@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/7726/2/1000/1000/637091671682327075.png]]
@@ -68,4 +68,4 @@ Kalaraq quori guide the quori race, and the Devourer of Dreams — the personal 
 
 ### References
 
-Eberron: Rising from the Last War, pg. 306
+* Eberron: Rising from the Last War, pg. 306

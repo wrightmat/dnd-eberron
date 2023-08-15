@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/949/1000/1000/637961800985477888.jpeg]]
@@ -45,5 +45,4 @@ A starlight apparition is different from a ghost. While a ghost is doomed to hau
 ### References
 
 * Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 59
-
 * https://www.dndbeyond.com/monsters/2821204-starlight-apparition

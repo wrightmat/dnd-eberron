@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/forgottenrealms/images/7/78/Flumph.jpg/revision/latest/scale-to-width-down/350?cb=20171010183015]]

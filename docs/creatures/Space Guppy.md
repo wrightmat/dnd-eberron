@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/931/1000/1000/637961800953030328.jpeg]]
@@ -33,4 +33,4 @@ Space guppies are 2- to 3-foot-long, fish-like creatures that glide through Wild
 
 ### References
 
-Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 55
+* Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 55

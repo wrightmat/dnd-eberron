@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster
+ #monster
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/30784/513/1000/1000/638062044708531532.png]]

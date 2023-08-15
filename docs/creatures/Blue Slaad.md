@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://angrygolem-games.com/wp-content/uploads/2021/11/Blue-Slaad.jpg]]
@@ -37,4 +37,6 @@ actions:
     desc: "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) slashing damage."
 ```
 
-https://angrygolem-games.com/monster-manual/letter-b/blue-slaad-5e-stats/
+### References
+
+* https://angrygolem-games.com/monster-manual/letter-b/blue-slaad-5e-stats/

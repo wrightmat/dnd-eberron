@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #underdark 
+ #monster #underdark 
 
 ```statblock
 name: Intellect Devourer
@@ -44,4 +44,4 @@ _**Illithid Creations.**_ Mind flayers breed intellect devourers to serve as ro
 
 ### References
 
-Monster Manual, pg. 191
+* Monster Manual, pg. 191

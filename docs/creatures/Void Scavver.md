@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/965/1000/1000/637961801015741442.jpeg]]
@@ -47,4 +47,4 @@ A scavver has a single large eye in the leading edge of its head. This eye glows
 
 ### References
 
-Spelljammer: Adventures in Space Boo’s Astral Menagerie, pg. 49
+* Spelljammer: Adventures in Space Boo’s Astral Menagerie, pg. 49

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 name: Giant Crayfish
@@ -30,4 +30,4 @@ actions:
 
 ### References
 
-https://www.dndbeyond.com/monsters/22553-giant-crayfish
+* https://www.dndbeyond.com/monsters/22553-giant-crayfish

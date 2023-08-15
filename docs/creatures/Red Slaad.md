@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://angrygolem-games.com/wp-content/uploads/2021/04/red-slaad.jpg]]
@@ -37,4 +37,6 @@ actions:
     desc: "The red slaadi emits a loud croak. All targets within 20 feet must succeed a DC 14 Constitution saving throw or suffer the stunned condition for 1d3 rounds."
 ```
 
-https://angrygolem-games.com/monster-manual/letter-r/red-slaad-5e-stats/
+### References
+
+* https://angrygolem-games.com/monster-manual/letter-r/red-slaad-5e-stats/

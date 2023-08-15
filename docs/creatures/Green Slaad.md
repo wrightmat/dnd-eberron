@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://angrygolem-games.com/wp-content/uploads/2021/11/Green-Slaad.jpg]]
@@ -47,4 +47,6 @@ actions:
     desc: "Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 10 (3d6) fire damage. The fire ignites flammable objects that aren’t being worn or carried."
 ```
 
-https://angrygolem-games.com/monster-manual/letter-g/green-slaad-5e-stats/
+### References
+
+* https://angrygolem-games.com/monster-manual/letter-g/green-slaad-5e-stats/

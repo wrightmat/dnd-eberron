@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 name: Snowflake Ooze
@@ -34,4 +34,3 @@ reactions:
   - name: Split.
     desc: "When a snowflake ooze that is Medium or larger is subjected to bludgeoning damage, it splits into two new oozes if it has at least 10 hit points. Each new ooze has hit points equal to half the original ooze's, rounded down. New oozes are one size smaller than the original ooze."
 ```
-

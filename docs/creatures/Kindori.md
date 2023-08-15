@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/882/1000/1000/637961800857715651.jpeg]]
@@ -40,4 +40,4 @@ Kindori are peaceful creatures but have many natural enemies, including lunar dr
 
 ### References
 
-Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 31
+* Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 31

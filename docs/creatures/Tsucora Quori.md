@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/7726/9/1000/1000/637091672054047965.png]]
@@ -58,4 +58,4 @@ _**Fearmongers.**_ Their ability to manipulate the fears of mortals sees tsucor
 
 ### References
 
-Eberron: Rising from the Last War, pg. 307
+* Eberron: Rising from the Last War, pg. 307

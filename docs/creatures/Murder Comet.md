@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/894/1000/1000/637961800881115372.jpeg]]
@@ -49,4 +49,4 @@ A murder comet’s creator can bind their spirit to the comet. In this form, the
 
 ### References
 
-Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 38
+* Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 38

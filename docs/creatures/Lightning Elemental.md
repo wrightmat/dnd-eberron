@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 name: Lightning Elemental
@@ -32,4 +32,7 @@ actions:
   - name: Stormwave (Recharge 4-6)
     desc: "Each creature in the elemental's space must make a DC 13 Constitution saving throw. On a failed save, a creature takes 15 (3d8 + 2) lightning damage and is paralyzed until the end of its next turn or until it takes damage. On a successful save, the creature takes half as much damage and isn't paralyzed."
 ```
-https://www.dandwiki.com/wiki/Lightning_Elemental_(5e_Creature)
+
+### References
+
+* https://www.dandwiki.com/wiki/Lightning_Elemental_(5e_Creature)

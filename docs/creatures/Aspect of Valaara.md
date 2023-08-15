@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #daelkyr 
+ #monster #daelkyr 
 
 ```statblock
 name: Aspect of Valaara

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 name: Space Dolphin
@@ -37,6 +37,8 @@ bonus_actions:
   - name: Starlight Leap.
     desc: "The dolphin teleports up to 30 feet to an unoccupied space it can see. Immediately before teleporting, the dolphin can choose one creature within 5 feet of it. That creature can teleport with the dolphin, appearing in an unoccupied space within 5 feet of the dolphin's destination space."
 ```
+
+### Description
 
 Much like terrestrial dolphins, Space Dolphins play with ships travelling the currents of the Astral Sea and have even been known to rescue sailors who have fallen overboard. They avoid monstrous and aggressive races. 
 

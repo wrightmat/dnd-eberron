@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster #daelkyr 
 
 ```statblock
 name: Aspect of Orlassk

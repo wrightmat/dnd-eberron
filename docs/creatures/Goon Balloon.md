@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 name: Goon Balloon
@@ -50,4 +50,4 @@ Although they can seem playful and harmless, goon balloons are quite mean-spirit
 
 ### References
 
-Monstrous Compendium Volume One: Spelljammer Creatures, pg. 9
+* Monstrous Compendium Volume One: Spelljammer Creatures, pg. 9

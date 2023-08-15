@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 name: Helmed Horror
@@ -34,6 +34,8 @@ actions:
     desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
 ```
 
+### Description
+
 This construct possesses intelligence, the ability to reason and adjust its tactics, and an unswerving devotion to its maker that persists even after its maker’s demise. Resembling an animated suit of empty plate armor, a helmed horror serves without ambition or emotion.
 
 _**Magical Purpose.**_ Though it takes more magical resources to create a helmed horror than a lesser suit of [animated armor](https://www.dndbeyond.com/monsters/16786-animated-armor), the helmed horror requires less direction and maintenance as it carries out its appointed tasks. A helmed horror follows its orders with complete loyalty, and is intelligent enough to understand the difference between an order’s intent and its exact wording. Unlike many constructs, it seeks to fulfill the former rather than slavishly follow the latter.
@@ -44,4 +46,4 @@ _**Constructed Nature.**_ A helmed horror doesn’t require air, food, drink, o
 
 ### References
 
-Monster Manual, pg. 183
+* Monster Manual, pg. 183

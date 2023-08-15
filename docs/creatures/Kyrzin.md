@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster #daelkyr 
 
 ```statblock
 name: Kyrzin
@@ -62,4 +62,4 @@ Kyrzin, called the Prince of Slime, is the daelkyr lord of slime and ooze. He is
 
 ### References
 
-[https://homebrewery.naturalcrit.com/share/By-Pn-NecUwG](https://homebrewery.naturalcrit.com/share/By-Pn-NecUwG)
+* [https://homebrewery.naturalcrit.com/share/By-Pn-NecUwG](https://homebrewery.naturalcrit.com/share/By-Pn-NecUwG)

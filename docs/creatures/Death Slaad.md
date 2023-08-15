@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://angrygolem-games.com/wp-content/uploads/2021/11/Death-Slaad.jpg]]
@@ -47,4 +47,6 @@ actions:
     desc: "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 7 (2d6) necrotic damage."
 ```
 
-https://angrygolem-games.com/monster-manual/letter-d/death-slaad-5e-stats/
+### References
+
+* https://angrygolem-games.com/monster-manual/letter-d/death-slaad-5e-stats/

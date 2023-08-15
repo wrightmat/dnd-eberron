@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://i0.wp.com/dmdave.com/wp-content/uploads/2018/11/xag-ya-xeg-yi.jpg?fit=800%2C450&ssl=1]]
@@ -40,6 +40,8 @@ actions:
   - name: Radiant Bolt (Recharge 4-6).
     desc: "The xag-ya fires a bolt of radiant energy at one target it can see within 30 feet of it. The target must succeed on a DC 16 Dexterity saving throw or take 9 (1d6 + 6) radiant damage. If the target is a creature or a flammable object, it ignites and burns with radiant fire for 1 minute. Metallic objects hit by the bolt glow white hot for 1 minute as if under the effects of a heat metal spell. The fire can be extinguished with magic that deals cold damage or similar effects or by casting dispel magic or similar spell upon it. Until the fire is extinguished or goes out, the target takes 2 (1d4) radiant damage at the start of each of its turns."
 ```
+
+### Description
 
 Xag-ya, also known as Positive Energons, are sentient energy that has coalesced into an alien form of life. These beings wander the energy plane of Irian.
 

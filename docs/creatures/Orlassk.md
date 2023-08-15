@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster #daelkyr 
 
 ```statblock
 name: Orlassk
@@ -64,4 +64,4 @@ Orlassk is credited with creating the medusas (to their severe objection), basil
 
 ### References
 
-[https://www.dmsguild.com/product/248087/The-Korranberg-Chronicle-Threat-Dispatch](https://www.dmsguild.com/product/248087/The-Korranberg-Chronicle-Threat-Dispatch)
+* [https://www.dmsguild.com/product/248087/The-Korranberg-Chronicle-Threat-Dispatch](https://www.dmsguild.com/product/248087/The-Korranberg-Chronicle-Threat-Dispatch)

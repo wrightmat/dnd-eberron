@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/eberron/images/6/6c/Du%27ulora_quori.png/revision/latest/scale-to-width-down/350?cb=20201118154752]]

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://angrygolem-games.com/wp-content/uploads/2021/11/Gray-Slaad.jpg]]
@@ -47,4 +47,6 @@ actions:
     desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
 ```
 
-https://angrygolem-games.com/monster-manual/letter-g/gray-slaad-5e-stats/
+### References
+
+* https://angrygolem-games.com/monster-manual/letter-g/gray-slaad-5e-stats/

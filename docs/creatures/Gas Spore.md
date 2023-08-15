@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #fungus #underdark
+ #monster #fungus #underdark
 
 ```statblock
 name: Gas Spore
@@ -29,6 +29,8 @@ actions:
     desc: "Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 poison damage, and the creature must succeed on a DC 10 Constitution saving throw or become infected with the disease described in the Death Burst trait."
 ```
 
+### Description
+
 The first gas spores are thought to have been spawned from dead beholders, whose moldering corpses fed a parasitic fungus with aberrant magic. Having long since adapted into a unique plant creature, a gas spore grows quickly and purposefully out of any corpse, creating a malevolent-looking mockery of the most feared denizen of the Underdark.
 
 **_Eye Tyrant’s Form._** A gas spore is a spherical, balloon-like fungus that resembles a beholder from a distance, though its true nature becomes increasingly obvious as one approaches it. The monster possesses a blind central “eye” and rhizome growths sprouting from its upper surface, superficially resembling a beholder’s eyestalks.
@@ -39,4 +41,4 @@ The first gas spores are thought to have been spawned from dead beholders, whose
 
 ### References
 
-Monster Manual, pg. 138
+* Monster Manual, pg. 138

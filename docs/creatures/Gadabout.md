@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 name: Gadabout
@@ -43,4 +43,4 @@ Elves are the only Humanoids to date who know how to grow gadabouts. Since gadab
 
 ### References
 
-Monstrous Compendium Volume One: Spelljammer Creatures, pg. 8
+* Monstrous Compendium Volume One: Spelljammer Creatures, pg. 8

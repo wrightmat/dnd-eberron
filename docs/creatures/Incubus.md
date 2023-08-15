@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/30835/955/1000/1000/638063924845225613.png]]
@@ -40,6 +40,8 @@ actions:
   - name: Etherealness.
     desc: "The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa."
 ```
+
+### Description
 
 [Succubi](https://www.dndbeyond.com/monsters/17027-succubus) and incubi inhabit all of the Lower Planes, and the lascivious dark-winged fiends can be found in service to devils, demons, night hags, rakshasas, and yugoloths. Asmodeus, ruler of the Nine Hells, uses these fiends to tempt mortals to perform evil acts. The demon lord Graz’zt keeps succubi and incubi as advisers and consorts.
 

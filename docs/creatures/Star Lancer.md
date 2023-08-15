@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/25265/562/1000/1000/637861450530101041.jpeg]]
@@ -46,4 +46,4 @@ Githyanki are fond of using star lancers as mounts, riding them across the Astra
 
 ### References
 
-Monstrous Compendium Volume One: Spelljammer Creatures, pg. 12
+* Monstrous Compendium Volume One: Spelljammer Creatures, pg. 12

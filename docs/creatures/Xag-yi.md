@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://i0.wp.com/dmdave.com/wp-content/uploads/2018/11/xag-ya-xeg-yi.jpg?fit=800%2C450&ssl=1]]
@@ -40,6 +40,8 @@ actions:
   - name: Necrotic Bolt (Recharge 4-6).
     desc: "The xag-yi fires a bolt of necrotic energy at one target it can see within 30 feet of it. The target must succeed on a DC 16 Dexterity saving throw or take 9 (1d6 + 6) necrotic damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10."
 ```
+
+### Description
 
 Xag-yi, also known as Negative Energons, are sentient energy that has coalesced into an alien form of life. These beings wander the energy plane of Mabar.
 

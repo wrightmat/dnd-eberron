@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://static.wikia.nocookie.net/forgottenrealms/images/b/b6/Prince_of_Frost_4e.jpg/revision/latest/scale-to-width-down/350?cb=20200329133328]]

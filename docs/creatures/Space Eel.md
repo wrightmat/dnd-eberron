@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 name: Space Eel
@@ -35,4 +35,4 @@ Space eels avoid confrontations with larger creatures unless the eels are starvi
 
 ### References
 
-Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 55
+* Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 55

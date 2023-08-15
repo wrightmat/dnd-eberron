@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/879/1000/1000/637961800852099863.jpeg]]
@@ -44,4 +44,4 @@ A jammer leech damages the hull of the ship to which it is attached and absorbs 
 
 ### References
 
-Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 30
+* Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 30

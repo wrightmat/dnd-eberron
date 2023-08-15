@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster 
+ #monster 
 
 ```statblock
 image: [[https://www.dndbeyond.com/avatars/thumbnails/268/205/1000/1000/636597572553866730.png]]
@@ -45,5 +45,5 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 
 ### References
 
-Mordenkainen Presents: Monsters of the Multiverse, pg. 239
-https://www.dndbeyond.com/monsters/2407570-sword-wraith-commander
+* Mordenkainen Presents: Monsters of the Multiverse, pg. 239
+* https://www.dndbeyond.com/monsters/2407570-sword-wraith-commander

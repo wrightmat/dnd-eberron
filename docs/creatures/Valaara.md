@@ -1,7 +1,7 @@
 ---
 statblock: inline
 ---
-#monster #daelkyr
+ #monster #daelkyr
 
 ```statblock
 name: Valaara
@@ -61,4 +61,4 @@ Valaara is known as the Crawling Queen, the Watcher in the Walls, and the Keeper
 
 ### References
 
-Exploring Eberron, pg. 235
+* Exploring Eberron, pg. 235
