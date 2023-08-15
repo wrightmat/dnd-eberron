@@ -50,8 +50,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
-
+  - roamlinks
+  - tags
 
 extra_javascript:
   - javascripts/mathjax.js
