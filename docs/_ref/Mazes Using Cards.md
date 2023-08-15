@@ -1,4 +1,4 @@
-#mechanic 
+ #mechanic 
 
 Using a deck of cards, we will simulate the act of trying to navigate a winding and disorienting labyrinth all while being pursued by the vile monster tasked with its protection. Created by /u/_Amazing_Wizard.
 

@@ -1,4 +1,4 @@
-#mechanic #reference
+ #mechanic #reference
 
 Generally only one downtime activity can be down per character per day (unless stated that it can be repeated).
 
