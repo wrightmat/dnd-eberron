@@ -11,10 +11,6 @@ The size and number of guest rooms can vary from inn to inn: a small roadside in
 
 Because travelers often carry valuables with them, each inn has a heavy strongbox secured with an arcane lock spell. To make a traveler's stay more enjoyable, perhaps even memorable, House Ghallanda has arranged with House Thuranni and House Phiarlan to employ guild-licensed entertainers at almost every Gold Dragon Inn.
 
-[Drink](Gold%20Dragon%20Inn%200dd89ec759034b71aa57cca9eb44324e/Drink%20ac702da721e943dc8c3b359033644f77.csv)
-
-[Food](Gold%20Dragon%20Inn%200dd89ec759034b71aa57cca9eb44324e/Food%202e7998ba1866411a9e49e90ca5065abe.csv)
-
 **Aundair**
 An exquisite cuisine of small portions, a wide variety of ingredients and sauces. Aundair is known for it’s vinewards and sweets.
 

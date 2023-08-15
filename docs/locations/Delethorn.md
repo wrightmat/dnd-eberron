@@ -19,11 +19,11 @@ This is the town the party starts their adventures in.
 
 **4: Gold Dragon Inn.** Mark of Hospitality and Mark of Healing over the door. This is a smaller branch location that has only a few beds, a small restaurant with a limited menu, and an ancillary store licensed by House Jorasco that sells potions. The whole operation is run by a single halfling with the blessing of both houses. Run by Kelyra Ambereyes.
 
-[Gold Dragon Inn](Gold%20Dragon%20Inn%200dd89ec759034b71aa57cca9eb44324e.md)
+[[Gold Dragon Inn]]
 
 **5: Warehouse.** A newly opened Warehouse/Factory that has the Mayor concerned.
 
-[Explore Warehouse](https://www.notion.so/Explore-Warehouse-8b346ed887c3442d9c2271f55e484003)
+[[1-01. Delethorn Warehouse]]
 
 **6: Boraz’s Bounty.** A local half-orc has claimed the sewers in the name of the Finders Guild, so he can explore them for any treasures. He hasn't fully explored them yet, but has set up shop near the opening of the sewers on the edge of town.
 
