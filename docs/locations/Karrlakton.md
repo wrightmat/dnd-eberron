@@ -1,4 +1,4 @@
-#location #city [[Karrnath]]
+ #location #city [[Karrnath]]
 
 Karrlakton is the second largest city in the nation of Karrnath. It lies just north of the Mournland; only separated by the Cyre River.
 

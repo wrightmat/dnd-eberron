@@ -1,4 +1,4 @@
-#location [[Shardspace]]
+ #location [[Shardspace]]
 
 Eberron and its unique cosmology were created by three great progenitor wyrms. They designed a new cosmic system, made a new planet, and populated it with recreations of the dragons, elves, orcs, and other races of the multiverse. However, they intended that they evolve outside the influence of their respective deities like Corellon, Lolth, Gruumsh, and others.
 

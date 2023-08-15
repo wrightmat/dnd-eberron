@@ -36,4 +36,4 @@ Slaadpoles, born in a bath of blood, are voracious and immature, devouring vermi
 
 ### References
 
-[https://angrygolem-games.com/monster-manual/letter-s/slaadi-5e-stats/](https://angrygolem-games.com/monster-manual/letter-s/slaadi-5e-stats/)
+* [https://angrygolem-games.com/monster-manual/letter-s/slaadi-5e-stats/](https://angrygolem-games.com/monster-manual/letter-s/slaadi-5e-stats/)

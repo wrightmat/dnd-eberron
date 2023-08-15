@@ -1,6 +1,6 @@
-#location [[Shardspace]]
+ #location [[Shardspace]]
 
-![https://wrightmat.github.io/obsidian/img/lharvion.png](https://wrightmat.github.io/obsidian/img/lharvion.png)
+![https://wrightmat.github.io/dnd-eberron/_img/lharvion.png](https://wrightmat.github.io/dnd-eberron/_img/lharvion.png)
 
 ### Universal Properties
 
@@ -10,7 +10,8 @@ To mortal eyes, Xoriat may seem more chaotic than Kythri. However, it’s not de
 
 **Dangerous Revelations**. Whenever a creature finishes a short or long rest, or is reduced to 0 hit points, it must make a DC 14 Charisma saving throw. On a failed save, it’s afflicted with a random form of short-term madness (see chapter 8 of the Dungeon Master’s Guide). If it later fails this saving throw an additional time, its previous madness effect is replaced with a new one.
 
-**Short-Term Madness**
+#### Short-Term Madness
+
 | d100 | Effect (lasts 1d10 minutes) |
 | --- | --- |
 | 01–20 | The character retreats into his or her mind and becomes Paralyzed. The Effect ends if the character takes any damage. |
@@ -28,7 +29,8 @@ To mortal eyes, Xoriat may seem more chaotic than Kythri. However, it’s not de
 
 **Strange Reality**. The things adventurers rely on — gravity, time, their identity itself — aren’t always reliable in Xoriat. When characters enter a new layer, the DM can choose a property from the Properties of Xoriat table. This property could apply the entire time the adventurers are on that layer, or it could change when combat begins, whenever a creature rolls a 1 on a d20, or at any other time the DM chooses. There are no saving throws against these effects, and an effect impacts all creatures in the layer until the DM replaces that property with a new one. In describing a property, don’t just describe the effect, but explain how it manifests. Haste and slow reflect a shift in the local flow of time. When creatures can detect thoughts, they can hear the thoughts of others flowing like music all around them, and if they concentrate on a single creature, they can translate the meaning of the melody. Each effect reflects a strange new property of reality in this layer.
 
-**Properties of Xoriat**
+#### Properties of Xoriat
+
 | d13 | Trait                                                                                                                                                                                                                                                                                                                                                 |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Creatures can walk on any surface — walls, floors, ceilings. If a creature falls, it does so in a random direction, not necessarily toward the floor.                                                                                                                                                                                                   |

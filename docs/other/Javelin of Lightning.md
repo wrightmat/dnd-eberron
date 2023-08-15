@@ -8,4 +8,4 @@ Proficiency with a javelin allows you to add your proficiency bonus to the attac
 
 ### References
 
-* https://www.dndbeyond.com/magic-items/4667-javelin-of-lightning
+* [https://www.dndbeyond.com/magic-items/4667-javelin-of-lightning](https://www.dndbeyond.com/magic-items/4667-javelin-of-lightning)

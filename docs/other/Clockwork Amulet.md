@@ -6,4 +6,4 @@ When you make an attack roll while wearing the amulet, you can forgo rolling the
 
 ### References
 
-* http://dnd5e.wikidot.com/wondrous-items:clockwork-amulet
+* [http://dnd5e.wikidot.com/wondrous-items:clockwork-amulet](http://dnd5e.wikidot.com/wondrous-items:clockwork-amulet)

@@ -49,5 +49,6 @@ Owner covers the Coat of Eyes (initial action, and every hour it remains covered
 > “Together, we have seen all that can be seen.”
 
 Belashyrra has seen enough of the world through the wearer’s eyes, and he wishes to sever the connection before the character grows too powerful.
-When the wearer next gains a level, the eyes that stud the Coat wither, leaving a suit of +2 deathcut leather or +2 deathcut hide. In addition, the wearer gains a permanent +1 bonus to Perception checks but takes a permanent –1 penalty to Insight checks—along with the eerie sensation that Belashyrra is still using his or her eyes to lsee the world.
+When the wearer next gains a level, the eyes that stud the Coat wither, leaving a suit of +2 deathcut leather or +2 deathcut hide. In addition, the wearer gains a permanent +1 bonus to Perception checks but takes a permanent –1 penalty to Insight checks — along with the eerie sensation that Belashyrra is still using his or her eyes to lsee the world.
+
 If the Coat of Eyes moved on because it was unsatisfied with the user, the armor crumbles into worthless dust.

@@ -1,8 +1,9 @@
-#location #district [[Sharn]]
+ #location #district [[Sharn]]
 
 Central Plateau is the heart of Sharn. Its top levels include the seat of the city’s government and its bustling finance districts. Its middle levels host the enclaves of the dragonmarked houses (which some describe as the real government of the city) and embassies of the other nations of Khorvaire. Its location makes its residential neighborhoods highly desirable and its marketplace perhaps the busiest in the city.
 
-### **Lower Central Plateau**
+### Lower Central Plateau
+
 Character: Artistic and eccentric downtown
 
 The Lower Central ward seems to exist in blissful ignorance of the power struggles raging above it. A hotbed of cutting-edge artistic expression and unusual ideologies, Lower Central serves as a counter-cultural contrast to Sharn’s busy downtown.

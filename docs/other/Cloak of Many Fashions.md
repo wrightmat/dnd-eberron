@@ -4,4 +4,4 @@ While wearing this cloak, you can use a bonus action to change the style, color,
 
 ### References
 
-* https://www.dndbeyond.com/magic-items/27041-cloak-of-many-fashions
+* [https://www.dndbeyond.com/magic-items/27041-cloak-of-many-fashions](https://www.dndbeyond.com/magic-items/27041-cloak-of-many-fashions)

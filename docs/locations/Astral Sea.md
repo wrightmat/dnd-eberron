@@ -2,7 +2,7 @@
 
 ```leaflet
 id: astral-map
-image: https://wrightmat.github.io/obsidian/img/astral_sea_map.png
+image: https://wrightmat.github.io/dnd-eberron/_img/astral_sea_map.png
 height: 500px
 lat: 50
 long: 85

@@ -1,4 +1,4 @@
-#location #district [[Sharn]]
+ #location #district [[Sharn]]
 
 Character: Clifftop tombs and shrines for the dead.
 

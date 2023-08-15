@@ -1,6 +1,6 @@
-#location [[Shardspace]]
+ #location [[Shardspace]]
 
-![https://wrightmat.github.io/obsidian/img/olarune.png](https://wrightmat.github.io/obsidian/img/olarune.png) 
+![https://wrightmat.github.io/dnd-eberron/_img/olarune.png](https://wrightmat.github.io/dnd-eberron/_img/olarune.png) 
 
 ### Universal Properties
 

@@ -1,6 +1,6 @@
-#location [[Shardspace]]
+ #location [[Shardspace]]
 
-![https://wrightmat.github.io/obsidian/img/nymm.png](https://wrightmat.github.io/obsidian/img/nymm.png)
+![https://wrightmat.github.io/dnd-eberron/_img/nymm.png](https://wrightmat.github.io/dnd-eberron/_img/nymm.png)
 
 ### Universal Properties
 

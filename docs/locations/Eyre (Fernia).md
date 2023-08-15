@@ -1,6 +1,6 @@
-#location [[Shardspace]]
+ #location [[Shardspace]]
 
-![https://wrightmat.github.io/obsidian/img/eyre.png](https://wrightmat.github.io/obsidian/img/eyre.png)
+![https://wrightmat.github.io/dnd-eberron/_img/eyre.png](https://wrightmat.github.io/dnd-eberron/_img/eyre.png)
 
 ### Universal Properties
 
@@ -16,7 +16,7 @@ The sweltering heat of Fernia can be deadly to unprotected creatures, and it bur
 
 **Standard Time**. Time passes at the same pace as on the Material Plane, and is consistent across its layers.
 
-### **Locations**
+### Locations
 
 **The City of Brass**
 

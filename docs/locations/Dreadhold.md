@@ -1,4 +1,4 @@
-#location [[Lhazaar Principalities]]
+ #location [[Lhazaar Principalities]]
 
 Dreadhold is a prison island off the northern coast of Cape Far in the Lhazaar Principalities.
 

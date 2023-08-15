@@ -9,6 +9,7 @@ Recently, dragonmarks have formed on the so-called lesser races. Although the dr
 In canon, it is unknown what the Draconic Prophecy's nature is. Some argue it is a revelation of the end of the world, others of a new beginning. Whatever it means, it is obvious that the prophecy points toward the transformation of the world as we know it.
 
 #### Prophesy's True Nature
+
 In this version of Eberron, the Draconic Prophesy documents the history and future of the many different version of Eberron.
 
 If someone were to decipher the historical meaning of the Prophesy, they would learn all about the previous age of Eberron that was focuses on the Gith. Some dragons, such as Aleithilithos, are already familiar with this history and can therefore fully understand that part of the Prophesy.

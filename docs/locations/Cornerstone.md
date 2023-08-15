@@ -1,4 +1,4 @@
-#location [[Zarantryr (Kythri)]]
+ #location [[Zarantryr (Kythri)]]
 
 Cornerstone is the largest of the slaad cities. Its architectural style and precise layout are constantly changing, but it’s always a sprawling city that houses hundreds of thousands of slaadi. Each time the players travel to Cornerstone, roll on the Slaad Cultures table to determine which slaadi are in charge currently. The attitude of slaadi toward adventurers depends on the active culture. Regardless, Cornerstone is the best place to acquire Kythrian artifacts (see [[Trinkets of the Planes]]) or magical services.
 

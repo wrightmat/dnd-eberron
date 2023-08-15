@@ -1,4 +1,4 @@
-#location [[Astral Sea]]
+ #location [[Astral Sea]]
 
 A trade compound in the heart of a mountain, Citadel Mercane sees traffic from all sorts of planar peoples.
 

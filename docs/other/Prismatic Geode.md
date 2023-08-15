@@ -12,4 +12,4 @@ This split geode shimmers with a rainbow of colors. Most attuned to the arcane f
 
 **Elemental Adaptation**. When you take damage from a source you are resistant to through the geode, you can expend your reaction and 5 charges to become immune to that damage type until the start of your next turn. If you do so, roll a d20. On a 1, the geode shatters.
 
-![https://wrightmat.github.io/obsidian/img/prismatic-geode.png](https://wrightmat.github.io/obsidian/img/prismatic-geode.png)
+![https://wrightmat.github.io/dnd-eberron/_img/prismatic-geode.png](https://wrightmat.github.io/dnd-eberron/_img/prismatic-geode.png)

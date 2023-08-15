@@ -1,4 +1,4 @@
-#location [[Eyre (Fernia)]]
+ #location [[Eyre (Fernia)]]
 
 The City of Brass is the epicenter of efreet culture and was the place from where the Sultan of the Efreet rules.
 

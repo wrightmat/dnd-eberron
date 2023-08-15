@@ -1,7 +1,7 @@
 ---
 renown: 1
 ---
-#location #town [[Talenta Plains]]
+ #location #town [[Talenta Plains]]
 
 Gatherhold is a large town, and the largest settlement, in the Talenta Plains. Built into rocky outcroppings on the eastern shore of Lake Cyre, it is shared by all the tribes of halflings as a place to trade, hold celebrations and festivals, and have tribal councils. House Ghallanda has its headquarters there and maintains the town. House Orien maintains a lightning rail line that passes through the town and used to continue on into Metrol, before the Day of Mourning.
 

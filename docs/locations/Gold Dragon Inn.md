@@ -1,4 +1,4 @@
-#location 
+ #location 
 
 Every city, most towns, and even some villages have a Gold Dragon Inn, and a large city might boast several. Every major road through the countryside has Gold Dragon Inns along much of its length, spaced roughly a day's travel apart. Sometimes an inn is the nucleus of a small community whose industry is focused on providing for the needs of travelers.
 

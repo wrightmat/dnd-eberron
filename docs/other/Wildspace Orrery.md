@@ -6,4 +6,4 @@ Inside a Wildspace system, this portable arcane device automatically tracks the 
 
 ### References
 
-* https://www.dndbeyond.com/magic-items/5439869-wildspace-orrery
+* [https://www.dndbeyond.com/magic-items/5439869-wildspace-orrery](https://www.dndbeyond.com/magic-items/5439869-wildspace-orrery)

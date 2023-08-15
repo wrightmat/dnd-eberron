@@ -1,6 +1,6 @@
  #location [[Shardspace]]
 
-![https://wrightmat.github.io/obsidian/img/barrakas.png](https://wrightmat.github.io/obsidian/img/barrakas.png)
+![https://wrightmat.github.io/dnd-eberron/_img/barrakas.png](https://wrightmat.github.io/dnd-eberron/_img/barrakas.png)
 
 ### Universal Properties
 

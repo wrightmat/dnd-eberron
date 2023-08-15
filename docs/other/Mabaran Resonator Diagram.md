@@ -6,4 +6,4 @@ Additionally, a Mabaran resonator can project a 2 mile radius sphere of magic da
 
 This is a diagram for how to build one such eldritch machine.
 
-![https://wrightmat.github.io/obsidian/img/mabaran_resonator_schematic.jpg](https://wrightmat.github.io/obsidian/img/mabaran_resonator_schematic.jpg)
+![https://wrightmat.github.io/dnd-eberron/_img/mabaran_resonator_schematic.jpg](https://wrightmat.github.io/dnd-eberron/_img/mabaran_resonator_schematic.jpg)

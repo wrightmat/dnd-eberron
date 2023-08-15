@@ -1,4 +1,4 @@
-#location #capital [[Karrnath]]
+ #location #capital [[Karrnath]]
 
 Korth is the capital and the largest city of Karrnath. Nestled between the Karrn River to the north and the Nightwood to the east, Korth has been Karrnath's capital since before the empire of Galifar.
 
