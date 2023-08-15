@@ -1,4 +1,4 @@
-#item 
+ #item 
 
 Price:: 400 gp
 Weight:: 450 lbs

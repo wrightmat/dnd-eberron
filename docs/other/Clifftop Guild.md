@@ -1,4 +1,4 @@
-#organization #guild [[Prism]] [[Velgram]] [[Logo Tharashk]]
+ #organization #guild [[Prism]] [[Velgram]] [[Logo Tharashk]]
 
 ![https://wrightmat.github.io/obsidian/img/clifftop.png](https://wrightmat.github.io/obsidian/img/clifftop.png)
 

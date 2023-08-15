@@ -1,4 +1,4 @@
-#organization #government
+ #organization #government
 
 The City Council, sometimes called the Council of Sharn, is the governing body of the city of Sharn. The council establishes laws, determines how to use taxes and other resources, and appoints high officers of the city, like the Lord Mayor. It is made up of seventeen councilors, each representing one or more of the city wards.
 
