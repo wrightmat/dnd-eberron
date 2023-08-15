@@ -1,4 +1,4 @@
-#location #continent [[Eberron]]
+ #location #continent [[Eberron]]
 
 The former home of the Giants, and current home of the Drow. Mostly extreme biomes such as lust jungle, arid desert, and expansive tundra. The northern section of the continent contains the majority of settlements.
 

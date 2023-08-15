@@ -1,4 +1,4 @@
-#location [[Astral Sea]]
+ #location [[Astral Sea]]
 
 The Ruby Palace was the divine realm of Sardior, Master of the Gem Dragons.
 

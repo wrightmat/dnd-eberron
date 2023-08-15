@@ -1,4 +1,4 @@
-#location #region [[Eberron]]
+ #location #region [[Eberron]]
 
 The Thunder Sea lies between Khorvaire, Xen’drik, and Aerenal. It takes its name from the unnatural storms that rage over some areas, never-ending tempests fueled by the elemental power of Lamannia. As dangerous as these waters are, this is a crucial crossroads for trade, and there’s a constant stream of ships flowing between Sharn, Stormreach, and Pylas Talaer. It’s here that the sahuagin first arose, the seat of their greatest civilization.
 

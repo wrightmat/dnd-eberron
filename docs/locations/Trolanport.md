@@ -1,7 +1,7 @@
 ---
 renown: 4
 ---
-#location #capital [[Zilargo]]
+ #location #capital [[Zilargo]]
 
 > You come upon a city of canals, flooded thoroughfares, bridges, and docks. It's clear from the sheer number of partially completed ships lining the docks all along the coast that ship building is a major industry here. There are also a number of gnome businesses, including alchemical shops, dragonshard shops, and other industry centered around elemental binding. Houses Kundarak, Sivis, and Cannith all maintain enclaves here.
 

@@ -1,8 +1,8 @@
-#location [[Astral Sea]]
+ #location [[Astral Sea]]
 
 ```leaflet
 id: shardspace-map
-image: https://wrightmat.github.io/obsidian/img/Shardspace.png
+image: https://wrightmat.github.io/dnd-eberron/_img/Shardspace.png
 height: 500px
 lat: 50
 long: 30

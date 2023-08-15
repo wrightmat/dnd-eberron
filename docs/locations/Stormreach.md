@@ -1,7 +1,7 @@
 ---
 renown: 1
 ---
-#location #city [[Xen’drik]]
+ #location #city [[Xen’drik]]
 
 ![https://static.wikia.nocookie.net/eberron/images/f/f3/Stormreach_map.jpg](https://static.wikia.nocookie.net/eberron/images/f/f3/Stormreach_map.jpg)
 

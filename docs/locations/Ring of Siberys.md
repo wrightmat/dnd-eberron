@@ -1,4 +1,4 @@
-#location [[Shardspace]]
+ #location [[Shardspace]]
 
 The closest celestial object is the Ring of Siberys, a brilliant equatorial band of light that dominates the sky. The entire ring isn’t made up of pure dragonshards, but the crystals are embedded in an inert stone-like substrate that is said to be the petrified flesh of an ancient cosmic dragon. The dragonshards glow with a bright golden light that negates the need for artificial light anywhere near the Ring.
 

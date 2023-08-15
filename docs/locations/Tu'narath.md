@@ -1,4 +1,4 @@
-#location [[Ring of Siberys]]
+ #location [[Ring of Siberys]]
 
 Tu'narath is a gith city in the Astral Plane that was built upon the Ring of Siberys itself. When Aleithilithos the Amethyst Gem Dragon led the original gith away from their Eberron, as it was being remade by the legions of Xoriat, many of them settled the first suitable area they found and remained with their savior dragon in a newly built city.
 

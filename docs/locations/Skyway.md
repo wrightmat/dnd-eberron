@@ -1,4 +1,4 @@
-#location #district [[Sharn]]
+ #location #district [[Sharn]]
 
 Character: Floating high above the tallest towers, Skyway is a refuge from the bustling crowds for the fabulously wealthy.
 

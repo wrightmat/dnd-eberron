@@ -1,7 +1,7 @@
 ---
 renown: 1
 ---
-#location #city [[Breland]]
+ #location #city [[Breland]]
 
 ```leaflet
 id: sharn-map

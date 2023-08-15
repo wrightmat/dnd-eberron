@@ -1,4 +1,4 @@
-#location #city [[Karrnath]]
+ #location #city [[Karrnath]]
 
 Rekkenmark is a large city in Karrnath standing on Scions Sound across the water from Thaliost.
 

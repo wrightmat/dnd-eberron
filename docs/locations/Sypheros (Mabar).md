@@ -1,6 +1,6 @@
-#location [[Shardspace]]
+ #location [[Shardspace]]
 
-![https://wrightmat.github.io/obsidian/img/sypheros.png](https://wrightmat.github.io/obsidian/img/sypheros.png)
+![https://wrightmat.github.io/dnd-eberron/_img/sypheros.png](https://wrightmat.github.io/dnd-eberron/_img/sypheros.png)
 
 ### Universal Properties
 

@@ -1,4 +1,4 @@
-#location [[Astral Sea]]
+ #location [[Astral Sea]]
 
 Bral is a city built on an asteroid. Its inhabitants, who hail from many worlds, typically refer to Bral as the Rock. There is no other place quite like it in the Astral Sea.
 

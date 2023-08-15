@@ -1,4 +1,4 @@
-#location #city [[Zilargo]]
+ #location #city [[Zilargo]]
 
 The smallest of the the three cities of Zilargo, Zolanberg is best known for its mines. While not as rich as the entire expanse of the Mror Holds, the mines of Zolanberg are a strategic asset to the nation. The mines come with plenty of trouble, not just from the environmental impact of mining but also the native kobolds that live in the Seawall Mountains. Zolanberg ties into Trolanport's Elemental Binding trade by providing the Khyber shards it uses.
 

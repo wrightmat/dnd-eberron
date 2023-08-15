@@ -15,7 +15,7 @@ There is a medium sized Temple of the Silver Flame run by a male Templar named A
 
 There’s also a smaller Temple of the Sovereign Host run by a male Cleric named Jabari Gluv.
 
-**Commercial District
+#### Commercial District
 
 A jewelry shop called The Bronze Amulet run by a male Dwarf name Kellark, with dirt/gem grab bags that you run through water (like prospecting) - sold for 50g or 30g when on sale.
 
@@ -23,19 +23,21 @@ An armor shop called The Ironmonger, run by a human woman from House Cannith nam
 
 A small bookstore called Solutions and Answers that’s located in the very back of the district, hidden behind the other larger buildings, and run by a Gnome male named Almorn. He found a tome called the “The Book of Artifice: A Beginner’s Guide to Making Magical Marvels” after Bystan inquired on their last visit.
 
-**Zil Quarter**
+#### Zil Quarter
 
 A large building in the front of the district, called the Speaking Hub, contains a number of dragonmarked Gnomes working a number of messaging stations around the perimeter.
 
 A smaller building in the back of the district, called Bound and Determined, houses two gnomes specializing in Elemental Binding named Sincryn (male) and Lorixi (female).
 
-**Gold Dragon Inn**
+#### Gold Dragon Inn
 
-**Cannith Factory District**
+[[Gold Dragon Inn]]
 
-**Farmarket**
+#### Cannith Factory District
 
-**Journey’s Home**
+#### Farmarket
+
+#### Journey’s Home
 
 > A large desk takes up the majority of the room, with two people standing behind separate signs of “Courier’s Guild” and “Transportation Guild”. An all-glass door behind the Transportation side of the desk reveals a well-apportioned office of Kwanti d'Orien (head of House Orien) who is currently away. Standing behind that side of the desk is a human woman with a nametag that reads “Hazel”. As you take this all in, an older human male hurries into the room and settles in behind the desk on the “Courier’s” side. He addresses the group - “You, Templar, you might be interested in a letter I just received”.
 
@@ -43,4 +45,6 @@ Via the letter that Rikard d’Orien has just received, the Church of the Silver
 
 Hazel can arrange for transportation to Flamekeep via horse. Since the party has no money and little, time she can be persuaded (DC 12 Persuasion) to set up a “tab” with House Orien that could be paid back later.
 
-[https://www.reddit.com/r/Eberron/comments/ssik46/any_official_map_for_passage/](https://www.reddit.com/r/Eberron/comments/ssik46/any_official_map_for_passage/)
+### References
+
+* [https://www.reddit.com/r/Eberron/comments/ssik46/any_official_map_for_passage/](https://www.reddit.com/r/Eberron/comments/ssik46/any_official_map_for_passage/)

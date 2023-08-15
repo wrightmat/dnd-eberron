@@ -1,4 +1,4 @@
-#location #village [[Q’barra]]
+ #location #village [[Q’barra]]
 
 Refugees of the Last War have found themselves in a region known as Hope located in the southwest of Q'barra. Here, Elder Nevillom, a veteran of the Last War, acts as nominal leader over the community of refugees. Wyrmwatch is the most established city of this area, having existed for about three years.
 
@@ -6,7 +6,7 @@ With the cessation of the war after the Day of Mourning, Hope saw a significant 
 
 Wyrmwatch is led by Elder Wedon Nevillom, a veteran of the Last War and a devout cleric of the Church of the Silver Flame. Nevillom's experiences in the Last War and his energetic preaching have made him an ideal leader. However, his view of the Silver Flame is a puritanical view, and he continues to preach beliefs that most clerics of the Silver Flame have abandoned.
 
-**Locations**
+### Locations
 
 **The Wayfinderers’ Respite Saloon.** The Respite is uncannily successful in catering to the town’s exact needs - the staff and family owners are universally loved, and there are vice and companionship available to everyone’s taste. The reason for this is that the bar is secretly run by a small clan of changelings that have built up a repertoire of faces to suit Wyrmwatch’s needs. Any member of the clan could be wearing any of the saloon’s faces on any given night.
 
