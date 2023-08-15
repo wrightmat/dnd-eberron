@@ -1,4 +1,4 @@
-#srd
+ #srd
 
 Some magic items possess sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-aware thanks to the magic used to create it. In any case, the item behaves like a character, complete with personality quirks, ideals, bonds, and sometimes flaws. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
 
@@ -19,6 +19,7 @@ A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can cho
 A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table.
 
 **Table- Sentient Magic Items: Communication**
+
 | d100   | Communication                                                                                                                                                      |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01-60  | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                                             |
@@ -31,6 +32,7 @@ A sentient item has some ability to communicate, either by sharing its emotions,
 With sentience comes awareness. A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the following table.
 
 **Table- Sentient Magic Items: Senses**
+
 | d4 | Senses                                     |
 |----|--------------------------------------------|
 | 1  | Hearing and normal vision out to 30 feet.  |
@@ -44,6 +46,7 @@ With sentience comes awareness. A sentient item can perceive its surroundings ou
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
 **Table- Sentient Magic Items: Alignment**
+
 | d100   | Alignment       |
 |--------|-----------------|
 | 01-15  | Lawful good     |
@@ -62,6 +65,7 @@ A sentient magic item has an alignment. Its creator or nature might suggest an a
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You can pick a special purpose or roll on the following table.
 
 **Table- Sentient Magic Items: Special Purpose**
+
 | d10 | Purpose                                                                                                                                |
 |-----|----------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Aligned: The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)              |

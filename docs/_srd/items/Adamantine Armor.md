@@ -1,4 +1,4 @@
-#srd #item #armor #uncommon
+ #srd #item #armor #uncommon
 
 *Armor (medium or heavy, but not hide), uncommon*
 

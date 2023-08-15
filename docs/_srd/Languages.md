@@ -1,4 +1,4 @@
-#srd
+ #srd
 
 Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
 
@@ -7,6 +7,7 @@ Choose your languages from the Standard Languages table, or choose one that is c
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
 **Table- Standard Languages**
+
 | Language | Typical Speakers | Script   |
 |----------|------------------|----------|
 | Common   | Humans           | Common   |
@@ -17,9 +18,9 @@ Some of these languages are actually families of languages with many dialects. F
 | Goblin   | Goblinoids       | Dwarvish |
 | Halfling | Halflings        | Common   |
 | Orc      | Orcs             | Dwarvish |
-|          |                  |          |
 
 **Table- Exotic Languages**
+
 | Language    | Typical Speakers    | Script    |
 |-------------|---------------------|-----------|
 | Abyssal     | Demons              | Infernal  |
@@ -30,4 +31,3 @@ Some of these languages are actually families of languages with many dialects. F
 | Primordial  | Elementals          | Dwarvish  |
 | Sylvan      | Fey creatures       | Elvish    |
 | Undercommon | Underworld traders  | Elvish    |
-|             |                     |           |

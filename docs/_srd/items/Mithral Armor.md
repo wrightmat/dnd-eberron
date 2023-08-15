@@ -1,4 +1,4 @@
-#item[[Magic Items]]
+ #item[[Magic Items]]
 
 *Armor (medium or heavy, but not hide), uncommon*
 

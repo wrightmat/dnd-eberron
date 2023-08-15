@@ -1,4 +1,4 @@
-# Rope of Climbing
+ #item [[Magic Items]]
 
 *Wondrous item, uncommon*
 
@@ -7,6 +7,3 @@ This 60-foot length of silk rope weighs 3 pounds and can hold up to 3,000 pounds
 If you tell the rope to knot, large knots appear at 1-foot intervals along the rope. While knotted, the rope shortens to a 50-foot length and grants advantage on checks made to climb it.
 
 The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
-
-
-[[Magic Items]]

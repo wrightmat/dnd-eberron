@@ -1,4 +1,4 @@
-# Ring of Resistance
+ #item [[Magic Items]]
 
 *Ring, rare (requires attunement)*
 
@@ -18,7 +18,3 @@ You have resistance to one damage type while wearing this ring. The gem in the r
 | 8   | Psychic     | Jade       |
 | 9   | Radiant     | Topaz      |
 | 10  | Thunder     | Spinel     |
-|     |             |            |
-
-
-[[Magic Items]]

@@ -1,4 +1,4 @@
-#item[[Magic Items]]
+ #item[[Magic Items]]
 
 *Wondrous item, rare (silver or brass), very rare (bronze), or legendary (iron)*
 

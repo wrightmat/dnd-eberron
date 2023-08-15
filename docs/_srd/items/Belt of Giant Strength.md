@@ -1,4 +1,4 @@
-#srd #item #wondrous #rare #very-rare #legendary #attunement 
+ #srd #item #wondrous #rare #very-rare #legendary #attunement 
 
 *Wondrous item, rarity varies (requires attunement)*
 

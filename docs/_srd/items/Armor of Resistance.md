@@ -1,4 +1,4 @@
-#srd #item #armor #rare #attunement 
+ #srd #item #armor #rare #attunement 
 
 *Armor (light, medium, or heavy), rare (requires attunement)*
 

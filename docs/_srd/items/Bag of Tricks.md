@@ -1,4 +1,4 @@
-#srd #item #wondrous #uncommon 
+ #srd #item #wondrous #uncommon 
 
 *Wondrous item, uncommon*
 

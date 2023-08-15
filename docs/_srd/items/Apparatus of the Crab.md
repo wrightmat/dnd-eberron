@@ -1,4 +1,4 @@
-#srd #item #wondrous #legendary
+ #srd #item #wondrous #legendary
 
 *Wondrous item, legendary*
 

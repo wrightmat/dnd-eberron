@@ -1,4 +1,4 @@
-#srd #item #weapon #uncommon #rare #very-rare
+ #srd #item #weapon #uncommon #rare #very-rare
 
 *Weapon (any ammunition), uncommon (+1), rare (+2), or very rare (+3)*
 

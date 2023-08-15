@@ -1,4 +1,4 @@
-#srd
+ #srd
 
 The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect-such as the highest bonus-from those castings applies while their durations overlap.
 

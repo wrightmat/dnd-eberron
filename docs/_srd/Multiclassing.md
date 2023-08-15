@@ -1,4 +1,4 @@
-#srd
+ #srd
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
 
@@ -11,6 +11,7 @@ As you advance in levels, you might primarily remain a member of your original c
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher- than-average ability scores.
 
 **Table- Multiclassing Prerequisites**
+
 | Class     | Ability Score Min.          |
 |-----------|-----------------------------|
 | Barbarian | Strength 13                 |
@@ -25,7 +26,6 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 | Sorcerer  | Charisma 13                 |
 | Warlock   | Charisma 13                 |
 | Wizard    | Intelligence 13             |
-|           |                             |
 
 ## Experience Points
 
@@ -46,6 +46,7 @@ Your proficiency bonus is always based on your total character level, as shown i
 When you gain your first level in a class other than your initial class, you gain only some of new class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
 **Table- Multiclassing Proficiencies**
+
 | Class     | Proficiencies Gained                                                                                       |
 |-----------|------------------------------------------------------------------------------------------------------------|
 | Barbarian | Shields, simple weapons, martial weapons                                                                   |
@@ -60,4 +61,3 @@ When you gain your first level in a class other than your initial class, you gai
 | Sorcerer  | -                                                                                                          |
 | Warlock   | Light armor, simple weapons                                                                                |
 | Wizard    | -                                                                                                          |
-|           |                                                                                                            |

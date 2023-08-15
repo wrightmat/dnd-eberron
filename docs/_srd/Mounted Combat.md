@@ -1,4 +1,4 @@
-#srd
+ #srd
 
 A knight charging into battle on a warhorse, a wizard casting spells from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
 

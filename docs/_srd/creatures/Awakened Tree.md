@@ -1,4 +1,4 @@
-#srd #creature [[Creatures]]
+ #srd #creature [[Creatures]]
 
 *Huge plant, unaligned*
 

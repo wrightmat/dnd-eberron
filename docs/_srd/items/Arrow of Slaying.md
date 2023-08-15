@@ -1,4 +1,4 @@
-#srd #item #weapon #very-rare 
+ #srd #item #weapon #very-rare 
 
 *Weapon (arrow), very rare*
 

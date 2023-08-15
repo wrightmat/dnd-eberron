@@ -1,4 +1,4 @@
-#item[[Magic Items]]
+ #item[[Magic Items]]
 
 *Wondrous item, rare (requires attunement by a cleric, druid, or paladin)*
 

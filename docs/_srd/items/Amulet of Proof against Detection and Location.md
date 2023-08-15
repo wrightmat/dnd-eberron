@@ -1,4 +1,4 @@
-#srd #item #wondrous #uncommon #attunement 
+ #srd #item #wondrous #uncommon #attunement 
 
 *Wondrous item, uncommon (requires attunement)*
 

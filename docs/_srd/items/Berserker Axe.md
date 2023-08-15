@@ -1,4 +1,4 @@
-#item #weapon #rare #attunement 
+ #item #weapon #rare #attunement 
 
 *Weapon (any axe), rare (requires attunement)*
 

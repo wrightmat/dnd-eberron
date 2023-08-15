@@ -1,4 +1,4 @@
-#srd
+ #srd
 
 An ability check tests a character's or monster's innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results.
 
@@ -7,6 +7,7 @@ For every ability check, the GM decides which of the six abilities is relevant t
 The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
 **Table- Difficulty Classes**
+
 | Task Difficulty   | DC |
 |-------------------|----|
 | Very easy         | 5  |

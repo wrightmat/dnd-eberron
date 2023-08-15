@@ -1,4 +1,4 @@
-#item[[Magic Items]]
+ #item[[Magic Items]]
 
 *Wondrous item, uncommon (requires attunement by a spellcaster)*
 

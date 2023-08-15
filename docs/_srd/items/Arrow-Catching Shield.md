@@ -1,4 +1,4 @@
-#srd #item #armor #rare #attunement 
+ #srd #item #armor #rare #attunement 
 
 *Armor (shield), rare (requires attunement)*
 

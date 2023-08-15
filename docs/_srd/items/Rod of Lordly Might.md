@@ -1,4 +1,4 @@
-# Rod of Lordly Might
+ #item [[Magic Items]]
 
 *Rod, legendary (requires attunement)*
 
@@ -23,6 +23,3 @@ If you press **button 6**, the rod assumes or remains in its normal form and ind
 ***Paralyze***. When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
 
 ***Terrify***. While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is frightened of you for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
-
-
-[[Magic Items]]

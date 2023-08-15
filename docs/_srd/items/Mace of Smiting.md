@@ -1,4 +1,4 @@
-#item[[Magic Items]]
+ #item[[Magic Items]]
 
 *Weapon (mace), rare*
 

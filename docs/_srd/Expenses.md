@@ -1,4 +1,4 @@
-#srd
+ #srd
 
 When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
 
@@ -11,6 +11,7 @@ At the start of each week or month (your choice), choose a lifestyle from the Ex
 Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
 
 **Table- Lifestyle Expenses**
+
 | Lifestyle    | Price/Day     |
 |--------------|---------------|
 | Wretched     | -             |

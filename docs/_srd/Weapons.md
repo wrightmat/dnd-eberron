@@ -1,4 +1,4 @@
-#srd
+ #srd
 
 Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
@@ -61,6 +61,7 @@ Weapons with special rules are described here.
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
 **Table- Weapons**
+
 | Name                       | Cost  | Damage          | Weight  | Properties                                             |
 |----------------------------|-------|-----------------|---------|--------------------------------------------------------|
 | **Simple Melee Weapons**   |       |                 |         |                                                        |
@@ -104,4 +105,3 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | Crossbow, heavy            | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed |
 | Longbow                    | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          |
 | Net                        | 1 gp  | -               | 3 lb.   | Special, thrown (range 5/15)                           |
-|                            |       |                 |         |                                                        |

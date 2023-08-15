@@ -1,4 +1,4 @@
-#srd
+ #srd
 
 A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal's speed and base carrying capacity.
 
@@ -15,6 +15,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 ***Rowed Vessels***. Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
 **Table- Mounts and Other Animals**
+
 | Item           | Cost   | Speed  | Carrying Capacity |
 |----------------|--------|--------|-------------------|
 | Camel          | 50 gp  | 50 ft. | 480 lb.           |
@@ -25,9 +26,9 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Mastiff        | 25 gp  | 40 ft. | 195 lb.           |
 | Pony           | 30 gp  | 40 ft. | 225 lb.           |
 | Warhorse       | 400 gp | 60 ft. | 540 lb.           |
-|                |        |        |                   |
 
 **Table- Tack, Harness, and Drawn Vehicles**
+
 | Item               | Cost   | Weight  |
 |--------------------|--------|---------|
 | Barding            | ×4     | ×2      |
@@ -45,9 +46,9 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Sled               | 20 gp  | 300 lb. |
 | Stabling (per day) | 5 sp   | -       |
 | Wagon              | 35 gp  | 400 lb. |
-|                    |        |         |
 
 **Table- Waterborne Vehicles**
+
 | Item         | Cost      | Speed  |
 |--------------|-----------|--------|
 | Galley       | 30,000 gp | 4 mph  |
@@ -56,4 +57,3 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Rowboat      | 50 gp     | 1½ mph |
 | Sailing ship | 10,000 gp | 2 mph  |
 | Warship      | 25,000 gp | 2½ mph |
-|              |           |        |

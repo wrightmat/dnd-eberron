@@ -1,4 +1,4 @@
-# Staff of the Magi
+#item 
 
 *Staff, legendary (requires attunement by a sorcerer, warlock, or wizard)*
 

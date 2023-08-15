@@ -1,4 +1,4 @@
-#srd
+ #srd
 
 The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of historical religions from our world's ancient times. They include deities that are most appropriate for use in a game, divorced from their historical context in the real world and united into pantheons that serve the needs of the game.
 
@@ -9,6 +9,7 @@ It's said that something wild lurks in the heart of every soul, a space that thr
 The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
 **Table- Celtic Deities**
+
 | Deity                                             | Alignment | Suggested Domains | Symbol                             |
 |---------------------------------------------------|-----------|-------------------|------------------------------------|
 | The Daghdha, god of weather and crops             | CG        | Nature, Trickery  | Bubbling cauldron or shield        |
@@ -32,6 +33,7 @@ The Celtic gods are as often served by druids as by clerics, for they are closel
 The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
 
 **Table- Greek Deities**
+
 | Deity                                      | Alignment | Suggested Domains      | Symbol                                |
 |--------------------------------------------|-----------|------------------------|---------------------------------------|
 | Zeus, god of the sky, ruler of the gods    | N         | Tempest                | Fist full of lightning bolts          |
@@ -62,6 +64,7 @@ These gods are a young dynasty of an ancient divine family, heirs to the rulersh
 The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
 
 **Table- Egyptian Deities**
+
 | Deity                                          | Alignment | Suggested Domains        | Symbol                               |
 |------------------------------------------------|-----------|--------------------------|--------------------------------------|
 | Re-Horakhty, god of the sun, ruler of the gods | LG        | Life, Light              | Solar disk encircled by serpent      |
@@ -87,6 +90,7 @@ Where the land plummets from the snowy hills into the icy fjords below, where th
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
 
 **Table- Norse Deities**
+
 | Deity                                     | Alignment | Suggested Domains | Symbol                            |
 |-------------------------------------------|-----------|-------------------|-----------------------------------|
 | Odin, god of knowledge and war            | NG        | Knowledge, War    | Watching blue eye                 |

@@ -1,4 +1,4 @@
-# Rod of Security
+ #item [[Magic Items]]
 
 *Rod, very rare*
 
@@ -7,6 +7,3 @@ While holding this rod, you can use an action to activate it. The rod then insta
 For each hour spent in the paradise, a visitor regains hit points as if it had spent 1 Hit Die. Also, creatures don't age while in the paradise, although time passes normally. Visitors can remain in the paradise for up to 200 days divided by the number of creatures present (round down).
 
 When the time runs out or you use an action to end it, all visitors reappear in the location they occupied when you activated the rod, or an unoccupied space nearest that location. The rod can't be used again until ten days have passed.
-
-
-[[Magic Items]]
