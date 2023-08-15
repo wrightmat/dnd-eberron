@@ -1,6 +1,6 @@
-#organization
+ #organization
 
-### **Universities and Academies**
+### Universities and Academies
 
 * **Morgrave University** is an institution of higher learning in Sharn, Breland. While not the most reputable university academically speaking, it has made great gains in research regarding the continent of Xen'drik, mostly by funding expeditions of Wayfinders and adventurers, who bring back artifacts and information to fill the university's museums and libraries.
   The university was founded by Lord Lareth ir'Morgrave in 738 YK to be a "beacon of knowledge shining from the tallest towers of the city, illuminating the forgotten secrets of the past." The current Master of Morgrave University is Larrian ir'Morgrave, the oldest heir of the Morgrave line. Larian has spent decades studying the civilizations of ancient Xen'drik.
@@ -35,8 +35,7 @@
 
 *This essentially works as a graduate/post-graduate school, with very focused research happening in particular areas.*
 
-
-### **Libraries**
+### Libraries
 
 **Library, Basic**. This 20-to-30 volume encyclopedia set costs 50 gp and covers a single topic represented by a type of Intelligence skill check used to recall lore (such as Arcana, History, or Nature). The DM might also allow a simple library to cover lore about another skill (for example, researching medical lore with the Medicine skill), but Intelligence is the ability used with the skill check.
 Perusal of a basic library takes 1d4-1 hours (minimum 1) and provides advantage on the skill check.
@@ -56,4 +55,6 @@ Below are three examples of such larger institutions:
 
 They represent a storehouse of theoretical and historical knowledge greater than any in Khorvaire. The colleges are divided into disciplines defined by the dragons when Io’vakas was first built: the arcane sciences (including arcane magic, alchemy, and astronomy), the natural sciences (including divine magic and biology), the conscious sciences (including psionics and psychology), and the unconscious sciences (including history, sociology, and dream study). Study of the Draconic Prophecy is spread out among the four colleges, since the Prophecy touches all aspects of the world.
 
-[https://sites.google.com/site/eberronchronicle/libraries](https://sites.google.com/site/eberronchronicle/libraries)
+### References
+
+* [[https://sites.google.com/site/eberronchronicle/libraries]]
