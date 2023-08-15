@@ -54,4 +54,4 @@ A solar dragon egg has an obsidian shell, shiny black and opaque. When an egg is
 
 ### References
 
-Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 53
+* Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 53

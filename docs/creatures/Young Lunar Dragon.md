@@ -54,4 +54,4 @@ A lunar dragon can become incorporeal, but not to the extent that it can pass th
 
 ### References
 
-Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 35
+* Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 35

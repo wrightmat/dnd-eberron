@@ -51,4 +51,4 @@ Yggdrasti sometimes make landfall and disguise themselves as ordinary trees, bur
 
 ### References
 
-Monstrous Compendium Volume One: Spelljammer Creatures, pg. 13
+* Monstrous Compendium Volume One: Spelljammer Creatures, pg. 13
