@@ -44,14 +44,12 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-
-  - toc:
-      permalink: true
+  #- toc:
+  #    permalink: true
 
 plugins:
   - search
   - roamlinks
-  - tags
 
 extra_javascript:
   - javascripts/mathjax.js
