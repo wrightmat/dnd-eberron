@@ -1,4 +1,4 @@
-#npc [[Arcanix]]
+ #npc [[Arcanix]]
 
 Attitude:: Helpful
 Gender:: Male

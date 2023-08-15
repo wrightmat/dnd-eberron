@@ -1,4 +1,4 @@
-#npc [[New Cyre]]
+ #npc [[New Cyre]]
 
 Attitude:: Friendly
 Gender:: Male

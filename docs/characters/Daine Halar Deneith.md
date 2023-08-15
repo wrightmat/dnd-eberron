@@ -1,4 +1,4 @@
-#npc
+ #npc
 
 Attitude:: Unfriendly
 Gender:: Male

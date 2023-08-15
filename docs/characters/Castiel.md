@@ -1,4 +1,4 @@
-#npc 
+ #npc 
 
 Gender:: Male
 Occupation:: Solar

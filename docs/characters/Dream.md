@@ -1,4 +1,4 @@
-#npc [[Crya (Dal Quor)]] [[The Endless]]
+ #npc [[Crya (Dal Quor)]] [[The Endless]]
 
 Gender:: Male
 Race:: Endless

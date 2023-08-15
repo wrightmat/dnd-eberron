@@ -1,4 +1,4 @@
-#npc [[Zarantryr (Kythri)]]
+ #npc [[Zarantryr (Kythri)]]
 
 Gender:: Female
 Occupation:: Priest

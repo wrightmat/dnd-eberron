@@ -1,4 +1,4 @@
-#npc [[Cogs, Upper (The Depths)]]
+ #npc [[Cogs, Upper (The Depths)]]
 
 Attitude:: Hostile
 Gender:: Female

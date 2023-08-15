@@ -1,4 +1,4 @@
-#npc [[Rhaan (Thelanis)]]
+ #npc [[Rhaan (Thelanis)]]
 
 Gender:: Female/Variable
 Occupation:: Anchor Baron

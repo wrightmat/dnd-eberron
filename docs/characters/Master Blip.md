@@ -1,4 +1,4 @@
-#npc [[Tu'narath]]
+ #npc [[Tu'narath]]
 
 Gender:: Male
 Occupation:: Quartermaster
@@ -12,4 +12,4 @@ Mister Blip wears a smart-looking leather apron with a score of tools of various
 
 Quote: “If you’re looking for a quick answer, I’m probably not the best place to find it.”
 
-![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png)
+![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png|400](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png)

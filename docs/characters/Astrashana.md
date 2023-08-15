@@ -4,7 +4,7 @@ hp: 56
 ac: 16
 modifier: 1
 ---
-#pc [[Alex Kelsch]] [[Crya (Dal Quor)]] [[Barrakas (Irian)]]
+ #pc [[Alex Kelsch]] [[Crya (Dal Quor)]] [[Barrakas (Irian)]]
 
 * **Alignment**:: Chaotic Good
 * **Class**:: Sorcerer (Aberrant Mind)

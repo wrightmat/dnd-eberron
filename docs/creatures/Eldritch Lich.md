@@ -60,4 +60,4 @@ An eldritch lich constantly hears bizarre whispers from the Far Realm, to which 
 
 ### References
 
-Monstrous Compendium Volume One: Spelljammer Creatures, pg. 6
+* Monstrous Compendium Volume One: Spelljammer Creatures, pg. 6

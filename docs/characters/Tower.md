@@ -1,4 +1,4 @@
-#npc [[Flamekeep]]
+ #npc [[Flamekeep]]
 
 Attitude:: Indifferent
 Gender:: Male

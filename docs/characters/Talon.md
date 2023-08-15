@@ -1,4 +1,4 @@
-#npc [[Fairhaven]]
+ #npc [[Fairhaven]]
 
 Attitude:: Indifferent
 Gender:: Female

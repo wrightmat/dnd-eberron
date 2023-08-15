@@ -1,4 +1,4 @@
-#npc [[Korranberg]]
+ #npc [[Korranberg]]
 
 Attitude:: Helpful
 Gender:: Male

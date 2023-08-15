@@ -1,4 +1,4 @@
-#npc [[Aryth (Dolurrh)]] [[The Endless]]
+ #npc [[Aryth (Dolurrh)]] [[The Endless]]
 
 Gender:: Female
 Occupation:: Gatekeeper

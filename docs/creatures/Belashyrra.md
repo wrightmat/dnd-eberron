@@ -58,4 +58,4 @@ Belashyrra is the Lord of Eyes, also known to its cultists as the All-Seer or th
 
 ### References
 
-Eberron: Rising from the Last War, pg. 286
+* Eberron: Rising from the Last War, pg. 286

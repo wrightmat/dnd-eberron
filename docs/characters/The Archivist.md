@@ -1,4 +1,4 @@
-#npc [[Crya (Dal Quor)]]
+ #npc [[Crya (Dal Quor)]]
 
 Gender:: Unknown
 Occupation:: Architect

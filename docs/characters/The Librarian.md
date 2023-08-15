@@ -1,4 +1,4 @@
-#npc [[Aryth (Dolurrh)]]
+ #npc [[Aryth (Dolurrh)]]
 
 Gender:: Male
 Occupation:: Architect

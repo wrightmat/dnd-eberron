@@ -1,4 +1,4 @@
-#npc [[Sharn]]
+ #npc [[Sharn]]
 
 Attitude:: Indifferent
 Gender:: Male

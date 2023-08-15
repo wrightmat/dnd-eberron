@@ -1,4 +1,4 @@
-#npc [[Tu'narath]]
+ #npc [[Tu'narath]]
 
 Attitude:: Helpful
 Gender:: Male
@@ -12,4 +12,4 @@ Aleithilithos, also known simply as the Caretaker (or “Lithos”), is the prot
 - Prevents the warrior Githyanki sects from attacking Eberron.
 - Keeps tabs on the Githzerai on Kythri, mostly via telepathy.
 
-![https://static.wikia.nocookie.net/forgottenrealms/images/1/1d/Amethyst_dragon_5e.jpg](https://static.wikia.nocookie.net/forgottenrealms/images/1/1d/Amethyst_dragon_5e.jpg)
+![https://static.wikia.nocookie.net/forgottenrealms/images/1/1d/Amethyst_dragon_5e.jpg|400](https://static.wikia.nocookie.net/forgottenrealms/images/1/1d/Amethyst_dragon_5e.jpg)

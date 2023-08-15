@@ -1,4 +1,4 @@
-#npc [[Eyre (Fernia)]]
+ #npc [[Eyre (Fernia)]]
 
 Gender:: Female
 Occupation:: Sculptor

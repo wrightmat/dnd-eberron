@@ -1,4 +1,4 @@
-#npc [[Eyre (Fernia)]]
+ #npc [[Eyre (Fernia)]]
 
 Gender:: Male
 Occupation:: Sultan of High Hearth
@@ -8,4 +8,4 @@ Sultan Azhalar of High Hearth stands at the top of the social order. He has asse
 
 Azhalar is a cruel man who is unkind to his subjects, and Phlain seeks to unseat him.
 
-![https://images.squarespace-cdn.com/content/v1/51360d4ee4b0f24e710ab469/1384608211803-2USWZBHJJTNAA4284PHS/efreet+lord+finished.jpg?format=1000w](https://images.squarespace-cdn.com/content/v1/51360d4ee4b0f24e710ab469/1384608211803-2USWZBHJJTNAA4284PHS/efreet+lord+finished.jpg?format=1000w)
+![https://images.squarespace-cdn.com/content/v1/51360d4ee4b0f24e710ab469/1384608211803-2USWZBHJJTNAA4284PHS/efreet+lord+finished.jpg?format=1000w|400](https://images.squarespace-cdn.com/content/v1/51360d4ee4b0f24e710ab469/1384608211803-2USWZBHJJTNAA4284PHS/efreet+lord+finished.jpg?format=1000w)

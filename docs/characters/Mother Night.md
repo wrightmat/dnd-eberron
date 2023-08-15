@@ -1,4 +1,4 @@
-#npc [[The Outer Darkness]]
+ #npc [[The Outer Darkness]]
 
 Gender:: Female
 Occupation:: All-Mother

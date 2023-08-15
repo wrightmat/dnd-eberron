@@ -1,4 +1,4 @@
-#npc [[Tu'narath]]
+ #npc [[Tu'narath]]
 
 Gender:: Female
 Occupation:: Training Officer
@@ -8,4 +8,4 @@ The scars that Trainer Tarto bears are testament to her status as a battle-harde
 
 Quote: “Listen to what I tell you; it might just save your life.”
 
-![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png)
+![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png|400](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png)

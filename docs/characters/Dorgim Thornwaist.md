@@ -1,4 +1,4 @@
-#npc [[Trolanport]]
+ #npc [[Trolanport]]
 
 Attitude:: Friendly
 Gender:: Male

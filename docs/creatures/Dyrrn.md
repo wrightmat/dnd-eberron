@@ -56,4 +56,6 @@ legendary_actions:
     desc: "Dyrrn magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 23 Intelligence saving throw or take 30 (5d8 + 8) psychic damage and be stunned for l minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 ```
 
+### Description
+
 Dyrrn is known to its followers as the Corruptor, the Stealer of Thoughts, the Slithering Lord, and the Foul Labyrinth. In the lore of the Gatekeepers, it is said that Dyrrn plants thoughts in the weak minded-the seeds of terrible ideas that fester and grow. Those who are particularly brilliant often draw the attention of the Foul Labyrinth, which hungers to consume unique minds.

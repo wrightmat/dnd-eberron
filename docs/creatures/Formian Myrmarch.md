@@ -53,4 +53,4 @@ The myrmarch are the commanders of armies, leaders of communities, and, their mo
 
 ### References
 
-https://dumpstatadventures.com/blog/deep-dive-the-formian
+* https://dumpstatadventures.com/blog/deep-dive-the-formian

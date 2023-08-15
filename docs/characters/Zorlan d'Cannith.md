@@ -1,4 +1,4 @@
-#npc [[Korth]]
+ #npc [[Korth]]
 
 Gender:: Male
 Occupation:: Baron

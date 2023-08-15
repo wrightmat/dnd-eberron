@@ -1,4 +1,4 @@
-#npc [[Mordain’s Hall]]
+ #npc [[Mordain’s Hall]]
 
 Attitude:: Indifferent
 Gender:: Male

@@ -1,4 +1,4 @@
-#npc [[Cogs, Lower]]
+ #npc [[Cogs, Lower]]
 
 Gender:: Male
 Race:: Rakshasa

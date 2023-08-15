@@ -52,4 +52,4 @@ An asteroid spider has its own gravity plane and air envelope, as well as multip
 
 ### References
 
-Monstrous Compendium Volume One: Spelljammer Creatures, pg. 3
+* Monstrous Compendium Volume One: Spelljammer Creatures, pg. 3

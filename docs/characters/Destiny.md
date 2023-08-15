@@ -1,4 +1,4 @@
-#npc [[Rhaan (Thelanis)]] [[The Endless]]
+ #npc [[Rhaan (Thelanis)]] [[The Endless]]
 
 Gender:: Male
 Occupation:: Bookkeeper

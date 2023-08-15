@@ -42,4 +42,4 @@ Alchemy Beetles are relatively easy to construct, as far as constructs are conce
 
 ### References
 
-Secrets of Xen'drik, page 74.
+* Secrets of Xen'drik, page 74.

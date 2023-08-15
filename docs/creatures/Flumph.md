@@ -45,4 +45,4 @@ Common flumphs cannot communicate vocally, but have a unique sign language that 
 
 ### References
 
-https://angrygolem-games.com/monster-manual/letter-f/flumph-5e-stats/
+* https://angrygolem-games.com/monster-manual/letter-f/flumph-5e-stats/

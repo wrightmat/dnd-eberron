@@ -56,4 +56,4 @@ Bludgeoning, piercing, slashing, and thunder damage can cause a fractine to brea
 
 ### References
 
-Monstrous Compendium Volume One: Spelljammer Creatures, pg. 7
+* Monstrous Compendium Volume One: Spelljammer Creatures, pg. 7

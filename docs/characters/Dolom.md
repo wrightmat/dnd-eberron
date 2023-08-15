@@ -1,4 +1,4 @@
-#npc [[Sharn]]
+ #npc [[Sharn]]
 
 Attitude:: Friendly
 Gender:: Male

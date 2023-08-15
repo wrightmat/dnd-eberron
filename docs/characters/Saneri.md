@@ -1,4 +1,4 @@
-#npc [[Niern]]
+ #npc [[Niern]]
 
 Attitude:: Indifferent
 Gender:: Female

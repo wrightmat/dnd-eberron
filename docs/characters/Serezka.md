@@ -1,4 +1,4 @@
-#npc [[Shardspace]]
+ #npc [[Shardspace]]
 
 Gender:: Female
 Occupation:: Kithrak (Captain)

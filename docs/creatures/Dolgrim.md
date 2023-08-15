@@ -39,4 +39,4 @@ Small numbers of these creatures sometimes make their way to the surface, often 
 
 ### References
 
-Eberron: Rising from the Last War, pg. 291
+* Eberron: Rising from the Last War, pg. 291

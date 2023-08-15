@@ -1,4 +1,4 @@
-#npc [[Fairhaven]]
+ #npc [[Fairhaven]]
 
 Gender:: Female
 Occupation:: Baron
@@ -10,4 +10,4 @@ When Jorlanna was younger, she fell in love with an heir of House Deneith. The H
 
 With this example of poor judgement on her record, it is fortunate for Jorlanna's plans of ascension that few people are aware Jorlanna is now having another inappropriate affair with a young scion of House Orien. It is even more fortunate for her plans that none knows that this scion is actually a rakshasa agent of the Lords of Dust. Discovery of the former could harm her chances of establishing herself as Matriarch of House Cannith; discovery of the latter would have her thrown from power.
 
-[https://static.wikia.nocookie.net/eberron/images/4/40/Jorlanna.jpg/revision/latest?cb=20080828032859](https://static.wikia.nocookie.net/eberron/images/4/40/Jorlanna.jpg/revision/latest?cb=20080828032859)
+![https://static.wikia.nocookie.net/eberron/images/4/40/Jorlanna.jpg/revision/latest?cb=20080828032859](https://static.wikia.nocookie.net/eberron/images/4/40/Jorlanna.jpg/revision/latest?cb=20080828032859)

@@ -4,7 +4,7 @@ ac: 14
 modifier: 4
 level: 8
 ---
-#pc [[Jolene Harper]] [[Rhaan (Thelanis)]] [[Lharvion (Xoriat)]]
+ #pc [[Jolene Harper]] [[Rhaan (Thelanis)]] [[Lharvion (Xoriat)]]
 
 * **Alignment**:: Chaotic Neutral
 * **Class**:: Bard (College of Eloquence) / Warlock (Celestial)

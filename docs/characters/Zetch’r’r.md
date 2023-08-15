@@ -1,4 +1,4 @@
-#npc [[Tu'narath]]
+ #npc [[Tu'narath]]
 
 Attitude:: Helpful
 Gender:: Male

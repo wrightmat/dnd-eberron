@@ -1,4 +1,4 @@
-#npc [[Arcanix]]
+ #npc [[Arcanix]]
 
 Gender:: Male
 Occupation:: Groundskeeper

@@ -39,5 +39,5 @@ Although an eye monger doesn’t project an antimagic cone from its eye as a [b
 
 ### References
 
-Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 21
-https://www.dndbeyond.com/monsters/2821163-eye-monger
+* Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 21
+* https://www.dndbeyond.com/monsters/2821163-eye-monger

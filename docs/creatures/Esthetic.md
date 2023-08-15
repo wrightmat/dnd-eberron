@@ -48,4 +48,4 @@ An esthetic can survive indefinitely on the Astral Plane, provided its creator i
 
 ### References
 
-Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 20
+* Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 20

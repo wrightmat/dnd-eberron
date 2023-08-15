@@ -1,4 +1,4 @@
-#npc [[Therendor (Syrania)]]
+ #npc [[Therendor (Syrania)]]
 
 Gender:: Male
 Occupation:: The Ashen Sword

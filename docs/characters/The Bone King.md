@@ -1,4 +1,4 @@
-#npc [[Sypheros (Mabar)]]
+ #npc [[Sypheros (Mabar)]]
 
 Gender:: Male
 Occupation:: Dark Power

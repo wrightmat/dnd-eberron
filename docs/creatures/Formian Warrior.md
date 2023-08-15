@@ -43,4 +43,4 @@ Standing at 4 1/2 feet high and 5 feet long, while weighing 180 pounds, its easy
 
 ### References
 
-https://dumpstatadventures.com/blog/deep-dive-the-formian
+* https://dumpstatadventures.com/blog/deep-dive-the-formian

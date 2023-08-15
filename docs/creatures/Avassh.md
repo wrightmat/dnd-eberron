@@ -70,4 +70,4 @@ Terrifying as Dyrrn’s mind flayers may be, when an illithid is slain, the thre
 
 ### References
 
-Chronicles of Eberron, pg. 176
+* Chronicles of Eberron, pg. 176

@@ -1,4 +1,4 @@
-#npc [[Rhaan (Thelanis)]]
+ #npc [[Rhaan (Thelanis)]]
 
 Gender:: Non-Binary
 Occupation:: Noble

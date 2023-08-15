@@ -39,6 +39,6 @@ Scavvers are shark-like scavengers that fly through space, feeding on whatever t
 
 A scavver has a single large eye in the leading edge of its head. This eye glows while the creature is awake. Its wide mouth is full of sharp teeth. A scavver flies in lazy circles when it sleeps but otherwise moves through space much as a shark swims through water.
 
-### Reference
+### References
 
-Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 49
+* Spelljammer: Adventures in Space • Boo’s Astral Menagerie, pg. 49

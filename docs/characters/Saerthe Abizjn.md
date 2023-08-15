@@ -1,4 +1,4 @@
-#npc [[Tu'narath]]
+ #npc [[Tu'narath]]
 
 Gender:: Non-Binary
 Occupation:: Miltary Commander
@@ -12,4 +12,4 @@ They have a 22 Charisma, higher than Onme's (because they're even more beautiful
 
 Quote: “I make talent look good.”
 
-![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png)
+![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png|400](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png)

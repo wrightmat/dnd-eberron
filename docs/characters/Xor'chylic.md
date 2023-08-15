@@ -1,4 +1,4 @@
-#npc [[Graywall]]
+ #npc [[Graywall]]
 
 Xor'chylic is an illithid and the governor of Graywall. It is an enigmatic figure, and ruthlessly effective at maintaining order in the name of the Daughters of Sora Kell.
 

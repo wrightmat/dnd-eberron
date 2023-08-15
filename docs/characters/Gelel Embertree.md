@@ -1,4 +1,4 @@
-#npc [[Delethorn]]
+ #npc [[Delethorn]]
 
 Attitude:: Helpful
 Gender:: Male

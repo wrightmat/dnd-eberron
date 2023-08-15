@@ -1,4 +1,4 @@
-#npc [[Therendor (Syrania)]]
+ #npc [[Therendor (Syrania)]]
 
 Gender:: Female
 Occupation:: Throne

@@ -1,4 +1,4 @@
-#npc [[Flamekeep]]
+ #npc [[Flamekeep]]
 
 Gender:: Male
 Occupation:: Minister

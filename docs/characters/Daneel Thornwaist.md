@@ -1,4 +1,4 @@
-#npc [[Trolanport]]
+ #npc [[Trolanport]]
 
 Attitude:: Helpful
 Gender:: Male

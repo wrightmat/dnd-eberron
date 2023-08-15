@@ -45,5 +45,5 @@ Dragonbone golems’ resilience and obedience make them excellent lair guardians
 
 ### References
 
-Fizban's Treasury of Dragons, pg. 183
-https://www.dndbeyond.com/monsters/2059727-dragonbone-golem
+* Fizban's Treasury of Dragons, pg. 183
+* https://www.dndbeyond.com/monsters/2059727-dragonbone-golem
