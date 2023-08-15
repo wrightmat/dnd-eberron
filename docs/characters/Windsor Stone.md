@@ -64,4 +64,4 @@ Windsor’s favorite bookshop is in North Towers (Lower Central) near his parent
 + Sharn, Breland
 ```
 
-![https://wrightmat.github.io/obsidian/img/windsor-baby.jpg](https://wrightmat.github.io/obsidian/img/windsor-baby.jpg)
+![https://wrightmat.github.io/dnd-eberron/_img/windsor-baby.jpg|400](https://wrightmat.github.io/dnd-eberron/_img/windsor-baby.jpg)
