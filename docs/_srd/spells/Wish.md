@@ -1,13 +1,10 @@
-#srd #spell #conjuration 
+ #srd #spell #conjuration 
 
 *9th-level conjuration*
 
 **Casting Time:** 1 action
-
 **Range:** Self
-
 **Components:** V
-
 **Duration:** Instantaneous
 
 *Wish* is the mightiest spell a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires.

@@ -1,13 +1,10 @@
-#srd #spell #conjuration 
+ #srd #spell #conjuration 
 
 *9th-level conjuration*
 
 **Casting Time:** 1 action
-
 **Range:** 60 feet
-
 **Components:** V, S, M (a diamond worth at least 5,000 gp)
-
 **Duration:** Concentration, up to 1 minute
 
 You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration.

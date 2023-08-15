@@ -1,4 +1,4 @@
-# Staff of Thunder and Lightning
+ #item [[Magic Items]]
 
 *Staff, very rare (requires attunement)*
 
@@ -13,6 +13,3 @@ This staff can be wielded as a magic quarterstaff that grants a +2 bonus to atta
 ***Thunderclap***. You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 1 minute. On a successful save, a creature takes half damage and isn't deafened.
 
 ***Thunder and Lightning***. You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.
-
-
-[[Magic Items]]

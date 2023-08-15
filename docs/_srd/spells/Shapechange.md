@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *9th-level transmutation*
 
 **Casting Time:** 1 action
-
 **Range:** Self
-
 **Components:** V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
-
 **Duration:** Concentration, up to 1 hour
 
 You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can't be a construct or an undead, and you must have seen the sort of creature at least once. You transform into an average example of that creature, one without any class levels or the Spellcasting trait.

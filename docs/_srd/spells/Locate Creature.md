@@ -1,13 +1,10 @@
-#srd #spell #divination 
+ #srd #spell #divination 
 
 *4th-level divination*
 
 **Casting Time:** 1 action
-
 **Range:** Self
-
 **Components:** V, S, M (a bit of fur from a bloodhound)
-
 **Duration:** Concentration, up to 1 hour
 
 Describe or name a creature that is familiar to you. You sense the direction to the creature's location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.

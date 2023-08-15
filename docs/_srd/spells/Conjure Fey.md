@@ -1,13 +1,10 @@
-#srd #spell #abjuration 
+ #srd #spell #abjuration 
 
 *6th-level conjuration*
 
 **Casting Time:** 1 minute
-
 **Range:** 90 feet
-
 **Components:** V, S
-
 **Duration:** Concentration, up to 1 hour
 
 You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower. It appears in an unoccupied space that you can see within range. The fey creature disappears when it drops to 0 hit points or when the spell ends.

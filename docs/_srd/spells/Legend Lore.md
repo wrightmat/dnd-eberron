@@ -1,13 +1,10 @@
-#srd #spell #divination 
+ #srd #spell #divination 
 
 *5th-level divination*
 
 **Casting Time:** 10 minutes
-
 **Range:** Self
-
 **Components:** V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)
-
 **Duration:** Instantaneous
 
 Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named. The lore might consist of current tales, forgotten stories, or even secret lore that has never been widely known. If the thing you named isn't of legendary importance, you gain no information. The more information you already have about the thing, the more precise and detailed the information you receive is.

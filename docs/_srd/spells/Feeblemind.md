@@ -1,13 +1,10 @@
-#srd #spell #enchantment 
+ #srd #spell #enchantment 
 
 *8th-level enchantment*
 
 **Casting Time:** 1 action
-
 **Range:** 150 feet
-
 **Components:** V, S, M (a handful of clay, crystal, glass, or mineral spheres)
-
 **Duration:** Instantaneous
 
 You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 psychic damage and must make an Intelligence saving throw.

@@ -1,13 +1,10 @@
-#srd #spell #abjuration 
+ #srd #spell #abjuration 
 
 *4th-level abjuration*
 
 **Casting Time:** 1 action
-
 **Range:** Touch
-
 **Components:** V, S
-
 **Duration:** 8 hours
 
 You touch a creature and grant it a measure of protection from death.

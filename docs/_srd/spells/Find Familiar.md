@@ -1,13 +1,10 @@
-#srd #spell #conjuration #divination 
+ #srd #spell #conjuration #ritual 
 
 *1st-­level conjuration (ritual)*
 
 **Casting Time:** 1 hour
-
 **Range:** 10 feet
-
 **Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
-
 **Duration:** Instantaneous
 
 You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.

@@ -1,4 +1,4 @@
-# Staff of the Woodlands
+ #item [[Magic Items]]
 
 *Staff, rare (requires attunement by a druid)*
 
@@ -13,6 +13,3 @@ You can also use an action to cast the *pass without trace* spell from the staff
 ***Tree Form***. You can use an action to plant one end of the staff in fertile earth and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot diameter trunk, and its branches at the top spread out in a 20-foot radius.
 
 The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by *detect magic*. While touching the tree and using another action to speak its command word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.
-
-
-[[Magic Items]]

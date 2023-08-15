@@ -1,13 +1,10 @@
-#srd #spell #evocation 
+ #srd #spell #evocation 
 
 *7th-level evocation*
 
 **Casting Time:** 1 action
-
 **Range:** 60 feet
-
 **Components:** V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
-
 **Duration:** Concentration, up to 1 minute
 
 You create a sword-shaped plane of force that hovers within range. It lasts for the duration.

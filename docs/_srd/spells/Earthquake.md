@@ -1,13 +1,10 @@
-#srd #spell #evocation 
+ #srd #spell #evocation 
 
 *8th-level evocation*
 
 **Casting Time:** 1 action
-
 **Range:** 500 feet
-
 **Components:** V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)
-
 **Duration:** Concentration, up to 1 minute
 
 You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.

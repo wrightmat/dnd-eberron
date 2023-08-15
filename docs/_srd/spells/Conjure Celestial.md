@@ -1,13 +1,10 @@
-#srd #spell #conjuration 
+ #srd #spell #conjuration 
 
 *7th-level conjuration*
 
 **Casting Time:** 1 minute
-
 **Range:** 90 feet
-
 **Components:** V, S
-
 **Duration:** Concentration, up to 1 hour
 
 You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.

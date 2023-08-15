@@ -1,13 +1,10 @@
-#srd #spell #necromancy 
+ #srd #spell #necromancy 
 
 *3rd-level necromancy*
 
 **Casting Time:** 1 action
-
 **Range:** Touch
-
 **Components:** V, S
-
 **Duration:** Concentration, up to 1 minute
 
 You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:

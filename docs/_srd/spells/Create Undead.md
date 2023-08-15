@@ -1,13 +1,10 @@
-#srd #spell #necromancy 
+ #srd #spell #necromancy 
 
 *6th-level necromancy*
 
 **Casting Time:** 1 minute
-
 **Range:** 10 feet
-
 **Components:** V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)
-
 **Duration:** Instantaneous
 
 You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control. (The GM has game statistics for these creatures.)

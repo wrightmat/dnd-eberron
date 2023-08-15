@@ -1,13 +1,10 @@
-#srd #spell #evocation 
+ #srd #spell #evocation 
 
 *2nd-level evocation*
 
 **Casting Time:** 1 action
-
 **Range:** 120 feet
-
 **Components:** V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)
-
 **Duration:** Concentration, up to 1 minute
 
 A silvery beam of pale light shines down in a 5-foot radius, 40-foot high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.

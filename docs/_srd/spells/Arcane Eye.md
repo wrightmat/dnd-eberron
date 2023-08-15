@@ -1,13 +1,10 @@
-#srd #spell #divination
+ #srd #spell #divination
 
 *4th-level divination*
 
 **Casting Time:** 1 action
-
 **Range:** 30 feet
-
 **Components:** V, S, M (a bit of bat fur)
-
 **Duration:** Concentration, up to 1 hour
 
 You create an invisible, magical eye within range that hovers in the air for the duration.

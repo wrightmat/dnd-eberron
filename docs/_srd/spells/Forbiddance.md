@@ -1,13 +1,10 @@
-#srd #spell #abjuration #ritual 
+ #srd #spell #abjuration #ritual 
 
 *6th-level abjuration (ritual)*
 
 **Casting Time:** 10 minutes
-
 **Range:** Touch
-
 **Components:** V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)
-
 **Duration:** 1 day
 
 You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the *gate* spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the *plane shift* spell.

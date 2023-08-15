@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *6th-level transmutation*
 
 **Casting Time:** 1 action
-
 **Range:** 60 feet
-
 **Components:** V, S, M (a lodestone and a pinch of dust)
-
 **Duration:** Instantaneous
 
 A thin green ray springs from your pointing finger to a target that you can see within range. The target can be a creature, an object, or a creation of magical force, such as the wall created by *wall of force*.

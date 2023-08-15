@@ -1,13 +1,10 @@
-#srd #spell #abjuration 
+ #srd #spell #abjuration 
 
 *4th-level abjuration*
 
 **Casting Time:** 10 minutes
-
 **Range:** 120 feet
-
 **Components:** V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)
-
 **Duration:** 24 hours
 
 You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it.

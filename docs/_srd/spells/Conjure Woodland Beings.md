@@ -1,13 +1,10 @@
-#srd #spell #conjuration 
+ #srd #spell #conjuration 
 
 *4th-level conjuration*
 
 **Casting Time:** 1 action
-
 **Range:** 60 feet
-
 **Components:** V, S, M (one holly berry per creature summoned)
-
 **Duration:** Concentration, up to 1 hour
 
 You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:

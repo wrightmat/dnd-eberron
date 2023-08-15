@@ -1,13 +1,10 @@
-#srd #spell #conjuration 
+ #srd #spell #conjuration 
 
 *7th-level conjuration*
 
 **Casting Time:** 1 action
-
 **Range:** 10 feet
-
 **Components:** V
-
 **Duration:** Instantaneous
 
 This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can't be held or carried by an unwilling creature.
@@ -25,7 +22,6 @@ The destination you choose must be known to you, and it must be on the same plan
 | Viewed once       | 01-43  | 44-53        | 54-73      | 74-100    |
 | Description       | 01-43  | 44-53        | 54-73      | 74-100    |
 | False destination | 01-50  | 51-100       | -          | -         |
-|                   |        |              |            |           |
 
 ***Familiarity***. "Permanent circle" means a permanent teleportation circle whose sigil sequence you know. "Associated object" means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard's library, bed linen from a royal suite, or a chunk of marble from a lich's secret tomb.
 

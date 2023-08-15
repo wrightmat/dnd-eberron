@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *5th-level transmutation*
 
 **Casting Time:** 1 hour
-
 **Range:** Touch
-
 **Components:** V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)
-
 **Duration:** Instantaneous
 
 You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body.

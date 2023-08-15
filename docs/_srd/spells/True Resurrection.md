@@ -1,13 +1,10 @@
-#srd #spell #necromancy 
+ #srd #spell #necromancy 
 
 *9th-level necromancy*
 
 **Casting Time:** 1 hour
-
 **Range:** Touch
-
 **Components:** V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)
-
 **Duration:** Instantaneous
 
 You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. If the creature's soul is free and willing, the creature is restored to life with all its hit points.

@@ -1,13 +1,10 @@
-#srd #spell #conjuration 
+ #srd #spell #conjuration 
 
 *4th-level conjuration*
 
 **Casting Time:** 1 minute
-
 **Range:** 90 feet
-
 **Components:** V, S
-
 **Duration:** Concentration, up to 1 hour
 
 You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:

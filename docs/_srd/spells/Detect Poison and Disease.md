@@ -1,13 +1,10 @@
-#srd #spell #divination #ritual 
+ #srd #spell #divination #ritual 
 
 *1st-level divination (ritual)*
 
 **Casting Time:** 1 action
-
 **Range:** Self
-
 **Components:** V, S, M (a yew leaf)
-
 **Duration:** Concentration, up to 10 minutes
 
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.

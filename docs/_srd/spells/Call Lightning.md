@@ -1,13 +1,10 @@
-#srd #spell #conjuration 
+ #srd #spell #conjuration 
 
 *3rd-level conjuration*
 
 **Casting Time:** 1 action
-
 **Range:** 120 feet
-
 **Components:** V, S
-
 **Duration:** Concentration, up to 10 minutes
 
 A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see within range directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).

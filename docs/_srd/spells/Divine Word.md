@@ -1,13 +1,10 @@
-#srd #spell #evocation 
+ #srd #spell #evocation 
 
 *7th-level evocation*
 
 **Casting Time:** 1 bonus action
-
 **Range:** 30 feet
-
 **Components:** V
-
 **Duration:** Instantaneous
 
 You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points:

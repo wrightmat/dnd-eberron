@@ -1,13 +1,10 @@
-#srd #spell #divination #ritual 
+ #srd #spell #divination #ritual 
 
 *5th-level divination (ritual)*
 
 **Casting Time:** 1 minute
-
 **Range:** Self
-
 **Components:** V, S, M (incense and a vial of holy or unholy water)
-
 **Duration:** 1 minute
 
 You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.

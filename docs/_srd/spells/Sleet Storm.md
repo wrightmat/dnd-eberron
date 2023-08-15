@@ -1,13 +1,10 @@
-#srd #spell #conjuration 
+ #srd #spell #conjuration 
 
 *3rd-level conjuration*
 
 **Casting Time:** 1 action
-
 **Range:** 150 feet
-
 **Components:** V, S, M (a pinch of dust and a few drops of water)
-
 **Duration:** Concentration, up to 1 minute
 
 Until the spell ends, freezing rain and sleet fall in a 20-foot tall cylinder with a 40-foot radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused.

@@ -1,13 +1,10 @@
-#srd #spell #abjuration 
+ #srd #spell #abjuration 
 
 *3rd-level abjuration*
 
 **Casting Time:** 1 minute
-
 **Range:** 10 feet
-
 **Components:** V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)
-
 **Duration:** 1 hour
 
 You create a 10-foot radius, 20-foot tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.

@@ -1,13 +1,10 @@
-#srd #spell #evocation 
+ #srd #spell #evocation 
 
 *2nd-level evocation*
 
 **Casting Time:** 1 action
-
 **Range:** 60 feet
-
 **Components:** V, S, M (a chip of mica)
-
 **Duration:** Instantaneous
 
 A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.

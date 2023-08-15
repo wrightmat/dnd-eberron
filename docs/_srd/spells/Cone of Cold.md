@@ -1,13 +1,10 @@
-#srd #spell #evocation 
+ #srd #spell #evocation 
 
 *5th-level evocation*
 
 **Casting Time:** 1 action
-
 **Range:** Self (60-foot cone)
-
 **Components:** V, S, M (a small crystal or glass cone)
-
 **Duration:** Instantaneous
 
 A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a Constitution saving throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one.

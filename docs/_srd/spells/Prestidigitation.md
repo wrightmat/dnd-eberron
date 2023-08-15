@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *Transmutation cantrip*
 
 **Casting Time:** 1 action
-
 **Range:** 10 feet
-
 **Components:** V, S
-
 **Duration:** Up to 1 hour
 
 This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within Range:

@@ -1,13 +1,10 @@
-#srd #spell #illusion 
+ #srd #spell #illusion 
 
 *5th-level illusion*
 
 **Casting Time:** 1 action
-
 **Range:** 30 feet
-
 **Components:** V, S
-
 **Duration:** 8 hours
 
 This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.

@@ -1,13 +1,10 @@
-#srd #spell #illusion 
+ #srd #spell #illusion 
 
 *3rd-level illusion*
 
 **Casting Time:** 1 action
-
 **Range:** Self (30-foot cone)
-
 **Components:** V, S, M (a white feather or the heart of a hen)
-
 **Duration:** Concentration, up to 1 minute
 
 You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration.

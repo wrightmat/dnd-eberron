@@ -1,13 +1,10 @@
-#srd #spell #conjuration 
+ #srd #spell #conjuration 
 
 *Conjuration cantrip*
 
 **Casting Time:** 1 action
-
 **Range:** 10 feet
-
 **Components:** V, S
-
 **Duration:** Instantaneous
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage. 

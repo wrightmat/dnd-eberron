@@ -1,13 +1,10 @@
-#srd #spell #conjuration #ritual 
+ #srd #spell #conjuration #ritual 
 
 *6th-level conjuration (ritual)*
 
 **Casting Time:** 1 minute
-
 **Range:** Touch
-
 **Components:** V, S, M (a sapphire worth 1,000 gp)
-
 **Duration:** Until dispelled
 
 You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.

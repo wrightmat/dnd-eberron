@@ -1,13 +1,10 @@
-#srd #spell #evocation #ritual 
+ #srd #spell #evocation #ritual 
 
 *2nd-level evocation*
 
 **Casting Time:** 1 bonus action
-
 **Range:** 60 feet
-
 **Components:** V, S
-
 **Duration:** 1 minute
 
 You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.

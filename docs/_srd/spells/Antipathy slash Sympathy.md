@@ -1,13 +1,10 @@
-#srd #spell #enchantment 
+ #srd #spell #enchantment 
 
 *8th-level enchantment*
 
 **Casting Time:** 1 hour
-
 **Range:** 60 feet
-
 **Components:** V, S, M (either a lump of alum soaked in vinegar for the *antipathy* effect or a drop of honey for the *sympathy* effect)
-
 **Duration:** 10 days
 
 This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-foot cube. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura's effect.

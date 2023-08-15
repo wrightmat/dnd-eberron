@@ -1,13 +1,10 @@
-#srd #spell #conjuration
+ #srd #spell #conjuration
 
 *Conjuration cantrip*
 
 **Casting Time:** 1 action
-
 **Range:** 60 feet
-
 **Components:** V, S
-
 **Duration:** Instantaneous
 
 You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.

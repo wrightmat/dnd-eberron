@@ -1,13 +1,10 @@
-#srd #spell #enchantment 
+ #srd #spell #enchantment 
 
 *1st-level enchantment*
 
 **Casting Time:** 1 action
-
 **Range:** 90 feet
-
 **Components:** V, S, M (a pinch of fine sand, rose petals, or a cricket)
-
 **Duration:** 1 minute
 
 This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).

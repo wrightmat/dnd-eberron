@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *8th-level transmutation*
 
 **Casting Time:** 10 minutes
-
 **Range:** Self (5-mile radius)
-
 **Components:** V, S, M (burning incense and bits of earth and wood mixed in water)
-
 **Duration:** Concentration, up to 8 hours
 
 You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early.
@@ -25,7 +22,6 @@ When you change the weather conditions, find a current condition on the followin
 | 3     | Overcast or ground fog                     |
 | 4     | Rain, hail, or snow                        |
 | 5     | Torrential rain, driving hail, or blizzard |
-|       |                                            |
 
 **Table- Control Weather (Temperature)**
 
@@ -37,7 +33,6 @@ When you change the weather conditions, find a current condition on the followin
 | 4     | Cool            |
 | 5     | Cold            |
 | 6     | Arctic cold     |
-|       |                 |
 
 **Table- Control Weather (Wind)**
 
@@ -48,4 +43,3 @@ When you change the weather conditions, find a current condition on the followin
 | 3     | Strong wind   |
 | 4     | Gale          |
 | 5     | Storm         |
-|       |               |

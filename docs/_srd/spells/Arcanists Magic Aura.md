@@ -1,13 +1,10 @@
-#srd #spell #illusion
+ #srd #spell #illusion
 
 *2nd-level illusion*
 
 **Casting Time:** 1 action
-
 **Range:** Touch
-
 **Components:** V, S, M (a small square of silk)
-
 **Duration:** 24 hours
 
 You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn't being carried or worn by another creature.

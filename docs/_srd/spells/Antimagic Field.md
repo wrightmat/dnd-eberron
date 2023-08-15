@@ -1,13 +1,10 @@
-#srd #spell #abjuration 
+ #srd #spell #abjuration 
 
 *8th-level abjuration*
 
 **Casting Time:** 1 action
-
 **Range:** Self (10-foot radius sphere)
-
 **Components:** V, S, M (a pinch of powdered iron or iron filings)
-
 **Duration:** Concentration, up to 1 hour
 
 A 10-foot radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can't be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.

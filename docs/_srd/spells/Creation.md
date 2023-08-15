@@ -1,13 +1,10 @@
-#srd #spell #illusion 
+ #srd #spell #illusion 
 
 *5th-level illusion*
 
 **Casting Time:** 1 minute
-
 **Range:** 30 feet
-
 **Components:** V, S, M (a tiny piece of matter of the same type of the item you plan to create)
-
 **Duration:** Special
 
 You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within 
@@ -24,7 +21,6 @@ The duration depends on the object's material. If the object is composed of mult
 | Precious metals       | 1 hour     |
 | Gems                  | 10 minutes |
 | Adamantine or mithral | 1 minute   |
-|                       |            |
 
 Using any material created by this spell as another spell's material component causes that spell to fail.
 

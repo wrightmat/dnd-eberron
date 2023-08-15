@@ -1,13 +1,10 @@
-#srd #spell #enchantment 
+ #srd #spell #enchantment 
 
 *5th-level enchantment*
 
 **Casting Time:** 1 minute
-
 **Range:** 60 feet
-
 **Components:** V
-
 **Duration:** 30 days
 
 You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, it must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can't understand you is unaffected by the spell.

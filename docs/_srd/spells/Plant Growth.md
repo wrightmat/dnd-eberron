@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *3rd-level transmutation*
 
 **Casting Time:** 1 action or 8 hours
-
 **Range:** 150 feet
-
 **Components:** V, S
-
 **Duration:** Instantaneous
 
 This spell channels vitality into plants within a specific area. There are two possible uses for the spell, granting either immediate or long-term benefits.

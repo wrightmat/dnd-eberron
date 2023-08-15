@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *Transmutation cantrip*
 
 **Casting Time:** 1 action
-
 **Range:** 30 feet
-
 **Components:** V, S
-
 **Duration:** Instantaneous
 
 Whispering to the spirits of nature, you create one of the following effects within range:

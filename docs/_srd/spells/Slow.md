@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *3rd-level transmutation*
 
 **Casting Time:** 1 action
-
 **Range:** 120 feet
-
 **Components:** V, S, M (a drop of molasses)
-
 **Duration:** Concentration, up to 1 minute
 
 You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.

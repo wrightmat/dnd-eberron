@@ -1,13 +1,10 @@
-#srd #spell #conjuration 
+ #srd #spell #conjuration 
 
 *4th-level conjuration*
 
 **Casting Time:** 1 action
-
 **Range:** 30 feet
-
 **Components:** V, S, M (a tiny silver whistle, a piece of bone, and a thread)
-
 **Duration:** 8 hours
 
 You conjure a phantom watchdog in an unoccupied space that you can see within range, where it remains for the duration, until you dismiss it as an action, or until you move more than 100 feet away from it.

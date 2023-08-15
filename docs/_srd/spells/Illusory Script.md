@@ -1,13 +1,10 @@
-#srd #spell #illusion #ritual 
+ #srd #spell #illusion #ritual 
 
 *1st-level illusion (ritual)*
 
 **Casting Time:** 1 minute
-
 **Range:** Touch
-
 **Components:** S, M (a lead-based ink worth at least 10 gp, which the spell consumes)
-
 **Duration:** 10 days
 
 You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.

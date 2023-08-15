@@ -1,13 +1,10 @@
-#srd #spell #evocation #ritual 
+ #srd #spell #evocation #ritual 
 
 *3rd-level evocation (ritual)*
 
 **Casting Time:** 1 minute
-
 **Range:** Self (10-foot radius hemisphere)
-
 **Components:** V, S, M (a small crystal bead)
-
 **Duration:** 8 hours
 
 A 10-foot radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.

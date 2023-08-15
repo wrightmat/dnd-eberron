@@ -1,13 +1,10 @@
-#srd #spell #evocation 
+ #srd #spell #evocation 
 
 *7th-level evocation*
 
 **Casting Time:** 1 action
-
 **Range:** 100 feet
-
 **Components:** V, S, M (ruby dust worth 1,500 gp)
-
 **Duration:** 1 hour
 
 An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.

@@ -1,13 +1,10 @@
-#srd #spell #conjuration #ritual 
+ #srd #spell #conjuration #ritual 
 
 *1st-level conjuration (ritual)*
 
 **Casting Time:** 1 action
-
 **Range:** 30 feet
-
 **Components:** V, S, M (a drop of mercury)
-
 **Duration:** 1 hour
 
 This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.

@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *1st-level transmutation*
 
 **Casting Time:** 1 action
-
 **Range:** 30 feet
-
 **Components:** V, S, M (a drop of water if creating water or a few grains of sand if destroying it)
-
 **Duration:** Instantaneous
 
 You either create or destroy water.

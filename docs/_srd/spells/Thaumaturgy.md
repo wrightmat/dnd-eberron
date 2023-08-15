@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *Transmutation cantrip*
 
 **Casting Time:** 1 action
-
 **Range:** 30 feet
-
 **Components:** V
-
 **Duration:** Up to 1 minute
 
 You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within Range:

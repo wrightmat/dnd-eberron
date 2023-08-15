@@ -1,13 +1,10 @@
-#srd #spell #abjuration 
+ #srd #spell #abjuration 
 
 *5th-level abjuration*
 
 **Casting Time:** 1 hour
-
 **Range:** 60 feet
-
 **Components:** V, S, M (a jewel worth at least 1,000 gp, which the spell consumes)
-
 **Duration:** 24 hours
 
 With this spell, you attempt to bind a celestial, an elemental, a fey, or a fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of an inverted *magic circle* in order to keep it trapped while this spell is cast.) At the completion of the casting, the target must make a Charisma saving throw. On a failed save, it is bound to serve you for the duration. If the creature was summoned or created by another spell, that spell's duration is extended to match the duration of this spell.

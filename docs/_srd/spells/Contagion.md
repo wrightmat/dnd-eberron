@@ -1,12 +1,10 @@
-#srd #spell #necromancy 
+ #srd #spell #necromancy 
 
 *5th-level necromancy*
 
 **Casting Time:** 1 action
-
 **Range:** Touch
 **Component:** V, S
-
 **Duration:** 7 days
 
 Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is poisoned.

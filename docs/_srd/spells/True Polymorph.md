@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *9th-level transmutation*
 
 **Casting Time:** 1 action
-
 **Range:** 30 feet
-
 **Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
-
 **Duration:** Concentration, up to 1 hour
 
 Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into a nonmagical object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 hit points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.

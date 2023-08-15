@@ -1,13 +1,10 @@
-#srd #spell #transmutation 
+ #srd #spell #transmutation 
 
 *2nd-level transmutation*
 
 **Casting Time:** 1 action
-
 **Range:** Touch
-
 **Components:** V, S, M (fur or a feather from a beast)
-
 **Duration:** Concentration, up to 1 hour.
 
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.

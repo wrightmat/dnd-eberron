@@ -1,13 +1,10 @@
-#srd #spell #enchantment 
+ #srd #spell #enchantment 
 
 *1st-level enchantment*
 
 **Casting Time:** 1 action
-
 **Range:** 30 feet
-
 **Components:** V, S, M (tiny tarts and a feather that is waved in the air)
-
 **Duration:** Concentration, up to 1 minute
 
 A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.

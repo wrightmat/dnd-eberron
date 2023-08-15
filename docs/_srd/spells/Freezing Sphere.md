@@ -1,13 +1,10 @@
-#srd #spell #evocation 
+ #srd #spell #evocation 
 
 *6th-level evocation*
 
 **Casting Time:** 1 action
-
 **Range:** 300 feet
-
 **Components:** V, S, M (a small crystal sphere)
-
 **Duration:** Instantaneous
 
 A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot radius sphere. Each creature within the area must make a Constitution saving throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.

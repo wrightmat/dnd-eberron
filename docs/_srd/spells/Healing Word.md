@@ -1,13 +1,10 @@
-#srd #spell #evocation 
+ #srd #spell #evocation 
 
 *1st-level evocation*
 
 **Casting Time:** 1 bonus action
-
 **Range:** 60 feet
-
 **Components:** V
-
 **Duration:** Instantaneous
 
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
