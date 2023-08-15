@@ -1,6 +1,6 @@
  #organization #guild [[Prism]] [[Velgram]] [[Logo Tharashk]]
 
-![https://wrightmat.github.io/obsidian/img/clifftop.png](https://wrightmat.github.io/obsidian/img/clifftop.png)
+![https://wrightmat.github.io/dnd-eberron/img/clifftop.png](https://wrightmat.github.io/dnd-eberron/img/clifftop.png)
 
 The Clifftop Adventurers' Guild is a guild for explorers and professional adventurers based out of the Clifftop district of Sharn. The Guild has a reputation for reliability and integrity, and has a strong rivalry with the less-reputable Deathsgate Adventurer's Guild.
 

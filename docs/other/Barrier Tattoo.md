@@ -14,4 +14,4 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 ### References
 
-* https://www.dndbeyond.com/magic-items/2411988-barrier-tattoo
+* [https://www.dndbeyond.com/magic-items/2411988-barrier-tattoo](https://www.dndbeyond.com/magic-items/2411988-barrier-tattoo)

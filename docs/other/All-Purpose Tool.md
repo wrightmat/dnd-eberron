@@ -6,4 +6,4 @@ As an action, you can focus on the tool to channel your creative forces. Choose 
 
 ### References
 
-* http://dnd5e.wikidot.com/wondrous-items:all-purpose-tool
+* [http://dnd5e.wikidot.com/wondrous-items:all-purpose-tool](http://dnd5e.wikidot.com/wondrous-items:all-purpose-tool)
