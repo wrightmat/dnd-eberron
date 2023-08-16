@@ -1,4 +1,4 @@
- #item[[Magic Items]] [[4. Life of the Party]]
+ #item[[Magic Items]] [[04. Life of the Party]]
 
 *Wondrous item, rare*
 

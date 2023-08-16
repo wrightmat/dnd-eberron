@@ -1,4 +1,4 @@
- #item [[3. Therendor, The Healer]]
+ #item [[03. Therendor, The Healer]]
 
 ### **Daanvi, the Perfect Order**
 

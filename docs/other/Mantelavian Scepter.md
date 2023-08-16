@@ -1,4 +1,4 @@
- #item [[6. Nymm, the Crown]]
+ #item [[06. Nymm, the Crown]]
 
 *Weapon (quarterstaff), uncommon (requires attunement)*
 
