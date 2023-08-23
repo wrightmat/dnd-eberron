@@ -7,6 +7,8 @@ Dream, also known as The Dreaming Dark or il-Lashtavar, is one of the Endless. W
 
 Dream appears as a tall, thin man with bone-white skin, black hair, and two distant stars looking out from the shadows where his eyes should be. Most often they are silver, blue, or white, but when he becomes angered, they have been known to turn red.
 
+Dream once fell in love with an eladrin woman named Nada, who was killed by the giants during an elf uprising, leading him to start the quori invasion of Xen'drik.
+
 **Played By;** Tom Sturridge
 ![https://d.newsweek.com/en/full/2088866/sandman.jpg?w=790&f=92139f6cd3604f8d1c656d5eb494e0f2](https://d.newsweek.com/en/full/2088866/sandman.jpg?w=790&f=92139f6cd3604f8d1c656d5eb494e0f2)
 
