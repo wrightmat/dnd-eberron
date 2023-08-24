@@ -13,7 +13,7 @@
 - Enslavement of the first Eladrin taken from Shae Tirias Tolai. See [[13. Crya, the Lonely Dreamer#Taer Lian Doresh|Taer Lian Doresh]].
 
 60 KYA
-- First contact with the dragons, from whom the Giants learned expertise in arcane magic
+- First contact with the dragons, from whom the Giants learned expertise in arcane magic.
 - Establishment of other outposts, such as on Sarlona.
 
 40 KYA
@@ -23,4 +23,4 @@
 	- One eladrin woman named Nada, a slave of the giants, took a special interest in their new prisoner. She took care of him as much as she could, and worked on a plan to get him out. Over time, their familiarity blossomed into love.
 	- After a hundred years of imprisonment, Nada was finally able to lead a small uprising of the eladrin and drow elves to release Dream and escape Stormreach. Dream was successfully released, but Nada was killed by the giants during the uprising. Dream took her body, and immediately returned to Dal Quor, entombing her body in the spire from which her people originated.
 	- Dream's broken heart forced him to bring about the Turning of the Age, ending the Dreaming Heart. He quickly gathered his quori and invaded Xen'drik, hoping to put an end to the Giants who killed his love.
-	- The war raged for many years, until the giants built a great arcane weapon known as Moonbreaker to sever the ties between Dal Quor and the Material Realm, closing all manifest zones, and preventing the realms from every communicating again.
+	- The war raged for many years, until the giants built a great arcane weapon known as Moonbreaker to sever the ties between Dal Quor and the Material Realm, closing all manifest zones, and preventing the realms from ever communicating again.
