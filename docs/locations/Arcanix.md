@@ -48,7 +48,7 @@ The courtyard beyond the White Arch is the largest outdoor space on any of the f
 
 ### Library of Robideur
 
-Near the top of Skyreach is one of Khorvaire’s finest collections of arcane lore— although librarians in Korranberg would argue the point, and who knows what dark lore lurks in the libraries of Ashtakala?
+Near the top of Skyreach is one of Khorvaire’s finest collections of arcane lore — although librarians in Korranberg would argue the point, and who knows what dark lore lurks in the libraries of Ashtakala?
 
 The library takes up the top four floors of Skyreach’s tallest spire, with bookshelves running from floor to ceiling. Only the doors and the stained-glass windows interrupt the walls crammed with spellbooks, tomes, and grimoires. A unique spell not unlike unseen servant controls the books within the library. An arcanist of the Arcane Congress need only state the title and author of a book, and it slides from its shelf, opens wide, then slowly descends to the arcanist’s waiting hands, lazily flapping its cover open and shut in imitation of a bird.
 
