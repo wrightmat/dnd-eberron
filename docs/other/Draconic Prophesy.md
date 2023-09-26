@@ -12,7 +12,7 @@ In canon, it is unknown what the Draconic Prophecy's nature is. Some argue it is
 
 In this version of Eberron, the Draconic Prophesy documents the history and future of the many different version of Eberron.
 
-If someone were to decipher the historical meaning of the Prophesy, they would learn all about the previous age of Eberron that was focuses on the Gith. Some dragons, such as Aleithilithos, are already familiar with this history and can therefore fully understand that part of the Prophesy.
+If someone were to decipher the historical meaning of the Prophesy, they would learn all about the previous age of Eberron that was focused on the Gith. Some dragons, such as Aleithilithos, are already familiar with this history and can therefore fully understand that part of the Prophesy.
 
 If anyone were able to decipher the full Prophesy, they might learn about all possible futures of Eberron, including the machinations of the planes of Xoriat and Dal Quor.
 
