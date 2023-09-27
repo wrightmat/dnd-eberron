@@ -4,7 +4,7 @@ hp: 76
 ac: 21
 modifier: 2
 ---
- #pc [[Sara Edwards]] [[Ring of Siberys]] [[Therendor (Syrania)]]
+ #pc [[Sara Edwards]] [[Ring of Siberys]] [[Therendor (Syrania)]] [[Church of the Silver Flame]]
 
 * **Alignment**:: Lawful Good
 * **Class**:: Paladin (Oath of Redemption)
