@@ -1,8 +1,8 @@
 ---
-hp: 51
-ac: 14
-modifier: 4
-level: 8
+level: 10
+hp: 63
+ac: 13
+modifier: 5
 ---
  #pc [[Jolene Harper]] [[Rhaan (Thelanis)]] [[Lharvion (Xoriat)]]
 

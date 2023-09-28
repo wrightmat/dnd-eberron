@@ -1,7 +1,7 @@
 ---
-level: 9
-hp: 86
-ac: 13
+level: 10
+hp: 95
+ac: 15
 modifier: 1
 ---
  #pc [[Kerrie]] [[Zarantryr (Kythri)]] [[Therendor (Syrania)]]

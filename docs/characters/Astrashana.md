@@ -1,6 +1,6 @@
 ---
-level: 9
-hp: 56
+level: 10
+hp: 62
 ac: 16
 modifier: 1
 ---

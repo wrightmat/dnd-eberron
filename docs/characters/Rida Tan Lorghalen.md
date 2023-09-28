@@ -1,8 +1,8 @@
 ---
+level: 9
 hp: 66
 ac: 12
 modifier: 3
-level: 9
 ---
  #dmpc
 

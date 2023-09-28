@@ -6,6 +6,10 @@
 * [[Prism]]
 * [[Windsor Stone]]
 
+### Major NPCs
+* [[Rida Tan Lorghalen]]
+* [[Tavick Thantorme]]
+
 ### Chapters
 
 #### Chapter 1: Arend the Alchemist
