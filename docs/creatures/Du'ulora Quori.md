@@ -21,7 +21,7 @@ skillsaves:
   - deception: 10
   - insight: 8
   - perception: 12
-damage_resistances: Acid, Cold, Fire, Psychic
+damage_resistances: Fire, Psychic
 condition_immunities: Charmed, Frightened
 senses: Truesight 120 ft., Passive Perception 22
 languages: Common, Quori, Telepathy 120 ft.
@@ -60,8 +60,7 @@ Du'ulora quori (or blackfuries) appear as a collection of wings and eyes suspend
 
 >_Floating toward you is a bulbous flying mass with three long tendrils, each capped with a cat-like eye. A fourth eye sits in the middle of its warty form, as do three sets of seemingly too-small wings. You feel a silent rage bubbling up inside of you as it moves closer._
 
-***Tactics.*** The du'ulora quori will always focus its initial attacks on any creatures in a rage-like state (from its Blackfury ability), using Mind Thrust to double up damage on any of those foes. It will then use its Rage Blast to shower fiery rage over the rest of the battlefield.
-This quori uses *teleport* to maintain battlefield control, and will use its Possession ability only as a last resort if things get out of hand.
+***Tactics.*** The du'ulora quori will always focus its initial attacks on any creatures in a rage-like state (from its Blackfury ability), using Mind Thrust to double up damage on any of those foes. It will then use its Rage Blast to shower fiery rage over the rest of the battlefield. This quori uses *teleport* to maintain battlefield control, and will use its Possession ability only as a last resort if things get out of hand.
 
 ### References
 

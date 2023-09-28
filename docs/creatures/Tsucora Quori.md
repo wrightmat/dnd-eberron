@@ -20,7 +20,7 @@ saves:
 skillsaves:
   - insight: 5
   - persuasion: 5
-damage_resistances: Psychic
+damage_resistances: Cold, Psychic
 condition_immunities: Charmed, Frightened
 senses: Darkvision 60 ft., Passive Perception 15
 languages: Common, Quori
@@ -50,7 +50,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 
 #### Tsucora Quori
 
-Tsucora quori are nightmarish creatures. Their headless torsos are covered with eyes and twitching limbs, including two massive arms that end in powerful pincers, and a serpentine tail tipped with a vicious stinger. They are cruel and calculating, enjoying the power they wield over others as they concoct elaborate schemes to advance their own positions and discredit their rivals. They represent Fear and roam the nightmarish forests on the edges of Il-Lashtavar.
+Tsucora quori are nightmarish creatures. Their headless torsos are covered with eyes and twitching limbs, including two massive arms that end in powerful pincers, and a serpentine tail tipped with a vicious stinger. They are cruel and calculating, enjoying the power they wield over others as they concoct elaborate schemes to advance their own positions and discredit their rivals. They represent Fear and roam the Nightmare Forests on the edges of Il-Lashtavar.
 
 >_Moving toward you are several headless torsos covered with eyes and twitching limbs, including two massive arms that end in powerful pincers, and a serpentine tail tipped with a vicious stinger. A sense of fear and dread weighs on you as they approach._
 

@@ -21,7 +21,7 @@ skillsaves:
   - deception: 12
   - insight: 5
   - perception: 8
-damage_resistances: Psychic
+damage_resistances: Acid, Psychic
 condition_immunities: Charmed, Frightened
 senses: Darkvision 60 ft., Passive Perception 18
 languages: Common, Quori, Telepathy 120 ft.
