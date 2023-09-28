@@ -50,7 +50,9 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 
 #### Tsucora Quori
 
-Tsucora quori are nightmarish creatures. Their headless torsos are covered with eyes and twitching limbs, including two massive arms that end in powerful pincers, and a serpentine tail tipped with a vicious stinger. They are cruel and calculating, enjoying the power they wield over others as they concoct elaborate schemes to advance their own positions and discredit their rivals. They represent the emotion of Fear and roam the nightmarish forests on the edges of Il-Lashtavar.
+Tsucora quori are nightmarish creatures. Their headless torsos are covered with eyes and twitching limbs, including two massive arms that end in powerful pincers, and a serpentine tail tipped with a vicious stinger. They are cruel and calculating, enjoying the power they wield over others as they concoct elaborate schemes to advance their own positions and discredit their rivals. They represent Fear and roam the nightmarish forests on the edges of Il-Lashtavar.
+
+>_Moving toward you are several headless torsos covered with eyes and twitching limbs, including two massive arms that end in powerful pincers, and a serpentine tail tipped with a vicious stinger. A sense of fear and dread weighs on you as they approach._
 
 _**Relentless Schemers.**_ Constantly jockeying for position, each tsucora hopes to be reincarnated as a more powerful servant of the Dreaming Dark. As such, their plans are as often focused on the ruination of competitors as they are on the furthering of il-Lashtavar’s plans. When they aren’t serving in the cities of their nightmare realm, they hunt the dreaming spirits of mortals.
 

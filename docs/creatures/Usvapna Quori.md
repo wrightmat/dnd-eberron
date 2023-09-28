@@ -48,7 +48,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 
 #### Usvapna Quori
 
-Usvapnas, in their quori forms, are up to 10 feet tall, possessing a mostly humanoid torso, but with four arms ending in crab-like pincers, and a long snakelike tail. They do not have a head; instead a cloud of darkness rests where the head would normally be.
+Usvapnas, in their quori forms, are up to 10 feet tall, possessing a mostly humanoid torso, but with four arms ending in crab-like pincers, and a long snakelike tail. They do not have a head; instead a cloud of darkness rests where the head would normally be. They represent Sloth, and reside in the Blue Tower of the Outer Ring of Il-Lashtavar.
 
 ***Tactics.*** The uvaspena quori begins combat with its Thoughtscour Shriek, using it again whenever available. It relies on the shriek to provide it with hosts for its Dream Invade ability, using its claws instead to try to kill creatures resistant to it, first prioritizing clerics and paladis, then bards, sorcerers, and warlocks. If it gets a creature grappled with all four claws, it always uses its Tear Apart ability in place of two of its attacks.
 If approaching conflict from a distance, it holds its action to Psychoport in just before its turn. If surprised, the quori Psychoports away to gain control of the situation before re-engaging.

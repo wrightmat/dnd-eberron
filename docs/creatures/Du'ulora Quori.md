@@ -52,15 +52,19 @@ reactions:
 
 #### Quori
 
-Dal Quor is the plane of dreams and is currently dominated by a dark power known as il-Lashtavar, or the Dreaming Dark. Il-Lashtavar is served by a host of aberrations that are the embodiments of dreams and nightmares — the quori. Because it is difficult for anything to physically travel to or from Dal Quor, quori in Eberron are typically encountered while possessing a host body. The [Inspired](https://www.dndbeyond.com/monsters/489058-inspired) are the most common type of willing host for the quori and are described earlier in this chapter.
+Dal Quor is the plane of dreams and is currently dominated by a dark power known as il-Lashtavar, or the Dreaming Dark. Il-Lashtavar is served by a host of aberrations that are the embodiments of dreams and nightmares — the quori. Because it is difficult for anything to physically travel to or from Dal Quor, quori in Eberron are typically encountered while possessing a host body. The Inspired are the most common type of willing host for the quori and are described earlier in this chapter.
 
 #### Du'ulora Quori
 
-Du'ulora appear as a collection of wings and eyes suspended in shadows, with three protruding tendrils that end in an eyeball.
+Du'ulora quori (or blackfuries) appear as a collection of wings and eyes suspended in shadows, with three protruding tendrils that end in an eyeball. Du'ulora are cold, calculating creatures who thrive on battle and defeating worthy foes. They represent Rage (which they feed off of in others) and reside in the Red Tower of the Outer Ring of Il-Lashtavar.
 
-Du'ulora are cold, calculating creatures who thrive on battle and defeating worthy foes. They feed off of the rage they induce in others.
+>_Floating toward you is a bulbous flying mass with three long tendrils, each capped with a cat-like eye. A fourth eye sits in the middle of its warty form, as do three sets of seemingly too-small wings. You feel a silent rage bubbling up inside of you as it moves closer._
+
+***Tactics.*** The du'ulora quori will always focus its initial attacks on any creatures in a rage-like state (from its Blackfury ability), using Mind Thrust to double up damage on any of those foes. It will then use its Rage Blast to shower fiery rage over the rest of the battlefield.
+This quori uses *teleport* to maintain battlefield control, and will use its Possession ability only as a last resort if things get out of hand.
 
 ### References
 
 * https://eberron.fandom.com/wiki/Du%27ulora_quori
 * https://www.reddit.com/r/UnearthedArcana/comments/w9q4lt/complete_quori_6_variants_with_lore_and_tactics/
+* https://dragonage.fandom.com/wiki/Rage_demon

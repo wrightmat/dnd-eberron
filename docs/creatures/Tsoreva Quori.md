@@ -44,9 +44,9 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 
 #### Tsoreva Quori
 
-The tsoreva quori (or quori mind blades) are the enforcers and shock troopers of the quori. They represent the emotion of Envy, and reside in the Black Tower of the Outer Ring of Il-Lashtavar.
+The tsoreva quori (or quori mind blades) are the enforcers and shock troopers of the quori. They represent Envy, and reside in the Black Tower of the Outer Ring of Il-Lashtavar.
 
->_The clicking of many legs draws your attention to monstrous creature perched above you. Dozens of spindly legs sprout from a segmented body, and blades of energ y protrude from the ends of two handless arms. Glowing blue eyes glare from the top of a headless torso, watching your every move.''_
+>_The clicking of many legs draws your attention to monstrous creatures headed your way. Dozens of spindly legs sprout from their segmented bodies, and blades of energy protrude from the ends of handless arms. Glowing blue eyes glare from the top of headless torsos, watching your every move.''_
 
 ***Tactics.*** Tsoreva quori skirmish in and out of combat, opening with their Mindslice Frenzy, then making a single attack and using their Flickering Psychoport to get into a position where they can exit combat while provoking only a single attack of opportunity. From there, they will often take cover and use the Dodge action until their Mindslice Frenzy recharges, at which point they scuttle back in.
 The tsoreva quori focuses all of its attacks on a single creature, then as soon as that creature drops, it dives into its dreams and takes cover there until it either kills the creature or gains control of it with its Waking Nightmare ability.
