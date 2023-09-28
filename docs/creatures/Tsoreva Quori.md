@@ -40,17 +40,17 @@ actions:
 
 #### Quori
 
-Dal Quor is the plane of dreams and is currently dominated by a dark power known as il-Lashtavar, or the Dreaming Dark. Il-Lashtavar is served by a host of aberrations that are the embodiments of dreams and nightmares — the quori. Because it is difficult for anything to physically travel to or from Dal Quor, quori in Eberron are typically encountered while possessing a host body. The [Inspired](https://www.dndbeyond.com/monsters/489058-inspired) are the most common type of willing host for the quori and are described earlier in this chapter.
+Dal Quor is the plane of dreams and is currently dominated by a dark power known as il-Lashtavar, or the Dreaming Dark. Il-Lashtavar is served by a host of aberrations that are the embodiments of dreams and nightmares — the quori. Because it is difficult for anything to physically travel to or from Dal Quor, quori in Eberron are typically encountered while possessing a host body. The Inspired are the most common type of willing host for the quori and are described earlier in this chapter.
 
 #### Tsoreva Quori
 
-The tsoreva quori or quori mind blades are the enforcers and shock troopers of the quori.
+The tsoreva quori (or quori mind blades) are the enforcers and shock troopers of the quori. They represent the emotion of Envy, and reside in the Black Tower of the Outer Ring of Il-Lashtavar.
 
-Tsoreva quori skirmish in and out of combat, opening with their Mindslice Frenzy, then making a single attack and using their Flickering Psychoport to get into a position where they can exit combat while provoking only a single attack of opportunity. From there, they will often take cover and use the Dodge action until their Mindslice Frenzy recharges, at which point they scuttle back in.
+>_The clicking of many legs draws your attention to monstrous creature perched above you. Dozens of spindly legs sprout from a segmented body, and blades of energ y protrude from the ends of two handless arms. Glowing blue eyes glare from the top of a headless torso, watching your every move.''_
 
+***Tactics.*** Tsoreva quori skirmish in and out of combat, opening with their Mindslice Frenzy, then making a single attack and using their Flickering Psychoport to get into a position where they can exit combat while provoking only a single attack of opportunity. From there, they will often take cover and use the Dodge action until their Mindslice Frenzy recharges, at which point they scuttle back in.
 The tsoreva quori focuses all of its attacks on a single creature, then as soon as that creature drops, it dives into its dreams and takes cover there until it either kills the creature or gains control of it with its Waking Nightmare ability.
-
-When it gains control of a creature, it makes basic attacks or casts cantrips the first turn while it gets accustomed to the body, then on following turns tried to go nova and use as many limited resources as possible to attack the creature's allies.
+When it gains control of a creature, it makes basic attacks or casts cantrips the first turn while it gets accustomed to the body, then on following turns tried to go nova and use as many limited resources as possible to attack the creature's allies. Once they have learned enough to emulate their target's psyche, they assume their target's physical form and identity. The original person becomes almost impossible to recognize from the demon, who is a perfect replica of its target. Its mannerisms, tics, and opinions are identical to those of the original person.
 
 ### References
 
