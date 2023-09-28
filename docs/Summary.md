@@ -7,6 +7,7 @@
 * [[Windsor Stone]]
 
 ### Major NPCs
+
 * [[Rida Tan Lorghalen]]
 * [[Tavick Thantorme]]
 
@@ -14,7 +15,7 @@
 
 #### Chapter 1: Arend the Alchemist
 
-* The adventures of Chapter 1 revolve around the players' backstories and exploring the various areas of Eberron.
+* The adventures of Chapter 1 revolve around the players' backstories and exploring the various areas of Eberron, and serves as an introductory chapter.
 * After meeting in Delethorn, the group bands together to address an issue that's been brought to their attention by the mayor. Investigating a newly opened factory leads them to discover undead workers that are shipping food out to somewhere. Eventually, a found map leads to more locations across the continent, and experienced dreams give more visceral details.
 * Each player is tied to a marker on the map, which related to their story in some way and houses a bad guy that's designed to be a foil to their class.
 * After finding and addressing the problems at the "Flame" (Onme), "Water" (Windsor), "Triangles" (Bystan), and "Runestone" (Astra) markers, the party's attention is drawn to one final marker on the map - a crown over the country of Karrnath.
