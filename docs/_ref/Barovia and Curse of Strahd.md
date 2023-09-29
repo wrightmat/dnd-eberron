@@ -1,10 +1,21 @@
 
+
+### Outline
+
+##### Introduction
+
+1. Entry into the mists (below).
+	1. Discovery of Krezk's Gatehouse, and possible short conversation with their bergomaster.
+	2. Approach of werewolves from the woods (player with highest passive perception hears howls).
+2. Appearance of a carriage quickly approaching, with a woman (Madame Eva) yelling to the group to get in before the werewolves get here.
+3. Tarroka card reading by Madame Eva, which she requires since she gave them a ride.
+4. Group arrives at Tser Pool Encampment (Area G).
+
+### Eberron Connection
+
 Per existing canon, the mists spread across Cyre on the Day of Mourning, killing or transforming anything caught within them. If you follow this path, you could say that those things twisted by the Mourning died in Eberron but lived on in the Demiplane of Dread.
 
 A possible twist on this is to start a campaign with the player characters in Cyre on the Day of Mourning (you’d want to make clear to the players that they’ve never heard of the Mourning, and that the war is still going on). They see the dead-grey mists, but when the mists pass over them… nothing happens. Everything appears to be the same. Continue the adventure as normal, but the players will eventually learn of the impassible wall of mist surrounding the borders of the nation, and discover the slowly spreading darkness that is corrupting every aspect of their land.
-
-
-
 
 ### References
 
