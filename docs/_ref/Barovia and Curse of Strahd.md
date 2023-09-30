@@ -14,7 +14,7 @@
 	1. Madame Eve goes to her tent. The players can keep asking her questions or talk to others at the camp.
 	2. Near enough to both the Village of Barovia and Castle Ravenloft to connect to those areas, but should probably direct players toward the Village first.
 3. Village of Barovia
-	1. Invitation to dinner should come while the players are in the Village.
+	1. Rahadin is sitting in his black carriage at the entrance to the Village, and hand the players their invitation before they enter.
 4. Castle Ravenloft #1 (Dinner Invite)
 5. Tracts (each with a possible visit to Castle Ravenloft?)
 6. Amber Temple
