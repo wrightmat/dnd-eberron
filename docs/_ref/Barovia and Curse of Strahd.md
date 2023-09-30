@@ -14,47 +14,57 @@
 	1. Madame Eve goes to her tent. The players can keep asking her questions or talk to others at the camp.
 	2. Near enough to both the Village of Barovia and Castle Ravenloft to connect to those areas, but should probably direct players toward the Village first.
 
-##### Village of Barovia
+#### Village of Barovia
 
 1. Rahadin is sitting in his black carriage at the entrance to the Village, and hand the players their invitation before they enter.
 
-##### Castle Ravenloft Initial (Dinner Invite)
+#### Castle Ravenloft Initial (Dinner Invite)
 
 1. Vary dinner guests based on tracts below? Otherwise just having the brides there would be the most fun (or at least Escher and one of the brides, to limit multiple character roleplay).
 
 #### Optional Tracts
 Each with a possible visit to Castle Ravenloft?
 
-1. Tract 1: Wereravens
-		1. Town of Valakki
-		2. Wizard of Wines?
-2. Tract 2: Witches (slash Druids?) - if Ranger/Druid in party
-		1. Ruins of Berez
-		2. Wizard of Wines? (short visit? may need to cut for time)
-		3. Yester Hill
-3. Tract 3: Werewolves - if Warlock/Cleric in party
-		1. Village of Krezk
-		2. Abbey of Saint Markovia
-		3. Werewolf Den? (is this too much? maybe just incorporate the werewolves into the town?)
-4. Tract 4: Dragons? - if Paladin or Dragonborn in party
-		1. Town of Valakki?
-		2. Argynvostholt
+##### Tract 1: Wereravens
 
-##### Amber Temple
+1. Town of Valakki
+2. Wizard of Wines?
+
+##### Tract 2: Witches (slash Druids?)
+If Ranger/Druid in party
+
+1. Ruins of Berez
+2. Wizard of Wines? (short visit? may need to cut for time)
+3. Yester Hill
+
+##### Tract 3: Werewolves
+If Warlock/Cleric in party
+
+1. Village of Krezk
+2. Abbey of Saint Markovia
+3. Werewolf Den? (is this too much? maybe just incorporate the werewolves into the town?)
+##### Tract 4: Dragons?
+If Paladin or Dragonborn in party
+
+1. Town of Valakki?
+2. Argynvostholt
+
+#### Amber Temple
 
 
-##### Castle Ravenloft Final
+#### Castle Ravenloft Final
 
 1. Likely two sessions - one to allow the characters to explore the castle on their own (with at least one visit from Strahd), and one to do the four-hour real-time final showdown with Strahd.
 
 ### Sessions
 
-1. Introduction - Entry into the Mists, Tser Pool Encampment, Village of Barovia, Castle Ravenloft #1
-2. Castle Ravenloft #2 continued, Tracts
-3. Tracts continued
-4. Amber Temple
-5. Castle Ravenloft #3
-6. Castle Ravenloft #3 (Four Hours Countdown)
+Sesson Zero (10/5/23) - Character Creation + Introduction (Entry into the Mists, Tser Pool Encampment)
+Session 1 (10/12/23) - Village of Barovia, Castle Ravenloft Initial
+Session 2 (10/19/23) - Castle Ravenloft Initial continued, Tracts
+Session 3 (10/26/23) - Tracts continued
+Session 4 (11/2/23) - Amber Temple
+Session 5 (11/9/23) - Castle Ravenloft Final (Exploration)
+Session 6 (11/16/23) - Castle Ravenloft Final (Four Hours Countdown)
 
 ### Strahd Quotes
 
@@ -62,7 +72,12 @@ Each with a possible visit to Castle Ravenloft?
 
 >You are here because I willed it; you exist because I allow it, and you will die because I demand it.
 
-### Eberron Connection
+### Into the Mists (Introduction)
+
+
+>The smell of incense burns in your nose. Madam Eva, the old, hunched Vistani woman with piercing eyes and a strange smile, sits in the carriage with you. The fortune-teller offered to take you in her carriage to her encampment near the Village of Barovia in exchange for having your fortunes read. At the time it seemed a good way to avoid the wolves and other dangers of the wood, but looking into her inscrutable face, you can’t be sure. Madam Eva pulls a deck of tarokka cards from a box in her lap. She shuffles the cards and begins setting them on a small table in the middle of the carriage…
+
+#### Eberron Connection
 
 Per existing canon, the mists spread across Cyre on the Day of Mourning, killing or transforming anything caught within them. If you follow this path, you could say that those things twisted by the Mourning died in Eberron but lived on in the Demiplane of Dread.
 
