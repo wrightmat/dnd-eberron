@@ -14,6 +14,7 @@
 	1. Madame Eve goes to her tent. The players can keep asking her questions or talk to others at the camp.
 	2. Near enough to both the Village of Barovia and Castle Ravenloft to connect to those areas, but should probably direct players toward the Village first.
 3. Village of Barovia
+	1. Invitation to dinner should come while the players are in the Village.
 4. Castle Ravenloft #1 (Dinner Invite)
 5. Tracts (each with a possible visit to Castle Ravenloft?)
 6. Amber Temple
@@ -28,6 +29,13 @@
 4. Amber Temple
 5. Castle Ravenloft #3
 6. Castle Ravenloft #3 (Four Hours Countdown)
+
+### Strahd Quotes
+
+>All that is required to leave this land, is my permission; or, my life. The former will never be given, and the latter will never be taken.
+
+>You are here because I willed it; you exist because I allow it, and you will die because I demand it.
+
 ### Eberron Connection
 
 Per existing canon, the mists spread across Cyre on the Day of Mourning, killing or transforming anything caught within them. If you follow this path, you could say that those things twisted by the Mourning died in Eberron but lived on in the Demiplane of Dread.
