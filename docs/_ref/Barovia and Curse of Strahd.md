@@ -45,7 +45,7 @@ At the end of the reading, the wagon stops at the Tsar Pool Encampment (Area G, 
 
 #### Village of Barovia
 
-1. Rahadin is sitting in his black carriage at the entrance to the Village, and hand the players their invitation before they enter.
+1. When the players return after accomplishing something (getting Ireena to Vallaki, meeting their Ally, etc.), Rahadin is sitting in his black carriage at the entrance to the Village, and hands the players their invitation to dinner.
 
 #### Castle Ravenloft Initial (Dinner Invite)
 
