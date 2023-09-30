@@ -2,17 +2,46 @@
 
 ### Outline
 
-#### Introduction
+#### Into the Mists (Introduction)
 
-1. Entry into the Mists (below).
-	1. Discovery of Krezk's Gatehouse, and possible short conversation with their bergomaster.
-	2. Approach of werewolves from the woods (player with highest passive perception hears howls).
-	2. Appearance of a Vistani wagon quickly approaching, with a woman (Madame Eva) yelling to the group to get in before the werewolves get here.
-	3. Tarroka card reading by Madame Eva, which she requires since she gave them a ride.
-		1. Limit cards to only certain areas like Castle Ravenloft and the tract areas below.
-2. Tser Pool Encampment (Area G).
-	1. Madame Eve goes to her tent. The players can keep asking her questions or talk to others at the camp.
-	2. Near enough to both the Village of Barovia and Castle Ravenloft to connect to those areas, but should probably direct players toward the Village first.
+>[!info]-  Eberron Connection
+>Per existing canon, the mists spread across Cyre on the Day of Mourning, killing or transforming anything caught within them. If you follow this path, you could say that those things twisted by the Mourning died in Eberron but lived on in the Demiplane of Dread.
+>
+>A possible twist on this is to start a campaign with the player characters in Cyre on the Day of Mourning (you’d want to make clear to the players that they’ve never heard of the Mourning, and that the war is still going on). They see the dead-grey mists, but when the mists pass over them… nothing happens. Everything appears to be the same. Continue the adventure as normal, but the players will eventually learn of the impassible wall of mist surrounding the borders of the nation, and discover the slowly spreading darkness that is corrupting every aspect of their land.
+
+For any characters coming from Eberron (they will encounter anyone from Barovia immediately after this):
+
+>The sound of clanging swords fills your ears - but it's become a persistent drone you've become used to as the war has raged on and on. That's what makes the sudden silence so jarring. The eerie silence persists as a dead-grey mist rolls toward you and your entire squadron, enveloping you and blocking your vision. But when the mists pass over you... nothing happens. Everything feels exactly the same. As you walk forward, the mists eventually begin to clear, but all you see is a single road surrounded by forests.
+
+Anyone looking around will see a fortified village, with a stone perimeter wall, in the near distance along the road (read the S1 flavor text). This is the Village of Krezk (Chapter 8, pg. 143), but the players won't be able to get past the gates at this point. Play out all of S2, including the introduction of Burgomaster Dmitri Krezkov ("Are you Strahd’s allies or enemies?"). After that's run its course, or the players try to gain access to the village, then the player with the highest Passive Perception hears the howling of wolves in the distance. If they persist, then all of the players hear the howling of wolves a little closer. If the players decide they need to flee somewhere else, then have the Vistani wagon appear (and read the text below).
+
+>A colorful barrel-topped wagon rockets through the chilly night air, wild horses speeding it toward you. A voice rings out in your direction: "I'm here to help - grab hold of the wagon and climb in!".
+
+Call for an Athletics or Acrobatics check (DC 12) to climb onto the wagon. Madam Eva can save one player by grabbing their hand if they fail, but anyone else will still be on the road (in which case the players in the wagon may convince Eva to circle back around and pick them up, which she will do if they agree to a reading). After everyone is on board, read the text below.
+
+>The smell of incense burns in your nose. Madam Eva, the old, hunched Vistani woman with piercing eyes and a strange smile, sits in the carriage with you. The fortune-teller offered to take you in her carriage to her encampment near the Village of Barovia in exchange for having your fortunes read. At the time it seemed a good way to avoid the wolves and other dangers of the wood, but looking into her inscrutable face, you can’t be sure. Madam Eva pulls a deck of tarokka cards from a box in her lap. She shuffles the cards and begins setting them on a small table in the middle of the carriage…
+
+Perform the tarokka card reading, but with a stacked deck. Put only the following cards in the common deck:
+* Paladin (2 of Swords/Spades)
+* Mercenary (4 of Swords/Spades)
+* Berserker (6 of Swords/Spades)
+* Dictator (8 of Swords/Spades)
+* Warrior (Master of Swords/10 of Spades)
+* Transmuter (1 of Stars/Ace of Clubs)
+* Evoker (6 of Stars/Clubs)
+* Necromancer (8 of Stars/Clubs)
+* Swashbuckler (1 of Coins/Ace of Diamonds)
+* Merchant (4 of Coins/Diamonds)
+* Guild Member (5 of Coins/Diamonds)
+* Miser (9 of Coins/Diamonds)
+* Shepherd (4 of Glyphs/Hearts)
+* Anarchist (6 of Glyphs/Hearts)
+* Priest (Master of Glyphs/10 of Hearts)
+* Hooded One (7 of Swords/Spades)
+* Bishop (8 of Glyphs/Hearts)
+Switch cards 4 and 5 (from the high deck) if needed to provide a better NPC ally for the players.
+
+At the end of the reading, the wagon stops at the Tsar Pool Encampment (Area G, pg. 36), and Madame Eve retires to her tent. From there, the players can continue to the Village of Barovia (Chapter 3, Area E, pg. 41).
 
 #### Village of Barovia
 
@@ -72,47 +101,6 @@ Session 6 (11/16/23) - Castle Ravenloft Final (Four Hours Countdown)
 >All that is required to leave this land, is my permission; or, my life. The former will never be given, and the latter will never be taken.
 
 >You are here because I willed it; you exist because I allow it, and you will die because I demand it.
-
-### Into the Mists (Introduction)
-
-For any characters coming from Eberron (they will encounter anyone from Barovia immediately after this):
-
->The sound of clanging swords fills your ears - but it's become a persistent drone you've become used to as the war has raged on and on. That's what makes the sudden silence so jarring. The eerie silence persists as a dead-grey mist rolls toward you and your entire squadron, enveloping you and blocking your vision. But when the mists pass over you... nothing happens. Everything feels exactly the same. As you walk, the mists eventually begin to clear, but all you see is a single road surrounded by forests.
-
-Anyone looking around will see a fortified village, with a stone perimeter wall, in the near distance along the road (read the S1 flavor text). This is the Village of Krezk (Chapter 8, pg. 143), but the players won't be able to get past the gates at this point. Play out all of S2, including the introduction of Burgomaster Dmitri Krezkov ("Are you Strahd’s allies or enemies?"). After that's run its course, or the players try to gain access to the village, then the player with the highest Passive Perception hears the howling of wolves in the distance. If they persist, then all of the players hear the howling of wolves a little closer. If the players decide they need to flee somewhere else, then have the Vistani wagon appear (and read the text below).
-
->A colorful barrel-topped wagon rockets through the chilly night air, wild horses speeding it toward you. A voice rings out in your direction: "I'm here to help - grab hold of the wagon and climb in!".
-
-Call for an Athletics or Acrobatics check (DC 12) to climb onto the wagon. Madam Eva can save one player by grabbing their hand if they fail, but anyone else will still be on the road (in which case the players in the wagon may convince Eva to circle back around and pick them up, which she will do if they agree to a reading). After everyone is on board, read the text below.
-
->The smell of incense burns in your nose. Madam Eva, the old, hunched Vistani woman with piercing eyes and a strange smile, sits in the carriage with you. The fortune-teller offered to take you in her carriage to her encampment near the Village of Barovia in exchange for having your fortunes read. At the time it seemed a good way to avoid the wolves and other dangers of the wood, but looking into her inscrutable face, you can’t be sure. Madam Eva pulls a deck of tarokka cards from a box in her lap. She shuffles the cards and begins setting them on a small table in the middle of the carriage…
-
-Perform the tarokka card reading, but with a stacked deck. Put only the following cards in the common deck:
-* Paladin (2 of Swords/Spades)
-* Mercenary (4 of Swords/Spades)
-* Berserker (6 of Swords/Spades)
-* Dictator (8 of Swords/Spades)
-* Warrior (Master of Swords/10 of Spades)
-* Transmuter (1 of Stars/Ace of Clubs)
-* Evoker (6 of Stars/Clubs)
-* Necromancer (8 of Stars/Clubs)
-* Swashbuckler (1 of Coins/Ace of Diamonds)
-* Merchant (4 of Coins/Diamonds)
-* Guild Member (5 of Coins/Diamonds)
-* Miser (9 of Coins/Diamonds)
-* Shepherd (4 of Glyphs/Hearts)
-* Anarchist (6 of Glyphs/Hearts)
-* Priest (Master of Glyphs/10 of Hearts)
-* Hooded One (7 of Swords/Spades)
-* Bishop (8 of Glyphs/Hearts)
-
-
-
-#### Eberron Connection
-
-Per existing canon, the mists spread across Cyre on the Day of Mourning, killing or transforming anything caught within them. If you follow this path, you could say that those things twisted by the Mourning died in Eberron but lived on in the Demiplane of Dread.
-
-A possible twist on this is to start a campaign with the player characters in Cyre on the Day of Mourning (you’d want to make clear to the players that they’ve never heard of the Mourning, and that the war is still going on). They see the dead-grey mists, but when the mists pass over them… nothing happens. Everything appears to be the same. Continue the adventure as normal, but the players will eventually learn of the impassible wall of mist surrounding the borders of the nation, and discover the slowly spreading darkness that is corrupting every aspect of their land.
 
 ### References
 
