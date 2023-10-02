@@ -10,6 +10,10 @@ When enough liquid courage is imbibed, make a DC 10 Constitution saving throw or
 
 4. Disadvantage on Attack Rolls; Damage Resistance
 
-5. Become Unconscious
+5. Become Unconscious (pass out, blind drunk)
 
 To cast a spell, make a DC 10 Constitution saving throw or the spell fails. The spell is not wasted. A short rest removes one level of inebriation; a long rest removes all effects of inebriation.
+
+### References
+
+* Based on Exhaustion mechanics from the PHB.

@@ -238,6 +238,7 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
 **Table- Madness Short-Term Effects**
+
 | d100   | Effect (lasts 1d10 minutes)                                                                                                  |
 |--------|------------------------------------------------------------------------------------------------------------------------------|
 | 01-20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
@@ -253,6 +254,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 |        |                                                                                                                              |
 
 **Table- Madness Long-Term Effects**
+
 | d100   | Effect (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01-10  | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.                                                                                       |
@@ -270,6 +272,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 |        |                                                                                                                                                                                                                                      |
 
 **Table- Madness Indefinite Flaws**
+
 | d100   | Flaw (lasts until cured)                                                                                                                 |
 |--------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 01-15  | "Being drunk keeps me sane."                                                                                                             |
