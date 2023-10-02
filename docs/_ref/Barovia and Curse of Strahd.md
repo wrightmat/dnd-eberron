@@ -39,7 +39,7 @@ Perform the tarokka card reading, but with a stacked deck. Put only the followin
 * Priest (Master of Glyphs/10 of Hearts)
 * Hooded One (7 of Swords/Spades)
 * Bishop (8 of Glyphs/Hearts)
-Switch cards 4 and 5 (from the high deck) if needed to provide a better NPC ally for the players.
+Switch cards 4 and 5 (from the high deck), if needed, to provide a better NPC ally for the players.
 
 At the end of the reading, the wagon stops at the Tsar Pool Encampment (Area G, pg. 36), and Madame Eve retires to her tent. From there, the players can continue to the Village of Barovia (Chapter 3, Area E, pg. 41).
 
