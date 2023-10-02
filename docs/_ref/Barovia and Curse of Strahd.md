@@ -88,7 +88,10 @@ If Paladin or Dragonborn in party
 
 ### Sessions
 
-Sesson Zero (10/5/23) - Character Creation + Introduction (Entry into the Mists, Tser Pool Encampment)
+Session Zero (10/5/23) - Character Creation + Introduction (Entry into the Mists, Tser Pool Encampment)
+* **Stress and Ideals/Bonds/Flaws.** Stress works in conjunction with your ideals, bonds, and flaws, so when something happens in line with or against those traits, it will impact your character in the short term (and eventually in the long term). Exhaustion mechanics are adjusted so their effects are only physical and Stress is mental.
+* **Keeping Things Moving.** With an abbreviated campaign, we have to try to keep things moving. I reserve the right to break out the 1 minute timer if an encounter is dragging - if that timer runs out on your turn before you decide on what you want to do, then you take the Dodge Action and we move on. Please be thinking about your next turn while others are taking theirs.
+* **Lines and Veils.** In my initial read of the entire book, I didn't see anything that was over my lines that I couldn't just easily leave out. Mostly we're dealing with basic gothic horror things here, so if you can watch a vampire movie without issues, you should be comfortable here. The worst part that we might see is some "light torture". But let's come up with a way to communicate when folks are uncomfortable (messaging me might not work since I don't usually have Discord open or my phone in front of me).
 Session 1 (10/12/23) - Village of Barovia, Castle Ravenloft Initial
 Session 2 (10/19/23) - Castle Ravenloft Initial continued, Tracts
 Session 3 (10/26/23) - Tracts continued
