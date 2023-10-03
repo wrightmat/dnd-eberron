@@ -109,10 +109,12 @@ Have at least one appearance of Strahd in each tract, or even better, a visit to
 ##### Tract 1: Ravens
 
 1. Village of Barovia (area E, chapter 13)
-2. Town of Vallaki (area N, chapter 5)
-3. Wizard of Wines (area W, chapter 12)
-4. Yester Hill (area Y, chapter 14)
-5. Amber Temple (area X, chapter 13)
+	* Father Donavich suggests that Ireena be brought to the fortified town of Vallaki.
+	* Morgantha, the night hag in the guise of an old woman, should communicate that Strahd comes to a place called Yester Hill on occasion to gaze upon an image of his , even though he knows it can’t be real. The
+1. Town of Vallaki (area N, chapter 5)
+2. Wizard of Wines (area W, chapter 12)
+3. Yester Hill (area Y, chapter 14)
+4. Amber Temple (area X, chapter 13)
 
 Add cards to reading:
 * Torturer (9 of Swords/Spades)
@@ -127,6 +129,7 @@ Add cards to reading:
 If Ranger/Druid in party.
 
 1. Village of Barovia (area E, chapter 13)
+	* Morgantha, the night hag in the guise of an old woman, should communicate that Strahd’s obsession before Ireena was a woman named Marina, whom he met in a small village on the shore of the Luna River. That village is now destroyed, but exploring it may expose some secrets.
 2. Ruins of Berez (area U, chapter 10)
 3. Yester Hill (area Y, chapter 14)
 4. Wizard of Wines (area W, chapter 12)
@@ -143,10 +146,12 @@ Add cards to reading:
 If Warlock/Cleric in party.
 
 1. Village of Barovia (area E, chapter 13)
+	* Father Donavich suggests that Ireena be brought to the Abbey of Saint Markovia in Krezk.
+	* Morgantha, the night hag in the guise of an old woman, could communicate that Strahd’s most carefully guarded secret is a temple of forbidden lore hidden in the mountains south of Vallaki.
+1. Village of Krezk - including Abbey of Saint Markovia (area S, chapter 8)
 2. Lake Zarovich (area L)
-3. Village of Krezk - including Abbey of Saint Markovia (area S, chapter 8)
-4. Werewolf Den (area Z, chapter 15)
-5. Amber Temple (area X, chapter 13)
+3. Werewolf Den (area Z, chapter 15)
+4. Amber Temple (area X, chapter 13)
 
 Add cards to reading:
 * Myrmidon (5 of Swords/Spades)
@@ -159,10 +164,12 @@ Add cards to reading:
 If Paladin or Dragonborn in party.
 
 1. Village of Barovia (area E, chapter 13)
-2. Town of Vallaki (area N, chapter 5)
-3. Ruins of Berez (area U, chapter 10)
-4. Argynvostholt (area Q, chapter 7)
-5. Amber Temple (area X, chapter 13)
+	* Father Donavich suggests that Ireena be brought to the fortified town of Vallaki.
+	* Morgantha, the night hag in the guise of an old woman, should communicate that Strahd has undead enemies in Barovia, namely the fallen knights of the Order of the Silver Dragon. These revenants can be found in a ruined mansion west of Vallaki.
+1. Town of Vallaki (area N, chapter 5)
+2. Ruins of Berez (area U, chapter 10)
+3. Argynvostholt (area Q, chapter 7)
+4. Amber Temple (area X, chapter 13)
 
 Add cards to reading:
 * Torturer (9 of Swords/Spades)
@@ -198,6 +205,12 @@ Session 6 (11/16/23) - Castle Ravenloft Final (Four Hours Countdown)
 >All that is required to leave this land, is my permission; or, my life. The former will never be given, and the latter will never be taken.
 
 >You are here because I willed it; you exist because I allow it, and you will die because I demand it.
+
+### Accents and Miscellaneous
+
+* Eastern Barovia (Village of Barovia, Castle Ravenloft) - Romanian (traditional "vampire accent")
+* Western Barovia (Vallaki and Krezk) - British (Cockney for the commoners and higher accents for the Baron and Madame Wachter)
+* Visanti are Halflings from Eberron, with a similar flair for color and tribal tradition (and also using a Romanian accent).
 
 ### References
 
