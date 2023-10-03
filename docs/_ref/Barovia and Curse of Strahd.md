@@ -54,30 +54,63 @@ At the end of the reading, the wagon stops at the Tsar Pool Encampment (Area G, 
 #### Optional Tracts
 Each with a possible visit to Castle Ravenloft?
 
-##### Tract 1: Wereravens
+##### Tract 1: Ravens
 
-1. Town of Valakki
-2. Wizard of Wines?
-3. Yester Hill?
+1. Town of Vallaki (area N)
+2. Wizard of Wines (area W)
+3. Yester Hill (area Y)
 
-##### Tract 2: Witches (slash Druids?)
-If Ranger/Druid in party
+Add cards to reading:
+* Torturer (9 of Swords)
+* Illusionist (7 of Stars)
+* Beggar (6 of Coins)
+* Rogue (Master of Coins)
+* Traitor (9 of Glyphs)
+* Trader (3 of Coins)
+* Druid (5 of Glyphs)
 
-1. Ruins of Berez
-3. Yester Hill
-4. Wizard of Wines? (short visit? may need to cut for time)
+##### Tract 2: Witches
+If Ranger/Druid in party.
 
-##### Tract 3: Werewolves
-If Warlock/Cleric in party
+1. Ruins of Berez (area U)
+2. Yester Hill (area Y)
+3. Wizard of Wines (area W)
 
-1. Village of Krezk
-2. Abbey of Saint Markovia
-3. Werewolf Den? (is this too much? maybe just incorporate the werewolves into the town?)
-##### Tract 4: Dragons?
-If Paladin or Dragonborn in party
+Add cards to reading:
+* Enchanter (3 of Stars)
+* Conjurer (9 of Stars)
+* Trader (3 of Coins)
+* Druid (5 of Glyphs)
 
-1. Town of Valakki?
-2. Argynvostholt
+##### Tract 3: Wolves
+If Warlock/Cleric in party.
+
+1. Lake Zarovich (area L)
+2. Village of Krezk - including Abbey of Saint Markovia (area S)
+3. Werewolf Den (area Z)
+
+Add cards to reading:
+* Myrmidon (5 of Swords)
+* Philanthropist (2 of Coins)
+* Monk (1 of Glyphs)
+* Missionary (2 of Glyphs)
+* Healer (3 of Glyphs)
+
+##### Tract 4: Dragons
+If Paladin or Dragonborn in party.
+
+1. Town of Vallaki (area N)
+2. Ruins of Berez (area U)
+3. Argynvostholt (area Q)
+
+Add cards to reading:
+* Torturer (9 of Swords)
+* Illusionist (7 of Stars)
+* Beggar (6 of Coins)
+* Rogue (Master of Coins)
+* Traitor (9 of Glyphs)
+* 1 OF SWORDS — AVENGER
+* 3 OF STARS — ENCHANTER
 
 #### Amber Temple
 
