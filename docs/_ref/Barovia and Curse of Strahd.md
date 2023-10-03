@@ -110,7 +110,7 @@ Have at least one appearance of Strahd in each tract, or even better, a visit to
 
 1. Village of Barovia (area E, chapter 13)
 	* Father Donavich suggests that Ireena be brought to the fortified town of Vallaki.
-	* Morgantha, the night hag in the guise of an old woman, should communicate that Strahd comes to a place called Yester Hill on occasion to gaze upon an image of his , even though he knows it can’t be real. The
+	* Morgantha, the night hag in the guise of an old woman, should communicate that Strahd comes to a place called Yester Hill on occasion to gaze upon an image of his ancestral home city in the fog, even though he knows it can’t be real.
 1. Town of Vallaki (area N, chapter 5)
 2. Wizard of Wines (area W, chapter 12)
 3. Yester Hill (area Y, chapter 14)
