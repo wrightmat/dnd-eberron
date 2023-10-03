@@ -38,6 +38,7 @@ Perform the tarokka card reading, but with a stacked deck. Put only the followin
 * Anarchist (6 of Glyphs/Hearts)
 * Priest (Master of Glyphs/10 of Hearts)
 * Hooded One (7 of Swords/Spades)
+* Elementalist (5 of Stars/Clubs)
 * Bishop (8 of Glyphs/Hearts)
 Switch cards 4 and 5 (from the high deck), if needed, to provide a better NPC ally for the players.
 
@@ -51,66 +52,79 @@ At the end of the reading, the wagon stops at the Tsar Pool Encampment (Area G, 
 
 1. Vary dinner guests based on tracts below? Otherwise just having the brides there would be the most fun (or at least Escher and one of the brides, to limit multiple character roleplay).
 
+Welcome, my friends. I am Count Strahd von Zarovich, Lord of Barovia, Master of Castle Ravenloft. Tonight, you are my guests, and no harm shall befall you while you remain in my home. I am a man of my word, and you have it.
+
+You may wonder why I have invited you here. My reasons are threefold. First, an announcement. That shall be revealed in good time. Second, business. There is a bargain to be struck between us, and we must negotiate its finer points. Third, for the mere pleasure of your company, and for me to learn more about those who have had, might I say, an influence on my realm. Perhaps I misspeak on the last point, for I already know all I could wish to know about you. Let it suffice to say that I am eager to hear of each of you in your own words.
 #### Optional Tracts
-Each with a possible visit to Castle Ravenloft?
+
+Have at least one appearance of Strahd in each tract, or even better, a visit to Castle Ravenloft if possible.
 
 ##### Tract 1: Ravens
 
-1. Town of Vallaki (area N)
-2. Wizard of Wines (area W)
-3. Yester Hill (area Y)
+1. Village of Barovia (area E, chapter 13)
+2. Town of Vallaki (area N, chapter 5)
+3. Wizard of Wines (area W, chapter 12)
+4. Yester Hill (area Y, chapter 14)
+5. Amber Temple (area X, chapter 13)
 
 Add cards to reading:
-* Torturer (9 of Swords)
-* Illusionist (7 of Stars)
-* Beggar (6 of Coins)
-* Rogue (Master of Coins)
-* Traitor (9 of Glyphs)
-* Trader (3 of Coins)
-* Druid (5 of Glyphs)
+* Torturer (9 of Swords/Spades)
+* Illusionist (7 of Stars/Clubs)
+* Beggar (6 of Coins/Diamonds)
+* Rogue (Master of Coins/Diamonds)
+* Traitor (9 of Glyphs/Hearts)
+* Trader (3 of Coins/Diamonds)
+* Druid (5 of Glyphs/Hearts)
 
 ##### Tract 2: Witches
 If Ranger/Druid in party.
 
-1. Ruins of Berez (area U)
-2. Yester Hill (area Y)
-3. Wizard of Wines (area W)
+1. Village of Barovia (area E, chapter 13)
+2. Ruins of Berez (area U, chapter 10)
+3. Yester Hill (area Y, chapter 14)
+4. Wizard of Wines (area W, chapter 12)
+5. Amber Temple (area X, chapter 13)
 
 Add cards to reading:
-* Enchanter (3 of Stars)
-* Conjurer (9 of Stars)
-* Trader (3 of Coins)
-* Druid (5 of Glyphs)
+* Enchanter (3 of Stars/Clubs)
+* Conjurer (9 of Stars/Clubs)
+* Trader (3 of Coins/Diamonds)
+* Druid (5 of Glyphs/Hearts)
+* Diviner (2 of Stars)
 
 ##### Tract 3: Wolves
 If Warlock/Cleric in party.
 
-1. Lake Zarovich (area L)
-2. Village of Krezk - including Abbey of Saint Markovia (area S)
-3. Werewolf Den (area Z)
+1. Village of Barovia (area E, chapter 13)
+2. Lake Zarovich (area L)
+3. Village of Krezk - including Abbey of Saint Markovia (area S, chapter 8)
+4. Werewolf Den (area Z, chapter 15)
+5. Amber Temple (area X, chapter 13)
 
 Add cards to reading:
-* Myrmidon (5 of Swords)
-* Philanthropist (2 of Coins)
-* Monk (1 of Glyphs)
-* Missionary (2 of Glyphs)
-* Healer (3 of Glyphs)
+* Myrmidon (5 of Swords/Spades)
+* Philanthropist (2 of Coins/Diamonds)
+* Monk (1 of Glyphs/Hearts)
+* Missionary (2 of Glyphs/Hearts)
+* Healer (3 of Glyphs/Hearts)
 
 ##### Tract 4: Dragons
 If Paladin or Dragonborn in party.
 
-1. Town of Vallaki (area N)
-2. Ruins of Berez (area U)
-3. Argynvostholt (area Q)
+1. Village of Barovia (area E, chapter 13)
+2. Town of Vallaki (area N, chapter 5)
+3. Ruins of Berez (area U, chapter 10)
+4. Argynvostholt (area Q, chapter 7)
+5. Amber Temple (area X, chapter 13)
 
 Add cards to reading:
-* Torturer (9 of Swords)
-* Illusionist (7 of Stars)
-* Beggar (6 of Coins)
-* Rogue (Master of Coins)
-* Traitor (9 of Glyphs)
-* 1 OF SWORDS — AVENGER
-* 3 OF STARS — ENCHANTER
+* Torturer (9 of Swords/Spades)
+* Illusionist (7 of Stars/Clubs)
+* Rogue (Master of Coins/Diamonds)
+* Avenger (1 of Swords/Spades)
+* Enchanter (3 of Stars/Clubs)
+* Abjurer (4 of Stars/Clubs)
+* Conjurer (9 of Stars/Clubs)
 
 #### Amber Temple
 
