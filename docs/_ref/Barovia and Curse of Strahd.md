@@ -46,15 +46,60 @@ At the end of the reading, the wagon stops at the Tsar Pool Encampment (Area G, 
 
 #### Village of Barovia
 
-1. When the players return after accomplishing something (getting Ireena to Vallaki, meeting their Ally, etc.), Rahadin is sitting in his black carriage at the entrance to the Village, and hands the players their invitation to dinner.
+When the players return after accomplishing something (getting Ireena to Vallaki, meeting their Ally, etc.), Rahadin is sitting in his black carriage at the entrance to the Village, and hands the players their invitation to dinner.
 
 #### Castle Ravenloft Initial (Dinner Invite)
 
-1. Vary dinner guests based on tracts below? Otherwise just having the brides there would be the most fun (or at least Escher and one of the brides, to limit multiple character roleplay).
+Have Strahd actually there, rather than an illusion, and have an actual dinner (no ambush). Vary dinner guests based on tracts below? Otherwise just having the brides there would be the most fun (or at least Escher and one of the brides, to limit multiple character roleplay).
 
-Welcome, my friends. I am Count Strahd von Zarovich, Lord of Barovia, Master of Castle Ravenloft. Tonight, you are my guests, and no harm shall befall you while you remain in my home. I am a man of my word, and you have it.
+##### Hors d'Oeuvres ― Brie & Pear Finger Sandwiches; Marinated Almond-Stuffed Olives; and Truffled Mushroom Tartlets
 
-You may wonder why I have invited you here. My reasons are threefold. First, an announcement. That shall be revealed in good time. Second, business. There is a bargain to be struck between us, and we must negotiate its finer points. Third, for the mere pleasure of your company, and for me to learn more about those who have had, might I say, an influence on my realm. Perhaps I misspeak on the last point, for I already know all I could wish to know about you. Let it suffice to say that I am eager to hear of each of you in your own words.
+Rahadin escorts the party into the dining hall, invites them to dine upon pre-arranged hors d'oeuvres while he notifies Strahd and the other guests of their arrival, and informs them it should only take ten minutes at the most. "My master was unsure when to expect you, so indulge us this slight inconvenience of waiting." This gives players a chance to explore the room or the nearby rooms if they wish.
+
+The serving trays, plates, and other items should look ornate but slightly tarnished or faded, reflecting the decaying grandeur of the rest of Barovia.
+
+##### Soup ― Lobster Bisque
+
+Soup is served immediately after Strahd's three brides and Escher arrive. They escorted in by Cyrus Belview, who introduces himself as their maître d' for the evening. The mongrelfolk manservant musters all his dignity as he boasts about his position, but he ultimately comes off more pathetic than anything else.
+
+This course is a chance for players to get to know Strahd's four lovers outside of combat, apart from Strahd himself. Whatever you choose for their personalities, this is these NPCs' chance to shine, especially with Strahd not around to inhibit their speech or overshadow them.
+
+##### Salad ― Romaine with Light Olive Oil & Red Wine Vinaigrette
+
+**Introduction:**
+>Welcome, my friends. I am Count Strahd von Zarovich, Lord of Barovia, Master of Castle Ravenloft. Tonight, you are my guests, and no harm shall befall you while you remain in my home. I am a man of my word, and you have it.
+>You may wonder why I have invited you here. My reasons are threefold. First, an announcement. That shall be revealed in good time. Second, business. There is a bargain to be struck between us, and we must negotiate its finer points. Third, for the mere pleasure of your company, and for me to learn more about those who have had, might I say, an influence on my realm. Perhaps I misspeak on the last point, for I already know all I could wish to know about you. Let it suffice to say that I am eager to hear of each of you in your own words.
+
+##### Entrée
+
+The bisque is cleared away, replaced by a plate of sliced tender beef drizzled in a dark sauce and framed by vibrant greens. Placed between the characters are bowls of freshly baked bread, still warm from the oven, and pads of freshly churned butter.
+
+**On what brought them to Barovia:**
+>Perhaps I did, to make you my playthings. Perhaps you are merely the last in a long line of sordid fortune seekers brought here to amuse me. Children have their dolls, men their womenfolk, their wine, their games of chance. I have you.
+>Or perhaps not. Perhaps you brought yourselves here, by the force of your yearnings. For there is something or someone each of you wants in Barovia. You must not underestimate the power of desire. It has built empires, slain invincible kings. It can shape the world you inhabit.
+>Or perhaps there is no reason at all. There is nothing wrong with a mystery. You will learn that in time. I will say no more on the subject.
+
+**On the Vistani:**
+>My glorious, beloved itinerants. So much of the flavour of Barovia, wouldn’t you say? The scent of their spices, the strum of their stringed instruments. I am forever indebted to them, and they therefore have privileges unafforded to my other subjects. They saved my life once. True. Long ago, such a thing was still possible.
+
+##### Dessert
+
+The entree dishes are cleared away, to be replaced by saucers topped with an arrangement of fresh fruits. The bright reds and yellows of the berries, picked at the height of their seasons, stands in stark contrast to the darkness of the castle.
+
+##### Digestif
+
+Strahd pours each character a small glass of reserve port, imported from an outside winery by the Vistani.
+
+##### Spending the Night
+
+Once the dinner is concluded, Strahd will offer to let the party stay in his castle until morning. He will also grant them leave to explore the castle at their leisure, save for the castle’s lower levels.
+
+Should the party accept Strahd’s invitation, they are led by Cyrus Belview to the lounge and guest room (areas K49 and K50) where they may spend the night. After attending to their needs, Cyrus excuses himself and returns to his chambers (area K66).
+
+In the morning, the characters are roused by Cyrus who leads them the courtyard. There, the black carriage waits to take them anywhere in Barovia.
+
+Strahd’s guarantee of safe passage lasts until the final member of the party exits the carriage. At that point, the door to the carriage slams shut of its own accord, and the horses immediately dart off toward the castle. An ambush soon follows, comprised of your choice of Strahd’s minions.
+
 #### Optional Tracts
 
 Have at least one appearance of Strahd in each tract, or even better, a visit to Castle Ravenloft if possible.
@@ -159,3 +204,5 @@ Session 6 (11/16/23) - Castle Ravenloft Final (Four Hours Countdown)
 * https://keith-baker.com/dragonmarks-50216-ravenloft/
 * https://www.reddit.com/r/CurseofStrahd/comments/nmyhee/is_it_possible_to_cram_curse_of_strahd_into_6/
 * https://www.dndbeyond.com/posts/359-strahd-must-die-tonight-how-to-play-ravenloft-in-a
+* https://www.reddit.com/r/CurseofStrahd/comments/r6xbr4/dinner_with_strahd_a_cheat_sheet/
+* https://lunchbreakheroes.com/dinner-with-the-devil/
