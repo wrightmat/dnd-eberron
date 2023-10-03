@@ -50,7 +50,7 @@ When the players return after accomplishing something (getting Ireena to Vallaki
 
 #### Castle Ravenloft Initial (Dinner Invite)
 
-Have Strahd actually there, rather than an illusion, and have an actual dinner (no ambush). Vary dinner guests based on tracts below? Otherwise just having the brides there would be the most fun (or at least Escher and one of the brides, to limit multiple character roleplay).
+Rather than having an illusion of Strahd in the dining room when they arrive, follow the sequence below to play out a full multiple course dinner where Strahd is introduced as part of the progression. Strahd and his escorts never actually eat anything, but only sip on goblets of red liquid.
 
 ##### Hors d'Oeuvres ― Brie & Pear Finger Sandwiches; Marinated Almond-Stuffed Olives; and Truffled Mushroom Tartlets
 
@@ -65,6 +65,8 @@ Soup is served immediately after Strahd's three brides and Escher arrive. They e
 This course is a chance for players to get to know Strahd's four lovers outside of combat, apart from Strahd himself. Whatever you choose for their personalities, this is these NPCs' chance to shine, especially with Strahd not around to inhibit their speech or overshadow them.
 
 ##### Salad ― Romaine with Light Olive Oil & Red Wine Vinaigrette
+
+Strahd arrives as the salad course is being removed, and immediately introduces himself.
 
 **Introduction:**
 >Welcome, my friends. I am Count Strahd von Zarovich, Lord of Barovia, Master of Castle Ravenloft. Tonight, you are my guests, and no harm shall befall you while you remain in my home. I am a man of my word, and you have it.
@@ -206,3 +208,4 @@ Session 6 (11/16/23) - Castle Ravenloft Final (Four Hours Countdown)
 * https://www.dndbeyond.com/posts/359-strahd-must-die-tonight-how-to-play-ravenloft-in-a
 * https://www.reddit.com/r/CurseofStrahd/comments/r6xbr4/dinner_with_strahd_a_cheat_sheet/
 * https://lunchbreakheroes.com/dinner-with-the-devil/
+* https://www.reddit.com/r/CurseofStrahd/comments/jhm5yg/ten_course_dinner_menu_at_castle_ravenloft/
