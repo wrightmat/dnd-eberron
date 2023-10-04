@@ -1,6 +1,6 @@
  #mechanic 
 
-The stress system is based on the exhaustion system, overhauling exhaustion and adding a new system entirely for stress. The following changes are made to exhaustion:
+The Stress system is based on the Exhaustion system, overhauling Exhaustion and adding a new system entirely for Stress. The following changes are made to Exhaustion:
 * 1 - Disadvantage on physical* ability checks
 * 2 - Speed halved
 * 3 - Disadvantage on attack rolls and physical* saving throws
@@ -29,14 +29,14 @@ Some potential causes for Stress include (but are not limited to):
 * Seeing a party member drop to 0 hit points
 * Negative social encounters
 * Anything that plays to a flaw or goes against a bond or ideal
-When a player is in a situation that may cause stress, have them roll a Wisdom saving throw (DC 10 by default, or another DC as determined by the DM depending on the situation), with their Stress increasing on a failure.
+When a player is in a situation that may cause stress, have them roll a Wisdom saving throw (DC 10 plus any stress they may already have by default, or another DC as determined by the DM depending on the situation), with their Stress increasing on a failure. For example, if a player already has 2 levels of Stress and encounters a new stressful situation, then the DC would be 12 for the Wisdom saving throw.
 
 Some ways to remove Stress may include (but aren't limited to):
 * Receiving encouragement from members of your party
 * Performing an action that adheres to a bond or ideal
 * Winning a battle without taking damage
 * The *lesser restoration* spell can relieve one level of Stress.
-Stress is removed without a check. The DM may also choose for one level of Stress to be removed on a long rest.
+Stress is removed without a check. The DM may also choose for one level of Stress to be removed on a Long Rest.
 
 The idea behind Stress is that it's not just the kind of stress you experience every day when completing a hard task. This is lasting, lingering stress - the kind that makes you doubt yourself, your friends, your ability to complete the quest, and ultimately your concept of how the world works. It has your players answer the question of what their characters do to de-stress, or how they would try to help a party member suffering from stress.
 
