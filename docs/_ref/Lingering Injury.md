@@ -1,15 +1,15 @@
 #mechanic 
 
-
+Whenever a player would be dead (drops to 0 hit points and then fails death saves), optionally they can take a Lingering Injury instead. In this case they drop out of the current combat immediately to nurse their new injury. The PC can either select from or roll on the table below, or make up their own injury that fits the situation (and mechanically reduces one of their ability scores by one permanently). Any of the injuries below should also be flavored to the conditions surrounding the player's near death - for example, "Damaged Skin" could be third degree burns from fire damage, extreme frostbite from cold damage, or boils from acid damage.
 
 
 | d20 | Injury                 | Effect                                                                                                                                                                                                            | Likely Damage Types                    |
 | --- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| 1   | Damaged Eye(s)         | If you still have at least one eye, you have disadvantage on Perception checks that rely on sight and on ranged attack rolls. If you have no eyes that remain undamaged, then you are Blinded.                                                 | Piercing, Slashing                     |
+| 1   | Damaged Eye(s)         | If you still have at least one eye, you have disadvantage on Perception checks that rely on sight and on ranged attack rolls. If you have no eyes that remain undamaged, then you are Blinded.                    | Piercing, Slashing                     |
 | 2   | Damaged Ear(s)         | If you still have at least one ear, you have disadvantage on Perception checks relying on hearing. If you have no ears that remain undamaged, then you are Deafened.                                              | Thunder                                |
 | 3   | Damaged Nose           | You have disadvantage on Perception checks relying on smell.                                                                                                                                                      | Bludgeoning, Piercing, Slashing, Force |
 | 4   | Damaged Hand           | You have disadvantage on attack rolls and ability checks relying on the hand, and you cannot perform somatic components with that hand.                                                                           | Slashing                               |
-| 5   | Damaged Arm            | You lose the use of one arm. You can no longer hold anything with two hands, and you can only hold a single object at a time.                                                                                                                                                                                     | Bludgeoning, Piercing, Slashing, Force |
+| 5   | Damaged Arm            | You lose the use of one arm. You can no longer hold anything with two hands, and you can only hold a single object at a time.                                                                                     | Bludgeoning, Piercing, Slashing, Force |
 | 6   | Damaged Leg            | Your walking speed is halved, as is your jump distance.                                                                                                                                                           | Bludgeoning, Piercing, Slashing, Force |
 | 7   | Damaged Skin           | When you gain this injury, and again at the end of each long rest you take, make a DC 10 Con save. On a failure, your maximum HP is reduced by 1. If your maximum HP reaches 0, you die.                          | Fire, Cold, Acid, Necrotic, Radiant    |
 | 8   | Brain Damage           | You have disadvantage on Wis and Int checks, as well as Con saves to maintain concentration.                                                                                                                      | Bludgeoning, Psychic                   |
@@ -25,3 +25,8 @@
 | 18  | Migranes               | While in bright light, you have disadvantage on attack rolls and Perception checks that rely on hearing or sight. In addition, whenever you take Thunder damage, you are Stunned until the end of your next turn. | Psychic, Thunder                       |
 | 19  | Vertigo                | You have disadvantage on Dex checks and saves.                                                                                                                                                                    | Poison, Necrotic, Radiant              |
 | 20  | Wild Magic             | Roll on the Wild Magic Table until you get a surge that affects only you.                                                                                                                                         | Force                                  |
+
+### References
+
+* https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Injuries
+* https://www.gmbinder.com/share/-LWu_LDHSZko9udS4vwN
