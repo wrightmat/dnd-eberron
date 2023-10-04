@@ -70,7 +70,7 @@ Strahd arrives as the salad course is being removed, and immediately introduces 
 
 **Introduction:**
 >Welcome, my friends. I am Count Strahd von Zarovich, Lord of Barovia, Master of Castle Ravenloft. Tonight, you are my guests, and no harm shall befall you while you remain in my home. I am a man of my word, and you have it.
->You may wonder why I have invited you here. My reasons are threefold. First, an announcement. That shall be revealed in good time. Second, business. There is a bargain to be struck between us, and we must negotiate its finer points. Third, for the mere pleasure of your company, and for me to learn more about those who have had, might I say, an influence on my realm. Perhaps I misspeak on the last point, for I already know all I could wish to know about you. Let it suffice to say that I am eager to hear of each of you in your own words.
+>You may wonder why I have invited you here. It is for the mere pleasure of your company, and for me to learn more about those who have had, might I say, an influence on my realm. I have been observing you closely, and already know much about you, but am eager to hear of each of you in your own words.
 
 ##### Entrée
 
