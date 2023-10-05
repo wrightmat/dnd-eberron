@@ -1,4 +1,4 @@
-#mechanic 
+ #mechanic 
 
 Whenever a player would be dead (drops to 0 hit points and then fails death saves), optionally they can take a Lingering Injury instead. In this case they drop out of the current combat immediately to nurse their new injury. The PC can either select from or roll on the table below, or make up their own injury that fits the situation (and mechanically reduces one of their ability scores by one permanently). Any of the injuries below should also be flavored to the conditions surrounding the player's near death - for example, "Damaged Skin" could be third degree burns from fire damage, extreme frostbite from cold damage, or boils from acid damage.
 
