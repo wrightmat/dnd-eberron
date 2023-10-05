@@ -52,20 +52,24 @@ When the players return after accomplishing something (getting Ireena to Vallaki
 
 Rather than having an illusion of Strahd in the dining room when they arrive, follow the sequence below to play out a full multiple course dinner where Strahd is introduced as part of the progression. Strahd and his escorts never actually eat anything, but only sip on goblets of red liquid.
 
-##### Hors d'Oeuvres ― Brie & Pear Finger Sandwiches; Marinated Almond-Stuffed Olives; and Truffled Mushroom Tartlets
+##### Hors d'Oeuvres
+Brie & Pear Finger Sandwiches; Marinated Almond-Stuffed Olives; and Truffled Mushroom Tartlets
 
 Rahadin escorts the party into the dining hall, invites them to dine upon pre-arranged hors d'oeuvres while he notifies Strahd and the other guests of their arrival, and informs them it should only take ten minutes at the most. "My master was unsure when to expect you, so indulge us this slight inconvenience of waiting." This gives players a chance to explore the room or the nearby rooms if they wish.
 
 The serving trays, plates, and other items should look ornate but slightly tarnished or faded, reflecting the decaying grandeur of the rest of Barovia.
 
-##### Soup ― Lobster Bisque
+##### Soup
+Lobster Bisque
 
 Soup is served immediately after Strahd's three brides and Escher arrive. They escorted in by Cyrus Belview, who introduces himself as their maître d' for the evening. The mongrelfolk manservant musters all his dignity as he boasts about his position, but he ultimately comes off more pathetic than anything else.
 
 This course is a chance for players to get to know Strahd's four lovers outside of combat, apart from Strahd himself. Whatever you choose for their personalities, this is these NPCs' chance to shine, especially with Strahd not around to inhibit their speech or overshadow them.
 
-##### Salad ― Romaine with Light Olive Oil & Red Wine Vinaigrette
+##### Salad
+Romaine with Light Olive Oil & Red Wine Vinaigrette
 
+The bisque is cleared away, replaced by fresh green lettuce drizzled with light oil and a blood red vinaigrette.
 Strahd arrives as the salad course is being removed, and immediately introduces himself.
 
 **Introduction:**
@@ -74,7 +78,7 @@ Strahd arrives as the salad course is being removed, and immediately introduces 
 
 ##### Entrée
 
-The bisque is cleared away, replaced by a plate of sliced tender beef drizzled in a dark sauce and framed by vibrant greens. Placed between the characters are bowls of freshly baked bread, still warm from the oven, and pads of freshly churned butter.
+The salad is cleared away, replaced by a plate of sliced tender beef drizzled in a dark sauce and framed by vibrant greens. Placed between the characters are bowls of freshly baked bread, still warm from the oven, and pads of freshly churned butter.
 
 **On what brought them to Barovia:**
 >Perhaps I did, to make you my playthings. Perhaps you are merely the last in a long line of sordid fortune seekers brought here to amuse me. Children have their dolls, men their womenfolk, their wine, their games of chance. I have you.
