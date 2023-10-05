@@ -108,7 +108,7 @@ Strahd’s guarantee of safe passage lasts until the final member of the party e
 
 #### Optional Tracts
 
-Have at least one appearance of Strahd in each tract, or even better, a visit to Castle Ravenloft if possible.
+Have at least one appearance of Strahd in each tract, or even better, a visit to Castle Ravenloft if possible. If none of the suggestions below apply to select a tract, turn over cards 4 and 5 in the reading first - if a card is Raven (Ravens), Innocent (Witches), Beast (Wolves), or Ghost (Dragons), then use that tract. Otherwise select randomly or default to Ravens (Tract 1).
 
 ##### Tract 1: Ravens
 
