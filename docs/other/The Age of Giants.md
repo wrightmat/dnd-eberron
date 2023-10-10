@@ -24,7 +24,7 @@ Time moved on. The Turning of the Age happened on Dal Quor, despite the previous
 
 80,000 years ago (80 KYA)
 - The start of the Age of Giants.
-- Enslavement of the first Eladrin taken from Shae Tirias Tolai. See [[13. Crya, the Lonely Dreamer#Taer Lian Doresh|Taer Lian Doresh]].
+- Enslavement of the first Eladrin taken from Shae Tirias Tolai. See [[3-13. Crya, the Lonely Dreamer#Taer Lian Doresh|Taer Lian Doresh]].
 
 60 KYA
 - First contact with the dragons, from whom the Giants learned expertise in arcane magic.

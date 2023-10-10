@@ -34,7 +34,7 @@ At any time they can decide to backtrack though, and return to any previous loca
 
 ### Astronomical Bodies
 
-[[14. Susurrus, Palace of Whispers]] is located exactly halfway between Barrakas and Rhaan, after it was randomly encountered after leaving Barrakas.
+[[3-14. Susurrus, Palace of Whispers]] is located exactly halfway between Barrakas and Rhaan, after it was randomly encountered after leaving Barrakas.
 
 | d12 | Moon                     | Appearance and Portal Color | Associated Plane | Assoc. Dragonmark | Distance from Eberron | Travel Time from Eberron |
 | --- | ------------------------ | --------------------------- | ---------------- | ----------------- | --------------------- | ------------------------ |
@@ -80,7 +80,7 @@ At any time they can decide to backtrack though, and return to any previous loca
 | 81-82 | `encounter: 1: Asteroid Spider`                                                                                                              | `dice:2d6-3` |
 | 83-84 | `encounter: 1: Living Star`                                                                                                                  | `dice:2d6`   |
 | 85-90 | The Gorgon, the ship built by Houses Cannith and Lyrandar and captained by Lei d'Cannith (as outlined in the Eberron Space Race section of [[Shardjammer]]) |              |
-| 91-96 | [[14. Susurrus, Palace of Whispers]], the headquarters of the rogue githyanki sect known as The Whisperers                                   |              |
+| 91-96 | [[3-14. Susurrus, Palace of Whispers]], the headquarters of the rogue githyanki sect known as The Whisperers                                   |              |
 | 97-98 | Sarcophagus surrounded by permanent black tentacles (as per the spell), with `encounter: 1: Eldritch Lich` inside                            | `dice:2d6-8` |
 | 99-00 | `encounter: 1: Mind Flayer Arcanist, 1: Intellect Devourer` both in magical stasis bound in a giant Khyber dragonshard. They reactivate if the shard is damaged in any way. | `dice:2d6-8` |
 ^shardspace-random-encounters

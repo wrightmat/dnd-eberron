@@ -1,4 +1,4 @@
- #lore [[02. Olarune, The Sentinel]]
+ #lore [[3-02. Olarune, The Sentinel]]
 
 Three Faces of the Wild: Arawai, Balinor, and Shargon (The Devourer).
 

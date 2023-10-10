@@ -1,4 +1,4 @@
- #lore [[04. Eyre, the Anvil]]
+ #lore [[3-04. Eyre, the Anvil]]
 
 Three Faces of War: Dol Arrah, Dol Dorn, and Dol Azur (the Mockery)
 
