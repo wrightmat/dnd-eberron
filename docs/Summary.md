@@ -7,9 +7,10 @@
 * [[Kerrie]]
 * [[Sara Edwards]]
 
-### Settings
+### Setting(s)
 
 - [[Eberron]]
+- Wildspace (aka "The Up"), the area of space above Eberron in which the thirteen planes of reality exist as moons.
 - Barovia, as a Domain of Dread created on the Day of Mourning, and tied to the Dark Powers of Mabar.
 
 ### Campaigns
