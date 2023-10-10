@@ -25,6 +25,9 @@ modifier: 5
 
 ### Development
 
+* Adara met an adventuring party while traveling in the Mournland, and decided to join their adventure.
+* During her adventures, Adara learned much more about her patron, Delirium, and her family, the Endless. She stopped plans that Delirium's brother Dream and her mother Night had to change the history of Eberron.
+* At the end of that campaign, after dropping off others on Eberron, Adara and Prism took the New Dawn back into wildspace on route for the Rock of Bral. They eventually flew through the silvery curtain and Adara returned to her home.
 
 ### Memories
 

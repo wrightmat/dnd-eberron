@@ -21,6 +21,7 @@ modifier: 2
 
 * In Lharvion 998 YK, she was promoted to Knight Lieutenant by Jaela Daran herself, in recognition of her service to the Church of the Silver Flame in neutralizing the Tarnished Templar threat.
 * In Zarantyr 999 YK, she was promoted to Knight Captain by Jaela, due to the information she passed on to the church concerning Project Siberys and House Cannith's use of Dolurrh souls in Warforged. She was given authority over all church matters in the "up".
+* Onme had many adventures in wildspace with her group on board the New Dawn, as she continued to train her companion-at-arms, Tavick. At the conclusion of those adventures, she decided to return to Eberron, where she sponsored Tavick's admission into seminary. She then returned to wildspace aboard Tira's Sacrifice, the Church of the Silver Flame's first shardjammer, along with her best friend Spiney who served as captain.
 
 ### Timeline
 

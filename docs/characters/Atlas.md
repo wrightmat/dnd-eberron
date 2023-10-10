@@ -1,6 +1,12 @@
+---
+level: 5
+hp: 33
+ac: 11
+modifier: 1
+---
  #pc [[Kerrie]]
 
-* **Alignment**:: 
+* **Alignment**:: Neutral
 * **Class**:: Warlock (The Undead)
 * **Gender**:: Male
 * **Pronouns**:: he/him

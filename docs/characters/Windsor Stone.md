@@ -25,8 +25,8 @@ Windsor’s favorite bookshop is in North Towers (Lower Central) near his parent
 ### Development
 
 * Windsor and Astra went on their first date in Sharn in Sypheros 998 YK (when they returned to the city to break the news of their coming space adventures to his parents), where Windsor showed them several of his favorite places in Sharn. Astra also got a copy of a baby picture showing Windsor in a sailor outfit from Tourmaline.
-
 * Windsor and Astra officially started dating in 999 YK, during their 9 months around the world.
+* Windsor and the rest of their group left for wildspace ("The Up") aboard a ship called the New Dawn. After that adventure was completed, Windsor returned to Eberron with Astra to settle down. Astra took him back to Adar, to their favorite clifftop at dawn, and proposed marriage. The two were married in Sharn, and settled down in Arcanix where Windsor returned to his academic life.
 
 ### Timeline
 

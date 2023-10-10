@@ -28,6 +28,7 @@ Once Aeren’s experiments were complete, and he had no more use for Prism, she 
 
 * In Sypheros 998 YK, Prism joined the Clifftop Adventurers’ Guild in Sharn (paying a year’s membership), and commissioned a dragonshard-powered grappling hook on a rope (like Batman).
 * In 999 YK, from Zarantyr until Sypheros, Prism spent time with Merrix in his secret lab in Sharn, learning to build things and to help the warforged of the area.
+* Prism left for wildspace with the rest of the group on board the New Dawn. During these adventures, Prism learned much more about Celeste and their history together, while getting to know Celeste's ex-wife Alice. At the conclusion of the adventures, Prism asked Destiny (one of the Endless) for a wish that would allow both Celeste and Alice to have physical bodies once again. With Celeste and Alice together once again, and Prism alone in her head, she decided to set off with Adara on the New Dawn to continue adventuring (after dropping off the rest of the group on Eberron). Prism is presumably on the Rock of Bral with Adara, but exact whereabouts are unknown.
 
 ### Memories
 
