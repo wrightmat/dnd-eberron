@@ -6,14 +6,14 @@ modifier: 1
 ---
  #pc [[Jolene Harper]]
 
-* **Alignment**:: 
+* **Alignment**:: Neutral
 * **Class**:: Druid / Circle of the Moon
 * **Gender**:: Female
 * **Pronouns**:: she/her
 * **Race**:: Shadar-kai
-* **Ideal**:: 
-* **Bond**:: 
-* **Flaw**:: 
+* **Ideal**:: People. I'm committed to the people I care about, not ideals.
+* **Bond**:: I will do anything to protect nature.
+* **Flaw**:: I am suspicious of strangers and expect the worst of them.
 
 ### Backstory
 
