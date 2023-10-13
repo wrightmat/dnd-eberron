@@ -4,7 +4,7 @@ hp: 38
 ac: 15
 modifier: 3
 ---
- #pc [[Claire]]
+ #pc [[Claire Elrod]]
 
 * **Alignment**:: Lawful Neutral
 * **Class**:: Monk (Way of Mercy)

@@ -4,7 +4,7 @@ hp: 33
 ac: 11
 modifier: 1
 ---
- #pc [[Kerrie]]
+ #pc [[Kerrie Heath]]
 
 * **Alignment**:: Neutral
 * **Class**:: Warlock (The Undead)

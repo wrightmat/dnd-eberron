@@ -1,4 +1,4 @@
- #player [[Astrashana]]
+ #player
 
 Discord:: Cardinal460
 Pronouns:: she/they

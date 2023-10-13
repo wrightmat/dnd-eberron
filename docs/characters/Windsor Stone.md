@@ -4,7 +4,7 @@ hp: 95
 ac: 15
 modifier: 1
 ---
- #pc [[Kerrie]] [[Zarantryr (Kythri)]] [[Therendor (Syrania)]]
+ #pc [[Kerrie Heath]] [[Zarantryr (Kythri)]] [[Therendor (Syrania)]]
 
 * **Alignment**:: Lawful Good
 * **Class**:: Barbarian (Storm Herald)

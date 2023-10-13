@@ -1,4 +1,4 @@
- #player [[Prism]]
+ #player
 
 Discord:: ClaireEvolved36
 Pronouns:: she/her

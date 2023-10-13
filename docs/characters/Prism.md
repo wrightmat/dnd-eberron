@@ -4,7 +4,7 @@ hp: 63
 ac: 15
 modifier: 4
 ---
- #pc [[Claire]] [[Rhaan (Thelanis)]] [[Aryth (Dolurrh)]]
+ #pc [[Claire Elrod]] [[Rhaan (Thelanis)]] [[Aryth (Dolurrh)]]
 
 * **Alignment**:: Chaotic Neutral
 * **Class**:: Rogue (Phantom) / Artificer

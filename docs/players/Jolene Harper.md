@@ -1,4 +1,4 @@
- #player [[Adara Bristalfyr]]
+ #player
 
 Discord:: JHarper
 Pronouns:: she/her

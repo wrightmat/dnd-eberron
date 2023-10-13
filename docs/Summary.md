@@ -2,9 +2,9 @@
 ### Players
 
 * [[Alex Kelsch]]
-* [[Claire]]
+* [[Claire Elrod]]
 * [[Jolene Harper]]
-* [[Kerrie]]
+* [[Kerrie Heath]]
 * [[Sara Edwards]]
 
 ### Setting(s)

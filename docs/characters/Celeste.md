@@ -1,4 +1,4 @@
- #npc #pc [[Claire]] [[Aryth (Dolurrh)]]
+ #npc #pc [[Claire Elrod]] [[Aryth (Dolurrh)]]
 
 Gender:: Female
 Occupation:: Thief
