@@ -33,3 +33,7 @@ bonus_actions:
   - name: Bite.
     desc: "Melee Weapon Attack: +9 to hit, reach 5 ft., one creature grappled by the blight. Hit: 19 (3d8 + 6) piercing damage."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/17363-tree-blight
