@@ -15,16 +15,15 @@ speed: 30 ft.
 stats: [12, 12, 13, 4, 8, 3]
 senses: blindsight 60 ft. (blind beyond this radius), passive Perception 9
 condition_immunities: Blinded, Deafened
-languages: understands Common but cann’t speak
+languages: understands Common but can’t speak
 cr: 1/4
-traits:
-  - name: False Appearance
-    desc: "While the blight remains motionless, it is indistinguishable from a dead shrub."
 actions:
-  - name: Claws
-    desc: "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+  - name: Claws.
+    desc: "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage."
+  - name: Needles.
+    desc: "Ranged Weapon Attack: +3 to hit, range 30/60 ft., one target. Hit: 8 (2d6 + 1) piercing damage."
 ```
 
 ### References
 
-* https://www.dndbeyond.com/monsters/17095-twig-blight
+* https://www.dndbeyond.com/monsters/17215-needle-blight

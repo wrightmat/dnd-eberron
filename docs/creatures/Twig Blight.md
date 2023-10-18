@@ -18,13 +18,13 @@ skillsaves:
 senses: blindsight 60 ft. (blind beyond this radius), passive Perception 9
 damage_vulnerabilities: Fire
 condition_immunities: Blinded, Deafened
-languages: understands Common but cann’t speak
+languages: understands Common but can’t speak
 cr: 1/8
 traits:
-  - name: False Appearance
+  - name: False Appearance.
     desc: "While the blight remains motionless, it is indistinguishable from a dead shrub."
 actions:
-  - name: Claws
+  - name: Claws.
     desc: "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
 ```
 
