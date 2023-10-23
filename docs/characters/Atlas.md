@@ -1,7 +1,7 @@
 ---
-level: 5
-hp: 33
-ac: 11
+level: 7
+hp: 45
+ac: 12
 modifier: 1
 ---
  #pc [[Kerrie Heath]]
