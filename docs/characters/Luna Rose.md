@@ -18,3 +18,9 @@ modifier: 1
 ### Backstory
 
 * Luna arrived in the Vistani camp outside of Vallaki some time ago, and has been spending time with Kasimir Velikov and the Vistani there.
+
+### Character Sheet
+
+```custom-frames
+frame: C02: Luna Rose
+```

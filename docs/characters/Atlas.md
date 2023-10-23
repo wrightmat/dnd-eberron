@@ -18,3 +18,9 @@ modifier: 1
 ### Backstory
 
 * Atlas is a planar traveler, against his will. He is bound to a magical compass that is under the control of his Lich patron, Elden. Elden sends him where he needs to go, with little or no warning.
+
+### Character Sheet
+
+```custom-frames
+frame: C02: Atlas
+```
