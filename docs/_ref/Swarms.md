@@ -3,7 +3,7 @@
 The only core rules for swarms are part of the swarm creature stat blocks and are very basic and boring.
 	***Swarm***. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
 
-That's all well and good, but in addition to that, use the rules below to make swarms more interesting and more of a challenge.
+That's all well and good, but in addition to that, use the rules below to make swarms more interesting and more of a challenge. These mechanics incentivize swarms to grow whenever possible.
 
 ### Swarm Mechanics
 

@@ -14,6 +14,7 @@ kanban-plugin: basic
 - [ ] [[Inebriation]] (Mechanic)
 - [ ] [[Lingering Injury]] (Mechanic)
 - [ ] [[Stress]] (Mechanic)
+- [ ] [[Swarms]] (Mechanic)
 
 
 
