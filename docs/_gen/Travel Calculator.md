@@ -1,32 +1,23 @@
 ---
-MilesPerHour: 10
+MilesPerHour: 3
 SpeedMultiplier: 1
-HoursPerDay: 24
+HoursPerDay: 8
 TravelDistance: 65
 Environment: grassland_xge
 ---
  #generator 
-
-# Travel Speed
-
 
 Updating the calculator below will flows the changes out to any notes that automatically calculate the travel distance. You need to refresh this note in order to see calculated changes. 
 
 |                                 |                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                     |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Travel Means:**               | `INPUT[inlineSelect(option(3, On Foot), option(6, By Horse), option(7, By Magebred Coach), option(10, By Sailing Ship), option(12, By Elemental Galleon), option(20, By Airship), option(30, By Lightning Rail)):MilesPerHour]`                                                                                                                                                                               | Max Travel Hours Per Day: `VIEW[{MilesPerHour}>=10 ? 24 : 8]`                                                                                                       |
-| **Travel Pace:**                | `INPUT[inlineSelect(option(1.25, Fast), option(1, Normal), option(0.75, Slow)):SpeedMultiplier]`                                                                                                                                                                                                                                                                                                              | `VIEW[{SpeedMultiplier}>1 ? "A fast pace imposes a -5 penalty to passive Wisdom (Perception) scores" : "Able to use stealth"]`                                      |
+| **Travel Pace:**                | `INPUT[inlineSelect(option(1.25, Fast), option(1, Normal), option(0.75, Slow)):SpeedMultiplier]`                                                                                                                                                                                                                                                                                                              | `VIEW[{SpeedMultiplier}>1 ? "-5 penalty to passive Wisdom (Perception) scores" : {SpeedMultiplier}<1 ? "Able to use stealth" : ""]`                                                            |
 | **Environment:**                | `INPUT[inlineSelect(option(arctic_xge, Arctic), option(coastal_xge, Coastal), option(desert_xge, Desert), option(forest_xge, Forest), option(grassland_xge, Grassland), option(hill_xge, Hill), option(mountain_xge, Mountain), option(open%20water_gos, Open Water), option(swamp_xge, Swamp), option(underdark_xge, Underdark), option(underwater_xge, Underwater), option(urban_xge, Urban)):Environment]` |                                                                                                                                                                     |
 | **Travel Hours Per Day:**       | `INPUT[number:HoursPerDay]`                                                                                                                                                                                                                                                                                                                                                                                   | `VIEW[{HoursPerDay}>({MilesPerHour}>=10 ? 24 : 8) ? "DC (10 + 1 for each hour past 8) Constitution saving throw at the end of each hour to avoid exhaustion" : ""]` |
 | **Miles To Travel:**            | `INPUT[number:TravelDistance]`                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                     |
 | **Distance Travelled Per Day:** | `VIEW[round({MilesPerHour}*{HoursPerDay},1)]` miles                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                     |
 | **Days Travel 🕓:**             | `VIEW[round({TravelDistance} / (({MilesPerHour}*{HoursPerDay})*{SpeedMultiplier}),1)]`                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                     |
 
-## Table 10-11: Environmental Damage
 
-| **Category** | **Damage** |
-| ------------ | ---------- |
-| Minor        | 1d6-2d6    |
-| Moderate     | 4d6-6d6    |
-| Major        | 8d6-12d6   |
-| Massive      | 16d6-24d6  |
+[[Movement]]
