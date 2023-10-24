@@ -12,7 +12,7 @@
 - [[Animate Objects]]
 - [[Antilife Shell]]
 - [[Antimagic Field]]
-- [[Antipathy slash Sympathy]]
+- [[Antipathy - Sympathy]]
 - [[Arcane Eye]]
 - [[Arcane Hand]]
 - [[Arcane Lock]]
