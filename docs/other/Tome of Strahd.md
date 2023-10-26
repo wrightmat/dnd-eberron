@@ -19,7 +19,7 @@ I have also succeeded in granting my old battle armor the same form of sentience
 
 **DC 23**. _Reveals all of Strahd's standard spells as a usable wizard spellbook while attuned. Additionally, the attuned character may cast these spells as a ritual without the need for the Ritual Casting feature._
 
-**DC 25.** _Reveals the command word for the daern's instant fortress inside the Ravenloft treasury, albeit with no context given. The players will merely know that this is likely an important password to something._
+**DC 25.** _Reveals the command word for the Daern's instant fortress inside the Ravenloft treasury, albeit with no context given. The players will merely know that this is likely an important password to something._
 
 ### References
 
