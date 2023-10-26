@@ -1,7 +1,7 @@
 ---
-MilesPerHour: 3
+MilesPerHour: 20
 SpeedMultiplier: 1
-HoursPerDay: 8
+HoursPerDay: 24
 TravelDistance: 65
 Environment: grassland_xge
 ---
