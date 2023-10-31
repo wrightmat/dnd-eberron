@@ -8,6 +8,32 @@ The region of Adar covers the southeastern tip of Sarlona. The region is defined
 
 About 20% of the region is arable land, mainly in the valleys between the mountains. The region has a number of manifest zones to Lamannia and Kythri, the largest being Ahdryatmin in the center of Adar.
 
+### At A Glance
+
+* Population: 320,000 (51% human, 45% kalashtar, 4% other)
+* Area: 745,000 square miles.
+* Sovereign: Chanaakar, Speaker of the Word
+* Capital: Kasshta Keep
+* Major Cities: Dvaarnava, Haztaratain Monastery, Malshashar, Tashalatora, Xephanan, Zi'til'natek
+* Climate: Temperate with warm lowlands and cold highlands.
+* Highest Point: Korrandar , elevation 32,495 feet.
+* Heraldry: The closest to a national symbol in Adar is the symbol of the Path of Light
+* Founder: Unknown
+* National Motto: "The storm cannot move the mountain."
+
+### Religion and Culture
+
+Traditional Adaran prayers call on Braahyn (Balinor), the god of the wi lds and the moving earth, and his spouse Aarakti (Arawai), the goddess of abundance and storms. Many people also respect the spirits of nature and those of their ancestors.
+
+### Art and Architecture
+
+Adaran art is more craft than fine art. From carved knife grips to chanted meditation verses, art in Adar often serves a dual purpose. It's also very personal.
+
+Buildings in Adar are made out of stone, with wood used for roofs. Built to withstand the wind, precipitation, and trembling earth, houses are usually broad and low with sharply slanted sides. To an Aundairian, Adaran living spaces would seem cramped, but a native of Adar values a house that lasts more than she does a high ceiling. Adarans take care and time to personalize their dwellings — an Adaran might spend years carving designs into the walls of her home.
+Most houses have a central opening in the roof with
+another smaller roof built over it, l ike a smal l tower.
+Such openings al low light in and stale ai r out. Adarans
+
 ### What Do You Know?
 
 **Intelligence (History)**

@@ -7,23 +7,20 @@ Sarlona is the ancestral home of the human race. Run as an almost totalitarian r
 * Precariously balanced among the planes, Sarlona has many wild zones and reality storms. These phenomena produce creatures and effects unseen elsewhere in the world. A few veins of Khyber shards exist on the continent, largely in the hands of the dromites. Defying any logic, however, Eberron dragonshards simply do not form on Sarlona. Similarly, Siberys shards aren't found in equatorial Sarlona at all.
 * Sarlona was the birthplace of humanity, and today humans make up the vast majority of the dragonmarked population, but no dragonmarks have ever appeared on the people of Sarlona. Early signs indicate that the children of dragonmarked parents don't develop dragonmarks if they are conceived in Sarlona. The Twelve has no explanation for this phenomenon, but many believe that it is one of the keys to the ultimate mystery of the dragonmarks and their purpose in the world.
 * The lack of dragonmarks mirrors Sarlona's absence from the draconic Prophecy. The few human scholars and cataclysm mages who have been able to discuss the Prophecy with the scaled lords of Argonnessen have found the dragons to be utterly unwilling to speak of Sarlona. Some believe that this is because the dragons know of an inescapable catastrophe destined to originate from the continent. But others have a more disturbing theory. They claim that the dragons don't speak of Sarlona because the continent and the events that transpire there are completely invisible to the Prophecy, and this terrifies the dragons. Whatever the cause, the dragons clearly shun this land.
-* Of all the human history of Sarlona, one critical piece is known not because the Sarlonans kept a record of it, but because of its lasting repercussions beyond that land. Some three thousand years before the present age, a flotilla of ships left the land even then called Rhiavhaar, bound west across the Sea of Rage. The leader of this exodus was an explorer named Lhazaar. Though many
-Khorvai r ian humans are unaware that Lhazaar 's expedi tion
-was the beginning of human society on Khorvai re,
-al l know her name.
+* Of all the human history of Sarlona, one critical piece is known not because the Sarlonans kept a record of it, but because of its lasting repercussions beyond that land. Some three thousand years before the present age, a flotilla of ships left the land even then called Rhiavhaar, bound west across the Sea of Rage. The leader of this exodus was an explorer named Lhazaar. Though many Khorvairian humans are unaware that Lhazaar's expedition was the beginning of human society on Khorvaire, all know her name.
 
-### Ten Nations
+### Ten Kingdoms
 
-The Capital of the Ten Nations is the city of Kasshta (formerly Kasshta Keep) in Adar. The nations below are presented in descending order of approximate population (with Syrkarn being the most populace).
+The Capital of the Ten Kingdoms is the city of Kasshta (formerly Kasshta Keep) in Adar. The kingdoms below are presented in descending order of approximate population (with Syrkarn being the most populace).
 
 ##### Syrkarn
 Syrkarn is a southern nation on the continent of Sarlona. It is a mostly agrarian society made up of ogres, eneko ("mongrel ogres"), half-giants, and humans. During the Age of the Dreaming Dark, Syrkarn sat on the edge of Reidran territory but was effectively independent. Because of this, it was barely effected by the Turning of the Age, and has grown to be the largest nation in the new continent of Sarlona. Its growth has also been impacted by the nearby ports on the Aventus Islands who take people in from other continents such as Khorvaire and Aerenal. The nation remains fiercely independent though, and had little interest in becoming the capital of the newly established Ten Nations, which it happily passed to Adar. Syrkarn does remain the bread basket for the entire continent of Sarlona.
 
-##### Adar
-Adar is the mountainous nation in the southeast of Sarlona. It is inhabited mostly by humans (including the kalashtar), though there is a prominent contingent of blue dragons on the uppermost peaks. Adar was mostly a refuge from the Inspired during the Age of the Dreaming Dark, and has now become one of the largest nations on Sarlona, the largest majority Human nation, and the capital of the Ten Nations. Kasshta Keep, with its deep history and proximity to the border with Syrkarn, has become the capital city of Adar and the broader Ten Nations.
+##### [[Adar]]
+Adar is the mountainous nation in the southeast of Sarlona. It is inhabited mostly by humans (including the kalashtar), though there is a prominent contingent of blue dragons on the uppermost peaks. Adar was mostly a refuge from the Inspired during the Age of the Dreaming Dark, and has now become one of the largest nations on Sarlona, the largest majority Human nation, and the capital of the Ten Nations. Kasshta Keep, with its deep history and proximity to the border with Syrkarn, has become the capital city of Adar and the broader Ten Kingdoms.
 
 ##### Rhiavhaar
-This coastal nation is the homeland of Lhazaar and includes important ports like Dar Ulatesh, the major western port with voyages to Khorvaire.
+This coastal nation is the homeland of Lhazaar and includes important ports like Dar Ulatesh, the major western port with voyages to Khorvaire. It is still known for piracy to this day.
 
 ##### Pyrine
 Thought by many to be the source of worship of the Sovereign Host, this province turned wholeheartedly to worship of the Inspired during the last Age. Pyrine's Sovereign Host history has mostly reasserted itself now, and it is the seat of religion on the continent.
