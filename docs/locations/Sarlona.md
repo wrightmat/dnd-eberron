@@ -1,6 +1,16 @@
  #location #continent [[Eberron]]
 
-Sarlona is the ancestral home of the human race. Run as an almost totalitarian regime by The Unity of Reidra through the entirety of the Age of the Dreaming Dark, the entire continent changed when Reidra fell after the Turning of the Age in 1000 YK. The power vacuum created caused the continent to revert to a structure similar to what existed prior to The Unity - a coalition of Ten Nations.
+Sarlona is the ancestral home of the human race. Run as an almost totalitarian regime by The Unity of Riedra through the entirety of the Age of the Dreaming Dark, the entire continent changed when Reidra fell after the Turning of the Age in 1000 YK. The power vacuum created caused the continent to revert to a structure similar to what existed prior to The Unity - a coalition of Ten Nations.
+
+### Excerpts from Secrets of Sarlona
+
+* Precariously balanced among the planes, Sarlona has many wild zones and reality storms. These phenomena produce creatures and effects unseen elsewhere in the world. A few veins of Khyber shards exist on the continent, largely in the hands of the dromites. Defying any logic, however, Eberron dragonshards simply do not form on Sarlona. Similarly, Siberys shards aren't found in equatorial Sarlona at all.
+* Sarlona was the birthplace of humanity, and today humans make up the vast majority of the dragonmarked population, but no dragonmarks have ever appeared on the people of Sarlona. Early signs indicate that the children of dragonmarked parents don't develop dragonmarks if they are conceived in Sarlona. The Twelve has no explanation for this phenomenon, but many believe that it is one of the keys to the ultimate mystery of the dragonmarks and their purpose in the world.
+* The lack of dragonmarks mirrors Sarlona's absence from the draconic Prophecy. The few human scholars and cataclysm mages who have been able to discuss the Prophecy with the scaled lords of Argonnessen have found the dragons to be utterly unwilling to speak of Sarlona. Some believe that this is because the dragons know of an inescapable catastrophe destined to originate from the continent. But others have a more disturbing theory. They claim that the dragons don't speak of Sarlona because the continent and the events that transpire there are completely invisible to the Prophecy, and this terrifies the dragons. Whatever the cause, the dragons clearly shun this land.
+* Of all the human history of Sarlona, one critical piece is known not because the Sarlonans kept a record of it, but because of its lasting repercussions beyond that land. Some three thousand years before the present age, a flotilla of ships left the land even then called Rhiavhaar, bound west across the Sea of Rage. The leader of this exodus was an explorer named Lhazaar. Though many
+Khorvai r ian humans are unaware that Lhazaar 's expedi tion
+was the beginning of human society on Khorvai re,
+al l know her name.
 
 ### Ten Nations
 
@@ -35,3 +45,9 @@ Nulakesh was once a large empire in central Sarlona dominated by human overlords
 
 ##### Khalesh
 The ancient nation of Khalesh was a theocracy devoted to the couatls. Today, the people know only that the land was once ruled by demons and their ruins still dot the landscape.
+
+### Important Dates
+
+##### Day of Disunity (28 Rhaan)
+
+Every year, the 28th of Rhaan is recognized as the day that the Unity of Riedra fell when the Turning of the Age happened on Dal Quor.
