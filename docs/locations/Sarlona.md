@@ -22,26 +22,58 @@ Adar is the mountainous nation in the southeast of Sarlona. It is inhabited most
 ##### Rhiavhaar
 This coastal nation is the homeland of Lhazaar and includes important ports like Dar Ulatesh, the major western port with voyages to Khorvaire. It is still known for piracy to this day.
 
+* Population: 2,260,000 (85% humans, 6% shifters, 4% changelings, 3% ogres/ogre mages, 2% other)
+* Environments: Temperate plains and marsh
+* Planar Elements: Wild zones linked to Lamannia, Shavarath, and Thelanis
+
 ##### Pyrine
 Thought by many to be the source of worship of the Sovereign Host, this province turned wholeheartedly to worship of the Inspired during the last Age. Pyrine's Sovereign Host history has mostly reasserted itself now, and it is the seat of religion on the continent.
 
-##### Borunan
-The nation of Borunan was once a strong nation of ogres, which became tools of the Inspired during the Age of the Dreaming Dark. But now that powerful race and the ogre mage lords that rule them are able to walk their own path once again.
-
-##### Corvagura
-The most populous of Riedra's provinces, Corvagura was once the seat of The Unity, and has therefore had the hardest time recovering from the Turning of the Age. The cities of Corvagura, nestled among the wet southern jungles, have been slowly rebuilding but will likely never return to their former splendor.
-
-##### Dor Maleer
-The northern province of Dor Maleer is the most independent, inhabited by woodsmen and hardy folk who barely noticed that The Unity existed or has since fallen.
-
-##### Ohr Kaluun
-Before Unification, the arcanists of the eastern islands were powerful but they too fell to the Inspired. A legacy remained during the Age of the Dreaming Dark but it was hidden in shadows and practiced by criminals. This arcane knowledge has become more prevalent and out in the open since the Turning, but the criminal element certainly remains.
+* Population: 2,100,000 (93% humans, 3% shifters, 2% changelings, 2% other)
+* Environments: Warm and temperate plains, forests, and marshes
+* Planar Elements: Wild zones tied to Daanvi, Irian, and Syrania
 
 ##### Nulakesh
 Nulakesh was once a large empire in central Sarlona dominated by human overlords, and that legacy led to one of the most intolerant provinces during the Age of the Dreaming Dark. Unfortunately, not much improved when the Turning of the Age happened, as while the Inspired were no longer in charge, the Humans took over with their own form of very similar intolerance.
 
+* Population: 1,100,000 (93% humans, 3% Chosen/Inspired, 2% changelings, 2% other)
+* Environments: Temperate and cold plains, forests, and mountains
+* Planar Elements: Wild zones linked to Daanvi, Dolurrh, and Shavarath
+
+##### Borunan
+The nation of Borunan was once a strong nation of ogres, which became tools of the Inspired during the Age of the Dreaming Dark. But now that powerful race and the ogre mage lords that rule them are able to walk their own path once again. The people of Borunan tend to be cheerful and straightforward. Feats of strength are admired; a human isn't expected to match an ogre but still earns respect for proving his prowess. Athletic events typically include weightlifting and throwing contests.
+
+* Population: 496,000 (80% ogres, 8% humans, 5% ogre mages, 3% shifters, 2% half-giants, 2% other)
+* Environments: Warm desert, temperate mountains
+* Planar Elements: High concentration of wild zones linked to Fernia and Shavarath
+
+##### Corvagura
+The most populous of former Riedra's provinces, Corvagura was once the seat of The Unity, and has therefore had the hardest time recovering from the Turning of the Age. The cities of Corvagura, nestled among the wet southern jungles, have been slowly rebuilding but will likely never return to their former splendor.
+
+* Population: 400,000 (91% humans, 4% shifters, 3% changelings, 1% ogres/ogre mages, 1% other)
+* Environments: Warm plains, marshes, and forests
+* Planar Elements: Wild zones linked to Mabar, Lamannia, and Thelanis
+
+##### Dor Maleer
+The northern province of Dor Maleer is the most independent, inhabited by woodsmen and hardy folk who barely noticed that The Unity existed or has since fallen. Dor Maleer shares a border with the Tashana Tundra — a border that has been slowly shifting north over the centuries.
+
+* Population: 380,000 (73% humans, 15% shifters, 4% changelings, 3% ogres/ogre mages, 3% dwarves, 2% other)
+* Environments: Cold deserts, mountains, and plains
+* Planar Elements: Wild zones linked to Dolurrh, Lamannia, and Risia
+
+##### Ohr Kaluun
+Before Unification, the arcanists of the eastern islands were powerful but they too fell to the Inspired. A legacy remained during the Age of the Dreaming Dark but it was hidden in shadows and practiced by criminals. This arcane knowledge has become more prevalent and out in the open since the Turning, but the criminal element certainly remains.
+
+* Population: 72,000 (67% humans, 12% skulks, 8% changelings, 5% shifters, 5% dwarves, 2% ogres/ogre mages, 1% other)
+* \Environments: Temperate plains and hills
+* Planar Elements: Wild zones linked to Mabar, Xoriat, and Kythri
+
 ##### Khalesh
 The ancient nation of Khalesh was a theocracy devoted to the couatls. Today, the people know only that the land was once ruled by demons and their ruins still dot the landscape.
+
+* Population: 50,000 (90% humans, 3% shifters, 4% changelings, 2% ogres/ogre mages, 1% other)
+* Environments: Temperate plains and desert
+* Planar Elements: Couatl shrines and ruins, wild zones linked to Irian, Shavarath, and Syrania
 
 ### Important Dates
 
