@@ -1,8 +1,8 @@
 ---
-level: 7
-hp: 
-ac: 
-modifier: 
+level: 8
+hp: 51
+ac: 11
+modifier: 1
 ---
  #pc [[Alex Kelsch]]
 
