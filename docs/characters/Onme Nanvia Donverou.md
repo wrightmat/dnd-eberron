@@ -32,6 +32,10 @@ modifier: 2
 + Selected as Keeper of the Flame
 + Upon the death of Jaela Daran
 
++ ~1020 YK
++ Promoted to Knight Commander
++ After returning to Flamekeep form Wildspace for the second time
+
 + 1000 YK, Vult
 + Returned to Wildspace
 + Aboard Tira's Sacrifice
