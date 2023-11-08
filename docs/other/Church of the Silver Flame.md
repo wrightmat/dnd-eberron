@@ -1,4 +1,4 @@
- #organization #religion [[Onme Nanvia Donverou]] [[High Cardinal Krozen]] [[Jaela Daran]] [[characters/Defender]] [[Seltern Obranch]] [[Tavick Thantorme]]
+ #organization #religion [[Onme Nanvia Donverou]] [[High Cardinal Krozen]] [[Jaela Daran]] [[characters/Defender|Defender]] [[Seltern Obranch]] [[Tavick Thantorme]]
 
 The Church of the Silver Flame is the state religion of Thrane. The followers of the religion are called the Purified. The church is broadly divided into three orders - the Order of Ministers, the Order of Templars, and the Order of Friars. The church is led by the Keeper of the Flame and the Council of Cardinals, and includes several secretive groups like Miron's Tears and The Argentum.
 
@@ -49,6 +49,8 @@ The Diet of Cardinals are chosen by the Keeper of the Flame, although new Keeper
 ### The Keeper of the Flame
 
 The Keeper of the Flame is directly chosen by Tira Miron, the Voice of the Flame. The Keeper ultimately leads the Church, but delegates most authority to the Cardinals. The current keeper is Jaela Daran.
+
+> The spiritual leader of the Church of the Silver Flame has always been a person — usually a human — gifted with visions. The Council of Cardinals receives reports of visionaries throughout the land, choosing one to act as the intermediary between the Voice of the Silver Flame and the people of Thrane. A committee sifts through the charlatans and false seers to find the “chosen one,” although more often than not, fate finds a way for this spiritual leader to reveal himself or herself to Flamekeep’s ruling body. (_Five Nations_, p. 137-138)
 
 ### Miron’s Tears
 
