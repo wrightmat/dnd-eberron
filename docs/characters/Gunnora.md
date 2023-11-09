@@ -2,7 +2,8 @@
 
 Gender:: Female
 Race:: Half-Elf
-Occupation:: Fighter
+Occupation:: ???
+Class:: Fighter (Champion) / Artificer
 
 Gunnora was raised in an orphanage in Daskaran with several other orphans, where she had an adventure with a tiger at a young age. This led her to become interested in fighting, and she would often be found in the courtyard outside of the orphanage playing with a wooden sword that she had fashioned. But eventually she aged out of the system, and had nowhere to go. Given her half-elf heritage, she decided to venture to the newly founded land of the elf warlords - Valenar.
 

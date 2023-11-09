@@ -3,8 +3,7 @@
 Gender:: Female
 Race:: Human
 Occupation:: Druid Elder (Wardens of the Wood)
-Class:: Druid
-Subclass:: Circle of the Moon
+Class:: Druid (Circle of the Moon)
 
 Gwendalyn was raised in an orphanage in Daskaran with several other orphans, where she had an adventure with a tiger at a young age. This led her to study the natural world, and druidic magic, at every opportunity she had. When she aged out of the system, she had nowhere to go, and decided to set out for the Eldeen Reaches - hoping to further her druidic studies.
 
