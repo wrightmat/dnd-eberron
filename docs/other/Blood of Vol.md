@@ -20,4 +20,6 @@ The most important ritual in Seeker communities is the Sacrament of Blood, an ir
 ##### Symbol
 As the Blood of Vol is a highly individualized religion, each cleric chooses their own holy symbol. However, symbols related to blood or souls or colored red and black are popular
 
-### Ref
+### References
+
+* https://eberron.fandom.com/wiki/Blood_of_Vol
