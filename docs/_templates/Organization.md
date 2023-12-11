@@ -1,14 +1,4 @@
- #adventure 
-
-### Background and Hook(s)
-
-
-
-### Synopsis
-
-- 
-
-### Characters and Locations
+ #organization 
 
 
 
@@ -17,15 +7,11 @@ Check off as information is received. Some items may have more details throughou
 
  - [ ] -
 
-### Scenes
+### Notable Characters
 
 
 
-### DM Notes
-
-
-
-### Random Tables
+### History
 
 
 

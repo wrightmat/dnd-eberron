@@ -2,6 +2,11 @@
 
 The Chamber, or the Calemaryx in Draconic, is a loose alliance of dragons, no more than a hundred, that secretly attempt to manipulate events on Khorvaire.
 
+### Secrets and Clues
+Check off as information is received. Some items may have more details throughout the page.
+
+ - [ ] The Chamber is a loose alliance of dragons of all colors that share resources (which is uncommon amongst normal dragons) and even common aliases.
+
 ### History
 
 The Chamber was founded less than four thousand years ago as a response to the rise in dragonmarks across the common races of Khorvaire and the islands of Aerenal. Young dragons of all colors made an impassioned argument before the Conclave of Argonnessen to protect the dragonmarked, and to do their best to monitor and use them to serve the Draconic Prophecy.
@@ -39,8 +44,6 @@ The Chamber maintains safehouses across the cities of Khorvaire and even in Stor
 The Chamber's newest and most powerful base is in Flamekeep at the seat of the Church of the Silver Flame itself. One of their plants, Spindelaryx, is now the Church's Prefect of the region.
 
 ### Notable Members
-
-The Chamber is a loose alliance of dragons of all colors that share resources and aliases. Several members are notable.
 
 * Sentinel Marshal Sorgan d'Deneith is a cover shared between six dragons belonging to the Chamber.
 * Coralonyn is a great wyrm gold dragon of over 1,400 years who is said to have served alongside Galifar I at the founding of the Kingdom of Galifar.

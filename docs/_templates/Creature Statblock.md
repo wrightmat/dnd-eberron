@@ -50,3 +50,5 @@ reactions:
     desc: <reaction-description>
   - ...
 ```
+
+### References
