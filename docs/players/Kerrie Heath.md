@@ -1,6 +1,6 @@
  #player
 
-Discord:: God’s first brain cell
+Discord:: aster_fell (formerly God’s first brain cell)
 Pronouns:: she/her
 
 * Preferred Gameplay Aspects: Roleplay/Puzzles, Exploration/Social, Combat
