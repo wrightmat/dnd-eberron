@@ -35,9 +35,13 @@ Check off as information is received. Some items may have more details throughou
 
  - [ ] -
 
+### Important Locations
+
+* 
+
 ### Notable Characters
 
-
+* 
 
 ### History
 

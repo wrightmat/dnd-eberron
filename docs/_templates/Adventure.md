@@ -2,24 +2,20 @@
 
 ### Background and Hook(s)
 
-
-
-### Synopsis
-
-- 
+* 
 
 ### Characters and Locations
 
+* 
 
-
-### Secrets and Clues
-Check off as information is received. Some items may have more details throughout the page.
+### Scenes and Situations
 
  - [ ] -
 
-### Scenes
+### Secrets and Clues
+Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.
 
-
+ - [ ] -
 
 ### DM Notes
 
