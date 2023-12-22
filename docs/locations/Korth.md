@@ -1,8 +1,17 @@
  #location #capital [[Karrnath]]
 
-Korth is the capital and the largest city of Karrnath. Nestled between the Karrn River to the north and the Nightwood to the east, Korth has been Karrnath's capital since before the empire of Galifar.
+Korth is the capital and the largest city of [[Karrnath]]. Nestled between the Karrn River to the north and the Nightwood to the east, Korth has been Karrnath's capital since before the empire of Galifar.
 
 The city is currently ruled by Karrnath's King Kaius III from his palace of Crownhome, although he leaves the day-to-day management of the city to his Civic Minister Hyran ir'Tennet, and the management of the city's garrison, the White Lions, to General Thaurum.
+
+### Characters
+
+* [[Lukt]]
+* King Kaius III
+* Hyran ir'Tennet
+* General Thaurum
+
+### Locations
 
 The city is divided up into five wards: Highcourt, Temple, Commerce, Community, and the Low District, separated by the riverside bluffs. Each of Korth's five wards contains markets, housing, and other elements of a flourishing city, though each ward has its own particular function.
 
@@ -23,7 +32,7 @@ Notable institutions in the city include the Tower of the Twelve, and several ho
 - **Lair of the Midwife**:  In Korth’s Low District is an unassuming curio shop in a ramshackle building. Underneath a trapdoor within that shop is a fortified sequence of rooms. And those underground chambers are home to a criminal gang led by the master forger known as the Midwife. The Midwife’s gang numbers less than two dozen, so she relies on an extensive network of traps to protect herself. Pits, poison darts, magic glyphs and symbols, and a host of other traps guard every door and every 10-foot section of hallway within the Midwife’s Lair.
 - **Caves of the Skeletal Hand**: Within the bluffs that mark the eastern edge of the Community Ward are a series of muddy caves, each marked with a Huge skeletal hand that emerges from the earthen bluff. The caves were used to store food and water during the Last War. but the White Lions emptied them out when the war ended. Last year, a tribe of goblins affiliated with the Dhakaan moved in, claiming the caves as their historic home from when the Dhakaani Empire was extant, more than six thousand years ago.  The goblins negotiated an agreement with Civic Minister Hyran and have further excavated and remodeled the caves. But bands of goblins have been harassing citizens of Korth at night, and nearby residents and shopkeepers worry that the goblins are trying to establish a claim to more of the ward. Everyone suspects that the goblins are behind a series of kidnappings and disappearances. If adventurers were to drive off the goblins, they'd receive a sizable reward from grateful merchants and residents in the area.
 
-**Korth Rumors**
+### Secrets and Clues
 
 | d6 | Rumor |
 | --- | --- |
