@@ -13,11 +13,19 @@ Sarlona is the ancestral home of the human race. Run as an almost totalitarian r
 
 The Capital of the Ten Kingdoms is the city of Kasshta (formerly Kasshta Keep) in Adar. The kingdoms below are presented in descending order of approximate population (with Syrkarn being the most populace).
 
-##### Syrkarn
-Syrkarn is a southern nation on the continent of Sarlona. It is a mostly agrarian society made up of ogres, eneko ("mongrel ogres"), half-giants, and humans. During the Age of the Dreaming Dark, Syrkarn sat on the edge of Reidran territory but was effectively independent. Because of this, it was barely effected by the Turning of the Age, and has grown to be the largest nation in the new continent of Sarlona. Its growth has also been impacted by the nearby ports on the Aventus Islands who take people in from other continents such as Khorvaire and Aerenal. The nation remains fiercely independent though, and had little interest in becoming the capital of the newly established Ten Nations, which it happily passed to Adar. Syrkarn does remain the bread basket for the entire continent of Sarlona.
+##### [[Syrkarn]]
+Syrkarn is a southern nation on the continent of Sarlona. It is a mostly agrarian society made up of ogres, eneko ("mongrel ogres"), half-giants, and humans. During the Age of the Dreaming Dark, Syrkarn sat on the edge of Reidran territory but was effectively independent. Because of this, it was barely effected by the Turning of the Age, and has grown to be the largest nation in the new continent of Sarlona. Its growth has also been impacted by the nearby ports on the Aventus Islands who take people in from other continents such as Khorvaire and Aerenal. The nation remains fiercely independent though, and had little interest in becoming the capital of the newly established Ten Kingdoms, which it happily passed to Adar. Syrkarn does remain the bread basket for the entire continent of Sarlona.
+
+* Population: 4,260,000 (44% human, 42% eneko, 12% half-giant, 1% kalashtar, 1% other)
+* Environments: Arid steppes, deserts, and savannahs, occasionally broken up by hills and mountains
+* Planar Elements: Wild zones linked to Fernia, Risia, and especially Lamannia
 
 ##### [[Adar]]
-Adar is the mountainous nation in the southeast of Sarlona. It is inhabited mostly by humans (including the kalashtar), though there is a prominent contingent of blue dragons on the uppermost peaks. Adar was mostly a refuge from the Inspired during the Age of the Dreaming Dark, and has now become one of the largest nations on Sarlona, the largest majority Human nation, and the capital of the Ten Nations. Kasshta Keep, with its deep history and proximity to the border with Syrkarn, has become the capital city of Adar and the broader Ten Kingdoms.
+Adar is the mountainous nation in the southeast of Sarlona. It is inhabited mostly by humans (including the kalashtar), though there is a prominent contingent of blue dragons on the uppermost peaks. Adar was mostly a refuge from the Inspired during the Age of the Dreaming Dark, and has now become one of the largest nations on Sarlona, the largest majority Human nation, and the capital of the Ten Kingdoms. Kasshta Keep, with its deep history and proximity to the border with Syrkarn, has become the capital city of Adar and the broader Ten Kingdoms.
+
+* Population: 2,320,000 (51% human, 45% kalashtar, 4% other)
+* Environments: Temperate with warm lowlands and cold highlands
+* Planar Elements: Many manifest zones to Lamannia and Kythri
 
 ##### Rhiavhaar
 This coastal nation is the homeland of Lhazaar and includes important ports like Dar Ulatesh, the major western port with voyages to Khorvaire. It is still known for piracy to this day.
@@ -73,7 +81,7 @@ The ancient nation of Khalesh was a theocracy devoted to the couatls. Today, the
 
 * Population: 50,000 (90% humans, 3% shifters, 4% changelings, 2% ogres/ogre mages, 1% other)
 * Environments: Temperate plains and desert
-* Planar Elements: Couatl shrines and ruins, wild zones linked to Irian, Shavarath, and Syrania
+* Planar Elements: Couatl shrines and ruins; wild zones linked to Irian, Shavarath, and Syrania
 
 ### Important Dates
 

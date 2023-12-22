@@ -9,16 +9,16 @@ and agriculture. Herds of wild bison and domesticated goats, deer, and horses ro
 
 ### At A Glance
 
-Population: 4,260,000 (44% human, 42% eneko, 12% half-giant, 1% kalashtar, 1% other)
-Area: 1,320,000 square miles
-Sovereign: None
-Capital: Nderitese
-Major Settlements: Per, Gjitha, Maszani
-Climate: Temperate to tropical throughout; equatorial heat tempered by proximity to the Sea of Rage
-Highest Point: Mount Athay in the Kushtuar Hills, elevation 4,408
-Heraldry: None
-Founder: Unknown
-National Motto: None
+* Population: 4,260,000 (44% human, 42% eneko, 12% half-giant, 1% kalashtar, 1% other)
+* Area: 1,320,000 square miles
+* Sovereign: None
+* Capital: Nderitese
+* Major Settlements: Per, Gjitha, Maszani
+* Climate: Temperate to tropical throughout; equatorial heat tempered by proximity to the Sea of Rage
+* Highest Point: Mount Athay in the Kushtuar Hills, elevation 4,408
+* Heraldry: None
+* Founder: Unknown
+* National Motto: None
 
 ### Religion and Culture
 
