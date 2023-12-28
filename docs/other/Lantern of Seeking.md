@@ -2,9 +2,9 @@
 
 _Wondrous item, uncommon_
 
-This hooded lantern glows with magical light, and requires no fuel. shedding bright light in a 30-foot-radius and dim light for an additional 30 feet.
+This hooded lantern glows with magical light, and requires no fuel. Any wielder of the lantern can use an action to activate it, causing it to shed bright light in a 30-foot-radius and dim light for an additional 30 feet.
 
-Each _Lantern of Tracking_ is designed to track down a certain type of creature, which is determined by rolling this creature type on the Lantern of Tracking table. Once determined, this creature type can't be changed. While the lantern is within 300 feet of any creature of that type, its flame brightly flares the color in the table below. The lantern doesn't pinpoint the creature's exact location, however.
+In addition, the base of the lantern is inlaid with divots where magical gems can be placed. When an appropriately colored gem is inserted into a divot, and certain types of creatures are within 300 feet of the lantern, its flame flickers with different colors, as indicated in the table below. The lantern doesn't pinpoint the creature's exact location, however.
 
 | d10 | Creature Type | Color   |
 | --- | ------------- | ------- |
