@@ -4,6 +4,7 @@ Gender:: Male
 Occupation:: Tribe Leader, Necromancer
 Race:: Dragon
 Subrace:: Gem (Obsidian)
+Alignment:: Chaotic Neutral
 
 The practice of necromancy is forbidden among the dragons of Argonnessen, but Arstyvrax is one of this land’s foremost practitioners of the dark art. He is a member of the Shadowmasters — a cabal of a dozen necromancer dragons who share lore and maintain secret libraries scattered across the Vast.
 
