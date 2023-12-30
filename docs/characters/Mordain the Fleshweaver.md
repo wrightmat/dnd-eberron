@@ -4,6 +4,8 @@ Attitude:: Indifferent
 Gender:: Male
 Occupation:: Transmutation Mage
 Race:: Elf
+Class:: Wizard
+Alignment:: Neutral Evil
 
 Mordain d'Phiarlan, better known as Mordain the Fleshweaver, is a disturbing transmutation mage of Droaam. Once a member of House Phiarlan and one of the greatest wizards of the Twelve, Mordain d'Phiarlan delved into the forbidden knowledge of the Closed Circle of Sharn. The 400-year-old wizard hides himself away in his secret hall in Droaam, continuing to explore the forbidden arts.
 
