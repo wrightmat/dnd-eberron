@@ -5,6 +5,7 @@ Gender:: Female
 Occupation:: Researcher
 Race:: Sphinx
 Subrace:: Gynosphinx
+Alignment: Neutral
 Motivation:: To learn as much as possible about the events of the last fifty years, and the dragon involvement in particular.
 
 Flamewind is a gynosphinx with amazing oracular powers. Found in Xen'drik in 996 YK, Flamewind resides at Morgrave University in Sharn, where she spends her time in the university's library in trade for her visions of things to come.
