@@ -73,7 +73,7 @@ The northern province of Dor Maleer is the most independent, inhabited by woodsm
 Before Unification, the arcanists of the eastern islands were powerful but they too fell to the Inspired. A legacy remained during the Age of the Dreaming Dark but it was hidden in shadows and practiced by criminals. This arcane knowledge has become more prevalent and out in the open since the Turning, but the criminal element certainly remains.
 
 * Population: 72,000 (67% humans, 12% skulks, 8% changelings, 5% shifters, 5% dwarves, 2% ogres/ogre mages, 1% other)
-* \Environments: Temperate plains and hills
+* Environments: Temperate plains and hills
 * Planar Elements: Wild zones linked to Mabar, Xoriat, and Kythri
 
 ##### Khalesh
