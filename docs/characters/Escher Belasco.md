@@ -4,8 +4,9 @@ Gender:: Male
 Occupation:: Castellan
 Race:: Vampire (Human)
 Class:: Bard (formerly)
+Alignment:: Neutral Evil
 
-Escher Belasco is a flirtatious and enigmatic vampire spawn and former consort of Strahd von Zarovich. Originally from the Village of Barovia in the nation of Barovia, he resided in Castle Ravenloft for some time, before coming to Eberron.
+Escher Belasco is a flirtatious and enigmatic vampire and former consort of Strahd von Zarovich. Originally from the Village of Barovia in the nation of Barovia, he resided in Castle Ravenloft for some time, before coming to Eberron. He now maintains dominions over Loom Keep in Karrnath.
 
 In life Escher was a bard in a former adventuring party that was brought to Barovia to fight against Strahd von Zarovich. Before slaughtering the rest of the party, Strahd took a liking to the talented poet and musician’s wit and chose to keep him as a consort.
 
