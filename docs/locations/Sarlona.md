@@ -30,7 +30,7 @@ Adar is the mountainous nation in the southeast of Sarlona. It is inhabited most
 * Major Settlements: Kasshta, Dvaarnava, Haztaratain Monastery, Malshashar, Tashalatora, Xephanan, Zi'til'natek
 
 ##### Rhiavhaar
-This coastal nation is the homeland of Lhazaar and includes important ports like Dar Ulatesh, the major western port with voyages to Khorvaire. It is still known for piracy to this day.
+The people of Rhiavhaar have always been the finest shipwrights and sailors of Sarlona; but they weren’t simply merchants or fisherfolk. Long before their descendants settled the Lhazaar Principalities — named after the notorious Rhiavhaarian explorer — they were known for their piracy. In general, Rhiavhaarians are still seen as wild, capricious, and dangerous; “Rhiavhaarian luck” is a common curse suggesting that fortune favors a scoundrel.
 
 * Population: 2,260,000 (85% humans, 6% shifters, 4% changelings, 3% ogres/ogre mages, 2% other)
 * Environments: Temperate plains and marsh
@@ -38,7 +38,7 @@ This coastal nation is the homeland of Lhazaar and includes important ports like
 * Major Settlements: Dul Jhaar, Dar Ulatesh
 
 ##### Pyrine
-Thought by many to be the source of worship of the Sovereign Host, this province turned wholeheartedly to worship of the Inspired during the last Age. Pyrine's Sovereign Host history has mostly reasserted itself now, and it is the seat of religion on the continent.
+Thought by many to be the source of worship of the Sovereign Host, this province turned wholeheartedly to worship of the Inspired during the last Age. Pyrine's Sovereign Host history has mostly reasserted itself now, and it is the seat of religion on the continent. Pyrine is a land of warm plains and forests, welcoming both in its aspect and its aura. Something about Pyrine inspires calm reflection. When standing in a Pyrinean meadow, it's easy to feel a sense of joy and contentment — to know that somehow, all is right in the world.
 
 * Population: 2,100,000 (93% humans, 3% shifters, 2% changelings, 2% other)
 * Environments: Warm and temperate plains, forests, and marshes
@@ -54,6 +54,7 @@ Nulakesh was once a large empire in central Sarlona dominated by human overlords
 * Major Settlements: Dul Natath, Dar Terash, Dul Zerath, Dar Darath, Dar Reth
 
 ##### Borunan
+
 The nation of Borunan was once a strong nation of ogres, which became tools of the Inspired during the Age of the Dreaming Dark. But now that powerful race and the ogre mage lords that rule them are able to walk their own path once again. The people of Borunan tend to be cheerful and straightforward. Feats of strength are admired; a human isn't expected to match an ogre but still earns respect for proving his prowess. Athletic events typically include weightlifting and throwing contests.
 
 * Population: 496,000 (80% ogres, 8% humans, 5% ogre mages, 3% shifters, 2% half-giants, 2% other)
@@ -61,10 +62,10 @@ The nation of Borunan was once a strong nation of ogres, which became tools of t
 * Planar Elements: High concentration of wild zones linked to Fernia and Shavarath
 * Major Settlements: Mokush (an ogre village)
 
-##### Corvagura
-The most populous of former Riedra's provinces, Corvagura was once the seat of The Unity, and has therefore had the hardest time recovering from the Second Sundering. The cities of Corvagura, nestled among the wet southern jungles, have been slowly rebuilding but will likely never return to their former splendor.
+##### [[Corvagura]]
+The most populous of former Riedra's provinces, Corvagura was once the seat of The Unity (with the capital at Durat Tal), and has therefore had the hardest time recovering from the Second Sundering. The cities of Corvagura, nestled among the wet southern jungles, have been slowly rebuilding but will likely never return to their former splendor.
 
-* Population: 400,000 (91% humans, 4% shifters, 3% changelings, 1% ogres/ogre mages, 1% other)
+* Population: 440,000 (91% humans, 4% shifters, 3% changelings, 1% ogres/ogre mages, 1% other)
 * Environments: Warm plains, marshes, and forests
 * Planar Elements: Wild zones linked to Mabar, Lamannia, and Thelanis
 * Major Settlements: Dar Jin, Dar Myan, Durat Tal
@@ -86,7 +87,7 @@ Before Unification, the arcanists of the eastern islands were powerful but they 
 * Major Settlements: none
 
 ##### Khalesh
-The ancient nation of Khalesh was a theocracy devoted to the couatls. Today, the people know only that the land was once ruled by demons and their ruins still dot the landscape.
+Khalesh is a land of temperate plains and desert — green grassland fading into sunbaked plains and mesas. While it’s more hospitable than neighboring Borunan, at a glance it’s rather barren — endless and empty. And yet, if you wander these plains, you may find yourself enveloped by a sense of well-being, a deep-rooted optimism, and the knowledge that all will be well … with an underlying conviction that you’ll fight to keep it that way. The ancient nation of Khalesh was a theocracy devoted to the couatls. Today, the people know only that the land was once ruled by demons and their ruins still dot the landscape.
 
 * Population: 50,000 (90% humans, 3% shifters, 4% changelings, 2% ogres/ogre mages, 1% other)
 * Environments: Temperate plains and desert
