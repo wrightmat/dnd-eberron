@@ -1,11 +1,10 @@
  #location #region [[Sarlona]]
 
-Five thousand years before the arrival of the Inspired, the nations now known collectively as Syrkarn were the jewels in the imperial crown of old Sarlona. Today, only ancient stonework and half-forgotten legends mark the fall, passing, and rebirth of this land. Still, to those who have inherited this seemingly inhospitable kingdom, Syrkarn offers a gift denied to both the warring nations of the past and the Inspired-dominated lands of more recent history. To its people, Syrkarn is the promise of freedom.
+Five thousand years before the arrival of the Inspired, the nations now known collectively as the kingdom of Syrkarn were the jewels in the imperial crown of old Sarlona. Today, only ancient stonework and half-forgotten legends mark the fall, passing, and rebirth of this land. Still, to those who have inherited this seemingly inhospitable kingdom, Syrkarn offers a gift denied to both the warring nations of the past and the Inspired-dominated lands of more recent history. To its people, Syrkarn is the promise of freedom.
 
 Syrkarn is an arid landscape of harsh deserts, lush grasslands, and endless steppes sloping up from the southern extent of the Sea of Rage. Its population consists of an almost equal mix of Sarlonan human clans and tribes of eneko — the mongrel ogres who trace their lineage back to the nation of Borunan.
 
-Though the climate and the isolated life of this land are never easy, the coastal steppes and inland savannah of Syrkarn offer limitless range for animals
-and agriculture. Herds of wild bison and domesticated goats, deer, and horses roam the grasslands, while cultivated fields of oat grass and flax spread across the Itzaina plains and the steppes of the Lamecha lowlands. The natives grow a range of vegetable crops, including the gnarled root known as sepse, native to Sarlona and prized for its high nutritional value. Exotic spices found nowhere outside Sarlona thrive in the heat of the savannah, as does dreamlily. Use of the drug is rare among the Syrk humans, but the eneko (who are immune to dreamlily's narcotic effects) grow it for its medicinal value. Harvests are hard in some years, but the clans and tribes of Syrkarn know bounty more often than not.
+Though the climate and the isolated life of this land are never easy, the coastal steppes and inland savannah of Syrkarn offer limitless range for animals and agriculture. Herds of wild bison and domesticated goats, deer, and horses roam the grasslands, while cultivated fields of oat grass and flax spread across the Itzaina plains and the steppes of the Lamecha lowlands. The natives grow a range of vegetable crops, including the gnarled root known as sepse, native to Sarlona and prized for its high nutritional value. Exotic spices found nowhere outside Sarlona thrive in the heat of the savannah, as does dreamlily. Use of the drug is rare among the Syrk humans, but the eneko (who are immune to dreamlily's narcotic effects) grow it for its medicinal value. Harvests are hard in some years, but the clans and tribes of Syrkarn know bounty more often than not.
 
 ### At A Glance
 
@@ -19,14 +18,36 @@ and agriculture. Herds of wild bison and domesticated goats, deer, and horses ro
 * Heraldry: None
 * Founder: Unknown
 * National Motto: None
+* Planar Elements: Wild zones linked to Fernia, Risia, and especially Lamannia are found throughout this land. Like all of Sarlona, Syrkarn is beset by storms whose force borders on the unnatural, and planar disturbances flare and flood across the steppes like unnatural wellsprings. Still, these rifts are seldom as haunting or destructive as the reality storms of the Tundra. The prominent planar connection in Syrkarn is the Whitewater, the crystal-clear lake believed to mark a manifest zone linked to Lamannia. The rocky land surrounding the area remains wet and cool year-round, even as the sands that give the lake its name burn white beneath the equatorial sun.
 
 ### Religion and Culture
 
+Derived as it is from Riedran refugees and their descendants, Syrkarn's human population is uniformly contemptuous of the Path of Inspiration. Nearly half of all human Syrks follow no gods at all, instead placing their faith and devotion in the land itself. For Syrk clerics, the spirit of Syrkarn is treated as a neutral force that provides access to the Animal, Healing, Plant, Sun, and Travel domains. Its favored weapon is the sickle.
 
+In much of Syrkarn, humans have reclaimed the worship of the Sovereign Host from contact with Lhaazarites. At the same time, the eneko have always invoked aspects of Arawai and Balinor, naming these Rowa of the Enduring Trees and Banor the Bowhunter. Human Syrks thus focus their own worship on Arawai and Balinor, with this accidental meeting of traditions underpinning the long-term social stability in the region.
 
 ### Art and Architecture
 
+A nation of farmers and hunters would seem an unlikely place to seek the highest artistic traditions of an empire. Syrkarn is the only place where the legacy of ancient Sarlona still lives — a legacy that spreads through Syrk culture on every level.
 
+The cloaks and clothing of the Syrks are decorated with intricate line-art patterns in a style reminiscent of the architecture of ancient Sarlona. The images are created using long-lasting red and black inks created from the berries and leaves of the hardy hilp bush. Given historical Syrkarn dismissal (or outright distrust) of Riedra, the old artistic style of that land, with its flowing lines and curves, is all but unknown here.
+
+Because Syrkarn has never been subject to Inspired rule, it has been spared the cultural purges the Inspired used to build monolithic Riedra over the nations of old. Syrkarn is thus one of the few places in Sarlona where a significant portion of the architecture of the ancient past survives. Across this land, derelict castles stand atop wind-
+swept tors, their stark lines seemingly thrust up from the
+
+living rock. Wher e the villages of the mongrel ogres have
+been built on the central plazas of the ruined cities that
+came before them, ancient avenues and neighborhoods
+
+(called "corners") still radiate out through the sur-
+rounding grasslands like ghostly spokes. Along isolated
+
+mountain passes and long- lost wayroads, fortresses stand
+whose foundations are as solid as when they were laid two
+thousand years before.
+Domi nated by columns, straight li nes, and square
+arches, the architectural style of old Sarlona still affects
+thi s land and its people. Even the most uti l i tar i an
 
 ### Food and Fashion
 
