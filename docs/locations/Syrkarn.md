@@ -32,22 +32,12 @@ A nation of farmers and hunters would seem an unlikely place to seek the highest
 
 The cloaks and clothing of the Syrks are decorated with intricate line-art patterns in a style reminiscent of the architecture of ancient Sarlona. The images are created using long-lasting red and black inks created from the berries and leaves of the hardy hilp bush. Given historical Syrkarn dismissal (or outright distrust) of Riedra, the old artistic style of that land, with its flowing lines and curves, is all but unknown here.
 
-Because Syrkarn has never been subject to Inspired rule, it has been spared the cultural purges the Inspired used to build monolithic Riedra over the nations of old. Syrkarn is thus one of the few places in Sarlona where a significant portion of the architecture of the ancient past survives. Across this land, derelict castles stand atop wind-
-swept tors, their stark lines seemingly thrust up from the
+Because Syrkarn has never been subject to Inspired rule, it has been spared the cultural purges the Inspired used to build monolithic Riedra over the nations of old. Syrkarn is thus one of the few places in Sarlona where a significant portion of the architecture of the ancient past survives. Across this land, derelict castles stand atop wind-swept tors, their stark lines seemingly thrust up from the living rock. Where the villages of the mongrel ogres have been built on the central plazas of the ruined cities that came before them, ancient avenues and neighborhoods (called "corners") still radiate out through the surrounding grasslands like ghostly spokes. Along isolated mountain passes and long-lost wayroads, fortresses stand whose foundations are as solid as when they were laid two thousand years before.
 
-living rock. Wher e the villages of the mongrel ogres have
-been built on the central plazas of the ruined cities that
-came before them, ancient avenues and neighborhoods
-
-(called "corners") still radiate out through the sur-
-rounding grasslands like ghostly spokes. Along isolated
-
-mountain passes and long- lost wayroads, fortresses stand
-whose foundations are as solid as when they were laid two
-thousand years before.
-Domi nated by columns, straight li nes, and square
-arches, the architectural style of old Sarlona still affects
-thi s land and its people. Even the most uti l i tar i an
+Dominated by columns, straight lines, and square arches, the architectural style of ancient Sarlona still affects this land and its people. Even the most utilitarian structures are built to a standard of stark beauty, and whether of wood or stone, are typically buttressed, arched, and reinforced to last a lifetime. The nomadic tribes are no less inventive than their brethren in Syrkarn's fixed settlements, building their mobile homes from elaborate frameworks of interlocking poles and light beams over which decorated hides are stretched and sealed.
 
 ### Food and Fashion
 
+Food in Syrkarn is plentiful, well spiced, and served with copious amounts of ustah — a potent liquor brewed from honey and wild berries, reportedly from an ancient ogre recipe. The demands of rural life limit the choices available to the Syrk palate, with meat, fruits, and vegetables all typically dried for storage and transport. However, Syrks treat cooking with the same reverence as their other arts, and need no excuse for a feast.
+
+True to Syrkarn's reputation as a land of freedom, the fashions of its people encompass an eclectic range of styles, and a remarkable artisanship can be seen in the textiles, cloth, and weaving of Syrkarn. Among both the mongrel ogres and the humans, a wild aesthetic predominates, combining utilitarian function and the simple beauty of ancient Sarlonan design. Despite their nomadic lifestyle, the half-giants of Syrkarn hold an edge over both the human clans and ogre tribes in armorsmithing and weaponry.

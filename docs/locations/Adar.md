@@ -22,6 +22,7 @@ About 20% of the region is arable land, mainly in the valleys between the mounta
 * Heraldry: The closest to a national symbol in Adar is the symbol of the Path of Light
 * Founder: Unknown
 * National Motto: "The storm cannot move the mountain."
+* Planar Elements: Adar has many manifest zones to Lamannia and Kythri. In a few of these places, such as Ahdryatmin (Mountainsoul), crossing the planar boundary is possible. Elementals are common in Adar. The land is home to strange creatures from Lamannia and Kythri, including PC races.
 
 ### Religion and Culture
 
@@ -31,17 +32,13 @@ Traditional Adaran prayers call on Braahyn (Balinor), the god of the wi lds and 
 
 Adaran art is more craft than fine art. From carved knife grips to chanted meditation verses, art in Adar often serves a dual purpose. It's also very personal.
 
-Buildings in Adar are made out of stone, with wood used for roofs. Built to withstand the wind, precipitation, and trembling earth, houses are usually broad and low with sharply slanted sides. To an Aundairian, Adaran living spaces would seem cramped, but a native of Adar values a house that lasts more than she does a high ceiling. Adarans take care and time to personalize their dwellings — an Adaran might spend years carving designs into the walls of her home.
-Most houses have a central opening in the roof with another smaller roof built over it, like a small tower. Such openings allow light in and stale air out.
+Buildings in Adar are made out of stone, with wood used for roofs. Built to withstand the wind, precipitation, and trembling earth, houses are usually broad and low with sharply slanted sides. To an Aundairian, Adaran living spaces would seem cramped, but a native of Adar values a house that lasts more than she does a high ceiling. Adarans take care and time to personalize their dwellings — an Adaran might spend years carving designs into the walls of her home. Most houses have a central opening in the roof with another smaller roof built over it, like a small tower. Such openings allow light in and stale air out.
 
 ### Food and Fashion
 
-Food holds a special place in Adaran life. It is a requirement for life, but it is also a mode of expression, a blessing from the spirit world, and an experience. An Adaran avoids cooking and eating when he is angry or grieving, lest his emotions taint the meal.
-Food is usually baked in or roasted on a clay oven built in the house, though broiling over an open fire is a common alternative. Adarans avoid using utensils. They use their hands, sometimes protected by leaves, to pick up food, intending to involve all five senses in eating.
-Adarans like spice. The fragrant herbs used in cooking provide taste, and many also aid digestion and fortify the body. Foreigners can find Adaran food too spicy, and Adarans often find foreign food bland.
+Food holds a special place in Adaran life. It is a requirement for life, but it is also a mode of expression, a blessing from the spirit world, and an experience. An Adaran avoids cooking and eating when he is angry or grieving, lest his emotions taint the meal. Food is usually baked in or roasted on a clay oven built in the house, though broiling over an open fire is a common alternative. Adarans avoid using utensils. They use their hands, sometimes protected by leaves, to pick up food, intending to involve all five senses in eating. Adarans like spice. The fragrant herbs used in cooking provide taste, and many also aid digestion and fortify the body. Foreigners can find Adaran food too spicy, and Adarans often find foreign food bland.
 
-Adarans wear loose and comfortable clothes including simple sandals when it's warm. In the cold, they layer in cloth and fur. As with all their crafts, they take the time to decorate their clothes — leather and cloth are often richly colored, and patterns of elaborate lines are woven or painted as highlights. Bright colors in individualized patterns often make it possible to tell who's coming down the ridge before that person's face can be recognized.
-Skin is a place for adornment as well. Intricate, temporary body art made with herbs provides a way to focus the mind while allowing one to share the results. Herbal paints or powders are also applied to indicate a spiritual or emotional condition or event, such as yellow for happiness or ash-gray for grief.
+Adarans wear loose and comfortable clothes including simple sandals when it's warm. In the cold, they layer in cloth and fur. As with all their crafts, they take the time to decorate their clothes — leather and cloth are often richly colored, and patterns of elaborate lines are woven or painted as highlights. Bright colors in individualized patterns often make it possible to tell who's coming down the ridge before that person's face can be recognized. Skin is a place for adornment as well. Intricate, temporary body art made with herbs provides a way to focus the mind while allowing one to share the results. Herbal paints or powders are also applied to indicate a spiritual or emotional condition or event, such as yellow for happiness or ash-gray for grief.
 
 ### What Do You Know?
 
