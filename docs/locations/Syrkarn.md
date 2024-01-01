@@ -1,7 +1,5 @@
  #location #region [[Sarlona]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Syrkarn.png](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Syrkarn.png)
-
 Five thousand years before the arrival of the Inspired, the nations now known collectively as Syrkarn were the jewels in the imperial crown of old Sarlona. Today, only ancient stonework and half-forgotten legends mark the fall, passing, and rebirth of this land. Still, to those who have inherited this seemingly inhospitable kingdom, Syrkarn offers a gift denied to both the warring nations of the past and the Inspired-dominated lands of more recent history. To its people, Syrkarn is the promise of freedom.
 
 Syrkarn is an arid landscape of harsh deserts, lush grasslands, and endless steppes sloping up from the southern extent of the Sea of Rage. Its population consists of an almost equal mix of Sarlonan human clans and tribes of eneko — the mongrel ogres who trace their lineage back to the nation of Borunan.

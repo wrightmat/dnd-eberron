@@ -1,5 +1,7 @@
  #location #region [[Sarlona]]
 
+![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Adar.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Adar.png)
+
 Adar is the mountainous region in southeast of Sarlona. It is inhabited mostly by humans (including the kalashtar), though there is a prominent contingent of blue dragons on the uppermost peaks.
 
 To its inhabitants, Adar is mostly known as a refuge from the dictatorship of Riedra, and many of its residents can trace their lineage to refugees and dissidents of the Riedran state. To this day, Riedra considers Adar a danger to its enforced stability, and regularly sends troops to attack the borders of the region.
