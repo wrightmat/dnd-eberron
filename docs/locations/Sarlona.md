@@ -2,9 +2,10 @@
 
 Sarlona is the ancestral home of the human race. Run as an almost totalitarian regime by The Unity of Riedra through the entirety of the Age of the Dreaming Dark, the entire continent changed when Riedra fell after the Turning of the Age (also known as the Second Sundering) in 1000 YK. The power vacuum created caused the continent to revert to a structure similar to what existed prior to The Unity - a coalition of Ten Kingdoms.
 
-### Excerpts from Secrets of Sarlona
+### General Information (mostly excerpts from Secrets of Sarlona)
 
-* Precariously balanced among the planes, Sarlona has many wild zones and reality storms. These phenomena produce creatures and effects unseen elsewhere in the world. A few veins of Khyber shards exist on the continent, largely in the hands of the dromites. Defying any logic, however, Eberron dragonshards simply do not form on Sarlona. Similarly, Siberys shards aren't found in equatorial Sarlona at all.
+* Precariously balanced among the planes, Sarlona has many wild zones and reality storms. These phenomena produce creatures and effects unseen elsewhere in the world. Wild zones are regions where another plane essentially projects into the Material, and reality storms are powerful planar storms with effects similar to that of a manifest zone (and depend on which one of Eberron's planes they are connected to). Simply put, Sarlona is closer to the planes than Khorvaire, and this creates both threats and opportunities.
+* A few veins of Khyber shards exist on the continent, largely in the hands of the dromites. Defying any logic, however, Eberron dragonshards simply do not form on Sarlona. Similarly, Siberys shards aren't found in equatorial Sarlona at all.
 * Sarlona was the birthplace of humanity, and today humans make up the vast majority of the dragonmarked population, but no dragonmarks have ever appeared on the people of Sarlona. Early signs indicate that the children of dragonmarked parents don't develop dragonmarks if they are conceived in Sarlona. The Twelve has no explanation for this phenomenon, but many believe that it is one of the keys to the ultimate mystery of the dragonmarks and their purpose in the world.
 * The lack of dragonmarks mirrors Sarlona's absence from the Draconic Prophecy. The few human scholars and cataclysm mages who have been able to discuss the Prophecy with the scaled lords of Argonnessen have found the dragons to be utterly unwilling to speak of Sarlona. Some believe that this is because the dragons know of an inescapable catastrophe destined to originate from the continent. But others have a more disturbing theory. They claim that the dragons don't speak of Sarlona because the continent and the events that transpire there are completely invisible to the Prophecy, and this terrifies the dragons. Whatever the cause, the dragons clearly shun this land.
 * Of all the human history of Sarlona, one critical piece is known not because the Sarlonans kept a record of it, but because of its lasting repercussions beyond that land. Some three thousand years before the present age, a flotilla of ships left the land even then called Rhiavhaar, bound west across the Sea of Rage. The leader of this exodus was an explorer named Lhazaar. Though many Khorvairian humans are unaware that Lhazaar's expedition was the beginning of human society on Khorvaire, all know her name.
@@ -93,7 +94,7 @@ Khalesh is a land of temperate plains and desert — green grassland fading into
 * Planar Elements: Couatl shrines and ruins; wild zones linked to Irian, Shavarath, and Syrania
 * Major Settlements: none
 
-### Tashana Tundra
+### [[Tashana Tundra]]
 
 The Tashana Tundra is a cold land in the north of Sarlona. It lies northwest of Dor Maleer, and is a region of mostly tundra and mountains. It is not an official kingdom, but is defined by its lack of rule. The land is mostly inhabited by shifters, humans (barbarians), and duergar, a subrace of dwarves.
 
@@ -104,3 +105,7 @@ Tashana is a word from an ancient shifter dialect meaning "Many Waters", referri
 ##### Day of Disunity (28 Rhaan)
 
 Every year, the 28th of Rhaan is recognized as the day that the Unity of Riedra fell when the Turning of the Age happened on Dal Quor. This event is also known as the Second Sundering.
+
+### References
+
+* Secrets of Sarlona

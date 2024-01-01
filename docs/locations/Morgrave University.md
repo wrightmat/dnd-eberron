@@ -11,8 +11,9 @@ Morgrave University is not the most reputable institution in Khorvaire. It lacks
 ### Characters
 
 * Larrian ir'Morgrave, Master of Morgrave University
-* Xarshel Ravenshadow, Professor of Transmutative Science
 * Flamewind, Oracular Gynosphinx
+* Mentarion Palinostrum, Art Scholar
+* Xarshel Ravenshadow, Professor of Transmutative Science
 
 ### References
 
