@@ -25,7 +25,7 @@ Largely, Pyrine was left in peace by its neighbors. The Vassal faith became comm
 
 ### Art and Architecture
 
-
+Architecture of Pyrine is influenced by the white stone common in Irian, as well as the tower design from Syrania, and the clean angular lines of Daanvi.
 
 ### Food and Fashion
 
