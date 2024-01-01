@@ -83,7 +83,7 @@ Before Unification, the arcanists of the eastern islands were powerful but they 
 * Population: 72,000 (67% humans, 12% skulks, 8% changelings, 5% shifters, 5% dwarves, 2% ogres/ogre mages, 1% other)
 * Environments: Temperate plains and hills
 * Planar Elements: Wild zones linked to Mabar, Xoriat, and Kythri
-* Major Settlements: none
+* Major Settlements: Dar Kel
 
 ##### [[Khalesh]]
 Khalesh is a land of temperate plains and desert — green grassland fading into sunbaked plains and mesas. While it’s more hospitable than neighboring Borunan, at a glance it’s rather barren — endless and empty. And yet, if you wander these plains, you may find yourself enveloped by a sense of well-being, a deep-rooted optimism, and the knowledge that all will be well … with an underlying conviction that you’ll fight to keep it that way. The ancient nation of Khalesh was a theocracy devoted to the couatls. Today, the people know only that the land was once ruled by demons and their ruins still dot the landscape.
