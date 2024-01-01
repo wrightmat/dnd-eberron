@@ -2,7 +2,9 @@
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Corvagura.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Corvagura.png)
 
-Corvagura includes manifest zones and wild zones tied to Lamannia, Mabar, and Thelanis. Notably, the influence of Lamannia lends unnatural fertility to the region and its inhabitants. The influences of the other planes were made manifest in two powerful lines of human sorcerers. Anyone born within the planes’ sphere of influence could potentially develop sorcerous powers. The nation of Corvagura was historically born when leaders rallied these sorcerers into two noble houses, then used their powers to conquer the city-states in the region. The new kingdom of Corvagura has seen these houses begin to re-establish.
+Corvagura is a tropical region marked by deep jungles and lush fields. It had long been the most densely populated region of Sarlona, and it was one of the most powerful and influential of the ancient kingdoms.
+
+Anyone born within the sphere of influence of either Mabar or Thelanis could potentially develop sorcerous powers. The nation of Corvagura was historically born when leaders rallied these sorcerers into two noble houses, then used their powers to conquer the city-states in the region. The new kingdom of Corvagura has seen these houses begin to re-establish:
 * **The House of the Sun** drew its power from Thelanis. Its members had powers like those of Wild Magic sorcerers. Their magic tended toward glamour and glory, twisting the thoughts and emotions of others or striking down foes with bolts of flame. Though biologically human, members of the House of the Sun often had fey features and could be mistaken for Khoravar. The sorcerers of the House of the Sun were taught to be proud and glorious, demanding adoration from their subjects.
 * **The House of the Moon** drew its power from Mabar. Its members had powers like those of Shadow sorcerers, and their magic drew on darkness and inspired fear. They never animated the dead, but they could command shadows and summon specters. The sorcerers of the House of the Moon were taught to be calm and cruel, instilling terror in any who might challenge them.
 
@@ -10,7 +12,10 @@ While these houses are presented as families, one’s position within them was b
 
 ### At A Glance
 
-
+* Population: 440,000 (91% humans, 4% shifters, 3% changelings, 1% ogres/ogre mages, 1% other)
+* Environments: Warm plains, marshes, and forests
+* Major Settlements: Dar Jin, Dar Myan, Durat Tal
+* Planar Elements: Corvagura includes manifest zones and wild zones tied to Lamannia, Mabar, and Thelanis. Notably, the influence of Lamannia lends unnatural fertility to the region and its inhabitants. The influences of the other planes were made manifest in two powerful lines of human sorcerers. 
 
 ### Religion and Culture
 

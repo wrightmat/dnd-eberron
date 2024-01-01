@@ -10,13 +10,10 @@ Though the climate and the isolated life of this land are never easy, the coasta
 
 * Population: 4,260,000 (44% human, 42% eneko, 12% half-giant, 1% kalashtar, 1% other)
 * Area: 1,320,000 square miles
-* Sovereign: None
 * Capital: Nderitese
 * Major Settlements: Per, Gjitha, Maszani
-* Climate: Temperate to tropical throughout; equatorial heat tempered by proximity to the Sea of Rage
+* Environments: Temperate to tropical throughout; equatorial heat tempered by proximity to the Sea of Rage
 * Highest Point: Mount Athay in the Kushtuar Hills, elevation 4,408
-* Heraldry: None
-* Founder: Unknown
 * National Motto: None
 * Planar Elements: Wild zones linked to Fernia, Risia, and especially Lamannia are found throughout this land. Like all of Sarlona, Syrkarn is beset by storms whose force borders on the unnatural, and planar disturbances flare and flood across the steppes like unnatural wellsprings. Still, these rifts are seldom as haunting or destructive as the reality storms of the Tundra. The prominent planar connection in Syrkarn is the Whitewater, the crystal-clear lake believed to mark a manifest zone linked to Lamannia. The rocky land surrounding the area remains wet and cool year-round, even as the sands that give the lake its name burn white beneath the equatorial sun.
 
