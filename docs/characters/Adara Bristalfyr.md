@@ -7,7 +7,8 @@ modifier: 5
  #pc [[Jolene Harper]] [[Rhaan (Thelanis)]] [[Lharvion (Xoriat)]]
 
 * **Alignment**:: Chaotic Neutral
-* **Class**:: Bard (College of Eloquence) / Warlock (Celestial)
+* **Class**:: Bard / Warlock
+* **Subclass**:: Colllege of Eloquence / Celestial
 * **Gender**:: Female
 * **Pronouns**:: she/her
 * **Race**:: Fairy

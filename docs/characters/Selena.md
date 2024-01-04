@@ -7,7 +7,8 @@ modifier: 3
  #pc [[Claire Elrod]]
 
 * **Alignment**:: Lawful Neutral
-* **Class**:: Monk (Way of Mercy)
+* **Class**:: Monk
+* **Subclass**:: Way of Mercy
 * **Gender**:: Female
 * **Pronouns**:: she/her
 * **Race**:: Human

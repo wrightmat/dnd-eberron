@@ -7,7 +7,8 @@ modifier: 1
  #pc [[Kerrie Heath]]
 
 * **Alignment**:: Neutral
-* **Class**:: Warlock (The Undead)
+* **Class**:: Warlock
+* **Subclass**:: The Undead
 * **Gender**:: Male
 * **Pronouns**:: he/him
 * **Race**:: Elf

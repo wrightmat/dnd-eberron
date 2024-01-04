@@ -7,7 +7,8 @@ modifier: 1
  #pc [[Jolene Harper]]
 
 * **Alignment**:: Neutral
-* **Class**:: Druid / Circle of the Moon
+* **Class**:: Druid
+* **Subclass**:: Circle of the Moon
 * **Gender**:: Female
 * **Pronouns**:: she/her
 * **Race**:: Shadar-kai

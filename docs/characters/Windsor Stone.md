@@ -7,7 +7,8 @@ modifier: 1
  #pc [[Kerrie Heath]] [[Zarantryr (Kythri)]] [[Therendor (Syrania)]]
 
 * **Alignment**:: Lawful Good
-* **Class**:: Barbarian (Storm Herald)
+* **Class**:: Barbarian
+* **Subclass**:: Storm Herald
 * **Gender**:: Male
 * **Pronouns**:: he/him
 * **Race**:: Human

@@ -7,7 +7,8 @@ modifier: 1
  #pc [[Alex Kelsch]] [[Crya (Dal Quor)]] [[Barrakas (Irian)]]
 
 * **Alignment**:: Chaotic Good
-* **Class**:: Sorcerer (Aberrant Mind)
+* **Class**:: Sorcerer
+* **Subclass**:: Aberrant Mind
 * **Gender**:: Non-Binary
 * **Pronouns**:: he/they
 * **Race**:: Kalashtar

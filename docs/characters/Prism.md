@@ -7,7 +7,8 @@ modifier: 4
  #pc [[Claire Elrod]] [[Rhaan (Thelanis)]] [[Aryth (Dolurrh)]]
 
 * **Alignment**:: Chaotic Neutral
-* **Class**:: Rogue (Phantom) / Artificer
+* **Class**:: Rogue / Artificer
+* **Subclass**:: Phantom
 * **Gender**:: Female
 * **Pronouns**:: she/her
 * **Race**:: Warforged

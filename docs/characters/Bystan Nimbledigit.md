@@ -7,7 +7,8 @@ level: 7
  #npc #pc [[Jolene Harper]] [[Eyre (Fernia)]]
 
 * **Alignment**:: Chaotic Good
-* **Class**:: Artificer (Armorer)
+* **Class**:: Artificer
+* **Subclass**:: Armorer
 * **Gender**:: Non-Binary
 * **Pronouns**:: any/all (usually they)
 * **Race**:: Genasi

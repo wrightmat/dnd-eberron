@@ -7,7 +7,8 @@ modifier: 2
  #pc #npc  [[Sara Edwards]] [[Ring of Siberys]] [[Therendor (Syrania)]] [[Church of the Silver Flame]]
 
 * **Alignment**:: Lawful Good
-* **Class**:: Paladin (Oath of Redemption)
+* **Class**:: Paladin
+* **Subclass**:: Oath of Redemption
 * **Gender**:: Female
 * **Pronouns**:: she/her
 * **Race**:: Aasimar

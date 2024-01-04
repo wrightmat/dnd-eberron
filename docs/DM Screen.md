@@ -27,6 +27,11 @@ kanban-plugin: basic
 - [ ] [[Flamewind]]
 
 
+## Test
+
+- [ ] Tavern: `dice: [[Random Tables#^random-tavern-names]]`
+
+
 
 
 %% kanban:settings

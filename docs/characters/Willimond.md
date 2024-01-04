@@ -6,7 +6,7 @@ modifier: 1
 ---
  #pc [[Alex Kelsch]]
 
-* **Alignment**:: ???
+* **Alignment**:: Lawful Good
 * **Class**:: Bard
 * **Gender**:: Male
 * **Pronouns**:: he/him
