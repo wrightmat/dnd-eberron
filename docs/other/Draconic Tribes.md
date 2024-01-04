@@ -24,7 +24,7 @@ Below are details on each of the tribes. The dragons should be treated as essent
 † Obsidian Gem Dragons are simply Topaz Gem Dragons (5e version from Fizban's) re-flavored as black instead (and without the Fabricate ability). Arstyvrax could use the Ancient Topaz Dragon or Adult Topaz Dragon (depending on desired CR) with the Vampire's additional Bite stuff, Charm action, and Vampire Weaknesses ability.
 
 ### Progression Tracts
-The tracts below are listed in the general order that the PCs are expected to encounter them.
+The tracts below are listed in the general order that the PCs are expected to encounter them†.
 
 ##### Silver (Breland)
 **Goal**: Work to ensure that all people in Khorvaire trust the dragons.
@@ -68,11 +68,19 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Blue (Lhazaar)
 **Goal**: To recover the Crystal Library of Azalakardon and the expansive knowledge of the Draconic Prophesy contained within.
- - [ ]  
+ - [ ]   Final step is to attack Sarlona after they discover the secrets of the Draconic Prophesy and its place in it?
 
 ##### Black (Shadow Marches)
-**Goal**: To descend into the depths of Khyber in order to gain access to Tiamat/Khyber herself directly.
+**Goal**: To descend into the depths of Khyber in order to gain access to Tiamat herself directly.
  - [ ]  Order of the Onyx Scale begins excavation of what's believed to be Vvaraak's Cave in the Shadow Marches.
+ - [ ]  Dragon Orcs find their way to the upper levels of Khyber and begin exploring.
+ - [ ]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Droaam.
+ - [ ]  Order of the Onyx Scale travels south via the Khyber tunnels. Dragon Orcs become a common sight in the depths of Sharn (Khyber's Gate).
+ - [ ]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Darguun.
+ - [ ]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Q'barra.
+ - [ ]  Order of the Onyx Scale travels south via the Khyber tunnels. Dragon Orcs become a common sight in Aerenal.
+ - [ ]  Order of the Onyx Scale continues traveling south via the Khyber tunnels, reaching the tunnels in Argonnessen.
+ - [ ]  Dragon Orcs tunnel deeper under Argonnessen, eventually discovering Tiamat's prison, completing their goal.
 
 ##### Copper (Aerenal)
 **Goal**: Convert all existing inns into "Copper Dragon Inns", destroying House Ghallanda in the process.
@@ -93,16 +101,14 @@ The tracts below are listed in the general order that the PCs are expected to en
 **Goal**: 
  - [ ]  
 
-##### White (Everice)
-**Goal**: 
- - [ ]  
-
 ##### Green (Eldeen Reaches)
-**Goal**: 
+**Goal**: To create a new extremely powerful half-dragon, similar to Erandis Vol.
  - [ ]  
 
 ##### Obsidian (Argonnessen)
 **Goal**: Release Khyber
  - [ ]  
+
+†Some dragon tribes, such as the white dragons (least intelligent and mostly just territorial and ferocious) and the other gem dragons, don't have their own distinct plot progressions.
 
 ### References
