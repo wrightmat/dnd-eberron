@@ -109,7 +109,7 @@
 - [[Shield Guardian]]
 - [[Skeletons]]
 - [[Specter]]
-- [[Sphinxes]]
+- [[docs/_srd/monsters/Sphinxes]]
 - [[Sprite]]
 - [[Stirge]]
 - [[Succubus slash Incubus]]
