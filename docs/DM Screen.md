@@ -17,6 +17,12 @@ kanban-plugin: basic
 - [ ] [[Swarms]] (Mechanic)
 
 
+## Riddles of the Third Age
+
+- [ ] [[Draconic Tribes]]
+- [ ] [[docs/other/Sphinxes|Sphinxes]]
+
+
 
 
 %% kanban:settings
