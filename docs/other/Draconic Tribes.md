@@ -9,14 +9,14 @@ Below are details on each of the tribes. The dragons should be treated as essent
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | White | Cold | Kazdurakashtan (deceased) | Risia (Base in Everice) | Order of the Ivory Scale (Dragon Giants) | Bullying, Persistent |  |  | Arctic Mountains | CE |
 | Black | Acid | Vvaraak (deceased) | Mabar (Base in Shadow Marches/Droaam) | Order of the Onyx Scale (Dragon Orcs) | Vile-tempered, Cruel | Obsidian | Copper | Swamps | CE |
-| Green | Poison |  | Lamannia (Base in Eldeen Reaches) | Order of the Emerald Scale (Dragon Elves) | Cunning, Duplicitous, Territorial | Brass |  | Forests | LE |
+| Green | Poison | Ystravnil | Lamannia (Base in Eldeen Reaches) | Order of the Emerald Scale (Dragon Elves) | Cunning, Duplicitous, Territorial | Brass |  | Forests | LE |
 | Blue | Lightning | Azalakardon (deceased) | Kythri (Base in Lhazaar) | Order of the Sapphire Scale (Dragon Elves) | Mocking, Manipulative |  | Brass | Deserts, Beaches | LE |
-| Red | Fire | Ephelomon | Fernia (Base in Mror Holds) | Order of the Ruby Scale (Dragon Dwarves) | Powerful, Combative | Amethyst | Silver | Mountains, Volcanos | CE |
-| Brass | Sleep, Fire |  | Thelanis (Base in Darguun/Zilargo) | The Brass Bards | Talkative | Green |  | Deserts, Plains | CG |
-| Bronze | Lightning, Charm |  | Shavarath (Base in Valenar) | The Bronze Navy | Honorable, Arrogant |  | Blue | Coastlines, Islands | LG |
-| Copper | Acid, Incapacitate |  | Xoriat (Base in Aerenal, Madwood) | Copper Dragon Inns | Joking, Devious, Clever | Crystal |  | Mountains, Deserts | CG |
+| Red | Fire | Q’anhyrde | Fernia (Base in Mror Holds) | Order of the Ruby Scale (Dragon Dwarves) | Powerful, Combative | Amethyst | Silver | Mountains, Volcanos | CE |
+| Brass | Sleep, Fire | Meretsega | Thelanis (Base in Darguun/Zilargo) | The Brass Bards | Talkative | Green |  | Deserts, Plains | CG |
+| Bronze | Lightning, Charm | Shadewing | Shavarath (Base in Valenar) | The Bronze Navy | Honorable, Arrogant |  | Blue | Coastlines, Islands | LG |
+| Copper | Acid, Incapacitate | Kauverra | Xoriat (Base in Aerenal, Madwood) | Copper Dragon Inns | Joking, Devious, Clever | Crystal |  | Mountains, Deserts | CG |
 | Silver | Cold, Paralyze | Yllosavax | Syrania (Base in Breland) | The Silver Scales, Paladin Protectors of the Realm | Protective, Intelligent |  | Red | High Mountains | LG |
-| Gold | Fire, Weakening | [[Spindelaryx]] | Irian (Base in Thrane) | The Golden Palace (seat of the rulers of the civilized world) | Powerful, Wise |  |  | Anywhere | LG |
+| Gold | Fire, Weakening | [[Spindelaryx]] | Irian (Base in Thrane) | The Golden Palace | Powerful, Wise |  |  | Anywhere | LG |
 | Obsidian† | Necrotic | [[Arstyvrax]] | Dolurrh (Base in Argonnesson, The Vast) | Scions of Sardior | Viscous, Intelligent | Black | n/a | Underground | CN |
 | Crystal | Radiant |  | Dal Quor (Base in Argonnesson) | Scions of Sardior | Fun-loving, Mischievous | Copper | n/a | The Skies | LN |
 | Amethyst | Force | [[Aleithilithos]] | Daanvi (Base in Argonnesson) | Scions of Sardior | Detached, Peaceful | Red | n/a | Plains | NN |
@@ -72,7 +72,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Black (Shadow Marches)
 **Goal**: To descend into the depths of Khyber in order to gain access to Tiamat/Khyber herself directly.
- - [ ]  
+ - [ ]  Order of the Onyx Scale begins excavation of what's believed to be Vvaraak's Cave in the Shadow Marches.
 
 ##### Copper (Aerenal)
 **Goal**: Convert all existing inns into "Copper Dragon Inns", destroying House Ghallanda in the process.

@@ -22,14 +22,14 @@ The Draconic religion of Thir considers the Progenitors to be the highest level 
 
 | Name | Gender | Color | Domain | AL |
 | ---- | ---- | ---- | ---- | ---- |
-| Bahamut (Eberron) | Masculine | White | Protection and Good Fortune | LG |
-| Tiamat (Khyber) | Feminine | Multicolored | Greed and Power | LE |
-| Sardior (Siberys) | Neuter | Ruby | Psionics and Secrets | N |
+| Bahamut (son of Eberron) | Masculine | White | Protection and Good Fortune | LG |
+| Tiamat (daughter of Khyber) | Feminine | Multicolored | Greed and Power | LE |
+| Sardior (child of Siberys) | Neuter | Ruby | Psionics and Secrets | N |
+| Chronepsis | Masculine | Brass | Fate and Prophecy | N |
 | Falazure | Masculine | Black | Death and Decay | NE |
 | Io | Masculine | Green | Magic and Knowledge | N |
 | Garyx | Masculine | Blue | Chaos and Destruction | CE |
 | Aasterinian | Feminine | Red | Invention and Trade | CN |
-| Chronepsis | Masculine | Brass | Fate and Prophecy | N |
 | Astilabor | Feminine | Bronze | Acquisitiveness and Wealth | N |
 | Hlal | Feminine | Copper | Humor and Pleasure | CG |
 | Lendys | Masculine | Silver | Justice and Law | LN |
