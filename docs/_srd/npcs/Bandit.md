@@ -3,9 +3,7 @@
 *Medium humanoid (any race), any non-lawful alignment*
 
 **Armor Class** 12 (leather armor)
-
 **Hit Points** 11 (2d8 + 2)
-
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -13,9 +11,7 @@
 | 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Senses** passive Perception 10
-
 **Languages** any one language (usually Common)
-
 **Challenge** 1/8 (25 XP)
 
 ###### Actions

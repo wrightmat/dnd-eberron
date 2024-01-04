@@ -3,9 +3,7 @@
 *Medium humanoid (any race), any non-good alignment*
 
 **Armor Class** 15 (studded leather)
-
 **Hit Points** 78 (12d8 + 24)
-
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -13,15 +11,10 @@
 | 11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0) |
 
 **Saving Throws** Dex +6, Int +4
-
 **Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9
-
 **Damage Resistances** poison
-
 **Senses** passive Perception 13
-
 **Languages** Thieves' cant plus any two languages
-
 **Challenge** 8 (3,900 XP)
 
 ***Assassinate***. During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.

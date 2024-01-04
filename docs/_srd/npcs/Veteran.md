@@ -3,9 +3,7 @@
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 17 (splint)
-
 **Hit Points** 58 (9d8 + 18)
-
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -13,11 +11,8 @@
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Athletics +5, Perception +2
-
 **Senses** passive Perception 12
-
 **Languages** any one language (usually Common)
-
 **Challenge** 3 (700 XP)
 
 ###### Actions

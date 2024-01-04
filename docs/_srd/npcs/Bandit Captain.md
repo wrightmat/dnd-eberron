@@ -3,9 +3,7 @@
 *Medium humanoid (any race), any non-lawful alignment*
 
 **Armor Class** 15 (studded leather)
-
 **Hit Points** 65 (10d8 + 20)
-
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -13,13 +11,9 @@
 | 15 (+2) | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 14 (+2) |
 
 **Saving Throws** Str +4, Dex +5, Wis +2
-
 **Skills** Athletics +4, Deception +4
-
 **Senses** passive Perception 10
-
 **Languages** any two languages
-
 **Challenge** 2 (450 XP)
 
 ###### Actions

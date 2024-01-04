@@ -3,9 +3,7 @@
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 12
-
 **Hit Points** 27 (6d8)
-
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -13,11 +11,8 @@
 | 10 (+0) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
-
 **Senses** passive Perception 16
-
 **Languages** any two languages
-
 **Challenge** 1 (200 XP)
 
 ***Cunning Action***. On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.

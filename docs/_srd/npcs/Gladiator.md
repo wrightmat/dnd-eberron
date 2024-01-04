@@ -3,9 +3,7 @@
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 16 (studded leather, shield)
-
 **Hit Points** 112 (15d8 + 45)
-
 **Speed** 30 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -13,13 +11,9 @@
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Str +7, Dex +5, Con +6
-
 **Skills** Athletics +10, Intimidation +5
-
 **Senses** passive Perception 11
-
 **Languages** any one language (usually Common)
-
 **Challenge** 5 (1,800 XP)
 
 ***Brave***. The gladiator has advantage on saving throws against being frightened.

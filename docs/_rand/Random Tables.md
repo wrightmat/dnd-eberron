@@ -295,11 +295,114 @@
 | 6         | DMPC (if one exists), or re-roll |
 ^random-players
 
-### Inns
+### Towns
 
+| dice:1d100 | Town Name        |
+|------------|------------------|
+| 1          | Aerilon          |
+| 2          | Aquarin          |
+| 3          | Aramoor          |
+| 4          | Azmar            |
+| 5          | Begger’s Hole    |
+| 6          | Black Hollow     |
+| 7          | Blue Field       |
+| 8          | Briar Glen       |
+| 9          | Brickelwhyte     |
+| 10         | Broken Shield    |
+| 11         | Boatwright       |
+| 12         | Bullmar          |
+| 13         | Carran           |
+| 14         | City of Fire     |
+| 15         | Coalfell         |
+| 16         | Cullfield        |
+| 17         | Darkwell         |
+| 18         | Deathfall        |
+| 19         | Doonatel         |
+| 20         | Dry Gulch        |
+| 21         | Easthaven        |
+| 22         | Ecrin            |
+| 23         | Erast            |
+| 24         | Far Water        |
+| 25         | Firebend         |
+| 26         | Fool’s March     |
+| 27         | Frostford        |
+| 28         | Goldcrest        |
+| 29         | Goldenleaf       |
+| 30         | Greenflower      |
+| 31         | Garen’s Well     |
+| 32         | Haran            |
+| 33         | Hillfar          |
+| 34         | Hogsfeet         |
+| 35         | Hollyhead        |
+| 36         | Hull             |
+| 37         | Hwen             |
+| 38         | Icemeet          |
+| 39         | Ironforge        |
+| 40         | Irragin          |
+| 41         | Jarren’s Outpost |
+| 42         | Jongvale         |
+| 43         | Kara’s Vale      |
+| 44         | Knife’s Edge     |
+| 45         | Lakeshore        |
+| 46         | Leeside          |
+| 47         | Lullin           |
+| 48         | Marren’s Eve     |
+| 49         | Millstone        |
+| 50         | Moonbright       |
+| 51         | Mountmend        |
+| 52         | Nearon           |
+| 53         | New Cresthill    |
+| 54         | Northpass        |
+| 55         | Nuxvar           |
+| 56         | Oakheart         |
+| 57         | Oar’s Rest       |
+| 58         | Old Ashton       |
+| 59         | Orrinshire       |
+| 60         | Ozryn            |
+| 61         | Pavv             |
+| 62         | Pella’s Wish     |
+| 63         | Pinnella Pass    |
+| 64         | Pran             |
+| 65         | Quan Ma          |
+| 66         | Queenstown       |
+| 67         | Ramshorn         |
+| 68         | Red Hawk         |
+| 69         | Rivermouth       |
+| 70         | Saker Keep       |
+| 71         | Seameet          |
+| 72         | Ship’s Haven     |
+| 73         | Silverkeep       |
+| 74         | South Warren     |
+| 75         | Snake’s Canyon   |
+| 76         | Snowmelt         |
+| 77         | Squall’s End     |
+| 78         | Swordbreak       |
+| 79         | Tarrin           |
+| 80         | Three Streams    |
+| 81         | Trudid           |
+| 82         | Ubbin Falls      |
+| 83         | Ula’ree          |
+| 84         | Veritas          |
+| 85         | Violl’s Garden   |
+| 86         | Wavemeet         |
+| 87         | Whiteridge       |
+| 88         | Willowdale       |
+| 89         | Windrip          |
+| 90         | Wintervale       |
+| 91         | Wellspring       |
+| 92         | Westwend         |
+| 93         | Wolfden          |
+| 94         | Xan’s Bequest    |
+| 95         | Xynnar           |
+| 96         | Yarrin           |
+| 97         | Yellowseed       |
+| 98         | Zao Ying         |
+| 99         | Zeffari          |
+| 100        | Zumka            |
+^random-town-names
 
+### Inns / Taverns
 
-### Taverns
 | dice:1d100 | Tavern Name                                                                    |
 |------|--------------------------------------------------------------------------------|
 | 01    | The Plot and Hook                                                              |
@@ -403,6 +506,58 @@
 | 99   | The Goblin's Head                                                              |
 | 100  | The Leaky Keg                                                                  |
 ^random-tavern-names
+
+### Weather
+
+| dic:1d10 | Basics. Today the weather is, |
+|-----|-------------------------------|
+| 1   | Dry                           |
+| 2   | Wet                           |
+| 3   | Hot                           |
+| 4   | Cold                          |
+| 5   | Cloudy                        |
+| 6   | Sunny                         |
+| 7   | Humid                         |
+| 8   | Icy                           |
+| 9   | Windy                         |
+| 10  | Still                         |
+^random-weather-basics
+
+| dice:1d20 | Extra. With,                 |
+|-----|------------------------------|
+| 1   | A light drizzling of rain.   |
+| 2   | A heavy rain.                |
+| 3   | A rainstorm.                 |
+| 4   | A thunderstorm.              |
+| 5   | A sandstorm.                 |
+| 6   | A tornado.                   |
+| 7   | A flurry of snow.            |
+| 8   | Heavy snow.                  |
+| 9   | A blizzard.                  |
+| 10  | A hailstorm.                 |
+| 11  | Sleet.                       |
+| 12  | Misty air.                   |
+| 13  | Wisps of light in the air.   |
+| 14  | Dark ominous clouds.         |
+| 15  | A bright aurora in the sky.  |
+| 16  | Light wispy clouds.          |
+| 17  | A strange colour to the sky. |
+| 18  | Flower petals in the wind.   |
+| 19  | Extra strong winds.          |
+| 20  | A gentle breeze.             |
+^random-weather-extras
+
+| dice:1d8 | Length. The weather has been like this, |
+|----------|-----------------------------------------|
+| 1        | For a day.                              |
+| 2        | For several days.                       |
+| 3        | Since a mysterious person arrived.      |
+| 4        | Only since the morning.                 |
+| 5        | For a week.                             |
+| 6        | For some weeks.                         |
+| 7        | For a month.                            |
+| 8        | For a year.                             |
+^random-weather-length
 
 ### Riddles
 

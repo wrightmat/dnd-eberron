@@ -15,6 +15,11 @@ kanban-plugin: basic
 - [ ] [[Lingering Injury]] (Mechanic)
 - [ ] [[Stress]] (Mechanic)
 - [ ] [[Swarms]] (Mechanic)
+- [ ] --
+- [ ] **Lazy DM Principles**:
+- [ ] * Let the story unfold at the table
+- [ ] * Set up situations and see what happens
+- [ ] * Be the characters’ biggest fan
 
 
 ## Current Active Campaign
@@ -27,9 +32,36 @@ kanban-plugin: basic
 - [ ] [[Flamewind]]
 
 
-## Test
+## Randomness
 
+- [ ] Town: `dice: [[Random Tables#^random-town-names]]`
 - [ ] Tavern: `dice: [[Random Tables#^random-tavern-names]]`
+- [ ] [[Generator - NPC]]
+
+
+## NPCs
+
+- [ ] [[Acolyte]]
+- [ ] [[Archmage]]
+- [ ] [[Assassin]]
+- [ ] [[Bandit]]
+- [ ] [[Bandit Captain]]
+- [ ] [[Berserker]]
+- [ ] [[Commoner]]
+- [ ] [[Cult Fanatic]]
+- [ ] [[Cultist]]
+- [ ] [[Druid (NPC)]]
+- [ ] [[Gladiator]]
+- [ ] [[Guard]]
+- [ ] [[Knight]]
+- [ ] [[Mage]]
+- [ ] [[Noble]]
+- [ ] [[Priest]]
+- [ ] [[Scout]]
+- [ ] [[Spy]]
+- [ ] [[Thug]]
+- [ ] [[Tribal Warrior]]
+- [ ] [[Veteran]]
 
 
 
