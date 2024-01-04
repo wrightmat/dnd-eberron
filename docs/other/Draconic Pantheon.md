@@ -10,12 +10,6 @@ The Dragons of Argonessen tell a more expanded version of the progenitor myth. I
 
 The Draconic religion of Thir considers the Progenitors to be the highest level of divinity, and respect their role in creation. However, even here, direct worship is rare – most Draconic worship is focused on the second tier of divinity, which features draconic aspects of the Sovereign Host. It is believed that the Dragon Gods watch the world from a realm that stands beyond the thirteen... a place that cannot be reached by any mortal magic.
 
-### Draconic Prophesy
-
-The Draconic Prophecy is a record of things to come that has been playing out since creation. The dragons of Argonnessen observe and record everything from the position of the moons and stars, to the position of the Ring of Siberys to physical manifestations of dragonmarks in the world, all of which they study looking for portents and omens of things to come. The prophecy encompasses many many volumes and is said to be as complex and unfathomable as the dragons themselves. It is unknown what the Draconic Prophecy's nature is. Some argue it is a revelation of the end of the world, others of a new beginning. Whatever it means, it is obvious that the prophecy points toward the transformation of the world as we know it. Only the Progenitors themselves know that the Draconic Prophesy outlines the cyclic nature of the planet known as Eberron, and its ongoing battle between the dragons and the daelkyr - but even they are unsure what lies beyond the Third Age.
-
-[[Draconic Prophesy]]
-
 ### Progenitor Dragons
 
 **Siberys**, the Dragon Above, and Progenitor of the Gemstone Dragons, has also been called Sardior in other realms. He was the Progenitor of the First Coming, after being killed by his sister Khyber, which spread his magic over the surface of the newly created planet. The First Age of Eberron (also known as “Githberron”) was known for its strong psionic magic and prevalence of the Gith and Goblinoid races.
@@ -27,8 +21,10 @@ The Draconic Prophecy is a record of things to come that has been playing out si
 ### Draconic Gods
 
 | Name | Gender | Color | Domain | AL |
-| --- | --- | --- | --- | --- |
-| Bahamut | Masculine | White | Protection and Good Fortune | LG |
+| ---- | ---- | ---- | ---- | ---- |
+| Bahamut (Eberron) | Masculine | White | Protection and Good Fortune | LG |
+| Tiamat (Khyber) | Feminine | Multicolored | Greed and Power | LE |
+| Sardior (Siberys) | Neuter | Ruby | Psionics and Secrets | N |
 | Falazure | Masculine | Black | Death and Decay | NE |
 | Io | Masculine | Green | Magic and Knowledge | N |
 | Garyx | Masculine | Blue | Chaos and Destruction | CE |
@@ -38,5 +34,9 @@ The Draconic Prophecy is a record of things to come that has been playing out si
 | Hlal | Feminine | Copper | Humor and Pleasure | CG |
 | Lendys | Masculine | Silver | Justice and Law | LN |
 | Tamara | Feminine | Gold | Life and Mercy | NG |
-| Sardior | Neuter | Ruby | Psionics and Secrets | N |
-| Tiamat | Feminine | Multicolored | Greed and Power | LE |
+
+### Draconic Prophesy
+
+The Draconic Prophecy is a record of things to come that has been playing out since creation. The dragons of Argonnessen observe and record everything from the position of the moons and stars, to the position of the Ring of Siberys to physical manifestations of dragonmarks in the world, all of which they study looking for portents and omens of things to come. The prophecy encompasses many many volumes and is said to be as complex and unfathomable as the dragons themselves. It is unknown what the Draconic Prophecy's nature is. Some argue it is a revelation of the end of the world, others of a new beginning. Whatever it means, it is obvious that the prophecy points toward the transformation of the world as we know it. Only the Progenitors themselves know that the Draconic Prophesy outlines the cyclic nature of the planet known as Eberron, and its ongoing battle between the dragons and the daelkyr - but even they are unsure what lies beyond the Third Age.
+
+[[Draconic Prophesy]]
