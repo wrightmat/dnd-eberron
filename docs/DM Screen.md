@@ -35,12 +35,24 @@ kanban-plugin: basic
 ## Randomness
 
 - [ ] Town: `dice: [[Random Tables#^random-town-names]]`
-- [ ] Tavern: `dice: [[Random Tables#^random-tavern-names]]`
+- [ ] Inn/Tavern: `dice: [[Random Tables#^random-tavern-names]]`
+- [ ] The weather is `dice: [[Random Tables#^random-weather-basics]]`, with `dice: [[Random Tables#^random-weather-extras]]` The weather has been like this `dice: [[Random Tables#^random-weather-length]]`
 - [ ] [[Generator - NPC]]
+- [ ] Human Names: https://www.fantasynamegenerators.com/dnd-human-names.php
+- [ ] Dragon Names: https://www.fantasynamegenerators.com/dragon-names.php
+- [ ] Dragonborn Names: https://www.fantasynamegenerators.com/dnd-dragonborn-names.php
+- [ ] Dwarf Names: https://www.fantasynamegenerators.com/dnd-dwarf-names.php
+- [ ] Elf Names: https://www.fantasynamegenerators.com/dnd-elf-names.php
+- [ ] Halfling Names: https://www.fantasynamegenerators.com/dnd-halfling-names.php
+- [ ] Orc Names: https://www.fantasynamegenerators.com/dnd-orc-names.php
+- [ ] Sphinx Names: https://www.fantasynamegenerators.com/sphinx-names.php
 
 
 ## NPCs
 
+- [ ] [[Lists - NPCs]]
+- [ ] [[Lists - PCs]]
+- [ ] --
 - [ ] [[Acolyte]]
 - [ ] [[Archmage]]
 - [ ] [[Assassin]]
@@ -50,7 +62,7 @@ kanban-plugin: basic
 - [ ] [[Commoner]]
 - [ ] [[Cult Fanatic]]
 - [ ] [[Cultist]]
-- [ ] [[Druid (NPC)]]
+- [ ] [[docs/_srd/npcs/Druid|Druid]]
 - [ ] [[Gladiator]]
 - [ ] [[Guard]]
 - [ ] [[Knight]]

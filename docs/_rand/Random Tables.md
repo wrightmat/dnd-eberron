@@ -509,7 +509,7 @@
 
 ### Weather
 
-| dic:1d10 | Basics. Today the weather is, |
+| dice:1d10 | Basics. Today the weather is, |
 |-----|-------------------------------|
 | 1   | Dry                           |
 | 2   | Wet                           |

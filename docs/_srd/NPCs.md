@@ -9,7 +9,7 @@
 - [[Commoner]]
 - [[Cultist]]
 - [[Cult Fanatic]]
-- [[Druid (NPC)]]
+- [[docs/_srd/npcs/Druid]]
 - [[Gladiator]]
 - [[Guard]]
 - [[Knight]]
