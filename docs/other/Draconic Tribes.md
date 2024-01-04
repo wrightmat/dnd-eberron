@@ -5,12 +5,12 @@ Each of the chromatic, metallic, and gem dragon tribes have their own means and 
 Below are details on each of the tribes. The dragons should be treated as essentially one large BBEG until near the end of the campaign when the obsidian dragons and Arstyvrax are exposed as the true original bad guys. As the players advance through the campaign, the dragons should be pursuing their own goals as well, regardless of what the players decide to do. A new tract below should be started whenever the PCs first learn about or encounter a dragon tribe plot. At that point, each clock will tick along as the dragons continue their work.
 
 ### Summary
-| Color | Damage | Leader | Plane | Followers/Organizations | Characteristics | Ally | Enemy | Habitat | Align. |
+| Color | Damage | Leader/Inspiration | Plane | Followers/Organizations | Characteristics | Ally | Enemy | Habitat | Align. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| White | Cold | Kazdurakashtan | Risia (Base in Everice) | Order of the Ivory Scale (Dragon Giants) | Bullying, Persistent |  |  | Arctic Mountains | CE |
-| Black | Acid | Vvaraak | Mabar (Base in Shadow Marches/Droaam) | Order of the Onyx Scale (Dragon Orcs) | Vile-tempered, Cruel | Obsidian | Copper | Swamps | CE |
+| White | Cold | Kazdurakashtan (deceased) | Risia (Base in Everice) | Order of the Ivory Scale (Dragon Giants) | Bullying, Persistent |  |  | Arctic Mountains | CE |
+| Black | Acid | Vvaraak (deceased) | Mabar (Base in Shadow Marches/Droaam) | Order of the Onyx Scale (Dragon Orcs) | Vile-tempered, Cruel | Obsidian | Copper | Swamps | CE |
 | Green | Poison |  | Lamannia (Base in Eldeen Reaches) | Order of the Emerald Scale (Dragon Elves) | Cunning, Duplicitous, Territorial | Brass |  | Forests | LE |
-| Blue | Lightning | Azalakardon | Kythri (Base in Lhazaar) | Order of the Sapphire Scale (Dragon Elves) | Mocking, Manipulative |  | Brass | Deserts, Beaches | LE |
+| Blue | Lightning | Azalakardon (deceased) | Kythri (Base in Lhazaar) | Order of the Sapphire Scale (Dragon Elves) | Mocking, Manipulative |  | Brass | Deserts, Beaches | LE |
 | Red | Fire | Ephelomon | Fernia (Base in Mror Holds) | Order of the Ruby Scale (Dragon Dwarves) | Powerful, Combative | Amethyst | Silver | Mountains, Volcanos | CE |
 | Brass | Sleep, Fire |  | Thelanis (Base in Darguun/Zilargo) | The Brass Bards | Talkative | Green |  | Deserts, Plains | CG |
 | Bronze | Lightning, Charm |  | Shavarath (Base in Valenar) | The Bronze Navy | Honorable, Arrogant |  | Blue | Coastlines, Islands | LG |
@@ -19,7 +19,7 @@ Below are details on each of the tribes. The dragons should be treated as essent
 | Gold | Fire, Weakening | [[Spindelaryx]] | Irian (Base in Thrane) | The Golden Palace (seat of the rulers of the civilized world) | Powerful, Wise |  |  | Anywhere | LG |
 | Obsidian† | Necrotic | [[Arstyvrax]] | Dolurrh (Base in Argonnesson, The Vast) | Scions of Sardior | Viscous, Intelligent | Black | n/a | Underground | CN |
 | Crystal | Radiant |  | Dal Quor (Base in Argonnesson) | Scions of Sardior | Fun-loving, Mischievous | Copper | n/a | The Skies | LN |
-| Amethyst | Force | Aleithilithos | Daanvi (Base in Argonnesson) | Scions of Sardior | Detached, Peaceful | Red | n/a | Plains | NN |
+| Amethyst | Force | [[Aleithilithos]] | Daanvi (Base in Argonnesson) | Scions of Sardior | Detached, Peaceful | Red | n/a | Plains | NN |
 
 † Obsidian Gem Dragons are simply Topaz Gem Dragons (5e version from Fizban's) re-flavored as black instead (and without the Fabricate ability). Arstyvrax could use the Ancient Topaz Dragon or Adult Topaz Dragon (depending on desired CR) with the Vampire's additional Bite stuff, Charm action, and Vampire Weaknesses ability.
 
@@ -67,11 +67,11 @@ The tracts below are listed in the general order that the PCs are expected to en
   - [ ]  The leaders of the brass dragons replaces The Proctor of The Trust, accomplishing their goal.
 
 ##### Blue (Lhazaar)
-**Goal**: 
+**Goal**: To recover the Crystal Library of Azalakardon and the expansive knowledge of the Draconic Prophesy contained within.
  - [ ]  
 
 ##### Black (Shadow Marches)
-**Goal**: 
+**Goal**: To descend into the depths of Khyber in order to gain access to Tiamat/Khyber herself directly.
  - [ ]  
 
 ##### Copper (Aerenal)
