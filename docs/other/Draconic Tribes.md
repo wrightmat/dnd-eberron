@@ -17,9 +17,9 @@ Below are details on each of the tribes. The dragons should be treated as essent
 | Copper | Acid, Incapacitate | Kauverra | Xoriat (Base in Aerenal, Madwood) | Copper Dragon Inns | Joking, Devious, Clever | Crystal |  | Mountains, Deserts | CG |
 | Silver | Cold, Paralyze | Yllosavax | Syrania (Base in Breland) | The Silver Scales, Paladin Protectors of the Realm | Protective, Intelligent |  | Red | High Mountains | LG |
 | Gold | Fire, Weakening | [[Spindelaryx]] | Irian (Base in Thrane) | The Golden Palace | Powerful, Wise |  |  | Anywhere | LG |
-| Obsidian† | Necrotic | [[Arstyvrax]] | Dolurrh (Base in Argonnesson, The Vast) | Scions of Sardior | Viscous, Intelligent | Black | n/a | Underground | CN |
-| Crystal | Radiant |  | Dal Quor (Base in Argonnesson) | Scions of Sardior | Fun-loving, Mischievous | Copper | n/a | The Skies | LN |
-| Amethyst | Force | [[Aleithilithos]] | Daanvi (Base in Argonnesson) | Scions of Sardior | Detached, Peaceful | Red | n/a | Plains | NN |
+| Obsidian† | Necrotic | [[Arstyvrax]] | Dolurrh (Base in Argonnessen, The Vast) | Scions of Sardior | Viscous, Intelligent | Black | n/a | Underground | CN |
+| Crystal | Radiant | Hrodel | Dal Quor (Base in Sarlona, Syrkarn, Heart of Io) | Scions of Sardior | Fun-loving, Mischievous | Copper | n/a | The Skies | LN |
+| Amethyst | Force | [[Aleithilithos]] | Daanvi (Base on the Ring of Siberys) | Scions of Sardior | Detached, Peaceful | Red | n/a | Plains | NN |
 
 † Obsidian Gem Dragons are simply Topaz Gem Dragons (5e version from Fizban's) re-flavored as black instead (and without the Fabricate ability). Arstyvrax could use the Ancient Topaz Dragon or Adult Topaz Dragon (depending on desired CR) with the Vampire's additional Bite stuff, Charm action, and Vampire Weaknesses ability.
 
