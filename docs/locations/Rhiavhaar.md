@@ -29,3 +29,13 @@ Stories are the primary art form throughout the kingdom, with both oral and writ
 
 ### Food and Fashion
 
+
+### Development
+
+* Rhiavhaar, with the help of knowledgeable people from Syrkarn, was the first to establish representative democracy in Sarlona, during the Quiet Year.
+* During the Quiet Year, Eberron dragonshards were discovered in the marshes of Rhiavhaar.
+* Rhiavhaar invested heavily in tourism during the end of the Quiet Year, brining many outsiders into the region and drastically increasing their population.
+
+### References
+
+* Secrets of Sarlona

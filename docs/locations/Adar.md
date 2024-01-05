@@ -77,3 +77,12 @@ The Adarans' love of craft manifests in a variety of jewelry. From glass beadwor
 * DC 15: Some great magic prevents all dimensional travel into and within Adar.
 * DC 18: This "magic" is actually a psionic shroud that envelops the country and originates from the temple-fortresses of Adar.
 * DC 20: Adar has many manifest zones connected to Lamannia, explaining its supernaturally wild territories. It also has some manifest zones to Kythri. The interaction of these forces might explain some of the storms that rage in the land.
+
+### Development
+
+* Sometime during the Second Sundering, Adarans started feeding (at least certain) criminals to the blue dragons that are prevalent in the area.
+* During the summer of the Quiet Year, Adar established Olympics-like games for competitive art. The first one took place the following summer, and every summer since.
+
+### References
+
+* Secrets of Sarlona

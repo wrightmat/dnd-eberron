@@ -31,10 +31,18 @@ The Capital of the Ten Kingdoms is the city of Kasshta (formerly Kasshta Keep) i
 ##### [[Syrkarn]]
 Syrkarn is a southern nation on the continent of Sarlona. It is a mostly agrarian society made up of ogres, eneko ("mongrel ogres"), half-giants, and humans. During the Age of the Dreaming Dark, Syrkarn sat on the edge of Reidran territory but was effectively independent. Because of this, it was barely effected by the Second Sundering, and has grown to be the largest nation in the new continent of Sarlona. Its growth has also been impacted by the nearby ports on the Aventus Islands who take people in from other continents such as Khorvaire and Aerenal. The nation remains fiercely independent though, and had little interest in becoming the capital of the newly established Ten Kingdoms, which it happily passed to Adar. Syrkarn does remain the bread basket for the entire continent of Sarlona.
 
-* Population: 4,260,000 (44% human, 42% eneko, 12% half-giant, 1% kalashtar, 1% other)
+* Population: 3,260,000 (44% human, 42% eneko, 12% half-giant, 1% kalashtar, 1% other)
 * Environments: Arid steppes, deserts, and savannahs, occasionally broken up by hills and mountains
 * Planar Elements: Wild zones linked to Fernia, Risia, and especially Lamannia
 * Major Settlements: Nderitese, Per, Gjitha, Maszani, Ardhmen
+
+##### [[Rhiavhaar]]
+The people of Rhiavhaar have always been the finest shipwrights and sailors of Sarlona; but they weren’t simply merchants or fisherfolk. Long before their descendants settled the Lhazaar Principalities — named after the notorious Rhiavhaarian explorer — they were known for their piracy. In general, Rhiavhaarians are still seen as wild, capricious, and dangerous; “Rhiavhaarian luck” is a common curse suggesting that fortune favors a scoundrel.
+
+* Population: 2,960,000 (85% humans, 6% shifters, 4% changelings, 3% ogres/ogre mages, 2% other)
+* Environments: Temperate plains and marsh
+* Planar Elements: Wild zones linked to Lamannia, Shavarath, and Thelanis
+* Major Settlements: Dul Jhaar, Dar Ulatesh
 
 ##### [[Adar]]
 Adar is the mountainous nation in the southeast of Sarlona. It is inhabited mostly by humans (including the kalashtar), though there is a prominent contingent of blue dragons on the uppermost peaks. Adar was mostly a refuge from the Inspired during the Age of the Dreaming Dark, and has now become one of the largest nations on Sarlona, the largest majority Human nation, and the capital of the Ten Kingdoms. Kasshta, with its deep history and proximity to the border with Syrkarn, has become the capital city of Adar and the broader Ten Kingdoms.
@@ -43,14 +51,6 @@ Adar is the mountainous nation in the southeast of Sarlona. It is inhabited most
 * Environments: Temperate with warm lowlands and cold highlands
 * Planar Elements: Many manifest zones to Lamannia and Kythri
 * Major Settlements: Kasshta, Dvaarnava, Haztaratain Monastery, Malshashar, Tashalatora, Xephanan, Zi'til'natek
-
-##### [[Rhiavhaar]]
-The people of Rhiavhaar have always been the finest shipwrights and sailors of Sarlona; but they weren’t simply merchants or fisherfolk. Long before their descendants settled the Lhazaar Principalities — named after the notorious Rhiavhaarian explorer — they were known for their piracy. In general, Rhiavhaarians are still seen as wild, capricious, and dangerous; “Rhiavhaarian luck” is a common curse suggesting that fortune favors a scoundrel.
-
-* Population: 2,260,000 (85% humans, 6% shifters, 4% changelings, 3% ogres/ogre mages, 2% other)
-* Environments: Temperate plains and marsh
-* Planar Elements: Wild zones linked to Lamannia, Shavarath, and Thelanis
-* Major Settlements: Dul Jhaar, Dar Ulatesh
 
 ##### [[Pyrine]]
 Thought by many to be the source of worship of the Sovereign Host, this province turned wholeheartedly to worship of the Inspired during the last Age. Pyrine's Sovereign Host history has mostly reasserted itself now, and it is the seat of religion on the continent. Pyrine is a land of warm plains and forests, welcoming both in its aspect and its aura. Something about Pyrine inspires calm reflection. When standing in a Pyrinean meadow, it's easy to feel a sense of joy and contentment — to know that somehow, all is right in the world.

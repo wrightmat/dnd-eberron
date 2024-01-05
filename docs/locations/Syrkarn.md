@@ -8,7 +8,7 @@ Though the climate and the isolated life of this land are never easy, the coasta
 
 ### At A Glance
 
-* Population: 4,260,000 (44% human, 42% eneko, 12% half-giant, 1% kalashtar, 1% other)
+* Population: 3,260,000 (44% human, 42% eneko, 12% half-giant, 1% kalashtar, 1% other)
 * Area: 1,320,000 square miles
 * Capital: Nderitese
 * Major Settlements: Per, Gjitha, Maszani
@@ -38,3 +38,14 @@ Dominated by columns, straight lines, and square arches, the architectural style
 Food in Syrkarn is plentiful, well spiced, and served with copious amounts of ustah — a potent liquor brewed from honey and wild berries, reportedly from an ancient ogre recipe. The demands of rural life limit the choices available to the Syrk palate, with meat, fruits, and vegetables all typically dried for storage and transport. However, Syrks treat cooking with the same reverence as their other arts, and need no excuse for a feast.
 
 True to Syrkarn's reputation as a land of freedom, the fashions of its people encompass an eclectic range of styles, and a remarkable artisanship can be seen in the textiles, cloth, and weaving of Syrkarn. Among both the mongrel ogres and the humans, a wild aesthetic predominates, combining utilitarian function and the simple beauty of ancient Sarlonan design. Despite their nomadic lifestyle, the half-giants of Syrkarn hold an edge over both the human clans and ogre tribes in armorsmithing and weaponry.
+
+### Development
+
+* A cult known as the Wanderers of Twilight emerged during the Second Sundering, with the mission to protect and expand the manifest zones that pervade Sarlona. A group of cult members had a run in with Adar in the early days of the Quiet Year, where they fought against and hurt some Adarans who were attempting to control the manifest zones there.
+* Syrkarn contributed several knowledgeable individuals to help establish representative democracy in Rhiavhaar in the Quiet Year, but when one returned to try and spread the philosophy to others, it never quite caught on. Instead, the Syrks eventually established a democratic socialist system.
+* The Syrks worked with the people of Borunan to study a special gemstone that had been discovered in an ancient excavated city of theirs. It was discovered that it had elemental capturing properties, and was later identified as a Khyber dragonshard. Syrkarn has since worked with Borunan to mine these shards and use them as a power source, along with elementals they gather from their manifest zones to Lamannia, for the hanbalani alta - which they now use for teleportation all around Sarlona.
+* A massive reality storm hit the region during the end of autumn in the Quiet Year. The Syrks chose to protect what they had, rather than losing what few resources were available, and lost a considerable number of people instead.
+
+### References
+
+* Secrets of Sarlona
