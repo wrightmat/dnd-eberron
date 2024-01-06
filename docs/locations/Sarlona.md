@@ -1,6 +1,6 @@
  #location #continent [[Eberron]]
 
-Sarlona is the ancestral home of the human race. Run as an almost totalitarian regime by The Unity of Riedra through the entirety of the Age of the Dreaming Dark, the entire continent changed when Riedra fell after the Turning of the Age (also known as the Second Sundering) in 1000 YK. The power vacuum created caused the continent to revert to a structure similar to what existed prior to The Unity - a coalition of Ten Kingdoms.
+Sarlona is the ancestral home of the human race. Run as an almost totalitarian regime by The Unity of Riedra through the entirety of the Age of the Dreaming Dark, the entire continent changed when Riedra fell after the Turning of the Age (also known as the Second Sundering) in 1000 YK. The power vacuum created caused the continent to revert to a structure similar to what existed prior to The Unity - a coalition of Ten Regions.
 
 ```leaflet
 id: sarlona-map
@@ -24,12 +24,12 @@ osmLayer: false
 * Precariously balanced among the planes, Sarlona has many wild zones and reality storms. These phenomena produce creatures and effects unseen elsewhere in the world. Wild zones are regions where another plane essentially projects into the Material, and reality storms are powerful planar storms with effects similar to that of a manifest zone (and depend on which one of Eberron's planes they are connected to). Simply put, Sarlona is closer to the planes than Khorvaire, and this creates both threats and opportunities.
 * A few veins of Khyber shards exist on the continent, largely in the hands of the dromites. Defying any logic, however, Eberron dragonshards simply do not form on Sarlona. Similarly, Siberys shards aren't found in equatorial Sarlona at all.
 
-### Ten Kingdoms
+### Ten Regions
 
-The Capital of the Ten Kingdoms is the city of Kasshta (formerly Kasshta Keep) in Adar. The kingdoms below are presented in descending order of approximate population (with Syrkarn being the most populace).
+The Capital of the Ten Regions is the city of Kasshta (formerly Kasshta Keep) in Adar. The regions below are presented in descending order of approximate population (with Syrkarn being the most populace).
 
 ##### [[Syrkarn]]
-Syrkarn is a southern nation on the continent of Sarlona. It is a mostly agrarian society made up of ogres, eneko ("mongrel ogres"), half-giants, and humans. During the Age of the Dreaming Dark, Syrkarn sat on the edge of Reidran territory but was effectively independent. Because of this, it was barely effected by the Second Sundering, and has grown to be the largest nation in the new continent of Sarlona. Its growth has also been impacted by the nearby ports on the Aventus Islands who take people in from other continents such as Khorvaire and Aerenal. The nation remains fiercely independent though, and had little interest in becoming the capital of the newly established Ten Kingdoms, which it happily passed to Adar. Syrkarn does remain the bread basket for the entire continent of Sarlona.
+Syrkarn is a southern nation on the continent of Sarlona. It is a mostly agrarian society made up of ogres, eneko ("mongrel ogres"), half-giants, and humans. During the Age of the Dreaming Dark, Syrkarn sat on the edge of Reidran territory but was effectively independent. Because of this, it was barely effected by the Second Sundering, and has grown to be the largest nation in the new continent of Sarlona. Its growth has also been impacted by the nearby ports on the Aventus Islands who take people in from other continents such as Khorvaire and Aerenal. The nation remains fiercely independent though, and had little interest in becoming the capital of the newly established Ten Regions, which it happily passed to Adar. Syrkarn does remain the bread basket for the entire continent of Sarlona.
 
 * Population: 3,260,000 (44% human, 42% eneko, 12% half-giant, 1% kalashtar, 1% other)
 * Environments: Arid steppes, deserts, and savannahs, occasionally broken up by hills and mountains
@@ -45,7 +45,7 @@ The people of Rhiavhaar have always been the finest shipwrights and sailors of S
 * Major Settlements: Dul Jhaar, Dar Ulatesh
 
 ##### [[Adar]]
-Adar is the mountainous nation in the southeast of Sarlona. It is inhabited mostly by humans (including the kalashtar), though there is a prominent contingent of blue dragons on the uppermost peaks. Adar was mostly a refuge from the Inspired during the Age of the Dreaming Dark, and has now become one of the largest nations on Sarlona, the largest majority Human nation, and the capital of the Ten Kingdoms. Kasshta, with its deep history and proximity to the border with Syrkarn, has become the capital city of Adar and the broader Ten Kingdoms.
+Adar is the mountainous nation in the southeast of Sarlona. It is inhabited mostly by humans (including the kalashtar), though there is a prominent contingent of blue dragons on the uppermost peaks. Adar was mostly a refuge from the Inspired during the Age of the Dreaming Dark, and has now become one of the largest nations on Sarlona, the largest majority Human nation, and the capital of the Ten Regions. Kasshta, with its deep history and proximity to the border with Syrkarn, has become the capital city of Adar and the broader Ten Regions.
 
 * Population: 2,320,000 (51% human, 45% kalashtar, 4% other)
 * Environments: Temperate with warm lowlands and cold highlands
@@ -110,7 +110,7 @@ Khalesh is a land of temperate plains and desert — green grassland fading into
 
 ### [[Tashana Tundra]]
 
-The Tashana Tundra is a cold land in the north of Sarlona. It lies northwest of Dor Maleer, and is a region of mostly tundra and mountains. It is not an official kingdom, but is defined by its lack of rule. The land is mostly inhabited by shifters, humans (barbarians), and duergar, a subrace of dwarves. Tashana is a word from an ancient shifter dialect meaning "Many Waters", referring to the hundreds of glacial lakes that dot the landscape.
+The Tashana Tundra is a cold land in the north of Sarlona. It lies northwest of Dor Maleer, and is a region of mostly tundra and mountains. It is not an official region, but is defined by its lack of rule. The land is mostly inhabited by shifters, humans (barbarians), and duergar, a subrace of dwarves. Tashana is a word from an ancient shifter dialect meaning "Many Waters", referring to the hundreds of glacial lakes that dot the landscape.
 
 ### Important Dates
 
