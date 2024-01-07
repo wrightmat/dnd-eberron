@@ -54,10 +54,10 @@ Each PC takes a turn choosing a path to take in the Maze. This happens in the in
 The DM removes any cards from the river (except for Dead Ends) and deals new cards from the deck face down to the river until it has three (3) cards. If you run out of cards in the deck, shuffle the discard pile to create a new deck.
 
 ##### Action Phase
-The Party Member can choose an Action from the available Actions and use it. Once an Action is used, it can not be used again until all other Actions are used. These Actions are global, meaning if one party member uses the Forge A Path (STR) Action, no one else can until all other Actions are taken.
+The player can choose an Action from the available Actions and use it. Once an Action is used, it can not be used again until all other Actions are used. These Actions are global, meaning if one party member uses the Forge A Path (STR) Action, no one else can until all other Actions are taken.
 
 ##### Draw Phase
-The Party Member decides which card they want to flip over. The card is flipped over and its effect is resolved. This phase is sometimes augmented or supplanted by a successful Action, such as when Careful Consideration (WIS) allows the PC to reveal two cards in the river and choose one. If an Action is attempted and failed, the player can still always draw a card.
+The player decides which card they want to flip over. The card is flipped over and its effect is resolved. This phase is sometimes augmented or supplanted by a successful Action, such as when Careful Consideration (WIS) allows the PC to reveal two cards in the river and choose one. If an Action is attempted and failed, the player can still always draw a card.
 
 ##### End of Round
 A round ends when each party member has taken a turn. If there are no Actions left to use, the Actions reset and are available again for the next round. 
