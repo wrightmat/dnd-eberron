@@ -1,4 +1,5 @@
- #location #region [[locations/Sarlona]]
+ #location #region [[locations/Sarlona|Sarlona]]
+Public: [[public/Corvagura|Corvagura]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Corvagura.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Corvagura.png)
 
@@ -31,3 +32,8 @@ While these houses are presented as families, one’s position within them was b
 
 ### Food and Fashion
 
+
+### References
+
+* Secrets of Sarlona, pg. 41
+* https://eberron.fandom.com/wiki/Riedra

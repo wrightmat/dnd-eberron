@@ -1,4 +1,5 @@
- #location #region [[locations/Sarlona]]
+ #location #region [[locations/Sarlona|Sarlona]]
+Public: [[public/Rhiavhaar|Rhiavhaar]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Rhiavhaar.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Rhiavhaar.png)
 
@@ -39,4 +40,5 @@ Stories are the primary art form throughout the kingdom, with both oral and writ
 
 ### References
 
-* Secrets of Sarlona
+* Secrets of Sarlona, pg. 44
+* https://eberron.fandom.com/wiki/Riedra

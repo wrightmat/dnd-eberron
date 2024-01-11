@@ -1,4 +1,5 @@
-#location #region [[locations/Sarlona]]
+ #location #region [[locations/Sarlona|Sarlona]]
+Public: [[public/Khalesh|Khalesh]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Khalesh.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Khalesh.png)
 
@@ -31,3 +32,8 @@ The humans of Khalesh built their cities on couatl foundations, and Khaleshite c
 ### Food and Fashion
 
 
+
+### References
+
+* Secrets of Sarlona, pg. 42
+* https://eberron.fandom.com/wiki/Riedra

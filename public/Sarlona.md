@@ -103,7 +103,3 @@ The Tashana Tundra is a cold land in the north of Sarlona. It lies northwest of 
 ##### Day of Disunity (28 Rhaan)
 
 Every year, the 28th of Rhaan is recognized as the day that the Unity of Riedra fell when the Turning of the Age happened on Dal Quor. This event is also known as the Second Sundering.
-
-### References
-
-* Secrets of Sarlona

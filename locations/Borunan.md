@@ -1,4 +1,5 @@
-#location #region [[locations/Sarlona]]
+ #location #region [[locations/Sarlona|Sarlona]]
+Public: [[locations/Borunan|Borunan]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Borunan.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Borunan.png)
 
@@ -37,4 +38,5 @@ The ogres of ancient Borunan cared nothing for the Sovereigns or the Silver Flam
 
 ### References
 
-* Secrets of Sarlona
+* Secrets of Sarlona, pg. 41
+* https://eberron.fandom.com/wiki/Riedra

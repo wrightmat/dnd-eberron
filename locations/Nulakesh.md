@@ -1,4 +1,5 @@
-#location #region [[locations/Sarlona]]
+ #location #region [[locations/Sarlona|Sarlona]]
+Public: [[locations/Nulakesh|Nulakesh]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Nulakesh.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Nulakesh.png)
 
@@ -24,3 +25,9 @@ the stoic Nulakeshi had a breaking point… but as they grew close to it, the fi
 
 ### Food and Fashion
 
+
+
+### References
+
+* Secrets of Sarlona, pg. 43
+* https://eberron.fandom.com/wiki/Riedra

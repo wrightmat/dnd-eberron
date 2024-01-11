@@ -1,4 +1,5 @@
- #location #region [[locations/Sarlona]]
+ #location #region [[locations/Sarlona|Sarlona]]
+Public: [[public/Adar|Adar]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Adar.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Adar.png)
 
@@ -85,4 +86,5 @@ The Adarans' love of craft manifests in a variety of jewelry. From glass beadwor
 
 ### References
 
-* Secrets of Sarlona
+* Secrets of Sarlona, pg. 19-38
+* https://eberron.fandom.com/wiki/Adar

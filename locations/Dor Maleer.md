@@ -1,4 +1,5 @@
-#location #region [[locations/Sarlona]]
+ #location #region [[locations/Sarlona|Sarlona]]
+Public: [[public/Dor Maleer|Dor Maleer]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Dor_Maleer.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Dor_Maleer.png)
 
@@ -28,3 +29,9 @@ This harsh frontier region can’t support the civic infrastructure that is comm
 
 ### Food and Fashion
 
+
+
+### References
+
+* Secrets of Sarlona, pg. 42
+* https://eberron.fandom.com/wiki/Riedra

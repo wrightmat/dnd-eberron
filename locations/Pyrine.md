@@ -1,4 +1,5 @@
-#location #region [[locations/Sarlona]]
+ #location #region [[locations/Sarlona|Sarlona]]
+Public: [[public/Pyrine|Pyrine]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png)
 
@@ -37,4 +38,5 @@ Architecture of Pyrine is influenced by the white stone common in Irian, as well
 
 ### References
 
-* Secrets of Sarlona
+* Secrets of Sarlona, pg. 43
+* https://eberron.fandom.com/wiki/Riedra

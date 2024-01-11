@@ -1,4 +1,5 @@
-#location #region [[locations/Sarlona]]
+ #location #region [[locations/Sarlona|Sarlona]]
+Public: [[public/Ohr Kaluun|Ohr Kaluun]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Ohr_Kaluun.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Ohr_Kaluun.png)
 
@@ -39,4 +40,5 @@ A critical aspect of this chaotic history is that almost any mystical approach c
 
 ### References
 
-* Secrets of Sarlona
+* Secrets of Sarlona, pg. 43
+* https://eberron.fandom.com/wiki/Riedra

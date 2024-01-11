@@ -45,7 +45,3 @@ True to Syrkarn's reputation as a land of freedom, the fashions of its people en
 * Syrkarn contributed several knowledgeable individuals to help establish representative democracy in Rhiavhaar in the Quiet Year, but when one returned to try and spread the philosophy to others, it never quite caught on. Instead, the Syrks eventually established a democratic socialist system.
 * The Syrks worked with the people of Borunan to study a special gemstone that had been discovered in an ancient excavated city of theirs. It was discovered that it had elemental capturing properties, and was later identified as a Khyber dragonshard. Syrkarn has since worked with Borunan to mine these shards and use them as a power source, along with elementals they gather from their manifest zones to Lamannia, for the hanbalani alta - which they now use for official annoucements to all citizens of Syrkarn and teleportation all around Sarlona.
 * A massive reality storm hit the region during the end of autumn in the Quiet Year. The Syrks chose to protect what they had, rather than losing what few resources were available, and lost a considerable number of people instead.
-
-### References
-
-* Secrets of Sarlona

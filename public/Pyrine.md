@@ -30,11 +30,3 @@ Architecture of Pyrine is influenced by the white stone common in Irian, as well
 ### Food and Fashion
 
 
-### Development
-
-* Pyrine was the first of many regions to establish trade for food with others during the Quiet Year, starting with food to Ohr Kaluun.
-* During the Quiet Year, Pyrine re-established their temples to the Sovereign Host, serving as houses of healing as well.
-
-### References
-
-* Secrets of Sarlona
