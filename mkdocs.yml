@@ -1,4 +1,5 @@
-site_name: dnd-eberron
+site_name: D&D in Eberron
+docs_dir: public
 
 theme:
     name: 'material'
