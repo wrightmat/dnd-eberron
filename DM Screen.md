@@ -30,7 +30,7 @@ kanban-plugin: basic
 - [ ] --
 - [ ] [[Draconic Tribes]]
 - [ ] [[docs/other/Sphinxes|Sphinxes]]
-- [ ] [[Sarlona]]
+- [ ] [[locations/Sarlona]]
 - [ ] [[Flamewind]]
 
 

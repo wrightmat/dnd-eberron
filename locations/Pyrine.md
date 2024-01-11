@@ -1,4 +1,4 @@
-#location #region [[Sarlona]]
+#location #region [[locations/Sarlona]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png)
 

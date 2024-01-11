@@ -1,4 +1,4 @@
-#location #region [[Sarlona]]
+#location #region [[locations/Sarlona]]
 
 The Tashana Tundra is a land of vast, open spaces and endless sky. Home to the great shifter nation of Sarlona, the Tundra consists mainly of grassy, treeless plains that stretch without interruption from horizon to horizon. For many thousands of years, these semi-nomadic tribes have roamed the grasslands, isolated from the rest of the world and left in relative peace to contemplate the cold, pure spirit of their ancestral homeland.
 
