@@ -1,12 +1,12 @@
 ---
 level: 3
-hp: 
-ac: 
-modifier: 
+hp: 21
+ac: 16
+modifier: 4
 ---
  #pc [[Sara Edwards]]
 
-* **Alignment**:: 
+* **Alignment**:: Neutral
 * **Class**:: Monk
 * **Subclass**:: Way of Mercy
 * **Gender**:: Female
