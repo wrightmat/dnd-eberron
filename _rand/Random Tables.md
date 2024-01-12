@@ -581,7 +581,6 @@
 | 12         | I'm lighter than a feather, and rise to water's top; but hold me for too long, and you'll begin to drop.                                                                       | Breath          |
 ^random-riddles
 
-
 ### Spelljammer
 
 | dice: 1d100 | Wildspace System Type                        |
