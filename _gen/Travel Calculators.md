@@ -6,6 +6,7 @@ TravelDistance: 1200
 Environment: grassland_xge
 CostPer15Miles: 6
 PeopleTraveling: 5
+Test: length
 ---
  #generator 
 
@@ -32,7 +33,7 @@ Updating the calculator below will flow the changes out to any notes that automa
 
 ### Travel Encounters
 
-
+`dice:[[Random Tables#^random-weather-VIEW[{Test}]]]`
 
 ### References
 
