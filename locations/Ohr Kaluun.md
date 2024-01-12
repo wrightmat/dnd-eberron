@@ -35,7 +35,7 @@ A critical aspect of this chaotic history is that almost any mystical approach c
 ### Development
 
 * During the Quiet Year, Ohr Kaluun discovered an infernal engine, which started gaining power unexpectedly, then disappeared (taking several researchers with it). Laterm a body of one of the researchers was found on an entirely different island. Even later, the engine itself appeared in Pyrine, only to disappear once more with a couple more people.
-* Near the end of the Quiet Year, Ohr Kaluun had a revolution where the aristocracy was killed and the people took power. Then they almost immediately instated a king.
+* Near the end of the Quiet Year, Ohr Kaluun had a revolution where the aristocracy was killed and the people took power. Then they almost immediately instated a king (from the former council of wizards).
 * 
 
 ### References
