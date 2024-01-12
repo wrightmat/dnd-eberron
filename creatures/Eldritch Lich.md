@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Eldritch Lich
-image: [[https://www.dndbeyond.com/avatars/thumbnails/25265/568/1000/1000/637861450541222100.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/25265/568/1000/1000/637861450541222100.jpeg
 size: Medium
 type: Undead
 alignment: Typically Neutral Evil

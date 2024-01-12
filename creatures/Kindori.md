@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/882/1000/1000/637961800857715651.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/28079/882/1000/1000/637961800857715651.jpeg
 name: Kindori
 size: Gargantuan
 type: Celestial

@@ -4,11 +4,10 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/30835/805/1000/1000/638063921868615940.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/30835/805/1000/1000/638063921868615940.png
 name: Salamander
 size: Large
 type: Elemental
-subtype: 
 alignment: Neutral Evil
 ac: 15
 hp: 90

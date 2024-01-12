@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/eberron/images/d/d6/Dream_Master_Quori.jpg/revision/latest/scale-to-width-down/350?cb=20200508212521]]
+image: https://static.wikia.nocookie.net/eberron/images/d/d6/Dream_Master_Quori.jpg
 name: Usvapna Quori
 size: Large
 type: Aberration

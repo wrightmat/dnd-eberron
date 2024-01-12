@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://i0.wp.com/dmdave.com/wp-content/uploads/2018/11/xag-ya-xeg-yi.jpg?fit=800%2C450&ssl=1]]
+image: https://i0.wp.com/dmdave.com/wp-content/uploads/2018/11/xag-ya-xeg-yi.jpg
 name: Xag-yi
 size: Large
 type: Abberation

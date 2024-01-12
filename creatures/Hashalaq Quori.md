@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/7725/997/1000/1000/637091671304812075.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/7725/997/1000/1000/637091671304812075.png
 name: Hashalaq Quori
 size: Medium
 type: Aberration

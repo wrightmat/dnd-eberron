@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Yggdrasti
-image: [[https://www.dndbeyond.com/avatars/thumbnails/25265/556/1000/1000/637861450519429998.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/25265/556/1000/1000/637861450519429998.jpeg
 size: Gargantuan
 type: Plant
 alignment: Unaligned

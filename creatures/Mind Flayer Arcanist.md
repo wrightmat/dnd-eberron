@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Mind Flayer Arcanist 
-image: [[https://www.dndbeyond.com/avatars/thumbnails/9/19/1000/1000/636322598567599439.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/9/19/1000/1000/636322598567599439.jpeg
 size: Medium
 type: Aberration
 alignment: Lawful Evil

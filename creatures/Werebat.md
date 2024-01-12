@@ -4,12 +4,12 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/4772/20/1000/1000/636764577391179535.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/4772/20/1000/1000/636764577391179535.png
 name: Werebat
 size: Small
-type: humanoid
+type: Humanoid
 subtype: (goblinoid, shapechanger)
-alignment: neutral evil
+alignment: Neutral Evil
 ac: 13
 hp: 24
 hit_dice: 7d6

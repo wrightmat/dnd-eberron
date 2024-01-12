@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/832/1000/1000/637961800761621184.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/28079/832/1000/1000/637961800761621184.jpeg
 name: Eye Monger
 size: Large
 type: Aberration
 alignment: Typically Lawful Evil
 ac: 17
 hp: 149
-hit_dice: (13d10 + 78)
+hit_dice: 13d10 + 78
 speed: 0 ft., fly 20 ft. (hover)
 stats: [21, 6, 23, 7, 13, 7]
 senses: Blindsight 120 ft. while the eye monger’s eye is closed, Darkvision 120 ft., Passive Perception 11

@@ -6,12 +6,12 @@ statblock: inline
 ```statblock
 name: Plesiosaurus
 size: Large
-type: beast
+type: Beast
 subtype: (dinosaur)
-alignment: unaligned
+alignment: Unaligned
 ac: 13
 hp: 68
-hit_dice: 8d10+24
+hit_dice: 8d10 + 24
 speed: 20 ft., swim 40 ft.
 stats: [18, 15, 16, 2, 12, 5]
 senses: passive perception 13

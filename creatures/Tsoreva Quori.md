@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/eberron/images/7/78/Tsoreva.jpg/revision/latest/scale-to-width-down/350?cb=20200820101710]]
+image: https://static.wikia.nocookie.net/eberron/images/7/78/Tsoreva.jpg
 name: Tsoreva Quori
 size: Medium
 type: Aberration

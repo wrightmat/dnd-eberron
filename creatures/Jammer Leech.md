@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/879/1000/1000/637961800852099863.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/28079/879/1000/1000/637961800852099863.jpeg
 name: Jammer Leech
 size: Tiny
 type: Plant

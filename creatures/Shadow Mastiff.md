@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/25746/635/1000/1000/637880557981173432.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/25746/635/1000/1000/637880557981173432.jpeg
 name: Shadow Mastiff
 size: Medium
 type: Monstrosity

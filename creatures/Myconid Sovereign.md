@@ -6,11 +6,11 @@ statblock: inline
 ```statblock
 name: Myconid Sovereign
 size: Large
-type: plant
-alignment: lawful neutral
+type: Plant
+alignment: Lawful Neutral
 ac: 13
 hp: 60
-hit_dice: 8d10+16
+hit_dice: 8d10 + 16
 speed: 30 ft.
 stats: [12, 10, 14, 13, 15, 10]
 senses: darkvision 120 ft., passive perception 12

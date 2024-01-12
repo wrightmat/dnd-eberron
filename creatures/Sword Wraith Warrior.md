@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/268/205/1000/1000/636597572553866730.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/268/205/1000/1000/636597572553866730.png
 name: Sword Wraith Warrior
 size: Medium
 type: Undead
 alignment: Typically Lawful Evil
 ac: 16
 hp: 45
-hit_dice: (6d8 + 18)
+hit_dice: 6d8 + 18
 speed: 30 ft.
 stats: [18, 12, 17, 6, 9, 10]
 damage_resistances: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks

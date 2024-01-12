@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/30784/580/1000/1000/638062047068720070.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/30784/580/1000/1000/638062047068720070.png
 name: Githyanki Warrior
 size: Medium
 type: Humanoid

@@ -6,11 +6,11 @@ statblock: inline
 ```statblock
 name: Living Lightning Bolt
 size: Large
-type: construct
-alignment: unaligned
+type: Construct
+alignment: Unaligned
 ac: 15
 hp: 57
-hit_dice: 6d10+24
+hit_dice: 6d10 + 24
 speed: 25 ft., fly 25 ft.
 stats: [10, 15, 18, 3, 10, 6]
 damage_resistances: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks

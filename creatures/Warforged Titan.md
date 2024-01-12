@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/eberron/images/a/a6/Warforgedtitan.jpg/revision/latest?cb=20111216122645]]
+image: https://static.wikia.nocookie.net/eberron/images/a/a6/Warforgedtitan.jpg
 name: Warforged Titan
 size: Huge
 type: Construct
 alignment: Lawful Neutral
 ac: 20
 hp: 125
-hit_dice: (10d12 + 60)
+hit_dice: 10d12 + 60
 speed: 40 ft.
 stats: [23, 8, 22, 11, 3, 1]
 damage_immunities: Poison, Psychic

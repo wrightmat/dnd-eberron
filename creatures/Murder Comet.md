@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/894/1000/1000/637961800881115372.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/28079/894/1000/1000/637961800881115372.jpeg
 name: Murder Comet
 size: Medium
 type: Elemental

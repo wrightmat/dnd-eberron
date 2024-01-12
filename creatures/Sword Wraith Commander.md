@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/268/205/1000/1000/636597572553866730.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/268/205/1000/1000/636597572553866730.png
 name: Sword Wraith Commander
 size: Medium
 type: Undead
 alignment: Typically Lawful Evil
 ac: 18
 hp: 127
-hit_dice: (15d8 + 60)
+hit_dice: 15d8 + 60
 speed: 30 ft.
 stats: [18, 14, 18, 11, 12, 14]
 skillsaves:

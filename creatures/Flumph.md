@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/forgottenrealms/images/7/78/Flumph.jpg/revision/latest/scale-to-width-down/350?cb=20171010183015]]
+image: https://static.wikia.nocookie.net/forgottenrealms/images/7/78/Flumph.jpg
 name: Flumph
 size: Small
 type: Aberration
 alignment: Lawful Good
 ac: 12
 hp: 7
-hit_dice: (2d6)
+hit_dice: 2d6
 speed: 5 ft., fly 30 ft.
 stats: [6, 15, 10, 14, 14, 11]
 skillsaves:

@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Space Dolphin
-image: [[https://5e.tools/img/MPMM/Dolphin%20Delighter.png]]
+image: https://5e.tools/img/MPMM/Dolphin%20Delighter.png
 size: Medium
 type: Fey
 alignment: Chaotic Good

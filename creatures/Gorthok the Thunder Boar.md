@@ -10,7 +10,7 @@ type: monstrosity
 alignment: chaotic evil
 ac: 15
 hp: 72
-hit_dice: 7d12+28
+hit_dice: 7d12 + 28
 speed: 50 ft.
 stats: [20, 11, 19, 6, 10, 14]
 damage_resistances: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks

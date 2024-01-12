@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/21205/226/1000/1000/637707682451137391.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/21205/226/1000/1000/637707682451137391.jpeg
 name: Dragonbone Golem
 size: Large
 type: Construct
 alignment: Unaligned
 ac: 17
 hp: 161
-hit_dice: (19d10 + 57)
+hit_dice: 19d10 + 57
 speed: 40 ft.
 stats: [20, 10, 17, 3, 11, 10]
 damage_immunities: Poison

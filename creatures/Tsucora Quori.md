@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/7726/9/1000/1000/637091672054047965.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/7726/9/1000/1000/637091672054047965.png
 name: Tsucora Quori
 size: Medium
 type: Aberration

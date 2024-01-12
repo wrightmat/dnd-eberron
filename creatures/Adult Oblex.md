@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/25746/107/1000/1000/637880557086160019.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/25746/107/1000/1000/637880557086160019.jpeg
 name: Adult Oblex
 size: Medium
 type: Ooze
 alignment: Typically Lawful Evil
 ac: 14
 hp: 75
-hit_dice: (10d8 + 30)
+hit_dice: 10d8 + 30
 speed: 20 ft.
 stats: [8, 19, 16, 19, 12, 15]
 saves:

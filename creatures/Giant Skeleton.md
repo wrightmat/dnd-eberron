@@ -10,7 +10,7 @@ type: undead
 alignment: neutral evil
 ac: 17
 hp: 115
-hit_dice: 10d12+50
+hit_dice: 10d12 + 50
 speed: 30 ft.
 stats: [21, 10, 20, 4, 6, 6]
 senses: blindsight 60 ft., passive perception 10

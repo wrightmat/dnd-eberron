@@ -4,7 +4,7 @@ statblock: inline
  #monster
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/30784/513/1000/1000/638062044708531532.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/30784/513/1000/1000/638062044708531532.png
 name: Githyanki Knight
 size: Medium
 type: Humanoid

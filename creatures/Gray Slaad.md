@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://angrygolem-games.com/wp-content/uploads/2021/11/Gray-Slaad.jpg]]
+image: https://angrygolem-games.com/wp-content/uploads/2021/11/Gray-Slaad.jpg
 name: Gray Slaad
 size: Medium
 type: Abberation

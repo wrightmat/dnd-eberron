@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/eberron/images/6/6c/Du%27ulora_quori.png/revision/latest/scale-to-width-down/350?cb=20201118154752]]
+image: https://static.wikia.nocookie.net/eberron/images/6/6c/Du%27ulora_quori.png/revision/latest/scale-to-width-down/350?cb=20201118154752
 name: Du'ulora Quori
 size: Large
 type: Aberration

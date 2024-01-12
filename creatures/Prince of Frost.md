@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://static.wikia.nocookie.net/forgottenrealms/images/b/b6/Prince_of_Frost_4e.jpg/revision/latest/scale-to-width-down/350?cb=20200329133328]]
+image: https://static.wikia.nocookie.net/forgottenrealms/images/b/b6/Prince_of_Frost_4e.jpg
 name: Prince of Frost
 size: Medium
 type: Fey

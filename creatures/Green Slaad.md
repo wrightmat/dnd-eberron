@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://angrygolem-games.com/wp-content/uploads/2021/11/Green-Slaad.jpg]]
+image: https://angrygolem-games.com/wp-content/uploads/2021/11/Green-Slaad.jpg
 name: Green Slaad
 size: Large
 type: Abberation

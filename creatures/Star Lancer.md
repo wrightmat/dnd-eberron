@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/25265/562/1000/1000/637861450530101041.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/25265/562/1000/1000/637861450530101041.jpeg
 name: Star Lancer
 size: Large
 type: Celestial

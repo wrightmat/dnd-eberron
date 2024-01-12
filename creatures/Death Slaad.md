@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://angrygolem-games.com/wp-content/uploads/2021/11/Death-Slaad.jpg]]
+image: https://angrygolem-games.com/wp-content/uploads/2021/11/Death-Slaad.jpg
 name: Death Slaad
 size: Medium
 type: Abberation

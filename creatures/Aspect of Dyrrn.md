@@ -10,7 +10,7 @@ type: Aberration
 alignment: Chaotic Evil
 ac: 16
 hp: 170
-hit_dice: 2ld8 + 86
+hit_dice: 21d8 + 86
 speed: 40 ft., fly 40 ft. (hover)
 stats: [21, 16, 17, 26, 23, 24]
 saves:

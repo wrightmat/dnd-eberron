@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Intellect Devourer
-image: [[https://www.dndbeyond.com/avatars/thumbnails/30831/57/1000/1000/638063804285013333.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/30831/57/1000/1000/638063804285013333.png
 size: Tiny
 type: Aberration
 alignment: Lawful Evil

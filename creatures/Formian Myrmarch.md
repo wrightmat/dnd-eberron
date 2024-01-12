@@ -4,7 +4,6 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
 name: Formian Myrmarch
 size: Large
 type: Monstrosity

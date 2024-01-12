@@ -6,11 +6,11 @@ statblock: inline
 ```statblock
 name: Groff
 size: Large
-type: plant
-alignment: unaligned
+type: Plant
+alignment: Unaligned
 ac: 13
 hp: 68
-hit_dice: 8d10+24
+hit_dice: 8d10 + 24
 speed: 30 ft., swim 30 ft.
 stats: [20, 10, 17, 4, 13, 7]
 skills:

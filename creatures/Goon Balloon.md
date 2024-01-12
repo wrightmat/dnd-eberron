@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Goon Balloon
-image: [[https://www.dndbeyond.com/avatars/thumbnails/25265/578/1000/1000/637861450557623471.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/25265/578/1000/1000/637861450557623471.jpeg
 size: Medium
 type: Aberration
 alignment: Typically Chaotic Evil

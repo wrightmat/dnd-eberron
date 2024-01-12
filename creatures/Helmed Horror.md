@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Helmed Horror
-image: [[https://www.dndbeyond.com/avatars/thumbnails/30788/719/1000/1000/638062180166404293.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/30788/719/1000/1000/638062180166404293.png
 size: Medium
 type: Construct
 alignment: Neutral

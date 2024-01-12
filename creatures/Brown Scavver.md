@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/814/1000/1000/637961800732449697.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/28079/814/1000/1000/637961800732449697.jpeg
 name: Brown Scavver
 size: Large
 type: Monstrosity

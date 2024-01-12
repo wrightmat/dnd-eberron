@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/7725/608/1000/1000/637091619688542557.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/7725/608/1000/1000/637091619688542557.png
 name: Dolgrim
 size: Small
 type: Aberration
 alignment: Chaotic Evil
 ac: 15
 hp: 13
-hit_dice: (3d6 + 3)
+hit_dice: 3d6 + 3
 speed: 30 ft.
 stats: [15, 14, 12, 8, 10, 8]
 senses: Darkvision 60 ft., Passive Perception 10

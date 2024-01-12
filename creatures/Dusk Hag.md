@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/7725/618/1000/1000/637091620885285452.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/7725/618/1000/1000/637091620885285452.png
 name: Dusk Hag
 size: Medium
 type: Fey

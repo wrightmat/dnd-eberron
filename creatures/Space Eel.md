@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Space Eel
-image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/928/1000/1000/637961800946946294.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/28079/928/1000/1000/637961800946946294.jpeg
 size: Small
 type: Beast
 alignment: Unaligned

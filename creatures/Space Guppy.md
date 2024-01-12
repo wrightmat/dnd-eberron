@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/931/1000/1000/637961800953030328.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/28079/931/1000/1000/637961800953030328.jpeg
 name: Space Guppy
 size: Small
 type: Beast

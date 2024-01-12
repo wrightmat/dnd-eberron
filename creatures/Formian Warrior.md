@@ -4,7 +4,6 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
 name: Formian Warrior
 size: Medium
 type: Monstrosity

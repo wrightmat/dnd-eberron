@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/7726/2/1000/1000/637091671682327075.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/7726/2/1000/1000/637091671682327075.png
 name: Kalaraq Quori
 size: Medium
 type: Aberration

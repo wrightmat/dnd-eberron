@@ -6,11 +6,11 @@ statblock: inline
 ```statblock
 name: Lightning Elemental
 size: Large
-type: construct
-alignment: neutral
+type: Construct
+alignment: Neutral
 ac: 13
 hp: 102
-hit_dice: 12d10+36
+hit_dice: 12d10 + 36
 speed: 0 ft., fly 90 ft. (hover)
 stats: [10, 20, 16, 6, 10, 7]
 damage_resistances: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks

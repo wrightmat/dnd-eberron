@@ -4,14 +4,13 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
 name: Night Scavver
 size: Huge
 type: Monstrosity
 alignment: Unaligned
 ac: 14
 hp: 114
-hit_dice: (12d12 + 36)
+hit_dice: 12d12 + 36
 speed: 0 ft., fly 40 ft.
 stats: [20, 15, 17, 1, 10, 1]
 skillsaves:

@@ -4,13 +4,13 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/16420/907/1000/1000/637514193116718560.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/16420/907/1000/1000/637514193116718560.jpeg
 name: Canopic Golem
 size: Large
 type: Construct
 ac: 17
 hp: 252
-hit_dice: (24d10 + 12)
+hit_dice: 24d10 + 12
 speed: 30 ft.
 stats: [20, 10, 20, 7, 11, 1]
 saves:

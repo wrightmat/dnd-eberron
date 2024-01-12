@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/30833/421/1000/1000/638063863513745427.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/30833/421/1000/1000/638063863513745427.png
 name: Mind Flayer
 size: Medium
 type: Aberration
 alignment: Lawful Evil
 ac: 15
 hp: 71
-hit_dice: (13d8 + 13)
+hit_dice: 13d8 + 13
 speed: 30 ft.
 stats: [11, 12, 12, 19, 17, 17]
 saves:

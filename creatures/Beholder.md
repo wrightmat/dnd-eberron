@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/30761/985/1000/1000/638061102430294654.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/30761/985/1000/1000/638061102430294654.png
 name: Beholder
 size: Large
 type: Aberration
 alignment: Lawful Evil
 ac: 18
 hp: 180
-hit_dice: (19d10 + 76)
+hit_dice: 19d10 + 76
 speed: 0 ft., fly 20 ft. (hover)
 stats: [10, 14, 18, 17, 15, 17]
 saves:

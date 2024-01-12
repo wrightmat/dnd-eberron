@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/7725/602/1000/1000/637091618587585877.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/7725/602/1000/1000/637091618587585877.png
 name: Dolgaunt
 size: Medium
 type: Aberration
 alignment: Lawful Evil
 ac: 16
 hp: 33
-hit_dice: (6d8 + 6)
+hit_dice: 6d8 + 6
 speed: 40 ft.
 stats: [14, 18, 12, 13, 14, 11]
 skillsaves:

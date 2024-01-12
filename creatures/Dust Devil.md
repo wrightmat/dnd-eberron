@@ -6,11 +6,11 @@ statblock: inline
 ```statblock
 name: Dust Devil
 size: Large
-type: elemental
-alignment: neutral
+type: Elemental
+alignment: Neutral
 ac: 15
 hp: 90
-hit_dice: 12d10+24
+hit_dice: 12d10 + 24
 speed: 50 ft.
 stats: [14, 20, 14, 1, 10, 1]
 damage_resistances: Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks

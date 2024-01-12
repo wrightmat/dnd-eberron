@@ -7,7 +7,7 @@ statblock: inline
 layout: Basic 5e Layout (Modified PC)
 name: Prism (Shade)
 size: Medium
-type: Undead, 
+type: Undead
 alignment: Chaotic Neutral
 ac: 12
 hp: 54

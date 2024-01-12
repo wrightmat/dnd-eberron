@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Gadabout
-image: [[https://www.dndbeyond.com/avatars/thumbnails/25265/575/1000/1000/637861450553132951.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/25265/575/1000/1000/637861450553132951.jpeg
 size: Medium
 type: Plant
 alignment: Unaligned

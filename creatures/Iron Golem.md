@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/30784/170/1000/1000/638062031423594632.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/30784/170/1000/1000/638062031423594632.png
 name: Iron Golem
 size: Large
 type: Construct

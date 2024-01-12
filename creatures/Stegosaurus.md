@@ -6,12 +6,12 @@ statblock: inline
 ```statblock
 name: Stegosaurus
 size: Huge
-type: beast
+type: Beast
 subtype: (dinosaur)
-alignment: unaligned
+alignment: Unaligned
 ac: 13
 hp: 76
-hit_dice: 8d12+24
+hit_dice: 8d12 + 24
 speed: 40 ft.
 stats: [20, 9, 17, 2, 11, 5]
 senses: passive perception 10

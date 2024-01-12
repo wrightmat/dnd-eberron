@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/12734/873/1000/1000/637357081636637868.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/12734/873/1000/1000/637357081636637868.jpeg
 name: Frost Giant Skeleton
 size: Huge
 type: Undead

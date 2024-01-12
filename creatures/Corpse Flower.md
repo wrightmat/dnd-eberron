@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/25746/240/1000/1000/637880557308920420.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/25746/240/1000/1000/637880557308920420.jpeg
 name: Corpse Flower
 size: Large
 type: Plant

@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/25746/105/1000/1000/637880557083119765.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/25746/105/1000/1000/637880557083119765.jpeg
 name: Adult Kruthik
 size: Medium
 type: Monstrosity
@@ -32,8 +32,6 @@ actions:
   - name: Spike.
     desc: "Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
 ```
-
-### Description
 
 It takes six months of steady eating for a young kruthik to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 

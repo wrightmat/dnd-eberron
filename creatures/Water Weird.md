@@ -5,13 +5,13 @@ statblock: inline
 
 ```statblock
 name: Water Weird
-image: [[https://www.dndbeyond.com/avatars/thumbnails/30836/496/1000/1000/638063938477200551.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/30836/496/1000/1000/638063938477200551.png
 size: Large
-type: elemental
-alignment: neutral
+type: Elemental
+alignment: Neutral
 ac: 13
 hp: 58
-hit_dice: 9d10+9
+hit_dice: 9d10 + 9
 speed: 0 ft., swim 60 ft.
 stats: [17, 16, 13, 11, 10, 10]
 damage_resistances: Fire; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks

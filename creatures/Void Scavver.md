@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/28079/965/1000/1000/637961801015741442.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/28079/965/1000/1000/637961801015741442.jpeg
 name: Void Scavver
 size: Huge
 type: Monstrosity

@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Gas Spore
-image: [[https://www.dndbeyond.com/avatars/thumbnails/16/525/1000/1000/636376325969431504.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/16/525/1000/1000/636376325969431504.jpeg
 size: Large
 type: Plant
 alignment: Unaligned

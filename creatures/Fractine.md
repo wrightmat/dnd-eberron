@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Fractine
-image: [[https://www.dndbeyond.com/avatars/thumbnails/25265/572/1000/1000/637861450545952412.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/25265/572/1000/1000/637861450545952412.jpeg
 size: Large
 type: Construct
 alignment: Typically Neutral

@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[https://www.dndbeyond.com/avatars/thumbnails/30835/955/1000/1000/638063924845225613.png]]
+image: https://www.dndbeyond.com/avatars/thumbnails/30835/955/1000/1000/638063924845225613.png
 name: Incubus
 size: Medium
 type: Fiend

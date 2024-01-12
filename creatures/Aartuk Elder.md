@@ -4,14 +4,14 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+image: https://www.dndbeyond.com/avatars/thumbnails/28079/771/1000/1000/637961800642907022.jpeg
 name: Aartuk Elder
 size: Large
 type: Plant
 alignment: Typically Lawful Evil
 ac: 16
 hp: 75
-hit_dice: (10d10 + 20)
+hit_dice: 10d10 + 20
 speed: 20 ft., climb 20 ft.
 stats: [18, 10, 15, 12, 14, 12]
 senses: Darkvision 60 ft., Passive Perception 12
