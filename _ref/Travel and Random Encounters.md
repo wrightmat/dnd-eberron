@@ -19,11 +19,19 @@
 - When they arrive at the destination, do the description of that area. Also remove the amount of gold necessary for rations over the number of days traveled. 5 sp per day per creature (including mounts).
     - Example: Party travels for a total of a week, on horseback, to get to a destination (consuming 14 rations along the way). Upon arrival, each player removes 70 sp (7 gp)
 
-### Costs
+### Travel Costs
 
-| Travel Means |     |
-| ------------ | --- |
-|              |     |
+All costs listed are per 15 miles of travel.
+
+| Travel Means | Class | Cost |
+| ---- | ---- | ---- |
+| Airship | First | 10 sp |
+|  | Second | 5 sp |
+| Lightning Rail or Elemental Galleon | First | 6 sp |
+|  | Second | 2 sp |
+|  | Steerage | 0.5 sp |
+| Sailing Ship |  | 1 sp |
+| Magebred Coach |  | 0.4 sp |
 
 ### Travel Encounters
 
