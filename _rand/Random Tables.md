@@ -560,7 +560,43 @@
 ^random-weather-length
 
 ### Encounters
+Tables taken from https://5e.tools/encountergen.html
 
+| dice: 1d100  | Encounter                                                                                                                                                            |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01-05 | `encounter: 3d6: Wereboar`                                                                                                                                                        |
+| 06-10 | `encounter: 2d10: Gnoll Fang of Yeenoghu`                                                                                                                                         |
+| 11-15 | `encounter: 1d4: Bulette`                                                                                                                                                         |
+| 16-17 | An old road of paved stones, partly reclaimed by wilderness, that travels for `dice:1d8` miles in either direction before ending                                            |
+| 18-27 | `encounter: 1d12: Couatl`                                                                                                                                                         |
+| 28-30 | A witch (mage) dwelling in a crude hut. She offers potions of healing, antitoxins, and other consumable items for sale in exchange for food and news.                |
+| 31-40 | `encounter: 2d10: Elephant`                                                                                                                                                       |
+| 41-46 | `encounter: 2d4: Weretiger`                                                                                                                                                       |
+| 47-56 | `encounter: 1d8 + 1: Cyclop`                                                                                                                                                     |
+| 57-61 | `encounter: 1d3: Chimera`                                                                                                                                                         |
+| 62-66 | `encounter: 5: Triceratops`                                                                                                                                                      |
+| 67-69 | A giant hole 50 feet across that descends nearly 500 feet before opening into an empty cave                                                                          |
+| 70-79 | 1d4 + 3 gorgons                                                                                                                                                      |
+| 80-88 | 1d3 young gold dragons                                                                                                                                               |
+| 89-90 | A circular section of grass nearly a quarter-mile across that appears to have been pressed down; 1d4 more such circles connected by lines can be seen from overhead. |
+| 91-96 | 2d4 tyrannosaurus rexes                                                                                                                                              |
+| 97-99 | 1 adult gold dragon                                                                                                                                                  |
+| 00    | 1 ancient gold dragon                                                                                                                                                |
+^encounter-grassland-11-16
+
+| dice: 1d3 | Test2 |
+| ---- | ---- |
+| 1 | Test2-1 |
+| 2 | Test2-2 |
+| 3 | Test2-3 |
+^encounter-arctic
+
+| dice: 1d3 | Test3 |
+| ---- | ---- |
+| 1 | Test3-1 |
+| 2 | Test3-2 |
+| 3 | Test3-3 |
+^encounter-
 
 
 ### Riddles

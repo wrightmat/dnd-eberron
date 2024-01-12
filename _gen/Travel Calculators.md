@@ -3,10 +3,11 @@ MilesPerHour: 30
 SpeedMultiplier: 1
 HoursPerDay: 24
 TravelDistance: 1200
-Environment: grassland_xge
+Environment: grassland
 CostPer15Miles: 6
 PeopleTraveling: 5
-Test: length
+PartyLevel: 1-4
+EncounterProbability: 0.1
 ---
  #generator 
 
@@ -17,7 +18,7 @@ Updating the calculator below will flow the changes out to any notes that automa
 | ---- | ---- | ---- |
 | **Travel Means:** | `INPUT[inlineSelect(option(3, On Foot), option(6, By Horse), option(7, By Magebred Coach), option(10, By Sailing Ship), option(12, By Elemental Galleon), option(20, By Airship), option(30, By Lightning Rail)):MilesPerHour]` | Max Travel Hours Per Day: `VIEW[{MilesPerHour}>=10 ? 24 : 8]` |
 | **Travel Pace:** | `INPUT[inlineSelect(option(1.25, Fast), option(1, Normal), option(0.75, Slow)):SpeedMultiplier]` | `VIEW[{SpeedMultiplier}>1 ? "-5 penalty to passive Wisdom (Perception) scores" : {SpeedMultiplier}<1 ? "Able to use stealth" : ""]` |
-| **Environment:** | `INPUT[inlineSelect(option(arctic_xge, Arctic), option(coastal_xge, Coastal), option(desert_xge, Desert), option(forest_xge, Forest), option(grassland_xge, Grassland), option(hill_xge, Hill), option(mountain_xge, Mountain), option(open%20water_gos, Open Water), option(swamp_xge, Swamp), option(underdark_xge, Underdark), option(underwater_xge, Underwater), option(urban_xge, Urban)):Environment]` |  |
+| **Environment:** | `INPUT[inlineSelect(option(arctic, Arctic), option(coastal, Coastal), option(desert, Desert), option(forest, Forest), option(grassland, Grassland), option(hill, Hill), option(mountain, Mountain), option(openwater, Open Water), option(swamp, Swamp), option(underdark, Underdark), option(underwater, Underwater), option(urban, Urban)):Environment]` |  |
 | **Travel Hours Per Day:** | `INPUT[number:HoursPerDay]` | `VIEW[{HoursPerDay}>({MilesPerHour}>=10 ? 24 : 8) ? "DC (10 + 1 for each hour past 8) Constitution saving throw at the end of each hour to avoid exhaustion" : ""]` |
 | **Miles To Travel:** | `INPUT[number:TravelDistance]` |  |
 | **Distance Travelled Per Day:** | `VIEW[round({MilesPerHour}*{HoursPerDay},1)]` miles | Miles Per Hour: `VIEW[{MilesPerHour}*{SpeedMultiplier}]` |
@@ -33,7 +34,19 @@ Updating the calculator below will flow the changes out to any notes that automa
 
 ### Travel Encounters
 
-`dice:[[Random Tables#^random-weather-VIEW[{Test}]]]`
+|  |  |
+| ---- | ---- |
+| **Party Level:** | `INPUT[inlineSelect(option(1-4, 1 to 4), option(5-10, 5 to 10), option(11-16, 11 to 16), option(17-20, 17 to 20)):PartyLevel]` |
+| **Travel Situation:** | `INPUT[inlineSelect(option(0.05, Safe route- low danger environment), option(0.15, Safe route- higher danger environment), option(0.3, Mildly dangerous route), option(17-20, 17 to 20)):PartyLevel]` |
+| **Travel Cost 💰:** | `VIEW[round((({TravelDistance} / 15) * {CostPer15Miles} * {PeopleTraveling}), 0)]` sp |
+
+```dataviewjs
+const environment = dv.current().Environment
+const diceRollerPlugin = app.plugins.getPlugin("obsidian-dice-roller");
+const diceRoller = await diceRollerPlugin.getRoller("[[Random Tables#^encounter-" + environment + "]]");
+const diceRoll = await diceRoller.roll();
+dv.paragraph(diceRoll )
+```
 
 ### References
 
