@@ -28,7 +28,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Silver (Breland)
 **Goal**: Work to ensure that all people in Khorvaire trust the dragons.
- - [ ]  A silver dragonborn named Valmoc is introduced to the PCs as part of their travels. He introduces them to the idea of the Silver Scales, and their role as protectors of all of Khorvaire so we don't see something like Shae Mordai again.
+ - [x] A silver dragonborn named Valmoc is introduced to the PCs as part of their travels. He introduces them to the idea of the Silver Scales, and their role as protectors of all of Khorvaire so we don't see something like Shae Mordai again. ✅ 2024-01-11
  - [ ]  
 
 ##### Gold (Thrane)
@@ -109,6 +109,6 @@ The tracts below are listed in the general order that the PCs are expected to en
 **Goal**: Release Khyber
  - [ ]  
 
-†Some dragon tribes, such as the white dragons (least intelligent and mostly just territorial and ferocious) and the other gem dragons, don't have their own distinct plot progressions.
+† Some dragon tribes, such as the white dragons (least intelligent and mostly just territorial and ferocious) and the other gem dragons, don't have their own distinct plot progressions.
 
 ### References

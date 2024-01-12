@@ -1,10 +1,10 @@
  #npc 
 
 Gender:: Male
-Occupation:: Traveling Mercenary
+Occupation:: Traveling Guardian (for hire)
 Race:: Dragonborn
 
-Valmoc is a silver dragonborn who serves as a sort of emissary for the silver dragons and the Silver Scale organization more generally. The PCs will encounter him somewhere as they travel, as a means to learn about the Paladin Protectors of the Realm.
+Valmoc is a silver dragonborn who serves as a sort of emissary for the silver dragons and the Silver Scale organization more generally. He's sort of the opposite of a mercenary - someone who is hired to protect others. The PCs will encounter him somewhere as they travel, as a means to learn about the Paladin Protectors of the Realm.
 
 ### Development
 
