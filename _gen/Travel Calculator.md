@@ -19,5 +19,6 @@ Updating the calculator below will flows the changes out to any notes that autom
 | **Distance Travelled Per Day:** | `VIEW[round({MilesPerHour}*{HoursPerDay},1)]` miles                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                     |
 | **Days Travel 🕓:**             | `VIEW[round({TravelDistance} / (({MilesPerHour}*{HoursPerDay})*{SpeedMultiplier}),1)]`                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                     |
 
-
 [[Movement]]
+
+[[Travel and Random Encounters]]

@@ -1,6 +1,6 @@
  #mechanic #reference
 
-### Steps
+### Process
 
 - Use an appropriate map to determine the distance between travel points.
     - Eberron world map: [https://eberronmap.johnarcadian.com/](https://eberronmap.johnarcadian.com/)
@@ -18,6 +18,12 @@
     - Skill checks can be optional here as well. For example, Intelligence checks made to navigate a ship, or Survival checks made to map an area.
 - When they arrive at the destination, do the description of that area. Also remove the amount of gold necessary for rations over the number of days traveled. 5 sp per day per creature (including mounts).
     - Example: Party travels for a total of a week, on horseback, to get to a destination (consuming 14 rations along the way). Upon arrival, each player removes 70 sp (7 gp)
+
+### Costs
+
+| Travel Means |     |
+| ------------ | --- |
+|              |     |
 
 ### Travel Encounters
 
