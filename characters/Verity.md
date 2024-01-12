@@ -6,7 +6,7 @@ modifier: 3
 ---
  #pc [[Kerrie Heath]]
 
-* **Alignment**:: Neutral / Neutral Evil
+* **Alignment**:: Neutral (Evil?)
 * **Class**:: Rogue
 * **Subclass**:: Arcane Trickster
 * **Gender**:: Non-Binary
@@ -15,4 +15,6 @@ modifier: 3
 
 ### Backstory
 
-From Dar Ilash in Pyrine. They serve as a guide to tourists of the area, who gives historical background and religious information (for a price). 
+Verity is from Dar Ilash in Pyrine. They serve as a guide to tourists of the area, who gives historical background and religious information (for a price). 
+
+They found a call to adventure at Morgrave University on one of the many temple bulletin boards, and chartered a room on a ship to get to Khorvaire.

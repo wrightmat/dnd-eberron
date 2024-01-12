@@ -15,6 +15,6 @@ modifier: 1
 
 ### Backstory
 
-Lived in Shae Mordai before it fell. Now lives in Dar Ulatesh (the largest city) in Rhiavhaar and does odd funeral jobs (including house calls to pick up bodies and such). No family in Sarlona, but might have had some in Aerenal.
+Thana lived in Shae Mordai before it fell. Now she lives in Dar Ulatesh (the largest city) in Rhiavhaar and does odd funeral jobs (including house calls to pick up bodies and such). She has no family in Sarlona, but might have had some in Aerenal.
 
-Finds the job posting on a job board. Then takes an odd job on a ship headed to Khorvaire.
+Thana found the posting about Morgrave University on a job board while on her rounds. Then she took an odd job on a ship headed to Khorvaire.

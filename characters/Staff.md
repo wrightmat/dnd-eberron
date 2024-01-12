@@ -18,4 +18,5 @@ modifier: 6
 
 Staff (full name Staffanie) works at the arcane university where her parents teach - but she's a clerk (copies scrolls and such). She goes out adventuring in her free time.
 
-Finds a slip of paper in a book about Sphinxes and talks an old flame into teleporting her to Khorvaire.
+One day on the job, Staff found a slip of paper with a call to adventure in a book about sphinxes. She talked an old flame into teleporting her to 
+Sharn.

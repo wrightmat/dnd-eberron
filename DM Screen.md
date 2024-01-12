@@ -29,8 +29,8 @@ kanban-plugin: basic
 - [ ] [[Follow-up]]
 - [ ] --
 - [ ] [[Draconic Tribes]]
-- [ ] [[docs/other/Sphinxes|Sphinxes]]
-- [ ] [[locations/Sarlona]]
+- [ ] [[Sphinxes]]
+- [ ] [[locations/Sarlona|Sarlona]]
 - [ ] [[Flamewind]]
 
 
