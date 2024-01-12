@@ -82,7 +82,8 @@ The Adarans' love of craft manifests in a variety of jewelry. From glass beadwor
 ### Development
 
 * Sometime during the Second Sundering, Adarans started feeding (at least certain) criminals to the blue dragons that are prevalent in the area.
-* During the summer of the Quiet Year, Adar established Olympics-like games for competitive art. The first one took place the following summer, and every summer since.
+* During the summer of the Quiet Year, Adar established Olympics-like games for competitive art. The first one took place the following summer, and every summer since, opening it up to the rest of Sarlona.
+* The Wanderers of Twilight still pop up occasionally, so security has increased across the region, especially during the Art-lympics.
 
 ### References
 

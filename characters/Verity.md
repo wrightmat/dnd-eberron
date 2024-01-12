@@ -6,7 +6,7 @@ modifier:
 ---
  #pc [[Kerrie Heath]]
 
-* **Alignment**:: 
+* **Alignment**:: Neutral / Neutral Evil
 * **Class**:: Rogue
 * **Subclass**:: 
 * **Gender**:: Female
