@@ -559,6 +559,10 @@
 | 8        | For a year.                             |
 ^random-weather-length
 
+### Encounters
+
+
+
 ### Riddles
 
 | dice: 1d12 | Riddle                                                                                                                                                                         | Answer          |

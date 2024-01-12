@@ -30,6 +30,9 @@ Updating the calculator below will flow the changes out to any notes that automa
 | **Number of People:** | `INPUT[number:PeopleTraveling]` |
 | **Travel Cost 💰:** | `VIEW[round((({TravelDistance} / 15) * {CostPer15Miles} * {PeopleTraveling}), 0)]` sp |
 
+### Travel Encounters
+
+
 
 ### References
 
