@@ -51,7 +51,7 @@ while (day <= daysTravel) {
   const diceRoller20 = await diceRollerPlugin.getRoller("1d20");
   const diceRoll20 = await diceRoller20.roll();
   if (diceRoll20 >= encounterProbability) {
-    const diceRoller = await diceRollerPlugin.getRoller("[[Random Tables#^encounter-" + environment + "-" + partyLevel + "]]");
+    const diceRoller = await diceRollerPlugin.getRoller("[[Random Encounters#^encounter-" + environment + "-" + partyLevel + "]]");
     const diceRoll = await diceRoller.roll();
     dv.paragraph("**Day " + day + ":** " + diceRoll)
   } else {
