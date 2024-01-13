@@ -1528,22 +1528,669 @@ Tables taken from https://5e.tools/encountergen.html
 
 #### Swamp
 
+| dice: 1d100  | Encounter                                                                                                                                           |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01    | 1d4 poisonous snakes                                                                                                                                |
+| 02-05 | 3d6 rats                                                                                                                                            |
+| 06-10 | 2d8 ravens                                                                                                                                          |
+| 11-12 | 3d6 giant rats                                                                                                                                      |
+| 13    | 1d10 + 5 tribal warriors                                                                                                                            |
+| 14-15 | 1d8 + 1 giant lizards                                                                                                                               |
+| 16-17 | 1 crocodile                                                                                                                                         |
+| 18-19 | 1 swarm of insects                                                                                                                                  |
+| 20    | 1 giant spider                                                                                                                                      |
+| 21-22 | 1d4 + 1 mud huts partially sunken in murky water                                                                                                    |
+| 23-25 | 2d8 + 1 kobolds                                                                                                                                     |
+| 26    | 2d4 mud mephits                                                                                                                                     |
+| 27-29 | 1d6 + 2 giant poisonous snakes                                                                                                                      |
+| 30    | 2d4 winged kobolds                                                                                                                                  |
+| 31-32 | 1 scout                                                                                                                                             |
+| 33-34 | The corpse of an adventurer tangled in the weeds. Looting the body turns up an explorer's pack and perhaps (50% chance) a random common magic item. |
+| 35-38 | 1 giant toad                                                                                                                                        |
+| 39-41 | 1d6 + 2 constrictor snakes                                                                                                                          |
+| 42-44 | 2d4 giant frogs                                                                                                                                     |
+| 45    | 1d8 + 1 swarms of rats or 1d6 + 2 swarms of ravens                                                                                                  |
+| 46-48 | 2d10 stirges                                                                                                                                        |
+| 49-52 | 2d6 + 3 bullywugs                                                                                                                                   |
+| 53-54 | 1d8 + 1 orcs                                                                                                                                        |
+| 55-56 | 1d4 yuan-ti purebloods                                                                                                                              |
+| 57    | 1 druid                                                                                                                                             |
+| 58-59 | 1 yuan-ti malison: type 1, type 2, type 3                                                                                                           |
+| 60-62 | 1 giant constrictor snake                                                                                                                           |
+| 63-64 | A high-pitched shriek that lasts for 1d4 minutes                                                                                                    |
+| 65-67 | 2d4 lizardfolk                                                                                                                                      |
+| 68-69 | 1d4 ghouls                                                                                                                                          |
+| 70-71 | 1 will-o'-wisp                                                                                                                                      |
+| 72    | 1 wight                                                                                                                                             |
+| 73    | 1 ghast                                                                                                                                             |
+| 74-75 | 1 swarm of poisonous snakes                                                                                                                         |
+| 76-77 | A foul stench bubbling up from brackish waters                                                                                                      |
+| 78-80 | 1d4 + 2 ogres                                                                                                                                       |
+| 81-83 | 1 shambling mound                                                                                                                                   |
+| 84-86 | 1 lizardfolk shaman with 1d6 giant lizards and 2d10 lizardfolk                                                                                      |
+| 87    | 1 troll                                                                                                                                             |
+| 88-89 | 1d4 green hags                                                                                                                                      |
+| 90-91 | 1 revenant                                                                                                                                          |
+| 92-93 | 1 giant crocodile                                                                                                                                   |
+| 94-95 | 1 orc Eye of Gruumsh with 1d3 orogs and 2d6 + 3 orcs                                                                                                |
+| 96-97 | 1 young black dragon                                                                                                                                |
+| 98    | 1 yuan-ti abomination                                                                                                                               |
+| 99    | 1d4 water elementals                                                                                                                                |
+| 00    | 1 hydra                                                                                                                                             |
+^encounter-swamp-1-4
 
+| dice: 1d100  | Encounter                                                                                                                          |
+|-------|------------------------------------------------------------------------------------------------------------------------------------|
+| 01    | 1 green hag                                                                                                                        |
+| 02-03 | 2d4 giant lizards or 2d4 giant poisonous snakes                                                                                    |
+| 04-05 | 2d8 winged kobolds                                                                                                                 |
+| 06-07 | 1d10 + 1 bullywugs with 1d8 + 1 giant frogs                                                                                        |
+| 08-09 | 1 druid                                                                                                                            |
+| 10    | 1d8 + 1 swarms of insects                                                                                                          |
+| 11-13 | 1d12 ghouls                                                                                                                        |
+| 14-16 | 2d8 scouts                                                                                                                         |
+| 17-19 | 2d10 orcs                                                                                                                          |
+| 20-22 | 2d4 giant spiders                                                                                                                  |
+| 23-24 | Tainted water that exposes creatures that move through it to sight rot (see "Diseases" in chapter 8 of the Dungeon Master's Guide) |
+| 25-27 | 1d6 + 2 giant toads                                                                                                                |
+| 28-30 | 3d6 lizardfolk                                                                                                                     |
+| 31-33 | 1d8 + 1 yuan-ti purebloods                                                                                                         |
+| 34-36 | 1d4 + 1 swarms of poisonous snakes                                                                                                 |
+| 37-38 | A bloated humanoid corpse floating facedown in the water                                                                           |
+| 39-41 | 1 shambling mound                                                                                                                  |
+| 42-44 | 1d4 + 1 will-o'-wisps                                                                                                              |
+| 45-47 | 2d6 crocodiles                                                                                                                     |
+| 48-50 | 1d4 + 1 giant constrictor snakes                                                                                                   |
+| 51-54 | 1 lizardfolk shaman with 1d3 swarms of poisonous snakes and 1d8 + 2 lizardfolk                                                     |
+| 55-58 | 1d8 + 1 ogres                                                                                                                      |
+| 59-62 | 2d4 ghasts                                                                                                                         |
+| 63-65 | An altar partially sunk into the mud, devoted to a god that is part human and part frog                                            |
+| 66-69 | 1 giant crocodile                                                                                                                  |
+| 70-73 | 1 shambling mound                                                                                                                  |
+| 74-77 | 1 orc Eye of Gruumsh with 1d3 ogres and 2d10 + 5 orcs                                                                              |
+| 78-80 | A torrential rain that lasts 1d6 minutes and puts out all unprotected flames within 1 mile                                         |
+| 81-82 | 1 young black dragon                                                                                                               |
+| 83-84 | 1d4 green hags with 1d6 + 1 ogres                                                                                                  |
+| 85-86 | 1 yuan-ti abomination                                                                                                              |
+| 87-88 | 1d4 + 1 wights                                                                                                                     |
+| 89-90 | 1d6 + 1 yuan-ti malisons: type 1, type 2, type 3                                                                                   |
+| 91-93 | 1d4 + 1 trolls                                                                                                                     |
+| 94-96 | 1d10 revenants                                                                                                                     |
+| 97-99 | 1d8 + 1 water elementals                                                                                                           |
+| 00    | 1d3 hydras                                                                                                                         |
+^encounter-swamp-5-10
 
+| dice: 1d100  | Encounter                                                                                          |
+|-------|----------------------------------------------------------------------------------------------------|
+| 01-10 | 1d4 giant crocodiles                                                                               |
+| 11-15 | 1d3 yuan-ti abominations                                                                           |
+| 16-20 | 1d6 + 1 green hags                                                                                 |
+| 21-25 | A large, spreading tree from which 2d6 armored knights hang by the neck                            |
+| 26-30 | 2d4 wights                                                                                         |
+| 31-35 | 1d8 + 1 yuan-ti malisons: type 1, type 2, type 3                                                   |
+| 36-40 | Fog that rolls across the terrain, making the area within 1d3 miles heavily obscured for 1d4 hours |
+| 41-45 | 1d4 revenants                                                                                      |
+| 46-50 | 1d6 shambling mounds                                                                               |
+| 51-55 | 1d10 water elementals                                                                              |
+| 56-60 | 1d4 young black dragons                                                                            |
+| 61-65 | An eerie, bat-headed idol almost completely covered by vines                                       |
+| 66-70 | 1d8 + 2 trolls                                                                                     |
+| 71-75 | 1d3 hydras                                                                                         |
+| 76-80 | The sound of drums beating several miles away                                                      |
+| 81-96 | 1 adult black dragon                                                                               |
+| 97-00 | 1 ancient black dragon                                                                             |
+^encounter-swamp-11-16
 
 #### Underdark
 
+| dice: 1d100  | Encounter                                                                                               |
+|-------|---------------------------------------------------------------------------------------------------------|
+| 01    | 1 mind flayer arcanist                                                                                  |
+| 02    | 1d3 + 1 giant poisonous snakes                                                                          |
+| 03    | 1d3 giant lizards                                                                                       |
+| 04    | 2d4 giant fire beetles                                                                                  |
+| 05    | 1d8 + 1 flumphs                                                                                         |
+| 06    | 1 shrieker                                                                                              |
+| 07    | 1d12 giant rats                                                                                         |
+| 08    | 2d4 kobolds                                                                                             |
+| 09    | 1d8 + 1 stirges                                                                                         |
+| 10    | 2d4 humans (tribal warriors) seeking the way to the surface, fleeing their Underdark oppressors         |
+| 11-12 | 1d10 troglodytes                                                                                        |
+| 13-14 | 1d2 gray oozes                                                                                          |
+| 15-16 | 3d6 stirges                                                                                             |
+| 17-18 | 1d3 magma mephits                                                                                       |
+| 19-20 | 1d10 goblins                                                                                            |
+| 21-22 | Orc graffiti on the walls, suggesting something rude about the mother of someone named Krusk            |
+| 23-24 | 1 swarm of insects                                                                                      |
+| 25    | 1 deep gnome                                                                                            |
+| 26-28 | 1d8 + 1 drow                                                                                            |
+| 29-30 | 1d4 violet fungi                                                                                        |
+| 31-32 | 1d12 kuo-toa                                                                                            |
+| 33    | 1 rust monster                                                                                          |
+| 34-35 | A rubble-strewn passage that appears to have been recently cleared after a cave-in                      |
+| 36-37 | 1d8 + 1 giant bats                                                                                      |
+| 38-39 | 3d6 kobolds                                                                                             |
+| 40-41 | 2d4 grimlocks                                                                                           |
+| 42-43 | 1d4 + 3 swarms of bats                                                                                  |
+| 44    | 1 dwarf prospector (scout) looking for gold                                                             |
+| 45    | 1 carrion crawler or 1 gelatinous cube                                                                  |
+| 46    | 1d8 darkmantles or 2d4 piercers                                                                         |
+| 47    | 1 hell hound                                                                                            |
+| 48    | 1d3 specters                                                                                            |
+| 49    | 1d4 bugbears                                                                                            |
+| 50    | 1d10 + 5 winged kobolds                                                                                 |
+| 51    | 1d4 fire snakes                                                                                         |
+| 52    | 2d8 + 1 troglodytes                                                                                     |
+| 53    | 1d6 giant spiders                                                                                       |
+| 54    | 3d6 kuo-toa                                                                                             |
+| 55    | 1 goblin boss with 2d4 goblins                                                                          |
+| 56    | 4d4 grimlocks                                                                                           |
+| 57    | 1 ochre jelly                                                                                           |
+| 58    | 2d10 giant centipedes                                                                                   |
+| 59    | 1 nothic or 1 giant toad                                                                                |
+| 60    | 1d4 myconid adults with 5d4 myconid sprouts                                                             |
+| 61    | 1 minotaur skeleton or 1 minotaur                                                                       |
+| 62    | 3d6 drow                                                                                                |
+| 63    | 1 mimic or 1 doppelganger                                                                               |
+| 64    | 1d6 + 3 hobgoblins                                                                                      |
+| 65    | 1 intellect devourer or 1 spectator                                                                     |
+| 66    | 1d8 + 1 orcs                                                                                            |
+| 67-68 | A faint tapping coming from inside a nearby wall                                                        |
+| 69    | 1 gibbering mouther or 1 water weird                                                                    |
+| 70    | 1d12 gas spores                                                                                         |
+| 71    | 1 giant constrictor snake                                                                               |
+| 72    | 1d10 shadows                                                                                            |
+| 73    | 1d3 grells                                                                                              |
+| 74    | 1d4 wights                                                                                              |
+| 75    | 1d8 + 1 quaggoth spore servants                                                                         |
+| 76    | 1d2 gargoyles                                                                                           |
+| 77    | 1d4 ogres or 1d3 ettins                                                                                 |
+| 78    | 1d4 dwarf explorers (veterans)                                                                          |
+| 79-80 | An abandoned miners' camp spattered with blood and littered with the contents of 1d3 dungeoneer's packs |
+| 81    | 1 chuul or 1 salamander                                                                                 |
+| 82    | 1d4 phase spiders or 1d3 hook horrors                                                                   |
+| 83    | 5d4 duergar                                                                                             |
+| 84    | 1 ghost or 1 flameskull or 1 wraith                                                                     |
+| 85    | 1 druid with 1 polar bear (cave bear)                                                                   |
+| 86    | 1 hobgoblin captain with 1d4 half-ogres and 2d10 hobgoblins                                             |
+| 87    | 1 earth elemental or 1 black pudding                                                                    |
+| 88    | 1 kuo-toa monitor with 1d8 + 1 kuo-toa whips                                                            |
+| 89    | 1 quaggoth thonot with 1d3 quaggoths                                                                    |
+| 90    | 1 beholder zombie or 1 bone naga                                                                        |
+| 91    | 1 orc Eye of Gruumsh with 1d4 orogs and 2d8 orcs                                                        |
+| 92    | 1d4 ghasts with 1d10 ghouls                                                                             |
+| 93-95 | A reeking puddle where slimy water has dripped from the ceiling                                         |
+| 96    | 1 otyugh or 1 roper                                                                                     |
+| 97    | 1 vampire spawn                                                                                         |
+| 98    | 1 chimera                                                                                               |
+| 99    | 1 mind flayer                                                                                           |
+| 00    | 1 spirit naga                                                                                           |
+^encounter-underdark-1-4
 
+| dice: 1d100  | Encounter                                                                               |
+|-------|-----------------------------------------------------------------------------------------|
+| 01    | 3d6 swarms of bats                                                                      |
+| 02    | 1d4 giant spiders or 1d4 giant toads                                                    |
+| 03    | 1 mimic                                                                                 |
+| 04    | 2d4 grey oozes                                                                          |
+| 05    | 2d10 orcs or 3d6 troglodytes                                                            |
+| 06    | 3d6 grimlocks                                                                           |
+| 07    | 1d6 + 2 magma mephits                                                                   |
+| 08    | 1 goblin boss with 2d4 goblins                                                          |
+| 09    | 2d4 darkmantles                                                                         |
+| 10    | 2d8 + 1 drow                                                                            |
+| 11    | 2d10 piercers                                                                           |
+| 12    | 1d4 minotaur skeletons                                                                  |
+| 13-14 | 3d6 deep gnomes                                                                         |
+| 15    | 1 druid with 1 polar bear (cave bear)                                                   |
+| 16-17 | 3d6 orcs                                                                                |
+| 18    | 1 bone naga                                                                             |
+| 19-20 | 2d6 bugbears                                                                            |
+| 21-25 | Luminescent fungi growing on the walls of a moist cave, filling it with dim light       |
+| 26    | 2d4 specters                                                                            |
+| 27    | 1d12 + 4 shadows                                                                        |
+| 28    | 1d3 gibbering mouthers                                                                  |
+| 29-30 | 4d4 hobgoblins                                                                          |
+| 31-32 | 1d4 carrion crawlers                                                                    |
+| 33-34 | 1 black pudding                                                                         |
+| 35    | 1d4 ochre jellies                                                                       |
+| 36-40 | A patch of mold that appears yellow when light is directed toward it                    |
+| 41    | 1d4 nothics                                                                             |
+| 42-43 | 2d8 + 1 gas spores                                                                      |
+| 44-45 | 1d3 gelatinous cubes                                                                    |
+| 46    | 1 ghost                                                                                 |
+| 47-48 | 1 flameskull                                                                            |
+| 49-50 | 2d8 duergar                                                                             |
+| 51    | 1 wraith                                                                                |
+| 52    | 1 umber hulk                                                                            |
+| 53    | 1 xorn                                                                                  |
+| 54    | 1d6 + 2 dwarf hunters (veterans) searching for trolls                                   |
+| 55    | 1 hobgoblin captain with 3d10 hobgoblins                                                |
+| 56    | 1 roper                                                                                 |
+| 57    | 1 kuo-toa monitor with 1d4 kuo-toa whips and 1d8 + 1 kuo-toa                            |
+| 58    | 1d3 water weirds                                                                        |
+| 59    | 1d4 ghasts with 1d10 ghouls                                                             |
+| 60    | 1 otyugh                                                                                |
+| 61-62 | A merchant caravan consisting of 1 drow mage, 2 drow elite warriors, and 2d10 quaggoths |
+| 63    | 1d4 wights                                                                              |
+| 64    | 1d4 doppelgangers                                                                       |
+| 65    | 2d8 fire snakes                                                                         |
+| 66    | 1d4 spectators                                                                          |
+| 67    | 1 orc Eye of Gruumsh with 1d4 orogs and 2d10 + 3 orcs                                   |
+| 68    | 1d3 vampire spawn                                                                       |
+| 69    | 1d4 hook horrors or 1d4 minotaurs                                                       |
+| 70    | 3d6 quaggoth spore servants                                                             |
+| 71-72 | 1d3 grells                                                                              |
+| 73    | 1d6 + 1 intellect devourers                                                             |
+| 74    | 1d10 gargoyles                                                                          |
+| 75    | 1 beholder zombie                                                                       |
+| 76-77 | 1 quaggoth thonot with 2d4 quaggoths                                                    |
+| 78    | 1d6 ettins or 1d4 trolls                                                                |
+| 79    | 1d8 + 1 phase spiders                                                                   |
+| 80    | 1 fomorian or 1d3 cyclopes                                                              |
+| 81    | 1d4 earth elementals                                                                    |
+| 82    | 3d6 ogres                                                                               |
+| 83    | 1d4 + 1 chuuls                                                                          |
+| 84    | 1d10 hell hounds                                                                        |
+| 85    | 1d3 drow elite warriors                                                                 |
+| 86    | 1d4 chimeras                                                                            |
+| 87    | 1d4 salamanders                                                                         |
+| 88    | 1 cloaker                                                                               |
+| 89    | 2d4 wights                                                                              |
+| 90    | 1d4 driders                                                                             |
+| 91    | 1 fire giant                                                                            |
+| 92    | 1 grick alpha with 2d4 gricks                                                           |
+| 93    | 1 mind flayer arcanist                                                                  |
+| 94    | 1d4 drow mages                                                                          |
+| 95    | 1 spirit naga                                                                           |
+| 96    | 1d4 mind flayers                                                                        |
+| 97    | 1 behir                                                                                 |
+| 98    | 1 aboleth                                                                               |
+| 99    | 1 dao or 1 stone giant                                                                  |
+| 00    | 1 beholder                                                                              |
+^encounter-underdark-5-10
 
+| dice: 1d100  | Encounter                                                                                                                                                                 |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01-02 | 3d6 carrion crawlers                                                                                                                                                      |
+| 03-04 | 1d6 + 1 gelatinous cubes                                                                                                                                                  |
+| 05-06 | 1d8 + 2 gibbering mouthers                                                                                                                                                |
+| 07-08 | 2d8 minotaur skeletons                                                                                                                                                    |
+| 09-10 | 2d6 ochre jellies                                                                                                                                                         |
+| 11-12 | 2d4 doppelgangers                                                                                                                                                         |
+| 13-14 | 1d4 quaggoth thonots with 1d10 + 2 quaggoths                                                                                                                              |
+| 15-16 | 1d3 ropers                                                                                                                                                                |
+| 17-18 | 3d6 gargoyles                                                                                                                                                             |
+| 19-20 | 1d10 mimics                                                                                                                                                               |
+| 21-25 | A 100-foot-long ravine, 4d10 feet wide and 5d20 + 200 feet deep                                                                                                           |
+| 26-27 | 1 hobgoblin captain with 3d10 hobgoblins                                                                                                                                  |
+| 28-29 | 2d4 spectators                                                                                                                                                            |
+| 30-31 | 3d6 ghasts                                                                                                                                                                |
+| 32-33 | 2d8 intellect devourers                                                                                                                                                   |
+| 34-35 | 1d3 orc Eyes of Gruumsh with 2d4 orogs and 2d10 orcs                                                                                                                      |
+| 36-40 | A large cave containing 2d10 extraordinarily detailed statues of various creatures                                                                                        |
+| 41-42 | 1d8 + 1 kuo-toa monitors                                                                                                                                                  |
+| 43-44 | 2d4 water weirds                                                                                                                                                          |
+| 45-46 | 2d10 gricks                                                                                                                                                               |
+| 47-48 | 3d6 nothics                                                                                                                                                               |
+| 49-50 | 2d8 + 1 ogres                                                                                                                                                             |
+| 51-52 | 1d6 + 2 chuuls                                                                                                                                                            |
+| 53-54 | 1d8 + 1 ettins                                                                                                                                                            |
+| 55    | 3d6 grells                                                                                                                                                                |
+| 56    | 2d4 flameskulls                                                                                                                                                           |
+| 57    | 2d12 dwarf soldiers (veterans) on patrol                                                                                                                                  |
+| 58    | 2d8 hell hounds                                                                                                                                                           |
+| 59    | 1d10 ghosts                                                                                                                                                               |
+| 60    | 3d4 wights                                                                                                                                                                |
+| 61    | 3d6 phase spiders                                                                                                                                                         |
+| 62    | 1d8 + 1 bone nagas                                                                                                                                                        |
+| 63-65 | A shrill scream followed by dark laughter                                                                                                                                 |
+| 66    | 1d4 chimeras                                                                                                                                                              |
+| 67    | 1d10 black puddings                                                                                                                                                       |
+| 68    | 3d6 minotaurs                                                                                                                                                             |
+| 69    | 2d4 otyughs                                                                                                                                                               |
+| 70    | 1d6 + 1 beholder zombies                                                                                                                                                  |
+| 71    | 4d4 hook horrors                                                                                                                                                          |
+| 72    | 1d8 + 1 umber hulks                                                                                                                                                       |
+| 73    | 2d4 salamanders                                                                                                                                                           |
+| 74    | 1d3 grick alphas                                                                                                                                                          |
+| 75    | 1d6 + 2 xorn                                                                                                                                                              |
+| 76-80 | A ruined village that once belonged to deep gnomes. A search has a 50% chance of uncovering 1d3 potions of healing and a 25% chance of finding a random common magic item |
+| 81    | 2d4 earth elementals                                                                                                                                                      |
+| 82    | 1d3 spirit nagas                                                                                                                                                          |
+| 83    | 1d8 + 1 cyclopes                                                                                                                                                          |
+| 84    | 1d6 + 2 trolls                                                                                                                                                            |
+| 85    | 2d4 stone giants                                                                                                                                                          |
+| 86    | 2d4 wraiths                                                                                                                                                               |
+| 87    | 1d4 fomorians                                                                                                                                                             |
+| 88    | 1d3 drow mages with 1d4 drow elite warriors                                                                                                                               |
+| 89    | 1d10 vampire spawn                                                                                                                                                        |
+| 90    | 1d3 cloakers                                                                                                                                                              |
+| 91    | 1d4 fire giants                                                                                                                                                           |
+| 92    | 1 mind flayer arcanist with 1d6 + 1 mind flayers                                                                                                                          |
+| 93    | 1d4 dao                                                                                                                                                                   |
+| 94    | 1d8 + 1 driders                                                                                                                                                           |
+| 95    | 1d3 behirs                                                                                                                                                                |
+| 96    | 1d4 aboleths                                                                                                                                                              |
+| 97    | 1 beholder                                                                                                                                                                |
+| 98    | 1 young red shadow dragon                                                                                                                                                 |
+| 99    | 1 death tyrant                                                                                                                                                            |
+| 00    | 1 purple worm                                                                                                                                                             |
+^encounter-underdark-11-16
+
+| dice: 1d100  | Encounter                                                                             |
+|-------|---------------------------------------------------------------------------------------|
+| 01    | 1d4 grick alphas                                                                      |
+| 02    | 2d8 spectators                                                                        |
+| 03-04 | 3d6 minotaurs or 2d8 kuo-toa monitors                                                 |
+| 05-06 | 2d8 grells                                                                            |
+| 07-08 | 2d10 phase spiders                                                                    |
+| 09-10 | 4d4 hell hounds                                                                       |
+| 11-12 | 1d6 + 2 ropers                                                                        |
+| 13-14 | 2d10 wights                                                                           |
+| 15-16 | 3d6 doppelgangers                                                                     |
+| 17-18 | 1d8 + 1 chimeras                                                                      |
+| 19-20 | 1d4 cloakers                                                                          |
+| 21    | 1d4 hobgoblin captains with 5d10 hobgoblins                                           |
+| 22-23 | 1d8 + 1 earth elementals                                                              |
+| 24-25 | 2d4 vampire spawn                                                                     |
+| 26-27 | 3d6 minotaurs                                                                         |
+| 28-30 | A 30-foot-tall inverted black pyramid floating 1 inch above the floor in a large cave |
+| 31-32 | 1d10 beholder zombies                                                                 |
+| 33-34 | 1d4 mind flayer arcanists                                                             |
+| 35-36 | 1d6 + 2 otyughs                                                                       |
+| 37-38 | 1d12 trolls                                                                           |
+| 39-40 | 1d10 wraiths                                                                          |
+| 41-43 | A beautiful obsidian sculpture of a panther lying on the floor                        |
+| 44-45 | 1d4 drow mages with 1d6 drow elite warriors                                           |
+| 46-47 | 1d4 spirit nagas                                                                      |
+| 48-49 | 1d8 + 1 salamanders                                                                   |
+| 50-51 | 2d4 umber hulks                                                                       |
+| 52-53 | 1d10 xorn                                                                             |
+| 54-56 | 1 young red shadow dragon                                                             |
+| 57-59 | 2d4 fomorians                                                                         |
+| 60-62 | 1d8 + 1 driders                                                                       |
+| 63-65 | 1d20 + 20 spiders crawling on the walls of a web-filled cave                          |
+| 66-68 | 1d4 fire giants                                                                       |
+| 69-70 | 1d10 mind flayers                                                                     |
+| 71-73 | 2d4 stone giants                                                                      |
+| 74-76 | 1d12 cyclopes                                                                         |
+| 77-80 | A large cave in which stands a 50-foot-tall idol of Blibdoolpoolp                     |
+| 81-85 | 1d3 dao                                                                               |
+| 86-90 | 1d4 beholders                                                                         |
+| 91-93 | 1d4 behirs                                                                            |
+| 94-96 | 1 death tyrant                                                                        |
+| 97-99 | 1d3 purple worms                                                                      |
+| 00    | 2d4 aboleths                                                                          |
+^encounter-underdark-17-20
 
 #### Underwater
 
+| dice: 1d100  | Encounter                                                     |
+|-------|---------------------------------------------------------------|
+| 01-10 | 3d6 quippers                                                  |
+| 11-14 | 2d4 steam mephits                                             |
+| 15-18 | 1d4 sahuagin                                                  |
+| 19-22 | 2d6 merfolk                                                   |
+| 23-25 | 2d4 corpses of drowned sailors tangled in kelp                |
+| 26-29 | 2d4 constrictor snakes                                        |
+| 30-33 | 1d4 reef sharks                                               |
+| 34-37 | 1 swarm of quippers                                           |
+| 38-40 | A bed of enormous clams                                       |
+| 41-45 | 1d10 merfolk with 1d3 giant sea horses                        |
+| 46-50 | 1 giant octopus                                               |
+| 51-55 | 1 merrow                                                      |
+| 56-60 | 1 plesiosaurus                                                |
+| 61-65 | 2d10 pieces of corroded brass dinnerware littering the bottom |
+| 66-70 | 1 giant constrictor snake                                     |
+| 71-75 | 1 sea hag                                                     |
+| 76-80 | A school of silvery fish darting through the water            |
+| 81-85 | 1d4 hunter sharks                                             |
+| 86-90 | 1 sahuagin priestess with 2d4 sahuagin                        |
+| 91-96 | 1d4 killer whales                                             |
+| 97-98 | 1 giant shark                                                 |
+| 99    | 1 water elemental                                             |
+| 00    | 1 sahuagin baron                                              |
+^encounter-underwater-1-4
 
+| dice: 1d100  | Encounter                                                                                                                                                          |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01-02 | 3d6 steam mephits                                                                                                                                                  |
+| 03-04 | 1d10 sahuagin                                                                                                                                                      |
+| 05-06 | 1 giant octopus                                                                                                                                                    |
+| 07-08 | 3d6 constrictor snakes                                                                                                                                             |
+| 09-10 | 2d10 merfolk with 1d4 giant sea horses                                                                                                                             |
+| 11-15 | 1d4 sea hags                                                                                                                                                       |
+| 16-20 | 2d4 swarms of quippers                                                                                                                                             |
+| 21-25 | A sunken galleon with a 50% chance of a random treasure hoard inside (roll on the Treasure Hoard: Challenge 5-10 table in chapter 7 of the Dungeon Master's Guide) |
+| 26-30 | 1d4 plesiosauruses                                                                                                                                                 |
+| 31-35 | 3d6 reef sharks                                                                                                                                                    |
+| 36-40 | An abandoned bathysphere                                                                                                                                           |
+| 41-50 | 1d4 giant constrictor snakes                                                                                                                                       |
+| 51-55 | 2d4 hunter sharks                                                                                                                                                  |
+| 56-60 | 1d3 sahuagin priestesses with 2d10 sahuagin                                                                                                                        |
+| 61-65 | An empty castle made from coral                                                                                                                                    |
+| 66-70 | 1d4 killer whales                                                                                                                                                  |
+| 71-75 | 1d10 merrow                                                                                                                                                        |
+| 76-80 | An eerie statue of a squatting humanoid, with bat wings on its back and tentacles sprouting from its face                                                          |
+| 81-85 | 1d4 water elementals                                                                                                                                               |
+| 86-90 | 1 sahuagin baron with 2d8 sahuagin                                                                                                                                 |
+| 91-96 | 1d4 giant sharks                                                                                                                                                   |
+| 97-99 | 1 marid                                                                                                                                                            |
+| 00    | 1 storm giant                                                                                                                                                      |
+^encounter-underwater-5-10
 
+| dice: 1d100  | Encounter                                                                                                             |
+|-------|-----------------------------------------------------------------------------------------------------------------------|
+| 01-10 | 1 sahuagin baron with 1d4 sahuagin priestesses and 2d10 sahuagin                                                      |
+| 11-35 | 1d10 killer whales                                                                                                    |
+| 36-40 | A ghost ship passing overhead, containing 2d6 + 10 ghosts                                                             |
+| 41-60 | 1d6 giant sharks                                                                                                      |
+| 61-65 | A 1-mile-radius sphere of effervescent water that allows air-breathing creatures to breathe water while in the sphere |
+| 66-75 | 1d10 water elementals                                                                                                 |
+| 76-80 | A shimmering, blue-green portal to the Elemental Plane of Water                                                       |
+| 81-90 | 1d4 marids                                                                                                            |
+| 91-96 | 1d3 storm giants                                                                                                      |
+| 97-99 | 1 dragon turtle                                                                                                       |
+| 00    | 1 kraken                                                                                                              |
+^encounter-underwater-11-16
 
 #### Urban
 
+| dice: 1d100  | Encounter                                                                  |
+|-------|----------------------------------------------------------------------------|
+| 01    | `encounter: 1d6: Cat`                                                                   |
+| 02-03 | `encounter: 1: Commoner, 1d6: Goat`                                                  |
+| 04-05 | `encounter: 2d10: Rat`                                                                  |
+| 06    | 1 raven perched on a signpost                                              |
+| 07    | 1 commoner on a draft horse                                                |
+| 08    | `encounter: 2d4: Mastiff`                                                               |
+| 09    | `encounter: 1d2: Commoner, 1d4: Mule`                              |
+| 10    | `encounter: 1: Pseudodragon`                                                             |
+| 11    | `encounter: 1: Spy`                                                                      |
+| 12-13 | `encounter: 1d8 + 1: Acolyte`                                                           |
+| 14    | `encounter: 1d6 + 6: Flying Snake`                                                      |
+| 15    | `encounter: 3d6: Kobold`                                                                |
+| 16    | `encounter: 2d4: Giant Centipede`                                                       |
+| 17    | `encounter: 1d8 + 1: Skeleton`                                                          |
+| 18-19 | `encounter: 1d6 + 2: Swarm of Rats`                                                     |
+| 20    | `encounter: 1d12: Zombie`                                                               |
+| 21-25 | A peddler weighed down with a load of pots, pans, and other basic supplies |
+| 26    | `encounter: 1: Giant Wasp`                                                               |
+| 27-28 | `encounter: 1: Warhorse`                                                                 |
+| 29    | `encounter: 2d8: Cultist`                                                               |
+| 30-31 | `encounter: 3d4: Giant Rat`                                                             |
+| 32    | `encounter: 2d8: Stirge`                                                                |
+| 33    | `encounter: 1d3 + 2: Giant Poisonous Snake`                                             |
+| 34    | `encounter: 1d4 + 2: Swarm of Bats`                                                     |
+| 35    | `encounter: 2d4: Winged Kobold`                                                         |
+| 36-40 | A wagon loaded with apples that has a broken wheel and holds up traffic    |
+| 41    | `encounter: 1: Crocodile`                                                                |
+| 42-43 | `encounter: 1: Swarm of Insects`                                                         |
+| 44-45 | `encounter: 3d6: Bandit`                                                                |
+| 46-47 | `encounter: 1d3 + 2: Noble` on riding horses with an escort of `encounter: 1d10: Guard`              |
+| 48    | `encounter: 2d4: Kenku`                                                                  |
+| 49    | `encounter: 1d6 + 2: Smoke Mephit`                                                      |
+| 50    | `encounter: 1d8 + 1: Swarm of Ravens`                                                   |
+| 51-52 | `encounter: 1: Wererat`                                                                  |
+| 53-54 | `encounter: 1d3: Half-ogre`                                                             |
+| 55-56 | `encounter: 1: Mimic`                                                                    |
+| 57-58 | `encounter: 1d4: Ghoul`                                                                 |
+| 59-60 | `encounter: 1d4: Specter`                                                               |
+| 61-62 | `encounter: 1d10: Shadow`                                                               |
+| 63-65 | Someone empties a chamber pot onto the street from a second-floor window   |
+| 66-67 | `encounter: 1: Ghast`                                                                    |
+| 68-69 | `encounter: 1: Priest`                                                                   |
+| 70-71 | `encounter: 1: Will-o'-wisp`                                                             |
+| 72-73 | `encounter: 1d3: Giant Spider`                                                          |
+| 74-75 | `encounter: 1d4: Yuan-ti Pureblood`                                                     |
+| 76-77 | `encounter: 2d4: Thug`                                                                  |
+| 78-80 | A doomsayer who preaches the end of the world from a street corner         |
+| 81    | `encounter: 1: cambion                                                                  |
+| 82    | 1 vampire spawn                                                            |
+| 83    | 1 couatl                                                                   |
+| 84    | 1 ghost                                                                    |
+| 85    | 1 succubus or 1 incubus                                                    |
+| 86    | 1 bandit captain with 3d6 bandits                                          |
+| 87    | 1d4 + 1 cult fanatics                                                      |
+| 88    | 1 knight or 1 veteran                                                      |
+| 89    | 1 water weird                                                              |
+| 90    | 1 wight                                                                    |
+| 91    | 1 mage                                                                     |
+| 92    | 1 shield guardian                                                          |
+| 93    | 1 gladiator                                                                |
+| 94    | 1 revenant                                                                 |
+| 95    | 2d4 gargoyles                                                              |
+| 96    | 1d4 doppelgangers                                                          |
+| 97    | 1 oni                                                                      |
+| 98    | 1 invisible stalker                                                        |
+| 99    | 1d3 + 1 phase spiders                                                      |
+| 00    | 1 assassin                                                                 |
+^encounter-urban-1-4
 
+| dice: 1d100  | Encounter                                                                                                 |
+|-------|-----------------------------------------------------------------------------------------------------------|
+| 01-02 | 1d10 kenku                                                                                                |
+| 03-04 | 2d6 giant centipedes                                                                                      |
+| 05-06 | 2d8 skeletons                                                                                             |
+| 07-08 | 1d6 swarms of bats and 1d6 swarms of rats                                                                 |
+| 09-10 | 3d6 winged kobolds                                                                                        |
+| 11-13 | 2d4 specters                                                                                              |
+| 14-16 | 1d4 wights                                                                                                |
+| 17-19 | 4d4 acolytes on draft horses                                                                              |
+| 20-22 | 3d6 giant centipedes                                                                                      |
+| 23-25 | A talkative urchin, badgering passersby to serve as their guide through the community for a price of 1 sp |
+| 26-28 | 1d10 spies                                                                                                |
+| 29-31 | 3d6 crocodiles                                                                                            |
+| 32-34 | 1d6 + 2 swarms of insects                                                                                 |
+| 35-37 | 2d4 smoke mephits                                                                                         |
+| 38-40 | A noble shouts "Stop! Thief!" at a fleeing scoundrel (bandit)                                             |
+| 41-43 | 1 succubus or 1 incubus                                                                                   |
+| 44-46 | 1d10 half-ogres                                                                                           |
+| 47-49 | 2d10 giant wasps                                                                                          |
+| 50-51 | 4d10 zombies                                                                                              |
+| 52-53 | 1d4 knights on warhorses                                                                                  |
+| 54-55 | 1d4 + 1 water weirds                                                                                      |
+| 56-57 | 1d8 + 1 mimics                                                                                            |
+| 58-59 | 2d8 giant spiders                                                                                         |
+| 60-61 | 3d6 shadows                                                                                               |
+| 62-65 | An actor leans out from a second-story window to call to passersby, announcing a show                     |
+| 66-67 | 1 bandit captain with 3d8 bandits                                                                         |
+| 68-69 | 1d10 will-o'-wisps                                                                                        |
+| 70-71 | 2d4 priests                                                                                               |
+| 72-74 | 3d6 yuan-ti purebloods                                                                                    |
+| 75-76 | 2d10 thugs                                                                                                |
+| 77-80 | A fortune-teller reads cards for those who pay a price of 1 sp                                            |
+| 81    | 1d3 gladiators                                                                                            |
+| 82    | 1d4 + 1 couatls                                                                                           |
+| 83    | 1d8 ghosts                                                                                                |
+| 84    | 2d4 doppelgangers                                                                                         |
+| 85    | 1d6 + 2 phase spiders                                                                                     |
+| 86    | 2d4 veterans                                                                                              |
+| 87    | 1d8 ghasts with 2d6 ghouls                                                                                |
+| 88    | 3d6 gargoyles                                                                                             |
+| 89    | 2d10 cult fanatics                                                                                        |
+| 90    | 3d6 wererats                                                                                              |
+| 91    | 1 assassin                                                                                                |
+| 92    | 1d3 invisible stalkers                                                                                    |
+| 93    | 1 gray slaad                                                                                              |
+| 94    | 1 young silver dragon                                                                                     |
+| 95    | 1d4 cambions or 1d4 revenants                                                                             |
+| 96    | 3d6 wights                                                                                                |
+| 97    | 1 archmage                                                                                                |
+| 98    | 2d4 vampire spawn or 1d4 oni                                                                              |
+| 99    | 1 mage with 1 shield guardian                                                                             |
+| 00    | 1 rakshasa or 1 vampire                                                                                   |
+^encounter-urban-5-10
+
+| dice: 1d100  | Encounter                                                                                                                               |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| 01    | 1 mimic                                                                                                                                 |
+| 02-05 | 1 bandit captain with 5d10 bandits, all on riding horses                                                                                |
+| 06-10 | 1d10 knights on warhorses (one knight is a doppelganger)                                                                                |
+| 11-13 | 1d8 succubi or 1d8 incubi                                                                                                               |
+| 14-16 | 3d6 cult fanatics                                                                                                                       |
+| 17-19 | 1d10 wights                                                                                                                             |
+| 20-22 | 3d6 wererats                                                                                                                            |
+| 23-25 | A distant boom followed by a plume of smoke rising from the other side of the community                                                 |
+| 26-28 | 1d8 + 1 ghosts                                                                                                                          |
+| 29-31 | 2d10 gargoyles                                                                                                                          |
+| 32-34 | 1d6 + 2 water weirds                                                                                                                    |
+| 35-37 | 1d4 + 4 will-o'-wisps                                                                                                                   |
+| 38-40 | Street performers putting on a puppet show, involving two puppets beating each other with sticks to the amusement of the gathered crowd |
+| 41-43 | 2d4 couatls                                                                                                                             |
+| 44-46 | 2d8 ghasts                                                                                                                              |
+| 47-51 | 1d8 + 1 veterans                                                                                                                        |
+| 52-55 | 3d4 priests                                                                                                                             |
+| 56-58 | 2d4 cambions                                                                                                                            |
+| 59-61 | 1d10 revenants                                                                                                                          |
+| 62-65 | 2d4 phase spiders                                                                                                                       |
+| 66-69 | A scruffy commoner that ducks into an alley to make a purchase from a suspicious looking figure                                         |
+| 70-72 | 1d8 invisible stalkers                                                                                                                  |
+| 73-75 | 1d8 + 1 gladiators                                                                                                                      |
+| 76-80 | Two farmers trading blows over the price of potatoes (50% chance for one farmer to be a retired assassin)                               |
+| 81-82 | 1d4 young silver dragons                                                                                                                |
+| 83-84 | 1d4 assassins                                                                                                                           |
+| 85-86 | 1d8 oni                                                                                                                                 |
+| 87-88 | 1d4 mages with 1d4 shield guardians                                                                                                     |
+| 89-90 | 1d10 vampire spawn                                                                                                                      |
+| 91-92 | 1 adult silver dragon                                                                                                                   |
+| 93-94 | 1d4 gray slaadi                                                                                                                         |
+| 95-96 | 1 spellcaster vampire or 1 warrior vampire                                                                                              |
+| 97    | 1 rakshasa                                                                                                                              |
+| 98    | 1 vampire                                                                                                                               |
+| 99    | 1 ancient silver dragon                                                                                                                 |
+| 00    | 1 archmage speeding down the street on a riding horse, blasting 1d4 guards with spells                                                  |
+^encounter-urban-11-16
+
+| dice: 1d100  | Encounter                                                                                                            |
+|-------|----------------------------------------------------------------------------------------------------------------------|
+| 01-05 | 1d10 invisible stalkers                                                                                              |
+| 06-10 | 1d10 revenants                                                                                                       |
+| 11-14 | 1d6 + 2 gladiators                                                                                                   |
+| 15-18 | 2d4 cambions                                                                                                         |
+| 19-22 | 2d6 succubi or 2d6 incubi                                                                                            |
+| 23-25 | A witch (archmage) who zooms overhead on a broom of flying                                                           |
+| 26-30 | 1d4 gray slaadi                                                                                                      |
+| 31-35 | 2d8 couatls                                                                                                          |
+| 36-40 | A distraught parent who rushes up to people, begging for help for a child who fell into the sewer                    |
+| 41-45 | 1d3 young silver dragons                                                                                             |
+| 46-50 | 3d6 ghosts                                                                                                           |
+| 51-55 | 1 adult silver dragon                                                                                                |
+| 56-60 | 1d4 mages with 1d4 shield guardians                                                                                  |
+| 61-65 | An aggressive merchant who hawks wares to passersby, claiming to be the purveyor of the finest silks in all the land |
+| 66-70 | 1 ancient silver dragon                                                                                              |
+| 71-75 | 3d6 vampire spawn                                                                                                    |
+| 76-80 | A patrol of 2d10 guards marching up the street, searching for someone or something                                   |
+| 81-85 | 1d10 assassins                                                                                                       |
+| 86-90 | 1d4 + 1 gray slaadi                                                                                                  |
+| 91-93 | 1d10 oni                                                                                                             |
+| 94-96 | 1 spellcaster vampire or 1 warrior vampire                                                                           |
+| 97    | 1d4 archmages                                                                                                        |
+| 98    | 1d3 rakshasas                                                                                                        |
+| 99    | 1d4 vampires                                                                                                         |
+| 00    | 1 tarrasque                                                                                                          |
+^encounter-urban-17-20
 
 
 ### Riddles
