@@ -371,92 +371,92 @@ Tables taken from https://5e.tools/encountergen.html
 
 #### Forest
 
-| dice: 1d100  | Encounter                                                                                                          |
-|-------|--------------------------------------------------------------------------------------------------------------------|
-| 01    | 1 giant owl                                                                                                        |
-| 02    | 1d4 cats                                                                                                           |
-| 03    | 2d4 woodcutters (commoners)                                                                                        |
-| 04    | 1 badger or 1d4 poisonous snakes                                                                                   |
-| 05    | 2d8 baboons                                                                                                        |
-| 06    | 1d6 + 3 hyenas                                                                                                     |
-| 07    | 1 owl                                                                                                              |
-| 08    | 1 pseudodragon                                                                                                     |
-| 09    | 1 panther                                                                                                          |
-| 10    | 1 giant poisonous snake                                                                                            |
-| 11    | 1d6 + 2 boars                                                                                                      |
-| 12    | 1d4 + 1 giant lizards                                                                                              |
-| 13    | 1 ape or 1 tiger                                                                                                   |
-| 14    | 2d6 tribal warriors with 1d6 mastiffs                                                                              |
-| 15    | 1d6 + 2 giant bats or 3d6 flying snakes                                                                            |
-| 16    | 1 scout or 2d4 guards with 1d6 mastiffs                                                                            |
-| 17    | 1d8 + 1 winged kobolds                                                                                             |
-| 18    | 1d3 constrictor snakes                                                                                             |
-| 19    | 1d10 + 5 giant rats or 2d6 + 3 giant weasels                                                                       |
-| 20    | 1d4 + 1 needle blights with 1d6 + 3 twig blights                                                                   |
-| 21-25 | A lost, weeping child. If the characters take the child home, the parents reward them with 1d3 potions of healing. |
-| 26    | 1d8 + 1 giant frogs                                                                                                |
-| 27    | 4d4 kobolds                                                                                                        |
-| 28    | 1d3 black bears                                                                                                    |
-| 29    | 3d6 stirges                                                                                                        |
-| 30    | 1 satyr                                                                                                            |
-| 31    | 2d4 kenku                                                                                                          |
-| 32    | 1d3 vine blights with 1d12 awakened shrubs                                                                         |
-| 33    | 1d4 swarms of ravens                                                                                               |
-| 34    | 1 faerie dragon (yellow or younger)                                                                                |
-| 35    | 1d4 + 2 giant badgers                                                                                              |
-| 36-40 | A young woodcutter (scout) racing through the forest to rescue a lost friend                                       |
-| 41    | 2d4 blink dogs                                                                                                     |
-| 42    | 1d8 + 1 sprites                                                                                                    |
-| 43    | 1d6 + 2 elk                                                                                                        |
-| 44    | 1d4 lizardfolk or 3d6 bandits                                                                                      |
-| 45    | 1d4 + 4 wolves                                                                                                     |
-| 46    | 2d4 giant wolf spiders                                                                                             |
-| 47    | 1 swarm of insects or 2d8 blood hawks                                                                              |
-| 48    | 1d6 + 2 pixies                                                                                                     |
-| 49    | 1 brown bear                                                                                                       |
-| 50    | 1d4 + 3 goblins                                                                                                    |
-| 51    | 1d3 dryads                                                                                                         |
-| 52    | 1 awakened tree                                                                                                    |
-| 53    | 1 phase spider                                                                                                     |
-| 54    | 1d6 harpies                                                                                                        |
-| 55    | 1 ettercap or 1d8 + 1 orcs                                                                                         |
-| 56    | 1 goblin boss with 2d6 + 1 goblins                                                                                 |
-| 57    | 1 ankheg                                                                                                           |
-| 58    | 1 giant constrictor snake                                                                                          |
-| 59    | 1d4 bugbears or 2d4 hobgoblins                                                                                     |
-| 60    | 1 pegasus                                                                                                          |
-| 61-65 | A stream of cool, clean water flowing between the trees                                                            |
-| 66    | 1d4 half-ogres or 1 ogre                                                                                           |
-| 67    | 1 faerie dragon (green or older)                                                                                   |
-| 68    | 1 werewolf or 1d8 + 1 worgs                                                                                        |
-| 69    | 1 druid harvesting mistletoe                                                                                       |
-| 70    | 1 will-o'-wisp                                                                                                     |
-| 71    | 1d4 dire wolves or 1 giant boar                                                                                    |
-| 72    | 1d10 giant wasps                                                                                                   |
-| 73    | 1 owlbear or 1 giant elk                                                                                           |
-| 74    | 2d6 gnolls                                                                                                         |
-| 75    | 1d6 giant toads                                                                                                    |
-| 76-80 | 1d6 web cocoons hanging from the branches, holding withered carcasses                                              |
-| 81    | 1 wereboar or 1d4 giant boars                                                                                      |
-| 82    | 1d6 + 2 giant spiders                                                                                              |
-| 83    | 1d4 centaurs or 1d4 giant elk                                                                                      |
-| 84    | 1 orc Eye of Gruumsh with 2d4 + 2 orcs                                                                             |
-| 85    | 1 gnoll fang of Yeenoghu                                                                                           |
-| 86    | 1d4 gricks                                                                                                         |
-| 87    | 1 bandit captain with 2d6 + 3 bandits                                                                              |
-| 88    | 1d4 wererats                                                                                                       |
-| 89    | 1 couatl (day) or 1 banshee (night)                                                                                |
-| 90    | 1 gnoll pack lord with 1d4 giant hyenas                                                                            |
-| 91    | 2d4 berserkers or 1d4 veterans                                                                                     |
-| 92    | 1 lizardfolk shaman with 1d3 swarms of poisonous snakes and 1d10 + 2 lizardfolk                                    |
-| 93    | 1d4 displacer beasts                                                                                               |
-| 94    | 1d3 green hags                                                                                                     |
-| 95    | 1 hobgoblin captain with 2d6 hobgoblins and 1d4 giant boars                                                        |
-| 96    | 1 yuan-ti malison with 1d6 + 1 yuan-ti purebloods                                                                  |
-| 97    | 1d3 weretigers                                                                                                     |
-| 98    | 1 gorgon or 1 unicorn                                                                                              |
-| 99    | 1 shambling mound                                                                                                  |
-| 00    | 1 yuan-ti abomination                                                                                              |
+| dice: 1d100 | Encounter                                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 01          | `encounter: 1: Giant Owl`                                                                                                 |
+| 02          | `encounter: 1d4: Cat`                                                                                                     |
+| 03          | `encounter: 2d4: Commoner` (woodcutters)                                                                                  |
+| 04          | `encounter: 1: Badger` or `encounter: 1d4: Poisonous Snakes`                                                              |
+| 05          | `encounter: 2d8: Baboon`                                                                                                  |
+| 06          | `encounter: 1d6 + 3: Hyena`                                                                                               |
+| 07          | `encounter: 1: Owl`                                                                                                       |
+| 08          | `encounter: 1: Pseudodragon`                                                                                              |
+| 09          | `encounter: 1: Panther`                                                                                                   |
+| 10          | `encounter: 1: Giant Poisonous Snake`                                                                                     |
+| 11          | `encounter: 1d6 + 2: Boar`                                                                                                |
+| 12          | `encounter: 1d4 + 1: Giant Lizard`                                                                                        |
+| 13          | `encounter: 1: Ape` or `encounter: 1: Tiger`                                                                              |
+| 14          | `encounter: 2d6: Tribal Warrior, 1d6: Mastiff`                                                                            |
+| 15          | `encounter: 1d6 + 2: Giant Bat` or `encounter: 3d6: Flying Snake`                                                         |
+| 16          | `encounter: 2d4: Scout, 1d6: Mastiff`                                                                                     |
+| 17          | `encounter: 1d8 + 1: Winged Kobold`                                                                                       |
+| 18          | `encounter: 1d3: Constrictor Snake`                                                                                       |
+| 19          | `encounter: 1d10 + 5: Giant Rat` or `encounter: 2d6 + 3: Giant Weasel`                                                    |
+| 20          | `encounter: 1d4 + 1: Needle Blight, 1d6 + 3: Twig Blight`                                                                 |
+| 21-25       | A lost, weeping child. If the characters take the child home, the parents reward them with `dice:1d3` potions of healing. |
+| 26          | `encounter: 1d8 + 1: Giant Frogs`                                                                                         |
+| 27          | `encounter: 4d4: Kobold`                                                                                                  |
+| 28          | `encounter: 1d3: Black Bear`                                                                                              |
+| 29          | `encounter: 3d6: Stirge`                                                                                                  |
+| 30          | `encounter: 1: Satyr`                                                                                                     |
+| 31          | `encounter: 2d4: Kenku`                                                                                                   |
+| 32          | `encounter: 1d3 Vine Blight, 1d12: Awakened Shrub`                                                                        |
+| 33          | `encounter: 1d4: Swarm of Ravens`                                                                                         |
+| 34          | `encounter: 1: Faerie Dragon` (yellow or younger)                                                                         |
+| 35          | `encounter: 1d4 + 2: Giant Badger`                                                                                        |
+| 36-40       | A young woodcutter (scout) racing through the forest to rescue a lost friend                                              |
+| 41          | `encounter: 2d4: Blink Dog`                                                                                               |
+| 42          | `encounter: 1d8 + 1: Sprite`                                                                                              |
+| 43          | `encounter: 1d6 + 2: Elk`                                                                                                 |
+| 44          | `encounter: 1d4: Lizardfolk` or `encounter: 3d6: Bandit`                                                                  |
+| 45          | `encounter: 1d4 + 4: Wolf`                                                                                                |
+| 46          | `encounter: 2d4: Giant Wolf Spider`                                                                                       |
+| 47          | `encounter: 1: Swarm of Insects` or `encounter: 2d8: Blood Hawk`                                                          |
+| 48          | `encounter: 1d6 + 2: Pixie`                                                                                               |
+| 49          | `encounter: 1: Brown Bear`                                                                                                |
+| 50          | `encounter: 1d4 + 3: Goblin`                                                                                              |
+| 51          | `encounter: 1d3: Dryad`                                                                                                   |
+| 52          | `encounter: 1: Awakened Tree`                                                                                             |
+| 53          | `encounter: 1: Phase Spider`                                                                                              |
+| 54          | `encounter: 1d6: Harpie`                                                                                                  |
+| 55          | 1 ettercap or 1d8 + 1 orcs                                                                                                |
+| 56          | 1 goblin boss with 2d6 + 1 goblins                                                                                        |
+| 57          | 1 ankheg                                                                                                                  |
+| 58          | 1 giant constrictor snake                                                                                                 |
+| 59          | 1d4 bugbears or 2d4 hobgoblins                                                                                            |
+| 60          | 1 pegasus                                                                                                                 |
+| 61-65       | A stream of cool, clean water flowing between the trees                                                                   |
+| 66          | 1d4 half-ogres or 1 ogre                                                                                                  |
+| 67          | 1 faerie dragon (green or older)                                                                                          |
+| 68          | 1 werewolf or 1d8 + 1 worgs                                                                                               |
+| 69          | 1 druid harvesting mistletoe                                                                                              |
+| 70          | 1 will-o'-wisp                                                                                                            |
+| 71          | 1d4 dire wolves or 1 giant boar                                                                                           |
+| 72          | 1d10 giant wasps                                                                                                          |
+| 73          | 1 owlbear or 1 giant elk                                                                                                  |
+| 74          | 2d6 gnolls                                                                                                                |
+| 75          | 1d6 giant toads                                                                                                           |
+| 76-80       | 1d6 web cocoons hanging from the branches, holding withered carcasses                                                     |
+| 81          | 1 wereboar or 1d4 giant boars                                                                                             |
+| 82          | 1d6 + 2 giant spiders                                                                                                     |
+| 83          | 1d4 centaurs or 1d4 giant elk                                                                                             |
+| 84          | 1 orc Eye of Gruumsh with 2d4 + 2 orcs                                                                                    |
+| 85          | 1 gnoll fang of Yeenoghu                                                                                                  |
+| 86          | 1d4 gricks                                                                                                                |
+| 87          | 1 bandit captain with 2d6 + 3 bandits                                                                                     |
+| 88          | 1d4 wererats                                                                                                              |
+| 89          | 1 couatl (day) or 1 banshee (night)                                                                                       |
+| 90          | 1 gnoll pack lord with 1d4 giant hyenas                                                                                   |
+| 91          | 2d4 berserkers or 1d4 veterans                                                                                            |
+| 92          | 1 lizardfolk shaman with 1d3 swarms of poisonous snakes and 1d10 + 2 lizardfolk                                           |
+| 93          | 1d4 displacer beasts                                                                                                      |
+| 94          | 1d3 green hags                                                                                                            |
+| 95          | 1 hobgoblin captain with 2d6 hobgoblins and 1d4 giant boars                                                               |
+| 96          | 1 yuan-ti malison with 1d6 + 1 yuan-ti purebloods                                                                         |
+| 97          | 1d3 weretigers                                                                                                            |
+| 98          | 1 gorgon or 1 unicorn                                                                                                     |
+| 99          | 1 shambling mound                                                                                                         |
+| 00          | 1 yuan-ti abomination                                                                                                     |
 ^encounter-forest-1-4
 
 | dice: 1d100  | Encounter                                                                                                                                   |
@@ -578,37 +578,37 @@ Tables taken from https://5e.tools/encountergen.html
 | 10-14 | A circle of standing stones within which the air is utterly still, no matter how hard the wind blows outside |
 | 15-16 | `encounter: 1: Phase Spider`                                                                                               |
 | 17-18 | `encounter: 1: Gnoll Pack Lord, 1d4: Giant Hyena`                                                                      |
-| 19-20 | `encounter1 pegasus                                                                                                    |
-| 21-22 | 1 ankheg                                                                                                     |
-| 23-24 | 1d3 rhinoceroses                                                                                             |
-| 25-28 | 1d3 cockatrices                                                                                              |
-| 29-32 | 1d6 + 2 giant wasps or 1d4 + 3 swarms of insects                                                             |
-| 33-36 | 1d4 jackalweres or 1d4 scouts                                                                                |
-| 37-40 | 1d8 giant goats or 1d8 worgs                                                                                 |
-| 41-44 | 2d4 hobgoblins, 2d4 orcs, or 2d4 gnolls                                                                      |
-| 45-46 | 1d2 giant poisonous snakes                                                                                   |
-| 47-48 | 1d6 + 2 elk or 1d6 + 2 riding horses                                                                         |
-| 49-50 | 2d4 goblins                                                                                                  |
-| 51-52 | 1d3 boars                                                                                                    |
-| 53-54 | 1 leopard (panther) 1 lion                                                                                   |
-| 55-58 | 1d6 + 3 goblins riding wolves                                                                                |
-| 59-62 | 2d6 giant wolf spiders or 1 giant eagle                                                                      |
-| 63-65 | 1d8 + 4 pteranodons                                                                                          |
-| 66-69 | 3d6 wolves                                                                                                   |
-| 70-74 | 2d4 + 2 axe beaks                                                                                            |
-| 75-76 | 1 giant boar or 1d2 tigers                                                                                   |
-| 77-78 | 1 ogre or 1d3 bugbears                                                                                       |
-| 79-80 | giant elk or 1 gnoll pack lord or 1d3 giant hyenas                                                           |
-| 81-82 | 1d3 giant vultures or 1d3 hippogriffs                                                                        |
-| 83-84 | 1 goblin boss with 1d6 + 2 goblins and 1d4 + 3 wolves, or 1d3 thri-kreen                                     |
-| 85-89 | 1d3 druids patrolling the wilds                                                                              |
-| 90-91 | 1d6 scarecrows or 1 wereboar                                                                                 |
-| 92-93 | 1d3 centaurs or 1d3 griffons                                                                                 |
-| 94    | 1d3 gnoll fangs of Yeenoghu, or 1 orc Eye of Gruumsh with 2d4 + 1 orcs                                       |
-| 95-96 | 1 triceratops                                                                                                |
-| 97    | 1 cyclops or 1 bulette                                                                                       |
-| 98-99 | 1d4 manticores                                                                                               |
-| 00    | 1 tyrannosaurus rex                                                                                          |
+| 19-20 | `encounter: 1: Pegasus`                                                                                                    |
+| 21-22 | `encounter: 1: Ankheg`                                                                                                     |
+| 23-24 | `encounter: 1d3: Rhinoceros`                                                                                             |
+| 25-28 | `encounter: 1d3: Cockatrice`                                                                                              |
+| 29-32 | `encounter: 1d6 + 2: Giant Wasp` or `encounter: 1d4 + 3: Swarm of Insects`                                                             |
+| 33-36 | `encounter: 1d4: Jackalwere` or `encounter: 1d4: Scouts`                                                                                |
+| 37-40 | `encounter: 1d8: Giant Goat` or `encounter: 1d8: Worg`                                                                                 |
+| 41-44 | `encounter: 2d4: Hobgoblin` or `encounter: 2d4: Orc` or `encounter: 2d4: Gnoll`                                                                      |
+| 45-46 | `encounter: 1d2: Giant Poisonous Snake`                                                                                   |
+| 47-48 | `encounter: 1d6 + 2: Elk` or `encounter: 1d6 + 2: Riding Horse`                                                                         |
+| 49-50 | `encounter: 2d4: Goblin`                                                                                                  |
+| 51-52 | `encounter: 1d3: Boar`                                                                                                    |
+| 53-54 | `encounter: 1: Leopard, 1: Lion`                                                                                   |
+| 55-58 | `encounter: 1d6 + 3: Goblin` (riding wolves)                                                                                |
+| 59-62 | `encounter: 2d6: Giant Wolf Spider` or `encounter: 1: Giant Eagle`                                                                      |
+| 63-65 | `encounter: 1d8 + 4: Pteranodon`                                                                                          |
+| 66-69 | `encounter: 3d6: Wolf`                                                                                                   |
+| 70-74 | `encounter: 2d4 + 2: Axe Beak`                                                                                            |
+| 75-76 | `encounter: 1: Giant Boar` or `encounter: 1d2: Tiger`                                                                                   |
+| 77-78 | `encounter: 1: Ogre` or `encounter: 1d3: Bugbear`                                                                                       |
+| 79-80 | `encounter: Giant Elk` or `encounter: 1: Gnoll Pack Lord` or `encounter: 1d3: Giant Hyena`                                                           |
+| 81-82 | `encounter: 1d3: Giant Vulture` or `encounter: 1d3: Hippogriff`                                                                        |
+| 83-84 | `encounter: 1: Goblin Boss, 1d6 + 2: Goblin, 1d4 + 3: Wolves` or `encounter: 1d3: Thri-kreen`                                     |
+| 85-89 | `encounter: 1d3: Druid` (patrolling the wilds)                                                                              |
+| 90-91 | `encounter: 1d6: Scarecrow` or `encounter: 1: Wereboar`                                                                                 |
+| 92-93 | `encounter: 1d3: Centaur` or `encounter: 1d3: Griffon`                                                                                 |
+| 94    | `encounter: 1d3: Gnoll Fangs of Yeenoghu` or `encounter: 1: Orc Eye of Gruumsh, 2d4 + 1: Orc`                                       |
+| 95-96 | `encounter: 1: Triceratops`                                                                                                |
+| 97    | `encounter: 1: Cyclops` or `encounter: 1: Bulette`                                                                                       |
+| 98-99 | `encounter: 1d4: Manticore`                                                                                               |
+| 00    | `encounter: 1: Tyrannosaurus Rex`                                                                                          |
 ^encounter-grassland-1-4
 
 | dice: 1d100  | Encounter                                                                                                                                                                       |
