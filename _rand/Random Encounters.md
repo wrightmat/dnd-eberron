@@ -567,18 +567,18 @@ Tables taken from https://5e.tools/encountergen.html
 
 | dice: 1d100  | Encounter                                                                                                    |
 |-------|--------------------------------------------------------------------------------------------------------------|
-| 01    | 1 hobgoblin captain with 1d4 + 1 hobgoblins                                                                  |
-| 02    | 1 chimera                                                                                                    |
-| 03    | 1 gorgon                                                                                                     |
-| 04    | 1d2 couatls                                                                                                  |
-| 05    | 1 ankylosaurus                                                                                               |
-| 06    | 1 weretiger                                                                                                  |
-| 07    | 1d3 allosauruses                                                                                             |
-| 08-09 | 1d3 elephants                                                                                                |
+| 01    | `encounter: 1: Hobgoblin Captain, 1d4 + 1: Hobgoblin`                                                                  |
+| 02    | `encounter: 1: Chimera`                                                                                                    |
+| 03    | `encounter: 1: Gorgon`                                                                                                     |
+| 04    | `encounter: 1d2: Couatl`                                                                                                  |
+| 05    | `encounter: 1: Ankylosaurus`                                                                                               |
+| 06    | `encounter: 1: Weretiger`                                                                                                  |
+| 07    | `encounter: 1d3: Allosaurus`                                                                                             |
+| 08-09 | `encounter: 1d3: Elephant`                                                                                                |
 | 10-14 | A circle of standing stones within which the air is utterly still, no matter how hard the wind blows outside |
-| 15-16 | 1 phase spider                                                                                               |
-| 17-18 | 1 gnoll pack lord with 1d4 giant hyenas                                                                      |
-| 19-20 | 1 pegasus                                                                                                    |
+| 15-16 | `encounter: 1: Phase Spider`                                                                                               |
+| 17-18 | `encounter: 1: Gnoll Pack Lord, 1d4: Giant Hyena`                                                                      |
+| 19-20 | `encounter1 pegasus                                                                                                    |
 | 21-22 | 1 ankheg                                                                                                     |
 | 23-24 | 1d3 rhinoceroses                                                                                             |
 | 25-28 | 1d3 cockatrices                                                                                              |
@@ -699,69 +699,69 @@ Tables taken from https://5e.tools/encountergen.html
 
 | dice: 1d100  | Encounter                                                                                    |
 |-------|----------------------------------------------------------------------------------------------|
-| 01    | 1 eagle                                                                                      |
-| 02-03 | 2d4 baboons                                                                                  |
-| 04-06 | 1d6 bandits                                                                                  |
-| 07    | 1d4 vultures                                                                                 |
-| 08    | 1d10 commoners                                                                               |
-| 09    | 1 raven                                                                                      |
-| 10    | 1 poisonous snake                                                                            |
-| 11-13 | 2d6 bandits 2d6 tribal warriors                                                              |
-| 14    | 2d8 goats                                                                                    |
-| 15    | 1d6 + 4 blood hawks                                                                          |
-| 16    | 1d4 + 3 giant weasels                                                                        |
-| 17-18 | 1d3 guards with 1d2 mastiffs and 1 mule                                                      |
-| 19-20 | 1d6 + 5 hyenas                                                                               |
-| 21-22 | 2d4 stirges                                                                                  |
+| 01    | `encounter: 1: Eagle`                                                                                      |
+| 02-03 | `encounter: 2d4: Baboon`                                                                                  |
+| 04-06 | `encounter: 1d6: Bandit`                                                                                  |
+| 07    | `encounter: 1d4: Vulture`                                                                                 |
+| 08    | `encounter: 1d10: Commoner`                                                                               |
+| 09    | `encounter: 1: Raven`                                                                                      |
+| 10    | `encounter: 1: Poisonous Snake`                                                                            |
+| 11-13 | `encounter: 2d6: Bandit, 2d6: Tribal Warrior`                                                              |
+| 14    | `encounter: 2d8: Goat`                                                                                    |
+| 15    | `encounter: 1d6 + 4: Blood Hawk`                                                                          |
+| 16    | `encounter: 1d4 + 3: Giant Weasel`                                                                        |
+| 17-18 | `encounter: 1d3: Guard, 1d2: Mastiff, 1: Mule`                                                      |
+| 19-20 | `encounter: 1d6 + 5: Hyena`                                                                               |
+| 21-22 | `encounter: 2d4: Stirge`                                                                                  |
 | 23-25 | An empty cave littered with bones                                                            |
-| 26    | 1 pseudodragon or 1d3 giant owls                                                             |
-| 27    | 1 lion or 1 cougar (panther)                                                                 |
-| 28-30 | 2d8 kobolds                                                                                  |
-| 31    | 1 hippogriff                                                                                 |
-| 32-34 | 2d4 goblins                                                                                  |
-| 35    | 1 worg                                                                                       |
-| 36    | 1d3 swarms of bats or 1d3 swarms of ravens                                                   |
-| 37    | 1 giant eagle                                                                                |
+| 26    | `encounter: 1: Pseudodragon` or `encounter: 1d3: Giant Owl`                                                             |
+| 27    | `encounter: 1: Lion` or `encounter: 1: Cougar` (panther)                                                                 |
+| 28-30 | `encounter: 2d8: Kobold`                                                                                  |
+| 31    | `encounter: 1: Hippogriff`                                                                                 |
+| 32-34 | `encounter: 2d4: Goblin`                                                                                  |
+| 35    | `encounter: 1: Worg`                                                                                       |
+| 36    | `encounter: 1d3: Swarm of Bats` or `encounter: 1d3: Swarm of Ravens`                                                   |
+| 37    | `encounter: 1: Giant Eagle`                                                                                |
 | 38-40 | An old dwarf sitting on a stump, whittling a piece of wood                                   |
-| 41    | 1d4 elk                                                                                      |
-| 42    | 1d4 winged kobolds with 1d6 kobolds                                                          |
-| 43    | 1d6 + 2 giant wolf spiders                                                                   |
-| 44-45 | 2d4 wolves                                                                                   |
-| 46    | 1 swarm of insects                                                                           |
-| 47    | 1d8 + 1 axe beaks                                                                            |
-| 48-49 | 1 brown bear or 1d3 boars                                                                    |
-| 50    | 1 scout                                                                                      |
-| 51    | 1 ogre                                                                                       |
-| 52-53 | 2d4 gnolls                                                                                   |
-| 54    | 1 giant elk                                                                                  |
-| 55    | 1d3 + 1 harpies                                                                              |
-| 56    | 1 werewolf                                                                                   |
-| 57-58 | 2d4 orcs                                                                                     |
-| 59    | 1d4 half-ogres                                                                               |
-| 60    | 1 druid or 1 veteran                                                                         |
+| 41    | `encounter: 1d4: Elk`                                                                                      |
+| 42    | `encounter: 1d4: Winged Kobold, 1d6: Kobold`                                                          |
+| 43    | `encounter: 1d6 + 2: Giant Wolf Spider`                                                                   |
+| 44-45 | `encounter: 2d4: Wolf`                                                                                   |
+| 46    | `encounter: 1: Swarm of Insects`                                                                           |
+| 47    | `encounter: 1d8 + 1: Axe Beak`                                                                            |
+| 48-49 | `encounter: 1: Brown Bear` or `encounter: 1d3: Boar`                                                                    |
+| 50    | `encounter: 1: Scout`                                                                                      |
+| 51    | `encounter: 1: Ogre`                                                                                       |
+| 52-53 | `encounter: 2d4: Gnoll`                                                                                   |
+| 54    | `encounter: 1: Giant Elk`                                                                                  |
+| 55    | `encounter: 1d3 + 1: Harpy`                                                                              |
+| 56    | `encounter: 1: Werewolf`                                                                                   |
+| 57-58 | `encounter: 2d4: Orc`                                                                                     |
+| 59    | `encounter: 1d4: Half-ogre`                                                                               |
+| 60    | `encounter: 1: Druid` or `encounter: 1: Veteran`                                                                         |
 | 61-63 | The corpse of an adventurer that carries an intact explorer's pack and lies atop a longsword |
-| 64    | 1 green hag                                                                                  |
-| 65-66 | 1d3 dire wolves                                                                              |
-| 67-68 | A small cemetery containing 2d6 graves                                                       |
-| 69-70 | 1 hobgoblin captain with 2d4 hobgoblins                                                      |
-| 71    | 2d4 giant goats                                                                              |
-| 72    | 1 manticore                                                                                  |
-| 73-74 | 1d6 + 2 hobgoblins                                                                           |
-| 75    | 1 phase spider                                                                               |
+| 64    | `encounter: 1: Green Hag`                                                                                  |
+| 65-66 | `encounter: 1d3: Dire Wolf`                                                                              |
+| 67-68 | A small cemetery containing `dice:2d6` graves                                                       |
+| 69-70 | `encounter: 1: Hobgoblin Captain, 2d4: Hobgoblin`                                                      |
+| 71    | `encounter: 2d4: Giant Goat`                                                                              |
+| 72    | `encounter: 1: Manticore`                                                                                  |
+| 73-74 | `encounter: 1d6 + 2: Hobgoblin`                                                                           |
+| 75    | `encounter: 1: Phase Spider`                                                                               |
 | 76-78 | A pile of droppings from a very large bird                                                   |
-| 79    | 1 gnoll fang of Yeenoghu                                                                     |
-| 80    | 1d3 giant boars                                                                              |
-| 81    | 1 gnoll pack lord with 1d3 giant hyenas                                                      |
-| 82    | 1 bandit captain with 2d4 bandits                                                            |
-| 83    | 1 orc Eye of Gruumsh with 1d8 + 2 orcs                                                       |
-| 84    | 1d3 orogs or 1d4 berserkers                                                                  |
-| 85-86 | 1 ettin or 1 wereboar                                                                        |
-| 87-88 | 1 goblin boss with 2d6 goblins                                                               |
-| 89    | 1d3 griffons                                                                                 |
-| 90    | 1d3 perytons or 1d4 pegasi                                                                   |
-| 91-96 | 1d3 trolls                                                                                   |
-| 97-99 | 1 cyclops                                                                                    |
-| 00    | 1 stone giant                                                                                |
+| 79    | `encounter: 1: Gnoll Fang of Yeenoghu`                                                                     |
+| 80    | `encounter: 1d3: Giant Boar`                                                                              |
+| 81    | `encounter: 1: Gnoll Pack Lord, 1d3: Giant Hyena`                                                      |
+| 82    | `encounter: 1: Bandit Captain, 2d4: Bandit`                                                            |
+| 83    | `encounter: 1: Orc Eye of Gruumsh, 1d8 + 2: Orc`                                                       |
+| 84    | `encounter: 1d3: Orog` or `encounter: 1d4: Berserker`                                                                  |
+| 85-86 | `encounter: 1: Ettin` or `encounter: 1: Wereboar`                                                                        |
+| 87-88 | `encounter: 1: Goblin Boss, 2d6: Goblin`                                                               |
+| 89    | `encounter: 1d3: Griffon`                                                                                 |
+| 90    | `encounter: 1d3: Peryton` or `encounter: 1d4: Pegasus`                                                                   |
+| 91-96 | `encounter: 1d3: Troll`                                                                                   |
+| 97-99 | `encounter: 1: Cyclops`                                                                                    |
+| 00    | `encounter: 1: Stone Giant`                                                                                |
 ^encounter-hill-1-4
 
 | dice: 1d100  | Encounter                                                                                                       |
@@ -850,52 +850,52 @@ Tables taken from https://5e.tools/encountergen.html
 
 | dice: 1d100  | Encounter                                                                                      |
 |-------|------------------------------------------------------------------------------------------------|
-| 01-02 | 1 eagle                                                                                        |
-| 03-05 | 1d3 swarms of bats                                                                             |
-| 06-08 | 1d6 goats                                                                                      |
-| 09-11 | 1d10 + 5 tribal warriors                                                                       |
-| 12-14 | 1d6 + 3 pteranodons                                                                            |
-| 15-17 | 1d8 + 1 winged kobolds                                                                         |
-| 18-20 | 1 lion                                                                                         |
-| 21-24 | Stairs chiseled into the side of the mountain that climb 3d20 + 40 feet before ending abruptly |
-| 25-27 | 2d10 stirges                                                                                   |
-| 28-30 | 2d4 aarakocra                                                                                  |
-| 31-33 | 2d6 dwarf soldiers (guards) with 1d6 mules laden with iron ore                                 |
-| 34-36 | 1 giant eagle                                                                                  |
+| 01-02 | `encounter: 1: Eagle`                                                                                        |
+| 03-05 | `encounter: 1d3: Swarm of Bats`                                                                             |
+| 06-08 | `encounter: 1d6: Goat`                                                                                      |
+| 09-11 | `encounter: 1d10 + 5: Tribal Warrior`                                                                       |
+| 12-14 | `encounter: 1d6 + 3: Pteranodon`                                                                            |
+| 15-17 | `encounter: 1d8 + 1: Winged Kobold`                                                                         |
+| 18-20 | `encounter: 1: Lion`                                                                                         |
+| 21-24 | Stairs chiseled into the side of the mountain that climb `dice:3d20 + 40` feet before ending abruptly |
+| 25-27 | `encounter: 2d10: Stirge`                                                                                   |
+| 28-30 | `encounter: 2d4: Aarakocra`                                                                                  |
+| 31-33 | `encounter: 2d6: Guard, 1d6: Mule` (laden with iron ore)                                 |
+| 34-36 | `encounter: 1: Giant Eagle`                                                                                  |
 | 37-38 | A small shrine dedicated to a lawful neutral god, perched on a stone outcropping               |
-| 39-41 | 2d8 + 1 blood hawks                                                                            |
-| 42-44 | 1 giant goat                                                                                   |
-| 45-47 | 3d4 kobolds                                                                                    |
-| 48-50 | 1 half-ogre                                                                                    |
-| 51-53 | 1 berserker                                                                                    |
-| 54-55 | 1 orog                                                                                         |
-| 56    | 1 hell hound                                                                                   |
-| 57    | 1 druid                                                                                        |
-| 58-59 | 1 peryton                                                                                      |
-| 60-61 | 1d2 hippogriffs                                                                                |
-| 62    | 1 manticore                                                                                    |
-| 63-64 | 1d6 + 2 scouts                                                                                 |
+| 39-41 | `encounter: 2d8 + 1: Blood Hawk`                                                                            |
+| 42-44 | `encounter: 1: Giant Goat`                                                                                   |
+| 45-47 | `encounter: 3d4: Kobold`                                                                                    |
+| 48-50 | `encounter: 1: Half-ogre`                                                                                    |
+| 51-53 | `encounter: 1: Berserker`                                                                                    |
+| 54-55 | `encounter: 1: Prog`                                                                                         |
+| 56    | `encounter: 1: Hell Hound`                                                                                   |
+| 57    | `encounter: 1: Druid`                                                                                        |
+| 58-59 | `encounter: 1: Peryton`                                                                                      |
+| 60-61 | `encounter: 1d2: Hippogriff`                                                                                |
+| 62    | `encounter: 1: Manticore`                                                                                    |
+| 63-64 | `encounter: 1d6 + 2: Scout`                                                                                 |
 | 65-67 | Enormous footprints left by a giant, which head into the mountain peaks                        |
-| 68-73 | 2d4 orcs                                                                                       |
-| 74-75 | 1 giant elk                                                                                    |
-| 76-77 | 1 veteran                                                                                      |
-| 78-79 | 1 orc Eye of Gruumsh                                                                           |
-| 80    | 1d4 harpies                                                                                    |
-| 81    | 1 ogre                                                                                         |
-| 82    | 1 griffon                                                                                      |
-| 83    | 1 basilisk                                                                                     |
-| 84-85 | 1 saber-toothed tiger                                                                          |
+| 68-73 | `encounter: 2d4: Orc`                                                                                       |
+| 74-75 | `encounter: 1: Giant Elk`                                                                                    |
+| 76-77 | `encounter: 1: Veteran`                                                                                      |
+| 78-79 | `encounter: 1: Orc Eye of Gruumsh`                                                                           |
+| 80    | `encounter: 1d4: Harpy`                                                                                    |
+| 81    | `encounter: 1: Ogre`                                                                                         |
+| 82    | `encounter: 1: Griffon`                                                                                      |
+| 83    | `encounter: 1: Basilisk`                                                                                     |
+| 84-85 | `encounter: 1: Saber-toothed Tiger`                                                                          |
 | 86-90 | A sparkling stream of water spilling from a crevice                                            |
-| 91    | 1d2 ettins                                                                                     |
-| 92    | 1 cyclops                                                                                      |
-| 93    | 1 troll                                                                                        |
-| 94    | 1 galeb duhr                                                                                   |
-| 95    | 1 air elemental                                                                                |
-| 96    | 1 bulette                                                                                      |
-| 97    | 1 chimera                                                                                      |
-| 98    | 1 wyvern                                                                                       |
-| 99    | 1 stone giant                                                                                  |
-| 00    | 1 frost giant                                                                                  |
+| 91    | `encounter: 1d2: Ettin`                                                                                     |
+| 92    | `encounter: 1: Cyclops`                                                                                      |
+| 93    | `encounter: 1: Troll`                                                                                        |
+| 94    | `encounter: 1: Galeb Duhr`                                                                                   |
+| 95    | `encounter: 1: Air Elemental`                                                                                |
+| 96    | `encounter: 1: Bulette`                                                                                      |
+| 97    | `encounter: 1: Chimera`                                                                                      |
+| 98    | `encounter: 1: Wyvern`                                                                                       |
+| 99    | `encounter: 1: Stone Giant`                                                                                  |
+| 00    | `encounter: 1: Frost Giant`                                                                                  |
 ^encounter-mountain-1-4
 
 | dice: 1d100  | Encounter                                                                                            |
@@ -979,43 +979,43 @@ Tables taken from https://5e.tools/encountergen.html
 | 18-19 | `encounter: 1: Swarm of Insects`                                                                                                                                  |
 | 20    | `encounter: 1: Giant Spider`                                                                                                                                      |
 | 21-22 | `dice: 1d4 + 1` mud huts partially sunken in murky water                                                                                                    |
-| 23-25 | 2d8 + 1 kobolds                                                                                                                                     |
-| 26    | 2d4 mud mephits                                                                                                                                     |
-| 27-29 | 1d6 + 2 giant poisonous snakes                                                                                                                      |
-| 30    | 2d4 winged kobolds                                                                                                                                  |
-| 31-32 | 1 scout                                                                                                                                             |
+| 23-25 | `encounter: 2d8 + 1: Kobold`                                                                                                                                     |
+| 26    | `encounter: 2d4: Mud Mephit`                                                                                                                                     |
+| 27-29 | `encounter: 1d6 + 2: Giant Poisonous Snake`                                                                                                                      |
+| 30    | `encounter: 2d4: Winged Kobold`                                                                                                                                  |
+| 31-32 | `encounter: 1: Scout`                                                                                                                                             |
 | 33-34 | The corpse of an adventurer tangled in the weeds. Looting the body turns up an explorer's pack and perhaps (50% chance) a random common magic item. |
-| 35-38 | 1 giant toad                                                                                                                                        |
-| 39-41 | 1d6 + 2 constrictor snakes                                                                                                                          |
-| 42-44 | 2d4 giant frogs                                                                                                                                     |
-| 45    | 1d8 + 1 swarms of rats or 1d6 + 2 swarms of ravens                                                                                                  |
-| 46-48 | 2d10 stirges                                                                                                                                        |
-| 49-52 | 2d6 + 3 bullywugs                                                                                                                                   |
-| 53-54 | 1d8 + 1 orcs                                                                                                                                        |
-| 55-56 | 1d4 yuan-ti purebloods                                                                                                                              |
-| 57    | 1 druid                                                                                                                                             |
-| 58-59 | 1 yuan-ti malison: type 1, type 2, type 3                                                                                                           |
-| 60-62 | 1 giant constrictor snake                                                                                                                           |
-| 63-64 | A high-pitched shriek that lasts for 1d4 minutes                                                                                                    |
-| 65-67 | 2d4 lizardfolk                                                                                                                                      |
-| 68-69 | 1d4 ghouls                                                                                                                                          |
-| 70-71 | 1 will-o'-wisp                                                                                                                                      |
-| 72    | 1 wight                                                                                                                                             |
-| 73    | 1 ghast                                                                                                                                             |
-| 74-75 | 1 swarm of poisonous snakes                                                                                                                         |
+| 35-38 | `encounter: 1: Giant Toad`                                                                                                                                        |
+| 39-41 | `encounter: 1d6 + 2: Constrictor Snake`                                                                                                                          |
+| 42-44 | `encounter: 2d4: Giant Frog`                                                                                                                                     |
+| 45    | `encounter: 1d8 + 1: Swarm of Rats` or `encounter: 1d6 + 2: Swarm of Ravens`                                                                                                  |
+| 46-48 | `encounter: 2d10: Stirge`                                                                                                                                        |
+| 49-52 | `encounter: 2d6 + 3: Bullywug`                                                                                                                                   |
+| 53-54 | `encounter: 1d8 + 1: Orc`                                                                                                                                        |
+| 55-56 | `encounter: 1d4: Yuan-ti Pureblood`                                                                                                                              |
+| 57    | `encounter: 1: Druid`                                                                                                                                             |
+| 58-59 | `encounter: 1: Yuan-ti Malison`                                                                                                           |
+| 60-62 | `encounter: 1: Giant Constrictor Snake`                                                                                                                           |
+| 63-64 | A high-pitched shriek that lasts for `dice:1d4` minutes                                                                                                    |
+| 65-67 | `encounter: 2d4: Lizardfolk`                                                                                                                                      |
+| 68-69 | `encounter: 1d4: Ghoul`                                                                                                                                          |
+| 70-71 | `encounter: 1: Will-o'-wisp`                                                                                                                                      |
+| 72    | `encounter: 1: Wight`                                                                                                                                             |
+| 73    | `encounter: 1: Ghast`                                                                                                                                             |
+| 74-75 | `encounter: 1: Swarm of Poisonous Snakes`                                                                                                                         |
 | 76-77 | A foul stench bubbling up from brackish waters                                                                                                      |
-| 78-80 | 1d4 + 2 ogres                                                                                                                                       |
-| 81-83 | 1 shambling mound                                                                                                                                   |
-| 84-86 | 1 lizardfolk shaman with 1d6 giant lizards and 2d10 lizardfolk                                                                                      |
-| 87    | 1 troll                                                                                                                                             |
-| 88-89 | 1d4 green hags                                                                                                                                      |
-| 90-91 | 1 revenant                                                                                                                                          |
-| 92-93 | 1 giant crocodile                                                                                                                                   |
-| 94-95 | 1 orc Eye of Gruumsh with 1d3 orogs and 2d6 + 3 orcs                                                                                                |
-| 96-97 | 1 young black dragon                                                                                                                                |
-| 98    | 1 yuan-ti abomination                                                                                                                               |
-| 99    | 1d4 water elementals                                                                                                                                |
-| 00    | 1 hydra                                                                                                                                             |
+| 78-80 | `encounter: 1d4 + 2: Ogre`                                                                                                                                       |
+| 81-83 | `encounter: 1: Shambling Mound`                                                                                                                                   |
+| 84-86 | `encounter: 1: Lizardfolk Shaman, 1d6: Giant Lizard, 2d10: Lizardfolk`                                                                                      |
+| 87    | `encounter: 1: Troll`                                                                                                                                             |
+| 88-89 | `encounter: 1d4: Green Hag`                                                                                                                                      |
+| 90-91 | `encounter: 1: Revenant`                                                                                                                                          |
+| 92-93 | `encounter: 1: Giant Crocodile`                                                                                                                                   |
+| 94-95 | `encounter: 1: Orc Eye of Gruumsh, 1d3: Orog, 2d6 + 3: Orc`                                                                                                |
+| 96-97 | `encounter: 1: Young Black Dragon`                                                                                                                                |
+| 98    | `encounter: 1: Yuan-ti Abomination`                                                                                                                               |
+| 99    | `encounter: 1d4: Water Elemental`                                                                                                                                |
+| 00    | `encounter: 1: Hydra`                                                                                                                                             |
 ^encounter-swamp-1-4
 
 | dice: 1d100  | Encounter                                                                                                                          |
