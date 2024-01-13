@@ -1,13 +1,13 @@
 ---
-MilesPerHour: 30
+MilesPerHour: 12
 SpeedMultiplier: 1
 HoursPerDay: 24
 TravelDistance: 1200
 Environment: grassland
-CostPer15Miles: 6
+CostPer15Miles: 0.5
 PeopleTraveling: 5
 PartyLevel: 11-16
-EncounterProbability: 20
+EncounterProbability: 18
 ---
  #generator 
 
@@ -19,7 +19,6 @@ Updating the calculator below will flow the changes out to any notes that automa
 | ---- | ---- | ---- |
 | **Travel Means:** | `INPUT[inlineSelect(option(3, On Foot), option(6, By Horse), option(7, By Magebred Coach), option(10, By Sailing Ship), option(12, By Elemental Galleon), option(20, By Airship), option(30, By Lightning Rail)):MilesPerHour]` | Max Travel Hours Per Day: `VIEW[{MilesPerHour}>=10 ? 24 : 8]` |
 | **Travel Pace:** | `INPUT[inlineSelect(option(1.25, Fast), option(1, Normal), option(0.75, Slow)):SpeedMultiplier]` | `VIEW[{SpeedMultiplier}>1 ? "-5 penalty to passive Wisdom (Perception) scores" : {SpeedMultiplier}<1 ? "Able to use stealth" : ""]` |
-| **Environment:** | `INPUT[inlineSelect(option(arctic, Arctic), option(coastal, Coastal), option(desert, Desert), option(forest, Forest), option(grassland, Grassland), option(hill, Hill), option(mountain, Mountain), option(openwater, Open Water), option(swamp, Swamp), option(underdark, Underdark), option(underwater, Underwater), option(urban, Urban)):Environment]` |  |
 | **Travel Hours Per Day:** | `INPUT[number:HoursPerDay]` | `VIEW[{HoursPerDay}>({MilesPerHour}>=10 ? 24 : 8) ? "DC (10 + 1 for each hour past 8) Constitution saving throw at the end of each hour to avoid exhaustion" : ""]` |
 | **Miles To Travel:** | `INPUT[number:TravelDistance]` |  |
 | **Distance Travelled Per Day:** | `VIEW[round({MilesPerHour}*{HoursPerDay},1)]` miles | Miles Per Hour: `VIEW[{MilesPerHour}*{SpeedMultiplier}]` |
@@ -38,7 +37,7 @@ Updating the calculator below will flow the changes out to any notes that automa
 
 |  |  |
 | ---- | ---- |
-| **Environment**: | `INPUT[inlineSelect(option(arctic, Arctic), option(coastal, Coastal), option(desert, Desert), option(forest, Forest), option(grassland, Grassland), option(hill, Hill), option(mountain, Mountain), option(openwater, Open Water), option(swamp, Swamp), option(underdark, Underdark), option(underwater, Underwater), option(urban, Urban)):Environment]` |
+| **Environment**: | `INPUT[inlineSelect(option(arctic, Arctic), option(coastal, Coastal), option(desert, Desert), option(forest, Forest), option(grassland, Grassland), option(hill, Hill), option(mountain, Mountain), option(swamp, Swamp), option(underdark, Underdark), option(underwater, Underwater), option(urban, Urban)):Environment]` |
 | **Party Level:** | `INPUT[inlineSelect(option(1-4, 1 to 4), option(5-10, 5 to 10), option(11-16, 11 to 16), option(17-20, 17 to 20)):PartyLevel]` |
 | **Travel Situation:** | `INPUT[inlineSelect(option(20, Safe route- low danger environment), option(18, Safe route- higher danger environment), option(15, Mildly dangerous route), option(11, Dangerous route)):EncounterProbability]` |
 ```dataviewjs

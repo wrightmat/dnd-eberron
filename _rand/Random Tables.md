@@ -562,17 +562,660 @@
 ### Encounters
 Tables taken from https://5e.tools/encountergen.html
 
+#### Arctic
+
+| dice: 1d100  | Encounter                                                                                   |
+|-------|---------------------------------------------------------------------------------------------|
+| 01    | 1 giant owl                                                                                 |
+| 02-05 | 1d6 + 3 kobolds                                                                             |
+| 06-08 | 1d4 + 3 trappers (commoners)                                                                |
+| 09-10 | 1 owl                                                                                       |
+| 11-12 | 2d4 blood hawks                                                                             |
+| 13-17 | 2d6 bandits                                                                                 |
+| 18-20 | 1d3 winged kobolds with 1d6 kobolds                                                         |
+| 21-25 | The partially eaten carcass of a mammoth, from which 1d4 weeks of rations can be harvested. |
+| 26-29 | 2d8 hunters tribal warriors                                                                 |
+| 30-35 | 1 half-ogre                                                                                 |
+| 36-40 | Single-file tracks in the snow that stop abruptly                                           |
+| 41-45 | 1d3 ice mephits                                                                             |
+| 46-50 | 1 brown bear                                                                                |
+| 51-53 | 1d6 + 1 orcs                                                                                |
+| 54-55 | 1 polar bear                                                                                |
+| 56-57 | 1d6 scouts                                                                                  |
+| 58-60 | 1 saber-toothed tiger                                                                       |
+| 61-65 | A frozen pond with a jagged hole in the ice that appears recently made                      |
+| 66-68 | 1 berserker                                                                                 |
+| 69-70 | 1 ogre                                                                                      |
+| 71-72 | 1 griffon                                                                                   |
+| 73-75 | 1 druid                                                                                     |
+| 76-80 | 3d4 refugees (commoners) fleeing from orcs                                                  |
+| 81    | 1d3 veterans                                                                                |
+| 82    | 1d4 orogs                                                                                   |
+| 83    | 2 brown bears                                                                               |
+| 84    | 1 orc Eye of Gruumsh and 2d8 orcs                                                           |
+| 85    | 1d3 winter wolves                                                                           |
+| 86-87 | 1d4 yetis                                                                                   |
+| 88    | 1 half-ogre                                                                                 |
+| 89    | 1d3 manticores                                                                              |
+| 90    | 1 bandit captain with 2d6 bandits                                                           |
+| 91    | 1 revenant                                                                                  |
+| 92-93 | 1 troll                                                                                     |
+| 94-95 | 1 werebear                                                                                  |
+| 96-97 | 1 young remorhaz                                                                            |
+| 98    | 1 mammoth                                                                                   |
+| 99    | 1 young white dragon                                                                        |
+| 00    | 1 frost giant                                                                               |
+^encounter-arctic-1-4
+
+| dice: 1d100  | Encounter                                                                                                                  |
+|-------|----------------------------------------------------------------------------------------------------------------------------|
+| 01-05 | 2 saber-toothed tigers                                                                                                     |
+| 06-07 | 1d4 half-ogres                                                                                                             |
+| 08-10 | 1d3 + 1 brown bears                                                                                                        |
+| 11-15 | 1d3 polar bears                                                                                                            |
+| 16-20 | 2d4 berserkers                                                                                                             |
+| 21-25 | A half-orc druid tending to an injured polar bear. If the characters assist the druid, she gives them a vial of antitoxin. |
+| 26-30 | 2d8 scouts                                                                                                                 |
+| 31-35 | 2d4 ice mephits                                                                                                            |
+| 36-40 | 2d6 + 1 zombies aboard a galleon trapped in the ice. Searching the ship yields 2d20 days of rations.                       |
+| 41-45 | 1 manticore                                                                                                                |
+| 46-50 | 2d6 + 3 orcs                                                                                                               |
+| 51-53 | 1d6 + 2 ogres                                                                                                              |
+| 54-55 | 2d4 griffons                                                                                                               |
+| 56-57 | 1d4 veterans                                                                                                               |
+| 58-60 | 1 bandit captain with 1 druid, 1d3 berserkers, and 2d10 + 5 bandits                                                        |
+| 61-65 | 1d4 hours of extreme cold (see chapter 5 of the Dungeon Master's Guide)                                                    |
+| 66-68 | 1 young remorhaz                                                                                                           |
+| 69-72 | 1 orc Eye of Gruumsh with 1d6 orogs and 2d8 + 6 orcs                                                                       |
+| 73-75 | 1 revenant                                                                                                                 |
+| 76-80 | A howl that echoes over the land for 1d3 minutes                                                                           |
+| 81-82 | 1d3 mammoths                                                                                                               |
+| 83-84 | 1 young white dragon                                                                                                       |
+| 85-86 | 2d4 winter wolves                                                                                                          |
+| 87-88 | 1d6 + 2 yetis                                                                                                              |
+| 89-90 | 1d2 frost giants                                                                                                           |
+| 91-92 | 1d3 werebears                                                                                                              |
+| 93-94 | 1d4 trolls                                                                                                                 |
+| 95-96 | 1 abominable yeti                                                                                                          |
+| 97-98 | 1 remorhaz                                                                                                                 |
+| 99    | 1 roc                                                                                                                      |
+| 00    | 2d4 young remorhazes                                                                                                       |
+^encounter-arctic-5-10
+
+| dice: 1d100  | Encounter                                                                           |
+|-------|-------------------------------------------------------------------------------------|
+| 01    | 1 abominable yeti                                                                   |
+| 02-04 | 1d6 revenants                                                                       |
+| 05-10 | 1d4 + 1 werebears                                                                   |
+| 11-20 | 1d3 young white dragons                                                             |
+| 21-25 | A blizzard that reduces visibility to 5 feet for 1d6 hours                          |
+| 26-35 | 1 roc                                                                               |
+| 36-40 | A herd of 3d20 + 60 caribou (deer) moving through the snow                          |
+| 41-50 | 1d4 mammoths                                                                        |
+| 51-60 | 1d8 + 1 trolls                                                                      |
+| 61-65 | A mile-wide frozen lake in which preserved corpses of strange creatures can be seen |
+| 66-75 | 2d4 young remorhazes                                                                |
+| 76-80 | A crumbling ice castle littered with the frozen bodies of blue-skinned humanoids    |
+| 81-90 | 1 adult white dragon                                                                |
+| 91-96 | 1d8 + 1 frost giants                                                                |
+| 97-99 | 1d4 remorhazes                                                                      |
+| 00    | 1 ancient white dragon                                                              |
+^encounter-arctic-11-16
+
+#### Coastal
+
+| dice: 1d100  | Encounter                                                                                                                                                                   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01    | 1 pseudodragon                                                                                                                                                              |
+| 02-05 | 2d8 crabs                                                                                                                                                                   |
+| 06-10 | 2d6 fishers (commoners)                                                                                                                                                     |
+| 11    | 1d3 poisonous snakes                                                                                                                                                        |
+| 12-13 | 1d6 guards protecting a standard noble                                                                                                                                      |
+| 14-15 | 2d4 scouts                                                                                                                                                                  |
+| 16-18 | 2d10 merfolk                                                                                                                                                                |
+| 19-20 | 1d6 + 2 sahuagin                                                                                                                                                            |
+| 21-25 | 1d4 ghouls feeding on corpses aboard the wreckage of a merchant ship. A search uncovers 2d6 bolts of ruined silk, a 50-foot length of rope. and a barrel of salted herring. |
+| 26-27 | 1d4 winged kobolds with 1d6 + 1 kobolds                                                                                                                                     |
+| 28-29 | 2d6 tribal warriors                                                                                                                                                         |
+| 30-31 | 3d4 kobolds                                                                                                                                                                 |
+| 32-33 | 2d4 + 5 blood hawks                                                                                                                                                         |
+| 34-35 | 1d8 + 1 pteranodons                                                                                                                                                         |
+| 36-40 | A few dozen baby turtles struggling to make their way to the sea                                                                                                            |
+| 41-42 | 1d6 + 2 giant lizards                                                                                                                                                       |
+| 43-44 | 1d6 + 4 giant crabs                                                                                                                                                         |
+| 45-46 | 2d4 stirges                                                                                                                                                                 |
+| 47-48 | 2d6 + 3 bandits                                                                                                                                                             |
+| 49-53 | 2d4 sahuagin                                                                                                                                                                |
+| 54-55 | 1d6 + 2 scouts                                                                                                                                                              |
+| 56-60 | 1 sea hag                                                                                                                                                                   |
+| 61-65 | A momentary formation in the waves that looks like an enormous humanoid face                                                                                                |
+| 66-70 | 1 druid                                                                                                                                                                     |
+| 71-75 | 1d4 harpies                                                                                                                                                                 |
+| 76-80 | A lone hermit (acolyte) sitting on the beach contemplating the meaning of the multiverse                                                                                    |
+| 81    | 1d4 berserkers                                                                                                                                                              |
+| 82    | 1d6 giant eagles                                                                                                                                                            |
+| 83    | 2d4 giant toads                                                                                                                                                             |
+| 84    | 1d4 ogres or 1d4 merrow                                                                                                                                                     |
+| 85    | 3d6 sahuagin                                                                                                                                                                |
+| 86    | 1d4 veterans                                                                                                                                                                |
+| 87    | 1d2 plesiosauruses                                                                                                                                                          |
+| 88    | 1 bandit captain with 2d6 bandits                                                                                                                                           |
+| 89    | 1d3 manticores                                                                                                                                                              |
+| 90    | 1 banshee                                                                                                                                                                   |
+| 91-92 | 1d4 + 3 griffons                                                                                                                                                            |
+| 93-94 | 1 sahuagin priestess with 1d3 merrow and 2d6 sahuagin                                                                                                                       |
+| 95-96 | 1 sahuagin baron                                                                                                                                                            |
+| 97-98 | 1 water elemental                                                                                                                                                           |
+| 99    | 1 cyclops                                                                                                                                                                   |
+| 00    | 1 young bronze dragon                                                                                                                                                       |
+^encounter-coastal-1-4
+
+| dice: 1d100  | Encounter                                                                                                                |
+|-------|--------------------------------------------------------------------------------------------------------------------------|
+| 01    | 2d8 giant wolf spiders                                                                                                   |
+| 02-03 | 3d6 pteranodons                                                                                                          |
+| 04-05 | 2d4 scouts                                                                                                               |
+| 06-07 | 1d6 + 2 sahuagin                                                                                                         |
+| 08    | 1 sea hag                                                                                                                |
+| 09-10 | 1d4 + 1 giant toads                                                                                                      |
+| 11-15 | 3d6 sahuagin                                                                                                             |
+| 16-20 | 2d6 giant eagles                                                                                                         |
+| 21-25 | A pseudodragon chasing gulls through the air                                                                             |
+| 26-29 | 1d2 druids                                                                                                               |
+| 30-32 | 2d4 + 1 giant toads                                                                                                      |
+| 33-35 | 1 commoner singing a dirge (day only) or 1 banshee (night only)                                                          |
+| 36-40 | A stoppered bottle containing an illegible note and half buried in the sand                                              |
+| 41-43 | 3 sea hags                                                                                                               |
+| 44-46 | 1d8 + 1 harpies                                                                                                          |
+| 47-50 | 1d4 plesiosauruses                                                                                                       |
+| 51-53 | 1d4 manticores                                                                                                           |
+| 54-56 | 2d4 ogres                                                                                                                |
+| 57-60 | 1d10 griffons                                                                                                            |
+| 61-65 | A battle at sea between two galleons                                                                                     |
+| 66-70 | 1d4 + 3 merrow                                                                                                           |
+| 71-75 | A pirate crew consisting of 1 bandit captain, 1 druid, 2 berserkers, and 2d12 bandits, all searching for buried treasure |
+| 76-80 | A severed humanoid hand tangled in a net                                                                                 |
+| 81-82 | 1 water elemental                                                                                                        |
+| 83-84 | 1 cyclops                                                                                                                |
+| 85-86 | 1d4 banshees (night only)                                                                                                |
+| 87-88 | 2d4 veterans                                                                                                             |
+| 89-90 | 1 young bronze dragon                                                                                                    |
+| 91-93 | 1d3 cyclopes                                                                                                             |
+| 94-95 | 1 young blue dragon                                                                                                      |
+| 96    | 1 sahuagin baron with 1d3 sahuagin priestesses and 2d8 sahuagin                                                          |
+| 97    | 1 djinni                                                                                                                 |
+| 98    | 1 roc                                                                                                                    |
+| 99    | 1 marid                                                                                                                  |
+| 00    | 1 storm giant                                                                                                            |
+^encounter-coastal-5-10
+
+| dice: 1d100  | Encounter                                                                                                                                                                                                                                            |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01    | 1d4 banshees (night only)                                                                                                                                                                                                                            |
+| 02-04 | 1 cyclops                                                                                                                                                                                                                                            |
+| 05-08 | 1d6 + 2 manticores                                                                                                                                                                                                                                   |
+| 09-10 | 1d8 + 2 veterans                                                                                                                                                                                                                                     |
+| 11-20 | 1 young blue dragon                                                                                                                                                                                                                                  |
+| 21-25 | A nest of 1d6 dragon turtle eggs                                                                                                                                                                                                                     |
+| 26-35 | 1d4 sahuagin barons                                                                                                                                                                                                                                  |
+| 36-40 | A trident partially buried in the sand                                                                                                                                                                                                               |
+| 41-50 | 1 young bronze dragon                                                                                                                                                                                                                                |
+| 51-55 | 1 marid                                                                                                                                                                                                                                              |
+| 56-60 | 1d6 water elementals                                                                                                                                                                                                                                 |
+| 61-65 | 2d6 ghasts crawling over 1d6 wrecked ships and feeding on the dead                                                                                                                                                                                   |
+| 66-70 | 1 djinni                                                                                                                                                                                                                                             |
+| 71-75 | 1d3 young bronze dragons                                                                                                                                                                                                                             |
+| 76-80 | A beached whale, dead and bloated. If it takes any damage, it explodes, and each creature within 30 feet of it must make a DC 15 Dexterity saving throw, taking 5d6 bludgeoning damage on a failed save, or half as much damage on a successful one. |
+| 81-82 | 2d4 cyclopes                                                                                                                                                                                                                                         |
+| 83-84 | 1 storm giant                                                                                                                                                                                                                                        |
+| 85-86 | 1d3 young blue dragons                                                                                                                                                                                                                               |
+| 87-88 | 1 adult bronze dragon                                                                                                                                                                                                                                |
+| 89-90 | 1 adult blue dragon                                                                                                                                                                                                                                  |
+| 91-93 | 1d3 rocs                                                                                                                                                                                                                                             |
+| 94-97 | 1 dragon turtle                                                                                                                                                                                                                                      |
+| 98-99 | 1 ancient bronze dragon                                                                                                                                                                                                                              |
+| 00    | 1 ancient blue dragon                                                                                                                                                                                                                                |
+^encounter-coastal-11-16
+
+#### Desert
+
+| dice: 1d100  | Encounter                                                                          |
+|-------|------------------------------------------------------------------------------------|
+| 01    | 3d8 scorpions                                                                      |
+| 02    | 2d4 vultures                                                                       |
+| 03    | 1 abandoned mule                                                                   |
+| 04    | 2d6 commoners with 2d4 camels bound for a distant city                             |
+| 05    | 1d6 flying snakes                                                                  |
+| 06    | 2d6 hyenas or 2d6 jackals                                                          |
+| 07    | 1d6 guards escorting a noble to the edge of the desert, all of them astride camels |
+| 08    | 1d6 cats                                                                           |
+| 09    | 1 pseudodragon                                                                     |
+| 10    | 1d4 poisonous snakes                                                               |
+| 11-13 | 2d4 stirges                                                                        |
+| 14-15 | 1d6 + 2 giant wolf spiders                                                         |
+| 16-17 | 1 scout                                                                            |
+| 18-20 | 2d4 giant poisonous snakes                                                         |
+| 21-25 | Single-file tracks marching deeper into the desert                                 |
+| 26-27 | 4d4 kobolds                                                                        |
+| 28-29 | 1 jackalwere                                                                       |
+| 30-31 | 3d6 tribal warriors                                                                |
+| 32-33 | 1d6 giant lizards                                                                  |
+| 34-35 | 1 swarm of insects                                                                 |
+| 36-40 | An oasis surrounded by palm trees and containing the remnants of an old camp       |
+| 41-44 | 3d6 bandits                                                                        |
+| 45-46 | 1d4 constrictor snakes                                                             |
+| 47-48 | 2d4 winged kobold                                                                  |
+| 49-50 | 1 dust mephit                                                                      |
+| 51-52 | 1d3 + 1 giant toads                                                                |
+| 53-54 | 1d4 giant spiders                                                                  |
+| 55    | 1 druid                                                                            |
+| 56-57 | 2d4 hobgoblins                                                                     |
+| 58    | 1 wight                                                                            |
+| 59-60 | 1 ogre                                                                             |
+| 61-65 | A brass lamp lying on the ground                                                   |
+| 66-67 | 1d4 giant vultures                                                                 |
+| 68    | 1 phase spider                                                                     |
+| 69    | 1 giant constrictor snake                                                          |
+| 70-71 | 1 gnoll pack lord with 1d3 giant hyenas                                            |
+| 72    | 1d6 + 2 gnolls                                                                     |
+| 73-74 | 1 mummy                                                                            |
+| 75    | 1d3 half-ogres                                                                     |
+| 76-80 | A pile of humanoid bones wrapped in rotting cloth                                  |
+| 81-82 | 1 lamia                                                                            |
+| 83    | 1 hobgoblin captain with 2d6 hobgoblins                                            |
+| 84    | 2d4 death dogs                                                                     |
+| 85-86 | 1d4 giant scorpions                                                                |
+| 87    | 1 yuan-ti malison with 1d4 + 1 yuan-ti purebloods                                  |
+| 88-89 | 1 bandit captain with 1 druid and 3d6 bandits                                      |
+| 90    | 2d4 thri-kreen                                                                     |
+| 91    | 1 air elemental                                                                    |
+| 92    | 1d3 couatls                                                                        |
+| 93    | 1 fire elemental                                                                   |
+| 94    | 1d4 gnoll fangs of Yeenoghu                                                        |
+| 95    | 1 revenant                                                                         |
+| 96    | 1d4 weretigers                                                                     |
+| 97    | 1 cyclops                                                                          |
+| 98    | 1 young brass dragon                                                               |
+| 99    | 1 medusa                                                                           |
+| 00    | 1 yuan-ti abomination                                                              |
+^encounter-desert-1-4
+
+| dice: 1d100  | Encounter                                                                      |
+|-------|--------------------------------------------------------------------------------|
+| 01    | 1 scouts                                                                       |
+| 02    | 2d4 jackalweres                                                                |
+| 03    | 2d6 hobgoblins                                                                 |
+| 04    | 1d4 + 3 dust mephits                                                           |
+| 05    | 1d6 swarm of insects                                                           |
+| 06    | 1 giant constrictor snake                                                      |
+| 07-08 | 1 lion                                                                         |
+| 09-10 | 2d4 gnolls                                                                     |
+| 11-12 | 2d6 giant toads                                                                |
+| 13-17 | 1 mummy                                                                        |
+| 18-20 | 1d8 + 1 giant vultures                                                         |
+| 21-25 | A stone obelisk partly buried in the sand                                      |
+| 26-28 | 1 ogre with 1d3 half-ogres                                                     |
+| 29-35 | 1d10 giant hyenas                                                              |
+| 36-40 | 1d6 + 1 empty tents                                                            |
+| 41-43 | 1d6 + 2 thri-kreen                                                             |
+| 44-46 | 2d4 yuan-ti purebloods                                                         |
+| 47-50 | 1d6 + 3 death dogs                                                             |
+| 51-52 | 1d4 giant scorpions                                                            |
+| 53    | 1 fire elemental                                                               |
+| 54-55 | 1 hobgoblin captain with 3d4 hobgoblins                                        |
+| 56    | 1d6 + 2 ogres                                                                  |
+| 57-58 | 1d4 lamias                                                                     |
+| 59-60 | 1 air elemental                                                                |
+| 61-65 | A meteorite resting at the bottom of a glassy crater                           |
+| 66    | 1d4 + 1 wights                                                                 |
+| 67-68 | 1 young brass dragon                                                           |
+| 69-70 | 1 bandit captain with 1d3 berserkers and 3d6 bandits                           |
+| 71-72 | 1 cyclops                                                                      |
+| 73    | 1d4 couatls                                                                    |
+| 74-75 | 1d4 yuan-ti malisons                                                           |
+| 76-80 | Strong winds that kick up dust and reduce visibility to 1d6 feet for 1d4 hours |
+| 81-83 | 1 revenant with 1d3 wights                                                     |
+| 84-85 | 1d8 + 1 phase spiders                                                          |
+| 86-87 | 1d6 + 2 weretigers                                                             |
+| 88-90 | 2d4 gnoll fangs of Yeenoghu                                                    |
+| 91    | 1 young blue dragon                                                            |
+| 92    | 1d4 cyclopes                                                                   |
+| 93    | 1d3 yuan-ti abominations                                                       |
+| 94    | 1d4 medusas                                                                    |
+| 95    | 1 guardian naga                                                                |
+| 96    | 1d3 young brass dragons                                                        |
+| 97    | 1 efreeti                                                                      |
+| 98    | 1 roc                                                                          |
+| 99    | 1 gynosphinx                                                                   |
+| 00    | 1 adult brass dragon                                                           |
+^encounter-desert-5-10
+
+| dice: 1d100  | Encounter                                                             |
+|-------|-----------------------------------------------------------------------|
+| 01    | 1 young brass dragon                                                  |
+| 02-05 | 4d6 gnolls                                                            |
+| 06-10 | 3d10 giant hyenas                                                     |
+| 11-12 | 1d8 + 1 lamias                                                        |
+| 13-14 | 2d4 gnoll fangs of Yeenoghu                                           |
+| 15-17 | 1d6 + 2 giant scorpions                                               |
+| 18-20 | 2d4 phase spiders                                                     |
+| 21-25 | A desert caravan consisting of 1d6 merchants (nobles) with 2d6 guards |
+| 26-27 | 1d6 + 1 couatls                                                       |
+| 28-30 | 1d4 fire elementals                                                   |
+| 31-32 | 1 hobgoblin captain with 3d10 + 10 hobgoblins                         |
+| 33-35 | 2d4 wights                                                            |
+| 36-40 | 1d6 square miles of desert glass                                      |
+| 41-42 | 1 young blue dragon                                                   |
+| 43-45 | 1d6 + 2 weretigers                                                    |
+| 46-48 | 1d4 air elementals                                                    |
+| 49-50 | 1d6 + 1 yuan-ti malisons                                              |
+| 51-55 | 1d4 medusas                                                           |
+| 56-60 | 1d4 revenants with 3d12 skeletons                                     |
+| 61-65 | A plundered pyramid                                                   |
+| 66-70 | 1d4 young brass dragons                                               |
+| 71-75 | 1d3 yuan-ti abominations                                              |
+| 76-78 | 1d6 + 2 cyclopes                                                      |
+| 79-82 | 1 adult brass dragon                                                  |
+| 83-85 | 1 purple worm                                                         |
+| 86    | 1d2 young blue dragons                                                |
+| 87-88 | 1 mummy lord                                                          |
+| 89    | 1d3 guardian nagas                                                    |
+| 90    | 1 adult blue dragon                                                   |
+| 91    | 1d2 gynosphinxes                                                      |
+| 92-93 | 1d3 efreet                                                            |
+| 94    | 1 androsphinx                                                         |
+| 95    | 1d4 rocs                                                              |
+| 96-97 | 1 adult blue dracolich                                                |
+| 98-99 | 1 ancient brass dragon                                                |
+| 00    | 1 ancient blue dragon                                                 |
+^encounter-desert-11-16
+
+#### Forest
+
+| dice: 1d100  | Encounter                                                                                                          |
+|-------|--------------------------------------------------------------------------------------------------------------------|
+| 01    | 1 giant owl                                                                                                        |
+| 02    | 1d4 cats                                                                                                           |
+| 03    | 2d4 woodcutters (commoners)                                                                                        |
+| 04    | 1 badger or 1d4 poisonous snakes                                                                                   |
+| 05    | 2d8 baboons                                                                                                        |
+| 06    | 1d6 + 3 hyenas                                                                                                     |
+| 07    | 1 owl                                                                                                              |
+| 08    | 1 pseudodragon                                                                                                     |
+| 09    | 1 panther                                                                                                          |
+| 10    | 1 giant poisonous snake                                                                                            |
+| 11    | 1d6 + 2 boars                                                                                                      |
+| 12    | 1d4 + 1 giant lizards                                                                                              |
+| 13    | 1 ape or 1 tiger                                                                                                   |
+| 14    | 2d6 tribal warriors with 1d6 mastiffs                                                                              |
+| 15    | 1d6 + 2 giant bats or 3d6 flying snakes                                                                            |
+| 16    | 1 scout or 2d4 guards with 1d6 mastiffs                                                                            |
+| 17    | 1d8 + 1 winged kobolds                                                                                             |
+| 18    | 1d3 constrictor snakes                                                                                             |
+| 19    | 1d10 + 5 giant rats or 2d6 + 3 giant weasels                                                                       |
+| 20    | 1d4 + 1 needle blights with 1d6 + 3 twig blights                                                                   |
+| 21-25 | A lost, weeping child. If the characters take the child home, the parents reward them with 1d3 potions of healing. |
+| 26    | 1d8 + 1 giant frogs                                                                                                |
+| 27    | 4d4 kobolds                                                                                                        |
+| 28    | 1d3 black bears                                                                                                    |
+| 29    | 3d6 stirges                                                                                                        |
+| 30    | 1 satyr                                                                                                            |
+| 31    | 2d4 kenku                                                                                                          |
+| 32    | 1d3 vine blights with 1d12 awakened shrubs                                                                         |
+| 33    | 1d4 swarms of ravens                                                                                               |
+| 34    | 1 faerie dragon (yellow or younger)                                                                                |
+| 35    | 1d4 + 2 giant badgers                                                                                              |
+| 36-40 | A young woodcutter (scout) racing through the forest to rescue a lost friend                                       |
+| 41    | 2d4 blink dogs                                                                                                     |
+| 42    | 1d8 + 1 sprites                                                                                                    |
+| 43    | 1d6 + 2 elk                                                                                                        |
+| 44    | 1d4 lizardfolk or 3d6 bandits                                                                                      |
+| 45    | 1d4 + 4 wolves                                                                                                     |
+| 46    | 2d4 giant wolf spiders                                                                                             |
+| 47    | 1 swarm of insects or 2d8 blood hawks                                                                              |
+| 48    | 1d6 + 2 pixies                                                                                                     |
+| 49    | 1 brown bear                                                                                                       |
+| 50    | 1d4 + 3 goblins                                                                                                    |
+| 51    | 1d3 dryads                                                                                                         |
+| 52    | 1 awakened tree                                                                                                    |
+| 53    | 1 phase spider                                                                                                     |
+| 54    | 1d6 harpies                                                                                                        |
+| 55    | 1 ettercap or 1d8 + 1 orcs                                                                                         |
+| 56    | 1 goblin boss with 2d6 + 1 goblins                                                                                 |
+| 57    | 1 ankheg                                                                                                           |
+| 58    | 1 giant constrictor snake                                                                                          |
+| 59    | 1d4 bugbears or 2d4 hobgoblins                                                                                     |
+| 60    | 1 pegasus                                                                                                          |
+| 61-65 | A stream of cool, clean water flowing between the trees                                                            |
+| 66    | 1d4 half-ogres or 1 ogre                                                                                           |
+| 67    | 1 faerie dragon (green or older)                                                                                   |
+| 68    | 1 werewolf or 1d8 + 1 worgs                                                                                        |
+| 69    | 1 druid harvesting mistletoe                                                                                       |
+| 70    | 1 will-o'-wisp                                                                                                     |
+| 71    | 1d4 dire wolves or 1 giant boar                                                                                    |
+| 72    | 1d10 giant wasps                                                                                                   |
+| 73    | 1 owlbear or 1 giant elk                                                                                           |
+| 74    | 2d6 gnolls                                                                                                         |
+| 75    | 1d6 giant toads                                                                                                    |
+| 76-80 | 1d6 web cocoons hanging from the branches, holding withered carcasses                                              |
+| 81    | 1 wereboar or 1d4 giant boars                                                                                      |
+| 82    | 1d6 + 2 giant spiders                                                                                              |
+| 83    | 1d4 centaurs or 1d4 giant elk                                                                                      |
+| 84    | 1 orc Eye of Gruumsh with 2d4 + 2 orcs                                                                             |
+| 85    | 1 gnoll fang of Yeenoghu                                                                                           |
+| 86    | 1d4 gricks                                                                                                         |
+| 87    | 1 bandit captain with 2d6 + 3 bandits                                                                              |
+| 88    | 1d4 wererats                                                                                                       |
+| 89    | 1 couatl (day) or 1 banshee (night)                                                                                |
+| 90    | 1 gnoll pack lord with 1d4 giant hyenas                                                                            |
+| 91    | 2d4 berserkers or 1d4 veterans                                                                                     |
+| 92    | 1 lizardfolk shaman with 1d3 swarms of poisonous snakes and 1d10 + 2 lizardfolk                                    |
+| 93    | 1d4 displacer beasts                                                                                               |
+| 94    | 1d3 green hags                                                                                                     |
+| 95    | 1 hobgoblin captain with 2d6 hobgoblins and 1d4 giant boars                                                        |
+| 96    | 1 yuan-ti malison with 1d6 + 1 yuan-ti purebloods                                                                  |
+| 97    | 1d3 weretigers                                                                                                     |
+| 98    | 1 gorgon or 1 unicorn                                                                                              |
+| 99    | 1 shambling mound                                                                                                  |
+| 00    | 1 yuan-ti abomination                                                                                              |
+^encounter-forest-1-4
+
+| dice: 1d100  | Encounter                                                                                                                                   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 01    | 2d4 vine blights                                                                                                                            |
+| 02    | 2d6 hobgoblins or 2d6 orcs                                                                                                                  |
+| 03    | 2d4 apes or 2d4 satyrs                                                                                                                      |
+| 04    | 1d3 will-o'-wisps                                                                                                                           |
+| 05    | 1d4 swarms of poisonous snakes                                                                                                              |
+| 06    | 1 orc Eye of Gruumsh with 1d3 orogs and 1d8 + 2 orcs                                                                                        |
+| 07    | 1d3 constrictor snakes or 1d4 tigers                                                                                                        |
+| 08    | 1 goblin boss with 3d6 goblins                                                                                                              |
+| 09    | 1 faerie dragon (any age)                                                                                                                   |
+| 10    | 1 brown bear or 1d6 + 2 black bears                                                                                                         |
+| 11-13 | 1d4 giant boars                                                                                                                             |
+| 14-15 | 1d8 + 1 giant spiders                                                                                                                       |
+| 16-17 | 1 lizardfolk shaman with 2d4 lizardfolk                                                                                                     |
+| 18    | 1d10 giant toads                                                                                                                            |
+| 19    | 1d4 ankhegs                                                                                                                                 |
+| 20    | 1d3 awakened trees (day) or 1 banshee (night)                                                                                               |
+| 21-25 | A small shack almost hidden by the deep forest. The interior is empty aside from a large cast-iron oven.                                    |
+| 26    | 1 couatl                                                                                                                                    |
+| 27-28 | 1d4 ogres or 1d6 + 2 half-ogres                                                                                                             |
+| 29-30 | 1 gnoll pack lord with 1d4 + 1 giant hyenas                                                                                                 |
+| 31-32 | 1d6 wererats                                                                                                                                |
+| 33    | 1d4 gricks                                                                                                                                  |
+| 34    | 1d8 + 1 yuan-ti purebloods                                                                                                                  |
+| 35    | 1d6 pegasi                                                                                                                                  |
+| 36-40 | An old stone archway of obvious elven design. Any character who passes under it makes Wisdom (Perception) checks with advantage for 1 hour. |
+| 41-42 | 1d6 + 2 dryads                                                                                                                              |
+| 43    | 1d4 giant elk                                                                                                                               |
+| 44    | 1d8 + 1 harpies                                                                                                                             |
+| 45-46 | 1 bandit captain with 1 druid and 1d6 + 5 bandits                                                                                           |
+| 47-48 | 2d4 dire wolves                                                                                                                             |
+| 49-50 | 2d4 bugbears                                                                                                                                |
+| 51-52 | 2d4 centaurs                                                                                                                                |
+| 53-54 | 3d10 blink dogs                                                                                                                             |
+| 55-56 | 1d4 owlbears                                                                                                                                |
+| 57-58 | 1d8 + 1 berserkers                                                                                                                          |
+| 59-60 | 1d3 green hags                                                                                                                              |
+| 61-65 | A clear pool of water with 1d6 sleeping animals lying around its edge                                                                       |
+| 66-67 | 1d4 werewolves                                                                                                                              |
+| 68-69 | 1 werebear                                                                                                                                  |
+| 70-71 | 1d8 + 1 ettercaps                                                                                                                           |
+| 72-73 | 2d10 elk                                                                                                                                    |
+| 74-75 | 1d4 veterans                                                                                                                                |
+| 76-80 | An old tree with a wizened face carved into the trunk                                                                                       |
+| 81    | 1d4 wereboars                                                                                                                               |
+| 82    | 2d4 displacer beasts                                                                                                                        |
+| 83    | 1d4 shambling mounds                                                                                                                        |
+| 84    | 1 hobgoblin captain with 3d10 hobgoblins and 4d12 goblins                                                                                   |
+| 85    | 1 yuan-ti abomination                                                                                                                       |
+| 86    | 1d8 + 1 phase spiders                                                                                                                       |
+| 87    | 1d4 trolls                                                                                                                                  |
+| 88    | 2d4 yuan-ti malisons                                                                                                                        |
+| 89    | 1 oni                                                                                                                                       |
+| 90    | 1d4 unicorns                                                                                                                                |
+| 91    | 1d6 + 2 weretigers                                                                                                                          |
+| 92    | 1 young green dragon                                                                                                                        |
+| 93    | 1d4 gorgons                                                                                                                                 |
+| 94    | 1d6 + 2 gnoll fangs of Yeenoghu                                                                                                             |
+| 95    | 1 treant                                                                                                                                    |
+| 96    | 1d4 revenants                                                                                                                               |
+| 97    | 1 grick alpha with 1d6 + 1 gricks                                                                                                           |
+| 98    | 1d4 giant apes                                                                                                                              |
+| 99    | 1 guardian naga                                                                                                                             |
+| 00    | 1 adult gold dragon                                                                                                                         |
+^encounter-forest-5-10
+
+| dice: 1d100  | Encounter                                                                                                |
+|-------|----------------------------------------------------------------------------------------------------------|
+| 01-03 | 1 werebear                                                                                               |
+| 04-05 | 1d4 druids performing a ritual for the dead (day only) or 1d4 banshees (night only)                      |
+| 06-07 | 1d3 couatls                                                                                              |
+| 08-10 | 1d3 gnoll fangs of Yeenoghu with 2d6 + 3 gnolls                                                          |
+| 11-15 | 2d4 displacer beasts                                                                                     |
+| 16-20 | 1d6 + 2 veterans                                                                                         |
+| 21-25 | A pool of clear, still water. Gold coins litter the bottom, but they disappear if removed from the pool. |
+| 26-30 | 1d4 + 1 green hags with 1d3 owlbears                                                                     |
+| 31-35 | 1d6 + 2 werewolves                                                                                       |
+| 36-40 | A small woodland shrine dedicated to a mysterious cult named the Siswa                                   |
+| 41-45 | 1d6 + 2 phase spiders                                                                                    |
+| 46-50 | 2d4 yuan-ti malisons                                                                                     |
+| 51-52 | 1d3 werebears                                                                                            |
+| 53-54 | 1d4 revenants                                                                                            |
+| 55-56 | 1 young green dragon                                                                                     |
+| 57-58 | 1d4 trolls                                                                                               |
+| 59-60 | 1d6 + 2 wereboars                                                                                        |
+| 61-65 | A group of seven people (commoners) wearing animal masks and ambling through the woods                   |
+| 66-67 | 1d4 gorgons                                                                                              |
+| 68-69 | 1d3 shambling mounds                                                                                     |
+| 70-71 | 1 treant                                                                                                 |
+| 72-73 | 1d4 unicorns                                                                                             |
+| 74-75 | 1d6 + 2 weretigers                                                                                       |
+| 76-80 | Peals of silvery laughter that echo from a distance                                                      |
+| 81-82 | 1 guardian naga                                                                                          |
+| 83-84 | 1 young gold dragon                                                                                      |
+| 85-86 | 1 grick alpha with 2d4 gricks                                                                            |
+| 87-88 | 1d3 yuan-ti abominations                                                                                 |
+| 89-90 | 1 adult green dragon                                                                                     |
+| 91-93 | 1d8 + 1 giant apes                                                                                       |
+| 94-96 | 2d4 oni                                                                                                  |
+| 97-99 | 1d3 treants                                                                                              |
+| 00    | 1 ancient green dragon                                                                                   |
+^encounter-forest-11-16
+
 #### Grasslands
 
-##### Level 1 - 4
+| dice: 1d100  | Encounter                                                                                                    |
+|-------|--------------------------------------------------------------------------------------------------------------|
+| 01    | 1 hobgoblin captain with 1d4 + 1 hobgoblins                                                                  |
+| 02    | 1 chimera                                                                                                    |
+| 03    | 1 gorgon                                                                                                     |
+| 04    | 1d2 couatls                                                                                                  |
+| 05    | 1 ankylosaurus                                                                                               |
+| 06    | 1 weretiger                                                                                                  |
+| 07    | 1d3 allosauruses                                                                                             |
+| 08-09 | 1d3 elephants                                                                                                |
+| 10-14 | A circle of standing stones within which the air is utterly still, no matter how hard the wind blows outside |
+| 15-16 | 1 phase spider                                                                                               |
+| 17-18 | 1 gnoll pack lord with 1d4 giant hyenas                                                                      |
+| 19-20 | 1 pegasus                                                                                                    |
+| 21-22 | 1 ankheg                                                                                                     |
+| 23-24 | 1d3 rhinoceroses                                                                                             |
+| 25-28 | 1d3 cockatrices                                                                                              |
+| 29-32 | 1d6 + 2 giant wasps or 1d4 + 3 swarms of insects                                                             |
+| 33-36 | 1d4 jackalweres or 1d4 scouts                                                                                |
+| 37-40 | 1d8 giant goats or 1d8 worgs                                                                                 |
+| 41-44 | 2d4 hobgoblins, 2d4 orcs, or 2d4 gnolls                                                                      |
+| 45-46 | 1d2 giant poisonous snakes                                                                                   |
+| 47-48 | 1d6 + 2 elk or 1d6 + 2 riding horses                                                                         |
+| 49-50 | 2d4 goblins                                                                                                  |
+| 51-52 | 1d3 boars                                                                                                    |
+| 53-54 | 1 leopard (panther) 1 lion                                                                                   |
+| 55-58 | 1d6 + 3 goblins riding wolves                                                                                |
+| 59-62 | 2d6 giant wolf spiders or 1 giant eagle                                                                      |
+| 63-65 | 1d8 + 4 pteranodons                                                                                          |
+| 66-69 | 3d6 wolves                                                                                                   |
+| 70-74 | 2d4 + 2 axe beaks                                                                                            |
+| 75-76 | 1 giant boar or 1d2 tigers                                                                                   |
+| 77-78 | 1 ogre or 1d3 bugbears                                                                                       |
+| 79-80 | giant elk or 1 gnoll pack lord or 1d3 giant hyenas                                                           |
+| 81-82 | 1d3 giant vultures or 1d3 hippogriffs                                                                        |
+| 83-84 | 1 goblin boss with 1d6 + 2 goblins and 1d4 + 3 wolves, or 1d3 thri-kreen                                     |
+| 85-89 | 1d3 druids patrolling the wilds                                                                              |
+| 90-91 | 1d6 scarecrows or 1 wereboar                                                                                 |
+| 92-93 | 1d3 centaurs or 1d3 griffons                                                                                 |
+| 94    | 1d3 gnoll fangs of Yeenoghu, or 1 orc Eye of Gruumsh with 2d4 + 1 orcs                                       |
+| 95-96 | 1 triceratops                                                                                                |
+| 97    | 1 cyclops or 1 bulette                                                                                       |
+| 98-99 | 1d4 manticores                                                                                               |
+| 00    | 1 tyrannosaurus rex                                                                                          |
+^encounter-grassland-1-4
 
+| dice: 1d100  | Encounter                                                                                                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01    | 1d3 gorgons                                                                                                                                                                     |
+| 02    | 1d4 cyclopes                                                                                                                                                                    |
+| 03-04 | 1d3 gnoll fangs of Yeenoghu                                                                                                                                                     |
+| 05-06 | 1 chimera                                                                                                                                                                       |
+| 07-09 | 1d4 + 1 veterans on riding horses                                                                                                                                               |
+| 10-11 | A tornado that touches down 1d6 miles away, tearing up the land for 1 mile before it dissipates                                                                                 |
+| 12-13 | 1d3 manticores                                                                                                                                                                  |
+| 14-15 | 2d4 ankhegs                                                                                                                                                                     |
+| 16-17 | 1d8 + 1 centaurs                                                                                                                                                                |
+| 18-19 | 1d6 + 2 griffons                                                                                                                                                                |
+| 20-21 | 1d6 elephants                                                                                                                                                                   |
+| 22-24 | A stretch of land littered with rotting war machines, bones, and banners of forgotten armies                                                                                    |
+| 25-28 | 1d8 + 1 bugbears                                                                                                                                                                |
+| 29-32 | 1 gnoll pack lord with 1d4 + 1 giant hyenas                                                                                                                                     |
+| 33-36 | 2d4 scarecrows                                                                                                                                                                  |
+| 37-40 | 1d12 lions                                                                                                                                                                      |
+| 41-44 | 1d10 thri-kreen                                                                                                                                                                 |
+| 45-46 | 1 allosaurus                                                                                                                                                                    |
+| 47-48 | 1 tiger                                                                                                                                                                         |
+| 49-50 | 1d2 giant eagles or 1d2 giant vultures                                                                                                                                          |
+| 51-52 | 1 goblin boss with 2d4 goblins                                                                                                                                                  |
+| 53-54 | 1d2 pegasi                                                                                                                                                                      |
+| 55-58 | 1 ankylosaurus                                                                                                                                                                  |
+| 59-62 | 1d2 couatls                                                                                                                                                                     |
+| 63-66 | 1 orc Eye of Gruumsh with 1d8 + 1 orcs                                                                                                                                          |
+| 67-70 | 2d4 hippogriffs                                                                                                                                                                 |
+| 71-74 | 1d4 + 1 rhinoceroses                                                                                                                                                            |
+| 75-76 | 1 hobgoblin captain with 2d6 hobgoblins                                                                                                                                         |
+| 77-78 | 1d3 phase spiders                                                                                                                                                               |
+| 79-80 | 1d6 + 2 giant boars                                                                                                                                                             |
+| 81-82 | 2d4 giant elk                                                                                                                                                                   |
+| 83-84 | 1d4 ogres with 1d4 orogs                                                                                                                                                        |
+| 85-87 | A hot wind that carries the stench of rot                                                                                                                                       |
+| 88-90 | 1d3 weretigers                                                                                                                                                                  |
+| 91-92 | 1 bulette                                                                                                                                                                       |
+| 93-94 | A tribe of 2d20 + 20 nomads (tribal warriors) on riding horses following a herd of antelope (deer). The nomads are willing to trade food, leather, and information for weapons. |
+| 95-96 | 1d6 + 2 wereboars                                                                                                                                                               |
+| 97    | 1 young gold dragon                                                                                                                                                             |
+| 98-99 | 1d4 triceratopses                                                                                                                                                               |
+| 00    | 1d3 tyrannosaurus rexes                                                                                                                                                         |
+^encounter-grassland-5-10
 
-
-##### Level 5 - 10
-
-
-
-##### Level 11 - 16
 | dice: 1d100  | Encounter                                                                                                                                                            |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01-05 | `encounter: 3d6: Wereboar`                                                                                                                                                        |
@@ -595,7 +1238,311 @@ Tables taken from https://5e.tools/encountergen.html
 | 00    | `encounter: 1: Ancient Gold Dragon`                                                                                                                                                |
 ^encounter-grassland-11-16
 
-##### Level 17 - 20
+| dice: 1d100  | Encounter                                                                                                                                                            |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01-10 | 2d6 triceratopses                                                                                                                                                    |
+| 11-20 | 1d10 gorgons                                                                                                                                                         |
+| 21-25 | 2d6 hyenas feeding on the carcass of a dead dinosaur                                                                                                                 |
+| 26-35 | 3d6 bulettes                                                                                                                                                         |
+| 36-40 | A fiery chariot that races across the sky                                                                                                                            |
+| 41-50 | 1d3 young gold dragons                                                                                                                                               |
+| 51-60 | 2d4 cyclopes                                                                                                                                                         |
+| 61-65 | A valley where all the grass has died and the ground is littered with stumps and fallen tree trunks, all petrified                                                   |
+| 66-75 | 2d10 wolves                                                                                                                                                          |
+| 76-80 | A friendly adventuring party of 1d6 + 1 characters of varying races, classes, and levels (average level 1d6 + 2). They share information about their recent travels. |
+| 81-90 | 1d12 chimeras                                                                                                                                                        |
+| 91-96 | 1d6 + 2 tyrannosaurus rexes                                                                                                                                          |
+| 97-99 | 1 adult gold dragon                                                                                                                                                  |
+| 00    | 1 ancient gold dragon                                                                                                                                                |
+^encounter-grassland-17-20
+
+#### Hill
+
+| dice: 1d100  | Encounter                                                                                    |
+|-------|----------------------------------------------------------------------------------------------|
+| 01    | 1 eagle                                                                                      |
+| 02-03 | 2d4 baboons                                                                                  |
+| 04-06 | 1d6 bandits                                                                                  |
+| 07    | 1d4 vultures                                                                                 |
+| 08    | 1d10 commoners                                                                               |
+| 09    | 1 raven                                                                                      |
+| 10    | 1 poisonous snake                                                                            |
+| 11-13 | 2d6 bandits 2d6 tribal warriors                                                              |
+| 14    | 2d8 goats                                                                                    |
+| 15    | 1d6 + 4 blood hawks                                                                          |
+| 16    | 1d4 + 3 giant weasels                                                                        |
+| 17-18 | 1d3 guards with 1d2 mastiffs and 1 mule                                                      |
+| 19-20 | 1d6 + 5 hyenas                                                                               |
+| 21-22 | 2d4 stirges                                                                                  |
+| 23-25 | An empty cave littered with bones                                                            |
+| 26    | 1 pseudodragon or 1d3 giant owls                                                             |
+| 27    | 1 lion or 1 cougar (panther)                                                                 |
+| 28-30 | 2d8 kobolds                                                                                  |
+| 31    | 1 hippogriff                                                                                 |
+| 32-34 | 2d4 goblins                                                                                  |
+| 35    | 1 worg                                                                                       |
+| 36    | 1d3 swarms of bats or 1d3 swarms of ravens                                                   |
+| 37    | 1 giant eagle                                                                                |
+| 38-40 | An old dwarf sitting on a stump, whittling a piece of wood                                   |
+| 41    | 1d4 elk                                                                                      |
+| 42    | 1d4 winged kobolds with 1d6 kobolds                                                          |
+| 43    | 1d6 + 2 giant wolf spiders                                                                   |
+| 44-45 | 2d4 wolves                                                                                   |
+| 46    | 1 swarm of insects                                                                           |
+| 47    | 1d8 + 1 axe beaks                                                                            |
+| 48-49 | 1 brown bear or 1d3 boars                                                                    |
+| 50    | 1 scout                                                                                      |
+| 51    | 1 ogre                                                                                       |
+| 52-53 | 2d4 gnolls                                                                                   |
+| 54    | 1 giant elk                                                                                  |
+| 55    | 1d3 + 1 harpies                                                                              |
+| 56    | 1 werewolf                                                                                   |
+| 57-58 | 2d4 orcs                                                                                     |
+| 59    | 1d4 half-ogres                                                                               |
+| 60    | 1 druid or 1 veteran                                                                         |
+| 61-63 | The corpse of an adventurer that carries an intact explorer's pack and lies atop a longsword |
+| 64    | 1 green hag                                                                                  |
+| 65-66 | 1d3 dire wolves                                                                              |
+| 67-68 | A small cemetery containing 2d6 graves                                                       |
+| 69-70 | 1 hobgoblin captain with 2d4 hobgoblins                                                      |
+| 71    | 2d4 giant goats                                                                              |
+| 72    | 1 manticore                                                                                  |
+| 73-74 | 1d6 + 2 hobgoblins                                                                           |
+| 75    | 1 phase spider                                                                               |
+| 76-78 | A pile of droppings from a very large bird                                                   |
+| 79    | 1 gnoll fang of Yeenoghu                                                                     |
+| 80    | 1d3 giant boars                                                                              |
+| 81    | 1 gnoll pack lord with 1d3 giant hyenas                                                      |
+| 82    | 1 bandit captain with 2d4 bandits                                                            |
+| 83    | 1 orc Eye of Gruumsh with 1d8 + 2 orcs                                                       |
+| 84    | 1d3 orogs or 1d4 berserkers                                                                  |
+| 85-86 | 1 ettin or 1 wereboar                                                                        |
+| 87-88 | 1 goblin boss with 2d6 goblins                                                               |
+| 89    | 1d3 griffons                                                                                 |
+| 90    | 1d3 perytons or 1d4 pegasi                                                                   |
+| 91-96 | 1d3 trolls                                                                                   |
+| 97-99 | 1 cyclops                                                                                    |
+| 00    | 1 stone giant                                                                                |
+^encounter-hill-1-4
+
+| dice: 1d100  | Encounter                                                                                                       |
+|-------|-----------------------------------------------------------------------------------------------------------------|
+| 01    | 1d4 pegasi or 1d3 perytons                                                                                      |
+| 02    | 1d6 + 2 giant goats                                                                                             |
+| 03    | 1 manticore                                                                                                     |
+| 04    | 1d8 + 1 gnolls or 1d8 + 1 hobgoblins                                                                            |
+| 05    | 1d4 lions                                                                                                       |
+| 06    | 1d6 + 2 worgs                                                                                                   |
+| 07    | 1d4 brown bears                                                                                                 |
+| 08    | 3d6 axe beaks                                                                                                   |
+| 09    | 1 half-ogre with 2d6 orcs                                                                                       |
+| 10    | 2d10 winged kobolds                                                                                             |
+| 11-12 | 1 goblin boss with 1d4 dire wolves and 2d6 goblins                                                              |
+| 13    | 1d6 giant elk                                                                                                   |
+| 14-15 | 1d8 + 1 giant eagles                                                                                            |
+| 16-17 | 1d4 phase spiders                                                                                               |
+| 18-19 | 1 gnoll pack lord with 2d4 giant hyenas                                                                         |
+| 20    | 2d4 hippogriffs                                                                                                 |
+| 21-25 | A 15-foot-tall stone statue of a dwarf warrior that has been tipped over on its side                            |
+| 26-27 | 2d4 orogs                                                                                                       |
+| 28-29 | 1d4 + 1 griffons                                                                                                |
+| 30-31 | 1d6 + 2 harpies                                                                                                 |
+| 32-33 | 1 orc Eye of Gruumsh with 2d6 + 3 orcs                                                                          |
+| 34-35 | 1d4 + 3 giant boars                                                                                             |
+| 36-40 | A stone door set into the side of a steep hill, opening onto 15 feet of descending stairs that end at a cave-in |
+| 41-42 | 1d3 green hags                                                                                                  |
+| 43-44 | 1d4 werewolves                                                                                                  |
+| 45-46 | 1d6 + 2 ogres                                                                                                   |
+| 47-48 | 1 hobgoblin captain with 2d8 hobgoblins                                                                         |
+| 49-50 | 1 bandit captain with 3d6 bandits                                                                               |
+| 51-54 | 1 chimera                                                                                                       |
+| 55-58 | 1d4 ettins                                                                                                      |
+| 59-62 | 1d6 + 2 veterans with 2d6 berserkers                                                                            |
+| 63-65 | An abandoned wooden hut                                                                                         |
+| 66-69 | 1 galeb duhr                                                                                                    |
+| 70-73 | 1 bulette                                                                                                       |
+| 74-77 | 1 wyvern                                                                                                        |
+| 78-80 | 2d6 + 10 goats with 1 herder (tribal warrior)                                                                   |
+| 81-82 | 1d3 hill giants                                                                                                 |
+| 83-84 | 2d4 wereboars                                                                                                   |
+| 85-86 | 1d4 revenants                                                                                                   |
+| 87-88 | 1d2 gorgons                                                                                                     |
+| 89-90 | 1d8 + 1 gnoll fangs of Yeenoghu                                                                                 |
+| 91-93 | 1d4 cyclopes                                                                                                    |
+| 94-96 | 1 young red dragon                                                                                              |
+| 97-98 | 1d4 stone giants                                                                                                |
+| 99    | 1d3 young copper dragons                                                                                        |
+| 00    | 1 roc                                                                                                           |
+^encounter-hill-5-10
+
+| dice: 1d100  | Encounter                                                                |
+|-------|--------------------------------------------------------------------------|
+| 01    | 2d8 manticores or 2d8 phase spiders                                      |
+| 02-04 | 1d6 green hags with 1d6 wyverns                                          |
+| 05-07 | 1 hobgoblin captain with 1 hill giant and 4d10 hobgoblins                |
+| 08-10 | 2d6 + 3 werewolves                                                       |
+| 11-14 | 1d6 + 2 ettins                                                           |
+| 15-18 | 1d3 bulettes                                                             |
+| 19-22 | 1d4 werebears                                                            |
+| 23-24 | A stream of smoke emerging from a small chimney in the hillside          |
+| 25-28 | 1d4 wyverns                                                              |
+| 29-32 | 1d8 + 1 wereboars                                                        |
+| 33-36 | 1d3 revenants                                                            |
+| 37-38 | A mild earthquake that shakes the region for 1d20 seconds                |
+| 39-42 | 1d3 chimeras                                                             |
+| 43-46 | 1d4 gorgons                                                              |
+| 47-50 | 1d6 + 2 gnoll fangs of Yeenoghu                                          |
+| 51-54 | 1d4 hill giants                                                          |
+| 55-58 | 1 young red dragon                                                       |
+| 59-62 | 1d3 + 1 galeb duhr                                                       |
+| 63-65 | 2d10 dwarf miners (commoners), whistling as they march toward their mine |
+| 66-69 | 1d3 young copper dragons                                                 |
+| 70-73 | 1d4 trolls                                                               |
+| 74-77 | 1d3 cyclopes                                                             |
+| 78-80 | 1d3 nobles with 1d4 scouts prospecting for gold                          |
+| 81-85 | 1 adult copper dragon                                                    |
+| 86-90 | 2d4 stone giants                                                         |
+| 91-96 | 1d4 rocs                                                                 |
+| 97-99 | 1 adult red dragon                                                       |
+| 00    | 1 ancient copper dragon                                                  |
+^encounter-hill-11-16
+
+#### Mountain
+
+| dice: 1d100  | Encounter                                                                                      |
+|-------|------------------------------------------------------------------------------------------------|
+| 01-02 | 1 eagle                                                                                        |
+| 03-05 | 1d3 swarms of bats                                                                             |
+| 06-08 | 1d6 goats                                                                                      |
+| 09-11 | 1d10 + 5 tribal warriors                                                                       |
+| 12-14 | 1d6 + 3 pteranodons                                                                            |
+| 15-17 | 1d8 + 1 winged kobolds                                                                         |
+| 18-20 | 1 lion                                                                                         |
+| 21-24 | Stairs chiseled into the side of the mountain that climb 3d20 + 40 feet before ending abruptly |
+| 25-27 | 2d10 stirges                                                                                   |
+| 28-30 | 2d4 aarakocra                                                                                  |
+| 31-33 | 2d6 dwarf soldiers (guards) with 1d6 mules laden with iron ore                                 |
+| 34-36 | 1 giant eagle                                                                                  |
+| 37-38 | A small shrine dedicated to a lawful neutral god, perched on a stone outcropping               |
+| 39-41 | 2d8 + 1 blood hawks                                                                            |
+| 42-44 | 1 giant goat                                                                                   |
+| 45-47 | 3d4 kobolds                                                                                    |
+| 48-50 | 1 half-ogre                                                                                    |
+| 51-53 | 1 berserker                                                                                    |
+| 54-55 | 1 orog                                                                                         |
+| 56    | 1 hell hound                                                                                   |
+| 57    | 1 druid                                                                                        |
+| 58-59 | 1 peryton                                                                                      |
+| 60-61 | 1d2 hippogriffs                                                                                |
+| 62    | 1 manticore                                                                                    |
+| 63-64 | 1d6 + 2 scouts                                                                                 |
+| 65-67 | Enormous footprints left by a giant, which head into the mountain peaks                        |
+| 68-73 | 2d4 orcs                                                                                       |
+| 74-75 | 1 giant elk                                                                                    |
+| 76-77 | 1 veteran                                                                                      |
+| 78-79 | 1 orc Eye of Gruumsh                                                                           |
+| 80    | 1d4 harpies                                                                                    |
+| 81    | 1 ogre                                                                                         |
+| 82    | 1 griffon                                                                                      |
+| 83    | 1 basilisk                                                                                     |
+| 84-85 | 1 saber-toothed tiger                                                                          |
+| 86-90 | A sparkling stream of water spilling from a crevice                                            |
+| 91    | 1d2 ettins                                                                                     |
+| 92    | 1 cyclops                                                                                      |
+| 93    | 1 troll                                                                                        |
+| 94    | 1 galeb duhr                                                                                   |
+| 95    | 1 air elemental                                                                                |
+| 96    | 1 bulette                                                                                      |
+| 97    | 1 chimera                                                                                      |
+| 98    | 1 wyvern                                                                                       |
+| 99    | 1 stone giant                                                                                  |
+| 00    | 1 frost giant                                                                                  |
+^encounter-mountain-1-4
+
+| dice: 1d100  | Encounter                                                                                            |
+|-------|------------------------------------------------------------------------------------------------------|
+| 01-02 | 2d8 + 1 aarakocra                                                                                    |
+| 03-04 | 1 lion or 1 saber-toothed tiger                                                                      |
+| 05-06 | 1d8 + 1 giant goats                                                                                  |
+| 07-08 | 1d4 + 3 dwarf trailblazers (scouts)                                                                  |
+| 09-10 | 1d6 + 2 orcs                                                                                         |
+| 11-15 | 1d10 giant eagles                                                                                    |
+| 16-20 | 1d8 + 1 hippogriffs                                                                                  |
+| 21-25 | 1d8 fissures venting steam that partially obscures a 20-foot cube above each fissure                 |
+| 26-30 | 1 basilisk                                                                                           |
+| 31-35 | 1d12 half-ogres                                                                                      |
+| 36-40 | A ravine blocked by a 100-foot-high wall, which has an opening in the center where a gate used to be |
+| 41-45 | 1 manticore                                                                                          |
+| 46-50 | 2d4 harpies                                                                                          |
+| 51-52 | 1 galeb duhr                                                                                         |
+| 53-54 | 1 bulette                                                                                            |
+| 55-56 | 1d10 berserkers                                                                                      |
+| 57-58 | 1d3 hell hounds                                                                                      |
+| 59-60 | 1d8 + 1 veterans                                                                                     |
+| 61-65 | A distant mountain whose peak resembles a tooth                                                      |
+| 66-69 | 1d4 ettins                                                                                           |
+| 70-73 | 1 wyvern                                                                                             |
+| 74-75 | 1 orc Eye of Gruumsh with 1d6 orogs and 3d6 + 10 orcs                                                |
+| 76-80 | A row of 1d10 + 40 stakes upon which the bodies of kobolds, dwarves, or orcs are impaled             |
+| 81-83 | 1 fire giant                                                                                         |
+| 84-85 | 1 young silver dragon                                                                                |
+| 86-87 | 1d4 air elementals                                                                                   |
+| 88-90 | 1d4 trolls                                                                                           |
+| 91-92 | 1d3 + 1 cyclopes                                                                                     |
+| 93-94 | 1d4 chimeras                                                                                         |
+| 95-96 | 1 cloud giant                                                                                        |
+| 97    | 1 roc                                                                                                |
+| 98    | 1d4 stone giants                                                                                     |
+| 99    | 1 young red dragon                                                                                   |
+| 00    | 1d4 frost giants                                                                                     |
+^encounter-mountain-5-10
+
+| dice: 1d100  | Encounter                                                           |
+|-------|---------------------------------------------------------------------|
+| 01-02 | 1d8 + 1 basilisks                                                   |
+| 03-04 | 2d4 hell hounds                                                     |
+| 05-06 | 1d3 chimeras                                                        |
+| 07-08 | 1 galeb duhr                                                        |
+| 09-10 | 2d6 veterans                                                        |
+| 11-15 | 1 young silver dragon                                               |
+| 16-20 | 2d4 trolls                                                          |
+| 21-25 | 1 red dragon gliding through the sky above the highest mountaintops |
+| 26-30 | 1d8 + 1 manticores                                                  |
+| 31-35 | 1d4 cyclopes                                                        |
+| 36-40 | Heavy snowfall that lasts for 1d6 hours                             |
+| 41-45 | 1d10 air elementals                                                 |
+| 46-50 | 1d6 + 2 bulettes                                                    |
+| 51-55 | 1d4 stone giants                                                    |
+| 56-60 | 1 fire giant                                                        |
+| 61-65 | 2 stone giants playing catch with a boulder a few hundred feet away |
+| 66-70 | 1d8 + 1 ettins                                                      |
+| 71-75 | 1d3 frost giants                                                    |
+| 76-80 | A wide crevasse, its depths shrouded in mist                        |
+| 81-85 | 1d4 cloud giants                                                    |
+| 86-90 | 1 adult silver dragon                                               |
+| 91-96 | 1 adult red dragon                                                  |
+| 97-98 | 1d4 rocs                                                            |
+| 99    | 1 ancient silver dragon                                             |
+| 00    | 1 ancient red dragon                                                |
+^encounter-mountain-11-16
+
+#### Swamp
+
+
+
+
+#### Underdark
+
+
+
+
+#### Underwater
+
+
+
+
+#### Urban
+
 
 
 
@@ -616,6 +1563,7 @@ Tables taken from https://5e.tools/encountergen.html
 | 11         | Many keys I do possess, but can't open a lock; your feet will move in time as all your fingers take a walk.                                                                    | A piano         |
 | 12         | I'm lighter than a feather, and rise to water's top; but hold me for too long, and you'll begin to drop.                                                                       | Breath          |
 ^random-riddles
+
 
 ### Spelljammer
 
