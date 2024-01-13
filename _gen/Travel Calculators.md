@@ -6,14 +6,15 @@ TravelDistance: 1200
 Environment: grassland
 CostPer15Miles: 6
 PeopleTraveling: 5
-PartyLevel: 1-4
-EncounterProbability: 0.1
+PartyLevel: 11-16
+EncounterProbability: 0.3
 ---
  #generator 
 
-Updating the calculator below will flow the changes out to any notes that automatically calculate travel distances. You need to refresh this note in order to see calculated changes. 
 
 ### Travel Time
+Updating the calculator below will flow the changes out to any notes that automatically calculate travel distances.
+
 |  |  |  |
 | ---- | ---- | ---- |
 | **Travel Means:** | `INPUT[inlineSelect(option(3, On Foot), option(6, By Horse), option(7, By Magebred Coach), option(10, By Sailing Ship), option(12, By Elemental Galleon), option(20, By Airship), option(30, By Lightning Rail)):MilesPerHour]` | Max Travel Hours Per Day: `VIEW[{MilesPerHour}>=10 ? 24 : 8]` |
@@ -37,15 +38,19 @@ Updating the calculator below will flow the changes out to any notes that automa
 |  |  |
 | ---- | ---- |
 | **Party Level:** | `INPUT[inlineSelect(option(1-4, 1 to 4), option(5-10, 5 to 10), option(11-16, 11 to 16), option(17-20, 17 to 20)):PartyLevel]` |
-| **Travel Situation:** | `INPUT[inlineSelect(option(0.05, Safe route- low danger environment), option(0.15, Safe route- higher danger environment), option(0.3, Mildly dangerous route), option(17-20, 17 to 20)):PartyLevel]` |
-| **Travel Cost 💰:** | `VIEW[round((({TravelDistance} / 15) * {CostPer15Miles} * {PeopleTraveling}), 0)]` sp |
+| **Travel Situation:** | `INPUT[inlineSelect(option(0.05, Safe route- low danger environment), option(0.15, Safe route- higher danger environment), option(0.3, Mildly dangerous route), option(0.5, Dangerous route)):EncounterProbability]` |
 
 ```dataviewjs
 const environment = dv.current().Environment
+const partyLevel = dv.current().PartyLevel
+const daysTravel = dv.current().TravelDistance / ( ( dv.current().MilesPerHour * dv.current().HoursPerDay ) * dv.current().SpeedMultiplier )
 const diceRollerPlugin = app.plugins.getPlugin("obsidian-dice-roller");
-const diceRoller = await diceRollerPlugin.getRoller("[[Random Tables#^encounter-" + environment + "]]");
+const diceRoller = await diceRollerPlugin.getRoller("[[Random Tables#^encounter-" + environment + "-" + partyLevel + "]]");
 const diceRoll = await diceRoller.roll();
-dv.paragraph(diceRoll )
+let days = 0
+while (days < daysTravel) {
+  dv.paragraph(daysTravel)
+}
 ```
 
 ### References

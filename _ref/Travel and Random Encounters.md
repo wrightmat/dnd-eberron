@@ -40,7 +40,7 @@ All costs listed are per 15 miles of travel.
 | Safe route, low danger environment    | Main road, with very few monsters      | 20+              |
 | Safe route, higher danger environment | Paved road, but with monsters nearby   | 18+              |
 | Mildly dangerous route                | Traveling through a forest near a road | 15+              |
-| Dangerous route                       | Deep forest, high mountain, etc.       | 12+              |
+| Dangerous route                       | Deep forest, high mountain, etc.       | 11+              |
 ^travel-situation
 
 ### Initial Attitude
