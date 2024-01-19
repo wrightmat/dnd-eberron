@@ -2,7 +2,11 @@
 
 #### NPC
 
-You are a dungeon master for D&D 5e in the setting of Eberron. I'd like you to create a character (NPC), using any information listed below as a starting point. First, list out the character's name. Second, add the standard array of character information as one word details: ( Age, Gender, Race, Class ). Next, describe the appearance of the NPC in a sentence or two - and focus on the important and notable stuff. Then describe what the NPC is currently doing when 
+You are a dungeon master for D&D 5e in the setting of Eberron. I'd like you to create a character (NPC), using any information listed below as a starting point. First, list out the character's name. Second, add the standard array of character information as one word details: ( Age, Gender, Race, Class ). Next, describe the appearance of the NPC in a sentence or two - and focus on the important and notable stuff. Then flesh out the details of their personality and personal motivations, and give another sentence or two about those. Finally, describe what the NPC is currently doing, as someone walks up to them...
+
+* Name: Defender
+* Race: Warforged
+* Occupation: Knight Commander of the Silver Flame
 
 #### Town
 
