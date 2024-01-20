@@ -1,4 +1,31 @@
+---
+Type: City
+Region: "[[Zilargo]]"
+Government: Council of Nine
+Ruler: Zunia Harun
+Image: "![https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg|300](https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg)"
+---
  #location #city [[Zilargo]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.Image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.Type` |
+> | **Region** | `=this.Region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.Government` |
+> | **Ruler** | `=this.Ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.Comments`
 
 The smallest of the the three cities of Zilargo, Zolanberg is best known for its mines. While not as rich as the entire expanse of the Mror Holds, the mines of Zolanberg are a strategic asset to the nation. The mines come with plenty of trouble, not just from the environmental impact of mining but also the native kobolds that live in the Seawall Mountains. Zolanberg ties into Trolanport's Elemental Binding trade by providing the Khyber shards it uses.
 
@@ -10,32 +37,39 @@ Key to the actual process of mining is access to other natural resources, namely
 
 Only three (non-Sivis) houses have a major presence in Zolanberg - Orien (lightning rail stop), Kundarak (security services, specifically a large vault), and Tharashk (prospectors). The somewhat isolated nature of the city, plus the insular nature of the gnomes, makes it difficult for the others to make much profit in Zolanberg, even if they keep small enclaves.
 
-While New Cyre and Sharn are well-known as the home of Cyran refugees, a lesser known fact is that the gnomes of Zilargo were especially hospitable. While the first refugees were from those who fled West out of South Cyre (modern Darguun), the communities swelled after the Day of Mourning. The refugees in Zolanberg don't hold any political power, but their community is looked after with kindness by the Council of Nine. The community leader is Zinat Harun, an elderly woman with tanned, leathery skin who came with the original refugees decades ago from South Cyre.
+While New Cyre and Sharn are well-known as the home of Cyran refugees, a lesser known fact is that the gnomes of Zilargo were especially hospitable. While the first refugees were from those who fled West out of South Cyre (modern Darguun), the communities swelled after the Day of Mourning. The refugees in Zolanberg don't hold any political power, but their community is looked after with kindness by the Council of Nine.
 
-**The Haka'jhar**
+The community leader is Zunia Harun, an older gnome woman who is the descendent of one of the original refugees from South Cyre almost two decades ago (Zinat Harun).
 
-The Haka'jhar nation of kobolds calls the Seawall mountains home. Classed as "Irvhir" kobolds, they claim to have been formed directly from the blood of Khyber. Intensely xenophobic, the kobolds have failed to hold back the steadily encroaching gnomish mines. Still, the Haka'jhar are a persistent threat, both to personal safety and the continued economic productivity of the Zil mines.
+### Secrets and Clues
+Check off as information is received. Some items may have more details throughout the page.
 
-Since the end of the Last War there are reports of Kobold activity farther from the Seawall mountains, as if the kobolds have tunnels extending out into Zilargo proper. Despite this, no magic has been able to find these tunnels, if they do exist at all. Adventurers and other security forces more familiar with the kobolds report that they have an unusual amount of sorcerers, and scholars have theorized that their connection to the Dragon Below and thus the prophecy may be more than myth. Either the Lords of Dust or the draconic Chamber may be manipulating the kobolds to some end - but what?
+ - [ ]  The Haka'jhar nation of kobolds calls the Seawall mountains home. Classed as "Irvhir" kobolds, they claim to have been formed directly from the blood of Khyber. Intensely xenophobic, the kobolds have failed to hold back the steadily encroaching gnomish mines.
 
-**Locations**
+### Important Locations
 
-**Lightning Rail Station**
+* **Lightning Rail Station**
+* **The Drunken Dwarf**. The town’s tavern is run by one of the dwarf families that were brought here as consultants generations ago. Now Kellark Narathun runs the day-to-day operations. The tavern is incredibly popular with the dwarves and gnomes who work the mines.
+* **Copper Dragon Inn**. A stationary Brass Bards troupe started up here just a few weeks ago, led by a charismatic dwarf leader who always wears a brass ring on every finger.
+* **Community Hall**. A small gathering hall sits in the center of town, near the vault. Zunia Harun, the leader of the Council of Nine, resides here as well.
+* **The Central Vault**. House Kundarak protects Zolanberg's gem inventory in a huge vault within the city.
+* **Prospector's Guild Hall**. House Tharashk operates a significant operation in the city via the Prospector's Guild and recently built a large new facility.
+* **Khyber Dragonshard Mine**
 
-**The Drunken Dwarf** (Tavern)
+### Notable Characters
 
-The town’s tavern is run by one of the dwarf families that were brought here as consultants generations ago. Now Kellark Narathun runs the day-to-day operations. The tavern is incredibly popular with the dwarves and gnomes who work the mines.
+* Zunia Harun, an older gnome woman and community leader.
+* Kellark Narathun, who runs The Drunken Dwarf.
+* 
 
-**Khyber Dragonshard Mine**
+### History
 
-**Prospector's Guild Hall**
 
-House Tharashk operates a significant operation in the city via the Prospector's Guild and recently built a large new facility.
 
-**Community Hall**
+### DM Notes
 
-A small gathering hall sits in the center of town, near the vault. Zinat Harun, the leader of the Council of Nine, resides here as well.
 
-**The Central Vault**
 
-House Kundarak protects Zolanberg's gem inventory in a huge vault within the city.
+### References
+
+* https://eberron.fandom.com/wiki/Zolanberg

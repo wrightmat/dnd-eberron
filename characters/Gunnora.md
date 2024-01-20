@@ -2,7 +2,7 @@
 
 Gender:: Female
 Race:: Half-Elf
-Occupation:: ???
+Occupation:: Armorer, Blacksmith
 Class:: Fighter (Champion) / Artificer
 Originally an NPC played by [[Kerrie Heath]] during [[3-03. The Orphanage Flashback]]
 
