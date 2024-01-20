@@ -107,7 +107,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Obsidian (Argonnessen)
 **Goal**: Release Khyber
- - [ ]  
+ - [ ]  Ally with House Phiarlan to maintain a presence of spies in Khorvaire. The Five Demesnes are located at Fairhaven in Aundair (Memory), Wroat in Breland (Motion), Flamekeep in Thrane (Music), Thaliost in Thrane (Shape), and Sharn in Breland (Shadow).
 
 † Some dragon tribes, such as the white dragons (least intelligent and mostly just territorial and ferocious) and the other gem dragons, don't have their own distinct plot progressions.
 
