@@ -1,9 +1,9 @@
 ---
 Type: Continent
 Region: "[[Eberron]]"
-Government: 
-Ruler: 
-Image:
+Government: Principality
+Ruler: High Prince Ryger ir'Wynarn
+Image: "![https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg|300](https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg)"
 ---
 
  #location #capital 
@@ -24,7 +24,7 @@ Image:
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculator#MilesPerHour}*{Travel Calculator#HoursPerDay})*{Travel Calculator#SpeedMultiplier}),1)]` days |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
 > `=this.Comments`
 

@@ -12,7 +12,7 @@ All of the Sphinxes are concerned about recent events because they advance the A
 | Tahorep | Androsphinx | Thrane | Head of a human male, body of a lion, wings of an eagle | Egypt, at Giza (Androsphinx) |
 | Valrok | Equisphinx | Valenar | Head of a horse, body of a lion, wings of an eagle | India (Sharabha) |
 | Zirael | Criosphinx | Zilargo | Head of a ram, body of a lion | Egypt, at Thebes (Criosphinx) |
-| Lirmar | Hieracosphinx | Lhazaar | Head of a hawk, body of a lion | Egypt, at Edfu (Hieracosphinx) |
+| Lirmar | Hieracosphinx | Lhazaar | Head and wings of a hawk, body of a lion | Egypt, at Edfu (Hieracosphinx) |
 | Nisha | Mantisphinx | Shadow Marches | Head of an orc, body of a lion, wings of a dragon, tail of a scorpion | Sri Lanka (Nara-simha) |
 | Aerion | Loquasphinx | Aerenal | Head of an elf, body of a lion, wings of an eagle | Iran / Persia (Gopaitioshah) |
 | Durgan | Taurosphinx | Mror Holds | Head of a dwarf, body of a bull, wings of an eagle | Sumeria (Lamassu) |
