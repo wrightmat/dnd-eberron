@@ -6,18 +6,18 @@ All of the Sphinxes are concerned about recent events because they advance the A
 
 ### Summary
 
-| Name      | Creature      | Location         | Appearance                                                               | Inspiration                    |
-| --------- | ------------- | ---------------- | ------------------------------------------------------------------------ | ------------------------------ |
-| Flamewind | Gynosphinx    | Sharn / Xen'drik | Head of an elven woman, haunches of a lion, wings of a bird              | Greece (Gynosphinx)            |
-| Tahorep   | Androsphinx   | Thrane           | Head of a human male, body of a lion, wings of an eagle                  | Egypt, at Giza (Androsphinx)   |
-| Zirael    | Criosphinx    | Zilargo          | Head of a ram, body of a lion                                            | Egypt, at Thebes (Criosphinx)  |
-| Lirmar    | Hieracosphinx | Lhazaar          | Head of a hawk, body of a lion                                           | Egypt, at Edfu (Hieracosphinx) |
-| Valrok    | Equisphinx    | Valenar          | Head of a horse, body of a lion, wings of an eagle                       | India (Sharabha)               |
-| Nisha     | Mantisphinx   | Shadow Marches   | Head of an orc, body of a lion, wings of a dragon, tail of a scorpion    | Sri Lanka (Nara-simha)         |
-| Aerion    | Loquasphinx   | Aerenal          | Head of an elf, body of a lion, wings of an eagle                        | Iran / Persia (Gopaitioshah)   |
-| Durgan    | Taurosphinx   | Mror Holds       | Head of a dwarf, body of a bull, wings of an eagle                       | Sumeria (Lamassu)              |
-| Elemaeus  | Leucosphinx   | Everice          | Head of a giant, body of a lion, white fur with dark green mane and tail | Tibet (Snow Lion)              |
-| Reigney   | Cervisphinx   | Sarlona †        | Head of an ogre, body of a deer                                          | Thailand (Nora Nair)           |
+| Name | Creature | Location | Appearance | Inspiration |
+| ---- | ---- | ---- | ---- | ---- |
+| Flamewind | Gynosphinx | Sharn / Xen'drik | Head of an elven woman, haunches of a lion, wings of a bird | Greece (Gynosphinx) |
+| Tahorep | Androsphinx | Thrane | Head of a human male, body of a lion, wings of an eagle | Egypt, at Giza (Androsphinx) |
+| Valrok | Equisphinx | Valenar | Head of a horse, body of a lion, wings of an eagle | India (Sharabha) |
+| Zirael | Criosphinx | Zilargo | Head of a ram, body of a lion | Egypt, at Thebes (Criosphinx) |
+| Lirmar | Hieracosphinx | Lhazaar | Head of a hawk, body of a lion | Egypt, at Edfu (Hieracosphinx) |
+| Nisha | Mantisphinx | Shadow Marches | Head of an orc, body of a lion, wings of a dragon, tail of a scorpion | Sri Lanka (Nara-simha) |
+| Aerion | Loquasphinx | Aerenal | Head of an elf, body of a lion, wings of an eagle | Iran / Persia (Gopaitioshah) |
+| Durgan | Taurosphinx | Mror Holds | Head of a dwarf, body of a bull, wings of an eagle | Sumeria (Lamassu) |
+| Elemaeus | Leucosphinx | Everice | Head of a giant, body of a lion, white fur with dark green mane and tail | Tibet (Snow Lion) |
+| Reigney | Cervisphinx | Sarlona † | Head of an ogre, body of a deer | Thailand (Nora Nair) |
 
 † The location in Sarlona should be any of the Ten Kingdoms where a PC is not from (all PCs should have a background from somewhere in Sarlona).
 
