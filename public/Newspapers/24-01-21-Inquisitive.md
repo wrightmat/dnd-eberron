@@ -1,0 +1,41 @@
+
+<div style="text-align:center;font-variant:small-caps">Haftak ir'Clarn Presents: Dispatches to the Five Nations and Beyond!</div>
+<p style="font-family:Georgia;font-variant:small-caps;font-size:80px;text-align:center;margin:20px;">Sharn Inquisitive</p>
+<hr>
+<div style="text-align:center">Sul, 21 Zarantyr, 1051 YK</div>
+
+
+#### Keeper of the Flame Jaela Daran Passed Away
+
+The Church of the Silver Flame has recently publicized the death of their Keeper of the Flame, Jaela Daran, who died of natural causes at the age of 64. The Keeper actually passed away on 2 Zarantyr, according to the Church, but the statement was only released last week. The release of the statement coincided with the draping in black of all Church of the Silver Flame temples, as is the Church's tradition. Representatives of the Council of Cardinals have stated that the selection process for a new Keeper of the Flame may begin as early as next week, but were unable to comment on details of the process.
+
+The trusted astrological correspondents at the Sharn Inquisitive would like to note that 2 Zarantyr was the day of a new moon of Daanvi during the month of Kythri - the height of chaos over order. Was this a coincidence? This newspaper isn't so sure.
+
+
+#### Copper Dragon Inns Win Popularity
+
+In a surprising turn of events, the newly-established Copper Dragon Inns have swiftly ascended to become the favored haven for adventurers and travelers across Eberron, edging out the long-revered Gold Dragon Inns. What sets the Copper Dragon Inns apart is their commitment to innovation and a refreshing departure from tradition. Nestled in strategic locations, these inns boast state-of-the-art magical amenities that cater to the modern adventurer's needs.
+
+With enchantments that provide unparalleled comfort, secure magical vaults for storing valuable items, and a vibrant atmosphere infused with a touch of whimsy, Copper Dragon Inns have successfully tapped into the evolving tastes of the population. The charismatic and enterprising owners, known for their daring business acumen, have embraced a new era of hospitality, positioning their establishments as hubs of both relaxation and excitement. As word spreads of the Copper Dragon Inns' exceptional service and modern approach, a growing number of patrons are choosing these vibrant establishments, signaling a shift in the landscape of premier accommodations across Eberron.
+
+
+>[!danger] House Orien Lightning Rail
+>"The only way to see the Brelish countryside!"
+>
+><small>*Present this coupon for half-price on your next fare! (for travel within Breland only)*</small>
+
+
+#### Regular Segment: Life on the Streets of Sharn
+
+Amidst the towering spires of Sharn, where life is a constant swirl of activity, the cityscape has recently welcomed a wave of new establishments, adding vibrancy to its already eclectic tapestry. One such gem is "Aetherial Eats," a floating restaurant perched atop the Skyway district, providing diners with breathtaking views of the city below. Patrons indulge in culinary delights while surrounded by aetherial energies, creating an ambiance unlike anything else in Sharn.
+
+For those with a penchant for magical curiosities, "Mystique Emporium" has thrown open its doors in the lower levels of the city. Run by a gnomish entrepreneur with a flair for the eccentric, the shop offers a trove of enchanting oddities and mystical trinkets. Adventurers and collectors alike find themselves drawn to the emporium's shelves filled with arcane wonders and whimsical gadgets.
+
+Down in the bustling district of Lower Dura, the aroma of freshly baked pastries and the sound of jovial laughter waft from "The Gnomish Griddle." This charming bakery, owned by a gnome with a passion for culinary innovation, has quickly become a favorite among locals. From enchanted pastries that change flavors with each bite to levitating cupcakes, The Gnomish Griddle is a delightful escape for those seeking a taste of magic in every bite.
+
+As Sharn continues to evolve, these new establishments weave themselves into the fabric of daily life, offering residents and visitors alike novel experiences and a glimpse into the ever-expanding diversity of this extraordinary city.
+
+
+<hr>
+<p style="text-align: center"> "A copper piece in the cup is a copper piece earned"  - Beggar Dane </p>
+<hr>
