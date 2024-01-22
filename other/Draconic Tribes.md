@@ -27,10 +27,15 @@ Below are details on each of the tribes. The dragons should be treated as essent
 The tracts below are listed in the general order that the PCs are expected to encounter them†.
 
 ##### Silver (Breland)
-**Goal**: Work to ensure that all people in Khorvaire trust the dragons.
+**Goal**: Work to ensure that all people in Khorvaire trust the dragons, while at the same time pursuing Yllosavax's goals of arcane knowledge.
  - [x] A silver dragonborn named Valmoc is introduced to the PCs as part of their travels. He introduces them to the idea of the Silver Scales, and their role as protectors of all of Khorvaire so we don't see something like Shae Mordai again. ✅ 2024-01-11
- - [ ]  Valmoc and/or silver dragons arrive in Arcanix, hoping to create an alliance with the humans there to pursue arcane research.
- - [ ] The silver dragons begin recruiting promising arcane individuals (wizards, sorcerers, magewrights, etc.) to come to both Arcanix and 
+ - [ ]  Valmoc and/or silver dragons arrive in Arcanix, hoping to create an alliance with the humans there to protect their pursuit of arcane research.
+ - [ ]  The silver dragons begin recruiting promising arcane individuals (wizards, sorcerers, magewrights, etc.) to come to both Arcanix and the Silvered Spire in Sharn.
+ - [ ]  The Silver Scales are seen delving into forgotten tombs, deciphering ancient texts, and confronting magical challenges, looking for arcane secrets.
+ - [ ]  The Silver Scales actively intervene in conflicts between dragon tribes, employing diplomatic measures and, when necessary, covert operations to prevent escalation. Their goal is to redirect the dragons' focus from chaotic pursuits to the principles of order and protection.
+ - [ ]  Arcanix, Sharn, and any other locations scoped out by the silver dragonborn are declared as Arcane Sanctuaries under the protection of the Silver Scales, where both dragons and mortals can safely study and harness magical energies without interference by the other dragons.
+ - [ ]  One of the Arcane Sanctuaries discovers an artifact that they believe may be what Yllosavax has been searching for - an arcane means to draconic immortality.
+ - [ ]  
 
 ##### Gold (Thrane)
 **Goal**: Take over both the Church of the Silver Flame and Thronehold, in order to get an ancient couatl artifact (hidden in Thronehold and protected by the Church) that will help release Khyber.
