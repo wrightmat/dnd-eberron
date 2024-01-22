@@ -62,12 +62,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 The below ads can be copied and pasted into any of the paper templates above.
 
 >[!danger] House Orien Lightning Rail
->**The only way to see the Brelish countryside.**
+>![https://www.worldanvil.com/uploads/images/90c5faa9895beac45b10848d8be7af07.png|right|200](https://www.worldanvil.com/uploads/images/90c5faa9895beac45b10848d8be7af07.png)
+>The only way to see the Brelish countryside!
 >
->*Present this coupon for half-price on your next fare! (for travel within Breland only)*
+><small>*Present this coupon for half-price on your next fare! (for travel within Breland only)*</small>
 
 >[!tip] Jorasco Miracle Cream
->**Use on my cut, burn, or wound. Accept no substitute!**
-><img style="position:absolute;top:-20px;right:10px;width:200px;" src="https://skincando.com/wp-content/uploads/2018/03/miracle-cream.png"></img>
->*These claims have not been tested. This product is not intended to diagnose, treat, cure, or prevent any disease.*
+>![https://skincando.com/wp-content/uploads/2018/03/miracle-cream.png|right|200](https://skincando.com/wp-content/uploads/2018/03/miracle-cream.png)
+>Use on my cut, burn, or wound. **Accept no substitute!**
+>
+><small>*These claims have not been tested. This product is not intended to diagnose, treat, cure, or prevent any disease.*</small>
 

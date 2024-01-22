@@ -11,9 +11,10 @@ The number of citizen sightings of mysterious creatures known as sphinxes have b
 
 
 >[!tip] Jorasco Miracle Cream
->**Use on my cut, burn, or wound. Accept no substitute!**
-><img style="position:absolute;top:-20px;right:10px;width:200px;" src="https://skincando.com/wp-content/uploads/2018/03/miracle-cream.png"></img>
->*These claims have not been tested. This product is not intended to diagnose, treat, cure, or prevent any disease.*
+>![https://skincando.com/wp-content/uploads/2018/03/miracle-cream.png|right|200](https://skincando.com/wp-content/uploads/2018/03/miracle-cream.png)
+>Use on my cut, burn, or wound. **Accept no substitute!**
+>
+><small>*These claims have not been tested. This product is not intended to diagnose, treat, cure, or prevent any disease.*</small>
 
 
 #### Headline 2
