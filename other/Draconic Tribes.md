@@ -15,7 +15,7 @@ Below are details on each of the tribes. The dragons should be treated as essent
 | Brass | Sleep, Fire | Meretsega | Thelanis (Base in Darguun/Zilargo) | The Brass Bards | Talkative | Green |  | Deserts, Plains | CG |
 | Bronze | Lightning, Charm | Shadewing | Shavarath (Base in Valenar) | The Bronze Navy | Honorable, Arrogant |  | Blue | Coastlines, Islands | LG |
 | Copper | Acid, Incapacitate | Kauverra | Xoriat (Base in Aerenal, Madwood) | Copper Dragon Inns | Joking, Devious, Clever | Crystal |  | Mountains, Deserts | CG |
-| Silver | Cold, Paralyze | Yllosavax | Syrania (Base in Breland) | The Silver Scales, Paladin Protectors of the Realm | Protective, Intelligent |  | Red | High Mountains | LG |
+| Silver | Cold, Paralyze | [[Yllosavax]] | Syrania (Base in Breland) | [[The Silver Scales]], Paladin Protectors of the Realm | Protective, Intelligent |  | Red | High Mountains | LG |
 | Gold | Fire, Weakening | [[Spindelaryx]] | Irian (Base in Thrane) | The Golden Palace | Powerful, Wise |  |  | Anywhere | LG |
 | Obsidian† | Necrotic | [[Arstyvrax]] | Dolurrh (Base in Argonnessen, The Vast) | Scions of Sardior | Viscous, Intelligent | Black | n/a | Underground | CN |
 | Crystal | Radiant | Hrodel | Dal Quor (Base in Sarlona, Syrkarn, Heart of Io) | Scions of Sardior | Fun-loving, Mischievous | Copper | n/a | The Skies | LN |
@@ -29,7 +29,8 @@ The tracts below are listed in the general order that the PCs are expected to en
 ##### Silver (Breland)
 **Goal**: Work to ensure that all people in Khorvaire trust the dragons.
  - [x] A silver dragonborn named Valmoc is introduced to the PCs as part of their travels. He introduces them to the idea of the Silver Scales, and their role as protectors of all of Khorvaire so we don't see something like Shae Mordai again. ✅ 2024-01-11
- - [ ]  
+ - [ ]  Valmoc and/or silver dragons arrive in Arcanix, hoping to create an alliance with the humans there to pursue arcane research.
+ - [ ] The silver dragons begin recruiting promising arcane individuals (wizards, sorcerers, magewrights, etc.) to come to both Arcanix and 
 
 ##### Gold (Thrane)
 **Goal**: Take over both the Church of the Silver Flame and Thronehold, in order to get an ancient couatl artifact (hidden in Thronehold and protected by the Church) that will help release Khyber.

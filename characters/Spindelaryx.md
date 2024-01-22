@@ -2,7 +2,8 @@
 
 Gender:: Female
 Occupation:: Prefect of Thrane
-Race:: Dragon (Gold)
+Race:: Dragon
+Subrace:: Metallic(Gold)
 
 Spindelaryx, also known by the nickname "Spiney", is a powerful dragon and secret leader of the Church of the Silver Flame in Thrane. In approximately 912 YK, Spindelaryx was left at an orphanage in Daskaran disguised as a white dragonborn, where she became fast friends with several of the orphans - but especially a young Aasimar named Onme Nanvia Donverou.
 

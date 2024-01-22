@@ -1,4 +1,4 @@
- #npc 
+ #npc [[The Silver Scales]]
 
 Gender:: Male
 Occupation:: Traveling Guardian (for hire)
