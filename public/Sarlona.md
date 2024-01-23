@@ -18,7 +18,7 @@ Sarlona is the ancestral home of the human race. Run as an almost totalitarian r
 
 The Capital of the Ten Regions is the city of Kasshta (formerly Kasshta Keep) in Adar. The regions below are presented in descending order of approximate population (with Syrkarn being the most populace).
 
-#### [[public/Syrkarn|Syrkarn]]
+#### [[Syrkarn]]
 Syrkarn is a southern nation on the continent of Sarlona. It is a mostly agrarian society made up of ogres, eneko ("mongrel ogres"), half-giants, and humans. During the Age of the Dreaming Dark, Syrkarn sat on the edge of Reidran territory but was effectively independent. Because of this, it was barely effected by the Second Sundering, and has grown to be the largest nation in the new continent of Sarlona. Its growth has also been impacted by the nearby ports on the Aventus Islands who take people in from other continents such as Khorvaire and Aerenal. The nation remains fiercely independent though, and had little interest in becoming the capital of the newly established Ten Regions, which it happily passed to Adar. Syrkarn does remain the bread basket for the entire continent of Sarlona.
 
 * Population: 3,260,000 (44% human, 42% eneko, 12% half-giant, 1% kalashtar, 1% other)
