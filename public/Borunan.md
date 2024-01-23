@@ -32,3 +32,8 @@ The ogres of ancient Borunan cared nothing for the Sovereigns or the Silver Flam
 ### Food and Fashion
 
 
+
+### Development
+
+* During the Quiet Year, a buried statue was accidentally unearthed by a small boy named Rask. This eventually led to the excavation of an entire buried city by the now adult archeologist Rask and his team. The ogre mages took interest and started helping, ultimately finding a temple containing a large gemstone inside (which was later identified as a Khyber dragonshard with the help of the Syrks).
+* After fully excavating a mountain cave in which to establish a city, Borunan traded the excavated stone as building materials to Pyrine in exchange for access to fishing.

@@ -31,6 +31,7 @@ Stories are the primary art form throughout the kingdom, with both oral and writ
 ### Food and Fashion
 
 
+
 ### Development
 
 * Rhiavhaar, with the help of knowledgeable people from Syrkarn, was the first to establish representative democracy in Sarlona, during the Quiet Year.

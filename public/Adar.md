@@ -63,3 +63,9 @@ The Adarans' love of craft manifests in a variety of jewelry. From glass beadwor
 3. **Some martial arts.** Many people in Adar know a few dance steps from the path of shadows or a formalized routine from a nearby monastery. Most practice these forms as morning exercise and meditation, and many of them actually know how to fight.
 4. **Actions mean more than words.** Whether it's meditation on the Path of Light, stalking and killing a mountain lion that's been eating livestock, or just planting your barley on time, doing something is better than talking or vacillation. In fact, one of the precepts of the Path of Light is that the worst action to take is no action at all.
 5. **Death is not the end.** Adherents of the Path of Light believe that nothing in the world or on any plane is eternal. Dolurrh is a place where the ego dies, but the spirit is immortal, and it returns to the Material Plane again and again. The goal of living is eventually to master the Path of Light, thereby transcending fear and false desires. Those who accomplish this become one with il-Yannah.
+
+### Development
+
+* Sometime during the Second Sundering, Adarans started feeding (at least certain) criminals to the blue dragons that are prevalent in the area.
+* During the summer of the Quiet Year, Adar established Olympics-like games for competitive art. The first one took place the following summer, and every summer since, opening it up to the rest of Sarlona.
+* The Wanderers of Twilight still pop up occasionally, so security has increased across the region, especially during the Art-lympics.
