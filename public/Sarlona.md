@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
  #location #continent [[Eberron]]
 
 Sarlona is the ancestral home of the human race. Run as an almost totalitarian regime by The Unity of Riedra through the entirety of the Age of the Dreaming Dark, the entire continent changed when Riedra fell after the Turning of the Age (also known as the Second Sundering) in 1000 YK. The power vacuum created caused the continent to revert to a structure similar to what existed prior to The Unity - a coalition of Ten Regions.

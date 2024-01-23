@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
  #location #region [[Sarlona]]
 
 Five thousand years before the arrival of the Inspired, the nations now known collectively as the kingdom of Syrkarn were the jewels in the imperial crown of old Sarlona. Today, only ancient stonework and half-forgotten legends mark the fall, passing, and rebirth of this land. Still, to those who have inherited this seemingly inhospitable kingdom, Syrkarn offers a gift denied to both the warring nations of the past and the Inspired-dominated lands of more recent history. To its people, Syrkarn is the promise of freedom.
