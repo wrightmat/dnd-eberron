@@ -5,33 +5,33 @@ Tables taken from https://5e.tools/encountergen.html
 
 | dice: 1d100  | Encounter                                                                                   |
 |-------|---------------------------------------------------------------------------------------------|
-| 01    | 1 giant owl                                                                                 |
-| 02-05 | 1d6 + 3 kobolds                                                                             |
-| 06-08 | 1d4 + 3 trappers (commoners)                                                                |
-| 09-10 | 1 owl                                                                                       |
-| 11-12 | 2d4 blood hawks                                                                             |
-| 13-17 | 2d6 bandits                                                                                 |
-| 18-20 | 1d3 winged kobolds with 1d6 kobolds                                                         |
-| 21-25 | The partially eaten carcass of a mammoth, from which 1d4 weeks of rations can be harvested. |
-| 26-29 | 2d8 hunters tribal warriors                                                                 |
-| 30-35 | 1 half-ogre                                                                                 |
+| 01    | `encounter: 1: Giant Owl`                                                                                 |
+| 02-05 | `encounter: 1d6 + 3: Kobold`                                                                             |
+| 06-08 | `encounter: 1d4 + 3: Commoner` (trappers)                                                                |
+| 09-10 | `encounter: 1: Owl`                                                                                       |
+| 11-12 | `encounter: 2d4: Blood Hawk`                                                                             |
+| 13-17 | `encounter: 2d6: Bandit`                                                                                 |
+| 18-20 | `encounter: 1d3: Winged Kobolds, 1d6: Kobold`                                                         |
+| 21-25 | The partially eaten carcass of a mammoth, from which `dice:1d4` weeks of rations can be harvested. |
+| 26-29 | `encounter: 2d8: Tribal Warrior`                                                                 |
+| 30-35 | `encounter: 1: Half-ogre`                                                                                 |
 | 36-40 | Single-file tracks in the snow that stop abruptly                                           |
-| 41-45 | 1d3 ice mephits                                                                             |
-| 46-50 | 1 brown bear                                                                                |
-| 51-53 | 1d6 + 1 orcs                                                                                |
-| 54-55 | 1 polar bear                                                                                |
-| 56-57 | 1d6 scouts                                                                                  |
-| 58-60 | 1 saber-toothed tiger                                                                       |
+| 41-45 | `encounter: 1d3: Ice Mephit`                                                                             |
+| 46-50 | `encounter: 1: Brown Bear`                                                                                |
+| 51-53 | `encounter: 1d6 + 1: Orc`                                                                                |
+| 54-55 | `encounter: 1: Polar Bear`                                                                                |
+| 56-57 | `encounter: 1d6: Scout`                                                                                  |
+| 58-60 | `encounter: 1: Saber-toothed Tiger`                                                                       |
 | 61-65 | A frozen pond with a jagged hole in the ice that appears recently made                      |
-| 66-68 | 1 berserker                                                                                 |
-| 69-70 | 1 ogre                                                                                      |
-| 71-72 | 1 griffon                                                                                   |
-| 73-75 | 1 druid                                                                                     |
-| 76-80 | 3d4 refugees (commoners) fleeing from orcs                                                  |
-| 81    | 1d3 veterans                                                                                |
-| 82    | 1d4 orogs                                                                                   |
-| 83    | 2 brown bears                                                                               |
-| 84    | 1 orc Eye of Gruumsh and 2d8 orcs                                                           |
+| 66-68 | `encounter: 1: Berserker`                                                                                 |
+| 69-70 | `encounter: 1: Ogre`                                                                                      |
+| 71-72 | `encounter: 1: Griffon`                                                                                   |
+| 73-75 | `encounter: 1: Druid`                                                                                     |
+| 76-80 | `encounter: 3d4: Commoner` (refugees fleeing from orcs)                                                  |
+| 81    | `encounter: 1d3: Veteran`                                                                                |
+| 82    | `encounter: 1d4: Orog`                                                                                   |
+| 83    | `encounter: 2: Brown Bear`                                                                               |
+| 84    | `encounter: 1: Orc Eye of Gruumsh, 2d8: Orc`                                                           |
 | 85    | 1d3 winter wolves                                                                           |
 | 86-87 | 1d4 yetis                                                                                   |
 | 88    | 1 half-ogre                                                                                 |

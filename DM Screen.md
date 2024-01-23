@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] [[Lingering Injury]] (Mechanic)
 - [ ] [[Stress]] (Mechanic)
 - [ ] [[Swarms]] (Mechanic)
+- [ ] [[Travel Calculators]]
 - [ ] --
 - [ ] **Lazy DM Principles**:
 - [ ] * Let the story unfold at the table
@@ -32,6 +33,12 @@ kanban-plugin: basic
 - [ ] [[Sphinxes]]
 - [ ] [[locations/Sarlona|Sarlona]]
 - [ ] [[Flamewind]]
+- [ ] --
+- [ ] [[Aither Calobra Lightwood]]<br>12, 18, 12, 11, 15, 11, AC 16, 45 ft.<br>P. Per. 14, P. Inv. 10, P. Ins. 14
+- [ ] [[Thana Winslow]]<br><br>P. Per. ??, P. Inv. ??, P. Ins. ??
+- [ ] [[Staff]]<br>11, 14, 12, 19, 14, 12, AC 12, 30 ft.<br>P. Per. 12, P. Inv. 16, P. Ins. 14
+- [ ] [[Shahiri]]<br>16, 15, 15, 14, 15, 11, AC 14, 30 ft.<br>P. Per. 12, P. Inv. 12, P. Ins. 12
+- [ ] [[Verity]]<br>10, 16, 12, 12, 10, 15, AC 14, 30 ft.<br>P. Per. 12, P. Inv. 11, P. Ins. 12
 
 
 ## Randomness

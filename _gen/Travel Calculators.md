@@ -6,7 +6,7 @@ TravelDistance: 1200
 Environment: grassland
 CostPer15Miles: 0.5
 PeopleTraveling: 5
-PartyLevel: 11-16
+PartyLevel: 1-4
 EncounterProbability: 18
 ---
  #generator 
