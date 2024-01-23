@@ -12,6 +12,7 @@ modifier: 2
 * **Gender**:: Female
 * **Pronouns**:: she/her
 * **Race**:: Tiefling
+* **Background**:: Soldier
 
 ### Backstory
 

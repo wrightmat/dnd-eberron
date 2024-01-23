@@ -6,12 +6,13 @@ modifier: 3
 ---
  #pc [[Kerrie Heath]]
 
-* **Alignment**:: Neutral (Evil?)
+* **Alignment**:: Chaotic Neutral
 * **Class**:: Rogue
 * **Subclass**:: Arcane Trickster
 * **Gender**:: Non-Binary
 * **Pronouns**:: they/them
 * **Race**:: Aasimar (Fallen)
+* **Background**:: Charlatan
 
 ### Backstory
 

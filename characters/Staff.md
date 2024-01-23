@@ -12,6 +12,7 @@ modifier: 6
 * **Gender**:: Female
 * **Pronouns**:: she/her
 * **Race**:: Changeling
+* **Background**:: Sage
 * Only about 3 feet tall naturally.
 
 ### Backstory
