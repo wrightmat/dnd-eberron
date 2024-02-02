@@ -18,7 +18,7 @@ osmLayer: false
 
 ### Accents
 
--   Breland: English (various accents)
+* Breland: English (various accents)
     -   Wroat/Northern: Proper British
     -   Sharn/Southern: New England (Boston/Brooklyn)
     -   Vathirond/Eastern: Cockney British

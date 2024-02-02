@@ -44,6 +44,7 @@ The tracts below are listed in the general order that the PCs are expected to en
   - [ ]  Spindelaryx convinces the other three nations stationed at Thonehold to let Thrane remodel Thronehold Castle.
   - [ ]  "Throne Wardens" of House Denieth replaced by the Silver Scales, Paladin Protectors of the Realm.
   - [ ]  Spindelaryx takes control of the newly remodeled Thronehold Castle (now called the Golden Palace), calling in gold dragon reinforcements to force out the other three nations. The silver dragons may want to pretend to put up a fight, to keep up appearances.
+  - [ ]  Gold dragons attack Flamekeep, wiping out the Council of Cardinals.
   - [ ]  Gold dragons search for and eventually find the ancient couatl artifact.
   - [ ]  Gold dragons return to Argonnessen with the artifact, completing their goal.
 

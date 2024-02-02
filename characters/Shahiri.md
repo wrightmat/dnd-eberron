@@ -16,3 +16,4 @@ modifier: 2
 
 ### Backstory
 
+Used to be a guard or soldier and no longer is (because some people died who she was supposed to protect). Has been doing mercenary work more recently. 

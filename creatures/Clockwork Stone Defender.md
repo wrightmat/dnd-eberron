@@ -28,7 +28,7 @@ actions:
     desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and if the target is Large or smaller, it is knocked prone."
 reactions:
   - name: Intercept Attack.
-    desc: "In response to another creature within 5 feet of it being hit by an attack roll, the clockwork gives that creature a +5 bonus to its AC against that attack, potentially causing a miss. To use this ability, the clockwork must be able to see the creature and the attacker."
+    desc: "In response to another creature within 5 feet of it being hit by an attack roll, the clockwork gives that creature a (+5) bonus to its AC against that attack, potentially causing a miss. To use this ability, the clockwork must be able to see the creature and the attacker."
 ```
 
 ### References

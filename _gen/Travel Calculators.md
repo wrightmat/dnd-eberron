@@ -1,10 +1,10 @@
 ---
-MilesPerHour: 12
+MilesPerHour: 30
 SpeedMultiplier: 1
-HoursPerDay: 24
-TravelDistance: 1200
+HoursPerDay: 8
+TravelDistance: 1100
 Environment: grassland
-CostPer15Miles: 0.5
+CostPer15Miles: 2
 PeopleTraveling: 5
 PartyLevel: 1-4
 EncounterProbability: 18
