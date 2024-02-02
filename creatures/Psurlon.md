@@ -34,7 +34,7 @@ actions:
   - name: Claw.
     desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage."
   - name: Psychic Crush.
-    desc: "The psurlon targets one creature it can see within 120 feet of itself. The target must make a DC 13 Intelligence saving throw, taking 14 (2d10 + 3) psychic damage on a failed save, or half as much damage on a successful one."
+    desc: "The psurlon targets one creature it can see within 120 feet of itself. The target must make a DC 13 Wisdom saving throw, taking 14 (2d10 + 3) psychic damage on a failed save, or half as much damage on a successful one."
 ```
 
 ### Description
