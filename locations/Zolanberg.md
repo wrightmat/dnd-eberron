@@ -60,6 +60,7 @@ Check off as information is received. Some items may have more details throughou
 
 * Zunia Harun, an older gnome woman and community leader.
 * Kellark Narathun: gruff male dwarf who runs The Drunken Dwarf.
+* Rannik Aeris: confident male "dwarf" who has recently started up a Brass Bards troupe that's now stationary here. He's actually a brass dragon in disguise.
 * Tardath: Copper dragonborn bartender of the Copper Dragon Inn.
 * Gygrim: dwarf found passed out on the floor of the Drunken Dwarf.
 
