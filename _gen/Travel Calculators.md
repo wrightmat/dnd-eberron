@@ -4,7 +4,7 @@ SpeedMultiplier: 1
 HoursPerDay: 24
 TravelDistance: 1100
 Environment: grassland
-CostPer15Miles: 2
+CostPer15Miles: 1
 PeopleTraveling: 5
 PartyLevel: 1-4
 EncounterProbability: 18

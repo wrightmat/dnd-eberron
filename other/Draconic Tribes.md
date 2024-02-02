@@ -39,7 +39,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Gold (Thrane)
 **Goal**: Take over both the Church of the Silver Flame and Thronehold, in order to get an ancient couatl artifact (hidden in Thronehold and protected by the Church) that will help release Khyber.
-  - [ ]  Onme Donverou, a childhood friend of Spindelaryx, is appointed as Keeper of the Flame.
+  - [x]  Onme Donverou, a childhood friend of Spindelaryx, is appointed as Keeper of the Flame.
   - [ ]  Spindelaryx selected to lead Thrane's new contigent to Thronehold.
   - [ ]  Spindelaryx convinces the other three nations stationed at Thonehold to let Thrane remodel Thronehold Castle.
   - [ ]  "Throne Wardens" of House Denieth replaced by the Silver Scales, Paladin Protectors of the Realm.
