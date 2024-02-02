@@ -27,7 +27,7 @@ Below are details on each of the tribes. The dragons should be treated as essent
 The tracts below are listed in the general order that the PCs are expected to encounter them†.
 
 ##### Silver (Breland)
-**Goal**: Work to ensure that all people in Khorvaire trust the dragons, while at the same time pursuing Yllosavax's goals of arcane knowledge.
+**Goal**: Work to ensure that all people in Khorvaire trust the dragons, while at the same time pursuing Yllosavax's goals of arcane knowledge. "I'm not at liberty to say."
  - [x] A silver dragonborn named Valmoc is introduced to the PCs as part of their travels. He introduces them to the idea of the Silver Scales, and their role as protectors of all of Khorvaire so we don't see something like Shae Mordai again. ✅ 2024-01-11
  - [ ]  Valmoc and/or silver dragons arrive in Arcanix, hoping to create an alliance with the humans there to protect their pursuit of arcane research.
  - [ ]  The silver dragons begin recruiting promising arcane individuals (wizards, sorcerers, magewrights, etc.) to come to both Arcanix and the Silvered Spire in Sharn.
@@ -61,9 +61,9 @@ The tracts below are listed in the general order that the PCs are expected to en
  - [ ]  The Bronze Navy has completely control of the southern seas (Thunder Sea, Sea of Rage, Dark Sea), accomplishing their goal.
 
 ##### Brass (Zilargo)
-**Goal**: Establish a spy network to get information back to Argonnessen, destroying The Trust in the process.
+**Goal**: Establish a spy network to get information back to Argonnessen, destroying The Trust in the process. "Information is power".
   - [ ]  A traveling comedy troupe of brass dragonborn, known as the Brass Bards, begins to perform at any Copper Dragon Inns that exist in Khorvaire.
-  - [ ]  A stationary Brass Bards troupe starts up in the city of Zolanberg, led by a charismatic dwarf leader (who always wears a brass ring on every finger) who is actually a disguised brass dragon.
+  - [x]  A stationary Brass Bards troupe starts up in the city of Zolanberg, led by a charismatic dwarf leader (who always wears a brass ring on every finger) who is actually a disguised brass dragon.
   - [ ]  A stationary Brass Bards troupe starts up in the city of Trolanport.
   - [ ]  A stationary Brass Bards troupe starts up in the city of Korranberg.
   - [ ]  The leader of the Brass Bards ot Zolanberg is appointed to the Council of Nine that leads the city.

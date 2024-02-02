@@ -50,7 +50,7 @@ Check off as information is received. Some items may have more details throughou
 
 * **Lightning Rail Station**
 * **The Drunken Dwarf**. The town’s tavern is run by one of the dwarf families that were brought here as consultants generations ago. Now Kellark Narathun runs the day-to-day operations. The tavern is incredibly popular with the dwarves and gnomes who work the mines.
-* **Copper Dragon Inn**. A stationary Brass Bards troupe started up here just a few weeks ago, led by a charismatic dwarf leader who always wears a brass ring on every finger.
+* **Copper Dragon Inn**. Run by the copper dragonborn bartender named Tardath. A stationary Brass Bards troupe started up here just a few weeks ago, led by a charismatic dwarf leader who always wears a brass ring on every finger.
 * **Community Hall**. A small gathering hall sits in the center of town, near the vault. Zunia Harun, the leader of the Council of Nine, resides here as well.
 * **The Central Vault**. House Kundarak protects Zolanberg's gem inventory in a huge vault within the city.
 * **Prospector's Guild Hall**. House Tharashk operates a significant operation in the city via the Prospector's Guild and recently built a large new facility.
@@ -60,7 +60,6 @@ Check off as information is received. Some items may have more details throughou
 
 * Zunia Harun, an older gnome woman and community leader.
 * Kellark Narathun, who runs The Drunken Dwarf.
-* 
 
 ### History
 
