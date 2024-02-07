@@ -8,6 +8,8 @@
 
 * 
 
+* 
+
 ### Scenes and Situations
 
  - [ ] -
@@ -17,12 +19,9 @@ Check off as information is received. These should be gathered from Secrets and 
 
  - [ ] -
 
-### DM Notes
-
-
-
-### Random Tables
+### DM Notes and Random Tables
 
 
 
 ### References
+
