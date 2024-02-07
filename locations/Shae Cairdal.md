@@ -8,11 +8,16 @@ Shae Cairdal is the royal capital of Aerenal. From here, the Sibling Kings rule 
 
 ### Important Locations
 
-* Fortress of the Sibling Kings
-* Hall of Blades
-* Temple of the Deathguard
-* Temples to the Undying Court
-* Temple dedicated to the Priests of Transition
+* **Copper Dragon Hotel and Resort.** The headquarters of the copper dragons and their hospitality empire. The top floor is the office of Kauverra the copper dragon herself. The entire hotel is decorated with items of beauty, including prevalent diamonds.
+* **Fortress of the Sibling Kings.** The Sibling Kings is the title used for the joint rulers of Aerenal, traditionally a brother and sister of a noble house, selected by the Undying Court. When one of the siblings dies, the other gives up the throne and the Undying Court selects a new pair to rule. The current Sibling Kings are Balaereth and Tezaera, brother and sister of the Mendyrian Line.
+* **Hall of Blades.** The Cairdal Blades is an elite military and espionage force in the service of Aerenal's Sibling Kings, and this is their primary base. Over the last few decades, refugee members of the Undying Court have been slowly filling out the ranks of the Blades, to the point where now the majority of the membership are Undying Court, with the remainder bearing the Mark of Shadow. 
+* **Temple of the Deathguard.** The Deathguard are a religious order dedicated to combating evil undead and those who would create them, and is exclusively composed of elf priests and warriors. The Deathguard are led by High Warden undying councilor Cial Jhaelian. Beneath him are four Wardens who are each responsible for Deathguard operations in one of Argonnessen, Khorvaire, Sarlona, or Xen'drik.
+* **Temple to the Undying Court.** This large temple contains multiple levels and resembles a pyramid. Within this temple, many guides and priests live communally, and it's used as a gathering place for public rituals.
+	* The first level is the public gathering and ritual space, staffed by the _ersvitour_.
+	* The second level is the primary religious ceremony space, staffed by the _soungral_ (guides who dress primarily in white, and paint their faces like skulls or wear death masks).
+	* The third level is the "Souvrouh of Transition", the space dedicated to the Priests of Transition, the _mordral_.
+	* The top level is a protected space known only to the _mordral_, rumored to serve as a space for the Undying Court itself.
+	* The basement is a great catacombs, also considered to be a holy place, as it houses the remains (and even still-living souls) of the ancestors.
 
 ### Notable Characters
 
