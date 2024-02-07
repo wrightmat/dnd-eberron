@@ -14,7 +14,7 @@ Below are details on each of the tribes. The dragons should be treated as essent
 | Red | Fire | Q’anhyrde | Fernia (Base in Mror Holds) | Order of the Ruby Scale (Dragon Dwarves) | Powerful, Combative | Brass | Mountains, Volcanos | CE |
 | Brass | Sleep, Fire | Meretsega | Thelanis (Base in Darguun/Zilargo) | The Brass Bards | Talkative | Red | Deserts, Plains | CG |
 | Bronze | Lightning, Charm | Shadewing | Shavarath (Base in Valenar) | The Bronze Navy | Honorable, Arrogant | Blue | Coastlines, Islands | LG |
-| Copper | Acid, Incapacitate | Kauverra | Xoriat (Base in Aerenal, Madwood) | Copper Dragon Inns | Joking, Devious, Clever | Black | Mountains, Deserts | CG |
+| Copper | Acid, Incapacitate | [[Kauverra]] | Xoriat (Base in Aerenal) | Copper Dragon Inns | Joking, Devious, Clever | Black | Mountains, Deserts | CG |
 | Silver | Cold, Paralyze | [[Yllosavax]] | Syrania (Base in Breland) | [[The Silver Scales]], Paladin Protectors of the Realm | Protective, Intelligent | White | High Mountains | LG |
 | Gold | Fire, Weakening | [[Spindelaryx]] | Irian (Base in Thrane) | The Golden Palace | Powerful, Wise | Green | Anywhere | LG |
 | Obsidian† | Necrotic | [[Arstyvrax]] | Dolurrh (Base in Argonnessen, The Vast) | Scions of Sardior | Viscous, Intelligent | n/a |  | CN |

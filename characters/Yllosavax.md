@@ -1,4 +1,4 @@
-#npc [[Draconic Tribes]] [[The Silver Scales]]
+ #npc [[Draconic Tribes]] [[The Silver Scales]]
 
 Gender:: Female
 Occupation:: Protector of Sharn
