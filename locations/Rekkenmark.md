@@ -8,6 +8,8 @@ Rekkenmark’s history as the training ground for generals and other military of
 
 A lightning rail line crosses the Karrn River to connect Rekkenmark with Korth. In addition, various trails, paths, and trade roads lead out of the city toward the interior of the nation. The high, sheer cliffs that border Scions Sound make access to the waterway almost impossible, so Rekkenmark has no ports or water traffic to speak of. A Lyrandar airship mooring tower rises above the city, though it gets only occasional use, since most airships head directly to Korth upon crossing Karrnath’s borders from the west or north.
 
+### Locations
+
 - **Rekkenmark Academy**: Originally established to produce the greatest military officers for the Kingdom of Galifar, the academy came under Karrnath's control during the Last War, and only recently has reopened to students from other nations.
 - Airship Dock:
 - Lightning Rail Station:

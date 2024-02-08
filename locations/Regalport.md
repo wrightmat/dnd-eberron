@@ -34,21 +34,21 @@ The town is the port of call for the Seadragons and their fleet of twenty vessel
 
 House Thuranni have their headquarters in Regalport after having accepted an invitation by then High Prince Horget Black twenty-five years ago. House Thuranni's leader, Baron Elar d'Thuranni, lives in these headquarters.
 
-### Secrets and Clues
-Check off as information is received. Some items may have more details throughout the page.
+### Characters
 
- - [ ] -
+* High Prince Ryger ir'Wynarn
+* Baron Elar d'Thuranni
 
-### Important Locations
+### Locations
 
 * **High Prince's Estate**. Home of High Prince Ryger ir'Wynarn.
 * **Pirate Exchange**. This exchange boasts a variety of merchants selling goods from across the continent of Khorvaire, as well as local catches of seafood and treasures found around the islands that make up the Principalities. The exchange is one of the few places that regularly stocks items from Argonnessen and Sarlona.
 * **Seadragon Seaport**. The Seadragons are the largest fleet in the Lhazaar Principalities, captained by High Prince Ryger ir'Wynarn. They are the strongest of the powers in the Lhazaar Principalities.
 
-### Notable Characters
+### Secrets and Clues
+Check off as information is received. Some items may have more details throughout the page.
 
-* High Prince Ryger ir'Wynarn
-* Baron Elar d'Thuranni
+ - [ ] -
 
 ### History
 

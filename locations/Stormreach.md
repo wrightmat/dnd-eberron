@@ -9,6 +9,8 @@ Stormreach is a small frontier city nestled on the eastern coast of the Skyfall 
 
 The Stormreach Compact was an agreement made between the Kingdom of Galifar and a collection of pirate leaders called the Storm Lords in 800 YK. The compact gave legal authority over the city of Stormreach to the Storm Lords. It also established the powers each Storm Lord would have based on their family line. As a minor note, the compact also codified several statutes that applied to everyone in city.
 
+### Locations
+
 **Harbor District**: The Harbor is the southwestern district of the city of Stormreach in Xen'drik, containing the docks and waterfront businesses.
 
 The ancient ruins upon which the city of Stormreach are built extend well beneath the water line of the harbor, forming an area known as the Underharbor. These dank, dark, damp, and often water-filled ruins are home to numerous sahuagin, pirates, thieves, murderers, and other creatures of the depths. The Stormreach Guard and the dragonmarked houses like to keep a close watch on the entrances to the Underharbor.

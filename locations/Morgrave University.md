@@ -15,6 +15,10 @@ Morgrave University is not the most reputable institution in Khorvaire. It lacks
 * Mentarion Palinostrum, Art Scholar
 * Xarshel Ravenshadow, Professor of Transmutative Science
 
+### Locations
+
+* Lareth Hall
+
 ### References
 
 * https://eberron.fandom.com/wiki/Morgrave_University

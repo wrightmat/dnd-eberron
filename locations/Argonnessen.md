@@ -17,10 +17,10 @@ Image: "![https://static.wikia.nocookie.net/eberron/images/0/08/Argonnessen.jpg/
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
-> | Aerenal | 🕓 `VIEW[round(2500 / (({Travel Calculator#MilesPerHour}*{Travel Calculator#HoursPerDay})*{Travel Calculator#SpeedMultiplier}),1)]` days |
-> | Khorvaire | 🕓 `VIEW[round(3800 / (({Travel Calculator#MilesPerHour}*{Travel Calculator#HoursPerDay})*{Travel Calculator#SpeedMultiplier}),1)]` days |
-> | Sarlona | 🕓 `VIEW[round(2400 / (({Travel Calculator#MilesPerHour}*{Travel Calculator#HoursPerDay})*{Travel Calculator#SpeedMultiplier}),1)]` days |
-> | Xen'drik | 🕓 `VIEW[round(4800 / (({Travel Calculator#MilesPerHour}*{Travel Calculator#HoursPerDay})*{Travel Calculator#SpeedMultiplier}),1)]` days |
+> | Aerenal | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> | Khorvaire | 🕓 `VIEW[round(3800 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> | Sarlona | 🕓 `VIEW[round(2400 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> | Xen'drik | 🕓 `VIEW[round(4800 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
 > `=this.Comments`
 

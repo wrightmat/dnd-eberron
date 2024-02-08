@@ -8,7 +8,9 @@ While none of the gith tribes get along, a well-respected man named Zetch’r’
 
 ![https://daemonsanddeathrays.files.wordpress.com/2021/12/b2798-treasurepl1.jpg](https://daemonsanddeathrays.files.wordpress.com/2021/12/b2798-treasurepl1.jpg)
 
-### **Merchant District**
+### Locations
+
+#### Merchant District
 
 > Shabby and chaotic, decaying buildings rise from a sea of tents and stalls. In the distance to the “north” is a much more respectable district which has almost a gothic beauty. Stone dragon statues dot a few larger stone buildings, and you swear you can see a gargantuan purple dragon for real behind the largest building. Less ornate stone building compose the district to the “south”, where artisans and other workers rush through the streets. A pungent stink emanates from the other side of the ring below you.
 
@@ -24,7 +26,7 @@ Although set aside for commerce, the Merchant District is also a home. Artisans 
 
 **The Winesink (Tavern)**: The more “ragged” of the tavern and inn establishments in the district, this tavern is frequented by the more “dirty” artisans and merchants such as blacksmiths.
 
-### **Dragon District**
+#### Dragon District
 
 Directly “north” of the Merchant District, lies the administrative hub of Tu'narath, where both the Commissar and the Amethyst Dragon reside.
 
@@ -32,10 +34,9 @@ Directly “north” of the Merchant District, lies the administrative hub of Tu
 
 **The Dragon’s Den**: Aleithilithos, also known as the Caretaker, or simply the Amethyst Dragon, resides here. The den is located behind the Will of Gith, and the dragon is protected from most visitors by the Commissary Attendant Snett.
 
-### **Glathk District**
+#### Glathk District
 
 > A stinking mire of desperation and melancholy rises from stunted fields and steaming holes burrowing into the ring’s rocky core.
-> 
 
 Tu’narath’s least citizens are the farmers and laborers, called the glathk. Lacking any magical or psionic talent and unsuited for military life, these gith are a lowly but proud people, laboring to feed the city and raise its structures.
 
@@ -43,10 +44,9 @@ On the under side of the Merchant District stands the Glathk District. The surfa
 
 **Filthy Dredges (Tavern)**: This tavern is almost as dirty as its patrons, and the spell of mire mixed with ale lingers. The rowdy patrons often break into fights, and gambling and other activities that would be considered illegal in other areas of the city as almost encouraged to keep folks appeased.
 
-### **Mlar District**
+#### Mlar District
 
 > A vibrant community of artists and artisans, the Mlar District serves as the heart of Tu’narath’s productivity. To the north, militaristic architecture and a large number of solders can be seen.
-> 
 
 Adjoining the Merchant District to the “south”, and serving as a gateway to the Military District, the Mlar District produces vital goods for Tu’narath. Named for the artisan class, this quarter is an active place, with  workers trudging through streets beneath stone dragons’ watchful eyes where they leer from ornate buildings, and bustling shipyards, where skiffs and carracks stand in varying states of completion. There is beauty here too. The people have a unique aesthetic and cover every surface with some stonework or plaque bearing a motto or extolling labor’s virtues.
 
@@ -57,7 +57,7 @@ towers, and nearby floating fortresses can dispatch military forces to deter any
 
 **Monastery of the Moons**: This small monastery is a secondary home for any visiting githzerai, but it’s primarily a powerful orrery run by a couatl attendant named Ecatzin. The Orrery of the Planes here can give the players basic information about the relative position of the moons, but not details about moons that haven’t been explored yet. The Orrery can also be used to communicate in a limited manner with Eberron, or keep an eye on the Argonnesson dragons or the Church of the Silver Flame.
 
-### **Military District**
+#### Military District
 
 > Severe fortresses, bristling towers, training compounds, and the pride of Gith stand firmly in the Military Districts.
 

@@ -12,4 +12,6 @@ Commerce: A bustling black market thrives in the Citadel, and any goods can be h
 
 Organizations: Temples of any sort are not permitted in the Citadel, but priests of every god, living and dead, are free to move about the city. Many planar factions including the Xaositects, the Fated, the Mercykillers, and even the Doomguard have offices here.
 
-*From A Tyranny of Souls:* [http://www.mojoichiban.com/dnd/resources/scales of war/Scales of War - [Lvl 19] - A Tyranny of Souls.pdf](http://www.mojoichiban.com/dnd/resources/scales%20of%20war/Scales%20of%20War%20-%20%5BLvl%2019%5D%20-%20A%20Tyranny%20of%20Souls.pdf)
+### References
+
+* A Tyranny of Souls: http://www.mojoichiban.com/dnd/resources/scales%20of%20war/Scales%20of%20War%20-%20%5BLvl%2019%5D%20-%20A%20Tyranny%20of%20Souls.pdf

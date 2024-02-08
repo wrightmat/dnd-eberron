@@ -23,7 +23,7 @@ Image:
 
 
 
-### Important Locations
+### Locations
 
 * 
 

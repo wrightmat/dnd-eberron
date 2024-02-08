@@ -90,4 +90,6 @@ Suggested Stories and NPCs:
 - **Corrash the Rageblade** has a burning desire to prove himself worthy. His father fled from a battle against invading Karrnathi forces, thrusting Corrash into a life of shame. His clawfoot, Razoreye, has remained a constant companion on his path to redemption. He was just a child when his father fled the battle that was happening at what is now Fort Deepdark, but his family name is now tarnished and he travels with whatever tribes will have him in order to garner favor that may eventually allow him to join one.
 - **Thak of the Black Sands** is a druid who was part of the early rescue teams heading into the Mournland. His team was trapped by faceless horrors for several days, and his ordinary healing magic was failing. In desperation he tried a simple spell he learned as an apprentice maskweaver - Goodberry - and to his surprise, it worked. Rejuvenated and no longer starving, his party successfully escaped the ruins.
 
-[https://www.reddit.com/r/Eberron/comments/efajy3/fluff_talenta_halfling_culture/](https://www.reddit.com/r/Eberron/comments/efajy3/fluff_talenta_halfling_culture/)
+### References
+
+* https://www.reddit.com/r/Eberron/comments/efajy3/fluff_talenta_halfling_culture/

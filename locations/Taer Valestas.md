@@ -12,6 +12,8 @@ Infrastructure: The Valenar follow the Aereni custom of dividing their cities in
 
 According to rumor acquired by Tasker d'Sivis, Lyrandar leadership recently relocated many of their best researchers in the Gift to Taer Valaestas in Valenar, along with most of the Windwrights Guild administrators. Tasker speculated Lyran's Gift were trying to unlock the secrets of elemental binding. Maybe they’re interested in lightning elementals from the Lamannia manifest zone?
 
+### Locations
+
 **Darkwood Keep**: The home of Shaeras Vadallia, the High King of the Tairnadal and war-leader of Taer Valaestas. The building is made entirely of darkwood, one of the strongest materials in all of Eberron.
 
 **House of Spirits**: A temple to the ancestors of all members of the Aerenal, but especially those in Valenar. It is run by Ehrendil, an elf cleric known as the Keeper of the Past.
