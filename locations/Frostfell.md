@@ -26,3 +26,6 @@ Since his initial expedition, Lord ir'Dayne has expressed interest in returning 
 
 In 893 YK, another expedition attempted to explore the Frostfell. The expedition, aboard the ice-cutter the North Seeker, was lost, even with being in communication with House Sivis.
 
+### References
+
+* https://eberron.fandom.com/wiki/Frostfell
