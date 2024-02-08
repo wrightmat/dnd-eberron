@@ -4,7 +4,7 @@ Region: "[[Eberron]]"
 Image: "![https://static.wikia.nocookie.net/eberron/images/0/08/Argonnessen.jpg/revision/latest?cb=20210104165529|250](https://static.wikia.nocookie.net/eberron/images/0/08/Argonnessen.jpg/revision/latest?cb=20210104165529)"
 ---
 
- #location
+ #location #continent 
 
 > [!infobox]
 > # `=this.file.name`

@@ -16,6 +16,15 @@ scale: 3.233
 osmLayer: false
 ```
 
+### Regions
+
+* [[Khorvaire]]
+* [[Sarlona]]
+* [[Aerenal]]
+* [[Xen’drik]]
+* [[Argonnessen]]
+* Frostfell
+
 ### Accents
 
 * Breland: English (various accents)
