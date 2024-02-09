@@ -1,8 +1,8 @@
 ---
-MilesPerHour: 30
+MilesPerHour: 10
 SpeedMultiplier: 1
 HoursPerDay: 24
-TravelDistance: 1100
+TravelDistance: 1900
 Environment: grassland
 CostPer15Miles: 1
 PeopleTraveling: 5

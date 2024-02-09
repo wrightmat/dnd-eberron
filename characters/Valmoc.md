@@ -3,6 +3,7 @@
 Gender:: Male
 Occupation:: Traveling Guardian (for hire)
 Race:: Dragonborn
+Paralyzing Breath (silver gas)
 
 Valmoc is a silver dragonborn who serves as a sort of emissary for the silver dragons and the Silver Scales organization more generally. He's sort of the opposite of a mercenary - someone who is hired to protect others. The party will encounter him somewhere as they travel, as a means to learn about the Paladin Protectors of the Realm.
 
