@@ -21,3 +21,6 @@ Staff (full name Staffanie) works at the arcane university where her parents tea
 
 One day on the job, Staff found a slip of paper with a call to adventure in a book about sphinxes. She talked an old flame into teleporting her to 
 Sharn.
+
+### Motivation and Goal(s)
+

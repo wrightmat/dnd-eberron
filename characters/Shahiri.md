@@ -17,3 +17,7 @@ modifier: 2
 ### Backstory
 
 Used to be a guard or soldier and no longer is (because some people died who she was supposed to protect). Has been doing mercenary work more recently. 
+
+### Motivation and Goal(s)
+
+Atonement for the things she's done in the past. Possibly re-acceptance into the clan, or maybe somewhere else?
