@@ -12,6 +12,8 @@ modifier: 1
 * **Gender**:: Female
 * **Pronouns**:: she/her
 * **Race**:: Elf (Dhampir)
+Spiritual Weapon: Necrotome (ancient Egyptian embalming tool)
+https://www.pagepressjournals.org/index.php/jbr/article/download/10173/9640
 
 ### Backstory
 
