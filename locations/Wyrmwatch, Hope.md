@@ -8,34 +8,38 @@ Wyrmwatch is led by Elder Wedon Nevillom, a veteran of the Last War and a devout
 
 ### Locations
 
-#### The Wayfinderers’ Respite Saloon.
+#### The Wayfinderers’ Respite Saloon
 The Respite is uncannily successful in catering to the town’s exact needs - the staff and family owners are universally loved, and there are vice and companionship available to everyone’s taste. The reason for this is that the bar is secretly run by a small clan of changelings that have built up a repertoire of faces to suit Wyrmwatch’s needs. Any member of the clan could be wearing any of the saloon’s faces on any given night.
 
-#### Garcia’s Provisions and General Store.
+#### Garcia’s Provisions and General Store
 The general store specializes in mining and exploring gear - perfect for aspiring adventurers heading out into the wilderness. Deliveries from other, larger towns are infrequent and markups are high. The shopkeeper is named Abella Garcia.
 
-#### House Tharashk Exchange.
+#### House Tharashk Exchange
 The exchange is a large, stone warehouse with a mezzanine level of offices and apartments.The financial clout of Tharashk makes them responsible for much of the day-to-day security and administration of Wyrmwatch (which Wedon isn’t interested in anyway).
 
-#### Miner’s Row.
+#### Miner’s Row
 Miner’s Row accounts for the majority of housing in the town - a large residential block that houses the working-class prospectors and their families.
 
-#### Old Talenta Ranch and Stables.
+#### Old Talenta Ranch and Stables
 The dinosaur stable is run and owned by Talenta halflings (Hoebi and Tatha) who have turned their expertise in taming dinosaurs into a lucrative business - supplying the local miners with steeds and beasts of burden.
 
-#### Sheriff’s Office.
+#### Sheriff’s Office
 Peacekeeping falls to the locally appointed sheriff, Urdan Vanatar. Although there is little trouble in town to speak of, there is the growing presence of the scales out in the jungles, wandering dire creatures from the manifest zone and the fact that the lawlessness of Hope means it is a magnet for deserters, bandits and war criminals fleeing justice after The Last War.
 
-#### Temple of the Pure Flame.
+#### Temple of the Pure Flame
 The temple cleric is Wedon Nevillom, who also runs the town. He is a devout yet puritanical member of the Church, who follows every law of the faith to the letter, seeks the destruction of every force even remotely opposed to the Flame, and have no compunctions about forced conversion. The Puritans (or Servants) are true fanatics and extremists, and are the most likely to resort to violent or questionable means to obtain a “good” goal.
 
-#### Thorn and Graft Blacksmith.
+#### Thorn and Graft Blacksmith
 The town blacksmiths are Wroenna Thorn and her partner, Graft. The shop keeps the town supply of tools in top shape but they don’t make weapons on principle.
 
-#### Jorasco House of Healing.
+#### Jorasco House of Healing
 A modest establishment run by Destir ‘Doc Good Time’ d’Jorasco - a Dragonmarked heir and alchemist. The house provides a range of services including the sale of healing potions, healer’s kits and - to the inquiring adventurer by request - poisons and alchemists’ fire. However, these latter two are sold by the doctor personally, not through the House.
 
-#### Deepwater Temple.
+#### Deepwater Temple
 This temple in Wyrmwatch is dedicated to the Path of Light, the religion practiced by the psionic kalashtar. It is barely bigger than the priest’s home, but larger than normal windows flood the interior with as much light as possible, and the temple is part meditative space, and part practice room. The priest of the temple is named Lanamelk, and the temple is located on the edge of town nearer to Deepwater Lake (due to the Silver Flame being the primary religion here).
 
-**Deepwater Lake.** Deepwater Lake is a manifest zone in the jungle tied to the plane of Lamannia, the Twilight Forest. Farming in Q’barra is difficult, and the zone provides the town with ample raw materials, fish, and game, but comes with its share of magical dangers.
+#### Deepwater Lake
+Deepwater Lake is a manifest zone in the jungle tied to the plane of Lamannia, the Twilight Forest. Farming in Q’barra is difficult, and the zone provides the town with ample raw materials, fish, and game, but comes with its share of magical dangers.
+
+### References
+

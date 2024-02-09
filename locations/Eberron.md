@@ -23,7 +23,7 @@ osmLayer: false
 * [[Aerenal]]
 * [[Xen’drik]]
 * [[Argonnessen]]
-* Frostfell
+* [[Frostfell]]
 
 ### Accents
 

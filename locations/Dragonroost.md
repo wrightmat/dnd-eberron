@@ -11,11 +11,6 @@ Lacking the size or stature to gain representation in the Triumvirate, Dragonroo
 
 Today, the city is managing an influx of Cyran refugees who weren't comfortable with the constant reminder of loss that is New Cyre. As with Zolanberg, the gnomes have been more than hospitable, but not all the refugees have adapted to the rules of Zilargo. The Trust has done its best to keep things in line, but not every refugee is comfortable with the discreet and preemptive justice enacted by the shadowy organization.
 
-### Rumors
-
-- The players notice that any time they stop in public to chat, they see a small faerie dragon flying around. A DC 15 Insight/Investigation check will reveal that the dragon appears to be listening in on their conversation. If they approach the dragon, it flies away quickly, toward the Dragon’s Roost Ranch.
-- If asked about anything interesting in the area, any townsperson would point out the fairy garden that sits on a manifest zone to Thelanis.
-
 ### Locations
 
 #### The Roost Inn and Tavern
@@ -37,3 +32,10 @@ The majority of the streets are lined with merchants who come in from all over Z
 #### The Fairy Garden
 
 A local Thelanian manifest zone keeps beautiful and rare flowers blooming all year long, and at the center of the zone sits a small wooden hut where the garden’s caretaker, Syla Nezzelech, resides. The entire area is surrounded by a large ring of mushrooms (faerie ring). Mesmerizing lights like floating lanterns dot the landscape.
+
+### Secrets and Clues
+
+- The players notice that any time they stop in public to chat, they see a small faerie dragon flying around. A DC 15 Insight/Investigation check will reveal that the dragon appears to be listening in on their conversation. If they approach the dragon, it flies away quickly, toward the Dragon’s Roost Ranch.
+- If asked about anything interesting in the area, any townsperson would point out the fairy garden that sits on a manifest zone to Thelanis.
+
+### References

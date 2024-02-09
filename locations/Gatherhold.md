@@ -5,24 +5,13 @@ renown: 1
 
 Gatherhold is a large town, and the largest settlement, in the Talenta Plains. Built into rocky outcroppings on the eastern shore of Lake Cyre, it is shared by all the tribes of halflings as a place to trade, hold celebrations and festivals, and have tribal councils. House Ghallanda has its headquarters there and maintains the town. House Orien maintains a lightning rail line that passes through the town and used to continue on into Metrol, before the Day of Mourning.
 
-| d8 | Rumors / Information |
-| --- | --- |
-| 1 | Chervina the Architect. the leaders of the Dawn-Builders, has been talking recently about establishing an enclave in the Mournland. She claims that recent dragon sitings connect the region to the Draconic Prophesy. |
-| 2 | A festival is held here four times a year, during the longest day, the shortest day, and when the day and night are equal. There is food, drink, stories, and dancing. There’s even usually a wedding! |
-| 3 | Antal, the priest in the Temple of the Hunt, is proficient with primal spells including animal friendship, animal messenger, beast bond, beast sense, find familiar and speak with animals. |
-| 4 | Yoren d’Ghallanda leads House Ghallanda from the Gold Dragon Inn here, the most beauitful of all the inns in Khorvaire! |
-| 5 | Sari has been talking about expanding her shelter’s operations and even traveling to the outside world to find homes for her scampers. |
-| 6 | House Orien has offered to pay handsomely for any information about lightning rail lines in the Mournland (up to 500 gold per mile of stones). |
-| 7 | Creatures still crawl out of the mists and make their way into the plains - frequently across the lightning rail bridge heading from Metrol. Thankfully we have the Dragontails to protect Gatherhold. |
-| 8 | Re-roll, or pick one. |
-
 ### Locations
 
-**Gold Dragon Inn**
+#### Gold Dragon Inn
 
 This Gold Dragon Inn is way more opulent than any other across Khorvaire, as it’s the gem of House Ghallanda. Yoren d’Ghallanda has the Ghallanda headquarters and his personal office here, as well as his mansion being right next door to the inn.
 
-**Marketplace: Grand Skysight**
+#### Marketplace: Grand Skysight
 
 The Grand Skysight market is a shopping district in the south of Gatherhold. Many local traders from all across the Talenta Plains come here to sell wares to travelers, barter for goods with other traders, and learn about recent events from distant corners of the plains. If you want to give your players information that they missed earlier in this encounter series or foreshadow upcoming conflicts in future arcs of your campaign, this market is a perfect place to do so.
 
@@ -37,7 +26,7 @@ There are untold dozens of market stalls selling various goods here. A few of th
 
 Characters relaxing in the market can browse through stalls at their leisure. The price of the items sold at this market never exceed 1 gp.
 
-**Pub: The Wind on the Plains**
+#### Pub: The Wind on the Plains
 
 The Wind on the Plains is a fine public house run by Tilly d’Ghallanda, a halfling lady that bears the Mark of Hospitality. House Ghallanda owns or oversees nearly every inn, pub, or tavern of note in Khorvaire, and is based out of Gatherhold. The Wind on the Plains isn’t House Ghallanda’s headquarters, but it’s nevertheless a well-funded arm of House Ghallanda’s network of informants and gossipmongers. There are plenty of locals relaxing in this pub, including:
 
@@ -48,17 +37,17 @@ If the characters come here to kick back, Tilly makes them feel perfectly at hom
 
 Characters who spend time talking with Tilly can find information about the area (roll on the table above), but they need to be prepared to trade a favor to House Ghallanda in return. Tilly asks for the favor up front, and lets the characters make her an offer. She accepts any reasonable offer the characters make her.
 
-**Dragontail Guild Hall**
+#### Dragontail Guild Hall
 
 House Ghallanda once supplied armies equally to all sides fighting in the Last War. Now that the war has ended, the Dragontails essentially serve as just the police force of Gatherhold, protecting the citizens from any dangers from the Mournland or the Talenta Plains.
 
 The Dragontails are currently led by Captain Mara d’Ghallanda.
 
-**Dawn-Builders Lodge**
+#### Dawn-Builders Lodge
 
 The Dawn-Builders are a guild run by House Ghallanda and led by Chervina the Architect. The Dawn-Builders consist of several hundred masons and artisans along with a group of guards. The Dawn-Builders' objective is to build new enclaves in specific locations designated by their leader Chervina whilst the guards only objective is to clear these locations of threats. The guild members are only informed as to where they'll be building next at the last minute as Chervina refuses to announce future project locations in advance. These building sites are seemingly decided at random, however, but Chervina claims she is following the Draconic Prophecy. The Dawn-Builders are directed to build in all types of locations ranging from central nations to remote wilds of The Demon Wastes and even Xen'drik. Chervina sometimes sets deadlines on the projects, though the consequences for failing to meet these deadlines are unknown to the Dawn-Builders.
 
-**Temple of the Hunt**
+#### Temple of the Hunt
 
 The Halflings typically worship Balinor among the Sovereign Host and are strong followers of spirit worship. Talenta religion is based around reverence for spirits, both departed ancestors and the spirits of the natural world. They see no dichotomy in following both the Host and spirits. Each nomadic tribe has a lath—a chieftain who guides and protects the tribe—but it is the shamans who consult the spirits and choose the paths of migration.
 
@@ -66,7 +55,7 @@ In the traditional Halfling religion, both living beings, dead beings and inanim
 
 Talenta tradition maintains that Balinor was a great halfling hunter, so it’s essentially woven together with ancestor worship and general veneration of nature spirits. The temple is maintained by a Halfling priest named Antal.
 
-**Sari’s Scamper Shelter**
+#### Sari’s Scamper Shelter
 
 Sari runs the Scamper Shelter in the town of Gaterhold. She has a caring personality, and treats each of the small dinosaur creatures as her own children, until she’s able to find a loving home for them.
 
@@ -89,6 +78,19 @@ Suggested Stories and NPCs:
 - **Studa the Silent** is a mercenary with extensive experience during the last war. Riding on her glidewing, Spotted Neck, she provided scouting reports and conducted precision strikes. Her favored weapon is an enchanted boomerang that cuts silently through the air, cutting its target before returning unerringly.
 - **Corrash the Rageblade** has a burning desire to prove himself worthy. His father fled from a battle against invading Karrnathi forces, thrusting Corrash into a life of shame. His clawfoot, Razoreye, has remained a constant companion on his path to redemption. He was just a child when his father fled the battle that was happening at what is now Fort Deepdark, but his family name is now tarnished and he travels with whatever tribes will have him in order to garner favor that may eventually allow him to join one.
 - **Thak of the Black Sands** is a druid who was part of the early rescue teams heading into the Mournland. His team was trapped by faceless horrors for several days, and his ordinary healing magic was failing. In desperation he tried a simple spell he learned as an apprentice maskweaver - Goodberry - and to his surprise, it worked. Rejuvenated and no longer starving, his party successfully escaped the ruins.
+
+### Secrets and Clues
+
+| d8 | Rumors / Information |
+| --- | --- |
+| 1 | Chervina the Architect. the leaders of the Dawn-Builders, has been talking recently about establishing an enclave in the Mournland. She claims that recent dragon sitings connect the region to the Draconic Prophesy. |
+| 2 | A festival is held here four times a year, during the longest day, the shortest day, and when the day and night are equal. There is food, drink, stories, and dancing. There’s even usually a wedding! |
+| 3 | Antal, the priest in the Temple of the Hunt, is proficient with primal spells including animal friendship, animal messenger, beast bond, beast sense, find familiar and speak with animals. |
+| 4 | Yoren d’Ghallanda leads House Ghallanda from the Gold Dragon Inn here, the most beauitful of all the inns in Khorvaire! |
+| 5 | Sari has been talking about expanding her shelter’s operations and even traveling to the outside world to find homes for her scampers. |
+| 6 | House Orien has offered to pay handsomely for any information about lightning rail lines in the Mournland (up to 500 gold per mile of stones). |
+| 7 | Creatures still crawl out of the mists and make their way into the plains - frequently across the lightning rail bridge heading from Metrol. Thankfully we have the Dragontails to protect Gatherhold. |
+| 8 | Re-roll, or pick one. |
 
 ### References
 

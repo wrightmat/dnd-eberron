@@ -41,12 +41,15 @@ While New Cyre and Sharn are well-known as the home of Cyran refugees, a lesser 
 
 The community leader is Zunia Harun, an older gnome woman who is the descendent of one of the original refugees from South Cyre almost two decades ago (Zinat Harun).
 
-### Secrets and Clues
-Check off as information is received. Some items may have more details throughout the page.
+### Characters
 
- - [ ]  The Haka'jhar nation of kobolds calls the Seawall mountains home. Classed as "Irvhir" kobolds, they claim to have been formed directly from the blood of Khyber. Intensely xenophobic, the kobolds have failed to hold back the steadily encroaching gnomish mines.
+* **Zunia Harun** (gnome woman). Elderly community leader.
+* **Kellark Narathun** (dwarf male). Gruff male dwarf who runs The Drunken Dwarf.
+* **Rannik Aeris** (male brass dragon). Confident male "dwarf" who has recently started up a Brass Bards troupe that's now stationary here. He's actually a brass dragon in disguise.
+* **Tardath** (male copper dragonborn). Copper dragonborn bartender of the Copper Dragon Inn.
+* **Gygrim** (male dwarf). dwarf found passed out on the floor of the Drunken Dwarf.
 
-### Important Locations
+### Locations
 
 * **Lightning Rail Station.**
 * **The Drunken Dwarf.** The town’s tavern is run by one of the dwarf families that were brought here as consultants generations ago. Now Kellark Narathun runs the day-to-day operations. The tavern is incredibly popular with the dwarves and gnomes who work the mines.
@@ -56,13 +59,10 @@ Check off as information is received. Some items may have more details throughou
 * **Prospector's Guild Hall.** House Tharashk operates a significant operation in the city via the Prospector's Guild and recently built a large new facility.
 * **Khyber Dragonshard Mine.**
 
-### Notable Characters
+### Secrets and Clues
+Check off as information is received. Some items may have more details throughout the page.
 
-* Zunia Harun, an older gnome woman and community leader.
-* Kellark Narathun: gruff male dwarf who runs The Drunken Dwarf.
-* Rannik Aeris: confident male "dwarf" who has recently started up a Brass Bards troupe that's now stationary here. He's actually a brass dragon in disguise.
-* Tardath: Copper dragonborn bartender of the Copper Dragon Inn.
-* Gygrim: dwarf found passed out on the floor of the Drunken Dwarf.
+ - [ ]  The Haka'jhar nation of kobolds calls the Seawall mountains home. Classed as "Irvhir" kobolds, they claim to have been formed directly from the blood of Khyber. Intensely xenophobic, the kobolds have failed to hold back the steadily encroaching gnomish mines.
 
 ### History
 
