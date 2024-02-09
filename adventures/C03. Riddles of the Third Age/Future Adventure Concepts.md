@@ -7,3 +7,5 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 * Speartip Island?
 
 * The Mystic Glade (see Dragons of Eberron, pg. 90-91)?
+
+* Known as the Scaled Apostate, Vvaraak was the dragon who taught the orcs the traditions of the Gatekeepers some sixteen thousand years ago. Vvaraak died long ago, but her lair reportedly contains many mystical secrets relating to the Draconic Prophecy. The location of the cave was lost during the war against the daelkyr, and it is one of the mysteries of the Marches. Should it ever be found, the Gatekeepers would be greatly offended if outsiders despoiled this most holy site
