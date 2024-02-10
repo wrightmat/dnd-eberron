@@ -11,14 +11,4 @@ The size and number of guest rooms can vary from inn to inn: a small roadside in
 
 Because travelers often carry valuables with them, each inn has a heavy strongbox secured with an arcane lock spell. To make a traveler's stay more enjoyable, perhaps even memorable, House Ghallanda has arranged with House Thuranni and House Phiarlan to employ guild-licensed entertainers at almost every Gold Dragon Inn.
 
-**Aundair**
-An exquisite cuisine of small portions, a wide variety of ingredients and sauces. Aundair is known for it’s vinewards and sweets.
-
-**Breland**
-Northern and Southern Breland have different styles of cooking. In the north, simple and savory food is served to farmers. In the south, spices marks the cuisine of the tropical region. The Sharn Fusion style is a mix-up of different styles brought by travelers from across Khorvaire.
-
-**Karrnath**
-Their harsh winters make Karrnathi cuisine a mix of heavy and filling food. Sausages and cheesemaking are considered almost an art form.
-
-**Thrane**
-Filling, hot, delicious. “It is like a breath of fire in the cold of a dark winter’s night,” said Princess Wroya of Breland.
+[[Food and Drink]]
