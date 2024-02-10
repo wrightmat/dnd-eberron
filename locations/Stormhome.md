@@ -12,21 +12,29 @@ If the players ask about the layout of the city, read this text below:
 
 ### Locations
 
-**Slate Keep**: A sailing academy for House Lyrandar. The highest-class docks are immediately off of the building, and that’s where the luxury galleon *Golden Dragon* (captained by Alistair d'Lyrandar) is docked. Mazzia, the *Golden Dragon*’s first mate, is the primary instructor at the academy. There’s a bar next to it.
+##### Slate Keep
+A sailing academy for House Lyrandar. The highest-class docks are immediately off of the building, and that’s where the luxury galleon *Golden Dragon* (captained by Alistair d'Lyrandar) is docked. Mazzia, the *Golden Dragon*’s first mate, is the primary instructor at the academy. There’s a bar next to it.
 
-**The Pole**: The airship docking tower of Stormhome.
+##### The Pole
+The airship docking tower of Stormhome.
 
-**Row after Row**: A large general store that carries everything from sailing supplies to potions.
+##### Row after Row
+A large general store that carries everything from sailing supplies to potions.
 
-**Ghallanda Resort**: A resort built on the island by House Ghallanda, which tailors to the working class. It is essentially a branch of the Ghallanda Hall in Sharn’s Central Plateau Lower Dura.
+##### Ghallanda Resort
+A resort built on the island by House Ghallanda, which tailors to the working class. It is essentially a branch of the Ghallanda Hall in Sharn’s Central Plateau Lower Dura.
 
-**Helping Hound Resort**: A resort built on the island by House Ghallanda, which tailors to the ultra-rich and royal. Queen Aurala ir'Wynarn of Aundair has been known to visit here.
+##### Helping Hound Resort
+A resort built on the island by House Ghallanda, which tailors to the ultra-rich and royal. Queen Aurala ir'Wynarn of Aundair has been known to visit here.
 
-**Raincallers Guild Hall:** The Raincallers Guild provides weather-manipulation services for agriculture, as well as building dams, irrigation systems, and reservoirs to limit the sometimes erratic effects of natural forces. The guild hall is located in Harston Heights.
+##### Raincallers Guild Hall
+The Raincallers Guild provides weather-manipulation services for agriculture, as well as building dams, irrigation systems, and reservoirs to limit the sometimes erratic effects of natural forces. The guild hall is located in Harston Heights.
 
-**Windwrights Guild Hall**: The Windwrights Guild holds the shipping trade of Khorvaire almost completely under its control and is Lyrandar's public face. The guild hall is located in the Rose Ward.
+##### Windwrights Guild Hall
+The Windwrights Guild holds the shipping trade of Khorvaire almost completely under its control and is Lyrandar's public face. The guild hall is located in the Rose Ward.
 
-**Lyrandar Manor**: This beautiful mansion at the center of the Matriarch Ward is home to the Baron of House Lyrandar, Esravash.
+##### Lyrandar Manor
+This beautiful mansion at the center of the Matriarch Ward is home to the Baron of House Lyrandar, Esravash.
 
 ![https://wrightmat.github.io/dnd-eberron/_img/stormhome.jpg](https://wrightmat.github.io/dnd-eberron/_img/stormhome.jpg)
 

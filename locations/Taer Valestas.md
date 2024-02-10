@@ -14,13 +14,17 @@ According to rumor acquired by Tasker d'Sivis, Lyrandar leadership recently relo
 
 ### Locations
 
-**Darkwood Keep**: The home of Shaeras Vadallia, the High King of the Tairnadal and war-leader of Taer Valaestas. The building is made entirely of darkwood, one of the strongest materials in all of Eberron.
+##### Darkwood Keep
+The home of Shaeras Vadallia, the High King of the Tairnadal and war-leader of Taer Valaestas. The building is made entirely of darkwood, one of the strongest materials in all of Eberron.
 
-**House of Spirits**: A temple to the ancestors of all members of the Aerenal, but especially those in Valenar. It is run by Ehrendil, an elf cleric known as the Keeper of the Past.
+##### House of Spirits
+A temple to the ancestors of all members of the Aerenal, but especially those in Valenar. It is run by Ehrendil, an elf cleric known as the Keeper of the Past.
 
-**Siyal Stables**: Along with being the base of the Siyal Marrain druidic sect, and the largest stable in all of Valenar, this building is surrounded by a vast arena used for horse training, races, and other displays of equestrian skill.
+##### Siyal Stables
+Along with being the base of the Siyal Marrain druidic sect, and the largest stable in all of Valenar, this building is surrounded by a vast arena used for horse training, races, and other displays of equestrian skill.
 
-**Hut on the Outskirts**: A small hut on the outskirts of town, but said to be in the heart of the manifest zone to Lamannia, is rumored to house a single Sulatar Elf, Quarini'th, who came here several years ago. No one really knows anything about him, as he rarely leaves the hut.
+##### Hut on the Outskirts
+A small hut on the outskirts of town, but said to be in the heart of the manifest zone to Lamannia, is rumored to house a single Sulatar Elf, Quarini'th, who came here several years ago. No one really knows anything about him, as he rarely leaves the hut.
 
 Quarini'th can accompany the players (if convinced with a DC 12 Persuasion/Intimidation check) into the wilds of the manifest zone to gather and bind elementals. She knows that to capture an elemental, the party will need to fight it and reduce it to at least half HP (Pokemon style). At that point, instead of being described as “bloody” they’ll be described as “unstable”. A player will need to touch the elemental while also holding a dragonshard, while she casts a spell to complete the binding. That means any touch effect (such as being burned by a fire elemental) will happen as well.
 
