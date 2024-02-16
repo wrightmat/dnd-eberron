@@ -17,7 +17,7 @@ When an appropriate command word is spoken, and certain types of creatures are w
 | 7 | Fiends | Red |  |
 | 8 | Giants | Cyan |  |
 | 9 | Monstrosities | Yellow | Everlight |
-| 10 | Undead | Magenta |  |
+| 10 | Undead | Magenta | Everdark |
 
 ### References
 
