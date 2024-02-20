@@ -4,7 +4,6 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
 name: Orc War Chief
 size: Medium
 type: Humanoid

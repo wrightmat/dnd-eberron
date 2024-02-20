@@ -4,11 +4,10 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
 name: Orc Eye of Gruumsh
 size: Medium
 type: Humanoid
-subtype: (Orc)
+subtype: Orc
 alignment: Chaotic Evil
 ac: 16
 hp: 45
