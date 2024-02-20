@@ -25,3 +25,4 @@ All of the Sphinxes are concerned about recent events because they advance the A
 
 * https://eberron.fandom.com/wiki/Sphinx
 * https://keith-baker.com/dm-sphinxes/
+* https://en.wikipedia.org/wiki/Sphinx

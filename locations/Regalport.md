@@ -44,6 +44,7 @@ House Thuranni have their headquarters in Regalport after having accepted an inv
 * **High Prince's Estate**. Home of High Prince Ryger ir'Wynarn.
 * **Pirate Exchange**. This exchange boasts a variety of merchants selling goods from across the continent of Khorvaire, as well as local catches of seafood and treasures found around the islands that make up the Principalities. The exchange is one of the few places that regularly stocks items from Argonnessen and Sarlona.
 * **Seadragon Seaport**. The Seadragons are the largest fleet in the Lhazaar Principalities, captained by High Prince Ryger ir'Wynarn. They are the strongest of the powers in the Lhazaar Principalities.
+* **House Thuranni Headquarters**. Home of Baron Elar d'Thuranni and headquarters of the house.
 
 ### Secrets and Clues
 Check off as information is received. Some items may have more details throughout the page.
