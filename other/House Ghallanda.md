@@ -1,4 +1,20 @@
+---
+Image: "![https://static.wikia.nocookie.net/eberron/images/7/74/Dragonmarked_House_COA_Gallanda.jpg/revision/latest?cb=20220509100819|250](https://static.wikia.nocookie.net/eberron/images/7/74/Dragonmarked_House_COA_Gallanda.jpg/revision/latest?cb=20220509100819)"
+Type: Dragonmarked House
+Leader: Baron Yoren d'Ghallanda
+---
  #organization #dragonmarks
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.Image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.Type` |
+> | **Leader** | `=this.Leader` |
+> ###### Comments
+> `=this.Comments`
 
 House Ghallanda is a halfling dragonmarked house found throughout Khorvaire. Ghallanda is one of the few dragonmarked houses that are not involved with some form of arms dealing or soldiering; instead, Ghallanda are Eberron's best hosts dealing in food and shelter.
 

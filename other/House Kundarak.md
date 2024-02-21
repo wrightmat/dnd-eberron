@@ -1,4 +1,20 @@
+---
+Image: "![https://static.wikia.nocookie.net/eberron/images/c/c2/Kundarak.jpg/revision/latest?cb=20220509100940|250](https://static.wikia.nocookie.net/eberron/images/c/c2/Kundarak.jpg/revision/latest?cb=20220509100940)"
+Type: Dragonmarked House
+Leader: Lord Morrikan d'Kundarak
+---
  #organization #dragonmarks 
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.Image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.Type` |
+> | **Leader** | `=this.Leader` |
+> ###### Comments
+> `=this.Comments`
 
 House Kundarak is a dwarven dragonmarked house providing services focused on security and banking. Their primary customers are those who have enough coin to have something worth protecting, namely the wealthy and powerful, other dragonmarked houses, and even state governments. They are the wealthiest dragonmarked house by far and their banking establishments can be found all over Khorvaire.
 
