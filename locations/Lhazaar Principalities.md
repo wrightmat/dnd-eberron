@@ -18,11 +18,11 @@ There are a few laws that the people of the Lhazaar Principalities follow throug
 
 The Lhazaar people love the sea. They live around the sea because they feel trapped when they are inland. They eat seafood and drink alcoholic beverages made from different sea plants. Because the Lhazaar Principalities have so many people from different areas and races, they are comfortable with all races. Mixed languages have also become prevalent, as different races mix their languages with others, much like Creole. Clothing is different from one island to another, but it tends to be tough and functional. Lhazaar residents also have a lot of pride in their hair.
 
-#### Power Groups
+### Power Groups
 
-* Inspired Lords
+* [[House Thuranni]]
 * Blood of Vol
-* House Thuranni
+* Inspired Lords
 
 #### Canon Fleets
   

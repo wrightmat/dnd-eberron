@@ -22,7 +22,7 @@ House Jorasco possesses the Mark of Healing. This mark grants various magical be
 
 #### Guilds and Organizations
 
-The Healers Guild is the premiere service of House Jorasco. They provide both mundane and magical healing for those who can afford it at their hospitals and healing enclaves throughout Khorvaire. Members of the guild include herbalists, alchemists, physicians, as well as some clerics and adepts of the Sovereign Host and Silver Flame. Few seek healing from the church (even if they are willing to pay) and only the most devout or well respected within a religion will usually receive healing.
+* **Healers Guild**. Provides both mundane and magical healing for those who can afford it at their hospitals and healing enclaves throughout Khorvaire. Members of the guild include herbalists, alchemists, physicians, as well as some clerics and adepts of the Sovereign Host and Silver Flame. Few seek healing from the church (even if they are willing to pay) and only the most devout or well respected within a religion will usually receive healing.
 
 ### Characters
 

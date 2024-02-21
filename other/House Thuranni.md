@@ -27,7 +27,7 @@ House Thuranni competes with House Phiarlan in the entertainment, information br
 
 ### Characters
 
-* Baron Elar d'Thuranni
+* **Baron Elar d'Thuranni** (LN male elf rogue). He founded House Thuranni in blood, when he and his bloodline slaughtered the Paelion bloodline during the Shadow Schism, splitting the family from House Phiarlan. Baron Elar runs the House Thuranni holdings from Regalport in the Lhazaar Principalities.
 * Lady Miravella Uruvai d'Thuranni
 * Vaedin Uruvai d'Thuranni
 * Jaye Uruvai d'Thuranni
@@ -35,9 +35,9 @@ House Thuranni competes with House Phiarlan in the entertainment, information br
 
 ### Locations
 
-Grand Thurrani Theater
-The True Shapers, Atur
-Shadows, Stormreach
+* **Grand Thurrani Theater.** Located in [[Regalport]], Lhazaar Principalities.
+* The True Shapers, Atur
+* Shadows, Stormreach
 
 ### References
 
