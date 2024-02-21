@@ -24,7 +24,7 @@ Like all other dragonmarked houses, House Kundarak's business is providing servi
 
 Kundarak also lease their ancestral lands in Kundarakhold to any mining establishment providing they offer a percentage of the profit.
 
-#### Guilds
+#### Guilds and Organizations
 
 * Banking Guild  
 * Warding Guild

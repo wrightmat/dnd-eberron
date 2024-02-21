@@ -20,7 +20,7 @@ House Deneith is a human dragonmarked house whose members are highly acclaimed m
 
 House Deneith possesses the Mark of Sentinel. This mark has allowed Deneith to become a mercenary powerhouse as it grants martial abilities.
 
-#### Guilds
+#### Guilds and Organizations
 
 * Blademarks Guild
 * Defenders Guild

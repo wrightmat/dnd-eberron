@@ -20,7 +20,7 @@ House Jorasco is a halfling dragonmarked house operating throughout Khorvaire. A
 
 House Jorasco possesses the Mark of Healing. This mark grants various magical benefits that allow its bearers to heal and cure diseases. This makes Jorasco a vital part of the struggles of the Last War and throughout Khorvaire in general.
 
-#### Guilds
+#### Guilds and Organizations
 
 The Healers Guild is the premiere service of House Jorasco. They provide both mundane and magical healing for those who can afford it at their hospitals and healing enclaves throughout Khorvaire. Members of the guild include herbalists, alchemists, physicians, as well as some clerics and adepts of the Sovereign Host and Silver Flame. Few seek healing from the church (even if they are willing to pay) and only the most devout or well respected within a religion will usually receive healing.
 

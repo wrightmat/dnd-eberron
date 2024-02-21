@@ -26,7 +26,7 @@ House Ghallanda allow their customers to spend time at their enclaves, much like
 
 House Ghallanda also runs taverns and inns throughout Khorvaire. Ghallanda also can contribute to war efforts by supplying soldiers with magically created food and shelter.
 
-#### Guilds
+#### Guilds and Organizations
 
 * Hostelers Guild
 * Dragontail Guild

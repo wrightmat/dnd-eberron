@@ -20,7 +20,7 @@ House Cannith is a human dragonmarked house whose members are well known for the
 
 House Cannith possesses the Mark of Making. This mark grants various magical benefits that allow its bearers to infuse items with magic or even repair them, giving Cannith an advantage in the manufacturing arena.
 
-#### Guilds
+#### Guilds and Organizations
 
 * Fabricators Guild
 * Tinkers Guild

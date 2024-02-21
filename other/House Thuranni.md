@@ -1,3 +1,44 @@
+---
+Image: "![https://static.wikia.nocookie.net/eberron/images/9/94/Thuranni1.jpg/revision/latest?cb=20140703163344|250](https://static.wikia.nocookie.net/eberron/images/9/94/Thuranni1.jpg/revision/latest?cb=20140703163344)"
+Type: Dragonmarked House
+Leader: Baron Elar d'Thuranni
+---
  #organization #dragonmarks 
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.Image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.Type` |
+> | **Leader** | `=this.Leader` |
+> ###### Comments
+> `=this.Comments`
+
 House Thuranni is an elven dragonmarked house that has split off of House Phiarlan and become their direct rivals competing in entertainment and espionage. House Thuranni is the youngest of the dragonmarked houses, having split from House Phiarlan during the Last War. To the public, agents of House Thuranni are artists, entertainers and beautiful courtiers, however, like Phiarlan, Thuranni also offers more clandestine services as well. House Thuranni's specialty is in assassinations.
+
+House Thuranni competes with House Phiarlan in the entertainment, information brokering, assassination and espionage businesses. While Phiarlan is superior at espionage, Thuranni's assassins are unrivaled. House Thuranni is also superior in the art of costuming, sculpture and painting, thanks to its control of the True Shapers. In addition, House Thuranni agents tend to be less idealistic and more profit focused.
+
+#### Guilds and Organizations
+
+* Shadow Network
+* True Shapers
+
+### Characters
+
+* Baron Elar d'Thuranni
+* Lady Miravella Uruvai d'Thuranni
+* Vaedin Uruvai d'Thuranni
+* Jaye Uruvai d'Thuranni
+* Viceroy Ureilya d'Thuranni
+
+### Locations
+
+Grand Thurrani Theater
+The True Shapers, Atur
+Shadows, Stormreach
+
+### References
+
+* https://eberron.fandom.com/wiki/House_Thuranni

@@ -1,4 +1,4 @@
- #organization #guild [[Prism]] [[Velgram]] [[Logo Tharashk]]
+ #organization #guild [[Prism]] [[Velgram]] [[Logo d'Tharashk]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/clifftop.png](https://wrightmat.github.io/dnd-eberron/_img/clifftop.png)
 

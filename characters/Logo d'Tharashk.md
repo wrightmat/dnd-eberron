@@ -5,6 +5,15 @@ Gender:: Male
 Occupation:: Guild Member
 Race:: Orc
 
+Logo is the self-appointed “greeter fella” at the Clifftop Guild Hall, essentially just because his favorite drinking table is right by the entrance. He is therefore often drunk, but generally helpful - even if that just involves going to find someone else with the answer or to actually help.
+
+He has a gruff voice, and his speech is usually slurred.
+
+He has been a member of the Clifftop Guild for most of his life, due to his family name and his association with the Finders’ Guild, but has seen little to know action (hence his abysmal stats).
+
+Played by: Samuel L. Jackson?
+
+
 **Name**:: Logo
 **Type**:: Commoner
 
@@ -42,11 +51,3 @@ STR: 12, DEX: 10, CON: 9, INT: 8, WIS: 12, CHA: 13
 
 **Actions**
 Club. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
-
-Logo is the self-appointed “greeter fella” at the Clifftop Guild Hall, essentially just because his favorite drinking table is right by the entrance. He is therefore often drunk, but generally helpful - even if that just involves going to find someone else with the answer or to actually help.
-
-He has a gruff voice, and his speech is usually slurred.
-
-He has been a member of the Clifftop Guild for most of his life, due to his family name and his association with the Finders’ Guild, but has seen little to know action (hence his abysmal stats).
-
-Played by: Samuel L. Jackson?

@@ -20,7 +20,7 @@ House Orien is a human dragonmarked house found throughout Khorvaire, with its m
 
 House Orien possesses the Mark of Passage. This dragonmark grants various magical benefits that allow its bearers to control travel and teleportation.
 
-#### Guilds
+#### Guilds and Organizations
 
 * Couriers Guild
 * Transportation Guild
@@ -29,9 +29,9 @@ House Orien possesses the Mark of Passage. This dragonmark grants various magica
 
 ### Characters
 
-* Baron Kwanti d'Orien
-* Hazel d'Orien
-* Ivor d'Throthenhome
+* **Baron Kwanti d'Orien** (CN male human sorcerer). The current head of House Orien, Kwanti is an active and energetic individual. He doesn't like to stay put. He's a talented businessman.
+* **Hazel d'Orien** (CG female human). Member of House Orien and the Couriers Guild who operates as a courier at the lightning rail station in Fairhaven, Aundair.
+* Ivor d'Throthenhome. Former member of House Orien and lightning rail station master in Fairhaven, Aundair.
 
 ### Locations
 

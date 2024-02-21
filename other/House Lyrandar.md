@@ -22,7 +22,7 @@ House Lyrandar possesses the Mark of Storm. This mark grants various magical ben
 
 As is common among other dragonmarked houses, Lyrandar is led by a baron (whether a patriarch or matriarch). Some in the house refer to the baron as "Firstborn", believing that Lyran and Selavash, the ancient ancestors of House Lyrandar and the spiritual ancestors of the Khoravar race, speak through that individual.
 
-#### Guilds
+#### Guilds and Organizations
 
 * Raincallers Guild. Provides weather management.
 * Windwrights Guild. One of the largest air and sea shipping and transit businesses in Khorvaire.
