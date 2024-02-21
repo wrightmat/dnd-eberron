@@ -5,6 +5,7 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 	* Probably need to have the party at at least level 10 before going here, so do primarily CR 8 to 13 monsters.
 
 * Speartip Island?
+	* Somehow include Horget Black, the former High Prince (and therefore rival of Ryger). Possibly he's settled on the island, or has a ghost ship that is tethered to the region because of his failures.
 
 * The Mystic Glade (see Dragons of Eberron, pg. 90-91)?
 
