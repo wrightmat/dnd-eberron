@@ -10,7 +10,7 @@ Captain Alistair d'Lyrandar is the captain of the luxury galleon Golden Dragon. 
 **Played By**: Russel Crowe
 ![https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/08/pope-exorcist-scaled-e1659555123847.jpg?fit=2000%2C1334&ssl=1|400](https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/08/pope-exorcist-scaled-e1659555123847.jpg?fit=2000%2C1334&ssl=1)
 
-**Alignment**: LE
+**Alignment**: LG
 **Initial Attitude**: Indifferent
 **Relationship Status**: Single
 **Sexual Orientation**: Heterosexual

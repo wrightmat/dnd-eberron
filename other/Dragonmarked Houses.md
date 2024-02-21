@@ -2,7 +2,7 @@
 
 | House | Mark of… | Race | Base | Known For | Guilds |
 | --- | --- | --- | --- | --- | --- |
-| House Cannith | Making | Human | Sharn (South), Fairhaven (West), Korth (East) | Warforged | Fabricator's Guild, Tinkers Guild |
+| [[House Cannith]] | Making | Human | Sharn (South), Fairhaven (West), Korth (East) | Warforged | Fabricator's Guild, Tinkers Guild |
 | [[House Deneith]] | Sentinel | Human | Karrlakton, Karrnath | Soldiers | Blademarks Guild, Defenders Guild |
 | [[House Ghallanda]] | Hospitality | Halfling | Gatherhold, Talenta Plains | Gold Dragon Inns | Hostelers Guild, Dragontail Guild |
 | [[House Jorasco]] | Healing | Halfling | Vedykar, Karrnath | Healing | Healers Guild |
