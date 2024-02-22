@@ -31,7 +31,7 @@ A smaller building in the back of the district, called Bound and Determined, hou
 
 #### Gold Dragon Inn
 
-[[Gold Dragon Inn]]
+[[Gold Dragon Inns]]
 
 #### Cannith Factory District
 

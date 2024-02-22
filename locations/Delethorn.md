@@ -19,7 +19,7 @@ This is the town the party starts their adventures in.
 
 **4: Gold Dragon Inn.** Mark of Hospitality and Mark of Healing over the door. This is a smaller branch location that has only a few beds, a small restaurant with a limited menu, and an ancillary store licensed by House Jorasco that sells potions. The whole operation is run by a single halfling with the blessing of both houses. Run by Kelyra Ambereyes.
 
-[[Gold Dragon Inn]]
+[[Gold Dragon Inns]]
 
 **5: Warehouse.** A newly opened Warehouse/Factory that has the Mayor concerned.
 

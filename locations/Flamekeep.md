@@ -60,7 +60,7 @@ The Rusty Anchor’s claim to fame is its provisions for the tastes of warforged
 
 The most pronounced building in the front of the commercial district is Flamekeep’s Gold Dragon Inn.
 
-[[Gold Dragon Inn]]
+[[Gold Dragon Inns]]
 
 #### The Daughter and Sister
 
