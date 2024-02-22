@@ -10,8 +10,8 @@ Below are details on each of the tribes. The dragons should be treated as essent
 | White | Cold | Kazdurakashtan (deceased) | Risia (Base in Everice) | Order of the Ivory Scale (Dragon Giants) | Bullying, Persistent | Silver | Arctic Mountains | CE |
 | Black | Acid | Vvaraak (deceased) | Mabar (Base in Shadow Marches/Droaam) | Order of the Onyx Scale (Dragon Orcs) | Vile-tempered, Cruel | Copper | Swamps | CE |
 | Green | Poison | Ystravnil | Lamannia (Base in Eldeen Reaches) | Order of the Emerald Scale (Dragon Elves) | Cunning, Duplicitous, Territorial | Gold | Forests | LE |
-| Blue | Lightning | Azalakardon (deceased) | Kythri (Base in Lhazaar) | Order of the Sapphire Scale (Dragon Elves) | Mocking, Manipulative | Bronze | Deserts, Beaches | LE |
 | Red | Fire | Q’anhyrde | Fernia (Base in Mror Holds) | Order of the Ruby Scale (Dragon Dwarves) | Powerful, Combative | Brass | Mountains, Volcanos | CE |
+| Blue | Lightning | Azalakardon (deceased) | Kythri (Base in Lhazaar) | Order of the Sapphire Scale | Mocking, Manipulative | Bronze | Deserts, Beaches | LE |
 | Brass | Sleep, Fire | Meretsega | Thelanis (Base in Darguun/Zilargo) | The Brass Bards | Talkative | Red | Deserts, Plains | CG |
 | Bronze | Lightning, Charm | Shadewing | Shavarath (Base in Valenar) | The Bronze Navy | Honorable, Arrogant | Blue | Coastlines, Islands | LG |
 | Copper | Acid, Incapacitate | [[Kauverra]] | Xoriat (Base in Aerenal) | Copper Dragon Inns | Joking, Devious, Clever | Black | Mountains, Deserts | CG |
@@ -29,7 +29,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 ##### Silver (Breland)
 **Goal**: Work to ensure that all people in Khorvaire trust the dragons, while at the same time pursuing Yllosavax's goals of arcane knowledge. "I'm not at liberty to say."
  - [x] A silver dragonborn named Valmoc is introduced to the PCs as part of their travels. He introduces them to the idea of the Silver Scales, and their role as protectors of all of Khorvaire so we don't see something like Shae Mordai again. ✅ 2024-01-11
- - [ ]  Valmoc and/or silver dragons arrive in Arcanix, hoping to create an alliance with the humans there to protect their pursuit of arcane research.
+ - [x]  Valmoc and/or silver dragons arrive in Arcanix, hoping to create an alliance with the humans there to protect their pursuit of arcane research.
  - [ ]  The silver dragons begin recruiting promising arcane individuals (wizards, sorcerers, magewrights, etc.) to come to both Arcanix and the Silvered Spire in Sharn.
  - [ ]  The Silver Scales are seen delving into forgotten tombs, deciphering ancient texts, and confronting magical challenges, looking for arcane secrets.
  - [ ]  The Silver Scales actively intervene in conflicts between dragon tribes, employing diplomatic measures and, when necessary, covert operations to prevent escalation. Their goal is to redirect the dragons' focus from chaotic pursuits to the principles of order and protection.
@@ -40,7 +40,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 ##### Gold (Thrane)
 **Goal**: Take over both the Church of the Silver Flame and Thronehold, in order to get an ancient couatl artifact (hidden in Thronehold and protected by the Church) that will help release Khyber.
   - [x]  Onme Donverou, a childhood friend of Spindelaryx, is appointed as Keeper of the Flame.
-  - [ ]  Spindelaryx selected to lead Thrane's new contigent to Thronehold.
+  - [x]  Spindelaryx selected to lead Thrane's new contingent to Thronehold.
   - [ ]  Spindelaryx convinces the other three nations stationed at Thonehold to let Thrane remodel Thronehold Castle.
   - [ ]  "Throne Wardens" of House Denieth replaced by the Silver Scales, Paladin Protectors of the Realm.
   - [ ]  Spindelaryx takes control of the newly remodeled Thronehold Castle (now called the Golden Palace), calling in gold dragon reinforcements to force out the other three nations. The silver dragons may want to pretend to put up a fight, to keep up appearances.
@@ -50,7 +50,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Bronze (Valenar)
 **Goal**: Build up a navy strong enough to protect Argonnessen from outsiders while the other dragons release Khyber.
- - [ ]  A single ship of bronze dragonborn lands in Pylas Maradal, and begin working with House Lyrandar to build more ships.
+ - [x]  A single ship of bronze dragonborn lands in Pylas Maradal, and begin working with House Lyrandar to build more ships.
  - [ ]  The bronze dragonborn open their own port and ship building business, called the Bronze Shipyard, to compete with House Lyrandar.
  - [ ]  The Bronze Shipyard outcompetes House Lyrandar, putting them out of business and pushing them out of Pylas Maradal completely.
  - [ ]  The bronze dragonborn send two ships, keeping a dozen behind, to Taer Valaestas where they establish a new shipyard and airship dock called the Bronze Spire.
@@ -62,7 +62,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Brass (Zilargo)
 **Goal**: Establish a spy network to get information back to Argonnessen, destroying The Trust in the process. "Information is power".
-  - [ ]  A traveling comedy troupe of brass dragonborn, known as the Brass Bards, begins to perform at any Copper Dragon Inns that exist in Khorvaire.
+  - [x]  A traveling comedy troupe of brass dragonborn, known as the Brass Bards, begins to perform at any Copper Dragon Inns that exist in Khorvaire.
   - [x]  A stationary Brass Bards troupe starts up in the city of Zolanberg, led by a charismatic dwarf leader (who always wears a brass ring on every finger) who is actually a disguised brass dragon.
   - [ ]  A stationary Brass Bards troupe starts up in the city of Trolanport.
   - [ ]  A stationary Brass Bards troupe starts up in the city of Korranberg.
@@ -74,9 +74,16 @@ The tracts below are listed in the general order that the PCs are expected to en
   - [ ]  The leaders of the brass dragons replaces The Proctor of The Trust, accomplishing their goal.
 
 ##### Blue (Lhazaar)
-**Goal**: To recover the Crystal Library of Azalakardon and the expansive knowledge of the Draconic Prophesy contained within.
- - [ ]  The Order of the Sapphire Scale (Dragon Elves)
- - [ ]  Final step is to attack Sarlona after they discover the secrets of the Draconic Prophesy and its place in it?
+**Goal**: To sow chaos, as a necessary precursor to the rise of draconic supremacy (mechanically this will probably involve adding to particular rolls/checks based on how many of these are checked off).
+ - [ ]  The Order of the Sapphire Scale, a group of random people of all races (mostly humans and changelings), begin their efforts in Lhazaar.
+ - [ ]  Chaos spreads across Lhazaar - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects (d20 rolled when any spell cast, with a wild magic effect on a 1) in place for any magic cast in this region.
+ - [ ]  Chaos spreads across eastern Khorvaire (east of the Mournland) - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast in the area.
+ - [ ]  The Infernal Engine randomly appears on one of the islands of Lhazaar, disappearing `dice:1d6` days later, and taking `dice:1d8` people with it.
+ - [ ]  Chaos spreads across ALL Khorvaire - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast on the continent.
+ - [ ]  The Infernal Engine randomly appears somewhere on Khorvaire, disappearing `dice:1d6` days later, and taking `dice:1d10+1` people with it.
+ - [ ]  Chaos spreads across all of Eberron - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast.
+ - [ ]  The Infernal Engine randomly appears somewhere on Sarlona, disappearing `dice:1d6` days later, and taking `dice:1d12+2` people with it.
+ - [ ]  The Infernal Engine randomly appears somewhere on Eberron, disappearing `dice:1d6` days later, and taking `dice:1d20+3` people with it.
 
 ##### Black (Shadow Marches)
 **Goal**: To descend into the depths of Khyber in order to gain access to Tiamat herself directly.
@@ -106,8 +113,14 @@ The tracts below are listed in the general order that the PCs are expected to en
   - [ ]  Copper dragons have converted all inns in Khorvaire to Copper Dragon Inns, completing their goal.
 
 ##### Red (Mror Holds)
-**Goal**: 
- - [ ]  
+**Goal**: To spread the religion of the dragons, known as Thir, throughout Eberron but especially through the Sovereign Host. The intent is to channel the energy of faithful believers to help release Tiamat (mechanically this will probably involve adding to particular rolls/checks based on how many of these are checked off).
+ - [ ]  The Order of the Ruby Scale, a group of dwarves, begin their ministries in the Mror Holds spreading Thir.
+ - [ ]  Temples of the Sovereign Host throughout eastern Khorvaire (east of the Mournland) begin teaching Thir beliefs, that the first Sovereigns were dragons of great or ill renown who ascended to godhood during the Age of Demons.
+ - [ ]  Temples of the Sovereign Host throughout ALL of Khorvaire are teaching Thir beliefs.
+ - [ ]  Half of the Khorvaire believers of the Sovereign Host have adopted the Thir beliefs. Sovereign Host temples all over Khorvaire start adopting more draconic symbology.
+ - [ ]  Temples of the Sovereign Host throughout Sarlona (and anywhere else in Eberron) begin teaching Thir beliefs.
+ - [ ]  Three-quarters of Khorvaire believers, and half of all Eberron believers of the Sovereign Host have adopted Thir beliefs. Sovereign Host temples all over Eberron have fully adopted draconic symbology.
+ - [ ]  All Khorvaire believers of the Sovereign Host subscribe to the Thir beliefs.
 
 ##### Green (Eldeen Reaches)
 **Goal**: To create a new extremely powerful half-dragon, similar to Erandis Vol.
