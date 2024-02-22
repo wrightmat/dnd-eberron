@@ -23,13 +23,22 @@ Fundamentally, worshipers of the Host identify them as deities that govern every
 * Olladra, the Sovereign of Feast and Fortune, the patron of entertainers, gamblers, and risk-takers. She bestows luck and spreads joy.
 * Onatar, the Sovereign of Fire and Forge. He inspires all who create and aids artificers, craftsmen, and smiths.
 
+### The Dark Six
+
+* The Devourer (Shargon)
+* The Fury (Szorawai)
+* The Keeper (Kol Turrant)
+* The Mockery (Dol Azur)
+* The Shadow
+* The Traveler
+
 #### Three Faces of Coin
 
 Kol Korran, Onatar, and Kol Turrant (The Keeper)
 
 #### Three Faces of Knowledge
 
-Aureon, Onatar, and the Shadow
+Aureon, Onatar, and The Shadow
 
 #### Three Faces of Love
 
@@ -51,7 +60,7 @@ Ursix, the bear totem, resides in the First Storm and protects all creatures who
 
 #### Three Faces of War
 
-Dol Arrah, Dol Dorn, and Dol Azur (the Mockery)
+Dol Arrah, Dol Dorn, and Dol Azur (The Mockery)
 
 Followers of the Three Faces of War revere the three Dol Gods as the Sovereigns of War, who are invoked any time blades are drawn or blood is shed in battle. They revere the Dols the most among the Sovereigns, respecting Dol Arrah as the wise face of war, Dol Dorn as the brave face of war, and secretly Dol Azur as the cunning face of war.
 

@@ -16,3 +16,6 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 * The Mournland
 	* Bring in Kazdurakashtan, who was in Cyre on the Day of Mourning and was morphed into a monstrous version of himself.
 
+* The Vast
+	* Final adventure where the players confront the obsidian dragons and try to prevent their ritual to release Tiamat.
+

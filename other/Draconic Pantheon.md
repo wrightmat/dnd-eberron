@@ -41,17 +41,25 @@ The Draconic Prophecy is a record of things to come that has been playing out si
 
 [[Draconic Prophesy]]
 
-### Dracons and the Sovereign Host
+### Dragons and the Sovereign Host
 
 According to Thir, the Dragon Gods influence the affairs of dragons, but they have no time for lesser creatures. Humans, dwarves, and elves would sully the Dragon Gods with their prayers. Watching over lesser creatures is the role of the Sovereigns. The dragon priests claim that dragons who embody primal concepts in life ascend to become Sovereigns in death. Instead of falling to Dolurrh, the spirit of an ascended dragon rises up, taking the place of one of the existing Sovereigns. The former Sovereign spirit then ascends farther, abandoning the thirteen planes and finding its final reward in the higher realm of the Dragon Gods. The common doctrine holds that there can be only fifteen ascended Sovereign spirits at one time, but many rogue dragons have challenged this theory and sought to find their own paths to ascension.
 
 It is an easy matter to map the legends of the ascended dragons to the myths of the Sovereign Host and the Dark Six. A critical difference is that the dragons don’t separate the two. Dulazurak is the archetype of the dishonorable warrior, but to the dragons, that’s still a Sovereign archetype and a valid path to immortality. The forces that the people of Khorvaire separate as Nine and Six are a single host in the eyes of the dragons; good or evil, they are all the Sovereigns who watch over the lesser beings.
 
-* Ourelonastrix = Aureon
-* Dularanahk = Dol Arrah
-* Dulazurak = Dol Azur = The Mockery
+* Ourelonastrix = Aureon (blue dragon holding a book)
+* Dularanahk = Dol Arrah (red dragon, perched atop a cloud, shiny with holy radiance)
+* Dulazurak = Dol Azur = The Mockery (half-fiend red dragon, bathed in blood)
+* ??? = Arawai (bronze dragon holding a bundle of wheat)
+* ??? = Balinor (green dragon, stalking its prey)
+* ??? = Boldrei (copper dragon keeping watch over a clutch of eggs)
+* ??? = Dol Dorn (powerful silver dragon, bearing a weapon in its maw)
+* ??? = Kol Korran (white dragon laying atop a pile of icy blue gems)
+* ??? = Olladra (black dragon holding a die in one hand and a domino in the other)
+* ??? = Onatar (brass dragon holding a hammer and tongs)
+* 
 
-
+[[Sovereign Host]]
 
 ### References
 
