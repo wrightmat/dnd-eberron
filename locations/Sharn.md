@@ -30,14 +30,15 @@ Sharn is a vertical city. It is divided up into five distinct plateaus: Central 
 
 ### Characters
 
+![[Central Plateau#Characters]]
 ![[Menthis Plateau#Characters]]
+![[Northedge Plateau#Characters]]
 
 ### Locations (District Plateaus)
 
 * **[[Central Plateau]]**. A largely upper and middle class district in the middle of the city, Central is the center of government where the city government and embassies from other nations are located. It is also home to some of Sharn's finest businesses, banks, and wealthiest citizens.
 * **[[Menthis Plateau]]**. The trendiest of Sharn's plateaus, Menthis is an entertainment hub and popular tourist destination. It is also home to Sharn's Morgrave University on the upper level.
-
-* Northedge Plateau. Northedge is a relatively quiet, largely residential plateau.
+* **[[Northedge Plateau]]**. Northedge is a relatively quiet, largely residential plateau.
 
 * Dura. Dura is the largest and poorest plateau, with only the Cogs being worse off. A mixture of residential and business districts, it is also home to the widest variety of peoples.
 

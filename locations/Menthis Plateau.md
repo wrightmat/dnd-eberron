@@ -10,7 +10,7 @@ The Menthis Plateau is the hub of Sharn’s entertainment industry, as well as i
 * **Mentarion Palinostrum**. Art Scholar at Morgrave University.
 * **Xarshel Ravenshadow**. Professor of Transmutative Science at Morgrave University
 
-### Locations
+### Locations (Districts)
 
 #### Lower Menthis Plateau
 
