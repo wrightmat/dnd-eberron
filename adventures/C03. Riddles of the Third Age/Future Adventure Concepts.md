@@ -14,7 +14,8 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 	* Known as the Scaled Apostate, Vvaraak was the dragon who taught the orcs the traditions of the Gatekeepers some sixteen thousand years ago. Vvaraak died long ago, but her lair reportedly contains many mystical secrets relating to the Draconic Prophecy. The location of the cave was lost during the war against the daelkyr, and it is one of the mysteries of the Marches. Should it ever be found, the Gatekeepers would be greatly offended if outsiders despoiled this most holy site
 
 * The Mournland
-	* Bring in Kazdurakashtan, who was in Cyre on the Day of Mourning and was morphed into a monstrous version of himself.
+	* Bring in Haze-of-Death (Kazdurakashtan), who was in Cyre on the Day of Mourning and was morphed into a monstrous version of himself.
+	* https://eberron.fandom.com/wiki/Haze-of-Death
 
 * The Vast
 	* Final adventure where the players confront the obsidian dragons and try to prevent their ritual to release Tiamat.

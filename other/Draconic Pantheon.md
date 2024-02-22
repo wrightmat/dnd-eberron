@@ -41,7 +41,7 @@ The Draconic Prophecy is a record of things to come that has been playing out si
 
 [[Draconic Prophesy]]
 
-### Dragons and the Sovereign Host
+### Draconic Sovereign Host
 
 According to Thir, the Dragon Gods influence the affairs of dragons, but they have no time for lesser creatures. Humans, dwarves, and elves would sully the Dragon Gods with their prayers. Watching over lesser creatures is the role of the Sovereigns. The dragon priests claim that dragons who embody primal concepts in life ascend to become Sovereigns in death. Instead of falling to Dolurrh, the spirit of an ascended dragon rises up, taking the place of one of the existing Sovereigns. The former Sovereign spirit then ascends farther, abandoning the thirteen planes and finding its final reward in the higher realm of the Dragon Gods. The common doctrine holds that there can be only fifteen ascended Sovereign spirits at one time, but many rogue dragons have challenged this theory and sought to find their own paths to ascension.
 
@@ -57,7 +57,11 @@ It is an easy matter to map the legends of the ascended dragons to the myths of 
 * ??? = Kol Korran (white dragon laying atop a pile of icy blue gems)
 * ??? = Olladra (black dragon holding a die in one hand and a domino in the other)
 * ??? = Onatar (brass dragon holding a hammer and tongs)
-* 
+* ??? = The Devourer (dragon turtle destroying things)
+* ??? = The Fury (snake-like wyrm of Khyber)
+* ??? = The Keeper (skeletal dragon)
+* ??? = The Shadow (shadow dragon)
+* ??? = The Traveler (older gold dragon, but always shapeshifted into something else - usually a human or beast)
 
 [[Sovereign Host]]
 
