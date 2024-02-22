@@ -115,3 +115,6 @@ Like Crystal Bridge, Oak Towers is a peaceful neighborhood that is home to many 
 - **Stormwind Keep**: This luxurious tower serves as the private estate of Dantian d’Lyrandar (N male half-elf expert 5/dragonmark heir 3). Dantian, a trade minister for House Lyrandar, is second in influence to his aunt Solia. While Solia d’Lyrandar spends most of her time in the house enclave in Dragon Towers, Dantian prefers the luxury of Stormwind Keep. The house often uses Dantian’s estate when hosting gala events or entertaining important guests. Dantian himself is a diplomatic individual, but primarily interested in furthering the economic and political power of his house. He has little interest in dealing with adventurers or other members of the lower classes.
 
 ### References
+
+* Sharn: City of Towers
+* https://eberron.fandom.com/wiki/Sharn

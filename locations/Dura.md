@@ -256,3 +256,6 @@ One of the newer districts, Redstone is less than two hundred years old and many
 Redstone has grown into one of the largest centers for commerce in the city, nearly twice the size of Granite Halls. Almost any sort of honest trade can be found in Redstone, from bakers to wigmakers. There are two banks in Redstone, including a Kundarak enclave and the smaller Lorrean Bank, a family business belonging to one of the sixty great families of Sharn. The district also contains workhouses that draw on the population of Overlook, including a glassworks and a textile factory.
 
 ### References
+
+* Sharn: City of Towers
+* https://eberron.fandom.com/wiki/Sharn

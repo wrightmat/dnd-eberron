@@ -4,7 +4,7 @@ Central Plateau is the heart of Sharn. Its top levels include the seat of the ci
 
 ### Characters
 
-* **Merrix d’Cannith** (NN male human artificer). Leader of House Cannith's Sharn enclave.
+* **Merrix d’Cannith** (NN male human artificer). Leader of House Cannith's Sharn enclave, who lives in Dragon Towers of the Middle Central Plateau. But he spends most of his time in the Cannith Forgehold in Ashblack, Upper Cogs.
 * **Ythana Morr** (LE female human cleric). Archierophant of the Church of the Silver Flame in Sharn.
 * **High Priest Phthaso Mogan** (NG dwarf male cleric). The ranking Sovereign Host priest in Sharn.
 
@@ -180,3 +180,6 @@ Skysedge Park is Sharn’s only park district, though Shae Lias (in Upper Northe
 - **The Gatehouse**: In Carosten Park, near the edge of the plateau, stands a small stone building. Passersby generally assume the building belongs to the park caretakers and pay it no heed, but it is actually a sacred site to the sect of druids known as the Gatekeepers. From this small shrine in the midst of a “natural” site in the City of Towers, the Gatekeepers monitor the manifest zone, the sewers and ruins below, and the activity of powerful spellcasters in Sharn to ensure that no dangerous planar breach appears in the city. They are not overly concerned with ordinary summoning spells and have little worry that the angels of Syrania are planning an invasion of the Material Plane, but they are deeply worried about recent events in the Depths.
 
 ### References
+
+* Sharn: City of Towers
+* https://eberron.fandom.com/wiki/Sharn

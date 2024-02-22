@@ -1,4 +1,4 @@
- #npc [[The Depths]]
+ #npc [[The Cogs]]
 
 Attitude:: Helpful
 Gender:: Male

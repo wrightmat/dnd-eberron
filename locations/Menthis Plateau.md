@@ -180,3 +180,6 @@ Morgrave University owns most of the buildings in Upper Menthis, even ones not u
 - **Shava House**: Shava House, a small academic community on the campus of Morgrave University, was originally a housing unit for professors with no families. It has developed into more of an intentional community: the residents share meals heavily laden with academic discourse, and generally share an interest in the history of Xen’drik. An unassuming member of this commune is Dala Arand — a friendly scholar active in planning expeditions to Xen drik, while also secretly serving as a spy for the Order of the Emerald Claw.
 
 ### References
+
+* Sharn: City of Towers
+* https://eberron.fandom.com/wiki/Sharn

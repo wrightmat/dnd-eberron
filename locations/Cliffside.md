@@ -33,3 +33,6 @@ Catering to the carnal desires of the clientele in Cliffside, Sharn’s Welcome 
 Almost identical to Grayflood in mood and appearance, Ship's Towers is distinguished by its southern tip. Here, buildings float upon the water. This boat town, formed of rafts, houseboats, and other watercraft of every shape and size, bobs on the water and is connected by a web of piers, gangplanks, and rope bridges.
 
 ### References
+
+* Sharn: City of Towers
+* https://eberron.fandom.com/wiki/Sharn

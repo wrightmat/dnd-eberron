@@ -9,7 +9,7 @@ Commander lyanna ir’Talan has been purging corrupt officers from the Tavick’
 * **Karr’Aashta** (NE male human rogue). Runs a small agency whose members can find out anything a client wants to know — for a price. Karr’Aashta has a reputation for taking on cases that the other Tharashk inquisitives won't touch, and he specializes in jobs dealing with the Cogs.
 * **Chance** (CN doppelganger). A powerful priest of the Traveler who runs a casino in Dragoneyes.
 
-### Locations
+### Locations (Districts)
 
 #### Lower Tavick’s Landing
 
@@ -219,3 +219,6 @@ All work and no play means you have come to Twelve Pillars. The inhabitants of t
 - **Twelve Pillars Courthouse**: This is where people need to go to acquire licenses to carry weapons or use magic within Upper Tavick’s Landing. The primary clerk who deals with suspicious individuals is an old dwarf named Billan Tosh (LN male dwarf expert 9). Billan is an expert at spotting forgeries. He also has a pair of spectacles that provide him with the benefits of arcane sight, and if he detects any use of magic he triggers an alarm summoning guards — so the use of charm person might backfire. Billan is a low-level member of the Aurum, and the character’s relationship with the Aurum may affect their ability to acquire licenses; alternatively, he can offer to grant a request if the characters perform a service for the Aurum. Because of his Aurum connections, he proves difficult to bribe; he is well paid for his services. The spymaster of the Zilargo embassy has an agent in the records department: Janesta Banton (N female gnome expert 4), ascribe and clerk. As a result, the gnomes can easily gain access to the many details people must provide to obtain a license.
 
 ### References
+
+* Sharn: City of Towers
+* https://eberron.fandom.com/wiki/Sharn
