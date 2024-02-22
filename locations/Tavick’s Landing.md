@@ -1,0 +1,221 @@
+ #location #district [[Sharn]]
+
+For most travelers, Tavick’s Landing is the gateway to Sharn. The Orien lightning rail station at Terminus brings in hundreds of travelers each day, and many more arrive via the Old Road at Wroann’s Gate. In many ways, Tavick’s Landing is the most eclectic quarter of Sharn, blending residential areas with commercial and entertainment districts that cater to the traders, travelers, and tourists who pass through the city. During the Last War, foreigners were carefully monitored as they entered the city, and even today the effects of the war can still be felt. An entire district in Lower Tavick’s Landing has been converted to house Cyran refugees and other people dislocated by the war.
+
+Commander lyanna ir’Talan has been purging corrupt officers from the Tavick’s garrison of the Sharn Watch in recent years. As a result, members of Tavick’s allotment of the City Watch are the most likely to be helpful to adventurers, and least likely to take bribes or practice extortion.
+
+### Characters
+
+* **Karr’Aashta** (NE male human rogue). Runs a small agency whose members can find out anything a client wants to know — for a price. Karr’Aashta has a reputation for taking on cases that the other Tharashk inquisitives won't touch, and he specializes in jobs dealing with the Cogs.
+* **Chance** (CN doppelganger). A powerful priest of the Traveler who runs a casino in Dragoneyes.
+
+### Locations
+
+#### Lower Tavick’s Landing
+
+Character: The gateway to Sharn, this ward is a constant flurry of noise and activity.
+
+Anyone who comes to Sharn by land comes through Lower Tavick’s Landing. The Orien lightning rail comes through Terminus, while the Old Road ends at Wroann’s Gate. Most travelers use a lift or skycoach to travel to the upper wards as quickly as possible. While not as dangerous as Lower Dura, Lower Tavick’s Landing is a rough ward, and it caters to workers from the Cogs, teamsters, and other tough folk. During the Last War many foreign nationals were detained in Lower Tavick’s Landing, and today High Walls provides housing for refugees from Cyre and other shattered communities. The Sharn Watch and the Guardians of the Gate do their best to maintain order in the district, but their resources are stretched thin, and adventurers who leave the gate districts and visit Dragoneyes, High Walls, or Cogsgate would be wise to keep weapons to hand. House Orien has a strong presence in Lower Tavick’s Landing, and Orien heirs, laborers, and teamsters can be found in many of the districts. House Lyrandar and House Deneith are also well represented, arranging matters of trade, transport, and security.
+
+##### Black Arch (Garrison)
+
+This district was designed to withstand a full siege. Every bridge to the outer realms has a guard post and a heavy portcullis that can be lowered at a moment’s notice. The walls are unusually thick stone, and arrow slits and murder holes can be seen in every wall. A massive tower of black stone dominates the center of the district — the garrison of the Sharn Watch, and the city’s first line of defense against outside attack.
+
+Black Arch is a dark, foreboding district. Without the use of magic or flight, all traffic to the higher wards must pass through Black Arch, and the district has been built to hold off an invading army. Fortified spires and guard posts are everywhere, and each of the major entrances has a heavy portcullis enchanted with arcane lock. During the Last War a detachment of the King’s Guard was stationed in Black Arch, but today it is back in the hands of the Watch. The Watch assigned to Black Arch takes its job very seriously, and its members are among the most ethical and trustworthy to be found in Sharn, mostly due to the efforts of the district commander, Iyanna ir’Talan.
+
+Most of the trades and services in this district support the Watch. There are a host of smithies, and it is an excellent place to obtain masterwork weapons and armor. House Jorasco maintains a house of healing near the garrison tower, and there is a House Sivis message station and Orien courier post to ensure quick communication between the garrisons.
+
+##### Cogsgate (Warehouse district)
+
+> This district is filled with sturdy warehouses and storage towers. Teamsters and laborers haul goods to and from storage vaults. A sulfurous smell wafts up from the shafts that lead to the Cogs far below.
+
+Travelers who arrive at Wroann’s Gate or Terminus may take skycoaches up to the higher wards, but cargo is brought to the warehouse district of Cogsgate. The Guardians of the Gate and the Wharf Watch both perform customs investigations, and there are three tariff offices where merchants can pay the taxes levied on their goods, or where local landowners can come to pay their taxes to the Brelish Crown. After customs inspections, goods are usually stored in one of the many warehouses until they can be distributed throughout the city or transported to the docks.
+
+Cogsgate is the gateway to the Blackbone Cogs. Ore from Zilargo and Karrnath is carted down the long tunnels into the darkness, and the sulfurous smell of the Cogs occasionally lingers the district. Most of the Cog workers live in this district, and it can be a rough place.
+One new area of tension revolves around the war between the Boromar Clan and the criminal organization known as Daask. The Boromars have financial interests in many of the warehouses, and the monsters of Daask have been striking Boromar holdings across the city. To date, Cogsgate has been left largely untouched, but at any time a Daask commando force could emerge from Blackbone to strike against a Boromar holding.
+
+- **House Deneith**: Visiting merchants may have concerns about the safety of their goods — or their skins. There is a small House Deneith outpost in this district where travelers can arrange for additional warehouse security, long-term bodyguards, or short-term escorts to the higher levels of the city.
+- **House Kundarak**: The House of Warding maintains five high-security warehouses in this district, each protected by arcane seal, alarm, glyphs of warding, and other mundane and magic traps. The price is twice that of the other warehouses in Cogsgate, but this all but ensures that the goods are protected.
+
+##### Dragoneyes (Red light district)
+
+> This district varies dramatically from street to street, blending loud, lowbrow entertainment with more sophisticated and sensual pleasures for wealthier visitors.
+
+Like the changelings who control most of the brothels, Dragoneyes shifts its appearance to suit the needs of the moment. Where it caters to teamsters and Cogs workers, Dragoneyes is a rough-and-tumble neighborhood filled with rowdy taverns and gambling halls. But the west side of the district is designed with merchants and the wealthy in mind, and the delights it offers are more sophisticated.
+
+Dragoneyes has a number of inns, taverns, and restaurants aimed toward frequent travelers passing through Sharn. But there is no reason a visitor should have to dine or sleep alone. The streets are full of people of all races and genders offering companionship. Wise people avoid these freelance operatives — who are often thieves or con artists looking for an opportunity — and instead frequent one of the many brothels in the district. Dragoneyes also contains a handful of dream parlors, places where illusion magic is used to provide exotic entertainment.
+
+Dragoneyes is the base of operations of the Tyrants, a guild of deception run by doppelgangers and changelings. The Tyrants manage to walka fine line, dealing with both Daaskand the Boromar Clan to provide the people of Dragoneyes with dreamlily and dragon’s blood.
+
+- **Chance**: Dragoneyes has quite a few rowdy gambling halls, but Chance is a more sophisticated casino. In addition to running the standard games and making odds on the various races and sporting events that occur throughout the city, Chance has a reputation for being able to arrange and cover almost any bet. Can you survive for two days with House Tarkanan trying to assassinate you? Can you seduce the ambassador from Aerenal in the next 24 hours? Chance makes the odds, takes the bet, and makes the arrangements required to set the challenge in motion. The casino is owned by a doppelganger named Chance (CN doppelganger adept 12/rogue 2), who is also a powerful priest of the Traveler. Almost nothing is known about Chance; the doppelganger wears a different guise every night, and the only way to recognize Chance is by the distinctive amulet it wears. Chance is not an agent of the Tyrant guild. It respects the guild and may provide magical assistance to guild members, but it serves the Traveler in its own way and stands above the guilds and politics of the city.
+- **The Shifting Hall**: The resources of the Tyrants are hidden throughout Dragoneyes, but they maintain a small building on the Street of Eyes where prospective clients can come in search of services. This building is completely unmarked and unremarkable. To find it, acharacter must obtain directions or make a DC 25 Knowledge (local) check. The Tyrant leadership is rarely found at the hall, and instead moves from base to base throughout the district.
+- **Velvet’s**: This luxurious inn specializes in fulfilling fantasies. While companions of all races and genders can be found here (though most are in fact doppelgangers or changelings), a client can enjoy the company of anyone he or she desires. A portrait is preferred, but Velvet (CN female doppelganger illusionist 5) can pluck images from the mind of a client, drawing out appearance, mannerisms, and other desired traits. The appearance of rooms can be adjusted to fulfill a specific scenario. While companionship is certainly sold at Velvet’s, it is not always what people want. A client may want to practice a wedding proposal. A barrister may go to Velvet’s to relive a glorious triumph in the courtroom. A lonely traveler may want to spend one night at home with his wife and family, even if they are only facsimiles. Velvet’s can make all of these happen. The cost of such elaborate scenarios is considerably higher than a standard inn or brothel, but Velvet’s does provide an experience that cannot be found anywhere else.
+
+##### Foundation (Apartment townhomes)
+
+> This district is solid and unremarkable, filled with low-income housing for the people who work the Cogs and the caravan districts of Terminus and Wroann’s Gate.
+
+Foundation is a simple residential area, home to Cogs and caravan workers. It is a poor district, plain and unremarkable, made from bare gray stone.
+
+##### High Walls (Refugee slum)
+
+> Many of the buildings in this district are in a state of disrepair or have been vandalized. The people on the streets are haggard and worn, watching everything with suspicious eyes.
+
+The Last War continued for over a century, and alliances shifted many times in its long course. After the destruction of the Glass Tower, the city council became gravely concerned with the threat of sabotage and terrorism. High Walls, a former residential district, was converted into a ghetto for suspicious residents or travelers — a virtual prison camp where foreign nationals could be kept away from the rest of Sharn. All of the bridges to other districts of Sharn were sealed by massive spellbound gates and fortified guard stations.
+
+When the war ended, High Walls was converted to a home for the many refugees of the war — mostly the surviving Cyrans who no longer have a country, but also people whose villages or homes were destroyed, and those who were held captive in High Walls during the war and developed roots there. The gates are generally open, but the guard posts remain. The war may be over for the moment, but the city council still has its suspicions and fears.
+
+High Walls is a self-sufficient community. The trades and services are all refugees putting their skills to work and selling their talents. But there is still a lot of tension and anger in this district. A growing number of Cyrans have embraced the nihilistic beliefs of the Dragon Below or turned to the worship of Radiant Idols, refusing to respect gods who would allow their nation to be destroyed. Former Brelish soldiers may receive an unfriendly welcome in this district, and would be well advised to tread lightly.
+
+##### Terminus (Caravan district)
+
+> This district is a buzzing hive of activity. Orien lightning rail coaches arrive and depart twice a day, and merchants and laborers are constantly loading and unloading crates of merchandise. Skycoaches and magic lifts are in constant motion, carrying travelers up to the higher towers.
+
+Terminus is defined by Terminus Station, the massive House Orien enclave that serves as an endpoint for the Orien lightning rail coach line. As a result, most Brelish travelers come through Wroann’s Gate, while most to the travelers from other nations arrive at Terminus. It is a hotbed of activity, and despite the presence of the Sharn Watch and the Guardians of the Gate, pickpockets and other thieves operate freely.
+After visitors pass inspection by the Guardians of the Gate, they are free to leave the district, either on foot or by taking one of the lifts or skycoaches to the higher wards. Terminus itself offers a host of inns, restaurants, taverns, and other basic services for the traveler who doesn’t want to enter greater Sharn, but none of these services are notable for quality or value.
+
+House Sivis maintains a message station in Terminus, and there is a small Deneith outpost where visitors can arrange for bodyguards or laborers. There is a larger House Lyrandar enclave; primarily this is used for negotiations between Lyrandar and Orien, but this outpost also allows merchants to arrange to have the goods brought in by coach transported elsewhere by air or sea. House Vadalis operates a large stable and hostelry, allowing visitors to secure their mounts while wandering through the city.
+
+##### Wroann’s Gate (Caravan district)
+
+> Hordes of people stream through the enormous gate of Sharn. A continuous flood of traffic and noise fills the streets, and skycoaches fill the air.
+
+When people come to Sharn by the Old Road, they come to Wroann’s Gate. Originally, the district was known as the Gate of Galifar, but when the Last War began the people chose to show their support for their first queen. It is an awesome site — a massive arch opening into an enormous tower, topped by a titanic statue of Queen Wroann holding a scepter in one hand and a sword above her head.
+Compared to Terminus, Wroann’s Gate sees far more local traffic — farmers from the surrounding areas bringing their goods to market, lords returning from Wroat, merchant caravans, and messengers and travelers of all description. Otherwise, the two districts are very similar, and House Sivis, House Deneith, and House Vadalis all offer the same services here that they do in Terminus.
+
+#### Middle Tavick's Landing
+
+Character: An eclectic blend of businesses and residences catering to people from all levels of society.
+
+Middle Tavick’s Landing has something for everyone. It is a crossroads for travelers, traders, and explorers, and includes a host of inns, taverns, shops, and reasonably priced residences. With a few notable exceptions — namely, the Graywall district — the people of Middle Tavick’s Landing are generally friendly and welcoming toward outsiders, quite unlike their counterparts in the upper ward.
+
+##### Cornerstone (Tavern district)
+
+> The streets are full of noise and laughter, as people stagger into and out of the many inns and taverns of the district. A large arena occupies the center of Cornerstone, and occasionally a ragged cheer rises up from the amphitheater.
+
+For those people who want a slightly more respectable level of entertainment than that offered in Dragoneyes, Cornerstone offers a host of inns and taverns — they may not be the best in Sharn, but prices are cheap and a few at least have good food and comfortable beds. The district has a strong interest in sporting events; quite a few windchases are based in Cornerstone, and there is always activity at the great arena. While the large gambling halls are located in Dragoneyes, there are always people (mostly aligned with the Boromar Clan) taking bets in taverns and at the arenas, and a character who wishes to place a few silvers at risk will have no trouble finding a taker.
+
+- **The Cornerstone**: “Cornerstone” is a district in Middle Tavick’s Landing. “The Cornerstone” is the massive arena in that district. The Cornerstone holds a wide variety of sporting events, ranging from foot races to equine jousts and skyblade matches. When circuses come to town, they often perform in the Cornerstone arena. The Cornerstone is considerably more respectable than the Hollow Tower of Hareth’s Folly, and the competitors are generally nobles or celebrities; you can’t come in off the street and expect to participate in a race at the Cornerstone.
+- **Stone Trees**: This small arena is the one formal Hrazhak forum in Sharn. There is a considerable shifter population in the district, and over the centuries these crafters and merchants raised a considerable sum to invest in the arena. While it is far smaller that the Cornerstone, it has an extremely versatile design, allowing different configurations of obstacles to be set up for each match. These obstacles include unusual metal and stone sculptures designed to mimic trees—hence the name of the arena.
+- **Tooth and Nail**: This rough and tumble tavern is run by a shifter named Boz (NG male shifter commoner 4). While it caters to the shifter community of Tavick’s Landing, Boz welcomes customers of all races, and anyone willing to discuss Hrazhak always finds a warm welcome. This is the best place to come to bet on Hrazhak matches or to find out about the shifters of Sharn. While in Tooth and Nail, a character willing to play along receives a +1 bonus on any History check made to learn information about shifters. A shifter receives a additional +1 bonus.
+
+##### Dancing Shadows (Inn district)
+
+> Tourists, travelers, and merchants fill the streets of this enormous district. Inns and taverns stretch as far as the eye can see. The quality is not exceptional, but there is no shortage of places to stay.
+
+Dancing Shadows provides food, lodging, and basic services to the many people who arrive in Sharn every day. None of the inns or taverns are especially remarkable; in this case quality is more significant than quantity. Adventurers tend to stay in Deathsgate, while the wealthy often go to Silvergate in Upper Tavick’s Landing. Dancing Shadows caters to the commoners and traveling merchants who simply need a place to stay at a reasonable price.
+
+##### Deathsgate (Adventurer’s quarter)
+
+> People from all walks of life and all corners of Khorvaire can be found in Deathsgate. Former soldiers and war wizards rub shoulders with explorers and aspiring artificers, and conversations in half a dozen languages can be heard at any given moment.
+
+Officially, Deathsgate takes its name from its proximity to Halden’s Tomb; a massive bridge connects the district to the necropolis, and funerary services are often held in the small temples of the district. But over the centuries, Deathsgate has become a home for those who challenge death on a daily basis — explorers, adventurers, and mercenaries of all stripes. Whether they are looking for companionship, spellcasting, or equipment, a party of adventurers should be able to find what they seek in Deathsgate.
+
+Like its counterpart in Upper Dura, Clifftop, Deathsgate offers an exceptional range of services, but these are rarely the best the city has to offer. Many magic items are available, but the ceiling on prices keeps characters from acquiring exceptionally powerful items. However, the shops of Deathsgate are more than happy to buy or sell partially used charged items. The pawnshops generally offer 45% of value for almost any sort of goods, except those that are obviously stolen. Occasionally a fence can be found here, though usually this requires a trip to Dragoneyes or Lower Dura.
+
+While similar to Clifftop in many respects, Deathsgate has a less savory reputation. While the explorers of Clifftop often seek to gain knowledge or to help people in need, Deathsgate caters to those who simply love gold or bloodshed. The people of Deathsgate are not necessarily evil—but they don’t care about the moral consequences of their actions.
+
+A number of dragonmarked houses maintain outposts in Deathsgate. House Jorasco maintains a large house of healing and does a brisk trade. House Deneith has a small enclave from which it recruits many of its Blademark warriors. House Sivis has an office of the Speakers Guild, including a message station, translation services, and a few barristers who specialize in the many concerns of adventurers.
+
+- **Deathsgate Guild**: Established 200 years ago, this is a guild for adventurers and soldiers of fortune—a place for people with talent and courage to hone their skills and enjoy the company of like-minded folk. Deathsgate Guild adventurers are mostly 2nd—5th level characters with neutral or evil alignments, and most served in the Last War. The members of Deathsgate Guild have a strong rivalry with the adventurers of the Clifftop Guild, and Deathsgaters often start fights with their counterparts, both in Sharn and while out on adventures. The Deathsgate Guild enclave includes a small shrine to the Mockery, a god many of the Deathsgaters secretly revere. However, this shrine is carefully hidden, and new members are vetted before they are allowed to find out about the shrine.
+- **Karr’Aashta’s Investigations**: Karr’Aashta (NE male human rogue 5/master inquisitive 2) runs a small agency whose members can find out anything a client wants to know — for a price. Karr’Aashta has a reputation for taking on cases that the other Tharashk inquisitives won't touch, and he specializes in jobs dealing with the Cogs. However, ‘Aashta has a secret — he is a follower of the Dragon Below. The Cults of the Dragon Below are a factious bunch, and often fight one another. As a result, ‘Aashta’s allegiance could help conceal the activities of a cult or lead them to the adventurers — or he could provide the adventurers with information they need to locate a cult and upset its plans, to serve the ends of his own sect.
+- **The Guild of Starlight and Shadow**: The most impressive building in Deathsgate is the Guild of Starlight and Shadow, the smaller of Sharn’s wizard circles. This small tower seems to be formed of pure night; illusion permeates the stone, depicting a dark sky filled with stars. While some mages simply join the guild to further their arcane studies, many are willing to sell their talents. Generally, spells of up to 3rd level can be obtained at standard prices, and 4th-level spells may be available. However, there may be a 24-hour delay before a specific spell can be obtained. Members of the Guild have fewer scruples about the use of magic than their counterparts in the Esoteric Order of Aureon, and for an extra 25% of the cost, most wizards are willing to cast a spell without asking any questions.
+- **Redblade’s**: This tavern caters to members of the Deathsgate adventurer’s guild, though anyone can buy ale here. The tavern has a few special services to offer that make it particularly popular with its usual clients. “Redblade” Rraac (NE male half-orc barbarian 4/adept 1) owns the tavern. He retired from fighting after his age began to slow him down, and now he leads the Deathsgate Guild services to the Mockery. Rraac’s wife Myssian (NE female human expert 5) is a skilled alchemist who maintains a workshop in the back of the tavern, and Rraac sells wrath, silverhaste, and a range of poisons to his favored clients.
+
+Other businesses in Deathsgate include Ancient Blades, a mystical forge that deals in magic arms and armor with a value of up to 35,000 gp; Dark Words, a dealer in scrolls; Bottled Silver, a potion merchant; Maynar’s Menagerie, a Vadalis-owned business dealing in exotic pets and animal companions; and The Labyrinth, a ramshackle old shop that nonetheless has a wide assortment of useful wondrous items.
+
+##### Graywall (Average residential, Karrn)
+
+> The people of Graywall are somber and serious, and outsiders receive a cold welcome. A visitor with a good ear notes the predominance of Karrn accents and spots Karrn features among the inhabitants of the district.
+
+The culture of Karrnath existed long before the Last War, and in Sharn it found a home in the Graywall district. As Sharn grew and became an important center for trade and commerce in the kingdom of Galifar, and as Karrn merchants and crafters settled in the city, many made their home in Graywall. Today Graywall is a quiet, close-knit community. The local families know each other well, and they dislike outsiders — with the notable exception of visitors from Karrnath, who receive a warm welcome and demands for the latest news from “the old country.” In practice, the people of Graywall are unfriendly toward most outsiders, but Friendly toward anyone of Karrn descent. Due to prejudices and incidents that occurred during the Last War, anyone attached to the Sharn City Watch or the Guardians of the Gate receives a -10 penalty on any Diplomacy checks made in the region. In general, City Watch patrols avoid Graywall; the people maintain a small local militia that patrols the district and settles disputes.
+
+For the most part, Graywall is a peaceful district. Most of the inhabitants are honest, hardworking people. However, the people of the district share something besides Karrn descent, something that sets them apart from the Karrn immigrants in Middle Menthis — most of the people of Graywall are devoted followers of the Blood of Vol. They keep their religion secret, sad to see the way in which it has been suppressed even in their homeland. But they continue to carry on the old traditions. And even if the people of Graywall won't actively assist the Order of the Emerald Claw, they certainly do provide agents of the Claw with shelter and support.
+
+- **The Bloody Mug**: The sign above the door of this inn displays a tilted clay mug, with what is presumably red wine trickling over the edge. This inn caters to visitors from Karrnath, and the people of the district often gather in the common room to share a tankard of Nightwood ale and listen to traveler’s tales, or engage in traditional Karrn chants and dances. A Karrn character receives a +1 circumstance bonus on all Gather Information and Knowledge (local) checks made in The Bloody Mug.
+- **Slogar’s**: The Slogars were one of the first families to settle in Graywall, and their restaurant has served the community for hundreds of years. The food isn’t fancy and the ambience is rather gloomy, but the prices are quite reasonable. If you like traditional Karrn peasant cuisine — which, truth be told, is usually an acquired taste — it’s hard to find better.
+- **The House of Hazal**: The largest estate in the district belongs to the Hazal family. The Hazals made their fortune investing in the smelting industry, and Hazal caravans still bring in ore from the family’s northern holdings on a regular basis. But while the Hazals have always been community leaders, they have also been religious leaders. Beyond a facade large enough to entertain guests and outsiders, the house of Hazal conceals Sharn’s only temple to the Blood of Vol. There are a number of secret passages throughout the district that lead to the temple, and every Zol the faithful come in shifts to give blood and hear the word of Vol. During the holiest days—such as the Tanarath, when the moon Aryth is eclipsed by Sypheros — almost all of the faithful gather at once. The current master of the house and priest of the Blood is Lan Hazal. Lan’s wife died recently, and there is a great deal of interest in the community as to who might become the next Lady Hazal. Lan is a charismatic and wealthy man, and he is very careful to conceal his impressive mystical powers from the world at large. Unless there is no other alternative, he only performs magic in the depths of the temple. He takes the use of magic very seriously, and rarely uses spells even to help his parishioners. He believes that people should be able to solve their own problems, and while he offers spiritual advice and even financial assistance to other members of the community, he only uses magic for the most serious situations. Lan is not an evil man, and he does not always approve of the actions of the Order of the Emerald Claw. However, he feels that it is not his place to question the undead champions of Vol. He has an astonishing gift for enchantment, and he spends much of his time producing magic items and weapons for Lady Tarra’az (see page 90). His other primary interest is extending his family library. Lan has invested a fortune to recover scrolls and texts from Xen’drik, seeking more information about the origin of the first vampires. He might hire a party to locate a tome on his behalf, or cross paths with a character who has accidentally acquired a book he needs; alternately, the party might need a rare book that can only be found in the Hazal library. The house of Hazal also contains the stores of blood donated by the members of the church, which are used to sustain Lady Tarra’az and visiting vampires.
+
+##### Kenton (Apartment townhomes)
+
+> Kenton is a working class district. The long halls surrounding the central towers are divided into dozens of tiny apartments, home to the laborers and commoners who keep the city running. The few people on the streets are generally in a hurry, either heading to work or just to somewhere more interesting than Kenton.
+
+Kenton is an unremarkable residential district. Apartments in Kenton are reasonably priced, and it’s not a bad place to live. The architecture is functional and bland, and there are few comforts to be found in a Kenton apartment besides four walls and a roof. One notable feature of Kenton is its relatively high shifter population; Caine Spire and Helas Keep are two residential towers that are almost entirely populated by shifters.
+
+##### Little Barrington (Average residential)
+
+> Little Barrington is a pleasant residential district. The homes are small but comfortable and well designed, and the inhabitants are generally friendly and cheerful.
+
+The successful middle class of Tavick’s Landing live in Little Barrington. Overseers from the Blackbone Cogs, junior barristers and aspiring government functionaries — anyone who can’t afford a home in the Upper Wards but is too successful to live in Kenton or one of the lower districts. It is quiet and peaceful, and frequent patrols by the Sharn Watch ensure that it stays that way.
+
+##### Tavick’s Market (Marketplace)
+
+> Traders and travelers fill the open market, offering foods, crafts, and spirits from across Khorvaire. The crowd is loud and bustling, but the City Watch helps to maintain order and discipline.
+
+Terminus lies just below Tavick’s Market, and goods from across Khorvaire come in on lightning rail and are shipped directly up to the open market. This district is an excellent place to find clothes, crafts, and goods from the Five Nations and the younger kingdoms. Farmers from the surrounding countryside typically prefer to sell their goods in Tavick’s Market, as the Bazaar of Dura is dangerous and North Market is expensive. Most farmers come to market on Far and Sar each week, and these are excellent times to purchase produce and livestock. A market permit costs 1 sp, and the Sharn Watch makes certain that merchants have their permits.
+
+While the open market is the primary attraction in Tavick’s Market, there are many permanent crafters, restaurants, and taverns scattered throughout the district. Most of this is average fare, but there are a few diamonds in the rough.
+
+#### Upper Tavick's Landing
+
+Character: Everything an aristocrat needs — housing, luxuries, and servants.
+
+Upper Tavick’s Landing is a self-contained kingdom for the wealthy. Everything an aristocrat might need can be found in this ward: a luxurious mercantile district, fine housing, skilled services, and even a district where servants and hirelings can live. The lords and merchant princes who hold power in Upper Tavick’s Landing have worked to isolate their home from the chaos that often engulfs the rest of the city, and it is in many ways a small city within Sharn. During the Last War, there was general concern that the ward was in danger due to the number of foreigners that moved through the lower wards. As a result, the leaders of Upper Tavick’s Landing petitioned the city council and established a number of laws unique to the ward. Those of most concern to adventurers include the following:
+- The soldiers of House Deneith have equal authority with the Sharn City Watch within the confines of Upper Tavick’s Landing. A full 100 members of the Blademark are stationed in Upper Tavick’s Landing, paid for by taxes levied on the district. Deneith warriors maintain checkpoints at all entrances to the district, to ensure that visitors comply with the laws of the ward.
+- A character must obtain a license to carry a weapon within Upper Tavick’s Landing. This license can be obtained at the courthouse in Twelve Pillars, and costs 5 gp. However, the main purpose of the license is to keep armed undesirables out of the district. The typical adventurer must make a DC 20 Persuasion check to convince the functionary to provide him with a license. He must be a Brelish citizen or a member of a dragonmarked house, and must provide a great deal of personal information, including a detailed description of the weapons he is licensed to carry. Any member of the Sharn City Watch or House Deneith can demand to see a license, and they will confiscate unauthorized weapons.
+- A different license is required to cast spells within the district; this costs 10 gp and requires the character to specify the spells he wishes to cast. Unauthorized spellcasting generally results in a fine of 50 gp times the level of the spell.
+- Upper Tavick’s Landing has a dress code. Inhabitants must dress “in a manner that upholds the solemn dignity of this proud ward,” and it is up to the individual Watch officer or Deneith guard to interpret what this means. Generally, an adventurer is safe if his clothes cost at least 5 gp, but this law provides an excellent excuse to harass undesirables. Armor is usually considered to be inappropriate unless the wearer is part of the Watch, House Deneith, or another branch of the city government or the crown. Anyone held to be in contempt of this law is escorted from the district and ordered to stay away until rectifying the situation.
+- Unruly conduct — fighting, shouting in the streets, and other forms of rude behavior — results in a fine of up to 5 gp and temporary expulsion from the ward (assuming that none of the other laws of the city were broken during the incident).
+
+In addition to these laws, the inhabitants of the ward are generally unfriendly toward anyone who is shifty, suspicious, or poor. Adventurers and foreigners are treated with great suspicion unless they have a lot of gold to spend or have ties to a dragonmarked house or similar organization.
+
+##### Copper Arch (Professionals)
+
+> A massive copper arch stretches over the center of this business district. The streets are filled with well-to-do citizens and professionals, conducting business or heading to their homes and offices.
+
+Copper Arch is a professional district, similar in most respects to Twelve Pillars. Exotic trades include Magical Pigments, a gallery displaying paintings by local artists; Transmutation, the most prominent beauty salon in the city; and Wyredd’s Spirits, a respected importer of exotic wines.
+
+- **House Deneith:** The Sentinel House maintains a fortified enclave in Copper Arch. This includes a garrison for the Blademark soldiers who serve as the private watch of the Ward. Beyond the garrison lies a private mansion accessible only to the Sharn Deneith, and it is here that the Deneith hone their psionic abilities and practice psionic combat. If a Deneith heir from outside Sharn tries to enter the facility, she is told that the enclave is restricted and directed to the main enclave in Dragon Towers.
+
+##### Dalan’s Refuge (Wealthy residential)
+
+> The opulence of this neighborhood is overwhelming. The streets are lined with marble statues of famous inhabitants of Sharn, and fountains of illusion throw shimmering columns of rainbow light into the air. While not quite as luxurious as the homes of Ocean View, the mansions of Dalan’s Refuge are large and quite impressive.
+
+Dalan’s Refuge is rather unremarkable, notable only for the wealth of its inhabitants, the number of pretentious monuments it contains, and the fact that a would-be resident only needs to acquire 25 signatures before purchasing property in the district. It is filled with impressive mansions, along with a few smaller houses belonging to successful merchants, barristers, and politicians who haven't quite made it to the top yet.
+
+##### Ocean View (Wealthy residential)
+
+> The towers of Ocean View are among the highest in the city, allowing a beautiful view of the water to the south. The central spires are surrounded by luxurious mansions and well-kept gardens. Private guards stand at the gates of most of the manors, and strangers are watched carefully.
+
+The manors of Ocean View are the most luxurious on the east side of Sharn, and they are extremely exclusive. Gold alone cannot purchase a mansion in Ocean View; by the laws of the ward, at least 30 current residents must sign a petition allowing the newcomer to purchase property. In addition to the beautiful homes, there are a number of pleasant parks and public gardens. The most notable of these is Lavalla Park, which provides the best view of the ocean.
+
+- **The Gray House**: This manor is one of the oldest in the district, and it has a few unusual features; most notably, it has no windows. The outlines of windows have been engraved into the outer walls, but the walls are solid; apparently the architect considered it to be some sort of artistic statement. The Gray House has passed through the hands of a number of Karrnathi nobles over the last three centuries. While the people of Ocean View generally distrust foreigners, the inhabitants of the Gray House are invariably charming and charismatic—and vampires. The Gray House has long been used as a safe house for undead associated with the Order of the Emerald Claw. The current lady of the house is Jesel Tarra’az. She spends most of her time tending to her “family investments,” but occasionally appears at evening galas or other after-dark events.
+
+##### Pinnacle (Temple district)
+
+> While not quite as impressive as the grand temples at Sovereign Towers, the churches and shrines of Pinnacle are dripping with precious metals and jewels. Appearance and opulence may be more important than faith to the congregations of Pinnacle.
+
+The temples of Pinnacle serve more of a social function than a religious one. The priests are typically experts with no divine abilities. The primary duties of a Pinnacle priest are managing donations, ensuring that the people who pay the most get prominent seating during services, and performing formal (ultimately meaningless) blessings at the parties and galas of the wealthy. The one exception is the Temple of Balinor; while it happens to have been built in Pinnacle, its priests are dedicated and its services draw the faithful from across Sharn.
+
+##### Silvergate (Fine shops)
+
+> The streets of the district are paved with silver stone, and gleam in the light of the everbright lanterns. Beautiful music wafts out of an expensive restaurant, and a young aristocrat examines a glamerweave cloak with a critical eye.
+
+Silvergate provides an enormous range of goods aimed at the wealthiest citizens of Sharn. Expensive clothing, fine jewelry, exotic artwork, overpriced food, and pretentious wines are all part of the Silvergate experience. However, the district does contain a few truly luxurious inns, and a magic emporium — The Crystals of Denion — that buys and sells magic items of considerable value. Most of Denion’s goods are related to charm effects or enhancing Charisma. He also has a variety of extremely expensive magical art; while fascinating and beautiful, these have no practical value for adventurers. Items purchased in Silvergate are always of exceptional quality, but generally have a 5% markup on price.
+There are four different dining clubs in Silvergate, but they only accept members from wealthy families or dragonmarked houses.
+
+##### Sunrise (Average residences)
+
+> The few mansions in this district are on the east side, where they get the best view of the sunrise over the cliffs. Most of the people in this neighborhood are successful, but not tremendously wealthy; they are the shopkeepers, hirelings, and servants who see to the needs of the rich and powerful inhabitants of the quarter.
+
+Sunrise is a quiet, unremarkable district. It is exceptionally clean, and one of the safer places to live. However, inhabitants still have to comply with Tavick’s Laws, which can prove to be quite annoying for adventurers.
+
+##### Twelve Pillars (Professionals)
+
+> A host of small businesses are interspersed with pleasant houses and a few manor towers. Barristers, architects, scribes, translators, and members of other skilled professions offer their services here, along with a few more exotic — and expensive — trades.
+
+All work and no play means you have come to Twelve Pillars. The inhabitants of this district are serious about what they do, and are generally quite good at their trades. The exotic trades include a calligrapher; an importer of (legal) Riedran goods, notably sculptures; and a dealer in exotic cheeses. The district derives its name from the courthouse at its center, a structure surrounded by twelve massive pillars, each made from a different type of stone. Each pillar is topped with a statue of one of the Lord Mayors of Sharn. As the pillars are all filled, there has been some discussion as to how to honor the more recent mayors.
+
+- **Twelve Pillars Courthouse**: This is where people need to go to acquire licenses to carry weapons or use magic within Upper Tavick’s Landing. The primary clerk who deals with suspicious individuals is an old dwarf named Billan Tosh (LN male dwarf expert 9). Billan is an expert at spotting forgeries. He also has a pair of spectacles that provide him with the benefits of arcane sight, and if he detects any use of magic he triggers an alarm summoning guards — so the use of charm person might backfire. Billan is a low-level member of the Aurum, and the character’s relationship with the Aurum may affect their ability to acquire licenses; alternatively, he can offer to grant a request if the characters perform a service for the Aurum. Because of his Aurum connections, he proves difficult to bribe; he is well paid for his services. The spymaster of the Zilargo embassy has an agent in the records department: Janesta Banton (N female gnome expert 4), ascribe and clerk. As a result, the gnomes can easily gain access to the many details people must provide to obtain a license.
+
+### References

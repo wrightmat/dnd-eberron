@@ -33,20 +33,20 @@ Sharn is a vertical city. It is divided up into five distinct plateaus: Central 
 ![[Central Plateau#Characters]]
 ![[Menthis Plateau#Characters]]
 ![[Northedge Plateau#Characters]]
+![[Dura#Characters]]
+![[Cliffside#Characters]]
+![[Tavick’s Landing#Characters]]
+![[Skyway#Characters]]
 
 ### Locations (District Plateaus)
 
 * **[[Central Plateau]]**. A largely upper and middle class district in the middle of the city, Central is the center of government where the city government and embassies from other nations are located. It is also home to some of Sharn's finest businesses, banks, and wealthiest citizens.
 * **[[Menthis Plateau]]**. The trendiest of Sharn's plateaus, Menthis is an entertainment hub and popular tourist destination. It is also home to Sharn's Morgrave University on the upper level.
 * **[[Northedge Plateau]]**. Northedge is a relatively quiet, largely residential plateau.
-
-* Dura. Dura is the largest and poorest plateau, with only the Cogs being worse off. A mixture of residential and business districts, it is also home to the widest variety of peoples.
-
-* Cliffside. Cliffside is built into the side of the cliffs along the Dagger and Hilt Rivers. Its businesses all catered to either shipping or adventuring interests.
-
-* Tavick's Landing. Tavick's Landing, located at the eastern edge of the city, is defined by being the terminus for the lightning rail.
-
-* Skyway. Skyway is but a single district, not connected to any plateau but rather suspended by magic above the rest of the city (a magic that only worked because of the manifest zone). Skyway is the home of the most fantastically wealthy and prestigious residents, as well as businesses that attended to them.
+* **[[Dura]]**. Dura is the largest and poorest plateau, with only the Cogs being worse off. A mixture of residential and business districts, it is also home to the widest variety of peoples.
+* **[[Cliffside]]**. Cliffside is built into the side of the cliffs along the Dagger and Hilt Rivers. Its businesses all catered to either shipping or adventuring interests.
+* **[[Tavick’s Landing]]**. Tavick's Landing, located at the eastern edge of the city, is defined by being the terminus for the lightning rail.
+* **[[Skyway]]**. Skyway is but a single district, not connected to any plateau but rather suspended by magic above the rest of the city (a magic that only worked because of the manifest zone). Skyway is the home of the most fantastically wealthy and prestigious residents, as well as businesses that attended to them.
 
 * The Depths. "The Depths" is the generic name for the regions below the main plateau, excepting the Cogs and Cliffside. Largely a system of sewers and ruins.
 
