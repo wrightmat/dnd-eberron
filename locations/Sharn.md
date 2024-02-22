@@ -1,5 +1,8 @@
 ---
 renown: 1
+cssclasses:
+  - hide-embedded-h3
+  - clean-embeds
 ---
  #location #city [[Breland]]
 
@@ -25,36 +28,27 @@ The inhospitable outcropping that Sharn sits on allows the city to grow only in 
 
 Sharn is a vertical city. It is divided up into five distinct plateaus: Central Plateau, Menthis Plateau, Northedge, Dura, and Tavick's Landing, as well as the Cliffside district built into the sides of the cliff near the Dagger River. While each plateau divides the city into districts, the city is also stratified vertically and divided into several sections. The lowest wards of the city are called the Cogs, and if one were to walk to the heights of Sharn they would pass through the Depths, the Lower City, Middle City, Upper City, and then finally they would need to find some method of travel to the highest section of Sharn, which is Skyway. Generally, the higher one is in Sharn, the wealthier the citizens are. Each section of the city is further divided into smaller districts.
 
-### Locations
+### Characters
 
-* Menthis Plateau. 
+![[Menthis Plateau#Characters]]
 
-The trendiest of Sharn's plateaus, Menthis is an entertainment hub and popular tourist destination. It is also home to Sharn's Morgrave University on the upper level.
+### Locations (District Plateaus)
 
-#### Northedge Plateau
+* **[[Central Plateau]]**. A largely upper and middle class district in the middle of the city, Central is the center of government where the city government and embassies from other nations are located. It is also home to some of Sharn's finest businesses, banks, and wealthiest citizens.
+* **[[Menthis Plateau]]**. The trendiest of Sharn's plateaus, Menthis is an entertainment hub and popular tourist destination. It is also home to Sharn's Morgrave University on the upper level.
 
-Northedge is a relatively quiet, largely residential plateau.
+* Northedge Plateau. Northedge is a relatively quiet, largely residential plateau.
 
-#### Dura
+* Dura. Dura is the largest and poorest plateau, with only the Cogs being worse off. A mixture of residential and business districts, it is also home to the widest variety of peoples.
 
-Dura is the largest and poorest plateau, with only the Cogs being worse off. A mixture of residential and business districts, it is also home to the widest variety of peoples.
+* Cliffside. Cliffside is built into the side of the cliffs along the Dagger and Hilt Rivers. Its businesses all catered to either shipping or adventuring interests.
 
-#### Cliffside
+* Tavick's Landing. Tavick's Landing, located at the eastern edge of the city, is defined by being the terminus for the lightning rail.
 
-Cliffside is built into the side of the cliffs along the Dagger and Hilt Rivers. Its businesses all catered to either shipping or adventuring interests.
+* Skyway. Skyway is but a single district, not connected to any plateau but rather suspended by magic above the rest of the city (a magic that only worked because of the manifest zone). Skyway is the home of the most fantastically wealthy and prestigious residents, as well as businesses that attended to them.
 
-#### Tavick's Landing
+* The Depths. "The Depths" is the generic name for the regions below the main plateau, excepting the Cogs and Cliffside. Largely a system of sewers and ruins.
 
-Tavick's Landing, located at the eastern edge of the city, is defined by being the terminus for the lightning rail.
+* The Cogs. The churning industrial heart of Sharn, located below the Depths along the chasms that divided Sharn's plateaus.
 
-#### Skyway
-
-Skyway is but a single district, not connected to any plateau but rather suspended by magic above the rest of the city (a magic that only worked because of the manifest zone). Skyway is the home of the most fantastically wealthy and prestigious residents, as well as businesses that attended to them.
-
-#### The Depths
-
-"The Depths" is the generic name for the regions below the main plateau, excepting the Cogs and Cliffside. Largely a system of sewers and ruins.
-
-#### The Cogs
-
-The churning industrial heart of Sharn, located below the Depths along the chasms that divided Sharn's plateaus.
+### References
