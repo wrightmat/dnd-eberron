@@ -40,3 +40,20 @@ The Draconic religion of Thir considers the Progenitors to be the highest level 
 The Draconic Prophecy is a record of things to come that has been playing out since creation. The dragons of Argonnessen observe and record everything from the position of the moons and stars, to the position of the Ring of Siberys to physical manifestations of dragonmarks in the world, all of which they study looking for portents and omens of things to come. The prophecy encompasses many many volumes and is said to be as complex and unfathomable as the dragons themselves. It is unknown what the Draconic Prophecy's nature is. Some argue it is a revelation of the end of the world, others of a new beginning. Whatever it means, it is obvious that the prophecy points toward the transformation of the world as we know it. Only the Progenitors themselves know that the Draconic Prophesy outlines the cyclic nature of the planet known as Eberron, and its ongoing battle between the dragons and the daelkyr - but even they are unsure what lies beyond the Third Age.
 
 [[Draconic Prophesy]]
+
+### Dracons and the Sovereign Host
+
+According to Thir, the Dragon Gods influence the affairs of dragons, but they have no time for lesser creatures. Humans, dwarves, and elves would sully the Dragon Gods with their prayers. Watching over lesser creatures is the role of the Sovereigns. The dragon priests claim that dragons who embody primal concepts in life ascend to become Sovereigns in death. Instead of falling to Dolurrh, the spirit of an ascended dragon rises up, taking the place of one of the existing Sovereigns. The former Sovereign spirit then ascends farther, abandoning the thirteen planes and finding its final reward in the higher realm of the Dragon Gods. The common doctrine holds that there can be only fifteen ascended Sovereign spirits at one time, but many rogue dragons have challenged this theory and sought to find their own paths to ascension.
+
+It is an easy matter to map the legends of the ascended dragons to the myths of the Sovereign Host and the Dark Six. A critical difference is that the dragons don’t separate the two. Dulazurak is the archetype of the dishonorable warrior, but to the dragons, that’s still a Sovereign archetype and a valid path to immortality. The forces that the people of Khorvaire separate as Nine and Six are a single host in the eyes of the dragons; good or evil, they are all the Sovereigns who watch over the lesser beings.
+
+* Ourelonastrix = Aureon
+* Dularanahk = Dol Arrah
+* Dulazurak = Dol Azur = The Mockery
+
+
+
+### References
+
+* https://www.reddit.com/r/Eberron/comments/ucpxnb/draconic_versions_of_the_sovereign_host/
+* Dragons of Eberron

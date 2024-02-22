@@ -7,11 +7,11 @@ Below are details on each of the tribes. The dragons should be treated as essent
 ### Summary
 | Color | Damage | Leader/Inspiration | Plane | Followers/Organizations | Characteristics | Enemy | Habitat | Al. |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| White | Cold | Kazdurakashtan (deceased) | Risia (Base in Everice) | Order of the Ivory Scale (Dragon Giants) | Bullying, Persistent | Silver | Arctic Mountains | CE |
-| Black | Acid | Vvaraak (deceased) | Mabar (Base in Shadow Marches/Droaam) | Order of the Onyx Scale (Dragon Orcs) | Vile-tempered, Cruel | Copper | Swamps | CE |
+| White | Cold | Kazdurakashtan (presumed deceased) | Risia (Base in Everice) | Order of the Ivory Scale (Dragon Giants) | Bullying, Persistent | Silver | Arctic Mountains | CE |
+| Black | Acid | Moar’donn | Mabar (Base in Shadow Marches/Droaam) | Order of the Onyx Scale (Dragon Orcs) | Vile-tempered, Cruel | Copper | Swamps | CE |
 | Green | Poison | Ystravnil | Lamannia (Base in Eldeen Reaches) | Order of the Emerald Scale (Dragon Elves) | Cunning, Duplicitous, Territorial | Gold | Forests | LE |
-| Red | Fire | Q’anhyrde | Fernia (Base in Mror Holds) | Order of the Ruby Scale (Dragon Dwarves) | Powerful, Combative | Brass | Mountains, Volcanos | CE |
-| Blue | Lightning | Azalakardon (deceased) | Kythri (Base in Lhazaar) | Order of the Sapphire Scale | Mocking, Manipulative | Bronze | Deserts, Beaches | LE |
+| Red | Fire | Dularanahk (deceased and ascended as Dol Arrah) | Fernia (Base in Mror Holds) | Order of the Ruby Scale (Dragon Dwarves) | Powerful, Combative | Brass | Mountains, Volcanos | CE |
+| Blue | Lightning | Kalryni | Kythri (Base in Lhazaar) | Order of the Sapphire Scale | Mocking, Manipulative | Bronze | Deserts, Beaches | LE |
 | Brass | Sleep, Fire | Meretsega | Thelanis (Base in Darguun/Zilargo) | The Brass Bards | Talkative | Red | Deserts, Plains | CG |
 | Bronze | Lightning, Charm | Shadewing | Shavarath (Base in Valenar) | The Bronze Navy | Honorable, Arrogant | Blue | Coastlines, Islands | LG |
 | Copper | Acid, Incapacitate | [[Kauverra]] | Xoriat (Base in Aerenal) | Copper Dragon Inns | Joking, Devious, Clever | Black | Mountains, Deserts | CG |
