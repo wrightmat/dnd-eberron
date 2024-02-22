@@ -75,7 +75,8 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Blue (Lhazaar)
 **Goal**: To recover the Crystal Library of Azalakardon and the expansive knowledge of the Draconic Prophesy contained within.
- - [ ]   Final step is to attack Sarlona after they discover the secrets of the Draconic Prophesy and its place in it?
+ - [ ]  The Order of the Sapphire Scale (Dragon Elves)
+ - [ ]  Final step is to attack Sarlona after they discover the secrets of the Draconic Prophesy and its place in it?
 
 ##### Black (Shadow Marches)
 **Goal**: To descend into the depths of Khyber in order to gain access to Tiamat herself directly.
