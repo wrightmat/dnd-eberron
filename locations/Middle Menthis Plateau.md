@@ -2,18 +2,18 @@
 
 The Menthis Plateau is the hub of Sharn’s entertainment industry, as well as its most diverse ethnic quarter and the seat of Morgrave University. Its districts include Den’iyas (also called Little Zilargo because of its large gnome population), Everbright (the city’s only magic district), and two theater districts, Torchfire and Smoky Towers. Like the Central Plateau, its location allows it to draw visitors from all over the city to sample its entertainment offerings, and it also draws tourists from across the Five Nations.
 
-### **Middle Menthis Plateau**
+### Middle Menthis Plateau
 Character: Racially, ethnically, and economically diverse downtown area.
 
 Middle Menthis is quite possibly Sharn’s most diverse ward, representing a true melting pot of different races, ethnic and national origins, economic classes, and social statuses. Small communities of human immigrants from the Lhazaar Principalities (in Warden Towers), the Shadow Marches (in Cassan Bridge), and Cyre (in Smoky Towers), in addition to the large halfling community in Little Plains and the students of Morgrave University, drawn from across Khorvaire, contribute to this diversity. Together, these many communities of immigrants make Middle Menthis an excellent place to find crafts and services that are particular to certain peoples and nations.
 
-**Cassan Bridge** (Shops)
+#### Cassan Bridge (Shops)
 
 > Citizens rush by with their arms full of packages in this shop district. There is a definite foreign element to some of the architecture and the goods for sale, not to mention the people.
 
 Cassan Bridge is a fairly unremarkable shopping district, unique only in the small community of human immigrants from the Shadow Marches who make their homes and livings here. Several importers bring Marcher crafts into Sharn, and specialty groceries carry ingredients favored in Marcher cooking. Although no buildings need be built on stilts in Middle Menthis, some of the architecture of Cassan Bridge echoes the styles of the Marches as well.
 
-**Everbright** (Magic district)
+#### Everbright (Magic district)
 
 > Everbright lanterns keep the towers here well illuminated, and other magical effects are visible everywhere—from soarsleds carrying people through the air to constructs following their masters as they visit different shops
 
@@ -22,17 +22,15 @@ While the spellcasters and dealers of Everbright are accustomed to trading with 
 
 **Shrine of the Shadow**: Hidden down a dark alley, the shrine of The Shadow represents the dark side of Everbright. Here, necromancers and other evil wizards gather in secret to revere the power of magic perverted to evil ends, led by a cleric/necromancer named Thalanna (CE female human cleric 3/necromancer 3). This secretive cult has no grand evil schemes for world domination; they exist purely to worship their patron deity and hide only to escape persecution.
 
-**Little Plains** (Halfling encampment)
+#### Little Plains (Halfling encampment)
 
 > The towers here appear insideout: instead of open central spaces surrounded by buildings attached to the outside of a tower, streets run around the outsides of the towers, giving access to very low doorways leading to cavelike interiors. Halflings seem to negotiate these outside ledges with ease, and so do the dinosaurs many of them ride. Great winged reptiles soar between towers, many with halfling riders on their backs.
-> 
 
 Little Plains is not the only halfling neighborhood in Sharn, but it is the only district almost entirely inhabited by halflings and the only significant concentration west of the Mournland of halfling immigrants from the Talenta Plains. Even the architecture suggests the maintenance of these halflings’ traditional ways, since the towers resemble the city of Gatherhold in Talenta. More urbanized halflings live in Little Plains as well, as do some few members of other races (primarily gnomes and some kobolds).
 
-**Smoky Towers** (Theater district)
+#### Smoky Towers (Theater district)
 
 > Theaters, restaurants, and concert halls offer the promise of an evening’s musical entertainment in this district.
-> 
 
 Smoky Towers is in some ways an extension of the Torchlight district directly below it, perhaps slightly better off in general but not much different in essentials. Smoky Towers is the entertainment district of Middle Menthis, known for dinner theaters, recital halls, and one grand theater. It presents a grade of entertainment that falls between the burlesque of Torchlight and the classical drama of the University District—affordable yet respectable, accessible yet thoughtful.
 A small but significant number of people who trace their origin to Cyre have made their home in Smoky Towers. Although culturally they differ little from their Brelish neighbors, this community has become very active in the wake of Cyre’s destruction, discussing rebuilding or reestablishing the nation elsewhere in Khorvaire. The Citadel keeps the Cyran community here under close watch due to this potentially treasonous talk.
@@ -47,7 +45,7 @@ A small but significant number of people who trace their origin to Cyre have mad
 
 **Thovanic Hall**: Similar to the Atrium, Thovanic Hall is a former theater converted to use as a recital hall. It is still very new (the renovation was completed only two years ago), and is still trying to build its reputation as a place for fine music to compete with the Atrium. As a distinguishing point, Thovanic presents a significant number of non-Brelish and even non-human performers, who bring diversity to the musical offerings that the residents of Middle Menthis find sorely lacking in the district’s other offerings.
 
-**Warden Towers** (Garrison)
+#### Warden Towers (Garrison)
 
 > Some guards of the Watch march to and fro in groups, while others stand at attention, and still others drill for combat. Shouted commands and marching songs fill the air.
 > 

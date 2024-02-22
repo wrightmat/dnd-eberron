@@ -27,7 +27,7 @@ Sharn is a vertical city. It is divided up into five distinct plateaus: Central 
 
 ### Locations
 
-#### Menthis Plateau
+* Menthis Plateau. 
 
 The trendiest of Sharn's plateaus, Menthis is an entertainment hub and popular tourist destination. It is also home to Sharn's Morgrave University on the upper level.
 
