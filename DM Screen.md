@@ -35,7 +35,7 @@ kanban-plugin: basic
 - [ ] [[Flamewind]]
 - [ ] --
 - [ ] [[Aither Calobra Lightwood]]<br>12, 18, 12, 11, 15, 11, AC 16, 45 ft.<br>P. Per. 14, P. Inv. 10, P. Ins. 14
-- [ ] [[Thana Winslow]]<br><br>P. Per. ??, P. Inv. ??, P. Ins. ??
+- [ ] [[Thana Winslow]]<br>11, 12, 14, 13, 19, 8, AC 17, 35 ft.<br>P. Per. 16, P. Inv. 11, P. Ins. 14
 - [ ] [[Staff]]<br>11, 14, 12, 19, 14, 12, AC 12, 30 ft.<br>P. Per. 12, P. Inv. 16, P. Ins. 14
 - [ ] [[Shahiri]]<br>16, 15, 15, 14, 15, 11, AC 14, 30 ft.<br>P. Per. 12, P. Inv. 12, P. Ins. 12
 - [ ] [[Verity]]<br>10, 16, 12, 12, 10, 15, AC 14, 30 ft.<br>P. Per. 12, P. Inv. 11, P. Ins. 12
@@ -71,7 +71,7 @@ kanban-plugin: basic
 - [ ] [[Commoner]]
 - [ ] [[Cult Fanatic]]
 - [ ] [[Cultist]]
-- [ ] [[docs/_srd/npcs/Druid|Druid]]
+- [ ] [[_srd/npcs/Druid|Druid]]
 - [ ] [[Gladiator]]
 - [ ] [[Guard]]
 - [ ] [[Knight]]
