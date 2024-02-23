@@ -16,9 +16,9 @@ modifier: 2
 
 ### Backstory
 
-Used to be a guard or soldier and no longer is (because some people died who she was supposed to protect). Has been doing mercenary work more recently.
+Used to be a guard or soldier and no longer is (because some people died who she was supposed to protect, including her mother). Has been doing mercenary work more recently.
 
-Path of the Beast is from partial lycanthropy that she got from her brother(?)
+Path of the Beast is from partial lycanthropy that she got from her brother(?). She was hunting it when she accidentally killed her mother.
 
 ### Motivation and Goal(s)
 
