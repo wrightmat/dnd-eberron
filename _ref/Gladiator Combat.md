@@ -34,7 +34,7 @@ After all opportunity attacks made this way resolve, you must make a Concentrati
 
 * Temporary hit points equal to the number of points spent. These temporary hit points are lost at the start of the gladiator’s next turn.
 * Increased movement speed in feet equal to the number of points spent (points can only be spent in multiples of 5 this way).
-* Additional damage on your next attack this turn., If the attack hits, roll an additional damage die of a size equal to the number of points spent (exactly 4, 6, 8, 10, or 12 points must be spent this way).
+* Additional damage on your next attack this turn. If the attack hits, roll an additional damage die of a size equal to the number of points spent (exactly 4, 6, 8, 10, or 12 points must be spent this way).
 
 2) At the end of combat, the victors are showered with coinage from an entertained crowd in proportion with their enjoyment and economic ability.
 
