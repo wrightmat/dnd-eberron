@@ -13,6 +13,10 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 	* The original landing site of Lhazaar when she arrived in Khorvaire, and now a site of interest for the blue dragons and their leader Kalryni.
 	* Somehow include Horget Black, the former High Prince (and therefore rival of Ryger). Possibly he's settled on the island, or has a ghost ship that is tethered to the region because of his failures.
 
+* The Plane of Syrania
+	* Something to do with Verity's father?
+	* Probably use the planar gate above Arcanix to get there, that way we can bring back elderly Windsor and Astra as well!
+
 * The Mournland
 	* Bring in Haze-of-Death (Kazdurakashtan), who was in Cyre on the Day of Mourning and was morphed into a monstrous version of himself.
 	* https://eberron.fandom.com/wiki/Haze-of-Death
