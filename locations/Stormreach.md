@@ -35,10 +35,17 @@ The Stormreach Compact was an agreement made between the Kingdom of Galifar and 
 
 ### Characters
 
-* **Jonas Wylkes**. Harbormaster.
+* **Jonas Wylkes** (CN male half-elf sorcerer). Harbor Lord, and a young noble more interested in enjoying his wealth than maintaining a tight leash on the affairs of the harbor wards.
+* **Varen Lassite** (LN male human rogue). Coin Lord, and a brilliant administrator wanted for murder in Sharn.
+* **Yorrick Amanatu** (LE male dwarf sorcerer). Coin Lord, and rakshasha agent of the Lords of Dust.
+* **Kirris Sel Shadra** (LE female gnome). Coin Lord, who has sympathies with the Blood of Vol.
+* **Paulo Omaren** (NG female human artificer). Coin Lord, and outcast member of House Cannith seeking redeption in the eyes of the house.
 * **Cartha** (NE male human wererat rogue). Leaders of the Bilge Rats.
-* **Hes** (NE male changeling wererat). Priest of the Traveler and Bilge Rat member.
+* **Hes** (NE male changeling wererat rogue). Priest of the Traveler and Bilge Rat member.
 * **Little Del** (NE female halfling wererat wizard). Uses her illusionist spells to hide the Bilge Rat's gang activities.
+* **Ereg** (NE male human ranger). A retired hunter, Ereg has tracked many of the strange creatures of Xen'drik — the wilder the better. On one of his forays into the jungle, the hunter uncovered a book describing the foundations of the necromantic tradition that has since evolved into the Blood of Vol. Ereg is fascinated by the book and spends his days studying its tattered pages.
+* **Gaulronak** (N male hill giant druid). The oldest inhabitant of the Tents of Rushemeé, Gaulronak is a wizened, elderly giant who scours the nearby jungle for rare herbs and fruit. He sells his gleanings to herbalists and cooks from a tent near the city gates, and he also serves as the primary liaison between the Storm Lords and the giants of Rushemé. Gaulronak has come to understand the people of Stormreach, and the giants respect his age and wisdom.
+* **Hassalac Chaar** (N male kobold sorcerer). This self-styled "Prince of Dragons” might well be the most powerful spellcaster in Stormreach, but his reclusive nature makes it impossible to know for certain. Hassalae Chaar is a kobold who lives in a hidden complex deep beneath the city. The precise location of his lair is a mystery, since the only known entrance is an extradimensional portal that the kobold controls. Hassalac is fascinated with dragons and has amassed a vast assortment of maps, magic items, and even artifacts dating back beyond the dragon-giant conflict to the dragons’ war against the fiends. Hassalac’s vaults might contain wealth beyond measure, but they are also filled with deadly traps and lizardfolk guards. Hassalac jealously guards his hoard and rarely leaves his lair, but he sometimes employs adventurers to retrieve relics from the interior of Xen'drik.
 
 ### Locations
 
@@ -71,7 +78,7 @@ The large central district of the port of Stormreach in Xen'drik. The district c
 	* **The Thrifty Traveler**. expedition gear
 	* **House Tharashk Enclave**. inquisitives
 	* **Stormreach Forge**. weapons, armor
-* **Black Iron** (12). Primarily a smithy, Black Iron also deals in a variety of goods designed for Large and Huge creatures. It is a center for trade with the giants living in the outlying tent city of Rushemé, and it provides adventurers with a place to unload treasures of unusual size found in the ruins of Xen'drik. A family of half-giants runs Black Iron. The venerable patriarch Hular (N male half-giant magewright 6/commoner 6) is a master smith, but age is taking its toll on him. His youngest daughter Solarea (CG female half-giant fighter 4/psychic warrior 2) has the spirit of an adventurer. She might seek to join parties investigating the ruins of the giants or strike out on her own in a quest to steal a husband from the half-giants of Dar Qat.
+* **Black Iron** (12). Primarily a smithy, Black Iron also deals in a variety of goods designed for Large and Huge creatures. It is a center for trade with the giants living in the outlying tent city of Rushemé, and it provides adventurers with a place to unload treasures of unusual size found in the ruins of Xen'drik. A family of half-giants runs Black Iron. The venerable patriarch Hular (N male half-giant magewright) is a master smith, but age is taking its toll on him. His youngest daughter Solarea (CG female half-giant fighter) has the spirit of an adventurer. She might seek to join parties investigating the ruins of the giants or strike out on her own in a quest to steal a husband from the half-giants of Dar Qat.
 * **The Chapterhouse** (13). A joint venture of House Phiarlan and House Ghallanda, this squat structure serves as tavern, hostel, and performance space. It provides inexpensive accommodations and some of the best entertainment the city has to offer. Of course. information can also be bought and sold at the Chapterhouse. The hostel almost always has rooms available at a decent price, the only drawback being that if you're staying at the Chapterhouse, you can be certain someone knows exactly what you're up to.
 * **The Falconer’s Spire** (14). An airship docking tower in the eastern area of the district.
 * **Lorsmarch Palace** (15). 
