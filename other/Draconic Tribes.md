@@ -132,4 +132,12 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 † Some dragon tribes, such as the white dragons (least intelligent and mostly just territorial and ferocious) and the other gem dragons, don't have their own distinct plot progressions.
 
+### Tiamat
+
+Tiamat is essentially a representation of the evil eye, with the sphinxes acting as agents of apotropaic magic.
+
 ### References
+
+* https://forgottenrealms.fandom.com/wiki/Tiamat
+* https://eberron.fandom.com/wiki/Tiamat
+* https://en.wikipedia.org/wiki/Evil_eye
