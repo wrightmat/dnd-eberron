@@ -28,10 +28,11 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 	* Monsters: Vapor Lynx (ToB1), Corpse Mound (ToB1), Death Butterfly Swarm (ToB1), Living Spells
 
 * Talenta Plains / Karrnath / Q'barra (need a desert area, and something in this area, so come up with something)
+	* Gypsosphinx lair - a fallen sphinx. Reigney directs them toward this area to conquer this sphinx (his sibling).
 	* Use Loom Keep/Karrlakton (Karrnath), Gatherhold (Talenta Plains) or Wyrmwatch, Hope (Q'barra) as the nearby town, since I have some amount of material for all three.
 		* Escher (Loom Keep) has been entreating the creature to reveal the time and place of his death, hoping to ensure his immortality. He has been bringing payment in the form of human corpses.
 		* The halflings of Gatherhold have seen the sphinx flying overhead at night. They have also found dead dinosaurs across the desert during their hunts.
-	* Gypsosphinx lair - a fallen sphinx. Reigney directs them toward this area to conquer this sphinx (his sibling).
+		* The people of Wyrmwatch, Hope have benefitted from the nearby sphinx lair, as time doesn't pass normally there. The same people have been running the community for over fifty years, but don't seem to be aware of it because they never leave. They believe the sphinx to be a celestial servant or reflection of the Silver Flame, and they worship it when it flies overhead.
 	* Monsters: Sandwyrm (ToB1), Sand Silhouette (ToB1), Accursed Defiler (ToB1), Anubian (ToB1), Cactid (ToB1)
 
 * **The Crystal Library of Azalakardon** (The Tapestry of Argonnessen)
