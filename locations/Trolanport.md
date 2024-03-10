@@ -6,7 +6,7 @@ Region: "[[Zilargo]]"
 Ruler: Dora Thornwaist
 Image: "![https://static.wikia.nocookie.net/eberron/images/a/a9/Zilargo.jpg|250](https://static.wikia.nocookie.net/eberron/images/a/a9/Zilargo.jpg)"
 ---
- #location #capital 
+ #location #capital [[Zilargo]]
 
 > [!infobox]
 > # `=this.file.name`

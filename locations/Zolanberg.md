@@ -5,7 +5,7 @@ Government: Council of Nine
 Ruler: Zunia Harun
 Image: "![https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg|300](https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg)"
 ---
- #location #city 
+ #location #city [[Zilargo]]
 
 > [!infobox]
 > # `=this.file.name`
