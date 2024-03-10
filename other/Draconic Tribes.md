@@ -69,6 +69,7 @@ The tracts below are listed in the general order that the PCs are expected to en
   - [ ]  The leader of the Brass Bards ot Zolanberg is appointed to the Council of Nine that leads the city.
   - [ ]  The leader of the Brass Bards ot Trolanport is appointed to the Council of Nine that leads the city.
   - [ ]  The leader of the Brass Bards ot Korranberg is appointed to the Council of Nine that leads the city.
+  - [ ]  They start employing Alehouse Drakes (ToB1) within Copper Dragon Inns of cities they control to gather information.
   - [ ]  Each of the three Brass Bard leaders is selected for the Triumvirate, causing the brass dragons to effectively control Zilargo.
   - [ ]  The Triumvirate starts sending most of The Trust operatives out of Zilargo to spy for the dragons across Khorvaire.
   - [ ]  The leaders of the brass dragons replaces The Proctor of The Trust, accomplishing their goal.
