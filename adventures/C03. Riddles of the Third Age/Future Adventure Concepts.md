@@ -11,11 +11,12 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 * **The Mystic Glade** (see Dragons of Eberron, pg. 90-91) and **Vvaraak's Cave**
 	* Former home of the black dragon Vvaraak, and now the central base of the Order of the Onyx Scale (Dragon Orcs) and the black dragon Moar’donn as their leader.
 	* Known as the Scaled Apostate, Vvaraak was the dragon who taught the orcs the traditions of the Gatekeepers some sixteen thousand years ago. Vvaraak died long ago, but her lair reportedly contains many mystical secrets relating to the Draconic Prophecy. The location of the cave was lost during the war against the daelkyr, and it is one of the mysteries of the Marches. Should it ever be found, the Gatekeepers would be greatly offended if outsiders despoiled this most holy site.
+	* Monsters: Mavka (ToB1), Miremal (ToB1), Moss Lurker (ToB1)
 
 * **Speartip Island**
 	* The original landing site of Lhazaar when she arrived in Khorvaire, and now a site of interest for the blue dragons and their leader Kalryni.
 	* Somehow include Horget Black, the former High Prince (and therefore rival of Ryger). Possibly he's settled on the island, or has a ghost ship that is tethered to the region because of his failures.
-	* Monsters: Ravenala (ToB1)
+	* Monsters: Ravenala (ToB1), Morphoi (ToB1)
 
 * **The Plane of Syrania**
 	* Something to do with Verity's father?
@@ -29,7 +30,7 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 * Talenta Plains / Karrnath / Q'barra (need a desert area, and something in this area, so come up with something)
 	* Use Loom Keep/Karrlakton (Karrnath), Gatherhold (Talenta Plains) or Hope (Q'barra) as the nearby town, since I have some amount of material for all three.
 	* Gypsosphinx lair as a fallen sphinx? Could be fun if Reigney directed them toward this area to conquer this sphinx.
-	* Monsters: Sandwyrm, Sand Silhouette, Accursed Defiler, Anubian, Cactid
+	* Monsters: Sandwyrm (ToB1), Sand Silhouette (ToB1), Accursed Defiler (ToB1), Anubian (ToB1), Cactid (ToB1)
 
 * **The Crystal Library of Azalakardon** (The Tapestry of Argonnessen)
 	* The Tapestry was conceived by a group of younger dragons 4000 years ago, who wanted to bring dragons of different colors together to exchange new ideas about religion, the Draconic Prophecy, and philosophy. These dragons were ignored by older dragons, until they successfully predicted the emergence of dragonmarks among humanoids. The Conclave then provided the Tapestry of Thought as a territory for these younger dragons to experiment and continue their work. Eventually the Conclave allowed these dragons to act outside of Argonnessen, resulting in the formation of the Chamber.
@@ -44,6 +45,7 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 
 * Use a Hoard Golem (ToB1) somewhere in an abandoned dragon lair with an unprotected hoard.
 * If the players return to Shae Mordai, use the Haugbui (ToB1).
+* Slow Storm (ToB1) is a fun chaose-themed monster that should be used somewhere.
 
 ### References
 
