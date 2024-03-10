@@ -45,3 +45,7 @@ actions:
 These shadow beings tend to take on a form that's most resonant to its target, to ensure that it can frighten it to the most extreme level.
 
 ### References
+
+* https://www.reddit.com/r/UnearthedArcana/comments/mhqd40/greater_shadow_what_you_get_when_you_mix_a_shadow/
+* https://www.dndbeyond.com/monsters/17010-shadow
+* Herald of Darkness, Tome of Beasts 1, page 249.

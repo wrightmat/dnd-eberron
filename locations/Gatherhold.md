@@ -1,69 +1,68 @@
 ---
 renown: 1
+Type: Town
+Government: Tribal Council
+Image: "![https://static.wikia.nocookie.net/eberron/images/d/d8/Gatherhold.jpg|250](https://static.wikia.nocookie.net/eberron/images/d/d8/Gatherhold.jpg)"
+Region: Talenta Plains
 ---
  #location #town [[Talenta Plains]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.Image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.Type` |
+> | **Region** | `=this.Region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.Government` |
+> | **Ruler** | `=this.Ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.Comments`
+
 Gatherhold is a large town, and the largest settlement, in the Talenta Plains. Built into rocky outcroppings on the eastern shore of Lake Cyre, it is shared by all the tribes of halflings as a place to trade, hold celebrations and festivals, and have tribal councils. House Ghallanda has its headquarters there and maintains the town. House Orien maintains a lightning rail line that passes through the town and used to continue on into Metrol, before the Day of Mourning.
+
+### Characters
+
+* **Baron Yoren d’Ghallanda** (CG male halfling bard). Patriarch of House Ghallanda. He runs the House's operations from Gatherhold in the Talenta Plains, with his reach stretching across Khorvaire.
+* **Tilly d’Ghallanda** (female halfling). A halfling lady that bears the Mark of Hospitality and runs the Wind on the Plains.
+* **Zilbo Chelston** (male halfling commoner). A halfling commoner that frequents the pub. He has curly brown hair and wears a well-worn suit. He’s an immigrant from Sharn.
+- **Rieme d’Sivis** (male gnome scout). A gnome scout that is taking a vacation in Gatherhold, and spends most of his time in the Wind on the Plains.
+* **Captain Mara d’Ghallanda**. The current captain of the Dragontails.
+* **Chervina d’Ghallanda**. Leader of the Dawn Builders, also known as Chervina the Architect.
+* **Sari**. Runs the scamper shelter.
 
 ### Locations
 
-#### Gold Dragon Inn
-
-This Gold Dragon Inn is way more opulent than any other across Khorvaire, as it’s the gem of House Ghallanda. Yoren d’Ghallanda has the Ghallanda headquarters and his personal office here, as well as his mansion being right next door to the inn.
-
-#### Marketplace: Grand Skysight
-
-The Grand Skysight market is a shopping district in the south of Gatherhold. Many local traders from all across the Talenta Plains come here to sell wares to travelers, barter for goods with other traders, and learn about recent events from distant corners of the plains. If you want to give your players information that they missed earlier in this encounter series or foreshadow upcoming conflicts in future arcs of your campaign, this market is a perfect place to do so.
-
-There are untold dozens of market stalls selling various goods here. A few of them are selling:
-- Silver jewelry
-- Occult instruments and scrolls
-- Herbal remedies
-- Small, concealable weapons
-- Fresh produce
-- Hot, honey-glazed buckwheat cakes
-- Pottery and small furniture
-
-Characters relaxing in the market can browse through stalls at their leisure. The price of the items sold at this market never exceed 1 gp.
-
-#### Pub: The Wind on the Plains
-
-The Wind on the Plains is a fine public house run by Tilly d’Ghallanda, a halfling lady that bears the Mark of Hospitality. House Ghallanda owns or oversees nearly every inn, pub, or tavern of note in Khorvaire, and is based out of Gatherhold. The Wind on the Plains isn’t House Ghallanda’s headquarters, but it’s nevertheless a well-funded arm of House Ghallanda’s network of informants and gossipmongers. There are plenty of locals relaxing in this pub, including:
-
-- Zilbo Chelston, a halfling commoner that frequents the pub. He has curly brown hair and wears a well-worn suit. He’s an immigrant from Sharn.
-- Rieme d’Sivis, a gnome scout that is taking a vacation in Gatherhold.
-
-If the characters come here to kick back, Tilly makes them feel perfectly at home in her pub. The food is heavily spiced local fare made mostly from red meat, ancient grains, and tubers. The ale is cold and heady, and the pub’s seat cushions are soft and thick. While relaxing, some of the pub’s patrons come by and chat with the characters.
-
-Characters who spend time talking with Tilly can find information about the area (roll on the table above), but they need to be prepared to trade a favor to House Ghallanda in return. Tilly asks for the favor up front, and lets the characters make her an offer. She accepts any reasonable offer the characters make her.
-
-#### Dragontail Guild Hall
-
-House Ghallanda once supplied armies equally to all sides fighting in the Last War. Now that the war has ended, the Dragontails essentially serve as just the police force of Gatherhold, protecting the citizens from any dangers from the Mournland or the Talenta Plains.
-
-The Dragontails are currently led by Captain Mara d’Ghallanda.
-
-#### Dawn-Builders Lodge
-
-The Dawn-Builders are a guild run by House Ghallanda and led by Chervina the Architect. The Dawn-Builders consist of several hundred masons and artisans along with a group of guards. The Dawn-Builders' objective is to build new enclaves in specific locations designated by their leader Chervina whilst the guards only objective is to clear these locations of threats. The guild members are only informed as to where they'll be building next at the last minute as Chervina refuses to announce future project locations in advance. These building sites are seemingly decided at random, however, but Chervina claims she is following the Draconic Prophecy. The Dawn-Builders are directed to build in all types of locations ranging from central nations to remote wilds of The Demon Wastes and even Xen'drik. Chervina sometimes sets deadlines on the projects, though the consequences for failing to meet these deadlines are unknown to the Dawn-Builders.
-
-#### Temple of the Hunt
-
-The Halflings typically worship Balinor among the Sovereign Host and are strong followers of spirit worship. Talenta religion is based around reverence for spirits, both departed ancestors and the spirits of the natural world. They see no dichotomy in following both the Host and spirits. Each nomadic tribe has a lath—a chieftain who guides and protects the tribe—but it is the shamans who consult the spirits and choose the paths of migration.
-
-In the traditional Halfling religion, both living beings, dead beings and inanimate objects such as trees had spirits that could guild them. A priest or shaman acted as an intermediary between the spiritual and material worlds. He would consult with the dead, living and dead, while in a trance induced by beating on a magic drum and performing a special kind of chanting.
-
-Talenta tradition maintains that Balinor was a great halfling hunter, so it’s essentially woven together with ancestor worship and general veneration of nature spirits. The temple is maintained by a Halfling priest named Antal.
-
-#### Sari’s Scamper Shelter
-
-Sari runs the Scamper Shelter in the town of Gaterhold. She has a caring personality, and treats each of the small dinosaur creatures as her own children, until she’s able to find a loving home for them.
-
-Scampers or scamps are a tiny form of fastieth, and can use the weasel stat block. they have nimble foreclaws and are often used as assistant animals, fetching small things or performing simple tasks.
+* **Gold Dragon Inn**. This Gold Dragon Inn is way more opulent than any other across Khorvaire, as it’s the gem of House Ghallanda. Yoren d’Ghallanda has the Ghallanda headquarters and his personal office here, as well as his mansion being right next door to the inn.
+* **Grand Skysight** (Marketplace). The Grand Skysight market is a shopping district in the south of Gatherhold. Many local traders from all across the Talenta Plains come here to sell wares to travelers, barter for goods with other traders, and learn about recent events from distant corners of the plains. If you want to give your players information that they missed earlier in this encounter series or foreshadow upcoming conflicts in future arcs of your campaign, this market is a perfect place to do so.
+	* There are untold dozens of market stalls selling various goods here. A few of them are selling:
+		- Silver jewelry
+		- Occult instruments and scrolls
+		- Herbal remedies
+		- Small, concealable weapons
+		- Fresh produce
+		- Hot, honey-glazed buckwheat cakes
+		- Pottery and small furniture
+	- Characters relaxing in the market can browse through stalls at their leisure. The price of the items sold at this market never exceed 1 gp.
+- **The Wind on the Plains** (Pub). The Wind on the Plains is a fine public house run by Tilly d’Ghallanda, a halfling lady that bears the Mark of Hospitality. House Ghallanda owns or oversees nearly every inn, pub, or tavern of note in Khorvaire, and is based out of Gatherhold. The Wind on the Plains isn’t House Ghallanda’s headquarters, but it’s nevertheless a well-funded arm of House Ghallanda’s network of informants and gossipmongers. There are plenty of locals relaxing in this pub, including the characters listed above.
+	- If the characters come here to kick back, Tilly makes them feel perfectly at home in her pub. The food is heavily spiced local fare made mostly from red meat, ancient grains, and tubers. The ale is cold and heady, and the pub’s seat cushions are soft and thick. While relaxing, some of the pub’s patrons come by and chat with the characters.
+	- Characters who spend time talking with Tilly can find information about the area (roll on the table above), but they need to be prepared to trade a favor to House Ghallanda in return. Tilly asks for the favor up front, and lets the characters make her an offer. She accepts any reasonable offer the characters make her.
+* **Dragontail Guild Hall**. House Ghallanda once supplied armies equally to all sides fighting in the Last War. Now that the war has ended, the Dragontails essentially serve as just the police force of Gatherhold, protecting the citizens from any dangers from the Mournland or the Talenta Plains. The Dragontails are currently led by Captain Mara d’Ghallanda.
+* **Dawn-Builders Lodge**. The Dawn-Builders are a guild run by House Ghallanda and led by Chervina the Architect. The Dawn-Builders consist of several hundred masons and artisans along with a group of guards. The Dawn-Builders' objective is to build new enclaves in specific locations designated by their leader Chervina whilst the guards only objective is to clear these locations of threats. The guild members are only informed as to where they'll be building next at the last minute as Chervina refuses to announce future project locations in advance. These building sites are seemingly decided at random, however, but Chervina claims she is following the Draconic Prophecy. The Dawn-Builders are directed to build in all types of locations ranging from central nations to remote wilds of The Demon Wastes and even Xen'drik. Chervina sometimes sets deadlines on the projects, though the consequences for failing to meet these deadlines are unknown to the Dawn-Builders.
+* **Temple of the Hunt**. The Halflings typically worship Balinor among the Sovereign Host and are strong followers of spirit worship. Talenta religion is based around reverence for spirits, both departed ancestors and the spirits of the natural world. They see no dichotomy in following both the Host and spirits. Each nomadic tribe has a lath — a chieftain who guides and protects the tribe — but it is the shamans who consult the spirits and choose the paths of migration. In the traditional Halfling religion, both living beings, dead beings and inanimate objects such as trees had spirits that could guild them. A priest or shaman acted as an intermediary between the spiritual and material worlds. He would consult with the dead, living and dead, while in a trance induced by beating on a magic drum and performing a special kind of chanting. Talenta tradition maintains that Balinor was a great halfling hunter, so it’s essentially woven together with ancestor worship and general veneration of nature spirits. The temple is maintained by a Halfling priest named Antal.
+* **Sari’s Scamper Shelter**. Sari runs the Scamper Shelter in the town of Gatherhold. She has a caring personality, and treats each of the small dinosaur creatures as her own children, until she’s able to find a loving home for them. Scampers or scamps are a tiny form of fastieth, and can use the weasel stat block. they have nimble foreclaws and are often used as assistant animals, fetching small things or performing simple tasks.
 
 ### Events
 
-**Autumn Equinox (Rhaan) / Winter Solstice / Spring Equinox / Summer Solstice**
+#### Equinoxes and Solstices
 
 [https://open.spotify.com/track/0l4seNH8AyE2kvjxFfpWi1?si=64199088c94f4a6b](https://open.spotify.com/track/0l4seNH8AyE2kvjxFfpWi1?si=64199088c94f4a6b)
 
@@ -74,7 +73,6 @@ The main traditional foods of the halflings include dinosaur meat and eggs, goat
 If the players overindulge, describe them waking up the next day with a beautiful bead necklace and vague memories of dancing with a halfling girl/boy. They have now married, and she/he is outside making breakfast. This could be played as a Con save for each drink taken, with a ascending DC starting at 10 (and increasing by 2 for each drink), and a failure resulting in the blackout.
 
 Suggested Stories and NPCs:
-
 - **Studa the Silent** is a mercenary with extensive experience during the last war. Riding on her glidewing, Spotted Neck, she provided scouting reports and conducted precision strikes. Her favored weapon is an enchanted boomerang that cuts silently through the air, cutting its target before returning unerringly.
 - **Corrash the Rageblade** has a burning desire to prove himself worthy. His father fled from a battle against invading Karrnathi forces, thrusting Corrash into a life of shame. His clawfoot, Razoreye, has remained a constant companion on his path to redemption. He was just a child when his father fled the battle that was happening at what is now Fort Deepdark, but his family name is now tarnished and he travels with whatever tribes will have him in order to garner favor that may eventually allow him to join one.
 - **Thak of the Black Sands** is a druid who was part of the early rescue teams heading into the Mournland. His team was trapped by faceless horrors for several days, and his ordinary healing magic was failing. In desperation he tried a simple spell he learned as an apprentice maskweaver - Goodberry - and to his surprise, it worked. Rejuvenated and no longer starving, his party successfully escaped the ruins.
@@ -95,3 +93,4 @@ Suggested Stories and NPCs:
 ### References
 
 * https://www.reddit.com/r/Eberron/comments/efajy3/fluff_talenta_halfling_culture/
+* https://www.dndbeyond.com/posts/655-encounter-of-the-week-gathering-at-gatherhold
