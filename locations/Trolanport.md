@@ -1,7 +1,32 @@
 ---
 renown: 4
+Type: Capital
+Government: Council of Nine
+Region: "[[Zilargo]]"
+Ruler: Dora Thornwaist
+Image: "![https://static.wikia.nocookie.net/eberron/images/a/a9/Zilargo.jpg|250](https://static.wikia.nocookie.net/eberron/images/a/a9/Zilargo.jpg)"
 ---
- #location #capital [[Zilargo]]
+ #location #capital 
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.Image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.Type` |
+> | **Region** | `=this.Region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.Government` |
+> | **Ruler** | `=this.Ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.Comments`
 
 > You come upon a city of canals, flooded thoroughfares, bridges, and docks. It's clear from the sheer number of partially completed ships lining the docks all along the coast that ship building is a major industry here. There are also a number of gnome businesses, including alchemical shops, dragonshard shops, and other industry centered around elemental binding. Houses Kundarak, Sivis, and Cannith all maintain enclaves here.
 

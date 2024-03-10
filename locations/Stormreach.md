@@ -16,45 +16,36 @@ The Harbor is the southwestern district of the city of Stormreach in Xen'drik, c
 
 The ancient ruins upon which the city of Stormreach are built extend well beneath the water line of the harbor, forming an area known as the Underharbor. These dank, dark, damp, and often water-filled ruins are home to numerous sahuagin, pirates, thieves, murderers, and other creatures of the depths. The Stormreach Guard and the dragonmarked houses like to keep a close watch on the entrances to the Underharbor.
 
-##### Harbormaster's House
-Where Jonas Wylkes resides.
-
-##### Wavecrest Tavern
-A seedy half-underwater bar that tailors to sahuagin and other less-than-reputables.
-
-##### The Leaky Dinghy
-A totally reputable boat rental place that definitely has boats that float.
+* **Harbormaster's House**. Where Jonas Wylkes resides.
+* **Wavecrest Tavern**. A seedy half-underwater bar that tailors to sahuagin and other less-than-reputables.
+* **The Leaky Dinghy**. A totally reputable boat rental place that definitely has boats that float.
 
 #### Marketplace District
 The large central district of the port of Stormreach in Xen'drik. The district contains a large market and many shops, as befits its name. The Marketplace district is governed by the Lassites, a Storm Lord family. It lies adjacent to the Cross district and Dannel's Pride.
 
-##### The Falconer’s Spire
-An airship docking tower in the eastern area of the district.
-
-The Pestle: alchemical supplies
-Black Iron: antiquities, weapons, armor
-Von Ruthvek's Splendors of the South: antiquities, magic items
-Citadel of the Twelve: arcane spellcasting, magic items
-Far Davandi: clothing
-House Jorasco Enclave: divine spellcasting, healing
-Tooth and Nail: exotic beasts
-Big Bronau's Boat: entertainment
-The Chapterhouse: entertainment, food, shelter
-The Red Ring: entertainment
-Shadows: entertainment
-Forgotten Places: expedition gear
-Havulak Prospecting: expedition gear
-The Thrifty Traveler: expedition gear
-The Black Wrack: food, shelter
-The Ship's Cat: food, shelter
-House Tharashk Enclave: inquisitives
-Stormreach Forge: weapons, armor
+* **Molou's Distillery**. A smelly distillery with cracked cisterns and patchwork metal tanks. Molou's makes kuryeva, a potent gin made from the berries of Xen'drik's kuryeva bush. Kuryeva is popular both in the coastal cities of southern Khorvaire and with sailors at sea. Molou's has a taproom where drinkers can have their kuryeva straight from the tanks.
+* **The Falconer’s Spire**. An airship docking tower in the eastern area of the district.
+* **The Pestle**. alchemical supplies
+* **Black Iron**. antiquities, weapons, armor
+* **Von Ruthvek's Splendors of the South**. antiquities, magic items
+* **Citadel of the Twelve**. arcane spellcasting, magic items
+* **Far Davandi**. clothing
+* **House Jorasco Enclave**. divine spellcasting, healing
+* **Tooth and Nail**. exotic beasts
+* **Big Bronau's Boat**. entertainment
+* **The Chapterhouse**. entertainment, food, shelter
+* **The Red Ring**. entertainment
+* **Shadows**. entertainment
+* **Forgotten Places**. expedition gear
+* **Havulak Prospecting**. expedition gear
+* **The Thrifty Traveler**. expedition gear
+* **The Black Wrack**. food, shelter
+* **The Ship's Cat**. food, shelter
+* **House Tharashk Enclave**. inquisitives
+* **Stormreach Forge**. weapons, armor
 
 ##### Circle of Visions
 Shattered statues and monoliths are spread throughout Stormreach, their symbolic meaning lost on contemporary viewers. Among the strangest of the giant ruins are the twelve rings of standing stones scattered about the fringes of Stormreach. Their function and operations is unknown, although each radiates an aura of faint illusion magic. About once a month, a programmed image appears at night in the center of one of the circles. Sometimes the image is a simple one. Other times, the images are more disturbing - a menacing quori or a sinister ziggurat deep within the jungle. So far, no one has been able to determine the pattern or purpose of the mysterious images.
-
-##### Molou's Distillery
-A smelly distillery with cracked cisterns and patchwork metal tanks. Molou's makes kuryeva, a potent gin made from the berries of Xen'drik's kuryeva bush. Kuryeva is popular both in the coastal cities of southern Khorvaire and with sailors at sea. Molou's has a taproom where drinkers can have their kuryeva straight from the tanks.
 
 #### Cross District
 South of the Marketplace District and north of the Harbor District, this area contains Dannel’s Pride, Stormhaven, and The Sloths.

@@ -1,7 +1,7 @@
 
 The idea is to have a second set of adventures after the first prepared Sphinx adventures which are more specifically tailored toward the PCs and their needs and desires, as they prepare to take on the dragons. There should be some turning point before the second chapter - probably the attack on Sharn by the white dragons (where Valmoc should be wounded or even killed). By the end of chapter one, the PCs should have full knowledge of the dragon tribes, the attack on Shae Mordai by the obsidian dragons, and their leader's desire to revive the Overlord Tiamat. With the full breadth of their challenge revealed, they should be encouraged to seek out additional powerful weapons that will be needed to face the obsidian dragons.
 
-### Ideas
+### Adventure Concepts
 
 * **Moonsword Jungle**
 	* A temple in the depths of the Moonsword Jungle of Aerenal is rumored to house a lost [[Moonblade]] from one of the ancient elven houses. But this powerful weapon is protected by incredibly strong monsters.
@@ -27,15 +27,7 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 	* https://eberron.fandom.com/wiki/Haze-of-Death
 	* Monsters: Vapor Lynx (ToB1), Corpse Mound (ToB1), Death Butterfly Swarm (ToB1), Living Spells
 
-* Talenta Plains / Karrnath / Q'barra (need a desert area, and something in this area, so come up with something)
-	* Gypsosphinx lair - a fallen sphinx. Reigney directs them toward this area to conquer this sphinx (his sibling).
-	* Use Loom Keep/Karrlakton (Karrnath), Gatherhold (Talenta Plains) or Wyrmwatch, Hope (Q'barra) as the nearby town, since I have some amount of material for all three.
-		* Escher (Loom Keep) has been entreating the creature to reveal the time and place of his death, hoping to ensure his immortality. He has been bringing payment in the form of human corpses.
-		* The halflings of Gatherhold have seen the sphinx flying overhead at night. They have also found dead dinosaurs across the desert during their hunts.
-		* The people of Wyrmwatch, Hope have benefitted from the nearby sphinx lair, as time doesn't pass normally there. The same people have been running the community for over fifty years, but don't seem to be aware of it because they never leave. They believe the sphinx to be a celestial servant or reflection of the Silver Flame, and they worship it when it flies overhead.
-	* Monsters: Sandwyrm (ToB1), Sand Silhouette (ToB1), Accursed Defiler (ToB1), Anubian (ToB1), Cactid (ToB1)
-
-* **The Crystal Library of Azalakardon** (The Tapestry of Argonnessen)
+* **The Crystal Library of Azalakardon** (Adara, The Tapestry of Argonnessen)
 	* The Tapestry was conceived by a group of younger dragons 4000 years ago, who wanted to bring dragons of different colors together to exchange new ideas about religion, the Draconic Prophecy, and philosophy. These dragons were ignored by older dragons, until they successfully predicted the emergence of dragonmarks among humanoids. The Conclave then provided the Tapestry of Thought as a territory for these younger dragons to experiment and continue their work. Eventually the Conclave allowed these dragons to act outside of Argonnessen, resulting in the formation of the Chamber.
 	* Could be interesting if an extension of Crystal Library is actually found somewhere else, and the players can navigate it and emerge at the main Crystal Library in Argonnessen as a way to sneak onto the continent. Kind of like the Sanctuary intro of Zedal: A Link to the Past. Probably in Adar, amongst the blue dragons there (Aither's monastery head could send a letter as a hook).'
 	* Monsters: Ink Devils (ToB1), Wind Dragon, Young? (ToB1), Library Automaton (ToB1), Paper Drake (ToB1)
@@ -47,7 +39,7 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 ### DM Notes
 
 * Use a Hoard Golem (ToB1) somewhere in an abandoned dragon lair with an unprotected hoard.
-* If the players return to Shae Mordai, use the Haugbui (ToB1).
+* If the players return to Shae Mordai, use the Haugbui (ToB1) as a boss monster.
 * Slow Storm (ToB1) is a fun chaose-themed monster that should be used somewhere.
 
 ### References
