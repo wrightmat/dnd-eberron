@@ -6,22 +6,22 @@ statblock: inline
 ```statblock
 name: Lightning Elemental
 size: Large
-type: Construct
+type: Elemental
 alignment: Neutral
-ac: 13
+ac: 15
 hp: 102
 hit_dice: 12d10 + 36
 speed: 0 ft., fly 90 ft. (hover)
 stats: [10, 20, 16, 6, 10, 7]
-damage_resistances: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
-damage_immunities: Lightning, Poison
+damage_resistances: thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+damage_immunities: lightning, poison
 condition_immunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 senses: darkvision 60 ft., passive perception 10
-languages: --
+languages: Primordial
 cr: 5
 traits:
   - name: Lightning Form
-    desc: " The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) lightning damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) lightning damage and must make a DC 13 Constitution saving throw or be stunned until the end of its next turn or it takes damage."
+    desc: "The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) lightning damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) lightning damage and must make a DC 13 Constitution saving throw or be stunned until the end of its next turn or it takes damage."
   - name: Illumination
     desc: "The elemental sheds bright light in a 10-foot radius and dim light for an additional 10 feet."
 actions:
