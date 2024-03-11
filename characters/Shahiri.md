@@ -23,3 +23,8 @@ Path of the Beast is from partial lycanthropy that she got from her brother(?). 
 ### Motivation and Goal(s)
 
 Atonement for the things she's done in the past. Possibly re-acceptance into the clan, or maybe somewhere else instead?
+
+### Personal Quests
+
+ - [ ]  -
+

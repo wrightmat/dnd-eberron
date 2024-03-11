@@ -25,3 +25,8 @@ They found a call to adventure at Morgrave University on one of the many temple 
 ### Motivation and Goal(s)
 
 Moral redemption for their past and present. Also acceptance from others (and to an extent from themself) in that she can be herself and still be accepted.
+
+### Personal Quests
+
+ - [ ]  -
+

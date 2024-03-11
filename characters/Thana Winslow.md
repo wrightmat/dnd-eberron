@@ -26,3 +26,8 @@ Thana has no family in Sarlona, but has at least some family alive in Aerenal (i
 ### Motivation and Goal(s)
 
 Alex: "I think my ultimate goal is for her to learn to accept the way she is now. Because she really believes everyone in her faith would now hate her for what she is. And they might. But ultimately for her to accept that she is still good even in her current state, despite it all, is kinda my end goal for her."
+
+### Personal Quests
+
+ - [ ]  -
+
