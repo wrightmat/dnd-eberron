@@ -5,21 +5,21 @@ Each of the chromatic, metallic, and gem dragon tribes have their own means and 
 Below are details on each of the tribes. The dragons should be treated as essentially one large BBEG until near the end of the campaign when the obsidian dragons and Arstyvrax are exposed as the true original bad guys. As the players advance through the campaign, the dragons should be pursuing their own goals as well, regardless of what the players decide to do. A new tract below should be started whenever the PCs first learn about or encounter a dragon tribe plot. At that point, each clock will tick along as the dragons continue their work.
 
 ### Summary
-| Color | Damage | Leader/Inspiration | Plane | Followers/Organizations | Characteristics | Enemy | Habitat | Al. |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| White | Cold | Kazdurakashtan (presumed deceased) | Risia (Base in Everice) | Order of the Ivory Scale (Dragon Giants) | Bullying, Persistent | Silver | Arctic Mountains | CE |
-| Black | Acid | Moar’donn | Mabar (Base in Shadow Marches/Droaam) | Order of the Onyx Scale (Dragon Orcs) | Vile-tempered, Cruel | Copper | Swamps | CE |
-| Green | Poison | Ystravnil | Lamannia (Base in Eldeen Reaches) | Order of the Emerald Scale (Dragon Elves) | Cunning, Duplicitous, Territorial | Gold | Forests | LE |
-| Red | Fire | Dularanahk (deceased and ascended as Dol Arrah) | Fernia (Base in Mror Holds) | Order of the Ruby Scale (Dragon Dwarves) | Powerful, Combative | Brass | Mountains, Volcanos | CE |
-| Blue | Lightning | Kalryni | Kythri (Base in Lhazaar) | Order of the Sapphire Scale | Mocking, Manipulative | Bronze | Deserts, Beaches | LE |
-| Brass | Sleep, Fire | Meretsega | Thelanis (Base in Darguun/Zilargo) | The Brass Bards | Talkative | Red | Deserts, Plains | CG |
-| Bronze | Lightning, Charm | Shadewing | Shavarath (Base in Valenar) | The Bronze Navy | Honorable, Arrogant | Blue | Coastlines, Islands | LG |
-| Copper | Acid, Incapacitate | [[Kauverra]] | Xoriat (Base in Aerenal) | Copper Dragon Inns | Joking, Devious, Clever | Black | Mountains, Deserts | CG |
-| Silver | Cold, Paralyze | [[Yllosavax]] | Syrania (Base in Breland) | [[The Silver Scales]], Paladin Protectors of the Realm | Protective, Intelligent | White | High Mountains | LG |
-| Gold | Fire, Weakening | [[Spindelaryx]] | Irian (Base in Thrane) | The Golden Palace | Powerful, Wise | Green | Anywhere | LG |
-| Obsidian† | Necrotic | [[Arstyvrax]] | Dolurrh (Base in Argonnessen, The Vast) | Scions of Sardior | Viscous, Intelligent | n/a |  | CN |
-| Crystal | Radiant | Hrodel | Dal Quor (Base in Sarlona, Syrkarn, Heart of Io) | Scions of Sardior | Fun-loving, Mischievous | n/a |  | LN |
-| Amethyst | Force | [[Aleithilithos]] | Daanvi (Base on the Ring of Siberys) | Scions of Sardior | Detached, Peaceful | n/a |  | NN |
+| Color     | Damage             | Leader/Inspiration                              | Plane                                            | Followers/Organizations                                | Characteristics                   | Enemy  | Habitat             | Al. |
+| --------- | ------------------ | ----------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------ | --------------------------------- | ------ | ------------------- | --- |
+| White     | Cold               | Kazdurakashtan (presumed deceased)              | Risia (Base in Everice)                          | Order of the Ivory Scale (Dragon Giants)               | Bullying, Persistent              | Silver | Arctic Mountains    | CE  |
+| Black     | Acid               | [[Moar’donn]]                                   | Mabar (Base in Shadow Marches/Droaam)            | Order of the Onyx Scale (Dragon Orcs)                  | Vile-tempered, Cruel              | Copper | Swamps              | CE  |
+| Green     | Poison             | Ystravnil                                       | Lamannia (Base in Eldeen Reaches)                | Order of the Emerald Scale (Dragon Elves)              | Cunning, Duplicitous, Territorial | Gold   | Forests             | LE  |
+| Red       | Fire               | Dularanahk (deceased and ascended as Dol Arrah) | Fernia (Base in Mror Holds)                      | Order of the Ruby Scale (Dragon Dwarves)               | Powerful, Combative               | Brass  | Mountains, Volcanos | CE  |
+| Blue      | Lightning          | [[Kalryni]]                                     | Kythri (Base in Lhazaar)                         | Order of the Sapphire Scale                            | Mocking, Manipulative             | Bronze | Deserts, Beaches    | LE  |
+| Brass     | Sleep, Fire        | [[Meretsega]]                                   | Thelanis (Base in Darguun/Zilargo)               | The Brass Bards                                        | Talkative                         | Red    | Deserts, Plains     | CG  |
+| Bronze    | Lightning, Charm   | [[Shadewing]]                                   | Shavarath (Base in Valenar)                      | The Bronze Navy                                        | Honorable, Arrogant               | Blue   | Coastlines, Islands | LG  |
+| Copper    | Acid, Incapacitate | [[Kauverra]]                                    | Xoriat (Base in Aerenal)                         | Copper Dragon Inns                                     | Joking, Devious, Clever           | Black  | Mountains, Deserts  | CG  |
+| Silver    | Cold, Paralyze     | [[Yllosavax]]                                   | Syrania (Base in Breland)                        | [[The Silver Scales]], Paladin Protectors of the Realm | Protective, Intelligent           | White  | High Mountains      | LG  |
+| Gold      | Fire, Weakening    | [[Spindelaryx]]                                 | Irian (Base in Thrane)                           | The Golden Palace                                      | Powerful, Wise                    | Green  | Anywhere            | LG  |
+| Obsidian† | Necrotic           | [[Arstyvrax]]                                   | Dolurrh (Base in Argonnessen, The Vast)          | Scions of Sardior                                      | Viscous, Intelligent              | n/a    |                     | CN  |
+| Crystal   | Radiant            | Hrodel                                          | Dal Quor (Base in Sarlona, Syrkarn, Heart of Io) | Scions of Sardior                                      | Fun-loving, Mischievous           | n/a    |                     | LN  |
+| Amethyst  | Force              | [[Aleithilithos]]                               | Daanvi (Base on the Ring of Siberys)             | Scions of Sardior                                      | Detached, Peaceful                | n/a    |                     | NN  |
 
 † Obsidian Gem Dragons are simply Topaz Gem Dragons (5e version from Fizban's) re-flavored as black instead (and without the Fabricate ability). Arstyvrax could use the Ancient Topaz Dragon or Adult Topaz Dragon (depending on desired CR) with the Vampire's additional Bite stuff, Charm action, and Vampire Weaknesses ability.
 
