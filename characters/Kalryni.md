@@ -1,8 +1,9 @@
-#npc 
+ #npc [[Draconic Tribes]]
 
-Alignment:: Chaotic Evil
 Gender:: Female
-Race:: Blue Dragon
+Race:: Dragon
+Subrace:: Chromatic (Blue)
+Alignment:: Chaotic Evil
 
 "Why waste time and energy murdering weaker creatures when I can make them entertain me instead?"
 

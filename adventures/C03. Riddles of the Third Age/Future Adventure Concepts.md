@@ -6,7 +6,9 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 * **Moonsword Jungle**
 	* A temple in the depths of the Moonsword Jungle of Aerenal is rumored to house a lost [[Moonblade]] from one of the ancient elven houses. But this powerful weapon is protected by incredibly strong monsters.
 	* Probably need to have the party at at least level 10 before going here, so do primarily CR 8 to 13 monsters.
-	* Monsters: Possessed Pillar (ToB1)
+	* Thana's uncle could be there when they arrive, and test the players in combat to ensure they're ready to enter.
+	* I think the moonblade belonged to Thana's parents at one point, was held here for safe keeping, and was never able to be passed down to Thana due to their death. Then her parents could communicate to her through the blade in dream sequences.
+	* Monsters: Possessed Pillar (ToB1), Young Moonstone Dragon (FToD), Living Moonbeam?
 
 * **The Mystic Glade** (see Dragons of Eberron, pg. 90-91) and **Vvaraak's Cave**
 	* Former home of the black dragon Vvaraak, and now the central base of the Order of the Onyx Scale (Dragon Orcs) and the black dragon Moar’donn as their leader.
@@ -39,7 +41,7 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 
 ### DM Notes
 
-* Use a Hoard Golem (ToB1) somewhere in an abandoned dragon lair with an unprotected hoard.
+* Use a Hoard Golem (ToB1, FToD) somewhere in an abandoned dragon lair with an unprotected hoard.
 * If the players return to Shae Mordai, use the Haugbui (ToB1) as a boss monster.
 * Slow Storm (ToB1) is a fun chaose-themed monster that should be used somewhere.
 

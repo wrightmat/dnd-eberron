@@ -1,8 +1,9 @@
-#npc 
+ #npc [[Draconic Tribes]]
 
-Alignment:: NE
 Gender:: Female
-Race:: Bronze Dragon
+Race:: Dragon
+Subrace:: Metallic (Bronze)
+Alignment:: Neutral Evil
 
 "I trust my gut. I'd rather act on incomplete information than be hamstrung by indecision."
 

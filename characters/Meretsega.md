@@ -1,8 +1,9 @@
-#npc 
+ #npc [[Draconic Tribes]]
 
-Alignment:: CE
 Gender:: Female
-Race:: Brass Dragon
+Race:: Dragon
+Subrace:: Metallic (Brass)
+Alignment:: Chaotic Evil
 
 "I don't care about the opinions of creatures that are less intelligent than I am. But I'm fascinated by creatures that are significantly more intelligent."
 

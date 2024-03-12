@@ -1,10 +1,10 @@
  #npc [[Draconic Tribes]]
 
 Gender:: Female
-Occupation:: Hotelier
 Race:: Dragon
 Subrace:: Metallic (Copper)
 Alignment:: Chaotic Neutral
+Occupation:: Hotelier
 
 "I admire how brightly short-lived creatures shine before their lights go out."
 
