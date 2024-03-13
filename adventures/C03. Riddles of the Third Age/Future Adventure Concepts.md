@@ -18,7 +18,8 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 * **Speartip Island**
 	* The original landing site of Lhazaar when she arrived in Khorvaire, and now a site of interest for the blue dragons and their leader Kalryni.
 	* Enraged at the loss of a wyrmling, Kalryni is causing lightning storms to destroy coastal settlements near Speartip Island and refuses to stop until someone delivers the adventurer responsible.
-	* This adventurer is Horget Black, the former High Prince (and therefore rival of Ryger), who actually found the wyrmling already wounded and tried (but failed) to nurse it back to health. Possibly he's settled on the island, or has a ghost ship that is tethered to the region because of his failures.
+	* This adventurer is Horget Black, the former High Prince (and therefore rival of Ryger), who actually found the wyrmling already wounded (after he fell from the sky onto his ship) and tried (but failed) to nurse it back to health, due to his being an incorporeal ghost. He has a ghost ship that is now stuck in the storm and unable to leave.
+	* The players will need to find the ghost ship, and then return to Kalryni with Horget Black to explain what happened.
 	* Monsters: Ravenala (ToB1), Morphoi (ToB1), Shimmer Seal (ToB2)
 
 * **The Plane of Syrania**
