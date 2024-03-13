@@ -18,6 +18,21 @@ Though the climate and the isolated life of this land are never easy, the coasta
 * National Motto: None
 * Planar Elements: Wild zones linked to Fernia, Risia, and especially Lamannia are found throughout this land. Like all of Sarlona, Syrkarn is beset by storms whose force borders on the unnatural, and planar disturbances flare and flood across the steppes like unnatural wellsprings. Still, these rifts are seldom as haunting or destructive as the reality storms of the Tundra. The prominent planar connection in Syrkarn is the Whitewater, the crystal-clear lake believed to mark a manifest zone linked to Lamannia. The rocky land surrounding the area remains wet and cool year-round, even as the sands that give the lake its name burn white beneath the equatorial sun.
 
+### Characters
+
+* **Gerazan Sandaili** (NG male human sorceror). Sahar of Nderitese, and therefore leader of the region. He is known is his psionic abilities.
+* **Immasa** (NG female eneko bard). Chief Ambassador to the other regions of Sarlona. She has blue skin and white hair, and a fairly significant overbite, which betrays her "mongrel" half-giant and ogre ancestry.
+* **Ky** (NN non-binary eneko cleric). A former member of the Wanderers of Twilight, Ky is one of the best sources of information on cult activity — they remain one of the few people to flee their ranks and live to tell about it. Can generally be found in Nderitese or Ardhmen.
+* **Dalassakash'alyntar** (LG male shulassakar cleric). Servant of the Flame that Binds in Nderitese.
+
+### Locations
+
+* **Nderitese**. Capital of the region.
+* **Ardhmen**. Main port and default destination for those arriving to Syrkarn by water.
+* **Per**. Major settlement, per Secrets of Sarlona.
+* **Gjitha**. Major settlement, per Secrets of Sarlona.
+* **Maszani**. Major settlement, per Secrets of Sarlona.
+
 ### Religion and Culture
 
 Derived as it is from Riedran refugees and their descendants, Syrkarn's human population is uniformly contemptuous of the Path of Inspiration. Nearly half of all human Syrks follow no gods at all, instead placing their faith and devotion in the land itself. For Syrk clerics, the spirit of Syrkarn is treated as a neutral force that provides access to the Animal, Healing, Plant, Sun, and Travel domains. Its favored weapon is the sickle.
