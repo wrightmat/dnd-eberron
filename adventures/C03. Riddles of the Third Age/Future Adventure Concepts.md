@@ -27,8 +27,7 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 	* Probably use the planar gate above Arcanix to get there, that way we can bring back elderly Windsor and Astra as well!
 
 * **The Mournland**
-	* Bring in Haze-of-Death (Kazdurakashtan), who was in Cyre on the Day of Mourning and was morphed into a monstrous version of himself.
-	* https://eberron.fandom.com/wiki/Haze-of-Death
+	* Bring in Haze-of-Death ([[Kazdurakashtan]]), who was in Cyre on the Day of Mourning and was morphed into a monstrous version of himself.
 	* Monsters: Vapor Lynx (ToB1), Corpse Mound (ToB1), Death Butterfly Swarm (ToB1), Living Spells
 
 * **The Crystal Library of Azalakardon** (Adara, The Tapestry of Argonnessen)
