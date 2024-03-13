@@ -135,6 +135,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 * Some dragon tribes, such as the white dragons (least intelligent and mostly just territorial and ferocious) and the other gem dragons, don't have their own distinct plot progressions.
 * Tiamat is essentially a representation of the evil eye, with the sphinxes acting as agents of apotropaic magic.
+* For the Infernal Machine, use the Kobold War Machine (CR 9) stat block from Tome of Beasts 2, then have it disappear when defeated (possibly taking a PC with it? maybe roll a save or something?)
 
 ### References
 
