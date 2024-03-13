@@ -22,6 +22,32 @@ About 20% of the region is arable land, mainly in the valleys between the mounta
 * National Motto: "The storm cannot move the mountain."
 * Planar Elements: Adar has many manifest zones to Lamannia and Kythri. In a few of these places, such as Ahdryatmin (Mountainsoul), crossing the planar boundary is possible. Elementals are common in Adar. The land is home to strange creatures from Lamannia and Kythri, including PC races.
 
+### Characters
+
+* **[[Aither Calobra Lightwood]]**
+* **Chanaakar** (LG male human monk). Current Speaker of the Word, and successor to Chanaakar (who he trained under), who resides at Kasshta Keep.
+* **Luunkashtai** (LG female human monk). Hand of the Speaker, and the most elderly member of the order (and younger sister of former Speaker Chanaakar) who resides at Kasshta Keep.
+
+### Locations
+
+#### Monasteries
+Eight monasteries act as fortresses and form a defensive ring around Adar. With the exception of Kasshta Keep, the true locations of these monasteries are kept hidden from outsiders.
+
+* **Dvaarnava**. Located on the southernmost tip of Adar, but hidden from outsiders. While most of Adar's coastline is sheer cliffs, ships can dock at Dvaarnava by traveling past a maze of stone spires into a natural cavern in the cliffs. Most of the population of Dvaarnava live in grottoes farther up the cliffs to be safe from the stormy waters.
+* **Ghoza**. Like the other monasteries in Adar, Ghoza's true location is hidden. However it is known to be located on the eastern part of Adar along the Jathara Sound, just south of a wide point in the sound known as Kasshta's Belly. Ghoza is built high in the cliffs near the sound, however it also controls underground caverns that can reach Kasshta's Belly through underwater grottos.
+* **Haztaratain**. Carved into a mountainside on the eastern side of Adar close to the coast (within 50 miles of Corvagura), its exact location is hidden from outsiders. It is famous for being the birthplace of the kalashtar, and is a major pilgrimage site for followers of the Path of Light. The Haztaratain monks train at the monastery and often re-gather there on the spring equinox.
+* **Kasshta Keep**. Lies on the border of Adar and Syrkarn, carved into a mountain thousands of feet above the waters of the Kasshta River. The only ways to access the Keep are by eastern trails that lead to the Keep's gate, or by magical winches that can lift boats up from the river to an artificial mountain lake. The Keep is often enshrouded by storms and strange mists. The Keep is the original stronghold of the Keepers of the Word. Elders from that organization's Council of the Wise oversee the day to day operations of the Keep. The keep is also the dwelling place of Speaker of the Word, Adar's spiritual leader.
+	* The **Council Chambers** in the highest parts of Kasshta Keep are where the most respected elders live and work. It is also the meeting place of the Council of the Wise.
+* **Malshashar**. Its true location is a closely guarded secret, especially as it is one of the fortresses guarding Adar's border, but it is located in northern Adar deep in the eastern parts of the Ahnadiv Mountains. The area around the monastery are prone to storms and landslides. The core sections of the monastery are underground beneath a single mountain peak, but a few sections sprawl out under neighboring mountains. Due to the secrecy and the harsh environment, even the food is grown underground.
+* **Ruukosi**. The monastery is built on the western side of Adar, into the cliffs on either side of the mouth of the Ruukosi River, where it enters the Jathara Sound. The two halves of the monastery are connected by a natural arch over the river, which has been hollowed out into a lookout post, that can see as far as Syrkarn on a good day.
+* **Shalquar**. This monastery lies in northern Adar among the Ahnadiv Mountains, only 22 miles from the village of Hillcorn in Pyrine. Its exact location is kept secret, but its general location is known even to outsiders. The monastery itself is built into two mountains, and guards a narrow pass between them, the only accessible route into Adar in the local area.
+* **Tashalatora**. Its true location is a closely guarded secret, but it is located somewhere in northeastern Adar overlooking Vulpana Falls. The monastery guards one of the only accessible passages into Adar from Corvagura for hundreds of miles.
+
+#### Other Settlements
+
+* **Xephanan**. Capital city of the xephs, located a little south of the central part of Adar. The city lies in a forested canyon valley known as the Xaryai Coulee, named for the Xaryai River that flows through it. The city is lit by luminescent crystals that naturally occur in the rock of the canyon. The xephs see some trade with the closest monastery of Ruukosi, while other xeph merchants run ships out of the port of Dvaarnava.
+* **Zi'til'natek**. A dromite hive, located deep underground beneath the site of Malshashar monastery in Adar. Psionic portals connect the monastery with the hive. Zi'til'natek is an ancient city thought to be the origins of dromite civilization in Sarlona. In 703 AT (-99 YK), the kalashtar of Adar convinced the dromites of Zi'til'natek to ally with them against the Inspired of Riedra. The dromites allowed the kalashtar to place a shroud resonator in a cavern near their city after the destruction of the first Malshashar monastery. The dromites continue to maintain this alliance to the present day, trading with Adar through the psionic portals that connect the hive with the monastery. When the Summit Road was established, Zi'til'natek was the initial route used by guides to get out of Adar and to get Riedran refugees into Adar. The Summit Road continues to have cells operating in the hive today.
+
 ### Religion and Culture
 
 Traditional Adaran prayers call on Braahyn (Balinor), the god of the wilds and the moving earth, and his spouse Aarakti (Arawai), the goddess of abundance and storms. Many people also respect the spirits of nature and those of their ancestors. Some adherents to the old Path of Light may still remain in Adar.
