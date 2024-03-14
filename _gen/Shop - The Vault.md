@@ -1,3 +1,13 @@
+---
+Image: "![_img/Garrick_Quickfinder.png|250](_img/Garrick_Quickfinder.png)"
+Shopkeeper: Garrick Quickfinder
+---
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.Image`
+> ##### `=this.Shopkeeper`
+> `=this.Comments`
 
 | Item Name                              | Price     | Rarity                                | Type                      | Description                                                                                                   |
 | -------------------------------------- | --------- | ------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -9,6 +19,5 @@
 | [[Lantern of Revealing]]               | 500 gp    | Uncommon                              | Wondrous item             | Sheds light and reveals invisible creatures and objects within it.                                            |
 | [[Sending Stones (Pair)]]              | 1,400 gp  | Rare                                  | Wondrous item             | Stones that allow two users to communicate over any distance.                                                 |
 | [[Skycoach (KP)]]                      | 15,000 gp | Rarity varies by condition & features | Mundane vehicle           | [A magical vehicle used for aerial transportation in certain cities](http://kpogl.wikidot.com/item:skycoach). |
-Mystic Menagerie is a bustling emporium nestled in the heart of the enchanted town of Eldoria. Its shelves are lined with oddities and necessities alike, ranging from mundane household items to rare magical artifacts. The store's warm, golden light spills out onto the cobblestones, inviting adventurers and townsfolk to peruse its eclectic collection.
 
-**Thistlewick Bramblepelt**. Thistlewick Bramblepelt is a sprightly gnome with an eye for curios and a heart for haggling. Standing just over 3 feet tall, his presence is as commanding as his fiery red hair. He wears spectacles that seem to magnify his eyes to comical proportions when he inspects goods. Thistlewick is assisted by a dedicated team consisting of a stoic dwarf named Borin Ironhand who manages the stock, and Lyria Willowshade, an elven apprentice with a knack for identifying magical items.
+![[Garrick_Quickfinder.png]]
