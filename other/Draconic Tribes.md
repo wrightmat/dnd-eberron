@@ -131,11 +131,27 @@ The tracts below are listed in the general order that the PCs are expected to en
 **Goal**: Release Khyber
  - [ ]  Ally with House Phiarlan to maintain a presence of spies in Khorvaire. The Five Demesnes are located at Fairhaven in Aundair (Memory), Wroat in Breland (Motion), Flamekeep in Thrane (Music), Thaliost in Thrane (Shape), and Sharn in Breland (Shadow).
 
-### DM Notes
+### DM Notes and Random Tables
 
 * Some dragon tribes, such as the white dragons (least intelligent and mostly just territorial and ferocious) and the other gem dragons, don't have their own distinct plot progressions.
 * Tiamat is essentially a representation of the evil eye, with the sphinxes acting as agents of apotropaic magic.
 * For the Infernal Machine, use the Kobold War Machine (CR 9) stat block from Tome of Beasts 2, then have it disappear when defeated (possibly taking a PC with it? maybe roll a save or something?)
+* The table below can be used for potions made from dragon parts, draconic ales, or anything else.
+
+
+| dice:d10 | Dragon Color | Potion Effect                       |
+| -------- | ------------ | ----------------------------------- |
+| 1        | White        | Resistance to Cold damage           |
+| 2        | Black        | Resistance to Acid damage           |
+| 3        | Green        | Resistance to Poison damage         |
+| 4        | Red          | Resistance to Fire damage           |
+| 5        | Blue         | Resistance to Lightning damage      |
+| 6        | Brass        | Immunity to Petrified condition     |
+| 7        | Bronze       | Immunity to Charmed condition       |
+| 8        | Copper       | Immunity to Incapacitated condition |
+| 9        | Silver       | Immunity to Paralyzed condition     |
+| 10       | Gold         | Immunity to Stunned condition       |
+^random-dragon-color
 
 ### References
 
