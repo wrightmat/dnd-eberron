@@ -30,7 +30,7 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 	* Bring in Haze-of-Death ([[Kazdurakashtan]]), who was in Cyre on the Day of Mourning and was morphed into a monstrous version of himself.
 	* Monsters: Vapor Lynx (ToB1), Corpse Mound (ToB1), Death Butterfly Swarm (ToB1), Living Spells
 
-* **The Crystal Library of Azalakardon** (Adara, The Tapestry of Argonnessen)
+* **The Crystal Library of Azalakardon** (Adar, The Tapestry of Argonnessen)
 	* The Tapestry was conceived by a group of younger dragons 4000 years ago, who wanted to bring dragons of different colors together to exchange new ideas about religion, the Draconic Prophecy, and philosophy. These dragons were ignored by older dragons, until they successfully predicted the emergence of dragonmarks among humanoids. The Conclave then provided the Tapestry of Thought as a territory for these younger dragons to experiment and continue their work. Eventually the Conclave allowed these dragons to act outside of Argonnessen, resulting in the formation of the Chamber.
 	* Could be interesting if an extension of Crystal Library is actually found somewhere else, and the players can navigate it and emerge at the main Crystal Library in Argonnessen as a way to sneak onto the continent. Kind of like the Sanctuary intro of Zedal: A Link to the Past. Probably in Adar, amongst the blue dragons there (Aither's monastery head could send a letter as a hook).'
 	* Monsters: Ink Devils (ToB1), Wind Dragon, Young? (ToB1), Library Automaton (ToB1), Paper Drake (ToB1), Repository (ToB2)

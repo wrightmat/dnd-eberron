@@ -58,8 +58,7 @@ Adaran people live modestly. Mountainfolk and monks alike see craft as a leisure
 
 Adaran art is more craft than fine art. From carved knife grips to chanted meditation verses, art in Adar often serves a dual purpose. It's also very personal. People in Adar take time to do their tasks. They make beautiful and intricate jewelry and armor, personalized carvings to hang over a house door (which aids in knowing the residents), and even multi-colored crystal windows for their temples. Beauty is always coupled with functionality. A golden roof on a temple not only shows reverence, but it also never tarnishes. A mural not only recalls the past or reveres an ancient master of the Path of Light, but it also beautifies and seals the stone.
 
-A popular art form in Adar is "earth painting." Such works, made of colored earth, are often group efforts and are usually stylized images of intertwining lines of color. The paintings are created in a ritualized and meditative way. Intended to be impermanent, such paintings are at once the
-product of contemplation and creation.
+A popular art form in Adar is "earth painting." Such works, made of colored earth, are often group efforts and are usually stylized images of intertwining lines of color. The paintings are created in a ritualized and meditative way. Intended to be impermanent, such paintings are at once the product of contemplation and creation.
 
 While storm winds howl, the warm hearth provides a place to gather and create. It's also where stories are told and dances performed. Adaran tales tend toward morality plays, extolling wisdom and survival. Their folk dances are group affairs involving rings of people switching partners or couples dancing in time with one another.
 
