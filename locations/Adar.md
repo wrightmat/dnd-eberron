@@ -25,7 +25,7 @@ About 20% of the region is arable land, mainly in the valleys between the mounta
 ### Characters
 
 * **[[Aither Calobra Lightwood]]**
-* **Chanaakar** (LG male human monk). Current Speaker of the Word, and successor to Chanaakar (who he trained under), who resides at Kasshta Keep.
+* **Kaelen** (LG male human monk). Current Speaker of the Word, and successor to Chanaakar (who he trained under), who resides at Kasshta Keep.
 * **Luunkashtai** (LG female human monk). Hand of the Speaker, and the most elderly member of the order (and younger sister of former Speaker Chanaakar) who resides at Kasshta Keep.
 
 ### Locations
