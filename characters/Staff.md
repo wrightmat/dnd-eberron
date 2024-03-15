@@ -1,8 +1,8 @@
 ---
-level: 3
-hp: 17
+level: 5
+hp: 27
 ac: 12
-modifier: 6
+modifier: 7
 ---
  #pc [[Jolene Harper]]
 
