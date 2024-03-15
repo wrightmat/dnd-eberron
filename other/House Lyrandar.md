@@ -39,6 +39,7 @@ As is common among other dragonmarked houses, Lyrandar is led by a baron (whethe
 * **Gaven d'Lyrandar** (male half-elf fighter). Former member of the house, who was excoriated after being convicted of committing war crimes during the Last War. He was imprisoned in Dreadhold for twenty-six years before he finally escaped with the help of the Aundairian general, Haldren ir'Brassek.
 * **Lazrea d'Lyrandar** (CG female half-elf). A notable captain of House Lyrandar based in Stormreach in Xen'drik. A free spirit like many of Lyrandar, Lazrea is famous for her beauty and the joy she takes in challenging any who offend her to a duel.
 * **Vennet d'Lyrandar** (male half-elf). Captains the wind galleon *Lightning on Water*. He conducts trade along the route between Sharn and Zarash'ak in the Shadow Marches.
+* **Demetrius d'Lyrandar** (CN male half-elf spy). The peerless but laconic pilot of the charter ship *Celeste Noir*. As a dragonmarked heir of House Lyrandar, he is uniquely equipped to pilot this craft. Though anyone could attempt to pilot the ship, their navigations would be halting, childlike, and dangerous compared to the effortless ease granted to Demetrius by his Mark of Storms. When drunk — which he is most evenings — he may comment on some of his previous adventures. Demetrius has resistance to lightning damage, and can cast *gust* at will, and *gust of wind* once per day. He also has a swimming speed of 30 feet.
 
 ### Locations
 

@@ -4,6 +4,8 @@ Each of the chromatic, metallic, and gem dragon tribes have their own means and 
 
 Below are details on each of the tribes. The dragons should be treated as essentially one large BBEG until near the end of the campaign when the obsidian dragons and Arstyvrax are exposed as the true original bad guys. As the players advance through the campaign, the dragons should be pursuing their own goals as well, regardless of what the players decide to do. A new tract below should be started whenever the PCs first learn about or encounter a dragon tribe plot. At that point, each clock will tick along as the dragons continue their work.
 
+Each of the "Orders" are essentially secret societies where the membership is generally not known. Members do wear a concealed insignia, in case they need to identify each other - a single actual dragon scale from the appropriately colored dragon.
+
 ### Summary
 | Color     | Damage             | Leader/Inspiration                              | Plane                                            | Followers/Organizations                                | Characteristics                   | Enemy  | Habitat             | Al. |
 | --------- | ------------------ | ----------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------ | --------------------------------- | ------ | ------------------- | --- |
