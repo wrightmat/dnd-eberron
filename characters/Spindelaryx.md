@@ -1,4 +1,4 @@
- #npc [[Draconic Tribes]] [[Flamekeep]] [[The Chamber]]
+ #npc [[Draconic Factions]] [[Flamekeep]] [[The Chamber]]
 
 Gender:: Female
 Race:: Dragon

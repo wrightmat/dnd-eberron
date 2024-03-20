@@ -1,4 +1,4 @@
- #npc [[Draconic Tribes]]
+ #npc [[Draconic Factions]]
 
 Gender:: Female
 Race:: Dragon

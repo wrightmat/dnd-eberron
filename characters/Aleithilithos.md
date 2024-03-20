@@ -1,4 +1,4 @@
- #npc [[Draconic Tribes]] [[Tu'narath]]
+ #npc [[Draconic Factions]] [[Tu'narath]]
 
 Gender:: Male
 Race:: Dragon

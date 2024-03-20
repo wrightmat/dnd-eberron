@@ -1,4 +1,4 @@
- #npc [[Draconic Tribes]] [[The Chamber]]
+ #npc [[Draconic Factions]] [[The Chamber]]
 
 Gender:: Male
 Race:: Dragon

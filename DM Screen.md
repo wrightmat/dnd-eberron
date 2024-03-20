@@ -29,7 +29,7 @@ kanban-plugin: basic
 - [ ] [[Timeline of Eberron]]
 - [ ] [[Follow-up]]
 - [ ] --
-- [ ] [[Draconic Tribes]]
+- [ ] [[Draconic Factions]]
 - [ ] [[Sphinxes]]
 - [ ] [[locations/Sarlona|Sarlona]]
 - [ ] [[Flamewind]]

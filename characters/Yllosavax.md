@@ -1,4 +1,4 @@
- #npc [[Draconic Tribes]] [[The Silver Scales]]
+ #npc [[Draconic Factions]] [[The Silver Scales]]
 
 Gender:: Female
 Race:: Dragon
