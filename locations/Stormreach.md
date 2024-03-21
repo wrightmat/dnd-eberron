@@ -46,6 +46,9 @@ The Stormreach Compact was an agreement made between the Kingdom of Galifar and 
 * **Ereg** (NE male human ranger). A retired hunter, Ereg has tracked many of the strange creatures of Xen'drik — the wilder the better. On one of his forays into the jungle, the hunter uncovered a book describing the foundations of the necromantic tradition that has since evolved into the Blood of Vol. Ereg is fascinated by the book and spends his days studying its tattered pages.
 * **Gaulronak** (N male hill giant druid). The oldest inhabitant of the Tents of Rushemeé, Gaulronak is a wizened, elderly giant who scours the nearby jungle for rare herbs and fruit. He sells his gleanings to herbalists and cooks from a tent near the city gates, and he also serves as the primary liaison between the Storm Lords and the giants of Rushemé. Gaulronak has come to understand the people of Stormreach, and the giants respect his age and wisdom.
 * **Hassalac Chaar** (N male kobold sorcerer). This self-styled "Prince of Dragons” might well be the most powerful spellcaster in Stormreach, but his reclusive nature makes it impossible to know for certain. Hassalae Chaar is a kobold who lives in a hidden complex deep beneath the city. The precise location of his lair is a mystery, since the only known entrance is an extradimensional portal that the kobold controls. Hassalac is fascinated with dragons and has amassed a vast assortment of maps, magic items, and even artifacts dating back beyond the dragon-giant conflict to the dragons’ war against the fiends. Hassalac’s vaults might contain wealth beyond measure, but they are also filled with deadly traps and lizardfolk guards. Hassalac jealously guards his hoard and rarely leaves his lair, but he sometimes employs adventurers to retrieve relics from the interior of Xen'drik.
+* **Valexa Von Ruthvek** (N female gnome magewright). Proprietor of Von Ruthvek's Splendors of the South in the Marketplace District.
+* **Salkarath** (N male sahuagin). The bartender and owner of the Wavecrest Tavern. Salkarath stands out with his deep green scales, sharp teeth, and piercing yellow eyes, yet his demeanor is surprisingly amiable, at least to those who show him and his establishment respect. He keeps his tavern oddly clean and is known for serving a variety of exotic drinks, most of which incorporate ingredients only found in the depths of the ocean.
+* **Tarnik Graysail** (NG male human). Once a renowned guide of Xen'drik's jungles, Tarnik now spends his days sharing tales over drinks at Molou's Distillery. His weather-beaten face and keen eyes speak of a life of adventure, and he's always ready to offer advice or a warning to those brave enough to explore the wilds he once navigated.
 
 ### Locations
 
@@ -141,6 +144,7 @@ The district is dominated by the Keep of the Silver Flame, established a little 
 
 #### Oldgate District
 
+In the Age of Giants, this district housed the city's main inland gate. Today, the district looks to be in good repair in comparison to the rest of the city, and is considered a model district by the Storm Lords. However, under its respectable face, the district contains intrigues between its militias - the Knights of Thrane and the Ninth Wands - and other power groups in the city.
 
 ### Secrets and Clues
 

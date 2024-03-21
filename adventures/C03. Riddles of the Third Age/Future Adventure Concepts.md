@@ -44,6 +44,7 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 * Use a Hoard Golem (ToB1, FToD) somewhere in an abandoned dragon lair with an unprotected hoard.
 * If the players return to Shae Mordai, use the Haugbui (ToB1) as a boss monster.
 * Slow Storm (ToB1) is a fun chaose-themed monster that should be used somewhere.
+* An adventure should make heavy use of the Lantern of Seeking. Possibly embed several of the creature types as encounters in the dungeon, with the ability to bypass encounters and find multiple routes by using the lantern. Possibly a labyrinth with a Millitaur (ToB1).
 
 ### References
 
