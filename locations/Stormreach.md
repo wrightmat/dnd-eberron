@@ -54,11 +54,11 @@ The Stormreach Compact was an agreement made between the Kingdom of Galifar and 
 
 #### Harbor District
 
-The Harbor is the southwestern district of the city of Stormreach in Xen'drik, containing the docks and waterfront businesses.
+In any port city the harbor is a center of all the settlement's activity and Stormreach is no exception. The Harbor area is dominated by three large structures: the Emperor statue and the Lighthouse, both from the Age of Giants, and the impressive Harbormaster's House where the Harbor Lord lives and performs his duties. Many pirates and other nefarious types also call the Harbor home making this a frequent stop for visitors.
 
 The ancient ruins upon which the city of Stormreach are built extend well beneath the water line of the harbor, forming an area known as the Underharbor. These dank, dark, damp, and often water-filled ruins are home to numerous sahuagin, pirates, thieves, murderers, and other creatures of the depths. The Stormreach Guard and the dragonmarked houses like to keep a close watch on the entrances to the Underharbor.
 
-* **The Emperor** (4).
+* **The Emperor** (4). 
 * **Harbormaster's House** (5). Where Jonas Wylkes resides.
 * **The Leaky Dinghy** (6). A totally reputable boat rental place that definitely has boats that float.
 * **The Lighthouse** (7).
@@ -91,13 +91,15 @@ The large central district of the port of Stormreach in Xen'drik. The district c
 
 #### Forgelight District
 
+Forgelight is a heavily-rebuilt district with many new buildings and clean, well-off businesses. It is known by many in Stormreach to be a stronghold of Deneith House Deneith which maintains an enclave on the across a branch of the Koronoo from the city proper. Mercenaries and adventurers of all sorts are attracted to the district because of the enclave and because of the large warforged population that makes its home here. Warforged may appreciate the relative quiet of Forgelight or the Stormreach Forge which is also here.
+
 * **The Foundry** (1).
 * **House Deneith Enclave** (2).
 * **Temple of the Sovereign Host** (3).
 
 #### Cross District
 
-South of the Marketplace District and north of the Harbor District, this area contains Dannel’s Pride, Stormhaven, and The Sloths.
+The district of Cross holds a number of transplanted Khorvairian populations and retains some of the pride of its home nations, though there is plenty of tarnish on it. It is a centralized district which gives Cross its name: the Marketplace to the west, the Harbor to the east, Southwatch to the south, and Respite and Silverwall to the north. Despite this, most of the residents of Cross are poor and rely on business elsewhere in the city while trade wagons and travelers pass through without stopping. The ward of Dannel's Pride is a place where travelers keep their heads down the most, filled with the nostalgia and anger of its Cyran population about the Day of Mourning. By contrast, Graystone is an orderly place of business with a bustling Tharashk refinery at its center. Many workers live in the quiet streets of Saltire where very few have reason to go except for the simple or clandestine of the district's population. Lastly, the Sloths is a ward of fine tailors and Brelish expatriates who avidly take advantage of any opportunity for advancing their business.
 
 * **Dannel's Pride**. Known locally as Little Cyre, Dannel's Pride is a ward in the Cross district of Stormreach. Inhabited by its refugees, it is a small survivor of the lost nation of Cyre. A small ward built around a former trading outpost, Dannel's Pride has become heavily populated with Cyran refugees, leading to overcrowding, poverty, and attendant troubles. Maimed veterans of the Last War and hungry children are familiar sights here. Though they have little but broken dreams, the people here endeavor to preserve and rebuild Cyre, right here in Stormreach. They will hotly defend their efforts.
 * **Greystone**. 
@@ -107,7 +109,7 @@ South of the Marketplace District and north of the Harbor District, this area co
 
 #### Respite District
 
-Location of the House Jorasco enclave and the Garden of Respite.
+Respite is the wealthiest of Stormreach's districts, particularly the ward of Stormhaven which takes up a small part of it. Wealthy merchants make their homes here, the most powerful in Stormhaven including the Storm Lords, and the commoners of Stormreach are forcibly kept out by private guards. A House Jorasco enclave is found here as well as a number of wizard's shops but the most striking feature is Delera's Watch. This stately necropolis is named after one of the founders of Stormreach who is buried here and over the centuries the land has become a rambling collection of gravesites from citizens of many different nations.
 
 * **Coldwake Pond** (19). 
 * **Delera's Watch** (20). Crypts and catacombs are hidden throughout Stormreach, but most of the ruined city’s notables are buried in the area of Delera’s Watch, named for one of the first Storm Lords. Aside from the tomb of Delera Omaren, this neighborhood includes the crypts of a number of famous smugglers of old Stormreach, Naturally, tales abound of how these legendary pirates were buried with treasure maps, powerful magic items. or journals detailing the location of sunken merchant ships. Even on their deathbeds. the pirate captains were suspicious and paranoid, and their crypts remain guarded by traps, magical wards, and (it is whispered) undead guardians. Stories abound of a subterranean necropolis of the giants beneath Stormreach. where mummified corpses have lain undisturbed for more than forty thousand years. Whether these tales hold any truth remains to be seen, for any entrance to these catacombs is well hidden.
@@ -116,7 +118,7 @@ Location of the House Jorasco enclave and the Garden of Respite.
 
 #### Temple District
 
-The district is dominated by the Keep of the Silver Flame, established a little over a century ago as an outpost for the missionaries the church sends into the depths of Xen'drik (a program that, to date, has met with little success). A host of smaller temples, churches, and shrines are scattered across the district and the city.
+Next to Forgelight, the Temple District houses a massive temple-fortress to the Silver Flame, built as a missionary church to savage Xen'drik. The street known as Temple Row contains a melange of other shrines and street preachers who call out prayers to the Sovereign Host, the Dark Six, and even the Dragon Below to passersby. The other side of the district is the entertainment and vice found in the brothels and taverns of the Temple District. House Phiarlan is just one of many places where those looking for sinful entertainment can be satisfied.
 
 * **House Phiarlan Enclave** (32). 
 * **Keep of the Silver Flame** (33). 
@@ -125,6 +127,8 @@ The district is dominated by the Keep of the Silver Flame, established a little 
 * **Temple Row** (36). 
 
 #### Silverwall District
+
+Near the eastern beach, Silverwall is dominated by the interests of House Kundarak who petitioned the Storm Lords for land to build here. Their enclave is a ward unto itself called Coasthold where magical research and secret plans are undertaken. The rest of the district falls within Locksmith Square which is a hub of trading and entertainment in Stormreach. Craft shops can be found in the square as well as the strangely beautiful Eldred's Pool which depicts thri-kreen figures either dancing or fighting. The Red Ring, a gladiatorial arena and gambling venue, is also located here for those who seek more bloody entertainment than is found in the rest of the ward, though powerful rivals may be forcing the Ring out of business.
 
 * **The Black Wrack** (23). food, shelter.
 * **Citadel of the Twelve** (24). All the dragonmarked houses have an interest in the magical secrets hidden in Xen'drik. This outpost of the Twelve is located on the edge of the city. In addition to serving as a resource for explorers, the citadel is the best place to seek magic items and spellcasting services. Visitors can purchase arcane spells of 5th level or lower, as well as magic items with a 20,000 gp purchase limit. Services and goods are always top quality, but this comes at a cost: prices for spelleasting and magic items are priced 5% above normal. This premium is waived for high-ranking members of a dragonmarked house (including dragonmark heirs) or for PCs in the active service of a house.
@@ -136,6 +140,8 @@ The district is dominated by the Keep of the Silver Flame, established a little 
 
 #### Southwatch District
 
+On the exposed southern edge of the city, Southwatch keeps much to itself and looks after its own. The Karrnathi-dominated Grindstone Ward houses a Temple of Vol, locally called Rosewood, and a Karrnathi militia, while Summerfield is a more cosmopolitan ward with residents from many places. Across the Koronoo, the Tents of Rushemé is a tent city where giants come to trade goods from the Xen'drik jungles including herbs, exotic resources, and even some ancient relics. Anthropologists from the Five Nations sometimes come to speak with the giants but many in Stormreach are nervous that they remain so close.
+
 * **The Black Freighter** (29). 
 * **The Ship's Cat** (30). Densewood twigs have been thatched together to create a building that looks like a pile of sticks but has all the strength of stone. The Ship's Cat is an inn run by a shifter named Harysh (NG female shifter ranger), and while the neighborhood is questionable, Harysh has a reputation for fair dealing and discretion. The inn takes its name from Harysh’s dozen cats, which share the place with guests. Familiars and animal companions receive excellent care at the Ship's Cat, and as long as they leave the resident cats alone, they are always welcome in the inn.
 * **Temple of Vol** (31). 
@@ -145,6 +151,13 @@ The district is dominated by the Keep of the Silver Flame, established a little 
 #### Oldgate District
 
 In the Age of Giants, this district housed the city's main inland gate. Today, the district looks to be in good repair in comparison to the rest of the city, and is considered a model district by the Storm Lords. However, under its respectable face, the district contains intrigues between its militias - the Knights of Thrane and the Ninth Wands - and other power groups in the city.
+
+The Embers Ward is the center of the Thranish presence in Stormreach. Its residents mostly keep to themselves, united by their faith and a desire to make their home a refuge from the wildness in so much of the city. If anyone tries to cause trouble in the ward, the Knights of Thrane, led by Valen Vanatar, do not stand for it.
+
+The Whitewash Ward is home to Aundairian expatriates, who have a reputation for aloofness and one-upmanship. Over the centuries a considerable amount of magic has been woven into their ward: there are more everbright lanterns here than anywhere else in the city, a team of magewrights use prestidigitatioin to keep the district clean, and the district takes its name from a central fountain that allows anyone to instantly clean clothes there. The Aundairians are largely peaceful, but if pressed, they will not hesitate to call on Jorian Thiel and the Ninth Wands.
+
+* **Surrinek Riverboats**. Surrinek has a near monopoly on the river taxi business. Captains may work nearly autonomously, as long as they divide the available customers equitably. Boats range from gondolas to barges. She runs her business from a stilted hut over the river.
+* **The Candlelight**. The Thrane-dominated Embers ward is short on places to drink, but has plenty of places to eat. The Candlelight is one of the best, specializing in Thrane deserts. Private rooms are available for a fee.
 
 ### Secrets and Clues
 
