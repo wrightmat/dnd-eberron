@@ -1,3 +1,6 @@
+---
+bind_target: 3
+---
  #organization 
 
 Each of the chromatic, metallic, and gem dragon tribes have their own means and methods for advancing the agenda of the dragons, but all of them are committed to it. After the attack on Shae Mordai, the obsidian dragons went underground (literally) to remove any suspicion from themselves, instead convincing the other tribes to take on the mantle. For many years, these tribes have been establishing footholds across Eberron, but especially in Khorvaire.
@@ -46,6 +49,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 	 - [ ]  Arcanix, Sharn, and any other locations scoped out by the silver dragonborn are declared as Arcane Sanctuaries under the protection of the Silver Scales, where both dragons and mortals can safely study and harness magical energies without interference by the other dragons.
 	 - [ ]  One of the Arcane Sanctuaries discovers an artifact that they believe may be what Yllosavax has been searching for - an arcane means to draconic immortality.
 	 - [ ]  
+
 
 ##### Gold (Thrane)
 - **Cunning**: 2
