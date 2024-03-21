@@ -7,15 +7,16 @@
   The university's main campus lies in the University District of Upper Menthis in Sharn.
   Morgrave University is not the most reputable institution in Khorvaire. It lacks the resources of the Library of Korranberg or Wynarn University, and many claim that its archaeological activities are infested with smugglers and treasure hunters. While the university lacks the clout of its peers in Korranberg and Aundair, it is much more accessible to young adventurers who have yet to build a reputation.
   *This would be equivalent to something like NYU - not hard to get in to, and also not the best reputation (although not bad). A decent general school.*
-  
+
 * The **University of Wynarn** is, together with Arcanix, the primary institute of arcane studies in the Five Nations. Located in Fairhaven in the nation of Aundair, the University of Wynarn might be lesser known than Morgrave University in Sharn but Wynarn is the more prestigious and respected university among the two. Curricula in the University of Wynarn are focused on both mundane and magic-related topics.
   *This would be equivalent to something like MU - a smaller and cheaper school in more of a standard college town, with a decent reputation. Not very selective, and a good range of courses, although less than something bigger like NYU (Morgrave).*
-  
+
 - **Arcanix** is an institute of arcane studies, located in a farming village in the nation of Aundair, on the shores of Lake Galifar. Many of the greatest wizards of Galifar learned their craft within the floating towers of Arcanix. The towers are also home to Aundair's Arcane Congress.
   *This would be a liberal-arts style school, like Truman. Much smaller and more focused in its curriculum, more selective in its attendance, and part of a much smaller town.*
+
 - The **Rekkenmark Academy** is a war college in Rekkenmark, Karrnath. Originally established to produce the greatest military officers for the Kingdom of Galifar, the academy came under Karrnath's control during the Last War, and only recently has reopened to students from other nations.
   *This is exactly the same as a military academy in our world.*
-  
+
 - The **Tower of the Twelve** in Korth, Karrnath contains trade schools tied to each dragonmarked house guilds across Khorvaire, and many houses have their own facilities that engage in the secret or private work of their house. The Tower of the Twelve isn’t a production facility; rather, it is both a symbol of house cooperation and a center that brings together the finest minds of all of the houses to conduct shared research and to train promising heirs. It has access to unrivaled resources, drawing on bother the finest minds and vast resources of the houses. However, its primary focus is always on the applications of the dragonmarks and on things that can produce profit, rather than on purely abstract knowledge.
   *This is a general technical/trade college like many of our trade schools.*
   
