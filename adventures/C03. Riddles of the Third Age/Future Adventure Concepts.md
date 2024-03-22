@@ -25,6 +25,7 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 * **The Plane of Syrania**
 	* Something to do with Verity's father?
 	* Probably use the planar gate above Arcanix to get there, that way we can bring back elderly Windsor and Astra as well!
+	* The Silver Dragons are associated with Syrania, so what if Valmoc sends them on a mission of some sort?
 
 * **The Mournland**
 	* Bring in Haze-of-Death ([[Kazdurakashtan]]), who was in Cyre on the Day of Mourning and was morphed into a monstrous version of himself.
