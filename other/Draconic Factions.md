@@ -185,7 +185,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Morale**: +6
 - **Goal**: To spread the religion of the dragons, known as Thir, throughout Eberron but especially through the Sovereign Host. The intent is to channel the energy of faithful believers (their Force) to help release Tiamat.
 - **Objectives**:
-	 - [ ]  The Order of the Ruby Scale, a group of dwarves, begin their ministries in the Mror Holds spreading Thir.
+	 - [x]  The Order of the Ruby Scale, a group of dwarves, begin their ministries in the Mror Holds spreading Thir.
 	 - [ ]  Temples of the Sovereign Host throughout eastern Khorvaire (east of the Mournland) begin teaching Thir beliefs, that the first Sovereigns were dragons of great or ill renown who ascended to godhood during the Age of Demons. +1 to Force.
 	 - [ ]  Temples of the Sovereign Host throughout ALL of Khorvaire are teaching Thir beliefs. +1 to Force.
 	 - [ ]  Half of the Khorvaire believers of the Sovereign Host have adopted the Thir beliefs. Sovereign Host temples all over Khorvaire start adopting more draconic symbology. +1 to Force.
