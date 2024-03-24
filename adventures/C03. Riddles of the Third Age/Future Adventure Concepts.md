@@ -21,10 +21,9 @@ Tailored to Thana, where the Moonblade is received.
 
 Tailored to Verity, where the Platinum Scarf is received.
 
-##### The Mournland
+##### [[2-06. The Draconic Phylactery]]
 
-* Bring in Haze-of-Death ([[Kazdurakashtan]]), who was in Cyre on the Day of Mourning and was morphed into a monstrous version of himself.
-* Monsters: Vapor Lynx (ToB1), Corpse Mound (ToB1), Death Butterfly Swarm (ToB1), Living Spells
+An opportunity to give more information about Arstyvrax and his undead nature, as well as to give them control over his phylactery. Potential to ally with Haze-of-Death as well.
 
 ##### Labyrinth of the Seeker
 
