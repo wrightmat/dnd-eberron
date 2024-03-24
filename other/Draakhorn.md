@@ -17,6 +17,9 @@ If five creatures within a 150-foot range of the horn are wearing each of the Dr
 * Likely body parts: Arms (Claw Attack), Mouth (Breath Weapon and/or Bite), Tail (Tail Attack), Legs (Movement), ???
 * Aither is most likely Arms, and her +2 Dragon Claws increase to +3
 * Shahiri is most likely the Tail, keeping her Tail reaction
+* Thana is most likely the Mouth, with her Bite ability
+* Verity being the Legs might make sense, in which case some abilities related to her Rogue-ness should be included.
+* Last body part for Staff - what would make sense? The body itself? Keep some spell casting and/or her Chronomancy ability.
 
 ### References
 
