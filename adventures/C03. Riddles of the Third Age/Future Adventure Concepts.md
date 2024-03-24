@@ -3,6 +3,8 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 
 ### Adventure Concepts
 
+* [[2-02. Mystic Glade and Vvaraak's Cave]]
+
 * **Moonsword Jungle**
 	* A temple in the depths of the Moonsword Jungle of Aerenal is rumored to house a lost [[Moonblade]] from one of the ancient elven houses. But this powerful weapon is protected by incredibly strong monsters.
 	* Probably need to have the party at at least level 10 before going here, so do primarily CR 8 to 13 monsters.
@@ -10,16 +12,12 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 	* I think the moonblade belonged to Thana's parents at one point, was held here for safe keeping, and was never able to be passed down to Thana due to their death. Then her parents could communicate to her through the blade in dream sequences.
 	* Monsters: Possessed Pillar (ToB1), Young Moonstone Dragon (FToD), Lunarchidna (ToB2), Lunarian (ToB2), Moonkite (ToB2), Living Moonbeam?
 
-* **The Mystic Glade** (see Dragons of Eberron, pg. 90-91) and **Vvaraak's Cave**
-	* Former home of the black dragon Vvaraak, and now the central base of the Order of the Onyx Scale (Dragon Orcs) and the black dragon Moar’donn as their leader.
-	* Known as the Scaled Apostate, Vvaraak was the dragon who taught the orcs the traditions of the Gatekeepers some sixteen thousand years ago. Vvaraak died long ago, but her lair reportedly contains many mystical secrets relating to the Draconic Prophecy. The location of the cave was lost during the war against the daelkyr, and it is one of the mysteries of the Marches. Should it ever be found, the Gatekeepers would be greatly offended if outsiders despoiled this most holy site.
-	* Monsters: Mavka (ToB1), Miremal (ToB1), Moss Lurker (ToB1), Swamp Naga (ToB2), Quickserpent (ToB2)
-
 * **Speartip Island**
 	* The original landing site of Lhazaar when she arrived in Khorvaire, and now a site of interest for the blue dragons and their leader Kalryni.
-	* Enraged at the loss of a wyrmling, Kalryni is causing lightning storms to destroy coastal settlements near Speartip Island and refuses to stop until someone delivers the adventurer responsible.
+	* Enraged at the loss of her favorite wyrmling, Kalryni is causing lightning storms (and opened a manifest zone to Kythri in order to bring in the Chaos Fleet) to destroy coastal settlements near Speartip Island and refuses to stop until someone delivers the adventurer responsible.
 	* This adventurer is Horget Black, the former High Prince (and therefore rival of Ryger), who actually found the wyrmling already wounded (after he fell from the sky onto his ship) and tried (but failed) to nurse it back to health, due to his being an incorporeal ghost. He has a ghost ship that is now stuck in the storm and unable to leave.
 	* The players will need to find the ghost ship, and then return to Kalryni with Horget Black to explain what happened.
+	* Also incorporate the Chaos Fleet (captained by Magroth) and the Heavenly Fleet (captained by Prince Lorrister, the aasimar) as rival factions involved in finding Hoget for their own reasons. The Chaos Fleet is a crew that slips in and out of Kythri, and should be kind of like Davy Jones' crew from Pirates of the Carribean if turned half-elemental instead of half-fish. Each crewmember is infected with a slaad and only half converted while on the material plane, and each has an elemental companion in the form of various types of mephits (on their shoulders like parrots). All of the fleet are members of the Order of the Sapphire Scale, with Magroth as the leader of the faction. The Chaos Fleet has been selected by Kalryni to find the wyrmling, while the Heavenly Fleet has been commissioned by High Prince Ryger ir'Wynarn and House Thuranni to do the same (in order to save Regalport and the other Principalities from destruction).
 	* Monsters: Ravenala (ToB1), Morphoi (ToB1), Shimmer Seal (ToB2)
 
 * **The Plane of Syrania**
