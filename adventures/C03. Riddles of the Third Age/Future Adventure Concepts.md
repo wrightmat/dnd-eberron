@@ -25,9 +25,9 @@ Tailored to Verity, where the Platinum Scarf is received.
 
 An opportunity to give more information about Arstyvrax and his undead nature, as well as to give them control over his phylactery. Potential to ally with Haze-of-Death as well.
 
-##### Labyrinth of the Seeker
+##### [[2-07. Labyrinth of the Lantern's Light]]
 
-* An adventure should make heavy use of the Lantern of Seeking. Possibly embed several of the creature types as encounters in the dungeon, with the ability to bypass encounters and find multiple routes by using the lantern. Possibly a labyrinth with a Millitaur (ToB1).
+This is a way to fully empower the Lantern of Seeking. Possibly also reveal some additional information about the world.
 
 ##### The Crystal Library of Azalakardon
 
