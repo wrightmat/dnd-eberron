@@ -7,15 +7,19 @@ The second chapter adventures are designed to be longer, and fully follow the Fi
 
 ##### [[2-02. Mystic Glade and Vvaraak's Cave]]
 
+Goal is to elucidate the black dragons, Order of the Onyx Scale, and give the party the opportunity to gain an ally.
+
 ##### [[2-03. The Storm of Speartip]]
+
+Goal is to elucidate the blue dragons, Order of the Sapphire Scale, and give the party the opportunity to gain an ally.
 
 ##### [[2-04. The Legacy of the Moonblade]]
 
-##### The Plane of Syrania
+Tailored to Thana, where the Moonblade is received.
 
-* Something to do with Verity's father?
-* Probably use the planar gate above Arcanix to get there, that way we can bring back elderly Windsor and Astra as well!
-* The Silver Dragons are associated with Syrania, so what if Valmoc sends them on a mission of some sort?
+##### [[2-05. Echoes of the Celestial Realm]]
+
+Tailored to Verity, where the Platinum Scarf is received.
 
 ##### The Mournland
 
