@@ -3,7 +3,7 @@
 Gender:: Female
 Race:: Dragon
 Subrace:: Chromatic (Blue)
-Alignment:: Chaotic Evil
+Alignment:: Chaotic Neutral
 
 "Why waste time and energy murdering weaker creatures when I can make them entertain me instead?"
 
