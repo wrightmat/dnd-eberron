@@ -11,7 +11,7 @@ Goal is to elucidate the black dragons, Order of the Onyx Scale, and give the pa
 
 ##### [[2-03. The Storm of Speartip]]
 
-Goal is to elucidate the blue dragons, Order of the Sapphire Scale, and give the party the opportunity to gain an ally.
+Goal is to elucidate the blue dragons, Order of the Sapphire Scale, and give the party the opportunity to gain an ally. Also where the Dragon Claws are received?
 
 ##### [[2-04. The Legacy of the Moonblade]]
 
@@ -41,7 +41,7 @@ Tailored to Aither and/or Staff, and also a way to get to Argonnessen without be
 
 ### Magic Items
 
-##### [[Moonblade]]
+##### [[Moonblade (Vestige)]]
 
 Best for Thana, with some tie in to her family (as a +2 weapon). Most likely, this exact sword belonged to one of her parents and is her right to wield.
 

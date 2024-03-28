@@ -1,4 +1,4 @@
- #item 
+ #item [[Modular Magic Items (Vestiges)]]
 
 _Weapon (longsword), legendary (requires attunement by an elf or half-elf of neutral good alignment)_
 
