@@ -1,6 +1,6 @@
  #item 
 
-_Wondrous item, legendary (requires attunement by a monk)_
+_Weapon (claws), legendary (requires attunement by a monk)_
 
 The jewels and runes in these claws flare with purple light when you enter combat, empowering your natural fists or natural weapons. While wearing the claws, your attacks are considered to be magical.
 
@@ -21,12 +21,13 @@ The jewels and runes in these claws flare with purple light when you enter comba
 - **Level 3**: You can regain ki points equal to a roll of your Martial Arts die as a bonus action while wearing the *dragon claws*.
 
 ##### Slot 3
-- **Level 1**: When you hit a Dragon with this weapon, the Dragon takes an extra 3d6 force damage, and any Dragon that you can see within 30 feet of you can immediately use its reaction to make a melee attack.
-- **Level 2**: 
-- **Level 3**: 
+- **Level 1**: When you hit a Dragon with this weapon, the Dragon takes an extra 1d6 force damage, and any Dragon that you can see within 30 feet of you can immediately use its reaction to make a melee attack.
+- **Level 2**: When you hit a Dragon with this weapon, the Dragon takes an extra 2d6 force damage, and one Dragon of your choice that you can see within 30 feet of you can immediately use its reaction to make a melee attack.
+- **Level 3**: When you hit a Dragon with this weapon, the Dragon takes an extra 3d6 force damage.
 
 ### References
 
 * Insignia of Claws from Tyranny of Dragons (base weapon)
-* Dragonhide Belt from Tyranny of Dragons (ki recharge)
-* Dragonlance from Tyanny of Dragons (extra force damage)
+* Dragonhide Belt from Fizban's Treasury of Dragons (ki recharge)
+* Dragonlance from Fizban's Treasury of Dragons (extra force damage)
+* Claws weapon type based on the scimitar weapon type (for damage dice and type)
