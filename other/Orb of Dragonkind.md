@@ -16,6 +16,8 @@ While you are charmed by the orb, you can’t voluntarily end your attunement to
 
 An _Orb of Dragonkind_ appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A *disintegrate* spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
 
+![https://www.worldanvil.com/uploads/images/dc894322e20038a37f3259bba612da9a.jpg](https://www.worldanvil.com/uploads/images/dc894322e20038a37f3259bba612da9a.jpg)
+
 ### References
 
 * https://www.dndbeyond.com/magic-items/4690-orb-of-dragonkind
