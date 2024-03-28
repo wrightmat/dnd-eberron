@@ -24,7 +24,7 @@ Some scholars believe that the dragons know the ultimate plans of the Undying Co
 
 ### The Sundering of Shae Mordai
 
-On 20 Barrakas 1002, the Obsidian Dragons and their powerful leader, Arstyvrax, attacked and destroyed the city of Shae Mordai. No one knows their motivation, as no one had ever been successful in attacking this city before, especially with necrotic or other dark powers. Many suspect that the Obsidian Dragons may have had help from an even more powerful outside entity.
+On 20 Barrakas 1002, the topaz dragons and their powerful obsidian dragon leader, Arstyvrax, attacked and destroyed the city of Shae Mordai. No one knows their motivation, as no one had ever been successful in attacking this city before, especially with necrotic or other dark powers. Many suspect that the topaz dragons may have had help from an even more powerful outside entity.
 
 ### References
 

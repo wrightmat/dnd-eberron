@@ -1,5 +1,5 @@
 
-The idea is to have a second set of adventures after the first prepared Sphinx adventures which are more specifically tailored toward the PCs and their needs and desires, as they prepare to take on the dragons. There should be some turning point before the second chapter - probably the attack on Sharn by the white dragons (where Flamewind is killed). By the end of chapter one, the PCs should have full knowledge of the dragon tribes, the attack on Shae Mordai by the obsidian dragons, and their leader's desire to revive the Overlord Tiamat. With the full breadth of their challenge revealed, they should be encouraged to seek out additional powerful weapons that will be needed to face the obsidian dragons.
+The idea is to have a second set of adventures after the first prepared Sphinx adventures which are more specifically tailored toward the PCs and their needs and desires, as they prepare to take on the dragons. There should be some turning point before the second chapter - probably the attack on Sharn by the white dragons (where Flamewind is killed). By the end of chapter one, the PCs should have full knowledge of the dragon tribes, the attack on Shae Mordai by the topaz dragons, and their obsidian dragon leader's desire to revive the Overlord Tiamat. With the full breadth of their challenge revealed, they should be encouraged to seek out additional powerful weapons that will be needed to face the dragons.
 
 The second chapter adventures are designed to be longer, and fully follow the Five Room Dungeon format. Each should take two to three sessions, depending on how much the players explore the area surrounding and engage with NPCs. At the end of each adventure, the players will gain a level (starting at level 6 after the Sarlona and Final Lair adventure with the king), resulting in about level 15 at the end. The Ancient Topaz Dragon is CR 20, so should be a great challenge level given all of the magic items and draconic form they have access to.
 
@@ -35,8 +35,8 @@ Tailored to Aither and/or Staff, and also a way to get to Argonnessen without be
 
 ##### The Vast
 
-* Final adventure where the players confront the obsidian dragons and try to prevent their ritual to release Tiamat.
-* BBEG: Ancient Topaz Dragon (CR 20) used for [[Arstyvrax]].
+* Final adventure where the players confront the topaz dragons and try to prevent their ritual to release Tiamat.
+* BBEG: Ancient Topaz Dragon (CR 20), with modifications, used for [[Arstyvrax]].
 * Monsters: Gem Stalker (FtoD), Andrenjinyi (ToB1), Haugbui (ToB1)
 
 ### Magic Items
@@ -55,11 +55,11 @@ Best for Verity? The radiant damage could be a fun play with her fallen status.
 
 ##### [[Draakhorn]]
 
-Final item that allows all of the PCs to use their Dragon Masks to create a larger form to take on the obsidian dragons.
+Final item that allows all of the PCs to use their Dragon Masks to create a larger form to take on the topaz dragons.
 
-##### Obsidian Annihilator
+##### Topaz Annihilator
 
-This re-branded Topaz Annihilator from Fizban's should be the ultimate weapon that they get from defeating the obsidian dragons. Or could give it earlier so they can use it on the final battle if it wouldn't entirely break the battle. Possibly it can't pierce obsidian dragon scales, since that's what powers it?
+This item from Fizban's should be the ultimate weapon that they get from defeating the topaz dragons. Or could give it earlier so they can use it on the final battle if it wouldn't entirely break the battle. Possibly it can't pierce topaz/obsidian dragon scales, since that's what powers it?
 
 ### DM Notes
 

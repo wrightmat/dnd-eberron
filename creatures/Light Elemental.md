@@ -32,7 +32,7 @@ traits:
     desc: "The elemental sheds bright light in a 60-foot radius and dim light for an additional 60 feet. This light is sunlight."
 actions:
   - name: Multiattack.
-    desc: "The elemental makes two attacks."
+    desc: "The elemental makes two attacks, from either its Touch or Bright Shot."
   - name: Touch.
     desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) radiant damage."
   - name: Bright Shot.

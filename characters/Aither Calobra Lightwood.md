@@ -22,7 +22,7 @@ On a pilgrimage to another monastery to help the people there, Aither witnessed 
 
 ### Motivation and Goal(s)
 
-Heal people and spread the light, while fulfilling the task of investigating the obsidian dragon attack.
+Heal people and spread the light, while fulfilling the task of investigating the topaz dragon attack.
 
 ### Personal Quests
 
