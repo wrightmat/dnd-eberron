@@ -34,14 +34,14 @@ If a _moonblade_ has a flaw, it is overconfidence. Once it has decided on an o
 - **Level 3**: You have a +3 bonus to attack and damage rolls made with this magic weapon.
 
 ##### Slot 2
-- **Level 1**: The *moonblade* gains the finesse property.
-- **Level 2**: The *moonblade* gains the finesse and thrown (range 20/60 feet) properties.
-- **Level 3**: The *moonblade* gains the finesse and thrown (range 20/60 feet) properties. The first time you attack with the sword on each of your turns, you can transfer some or all of the sword’s bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.
+- **Level 1**: The *moonblade* gains the Finesse property.
+- **Level 2**: The *moonblade* gains the Thrown (range 20/60 feet) property.
+- **Level 3**: The first time you attack with the sword on each of your turns, you can transfer some or all of the sword’s bonus to your AC, instead of using the bonus on any attacks that turn. The adjusted bonuses remain in effect until the start of your next turn, while holding the sword.
 
 ##### Slot 3
-- **Level 1**: When you attack with the *moonblade* as an action, you can use a bonus action to cause the sword to cast *moonbeam* at 2nd level (1d10 radiant).
-- **Level 2**: When you attack with the *moonblade* as an action, you can use a bonus action to cause the sword to cast *moonbeam* at 3rd level (2d10 radiant).
-- **Level 3**: When you attack with the *moonblade* as an action, you can use a bonus action to cause the sword to cast *moonbeam* at 4th level (3d10 radiant).
+- **Level 1**: When you attack with the *moonblade* as an action, you can use a bonus action to cause the sword to cast *moonbeam* at 2nd level (1d10).
+- **Level 2**: When you attack with the *moonblade* as an action, you can use a bonus action to cause the sword to cast *moonbeam* at 3rd level (2d10).
+- **Level 3**: When you attack with the *moonblade* as an action, you can use a bonus action to cause the sword to cast *moonbeam* at 4th level (3d10).
 
 ### References
 
