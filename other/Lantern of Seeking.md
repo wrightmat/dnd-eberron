@@ -4,7 +4,7 @@ _Wondrous item, uncommon_
 
 This hooded lantern glows with magical light, and requires no fuel. Any wielder of the lantern can use an action to activate it, causing it to shed bright light in a 30-foot-radius and dim light for an additional 30 feet.
 
-When an appropriate command word is spoken, and certain types of creatures are within 300 feet of the lantern, its flame flickers with different colors, as indicated in the table below. The lantern doesn't pinpoint the creature's exact location, however.
+When an appropriate command word is spoken, and certain types of creatures are within 300 feet of the lantern, its flame flickers with different colors, as indicated below. The lantern doesn't pinpoint the creature's exact location, however.
 
 | d10 | Creature Type | Color   | Command   |
 | --- | ------------- | ------- | --------- |
