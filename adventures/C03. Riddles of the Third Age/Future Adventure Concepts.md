@@ -37,6 +37,11 @@ Tailored to Aither and/or Staff, and also a way to get to Argonnessen without be
 
 * Final adventure where the players confront the topaz dragons and try to prevent their ritual to release Tiamat.
 * BBEG: Ancient Topaz Dragon (CR 20), with modifications, used for [[Arstyvrax]].
+* Final Battle:
+	* Part 1: Topaz dragons, probably as a swarm
+	* Part 2: Arstyvrax, who then flies off after completing the first half of his ritual
+	* Part 3: Avatar of Tiamat, who appears as sort of a shadow of the Overlord as the ritual works to finish her release
+	* Part 4: Arstyvrax, who returns to finish off his ritual, and the players!
 * Monsters: Gem Stalker (FtoD), Andrenjinyi (ToB1), Haugbui (ToB1)
 
 ### Magic Items
