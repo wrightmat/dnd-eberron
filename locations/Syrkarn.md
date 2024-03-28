@@ -20,7 +20,7 @@ Though the climate and the isolated life of this land are never easy, the coasta
 
 ### Characters
 
-* **Gerazan Sandaili** (NG male human sorceror). Sahar of Nderitese, and therefore leader of the region. He is known is his psionic abilities.
+* **Gerazan Sandaili** (NG male human sorceror). Sahar of Nderitese, and therefore leader of the region. He is known for his psionic abilities.
 * **Immasa** (NG female eneko bard). Chief Ambassador to the other regions of Sarlona. She has blue skin and white hair, and a fairly significant overbite, which betrays her "mongrel" half-giant and ogre ancestry.
 * **Ky** (NN non-binary eneko cleric). A former member of the Wanderers of Twilight, Ky is one of the best sources of information on cult activity — they remain one of the few people to flee their ranks and live to tell about it. Can generally be found in Nderitese or Ardhmen.
 * **Dalassakash'alyntar** (LG male shulassakar cleric). Servant of the Flame that Binds in Nderitese.
