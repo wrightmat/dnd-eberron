@@ -36,7 +36,7 @@ If a _moonblade_ has a flaw, it is overconfidence. Once it has decided on an o
 ##### Slot 2
 - **Level 1**: The *moonblade* gains the Finesse property.
 - **Level 2**: The *moonblade* gains the Thrown (range 20/60 feet) property.
-- **Level 3**: The first time you attack with the sword on each of your turns, you can transfer some or all of the sword’s bonus to your AC, instead of using the bonus on any attacks that turn. The adjusted bonuses remain in effect until the start of your next turn, while holding the sword.
+- **Level 3**: The first time you attack with the sword on each of your turns, you can transfer some or all of the sword’s bonus to your AC, instead of using the bonus on any attacks that turn. While holding the sword, the adjusted bonuses remain in effect until the start of your next turn.
 
 ##### Slot 3
 - **Level 1**: When you attack with the *moonblade* as an action, you can use a bonus action to cause the sword to cast *moonbeam* at 2nd level (1d10).
