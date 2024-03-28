@@ -22,6 +22,10 @@ The weapon is bonded to the family line it is meant to serve. Once it has bonded
 
 If a _moonblade_ has a flaw, it is overconfidence. Once it has decided on an owner, it believes that only that person should wield it, even if the owner falls short of elven ideals.
 
+**Attack**: Melee (Reach 5ft.)
+**Damage**: 1d8 (1d10) Slashing
+**Properties**: Versatile
+
 #### Vestige Abilities
 
 ##### Slot 1

@@ -45,7 +45,7 @@ Tailored to Aither and/or Staff, and also a way to get to Argonnessen without be
 
 Best for Thana, with some tie in to her family (as a +2 weapon). Most likely, this exact sword belonged to one of her parents and is her right to wield.
 
-##### [[Dragon Claws]]
+##### [[Dragon Claws (Vestige)]]
 
 Best for Aither. When/if they get the Draakhorn and take on Megazord form, Aither is one of the hands.
 
