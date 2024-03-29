@@ -24,6 +24,8 @@ On a pilgrimage to another monastery to help the people there, Aither witnessed 
 
 Heal people and spread the light, while fulfilling the task of investigating the topaz dragon attack.
 
+Also would like to lean hard into the concept of a dragon monk!
+
 ### Personal Quests
 
  - [ ]  -
