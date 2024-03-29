@@ -23,3 +23,8 @@ As the party unravels the complex web of dragon politics and threats to the real
 ### Development
 
 Valmoc was introduced to the group when Aither spotted him following them in a crowd on their way to the lightning rail station. She confronted him, and he only told them that he was paid to watch over them and that he couldn't tell them by whom ("I'm not at liberty to say"). The group posited that he was a cop. He traveled in the same lightning rail car as them to Thrane.
+
+### References
+
+* Inspired by most of the cast of Brooklyn Nine-Nine (but especially Amy Santiago) and their dedication to their duty.
+* Also inspired by Xenk Yendar from the Dungeons & Dragons movie, as a straight-laced paladin.
