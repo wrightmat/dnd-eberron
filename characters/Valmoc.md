@@ -3,7 +3,9 @@
 Gender:: Male
 Occupation:: Traveling Guardian (for hire)
 Race:: Dragonborn
-Paralyzing Breath (silver gas)
+Subrace:: Metallic (Silver)
+Class:: Paladin
+Subclass:: Oath of the Crown
 
 Valmoc is a silver dragonborn who serves as a sort of emissary for the silver dragons and the Silver Scales organization more generally. He's sort of the opposite of a mercenary - someone who is hired to protect others. The party will encounter him somewhere as they travel, as a means to learn about the Paladin Protectors of the Realm.
 
@@ -26,5 +28,6 @@ Valmoc was introduced to the group when Aither spotted him following them in a c
 
 ### References
 
+* https://www.dndbeyond.com/characters/121650038
 * Inspired by most of the cast of Brooklyn Nine-Nine (but especially Amy Santiago) and their dedication to their duty.
 * Also inspired by Xenk Yendar from the Dungeons & Dragons movie, as a straight-laced paladin.
