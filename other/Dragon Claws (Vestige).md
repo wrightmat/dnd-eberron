@@ -17,13 +17,13 @@ The jewels and runes in these claws flare with purple light when you enter comba
 
 ##### Slot 2
 - **Level 1**: You can regain ki points equal to a roll of your Martial Arts die as an action while wearing the *dragon claws*. You can’t use this property again until you finish a long rest.
-- **Level 2**: You can regain ki points equal to a roll of your Martial Arts die as a bonus action while wearing the *dragon claws*. You can’t use this property again until you finish a long rest.
-- **Level 3**: You can regain ki points equal to a roll of your Martial Arts die as a bonus action while wearing the *dragon claws*.
+- **Level 2**: You can regain ki points equal to a roll of your Martial Arts die as an action while wearing the *dragon claws*. You can’t use this property again until you finish a short rest.
+- **Level 3**: You can regain ki points equal to a roll of your Martial Arts die as a bonus action while wearing the *dragon claws*. You can’t use this property again until you finish a short rest.
 
 ##### Slot 3
-- **Level 1**: When you hit a Dragon with this weapon, the Dragon takes an extra 1d6 force damage, and any Dragon that you can see within 30 feet of you can immediately use its reaction to make a melee attack.
-- **Level 2**: When you hit a Dragon with this weapon, the Dragon takes an extra 2d6 force damage, and one Dragon of your choice that you can see within 30 feet of you can immediately use its reaction to make a melee attack.
-- **Level 3**: When you hit a Dragon with this weapon, the Dragon takes an extra 3d6 force damage.
+- **Level 1**: When you hit a Dragon with this weapon, it takes an extra 1d6 force damage, and any Dragon that you can see within 30 feet of you can use its reaction to make a melee attack.
+- **Level 2**: When you hit a Dragon with this weapon, it takes an extra 2d6 force damage, and one Dragon of your choice that you can see within 30 feet of you can use its reaction to make a melee attack.
+- **Level 3**: When you hit a Dragon with this weapon, it takes an extra 3d6 force damage.
 
 ### References
 
