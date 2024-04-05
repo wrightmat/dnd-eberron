@@ -1,3 +1,9 @@
+---
+hp: 84
+level: 10
+ac: 18
+modifier: -1
+---
  #npc [[The Silver Scales]]
 
 Gender:: Male
