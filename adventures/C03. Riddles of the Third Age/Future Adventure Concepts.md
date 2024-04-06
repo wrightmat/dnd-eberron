@@ -3,6 +3,32 @@ The idea is to have a second set of adventures after the first prepared Sphinx a
 
 The second chapter adventures are designed to be longer, and fully follow the Five Room Dungeon format. Each should take two to three sessions, depending on how much the players explore the area surrounding and engage with NPCs. At the end of each adventure, the players will gain a level (starting at level 6 after the Sarlona and Final Lair adventure with the king), resulting in about level 15 at the end. The Ancient Topaz Dragon is CR 20, so should be a great challenge level given all of the magic items and draconic form they have access to.
 
+### Map
+
+```leaflet
+id: flamewind-map
+image: [[C03_Map.png]]
+height: 500px
+bounds:
+	- [0, 0]
+	- [5705, 2782]
+lat: -10
+long: 1
+minZoom: 1
+maxZoom: 7
+defaultZoom: 2
+unit: miles
+scale: 1.7528
+osmLayer: false
+marker:
+    - default, 20, -20, [[Khorvaire]]
+    - default, 0, 90, [[Sarlona]]
+    - default, -20, -10, [[Aerenal]]
+    - default, -50, -70, [[Xen’drik]]
+    - default, -40, 40, [[Argonnessen]]
+    - default, 50, -60, [[Frostfell]]
+```
+
 ### Adventure Concepts
 
 ##### [[2-02. Mystic Glade and Vvaraak's Cave]]

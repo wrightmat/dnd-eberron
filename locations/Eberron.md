@@ -12,7 +12,7 @@ minZoom: 1
 maxZoom: 7
 defaultZoom: 2
 unit: miles
-scale: 13.233
+scale: 3.233
 osmLayer: false
 marker:
     - default, 20, -20, [[Khorvaire]]
@@ -21,7 +21,6 @@ marker:
     - default, -50, -70, [[Xen’drik]]
     - default, -40, 40, [[Argonnessen]]
     - default, 50, -60, [[Frostfell]]
-overlay: blue, [32, -9], 250 mi, 'This is my overlay!'
 ```
 
 ### Regions
