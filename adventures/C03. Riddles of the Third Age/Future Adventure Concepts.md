@@ -11,22 +11,17 @@ image: [[C03_Map.png]]
 height: 500px
 bounds:
 	- [0, 0]
-	- [5705, 2782]
-lat: -10
-long: 1
-minZoom: 1
-maxZoom: 7
-defaultZoom: 2
+	- [17528, 8764]
+lat: 35
+long: 35
+minZoom: 5
+maxZoom: 10
+defaultZoom: 7
 unit: miles
-scale: 1.7528
-osmLayer: false
-marker:
-    - default, 20, -20, [[Khorvaire]]
-    - default, 0, 90, [[Sarlona]]
-    - default, -20, -10, [[Aerenal]]
-    - default, -50, -70, [[Xen’drik]]
-    - default, -40, 40, [[Argonnessen]]
-    - default, 50, -60, [[Frostfell]]
+scale: 850
+marker: default, -3, 8.5
+marker: default, -3.327392578125, 7.67578125
+overlay: ['#00FF00', [-3.5, 8.9]]
 ```
 
 ### Adventure Concepts
