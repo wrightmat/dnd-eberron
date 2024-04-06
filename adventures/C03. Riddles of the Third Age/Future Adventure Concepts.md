@@ -33,7 +33,7 @@ Goal is to elucidate the black dragons, Order of the Onyx Scale, and give the pa
 
 ##### [[2-03. The Storm of Speartip]]
 
-Goal is to elucidate the blue dragons, Order of the Sapphire Scale, and give the party the opportunity to gain an ally. Also where the Dragon Claws are received?
+Goal is to elucidate the blue dragons, Order of the Sapphire Scale, and give the party the opportunity to gain an ally. Also where the Dragon Claws are received.
 
 ##### [[2-04. The Legacy of the Moonblade]]
 

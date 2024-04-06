@@ -10,7 +10,7 @@ Below are details on each of the tribes. The dragons should be treated as essent
 Each of the "Orders" are essentially secret societies where the membership is generally not known. Members do wear a concealed insignia, in case they need to identify each other - a single actual dragon scale from the appropriately colored dragon.
 
 ### Summary
-| Color    | Damage             | Leader/Inspiration                              | Plane                                            | Followers/Organizations                                | Characteristics                   | Enemy  | Habitat             | Al. |
+| Color    | Damage             | Leader                                          | Plane                                            | Organization (Followers)                               | Characteristics                   | Enemy  | Habitat             | Al. |
 | -------- | ------------------ | ----------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------ | --------------------------------- | ------ | ------------------- | --- |
 | White    | Cold               | [[Kazdurakashtan]] (presumed deceased)          | Risia (Base in Everice)                          | Order of the Ivory Scale (Dragon Giants)               | Bullying, Persistent              | Silver | Arctic Mountains    | CE  |
 | Black    | Acid               | [[Moar’donn]]                                   | Mabar (Base in Shadow Marches/Droaam)            | Order of the Onyx Scale (Dragon Orcs)                  | Vile-tempered, Cruel              | Copper | Swamps              | CE  |
@@ -27,6 +27,19 @@ Each of the "Orders" are essentially secret societies where the membership is ge
 | Amethyst | Force              | [[Aleithilithos]]                               | Daanvi (Base on the Ring of Siberys)             | Scions of Sardior                                      | Detached, Peaceful                | n/a    |                     | NN  |
 
 † Arstyvrax is the one and only Obsidian Gem Dragon, whose followers are all Topaz Gem Dragons. Arstyvrax could use the Ancient Topaz Dragon or Adult Topaz Dragon (depending on desired CR) with the Vampire's additional Bite stuff, Charm action, and Vampire Weaknesses ability.
+
+### Organizations
+
+#### Orders of the Scale
+
+Each of these Orders is composed of the followers of a chromatic dragon leader. They mark their membership by wearing a small ornament made of a dragon scale from their leader somewhere on them (usually hidden), which operates mechanically as a [[Scaled Ornament]]. The ranks of each Order are roughly as follows:
+
+* Initiates wear a tiny scale of the Slumbering (Uncommon) rarity, always in the form of a badge they must wear hidden.
+* Regular members wear a small scale of the Stirring (Rare) rarity, and may wear it as they choose.
+* Lieutenants wear a small scale of the Wakened (Very Rare) rarity, generally worn as a visible badge of rank.
+* Captains wear a medium scale of the Ascendant (Legendary) rarity, always worn proudly as a badge of rank.
+
+Orders generally have one Captain, who reports directly to their Leader, and who may have one or two Lieutenants below them. The goals of the Order is always the same as the goal of the dragon faction they follow, and they serve as their workforce on the ground.
 
 ### Progression Tracts
 The tracts below are listed in the general order that the PCs are expected to encounter them†.
