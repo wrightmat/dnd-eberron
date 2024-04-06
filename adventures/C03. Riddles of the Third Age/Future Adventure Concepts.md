@@ -9,19 +9,15 @@ The second chapter adventures are designed to be longer, and fully follow the Fi
 id: flamewind-map
 image: [[C03_Map.png]]
 height: 500px
-bounds:
-	- [0, 0]
-	- [17528, 8764]
 lat: 35
 long: 35
-minZoom: 5
+minZoom: 1
 maxZoom: 10
 defaultZoom: 7
 unit: miles
 scale: 850
-marker: default, -3, 8.5
-marker: default, -3.327392578125, 7.67578125
-overlay: ['#00FF00', [-3.5, 8.9]]
+marker: default, -3, 8.5, [[2-01. Stygianos the Carrion Sphinx]]
+marker: default, -3, 5.25, [[2-02. Mystic Glade and Vvaraak's Cave]]
 ```
 
 ### Adventure Concepts

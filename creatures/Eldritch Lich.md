@@ -47,7 +47,6 @@ actions:
 reactions:
   - name: Far Realm Step.
     desc: "Immediately after taking damage, the lich, along with any equipment it is wearing or carrying, magically teleports up to 60 feet to an unoccupied space it can see."
-reactions:
 ```
 
 ### Description
