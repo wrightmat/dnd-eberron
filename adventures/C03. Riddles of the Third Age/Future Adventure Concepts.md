@@ -16,8 +16,13 @@ maxZoom: 10
 defaultZoom: 7
 unit: miles
 scale: 850
-marker: default, -3, 8.5, [[2-01. Stygianos the Carrion Sphinx]]
-marker: default, -3, 5.25, [[2-02. Mystic Glade and Vvaraak's Cave]]
+marker: default, -3.00, 8.50, [[2-01. Stygianos the Carrion Sphinx]]
+marker: default, -3.00, 5.25, [[2-02. Mystic Glade and Vvaraak's Cave]]
+marker: default, -1.83, 9.33, [[2-03. The Storm of Speartip]]
+marker: default, -5.05, 7.24, [[2-04. The Legacy of the Moonblade]]
+marker: default, -2.91, 6.46, [[2-05. Echoes of the Celestial Realm]]
+marker: default, -3.29, 7.55, [[2-06. The Draconic Phylactery]]
+marker: default, -3.98, 7.20, [[2-07. Labyrinth of the Lantern's Light]]
 ```
 
 ### Adventure Concepts
