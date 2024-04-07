@@ -1,8 +1,9 @@
+---
+gender: Female/Variable
+race: Archfey
+occupation: Anchor Baron
+---
  #npc [[Rhaan (Thelanis)]]
-
-Gender:: Female/Variable
-Occupation:: Anchor Baron
-Race:: Archfey
 
 The Lady in Shadow is the witch who stands outside society, possessing dangerous knowledge and power. She curses those who offend her or steal her things, but her knowledge can be quite valuable — if she is approached with care.
 

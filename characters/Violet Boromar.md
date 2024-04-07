@@ -1,9 +1,10 @@
+---
+gender: Female
+race: Halfling
+occupation: Smuggling Showrunner
+attitude: Hostile
+---
  #npc [[The Cogs]]
-
-Attitude:: Hostile
-Gender:: Female
-Occupation:: Smuggling Showrunner
-Race:: Halfling
 
 Violet Boromar is a recent graduate from Morgrave University, focusing on business and economics. Her uncle Bartok paid for her school and is now bringing her on to be his showrunner for the smuggling he does. Violet’s hard work has led to her carrying the business on her shoulders, while Bartok drinks and entertains his guests.
 

@@ -3,15 +3,14 @@ level: 5
 hp: 46
 ac: 17
 modifier: 1
+gender: Female
+race: Elf
+class: Cleric
+subclass: Grave Domain
+alignment: Lawful Good
+campaign: "[[C03. Riddles of the Third Age]]"
 ---
  #pc [[Alex Kelsch]]
-
-* **Alignment**:: Lawful Good
-* **Class**:: Cleric
-* **Subclass**:: Grave Domain
-* **Gender**:: Female
-* **Pronouns**:: she/her
-* **Race**:: Elf (Dhampir)
 
 Spiritual Weapon: Necrotome (ancient Egyptian embalming tool)
 https://www.pagepressjournals.org/index.php/jbr/article/download/10173/9640

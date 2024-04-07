@@ -3,15 +3,15 @@ level: 10
 hp: 95
 ac: 15
 modifier: 1
+gender: Male
+race: Human
+class: Barbarian
+subclass: Storm Herald
+alignment: Lawful Good
+campaign: "[[C01. What Dreams May Come]]"
+pronouns: he/him
 ---
  #pc [[Kerrie Heath]] [[Zarantryr (Kythri)]] [[Therendor (Syrania)]]
-
-* **Alignment**:: Lawful Good
-* **Class**:: Barbarian
-* **Subclass**:: Storm Herald
-* **Gender**:: Male
-* **Pronouns**:: he/him
-* **Race**:: Human
 
 ### Backstory
 

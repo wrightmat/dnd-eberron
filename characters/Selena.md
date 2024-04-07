@@ -4,22 +4,16 @@ hp: 45
 ac: 15
 modifier: 3
 gender: Female
-race: 
-class: 
-subclass: 
-alignment:
+race: Human
+class: Monk
+subclass: Way of Mercy
+alignment: Lawful Neutral
+pronouns: she/her
+ideal: A special care for people who are less fortunate.
+bond: The need to revive her dead house (family).
+flaw: Sometimes her royal attitude (snootiness) shows through.
 ---
  #pc [[Claire Elrod]]
-
-* **Alignment**:: Lawful Neutral
-* **Class**:: Monk
-* **Subclass**:: Way of Mercy
-* **Gender**:: Female
-* **Pronouns**:: she/her
-* **Race**:: Human
-* **Ideal**: A special care for people who are less fortunate.
-* **Bond**: The need to revive her dead house (family).
-* **Flaw**: Sometimes her royal attitude (snootiness) shows through.
 
 ### Backstory
 

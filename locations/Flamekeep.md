@@ -10,6 +10,7 @@ location: "[28.72913, -19.610596]"
 ### Characters
 
 * **Nystrum Shadar** (LN male human minister). Minister Nystrum Shadar answers directly to the Council of Cardinals, but does share information with Queen Diani ir'Wynarn — why this is, isn't entirely clear. He is a well-known retired army general, but most Thranes assume he's living a life of quiet retirement after the Last War.
+* **Seltern Obranch** (male human cleric). Seltern Obranch, a Cleric minister of the Silver Flame, was in the Ministers’ Wing when the Tarnished Templar attacked the Cathedral.  The party set him on fire while trying to avoid Crimson Shades in the Ministers’ Wing, but somehow they convinced him that they didn't know what happened so he doesn't know. He wasn’t permanently damaged from the fire.
 
 ### Locations
 

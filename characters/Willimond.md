@@ -3,17 +3,17 @@ level: 8
 hp: 51
 ac: 11
 modifier: 1
+gender: Male
+race: Tiefling
+class: Bard
+alignment: Lawful Good
+ideal: Love (a hopeless romantic), Belonging, Superstition
+bond: Deeply loves and cares for the dearly departed Kavya and is looking for a way to bring her back.
+flaw: Fearful and insecure (struggles to be assertive and establish boundaries, especially toward the spirits who haunt him), Freezes under stress.
+campaign: "[[C02. Curse of Strahd (Abridged)]]"
+pronouns: he/him
 ---
  #pc [[Alex Kelsch]]
-
-* **Alignment**:: Lawful Good
-* **Class**:: Bard
-* **Gender**:: Male
-* **Pronouns**:: he/him
-* **Race**:: Tiefling
-* **Ideal**:: Love (a hopeless romantic), Belonging, Superstition
-* **Bond**:: Deeply loves and cares for the dearly departed Kavya and is looking for a way to bring her back.
-* **Flaw**:: Fearful and insecure (struggles to be assertive and establish boundaries, especially toward the spirits who haunt him), Freezes under stress.
 
 ### Backstory
 

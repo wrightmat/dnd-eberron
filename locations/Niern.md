@@ -9,6 +9,8 @@ The small village of Niern, just west of Delethorn, is an unlikely alliance of d
 
 ### Characters
 
+* **Rhak Mohani** (male orc druid). Has been protecting this region for uncountable years as a member of the [[Gatekeepers]]. Rhak believes that The Gloaming is a danger to the surrounding region and is even slowly expanding. He knows the most about The Gloaming, but from written histories, not from personal experience. Rhak also serves as the druidic advisor to Delethorn, although he prefers to spend most of his time in Niern.
+* **Taog Ennisi** (male human druid). Middle-aged Children of Winter druid who moved to the region about a decade ago to study The Gloaming - he believes it is a sign of things to come and considers this a holy place. He is familiar with Mabar and can answer any questions as needed. The [[Children of Winter]] are a small druidic sect who embrace death and decay as part of the natural cycle of life.
 * **Saneri** (female half-orc shopkeeper). An older woman who was born in Niern long ago, and whose parents were killed in the Last War.
 
 ### Locations

@@ -1,8 +1,10 @@
+---
+gender: Female
+race: Celestial
+occupation: Dark Power
+image: "![https://i.pinimg.com/originals/fb/d1/01/fbd1018b20cb300a1a55a1167f3700aa.jpg](https://i.pinimg.com/originals/fb/d1/01/fbd1018b20cb300a1a55a1167f3700aa.jpg)"
+---
  #npc [[Sypheros (Mabar)]]
-
-Gender:: Female
-Occupation:: Dark Power
-Race:: Celestial
 
 At the center of the Last Desert lies a massive tomb-palace. Its style suggests the architecture of Aerenal, but it’s grander than even the City of the Dead. This is the fortress of the Queen of All Tears, the Dark Power of this domain. The Queen is an embodiment of misery, and her subjects are largely incorporeal undead, shadows and wraiths from the barren sand. Meanwhile, cruel specters and banshees attend the Queen, along with succubi and incubi who bask in the delicious misery that suffuses the region. The Queen herself takes the form of a mummified corpse, enshrouded by a spectral image of a beautiful elf woman. The suffering of others is her mead, and her only pleasure is the slow torment of the hostages in her Hinterland fragments.
 

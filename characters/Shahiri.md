@@ -3,16 +3,16 @@ level: 3
 hp: 32
 ac: 14
 modifier: 2
+gender: Female
+race: Tiefling
+class: Barbarian
+subclass: Path of the Beast
+alignment: Neutral Good
+background: Soldier
+pronouns: she/her
+campaign: "[[C03. Riddles of the Third Age]]"
 ---
  #pc [[Claire Elrod]]
-
-* **Alignment**:: Neutral Good
-* **Class**:: Barbarian
-* **Subclass**:: Path of the Beast
-* **Gender**:: Female
-* **Pronouns**:: she/her
-* **Race**:: Tiefling
-* **Background**:: Soldier
 
 ### Backstory
 

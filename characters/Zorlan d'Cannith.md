@@ -1,3 +1,7 @@
+---
+gender: 
+race:
+---
  #npc [[Korth]]
 
 Gender:: Male

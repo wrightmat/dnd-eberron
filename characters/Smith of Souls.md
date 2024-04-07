@@ -1,8 +1,9 @@
+---
+gender: Female
+race: Celestial
+occupation: Architect
+---
  #npc [[Aryth (Dolurrh)]]
-
-Gender: Female
-Occupation: Architect
-Race: Celestial
 
 The immortal spirit known as the Smith of Souls refines the essence of faded spirits and creates things out of this husksteel. The Smith forges the armor and weapons of the shadar-kai, and creates the maruts from the husks of brave souls. She also creates smaller and stranger items from husksteel.
 

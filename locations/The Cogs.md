@@ -7,6 +7,8 @@ Few people with any choice live in the Cogs. Those who work in the foundries usu
 ### Characters
 
 * **Antos Keldoran** (N male dwarf). Runs a small smithy in Ashblack, where he produces high-quality metal arms and armor.
+* **Shaz** (CN male goblin bandit captain). Leader of The Rats.
+* **Zathara** (male rakshasa). A rakshasa of the Lords of Dust. He hides in an abandoned wizard's keep at Kyber's Gate in Sharn along with fellow member Nethatar. The wizard's keep is known as The Workshop of Tyrial Dashar.
 
 ### Locations
 

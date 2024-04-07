@@ -1,12 +1,13 @@
+---
+gender: Female
+race: Dragon
+subrace: Metallic (Silver)
+occupation: Faction Leader, Protector of Sharn
+alignment: Lawful Good
+---
  #npc [[Draconic Factions]] [[The Silver Scales]]
 
-Gender:: Female
-Race:: Dragon
-Subrace:: Metallic (Silver)
-Alignment:: Lawful Good
-Occupation:: Protector of Sharn
-
-"It's my duty as a member of an elder species to protect and guide other peoples."
+>"It's my duty as a member of an elder species to protect and guide other peoples."
 
 Yllosavax is the leader of the Silver Scales, Paladin Protectors of the Realm.
 

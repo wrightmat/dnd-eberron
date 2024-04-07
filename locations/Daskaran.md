@@ -11,12 +11,15 @@ It was once the capital of the nation of Thrane. However, in 696 YK, a great fir
 
 A statue of Tira Miron in Daskaran stands between the Temples of Dol Arrah and the Silver Flame. The statue is notable, other than its artistic quality, for actually being part of a large sundial, the entire statue being the gnomon, with the shadow of Tira Miron's sword indicating the hour.
 
-#### Notable Locations
+### Characters
 
-* Temple of Dol Arrah
-* Temple of the Silver Flame
-* Statue of Tira Miron
-* Under the Flame Orphanage
+* **Vatalya** (female human). Has a twisted, nihilistic view of the world, one that corrupted her view of the Flame. She considers a life not devoted to battling evil and excess to be a wasted one, and that things like pleasure and love are barriers to true purity. She espouses honesty, martial prowess, and intolerance for the impure. She runs the Under the Flame Orphanage.
+
+### Locations
+
+* **Temple of Dol Arrah**
+* **Temple of the Silver Flame**
+* **Statue of Tira Miron**
 
 #### Under the Flame Orphanage
 

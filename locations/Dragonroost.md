@@ -15,7 +15,10 @@ Today, the city is managing an influx of Cyran refugees who weren't comfortable 
 
 ### Characters
 
-* **Jose Davandi** (female gnome). Jose manages and maintains Trader’s Alley in Dragonroost, Zilargo. Her friends just call her “Trader Jose”.
+* **Jose Davandi** (female gnome commoner). Jose manages and maintains Trader’s Alley in Dragonroost, Zilargo. Her friends just call her “Trader Jose”.
+* **Syla Nezzelech** (female gnome druid). Resides in a small wooden hut in the center of a manifest zone to Thelanis. Syla tends to the rare garden that has grown up in this area, with beautiful flowers and foods that bloom all year long.
+* **Torralyn Santiar** (female gnome bard). Torralyn is the proprietor of Dragonroost Inn and Tavern.
+* **Tyzian Davandi** (male gnome ranger). Tyzian runs the Dragonroost Ranch in the town of the same name. While he takes great care of the animals, he’s also secretly using them to gather information to pass on to The Trust.
 
 ### Locations
 

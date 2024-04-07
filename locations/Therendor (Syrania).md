@@ -19,6 +19,7 @@ Syrania encourages communication and negotiation, and grants all creatures the g
 ### Characters
 
 * **[[Castiel]]** (male angel solar). Castiel is the leader of the Solar City in Syrania, essentially the mayor of the city and definitely the most powerful angel in the plane.
+* **Vyrael** (male angel). The Ashen Sword, Eighth among the Burning Host of Syrania. Vyrael is stationed as the guardian of a permanent portal between Syrania and Sharn, the City of Towers.
 * **Ashe** (female angel). The angelic barkeep Ashe offers warm drinks around the fireplace at First Hearth, from which the inn takes its name.
 
 ### **Locations**

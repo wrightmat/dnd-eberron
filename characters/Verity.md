@@ -3,16 +3,16 @@ level: 5
 hp: 33
 ac: 15
 modifier: 3
+gender: Non-Binary
+race: Aasimar (Fallen)
+class: Rogue
+subclass: Arcane Trickster
+alignment: Chaotic Neutral
+background: Charlatan
+campaign: "[[C03. Riddles of the Third Age]]"
+pronouns: she/they
 ---
  #pc [[Kerrie Heath]]
-
-* **Alignment**:: Chaotic Neutral
-* **Class**:: Rogue
-* **Subclass**:: Arcane Trickster
-* **Gender**:: Non-Binary
-* **Pronouns**:: she/they
-* **Race**:: Aasimar (Fallen)
-* **Background**:: Charlatan
 
 ### Backstory
 

@@ -1,8 +1,9 @@
+---
+gender: Female/Variable
+race: Archfey
+occupation: Anchor Baron
+---
  #npc [[Rhaan (Thelanis)]]
-
-Gender:: Female/Variable
-Occupation:: Anchor Baron
-Race:: Archfey
 
 The Mother of Invention is a brilliant artisan. What she invents depends on the story; she can be an alchemist, a smith, or even a wizard devising new spells. She often creates things that solve problems, but other stories begin when she creates something that causes a problem— a metal beast that ravages the land, or a potion of immortality that doesn’t grant eternal youth. Depending on her depiction, she’s also known as the Forge Maiden.
 

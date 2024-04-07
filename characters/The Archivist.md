@@ -1,8 +1,9 @@
+---
+gender: Unknown
+race: Celestial
+occupation: Architect
+---
  #npc [[Crya (Dal Quor)]]
-
-Gender:: Unknown
-Occupation:: Architect
-Race:: Celestial
 
 The left hand of Dream, the Archivist sees to the Archive of Dreams where all dreams and nightmares ever conceived are kept.
 
