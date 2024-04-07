@@ -1,3 +1,8 @@
+---
+type: City
+region: "[[Droaam]]"
+location: "[19.508020,-42.176513]"
+---
  #location #city  [[Droaam]]
 
 Graywall is a small city in the monster nation of Droaam. It lies on a House Orien trade road leading from western Breland, and is usually a visitor's first stop when entering Droaam. It is the second-largest settlement in the region after the Great Crag, which serves as the nation's capital. Graywall is run by [[Xor'chylic]], its illithid mayor.

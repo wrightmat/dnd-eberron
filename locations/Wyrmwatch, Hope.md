@@ -1,30 +1,31 @@
 ---
-Type: Town
-Region: "[[Q’barra]]"
-Ruler: Elder Wedon Nevillom
-Image: "![https://static.wikia.nocookie.net/eberron/images/7/7a/4E_Qbarra.jpg|250](https://static.wikia.nocookie.net/eberron/images/7/7a/4E_Qbarra.jpg)"
+type: Town
+region: "[[Q’barra]]"
+ruler: Elder Wedon Nevillom
+image: "![https://static.wikia.nocookie.net/eberron/images/7/7a/4E_Qbarra.jpg|250](https://static.wikia.nocookie.net/eberron/images/7/7a/4E_Qbarra.jpg)"
+location: "[15.36895, 0.054932]"
 ---
  #location #village [[Q’barra]]
 
 > [!infobox]
 > # `=this.file.name`
-> `=this.Image`
+> `=this.image`
 > ###### Geography
 > |  |  |
 > | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Region** | `=this.Region` |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
 > ###### Politics
 > |  |  |
 > | ---- | ---- |
-> | **Government** | `=this.Government` |
-> | **Ruler** | `=this.Ruler` |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
 > | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
-> `=this.Comments`
+> `=this.comments`
 
 Refugees of the Last War have found themselves in a region known as Hope located in the southwest of Q'barra. Here, Elder Nevillom, a veteran of the Last War, acts as nominal leader over the community of refugees. Wyrmwatch is the most established city of this area, having existed for about three years.
 

@@ -1,4 +1,9 @@
- #city [[Thrane]]
+---
+type: City
+region: "[[Thrane]]"
+location: "[31.297328,-21.060791]"
+---
+ #location #city [[Thrane]]
 
 The large town of Daskaran lies in the foothills of the Starpeaks Mountains.
 

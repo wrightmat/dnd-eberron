@@ -1,3 +1,8 @@
+---
+type: City
+region: "[[Zilargo]]"
+location: "[4.171115, -24.543457]"
+---
  #location #city [[Zilargo]]
 
 Korranberg is the city of truth and knowledge, its library the best collection of knowledge outside of Argonessen. House Sivis calls Korranberg home, maintaining its largest enclave in the city. The Korranberg Chronicle is produced here, independently owned by the Jarell clan.

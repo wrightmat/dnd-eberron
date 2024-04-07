@@ -1,5 +1,7 @@
 ---
-renown: 2
+type: Village
+location: "[15.496032, -21.730957]"
+region: "[[Breland]]"
 ---
  #location #village [[Breland]]
 

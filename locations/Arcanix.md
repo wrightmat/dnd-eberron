@@ -1,11 +1,13 @@
 ---
-renown: 3
+type: Village
+region: "[[Aundair]]"
+location: "[25.065697, -31.300049]"
 ---
  #location #village [[Aundair]]
 
 > As you soar upward, you see four castles, each floating on a rocky island thousands of feet above the verdant fields of Aundair. Each castle is a crazy-quilt of different architectural styles, each more outlandish than the last. Periodic flashes of light illuminate the windows, and every so often a gout of flame or eldritch energy bursts forth from a door or chimney.
 
-Arcanix is an institute of arcane studies located on the shores of Lake Galifar. Many of the greatest wizards of old learned their craft within the Floating Towers of Arcanix. Raulo ir’Trannick is the lord mayor of Arcanix and a member of the Arcane Congress which is the local government responsible for the University and the surrounding village.
+Arcanix is an institute of arcane studies located on the shores of Lake Galifar. Many of the greatest wizards of old learned their craft within the Floating Towers of Arcanix. [[Raulo ir’Trannick]] is the lord mayor of Arcanix and a member of the Arcane Congress which is the local government responsible for the University and the surrounding village.
 
 Most of the important wizards and sorcerers of Khorvaire reside in Arcanix. Tower students and professors are renowned for both their abstract magical theory as well as practical spellcasting. Being the largest and most famous University in Eberron, the Floating Towers offers instruction in any form of magical application that one can imagine and pursues groundbreaking research that promises to shape the future.
 
@@ -13,12 +15,12 @@ The Arcane Congress devotes two of the towers, Glarehold and Amberwall, to train
 
 Arcanix is divided between four major schools that occupy the first two towers, and are each run by a head professor:
 
-| School | Head Professor | Tower |
-| --- | --- | --- |
-| Abjuration and Artificy | Miromi | Glarehold |
-| Arcana and Artifacts | Frederic | Glarehold |
-| Divination and Draconic Prophesy | Jasmine Goldwine | Amberwall |
-| Transmutation and Conjuration | Flo | Amberwall |
+| School                           | Head Professor       | Tower     |
+| -------------------------------- | -------------------- | --------- |
+| Abjuration and Artificy          | Miromi               | Glarehold |
+| Arcana and Artifacts             | [[Frederic]]         | Glarehold |
+| Divination and Draconic Prophesy | [[Jasmine Goldwine]] | Amberwall |
+| Transmutation and Conjuration    | [[Flo]]              | Amberwall |
 
 Everburning torches light every corner of the floating towers, unless a member of the Congress has a specific reason to prefer darkness. Some everburning torches burst into flame only when someone enters the room, dousing themselves instantly when the room is vacant. Others burn with strangely colored flame, adding a bluish or reddish tint to everything they illuminate. The floating towers are a quiet place; distracting noise is conducive to neither study nor political machinations. The temperature is always mild within the floating towers, no matter what is happening outside.
 

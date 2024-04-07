@@ -1,31 +1,32 @@
 ---
-Type: City
-Region: "[[Zilargo]]"
-Government: Council of Nine
-Ruler: Zunia Harun
-Image: "![https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg|300](https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg)"
+type: City
+region: "[[Zilargo]]"
+government: Council of Nine
+ruler: Zunia Harun
+image: "![https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg|300](https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg)"
+location: "[8.450639, -24.719238]"
 ---
  #location #city [[Zilargo]]
 
 > [!infobox]
 > # `=this.file.name`
-> `=this.Image`
+> `=this.image`
 > ###### Geography
 > |  |  |
 > | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Region** | `=this.Region` |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
 > ###### Politics
 > |  |  |
 > | ---- | ---- |
-> | **Government** | `=this.Government` |
-> | **Ruler** | `=this.Ruler` |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
 > | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
-> `=this.Comments`
+> `=this.comments`
 
 The smallest of the the three cities of Zilargo, Zolanberg is best known for its mines. While not as rich as the entire expanse of the Mror Holds, the mines of Zolanberg are a strategic asset to the nation. The mines come with plenty of trouble, not just from the environmental impact of mining but also the native kobolds that live in the Seawall Mountains. Zolanberg ties into Trolanport's Elemental Binding trade by providing the Khyber shards it uses.
 

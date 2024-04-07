@@ -1,25 +1,25 @@
 ---
-Type: Continent
-Region: "[[Eberron]]"
-Image: 
+type: Continent
+region: "[[Eberron]]"
+image:
 ---
 
  #location
 
 > [!infobox]
 > # `=this.file.name`
-> `=this.Image`
+> `=this.image`
 > ###### Geography
 > |  |  |
 > | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Region** | `=this.Region` |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
 > | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
-> `=this.Comments`
+> `=this.comments`
 
 
 

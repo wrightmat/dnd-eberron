@@ -1,5 +1,5 @@
 ---
-renown: 2
+location: "[19.756364, -54.349365]"
 ---
  #location #town [[Zarash’ak]]
 

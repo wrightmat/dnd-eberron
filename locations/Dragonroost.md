@@ -1,5 +1,7 @@
 ---
-renown: 1
+type: Town
+region: "[[Zilargo]]"
+location: "[10.595821, -27.015381]"
 ---
  #location #town [[Zilargo]]
 

@@ -1,33 +1,33 @@
 ---
-renown: 1
-Type: City
-Region: "[[Xen’drik]]"
-Image: "![https://static.wikia.nocookie.net/eberron/images/f/f3/Stormreach_map.jpg|250](https://static.wikia.nocookie.net/eberron/images/f/f3/Stormreach_map.jpg)"
-Ruler: Storm Lords
-Government: Aristocracy
-Demographics: "Humans 43%, gnomes 9%, half-elves\r9%, dwarves 8%, orcs and half-ores 8%, halflings 7%, elves\r6%, warforged 2%, shifters 2%, changelings 1%, other\r(drow, goblinoids, giants, kalashtar, monstrous races) 5%"
+type: City
+region: "[[Xen’drik]]"
+image: "![https://static.wikia.nocookie.net/eberron/images/f/f3/Stormreach_map.jpg|250](https://static.wikia.nocookie.net/eberron/images/f/f3/Stormreach_map.jpg)"
+ruler: Storm Lords
+government: Aristocracy
+demographics: "Humans 43%, gnomes 9%, half-elves\r9%, dwarves 8%, orcs and half-ores 8%, halflings 7%, elves\r6%, warforged 2%, shifters 2%, changelings 1%, other\r(drow, goblinoids, giants, kalashtar, monstrous races) 5%"
+location: "[-15.114553, -64.951172]"
 ---
  #location #city [[Xen’drik]]
 
 > [!infobox]
 > # `=this.file.name`
-> `=this.Image`
+> `=this.image`
 > ###### Geography
 > |  |  |
 > | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Region** | `=this.Region` |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
 > ###### Politics
 > |  |  |
 > | ---- | ---- |
-> | **Government** | `=this.Government` |
-> | **Ruler** | `=this.Ruler` |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
 > | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
-> `=this.Comments`
+> `=this.comments`
 
 Stormreach is a small frontier city nestled on the eastern coast of the Skyfall Peninsula in Xen'drik. Despite its small population, Stormreach is an important city because of its location, allowing easy docking access to travelers wishing to enter Xen'drik. The city also acts as a center for trade and commerce for all who visit the lost continent of Xen'drik. Stormreach is known by some as the "City of Dungeons" because it was built atop an ancient city from the long-lost civilization of giants.
 

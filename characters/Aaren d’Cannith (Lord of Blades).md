@@ -1,4 +1,4 @@
- #npc [[Mournland]]
+ #npc [[Mournland (Cyre)]]
 
 Gender:: Male
 Occupation:: Lord of Blades

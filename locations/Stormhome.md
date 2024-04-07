@@ -1,5 +1,7 @@
 ---
-renown: 2
+type: City
+region: "[[Aundair]]"
+location: "[37.302305, -19.218465]"
 ---
  #location #city [[Aundair]]
 

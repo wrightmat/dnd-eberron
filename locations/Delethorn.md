@@ -1,5 +1,7 @@
 ---
-renown: 4
+type: Town
+region: "[[Eldeen Reaches]]"
+location: "[27.780772, -36.848145]"
 ---
  #location #town [[Eldeen Reaches]]
 

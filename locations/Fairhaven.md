@@ -1,5 +1,7 @@
 ---
-renown: 0
+type: Capital
+region: "[[Aundair]]"
+location: "[30.647364, -25.686035]"
 ---
  #location #capital [[Aundair]]
 

@@ -1,5 +1,7 @@
 ---
-renown: 1
+type: City
+location: "[7.318882, -40.770264]"
+region: "[[Breland]]"
 cssclasses:
   - hide-embedded-h3
   - clean-embeds

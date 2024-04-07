@@ -1,4 +1,9 @@
- #location [[Aerenal]]
+---
+type: Capital
+location: "[-17.172283,-9.140625]"
+region: "[[Aerenal]]"
+---
+ #location #capital  [[Aerenal]]
 
 Shae Mordai, also known as the City of the Dead, was the seat of the Undying Court in Aerenal. The city was also the site of the largest known Irian manifest zones and it was the spiritual capital of Aerenal.
 

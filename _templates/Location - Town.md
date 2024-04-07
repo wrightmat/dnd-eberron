@@ -1,32 +1,33 @@
 ---
-Type: Continent
-Region: "[[Eberron]]"
-Government: 
-Ruler: 
-Image: 
+type: Continent
+region: "[[Eberron]]"
+government: 
+ruler: 
+image: 
+location:
 ---
 
  #location
 
 > [!infobox]
 > # `=this.file.name`
-> `=this.Image`
+> `=this.image`
 > ###### Geography
 > |  |  |
 > | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Region** | `=this.Region` |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
 > ###### Politics
 > |  |  |
 > | ---- | ---- |
-> | **Government** | `=this.Government` |
-> | **Ruler** | `=this.Ruler` |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
 > | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
-> `=this.Comments`
+> `=this.comments`
 
 ### Characters
 

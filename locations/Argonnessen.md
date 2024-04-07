@@ -1,19 +1,19 @@
 ---
-Type: Continent
-Region: "[[Eberron]]"
-Image: "![https://static.wikia.nocookie.net/eberron/images/0/08/Argonnessen.jpg/revision/latest?cb=20210104165529|250](https://static.wikia.nocookie.net/eberron/images/0/08/Argonnessen.jpg/revision/latest?cb=20210104165529)"
+type: Continent
+region: "[[Eberron]]"
+image: "![https://static.wikia.nocookie.net/eberron/images/0/08/Argonnessen.jpg/revision/latest?cb=20210104165529|250](https://static.wikia.nocookie.net/eberron/images/0/08/Argonnessen.jpg/revision/latest?cb=20210104165529)"
 ---
 
  #location #continent 
 
 > [!infobox]
 > # `=this.file.name`
-> `=this.Image`
+> `=this.image`
 > ###### Geography
 > |  |  |
 > | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Region** | `=this.Region` |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
@@ -22,7 +22,7 @@ Image: "![https://static.wikia.nocookie.net/eberron/images/0/08/Argonnessen.jpg/
 > | Sarlona | 🕓 `VIEW[round(2400 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > | Xen'drik | 🕓 `VIEW[round(4800 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
-> `=this.Comments`
+> `=this.comments`
 
 Argonnessen is a continent to the far southeast of Khorvaire and southwest of Sarlona. It is the home of dragons, the oldest civilization in the world. The continent of Argonnessen is almost totally unexplored by any race of Khorvaire, and the continent is well-protected against intruders.
 

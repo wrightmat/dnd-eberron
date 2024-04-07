@@ -2,7 +2,7 @@
 statblock: inline
 ---
 
- #npc [[Mournland]]
+ #npc [[Mournland (Cyre)]]
 
 Attitude:: Indifferent
 Gender:: Male

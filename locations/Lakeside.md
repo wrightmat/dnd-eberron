@@ -1,5 +1,7 @@
 ---
-renown: -1
+type: Town
+region: "[[Karrnath]]"
+location: "[31.690782, -2.219238]"
 ---
  #location #town [[Karrnath]]
 
