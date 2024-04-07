@@ -3,15 +3,14 @@ level: 10
 hp: 63
 ac: 15
 modifier: 4
+gender: Female
+race: Warforged
+class: Rogue, Artificer
+subclass: Phantom
+alignment: Chaotic Neutral
+pronouns: she/her
 ---
  #pc [[Claire Elrod]] [[Rhaan (Thelanis)]] [[Aryth (Dolurrh)]]
-
-* **Alignment**:: Chaotic Neutral
-* **Class**:: Rogue / Artificer
-* **Subclass**:: Phantom
-* **Gender**:: Female
-* **Pronouns**:: she/her
-* **Race**:: Warforged
 
 ### Backstory
 

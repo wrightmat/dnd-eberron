@@ -15,12 +15,12 @@ The Arcane Congress devotes two of the towers, Glarehold and Amberwall, to train
 
 Arcanix is divided between four major schools that occupy the first two towers, and are each run by a head professor:
 
-| School                           | Head Professor       | Tower     |
-| -------------------------------- | -------------------- | --------- |
-| Abjuration and Artificy          | Miromi               | Glarehold |
-| Arcana and Artifacts             | [[Frederic]]         | Glarehold |
-| Divination and Draconic Prophesy | [[Jasmine Goldwine]] | Amberwall |
-| Transmutation and Conjuration    | [[Flo]]              | Amberwall |
+| School                           | Head Professor   | Tower     |
+| -------------------------------- | ---------------- | --------- |
+| Abjuration and Artificy          | Miromi           | Glarehold |
+| Arcana and Artifacts             | Frederic         | Glarehold |
+| Divination and Draconic Prophesy | Jasmine Goldwine | Amberwall |
+| Transmutation and Conjuration    | Flo              | Amberwall |
 
 Everburning torches light every corner of the floating towers, unless a member of the Congress has a specific reason to prefer darkness. Some everburning torches burst into flame only when someone enters the room, dousing themselves instantly when the room is vacant. Others burn with strangely colored flame, adding a bluish or reddish tint to everything they illuminate. The floating towers are a quiet place; distracting noise is conducive to neither study nor political machinations. The temperature is always mild within the floating towers, no matter what is happening outside.
 
@@ -32,6 +32,7 @@ The floating towers are too vast to completely map, and such map would be out of
 
 ### Characters
 
+* **Raulo ir’Trannick** (male human wizard). Member of Arcanix's Arcane Congress, with a special role as the administrator of the school's application exams. He is also the patriarch of the noble house of Trannick and serves as lord mayor of the city of Arcanix. As his family runs a hippogriff transport business, he is known for using a hippogriff to travel between the floating towers and the ground. His family is a well-established landholding family in the region around Lake Galifar. These various titles and holdings provide ir'Trannick and his house with a great deal of prestige, and he tends to be the person who greets new wizards visiting Arcanix.
 * **Flo** (non-binary changeling professor). Changeling Transmuter, mind seeded, never uses their true identity. They possess an old tome on transmutation magic that is annotated and scribbled into by Mordain d'Phiarlan (now known by as The Fleshweaver). Often appears as:
 	- Leandre d'Vadalis, a male magebreeder looking to enhance and create new life forms.
 	- Iorek, a male Darguun Goblin Artificer wanting to find Dhakanni relics to be inspired by their designs in his creations.

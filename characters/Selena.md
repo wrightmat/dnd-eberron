@@ -3,6 +3,11 @@ level: 7
 hp: 45
 ac: 15
 modifier: 3
+gender: Female
+race: 
+class: 
+subclass: 
+alignment:
 ---
  #pc [[Claire Elrod]]
 

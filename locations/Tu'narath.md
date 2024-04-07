@@ -11,6 +11,7 @@ While none of the gith tribes get along, a well-respected man named Zetch’r’
 ### Characters
 
 * **Kel’i’lec** (female githyanki wizard/fighter). The Supreme Commander of the githyanki military. She is stationed at the Citadel of War in Tu’narath, but commands any githyanki forces who may be outside of the city, or the Ring, as well. While she technically reports to Zeth'r'r (as the Commissar) when it comes to matters of the city, the military actually holds more power and they tend to share decision making on many matters. Both of them have extreme respect for the Amethyst Dragon though.
+* **Saarys** (female githzerai). The assistant to Zetch’r’r, the Commissar of the city. She was very confused by the appearance of a group of adventurers from the planet of Eberron.
 
 ### Locations
 
