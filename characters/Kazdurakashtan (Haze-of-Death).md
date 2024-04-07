@@ -1,11 +1,12 @@
+---
+gender: Male
+race: Dragon
+subrace: Chromatic (White)
+alignment: Chaotic Evil
+---
  #npc [[Draconic Factions]] [[The Chamber]]
 
-Gender:: Male
-Race:: Dragon
-Subrace:: Chromatic (White)
-Alignment:: Chaotic Evil
-
-"I have named the wind that blows through my lair (Gusstrill) and speak to it often. It is my sole companion."
+>"I have named the wind that blows through my lair (Gusstrill) and speak to it often. It is my sole companion."
 
 Kazdurakashtan was once a Chamber agent, but he decided to go rogue in Khorvaire to aid the humanoid races like the dragon Vvaraak once did. After establishing an order of dragon giants in the frozen north of Frostfell, he settled in Cyre because of a friendship with a Cyran professor, and hoped to negotiate an end to the Last War.
 

@@ -18,7 +18,9 @@ The sweltering heat of Fernia can be deadly to unprotected creatures, and it bur
 
 ### Characters
 
-* **Brass** (dao female architect). Brass is the finest architect of the dao, and is responsible for most of the grand palaces of the efreet. She’s always intrigued by unusual architecture and has visited Sharn a few times to study the towers. She’s also celebrated for her sculptures, and has produced everything from tiny miniatures to towering colossuses, along with magical marvels that begin as the former, then transform into something far larger, like figurines of wondrous power.
+* **Phlain** (male efreeti aristocrat). Bystan’s father, who smells of brimstone, and is described as a large handsome man made almost entirely of fire. Has a deep, rolling voice that sounds like a burning bonfire. Efreet are well-muscled, have red or black skin that is always burning, and are 12 foot tall on average.
+* **Brass** (female dao architect). Brass is the finest architect of the dao, and is responsible for most of the grand palaces of the efreet. She’s always intrigued by unusual architecture and has visited Sharn a few times to study the towers. She’s also celebrated for her sculptures, and has produced everything from tiny miniatures to towering colossuses, along with magical marvels that begin as the former, then transform into something far larger, like figurines of wondrous power.
+* **Naja Ash** (female dao sculptor). Naja Ash sculpts fire, producing masterful artifacts and tools that channel or produce flame. She creates the majority of the azer, and she can create other elemental creatures, constructs, or unique blends between the two concepts. She’s the foremost expert on elemental binding in the multiverse, though it would take a great deal to convince her to share her knowledge with mortals.
 
 ### Locations
 

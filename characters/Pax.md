@@ -1,9 +1,11 @@
+---
+gender: Non-Binary
+race: Eladrin
+subrace: Autumn
+occupation: Noble
+image: "![https://cdna.artstation.com/p/assets/images/images/039/898/566/large/bx-moon-art-studio-e-young-autumn-eladrin.jpg?1627285385](https://cdna.artstation.com/p/assets/images/images/039/898/566/large/bx-moon-art-studio-e-young-autumn-eladrin.jpg?1627285385)"
+---
  #npc [[Rhaan (Thelanis)]]
-
-Gender:: Non-Binary
-Occupation:: Noble
-Race:: Eladrin
-Subrace:: Autumn
 
 Liege Pax is an Autumn Eladrin with skin the color of fresh fallen leaves and a voice like honey in warm tea. They had a brief tryst with Bystan several years ago.
 

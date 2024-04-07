@@ -1,9 +1,10 @@
+---
+gender: Female
+race: Gnome
+occupation: Noble
+attitude: Helpful
+---
  #npc [[Korranberg]]
-
-Attitude:: Helpful
-Gender:: Female
-Occupation:: Noble
-Race:: Gnome
 
 Lysse Lyrriman d'Sivis is a gnome of the Lyrriman clan of House Sivis, based in Korranberg. As matriarch of the house, she has ruled the governing High Council of House Sivis for nearly 90 years, under the title of "doyenne”.
 

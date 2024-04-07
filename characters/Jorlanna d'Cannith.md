@@ -1,8 +1,9 @@
+---
+gender: Female
+race: Human
+occupation: Baron
+---
  #npc [[Fairhaven]]
-
-Gender:: Female
-Occupation:: Baron
-Race:: Human
 
 Jorlanna d'Cannith is a baron of House Cannith. She governs Cannith West, from Fairhaven, Aundair. Jorlanna d'Cannith is a proud and attractive woman in her fifties. She is closer to the age of a matriarch than her rivals. Her claim is stronger than Merrix’s as she is the daughter of the last leader of the house's second wife, Elsabet. However, she is also considered least likely to claim the House's leadership. Though she has a strong passion for uniting the House, allies in the Twelve, and a personal magnetism, people do not trust her judgment because of her past history.
 

@@ -1,8 +1,10 @@
+---
+gender: Female
+race: Endless
+occupation: All-Mother
+image: "![https://static.wikia.nocookie.net/sandman/images/2/2f/Mother_of_the_endless.png/revision/latest?cb=20180603200054](https://static.wikia.nocookie.net/sandman/images/2/2f/Mother_of_the_endless.png/revision/latest?cb=20180603200054)"
+---
  #npc [[The Outer Darkness]]
-
-Gender:: Female
-Occupation:: All-Mother
-Race:: Endless
 
 Mother Night, also known as Entropy, is a cosmic being and the embodiment of the absolute emptiness that predates creation. She is the mother of The Endless.
 

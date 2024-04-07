@@ -3,15 +3,14 @@ level: 10
 hp: 84
 ac: 21
 modifier: 2
+gender: Female
+race: Aasimar
+class: Paladin
+subclass: Oath of Redemption
+alignment: Lawful Good
+pronouns: she/her
 ---
  #pc #npc  [[Sara Edwards]] [[Ring of Siberys]] [[Therendor (Syrania)]] [[Church of the Silver Flame]]
-
-* **Alignment**:: Lawful Good
-* **Class**:: Paladin
-* **Subclass**:: Oath of Redemption
-* **Gender**:: Female
-* **Pronouns**:: she/her
-* **Race**:: Aasimar
 
 ### Backstory
 

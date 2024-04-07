@@ -18,6 +18,7 @@ Risia is bitterly cold, and unprotected creatures quickly succumb to the deadly 
 
 ### Characters
 
+* **Lindvuf** (male frost giant). A Frost Giant who lives on the moon Dravago.
 * **Garagai** (male frost giant). Frost Giant who has laid claim to the Frozen Sea.
 
 ### Locations

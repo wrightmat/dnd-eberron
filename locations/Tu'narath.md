@@ -8,6 +8,10 @@ While none of the gith tribes get along, a well-respected man named Zetch’r’
 
 ![https://daemonsanddeathrays.files.wordpress.com/2021/12/b2798-treasurepl1.jpg](https://daemonsanddeathrays.files.wordpress.com/2021/12/b2798-treasurepl1.jpg)
 
+### Characters
+
+* **Kel’i’lec** (female githyanki wizard/fighter). The Supreme Commander of the githyanki military. She is stationed at the Citadel of War in Tu’narath, but commands any githyanki forces who may be outside of the city, or the Ring, as well. While she technically reports to Zeth'r'r (as the Commissar) when it comes to matters of the city, the military actually holds more power and they tend to share decision making on many matters. Both of them have extreme respect for the Amethyst Dragon though.
+
 ### Locations
 
 #### Merchant District

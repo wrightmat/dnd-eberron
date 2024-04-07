@@ -1,10 +1,12 @@
+---
+gender: Female
+race: Human
+class: Fighter (Champion), Artificer
+occupation: Artificer, Adventurer
+attitude: Indifferent
+image: "![https://cdn.mos.cms.futurecdn.net/d8E5VoABThfcgw7SBVanVf.jpg](https://cdn.mos.cms.futurecdn.net/d8E5VoABThfcgw7SBVanVf.jpg)"
+---
  #npc 
-
-Attitude:: Indifferent
-Gender:: Female
-Occupation:: Artificer / Adventurer
-Race:: Human
-Class:: Artificer
 
 Lei d'Cannith is an artificer for a team of ex-Cyran soldiers turned adventurers. A dragonmark heir, Lei is the daughter of Aleisa and Talin d'Cannith. She is secretly in love with the team's leader, Daine and she also considers the group's warforged ranger, Pierce, her brother.
 

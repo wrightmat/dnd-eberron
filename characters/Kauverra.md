@@ -1,12 +1,13 @@
+---
+gender: Female
+race: Dragon
+subrace: Metallic (Copper)
+occupation: Faction Leader, Hotelier
+alignment: Chaotic Neutral
+---
  #npc [[Draconic Factions]]
 
-Gender:: Female
-Race:: Dragon
-Subrace:: Metallic (Copper)
-Alignment:: Chaotic Neutral
-Occupation:: Hotelier
-
-"I admire how brightly short-lived creatures shine before their lights go out."
+>"I admire how brightly short-lived creatures shine before their lights go out."
 
 Kauverra is the leader of the Copper Dragons, and runs the Copper Dragon Hotel and Resort in Aerenal.
 

@@ -7,6 +7,10 @@ location: "[28.72913, -19.610596]"
 
 > From afar, Flamekeep resembles a gigantic fortress enclosed by high walls, its buildings perched atop a rocky plinth surrounded on all sides by a water-filled crevasse. Deep within this crevasse sits the city's bustling harbor and more crowded districts. The magnificent Cathedral of the Silver Flame, its white alabaster walls agleam, surmounts the rocky plinth - a glorious beacon visible for miles in every direction. West of the Cathedral rise the slender spires of Thalingard, the ancestral home of Thrane's kings. Unlike the Cathedral, the royal palace is sculpted from gray rock and looks somewhat glum by comparison. To the east of the Cathedral lies a relatively simple stone Temple of the Sovereign Host. Lightning Rail stations, an academic district, and a commercial district dot the areas around the Cathedral.
 
+### Characters
+
+* **Nystrum Shadar** (LN male human minister). Minister Nystrum Shadar answers directly to the Council of Cardinals, but does share information with Queen Diani ir'Wynarn — why this is, isn't entirely clear. He is a well-known retired army general, but most Thranes assume he's living a life of quiet retirement after the Last War.
+
 ### Locations
 
 ![https://wrightmat.github.io/dnd-eberron/_img/flamekeep.png|800](https://wrightmat.github.io/dnd-eberron/_img/flamekeep.png)

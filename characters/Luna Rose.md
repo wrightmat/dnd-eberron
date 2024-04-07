@@ -3,18 +3,17 @@ level: 7
 hp: 45
 ac: 14
 modifier: 1
+gender: Female
+race: Shadar-kai
+class: Druid
+subclass: Circle of the Moon
+alignment: Neutral
+pronouns: she/her
+ideal: People. I'm committed to the people I care about, not ideals.
+bond: I will do anything to protect nature.
+flaw: I am suspicious of strangers and expect the worst of them.
 ---
  #pc [[Jolene Harper]]
-
-* **Alignment**:: Neutral
-* **Class**:: Druid
-* **Subclass**:: Circle of the Moon
-* **Gender**:: Female
-* **Pronouns**:: she/her
-* **Race**:: Shadar-kai
-* **Ideal**:: People. I'm committed to the people I care about, not ideals.
-* **Bond**:: I will do anything to protect nature.
-* **Flaw**:: I am suspicious of strangers and expect the worst of them.
 
 ### Backstory
 

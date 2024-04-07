@@ -1,13 +1,12 @@
 ---
 statblock: inline
+gender: Male
+race: Half-Orc
+occupation: Salvager
+attitude: Indifferent
 ---
 
  #npc [[Mournland (Cyre)]]
-
-Attitude:: Indifferent
-Gender:: Male
-Occupation:: Salvager
-Race:: Half-Orc
 
 Ikar the Black is the half-orc leader of Ikar's Salvage, a team of mercenaries and laborers (including warforged and Karrnathi undead). Ikar's Salvage searches the Mournland for lost treasures, selling former Cyran equipment. He was once a decorated Karrnathi officer during the Last War.
 
@@ -68,3 +67,5 @@ reactions:
   - name: Parry.
     desc: "Ikar adds 3 to his AC against one melee attack that would hit him. To do so, Ikar must see the attacker and be wielding a melee weapon."
 ```
+
+### References

@@ -13,6 +13,10 @@ Lacking the size or stature to gain representation in the Triumvirate, Dragonroo
 
 Today, the city is managing an influx of Cyran refugees who weren't comfortable with the constant reminder of loss that is New Cyre. As with Zolanberg, the gnomes have been more than hospitable, but not all the refugees have adapted to the rules of Zilargo. The Trust has done its best to keep things in line, but not every refugee is comfortable with the discreet and preemptive justice enacted by the shadowy organization.
 
+### Characters
+
+* **Jose Davandi** (female gnome). Jose manages and maintains Trader’s Alley in Dragonroost, Zilargo. Her friends just call her “Trader Jose”.
+
 ### Locations
 
 #### The Roost Inn and Tavern

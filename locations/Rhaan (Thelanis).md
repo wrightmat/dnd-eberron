@@ -16,7 +16,11 @@ Thelanis is unpredictable, and its cardinal rule is that layers follow their own
 
 ### Characters
 
+* **[[Pax]]** (non-binary autumn eladrin noble). Liege Pax is an Autumn Eladrin with skin the color of fresh fallen leaves and a voice like honey in warm tea. They had a brief tryst with Bystan several years ago.
+* **[[Ihan de Rhaan]]** (male summer eladrin noble). Duke Ihan is the stronger member of the Summer Court, at least in the eyes of the broader Court of the Palace of the Moon, and likely would have advanced to Baron if the Summer Court had taken over as scheduled.
+* **[[Phoebe de Rhaan]]** (female summer eladrin noble). Phoebe is Ihan’s sister, and the weaker perceived member of the Summer Court.
 * **Esmeray** (female spring eladrin envoy). A member of the Spring Court and Selene’s former (and jilted) lover. She is working as an agent of Destiny to set things right by taking out Celene. While Destiny presumes that ascension would then fall back to the Summer Court, as it should, maybe Esmeray has her own ambitions for elevating the Spring Court instead?
+* **Mahsa** (female autumn eladrin noble). Lady Mahsa is a member of the Autumn Court, and Baron Selene’s current occult advisor. She allied herself with Selene in order to hold on to power and get a position in her court after she ascended to the throne. The Autumn Court previously held the throne at the Palace of the Moon, and Mahsa served as advisor to that Baron as well. Secretly, she also supported Selene because she knew that the Prince of Frost would return to claim a new Queen of Winter, and she wants to see the Palace of the Moon fall. After all, if the Autumn Court can no longer control the Palace, then why should anyone?
 
 ### Locations
 

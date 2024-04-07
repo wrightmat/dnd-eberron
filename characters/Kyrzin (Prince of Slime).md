@@ -1,8 +1,10 @@
+---
+gender: Non-Gendered
+race: Daelkyr
+occupation: Daelkyr Lord
+image: "![https://static.wikia.nocookie.net/eberron/images/d/db/Kyrzin.jpg](https://static.wikia.nocookie.net/eberron/images/d/db/Kyrzin.jpg)"
+---
  #npc [[Lharvion (Xoriat)]]
-
-Gender:: Non-Gendered
-Occupation:: Daelkyr Lord
-Race:: Daelkyr
 
 The Prince of Slime is the daelkyr lord of slime and ooze.
 

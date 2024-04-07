@@ -1,10 +1,11 @@
+---
+gender: Female
+race: Human
+occupation: Keeper of the Flame
+alignment: Lawful Good
+attitude: Helpful
+---
  #npc [[Flamekeep]]
-
-Attitude:: Helpful
-Gender:: Female
-Occupation:: Keeper of the Flame
-Alignment:: LG
-Race:: Human
 
 Jaela Daran is an eleven-year-old human girl who serves as the Keeper of the Flame, the spiritual leader of the Church of the Silver Flame. She lives in the Cathedral of the Silver Flame in Flamekeep, Thrane. She is one of the strongest clerics on Eberron, but has to stay near Flamekeep with the Silver Flame in order to receive her powers.
 

@@ -1,9 +1,11 @@
+---
+gender: Female
+race: Sea Elf
+occupation: Sea Speaker (Scout)
+attitude: Friendly
+image: "![https://www.worldanvil.com/uploads/images/177964d2bf90fbf1e25b664e052c5dc6.jpg|400](https://www.worldanvil.com/uploads/images/177964d2bf90fbf1e25b664e052c5dc6.jpg)"
+---
  #npc [[Thunder Sea]]
-
-Attitude:: Friendly
-Gender:: Female
-Occupation:: Sea Speaker (Scout)
-Race:: Sea-Elf
 
 Every Lyrandar crew includes a “sea speaker” who knows Sahuagin and Aquan. Miall serves this purpose on the Golden Dragon when they’re sailing the Thunder Sea, and returns to the Valraean Protectorate when they travel elsewhere. Miall is well known and respected among the races of the Thunder Sea, as she’s spent many decades building relationships there. Even the sahuagin respect her for questioning the ways and traditions of the Aereni.
 
