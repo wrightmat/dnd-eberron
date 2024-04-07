@@ -1,7 +1,7 @@
 ---
 type: Capital
-location: "[-17.172283,-9.140625]"
 region: "[[Aerenal]]"
+location: "[-17.172283,-9.140625]"
 ---
  #location #capital  [[Aerenal]]
 

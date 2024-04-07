@@ -1,7 +1,7 @@
 ---
 type: Castle/Fort
-location: "[24.156778, -49.064941]"
 region: "[[Droaam]]"
+location: "[24.156778, -49.064941]"
 ---
  #location #castle/fort [[Droaam]]
 

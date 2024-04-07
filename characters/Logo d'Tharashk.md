@@ -14,12 +14,9 @@ He has been a member of the Clifftop Guild for most of his life, due to his fami
 Played by: Samuel L. Jackson?
 
 
-**Name**:: Logo
 **Type**:: Commoner
-
 **Alignment**:: LE
 **Initial Attitude**:: Indifferent
-**Gender**:: Male
 **Relationship Status**:: Single
 **Sexual Orientation**:: Heterosexual
 

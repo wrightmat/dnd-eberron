@@ -1,7 +1,14 @@
+---
+gender: Female
+race: Herengon
+occupation: Thief
+---
  #npc #pc [[Claire Elrod]] [[Aryth (Dolurrh)]]
 
-Gender:: Female
-Occupation:: Thief
-Race:: Herengon
+Also known as the “White Rabbit”, Celeste is the Herengon who now occupies Prism’s body.
 
-Also known as the “White Rabbit”, Celeste is the Herengon who now occupies Prism’s body. Would be interesting to have a White Rabbit story inspired by her. Maybe not actually her, but a descendent or something.
+### DM Notes
+
+* Would be interesting to have a White Rabbit story inspired by her. Maybe not actually her, but a descendent or something.
+
+### References

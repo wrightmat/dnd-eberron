@@ -1,7 +1,7 @@
 ---
 type: Village
-location: "[15.496032, -21.730957]"
 region: "[[Breland]]"
+location: "[15.496032, -21.730957]"
 ---
  #location #village [[Breland]]
 

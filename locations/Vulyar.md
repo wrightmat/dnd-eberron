@@ -1,4 +1,6 @@
 ---
+type: Town
+region: "[[Karrnath]]"
 location: "[26.273714, -6.899414]"
 ---
  #location #town [[Karrnath]]

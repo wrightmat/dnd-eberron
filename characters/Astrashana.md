@@ -3,15 +3,14 @@ level: 10
 hp: 62
 ac: 16
 modifier: 1
+gender: Non-Binary
+race: Kalashtar
+class: Sorcerer
+subclass: Aberrant Mind
+alignment: Chaotic Good
+pronouns: he/they
 ---
  #pc [[Alex Kelsch]] [[Crya (Dal Quor)]] [[Barrakas (Irian)]]
-
-* **Alignment**:: Chaotic Good
-* **Class**:: Sorcerer
-* **Subclass**:: Aberrant Mind
-* **Gender**:: Non-Binary
-* **Pronouns**:: he/they
-* **Race**:: Kalashtar
 
 ### Backstory
 

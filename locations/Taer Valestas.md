@@ -1,4 +1,6 @@
 ---
+type: Capital
+region: "[[Valenar]]"
 location: "[10.628216, -4.581299]"
 ---
  #location #capital [[Valenar]]

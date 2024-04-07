@@ -1,3 +1,4 @@
+
 ### Encounters
 Tables taken from https://5e.tools/encountergen.html
 

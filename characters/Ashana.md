@@ -1,8 +1,10 @@
+---
+gender: Female
+race: Quori
+occupation: Archivist
+Image: "![https://static.wikia.nocookie.net/eberron/images/6/63/Hashalaq-quori.png|400](https://static.wikia.nocookie.net/eberron/images/6/63/Hashalaq-quori.png)"
+---
  #npc [[Crya (Dal Quor)]]
-
-Gender:: Female
-Occupation:: Archivist
-Race:: Quori
 
 Ashana, Astra’s patron hashalaq Quori, is an archivist with the Archive of Dreams on Dal Quor. She focuses on archival of dreams and nightmares that relate to music.
 

@@ -1,7 +1,7 @@
 ---
 type: Castle/Fort
-location: "[12.843938, -24.719238]"
 region: "[[Darguun]]"
+location: "[12.843938, -24.719238]"
 ---
  #location #castle/fort [[Darguun]]
 

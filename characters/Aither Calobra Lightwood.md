@@ -3,16 +3,16 @@ level: 5
 hp: 33
 ac: 16
 modifier: 4
+gender: Female
+race: Genasi
+subrace: Air
+class: Monk
+subclass: Way of Mercy
+alignment: Neutral
+background: Street Urchin
+pronouns: she/her
 ---
  #pc [[Sara Edwards]]
-
-* **Alignment**:: Neutral
-* **Class**:: Monk
-* **Subclass**:: Way of Mercy
-* **Gender**:: Female
-* **Pronouns**:: she/her
-* **Race**:: Air Genasi
-* **Background**:: Street Urchin
 
 ### Backstory
 

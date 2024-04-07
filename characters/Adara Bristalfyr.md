@@ -3,15 +3,14 @@ level: 10
 hp: 63
 ac: 13
 modifier: 5
+gender: Female
+race: Fairy
+class: Bard / Warlock
+subclass: College of Eloquence / Celestial
+alignment: Chaotic Neutral
+pronouns: she/her
 ---
  #pc [[Jolene Harper]] [[Rhaan (Thelanis)]] [[Lharvion (Xoriat)]]
-
-* **Alignment**:: Chaotic Neutral
-* **Class**:: Bard / Warlock
-* **Subclass**:: Colllege of Eloquence / Celestial
-* **Gender**:: Female
-* **Pronouns**:: she/her
-* **Race**:: Fairy
 
 ### Backstory
 

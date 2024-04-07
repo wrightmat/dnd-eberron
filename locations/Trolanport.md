@@ -1,8 +1,7 @@
 ---
-renown: 4
 type: Capital
-government: Council of Nine
 region: "[[Zilargo]]"
+government: Council of Nine
 ruler: Dora Thornwaist
 Image: "![https://static.wikia.nocookie.net/eberron/images/a/a9/Zilargo.jpg|250](https://static.wikia.nocookie.net/eberron/images/a/a9/Zilargo.jpg)"
 location: "[5.834616, -31.871338]"

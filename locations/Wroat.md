@@ -1,4 +1,6 @@
 ---
+type: Capital
+region: "[[Breland]]"
 location: "[12.608176, -36.156006]"
 ---
  #location #capital [[Breland]]

@@ -1,8 +1,9 @@
- #npc 
-
-Gender:: Male
-Occupation:: Solar
-Race:: Angel
+---
+gender: Male
+race: Angel
+occupation: Solar
+---
+ #npc [[Therendor (Syrania)]]
 
 Castiel is the leader of the Solar City in Syrania, essentially the mayor of the city and definitely the most powerful angel in the plane.
 

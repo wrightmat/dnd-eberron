@@ -1,4 +1,6 @@
 ---
+type: Town
+region: "[[Valenar]]"
 location: "[7.340675, -7.009277]"
 ---
  #location #town [[Valenar]]

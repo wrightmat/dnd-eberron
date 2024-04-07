@@ -1,8 +1,9 @@
+---
+gender: Male
+race: Warforged
+occupation: Lord of Blades
+---
  #npc [[Mournland (Cyre)]]
-
-Gender:: Male
-Occupation:: Lord of Blades
-Race:: Warforged
 
 Aaren d'Cannith was a member of House Cannith and son of Merrix d'Cannith, the creator of the warforged. Aaren advanced his father's creation by giving sapience to the warforged, a discovery that was coopted by his father. Aaren protested what he saw as the abuse and enslavement of his creations, but his pleas were ignored. In 970 YK, Aaren was excoriated — formally disinherited from House Cannith. Following his expulsion, Aaren disappeared. Officially, his fate remains a mystery, and diviners and inquisitives have found no traces of him.
 

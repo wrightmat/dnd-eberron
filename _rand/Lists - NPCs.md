@@ -1,20 +1,21 @@
-### **NPCs by Attitude**
+
+### NPCs by Attitude
 ```dataview
-LIST rows.file.link FROM #npc WHERE Attitude GROUP BY Attitude
+LIST rows.file.link FROM #npc WHERE attitude GROUP BY attitude
 ```
 
-### **NPCs by Gender**
+### NPCs by Gender
 ```dataview
-LIST rows.file.link FROM #npc WHERE Gender GROUP BY Gender
+LIST rows.file.link FROM #npc WHERE gender GROUP BY gender
 ```
 
-### **NPCs by Occupation**
+### NPCs by Occupation
 ```dataview
-LIST rows.file.link FROM #npc WHERE Occupation GROUP BY Occupation
+LIST rows.file.link FROM #npc WHERE occupation GROUP BY occupation
 ```
 
-### **NPCs by Race**
+### NPCs by Race
 ```dataview
-LIST rows.file.link FROM #npc WHERE Race GROUP BY Race
+LIST rows.file.link FROM #npc WHERE race GROUP BY race
 ```
 

@@ -1,9 +1,10 @@
+---
+gender: Male
+race: Half-Elf
+occupation: Galleon Captain
+attitude: Indifferent
+---
  #npc 
-
-Gender:: Male
-Occupation:: Captain
-Race:: Half-Elf
-Attitude:: Indifferent
 
 Captain Alistair d'Lyrandar is the captain of the luxury galleon *Golden Dragon*. While he is a high-ranking member of House Lyrandar, as his position as captain of such a high-profile vessel warrants, his prior career was somewhat rocky with several vessels suffering accidents under his command, so his management of this key commission will likely determine his ultimate status in the house. He bears the Mark of Storm. His first mate on the Golden Dragon is Lieutenant Mazzia d'Lyrandar.
 

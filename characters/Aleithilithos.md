@@ -1,11 +1,12 @@
+---
+gender: Male
+race: Dragon
+subrace: Gem (Amethyst)
+occupation: Caretaker of the Gith
+alignment: Neutral
+attitude: Helpful
+---
  #npc [[Draconic Factions]] [[Tu'narath]]
-
-Gender:: Male
-Race:: Dragon
-Subrace:: Gem (Amethyst)
-Alignment:: Neutral
-Occupation:: Caretaker of the Gith
-Attitude:: Helpful
 
 Aleithilithos, also known simply as the Caretaker (or “Lithos”), is the protector of both the Gith and the Ring of Siberys itself. He is a powerful amethyst gem dragon, who once rescued a group of Gith from their version of Eberron before it was totally rewritten by the daelkyr. He now protects the entire region in several ways:
 - Protects the Ring of Siberys, and the base that the original Gith from Eberron have created here.

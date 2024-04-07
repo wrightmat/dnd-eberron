@@ -1,10 +1,11 @@
+---
+gender: Male
+race: Dragon
+subrace: Gem (Obsidian)
+alignment: Chaotic Neutral
+occupation: Tribe Leader, Necromancer
+---
  #npc [[Draconic Factions]]
-
-Gender:: Male
-Race:: Dragon
-Subrace:: Gem (Obsidian)
-Alignment:: Chaotic Neutral
-Occupation:: Tribe Leader, Necromancer
 
 *"I am predictable only in my unpredictability."*
 

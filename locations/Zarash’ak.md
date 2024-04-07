@@ -1,4 +1,6 @@
 ---
+type: Capital
+region: "[[Shadow Marches]]"
 location: "[22.014361, -54.371338]"
 ---
  #location #capital [[Shadow Marches]]

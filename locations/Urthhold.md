@@ -1,7 +1,9 @@
 ---
+type: Town
+region: "[[Shadow Marches]]"
 location: "[19.756364, -54.349365]"
 ---
- #location #town [[Zarash’ak]]
+ #location #town [[Shadow Marches]]
 
 > Urthhold is a small coastal town that grew around a barely maintained road that connects it to the capital city of Zarash'ak. The aroma of fetid swamp mixed with sea air is all around you as you step off the dock. A couple of small buildings surround Rathkann Square in the center of town, including a shop, a meat market, and a blacksmith. Just west of town, several large stones can be seen on the horizon.
 

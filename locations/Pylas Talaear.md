@@ -1,6 +1,7 @@
 ---
+type: Town
+region: "[[Aerenal]]"
 location: "[-17.735793, -15.318319]"
-renown: 0
 ---
  #location #town [[Aerenal]]
 

@@ -16,6 +16,11 @@ Syrania encourages communication and negotiation, and grants all creatures the g
 
 **Absolute Peace**. To make an attack or cast a damaging spell, a creature must succeed on a DC 18 Wisdom saving throw. On a failed save, it doesn’t make the attack or cast the spell, but the action is lost.
 
+### Characters
+
+* **[[Castiel]]** (male angel solar). Castiel is the leader of the Solar City in Syrania, essentially the mayor of the city and definitely the most powerful angel in the plane.
+* **Ashe** (female angel). The angelic barkeep Ashe offers warm drinks around the fireplace at First Hearth, from which the inn takes its name.
+
 ### **Locations**
 
 #### The Open Sky

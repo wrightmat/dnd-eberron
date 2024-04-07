@@ -1,7 +1,7 @@
 ---
 type: Village
-location: "[27.410786, -38.397217]"
 region: "[[Eldeen Reaches]]"
+location: "[27.410786, -38.397217]"
 ---
  #location #village [[Eldeen Reaches]]
 

@@ -1,4 +1,6 @@
 ---
+type: Town
+region: "[[Breland]]"
 location: "[20.457896, -17.731934]"
 ---
  #location #town [[Breland]]
