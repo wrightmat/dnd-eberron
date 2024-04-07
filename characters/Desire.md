@@ -1,8 +1,11 @@
+---
+gender: Gender-Fluid
+race: Endless
+occupation: Brothelkeeper
+Image: "![https://i.etsystatic.com/33041549/r/il/4693a5/4157203508/il_fullxfull.4157203508_llg9.jpg|600](https://i.etsystatic.com/33041549/r/il/4693a5/4157203508/il_fullxfull.4157203508_llg9.jpg)"
+pronouns: they/them
+---
  #npc [[Barrakas (Irian)]] [[The Endless]]
-
-Gender:: Gender-fluid
-Occupation:: Brothel-Keeper
-Race:: Endless
 
 The anthropomorphic personification of wanting, craving, lust, and attraction, Desire blends in effortlessly with whatever environment they find themselves in. They attempt to seduce all they encounter with a simple question: "Can I get you something you desire?"
 

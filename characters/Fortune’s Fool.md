@@ -1,8 +1,9 @@
+---
+gender: Variable
+race: Archfey
+occupation: Anchor Baron
+---
  #npc [[Rhaan (Thelanis)]]
-
-Gender:: Variable
-Occupation:: Anchor Baron
-Race:: Archfey
 
 Fortune’s Fool is forever stumbling into a new disaster, though miraculously she invariably emerges unscathed. Her arrival usually bodes ill for those unfortunate enough to be around her, though sometimes others can profit from the chaos that follows in her wake. She sometimes appears in different forms, and embodies the trickster trope. One common form is the Trickster Cat.
 

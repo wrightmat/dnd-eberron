@@ -1,8 +1,11 @@
+---
+gender: Female
+race: Endless
+occupation: Gatekeeper
+image: "![https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf)"
+pronouns: she/her
+---
  #npc [[Aryth (Dolurrh)]] [[The Endless]]
-
-Gender:: Female
-Occupation:: Gatekeeper
-Race:: Endless
 
 Death appears as a young, attractive, slim woman of average height in her early to mid 20's. She has very plain dark skin, dark eyes, jet-black hair that she wears in a variety of styles, has a silver Eye of Horus tattooed under her left eye, and always wears a silver necklace bearing her sigil (an ankh).
 ![https://cdn.britannica.com/76/193576-050-693A982E/Eye-of-Horus.jpg|100](https://cdn.britannica.com/76/193576-050-693A982E/Eye-of-Horus.jpg)

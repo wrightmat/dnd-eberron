@@ -1,10 +1,11 @@
+---
+gender: Male
+race: Vampire (Human)
+class: Bard (formerly)
+occupation: Castellan
+alignment: Neutral Evil
+---
  #npc [[Loom Keep]] [[Blood of Vol]]
-
-Gender:: Male
-Occupation:: Castellan
-Race:: Vampire (Human)
-Class:: Bard (formerly)
-Alignment:: Neutral Evil
 
 Escher Belasco is a flirtatious and enigmatic vampire and former consort of Strahd von Zarovich. Originally from the Village of Barovia in the nation of Barovia, he resided in Castle Ravenloft for some time, before coming to Eberron. He now maintains dominions over Loom Keep in Karrnath.
 

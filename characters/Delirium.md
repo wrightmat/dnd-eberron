@@ -1,7 +1,10 @@
+---
+gender: Female
+race: Endless
+image: "![https://static.wikia.nocookie.net/character-level/images/b/bd/Delirium.png](https://static.wikia.nocookie.net/character-level/images/b/bd/Delirium.png)"
+pronouns: she/her
+---
  #npc [[Lharvion (Xoriat)]] [[The Endless]]
-
-Gender:: Female
-Race:: Endless
 
 Also known as Ysgithyrwyn, Delirium is a celestial who became the first of what is now known as the daelkyr lords. She created the other daelkyr lords and now rules the plane of Xoriat.
 

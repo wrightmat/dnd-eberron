@@ -16,4 +16,12 @@ Risia is bitterly cold, and unprotected creatures quickly succumb to the deadly 
 
 **Stillness of Flesh**. Time passes at the same pace as on the Material Plane, and is consistent across its layers. However, the passage of time has no effect on a mortal creature’s body, and creatures don’t age or grow while in Risia. Exhaustion, starvation, and disease merely reduce a creature to 0 hit points, and don’t immediately kill it. Dwarves are immune to this property’s effects, and in Risia they can grow, age, and die, just as they would on the Material Plane.
 
+### Characters
+
+* **Garagai** (male frost giant). Frost Giant who has laid claim to the Frozen Sea.
+
+### Locations
+
+
+
 ![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/mtCloOmcIF3tvkVugrMUqpw8NdcP4lxMXVFka0WX.png](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/mtCloOmcIF3tvkVugrMUqpw8NdcP4lxMXVFka0WX.png)

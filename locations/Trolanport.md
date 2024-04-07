@@ -38,12 +38,12 @@ Trolanport is a center of trade for Khorvaire and one of the major departure por
 
 ### Characters
 
-* **Dora Thornwaist** (female gnome). Current leader of the council.
-* **Garos Trolan** (male gnome). Runs the operations of Trolan's Transport.
-* **Elymar Ilian Clebdecher** (female gnome). Runs Clebdecher Curios.
-* **Lysse Alysse Lonadar** (female gnome). "Gondolonadar".
+* **Dora Thornwaist** (female gnome leader). The leader of the Council of Nine in Trolanport. Her husband worked in Cyre as a lightning rail stationmaster when the Day of Mourning happened, and she hasn’t seen him since. They had three children, two of whom have since grown and moved to other areas of Khorvaire, but her son Dorgim is still working in Trolanport.
+* **Garos Trolan** (male gnome shipwright). The current head of the Trolan clan, and the one who runs the shipbuilding business, Trolan's Transport.
+* **Elymar Ilian Clebdecher** (female gnome shopkeeper). Runs Clebdecher Curios.
+* **[[Lysse Alysse Lonadar]]** (female gnome gondolier). "Gondolonadar", and secretly powerful woman.
 * **Leopold Maximus Tarliach** (male gnome). Runs The Dashing Swordsman.
-* **Dorgrim Thornwaist** (male gnome). Owner of Dorgim’s Dragonshards.
+* **Dorgrim Thornwaist** (male gnome shopkeeper). The most capable alchemist in all of Trolanport (and possibly all of Zilargo), and the proprietor of a dragonshard and alchemy shop known as Dorgim’s Dragonshards. He has made an enemy of clan Cledbecher, but is protected by his mother Dora Thornwaist, the current leader of the city’s Council of Nine.
 
 ### Locations
 

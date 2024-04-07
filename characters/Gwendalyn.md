@@ -1,9 +1,12 @@
+---
+gender: Female
+race: Human
+class: Druid
+subclass: Circle of the Moon
+occupation: Druid Elder (Wardens of the Wood)
+---
  #npc [[Eldeen Reaches]] [[Wardens of the Wood]]
 
-Gender:: Female
-Race:: Human
-Occupation:: Druid Elder (Wardens of the Wood)
-Class:: Druid (Circle of the Moon)
 Originally an NPC played by [[Jolene Harper]] during [[3-03. The Orphanage Flashback]]
 
 Gwendalyn was raised in an orphanage in Daskaran with several other orphans, where she had an adventure with a tiger at a young age. This led her to study the natural world, and druidic magic, at every opportunity she had. When she aged out of the system, she had nowhere to go, and decided to set out for the Eldeen Reaches - hoping to further her druidic studies.

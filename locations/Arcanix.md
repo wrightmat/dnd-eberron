@@ -30,7 +30,18 @@ Arcane architects aren’t constrained by the square footage within the floating
 
 The floating towers are too vast to completely map, and such map would be out of date by the time it was completed. Especially in Nocturnas and Skyreach, the wizards are always making magic alterations to their demesnes.
 
-### Arcanix, the Village
+### Characters
+
+* **Flo** (non-binary changeling professor). Changeling Transmuter, mind seeded, never uses their true identity. They possess an old tome on transmutation magic that is annotated and scribbled into by Mordain d'Phiarlan (now known by as The Fleshweaver). Often appears as:
+	- Leandre d'Vadalis, a male magebreeder looking to enhance and create new life forms.
+	- Iorek, a male Darguun Goblin Artificer wanting to find Dhakanni relics to be inspired by their designs in his creations.
+	- Kathra Silveraxe, a female Mror Dwarf 'rune knight' (reskinned to Daelkyr) interested by symbionts and Daelkyr magic.
+* **Frederic** (male human professor). Head professor of Arcana and Artifacts. He will sometimes reach out to former students who have moved into the life of adventurer in order to seek out powerful or especially dangerous to obtain artifacts. He served as a patron for Windsor Locke.
+
+
+### Locations
+
+#### Village of Arcanix
 
 This village of 800 people lies directly beneath the floating towers. The residents of Arcanix owe their livelihoods to the Arcane Congress, from the innkeeper who boards the parents of would-be wizards during the Autumn Entrance Examinations to the stablemaster responsible for exercising the steeds—both mundane and exotic—of some Arcane Congress spellcasters.
 
@@ -42,13 +53,13 @@ Arcanix is also home to the Tower of Alchemy, one of the Five Nations’ premier
 
 Arcanix’s unique position makes it one of the Five Nations’ most magically aware places. Many of the residents are downright blasé about powerful arcane magic, while others take great delight in the astonishment on visitors’ faces when a carpet of flying alights on the town square or an aged wizard turns into a glorious dragon and flies away.
 
-### The White Arch
+#### The White Arch
 
 Visitors to the floating towers often ascend (via magic or the Trannicks’ hippogriffs) to Glarehold Tower, where an outcropping of rock has a massive white marble arch that leads to a white marble courtyard. The White Arch is also the traditional gateway that new students use when they begin their studies; many an Aundairian youth dreams of walking under the white arch, clad in the brown robes of a first-year student.
 
 The courtyard beyond the White Arch is the largest outdoor space on any of the four floating towers. Magically animated topiaries in the shape of boars stand at the corners of the courtyard.
 
-### Library of Robideur
+#### Library of Robideur
 
 Near the top of Skyreach is one of Khorvaire’s finest collections of arcane lore — although librarians in Korranberg would argue the point, and who knows what dark lore lurks in the libraries of Ashtakala?
 
@@ -56,7 +67,7 @@ The library takes up the top four floors of Skyreach’s tallest spire, with boo
 
 The half-elf sorcerer Robideur died more than 450 years ago, but his descendant Tanila (LG half-elf female sorcerer 8) is the head librarian. The library forbids checking out books even to the most powerful members of the Arcane Congress; examination of a book at one of the library’s oak desks is the only option. Tanila has an initial attitude of unfriendly toward anyone who even asks about checking out a book, and she won’t bend the rules unless her attitude is improved to helpful.
 
-### Adal's Demesne
+#### Adal's Demesne
 
 At the center of Nocturnas are a series of chambers that Adal ir'Wynarn, Royal Minister of Magic and brother to Queen Aurala, calls home. Adal (described on page 18) splits his time between the floating towers and his palace at Fairhaven. He regards the floating towers as a place where he can be free of court intrigues and free to direct his staff as they conduct magical research and build weapons of arcane destruction to defend Aundair or extend its reach.
 
@@ -64,13 +75,13 @@ Adal is more politically connected than most of the Arcane Congress. He has the 
 
 At any one given time, Adal has three or four major research or weapon-development programs under way within his chambers. Each is kept separate from the others, and only Adal knows the extent and progress of all the programs. One team might be trying to reverse-engineer House Cannith’s creation pattern for warforged. Another team works on a system of weather control, and a third is breeding wyverns that shoot fiery rays from their tails.
 
-### Maze of Shadowy Terrors
+#### Maze of Shadowy Terrors
 
 In the lowest level of Amberwall Tower is a maze intended to humble young apprentices confident of their ability to meet any threat with magic. The Maze of Shadowy Terror spontaneously generates monsters with a shadow conjuration effect.
 
 The Amberwall instructors intended that the maze, which looks like a typical set of twisting dungeon corridors, serve as a final test for wizards and sorcerers before they head out into the world or become members of the Arcane Congress. But brave and foolhardy students eager to prove themselves are always sneaking into the basement and entering the maze on their own.
 
-### Gate of Xabra
+#### Gate of Xabra
 
 The Arcanix towers house strange artifacts and relics, but few compare in size and scope to the Gate of Xabra. A circle of menhirs sits atop one of the residential towers. The standing stones, and indeed the very earth they rest upon, came to Arcanix from an ancient Q’barran ruin ages ago after the mages discovered that the stones could bridge the planes. On each stone is a magic rune. When the stones are activated in a specific sequence, everything inside the ring is whisked to another plane. Concentrated research has uncovered a few sequences so far, sometimes with disastrous results, but the studies continue.
 

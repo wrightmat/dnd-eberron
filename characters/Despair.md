@@ -1,7 +1,9 @@
+---
+gender: Female
+race: Endless
+pronouns: she/her
+---
  #npc [[Sypheros (Mabar)]] [[The Endless]]
-
-Gender:: Female
-Race:: Endless
 
 Despair and her older twin, Desire, are second youngest of the Endless. Despair's sigil is a hooked ring she wears on her left hand which she uses to tear into her flesh. Her realm is a gray, foggy space filled with rats and mirrors, which she uses to look upon people in their despair.
 

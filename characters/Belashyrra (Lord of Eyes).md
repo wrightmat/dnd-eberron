@@ -1,7 +1,7 @@
 ---
 gender: Non-Gendered
 race: Daelkyr
-occupation: Lord of Eyes
+occupation: Daelkyr Lord
 ---
  #npc [[Lharvion (Xoriat)]]
 

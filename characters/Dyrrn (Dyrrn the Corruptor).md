@@ -1,8 +1,10 @@
+---
+gender: Non-Gendered
+race: Daelkyr
+occupation: Daelkyr Lord
+image: "![https://static.wikia.nocookie.net/eberron/images/9/9e/Dyrrn.png|500](https://static.wikia.nocookie.net/eberron/images/9/9e/Dyrrn.png)"
+---
  #npc [[Lharvion (Xoriat)]]
-
-Gender:: Non-Gendered
-Occupation:: Daelkyr Lord
-Race:: Daelkyr
 
 Dyrrn the Corruptor is considered to be the most powerful of the Daelkyr.
 

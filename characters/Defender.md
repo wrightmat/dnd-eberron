@@ -1,9 +1,10 @@
+---
+gender: Male
+race: Warforged
+occupation: Knight Commander
+attitude: Helpful
+---
  #npc [[Flamekeep]]
-
-Attitude:: Helpful
-Gender:: Male
-Occupation:: Knight Commander
-Race:: Warforged
 
 Defender stands tall and imposing, with a polished silver body adorned with intricate engravings of the Silver Flame symbol. His eyes glow with a fierce intensity.
 
@@ -11,4 +12,4 @@ Defender is fiercely loyal and dedicated to upholding the tenets of the Silver F
 
 ### Development
 
-Defender served as gunner on the Church of the Silver Flame's first (and only second in existance) shardjammer ship.
+* Defender served as gunner on the Church of the Silver Flame's first (and only second in existance) shardjammer ship.

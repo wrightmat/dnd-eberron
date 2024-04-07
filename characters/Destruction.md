@@ -1,7 +1,11 @@
+---
+gender: Male
+race: Endless
+occupation: Peacekeeper
+Image: "![https://www.tvinsider.com/wp-content/uploads/2020/01/Twin-kristofer-hivju.jpg](https://www.tvinsider.com/wp-content/uploads/2020/01/Twin-kristofer-hivju.jpg)"
+pronouns: he/him
+---
  #npc [[Vult (Shavarath)]] [[The Endless]]
-
-Gender:: Male
-Race:: Endless
 
 Destruction is often depicted as a very tall, muscular, red-haired, bearded man. He has taken to wearing his hair in a ponytail.
 

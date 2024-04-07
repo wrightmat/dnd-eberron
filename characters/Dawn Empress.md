@@ -1,8 +1,10 @@
+---
+gender: Female
+race: Celestial
+occupation: Architect
+image: "![https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a](https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a)"
+---
  #npc [[Barrakas (Irian)]]
-
-Gender:: Female
-Occupation:: Architect
-Race:: Celestial
 
 The Dawn Empress is the leader of the Amaranthine City in Irian.
 
