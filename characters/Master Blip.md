@@ -2,7 +2,7 @@
 gender: Male
 race: Autognome
 occupation: Quartermaster
-image: "![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png|400](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png)"
+image: "![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png|300](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png)"
 ---
  #npc [[Tu'narath]]
 
@@ -14,4 +14,6 @@ Mister Blip is a walking encyclopedia of knowledge on all subjects related to sp
 
 Mister Blip wears a smart-looking leather apron with a score of tools of various purpose tucked into tiny leather loops. The only other article of clothing he wears is a black felt bowler cap. The color of his eyes changes depending on his mood: green if he’s feeling inquisitive, blue when determined, red for angry, yellow when excited, and pink if he’s proud, among others. A long, smartly crafted bronze mustache completes his ensemble.
 
-![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png|400](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png)
+### References
+
+* Light of Xarxis

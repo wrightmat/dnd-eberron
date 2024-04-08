@@ -1,10 +1,26 @@
 ---
 gender: Male
-race: Ghost (formerly Gnome)
+race: Ghost (Gnome)
 attitude: Helpful
 occupation:
 ---
  #npc [[Trolanport]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 Daneel is the ghost of a former stationmaster that the party discovered in Metrol during the “Lightning Rail Station” encounter of the Mournland.
 
@@ -18,3 +34,5 @@ Daneel was originally from Trolanport, the capital of Zilargo, and hopes to retu
 ### Development
 
 * Daneel was assisted by a party of adventures to get back to his wife Dora, who lives in Trolanport. He decided to remain there, where he likely still resides.
+
+### References

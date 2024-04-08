@@ -6,6 +6,22 @@ attitude: Indifferent
 ---
  #npc [[Sharn]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
 Enchanter is a warforged who used to work for House Cannith, who took up shelter near a secret lab in Making after the Day of Mourning. He’s unclear on what work he actually did at the lab, but knows details of how Project Siberys led to The Mourning.
 
 He is now incredibly depressed after spending years doing nothing much but sitting around.

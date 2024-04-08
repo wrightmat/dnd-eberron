@@ -3,8 +3,26 @@ gender: Female
 race: Human
 class: Sorcerer
 occupation: Empress of Aundair
+alignment: Lawful Evil
+attitude: Indifferent
 ---
  #npc 
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 Corrine ir'Wynarn is the current empress of the Aundair. She is the youngest daughter of the late Aurala ir'Wynarn. When Corrine came into power, she removed the title queen and turned it into empress as a decree. She deemed that their nation was strong and proud enough to be considered an empire.
 

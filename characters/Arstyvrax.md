@@ -2,12 +2,31 @@
 gender: Male
 race: Dragon
 subrace: Gem (Obsidian)
-alignment: Chaotic Neutral
 occupation: Tribe Leader, Necromancer
+alignment: Chaotic Neutral
+image: "![https://i.redd.it/62qpj1yvywgb1.jpg|300](https://i.redd.it/62qpj1yvywgb1.jpg)"
 ---
  #npc [[Draconic Factions]]
 
-*"I am predictable only in my unpredictability."*
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
+
+>"I am predictable only in my unpredictability."
 
 The practice of necromancy is forbidden among the dragons of Argonnessen, but Arstyvrax is one of this land’s foremost practitioners of the dark art. He is the  leader of the Shadowmasters — a cabal of a dozen necromancer dragons who share lore and maintain secret libraries scattered across the Vast.
 
@@ -23,5 +42,5 @@ Magic flows through every dragon’s blood. The loredrake devotes their life to 
 ### References
 
 * https://kanka.io/en-US/campaign/6529/characters/99065
-* https://eberron.fandom.com/wiki/Black_dragon
+* https://forgottenrealms.fandom.com/wiki/Topaz_dragon
 * Dragons of Eberron, pg 31 (Sovereign Archetypes section)

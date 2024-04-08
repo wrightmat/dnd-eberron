@@ -3,8 +3,25 @@ gender: Male
 race: Endless
 occupation: Bookkeeper
 pronouns: he/him
+image: "![https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg|300](https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg)"
 ---
  #npc [[Rhaan (Thelanis)]] [[The Endless]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 Destiny, the oldest of the Endless, appears as a man with a hooded cloak of an indeterminate color of brown, gray, and sometimes purple. He's the tallest of the Endless, smells of dust and the libraries of night, leaves no footprints, and casts no shadow.
 
@@ -20,5 +37,6 @@ When [[Astrashana]] drew "The Book" card from the Cards of Chaos on the plane of
 * The Book: "An NPC of the DM’s choice becomes secretly hostile toward you. The identity of your new enemy isn’t known until the NPC or someone else reveals it. Any enchantment spell cast on the NPC at 6th level or higher can end the NPC’s hostility toward you."
 * Destiny himself, and his agents, such as the Spring Court of the Eladrin, should have animosity toward Astra, and any of the party members who side with him. This is nothing personal, but only what the Book of Destiny requires.
 
-**Played By**: Neil Gaiman
-![https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg?tr=w-1080,c-at_max](https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg?tr=w-1080,c-at_max)
+### References
+
+* Played By: Neil Gaiman

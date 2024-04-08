@@ -2,10 +2,30 @@
 gender: Female
 race: Endless
 occupation: Gatekeeper
-image: "![https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf)"
+image: "![https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf|300](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf)"
 pronouns: she/her
 ---
  #npc [[Aryth (Dolurrh)]] [[The Endless]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
+>People may not be ready for my gift, but they get it anyway.
+
+>For some folks death is release, and for others death is an abomination, a terrible thing. But in the end, I'm there for all of them.
 
 Death appears as a young, attractive, slim woman of average height in her early to mid 20's. She has very plain dark skin, dark eyes, jet-black hair that she wears in a variety of styles, has a silver Eye of Horus tattooed under her left eye, and always wears a silver necklace bearing her sigil (an ankh).
 ![https://cdn.britannica.com/76/193576-050-693A982E/Eye-of-Horus.jpg|100](https://cdn.britannica.com/76/193576-050-693A982E/Eye-of-Horus.jpg)
@@ -16,14 +36,7 @@ She has been described as "goth" in appearance and many people, both men and wom
 
 Death, to the surprise of many, is exceptionally kind, cheerful, laid-back, and compassionate. Also, despite her virtually infinite power, authority, knowledge, and influence she is shown to be extremely easy-going and humble. She prefers to dress and act casually, disliking formal dress and events, to the surprise of many who encounter her - and who they assume would be an ominous personage. Out of all the Endless, she is the most affectionate towards humanity, and she is the one who is most able to relate to humans.
 
-**Played By**: Kirby Howell-Baptiste
-![https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf)
-
-### Quotes
-
->People may not be ready for my gift, but they get it anyway.
-
->For some folks death is release, and for others death is an abomination, a terrible thing. But in the end, I'm there for all of them.
+### Additional Quotes
 
 ##### On her job:
 
@@ -35,4 +48,5 @@ Death, to the surprise of many, is exceptionally kind, cheerful, laid-back, and 
 
 ### References
 
+* Played By: Kirby Howell-Baptiste
 * https://sandman.fandom.com/wiki/Death

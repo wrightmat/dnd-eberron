@@ -6,4 +6,20 @@ attitude: Helpful
 ---
  #npc [[Sharn]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
 Locke is a talented thief around Lower Sharn who is sought after by major criminal organizations, especially the Boromar Clan. He was kidnapped by the clan while in their club Mirth attempting to recover a ring that his sister’s fiancée lost there. His sister is the warforged [[Keye]].

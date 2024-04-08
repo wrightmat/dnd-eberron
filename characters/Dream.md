@@ -1,10 +1,28 @@
 ---
 gender: Male
 race: Endless
-image: "![https://d.newsweek.com/en/full/2088866/sandman.jpg?w=790&f=92139f6cd3604f8d1c656d5eb494e0f2](https://d.newsweek.com/en/full/2088866/sandman.jpg?w=790&f=92139f6cd3604f8d1c656d5eb494e0f2)"
+image: "![https://d.newsweek.com/en/full/2088866/sandman.jpg|300](https://d.newsweek.com/en/full/2088866/sandman.jpg)"
 pronouns: he/him
 ---
  #npc [[Crya (Dal Quor)]] [[The Endless]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
+>A Nightmare's purpose is to reveal a dreamer's fears, that they may face them
 
 Dream, also known as The Dreaming Dark or il-Lashtavar, is one of the Endless. While il-Lashtavar is in reality the name of a place, and changes with the new age, this is not known to those who follow The Dreaming Dark.
 
@@ -12,9 +30,6 @@ Dream appears as a tall, thin man with bone-white skin, black hair, and two dist
 
 Dream once fell in love with an eladrin woman named Nada, who was killed by the giants during an elf uprising, leading him to start the quori invasion of Xen'drik.
 
-**Played By;** Tom Sturridge
-![https://d.newsweek.com/en/full/2088866/sandman.jpg?w=790&f=92139f6cd3604f8d1c656d5eb494e0f2](https://d.newsweek.com/en/full/2088866/sandman.jpg?w=790&f=92139f6cd3604f8d1c656d5eb494e0f2)
+### References
 
-### Quotes
-
->A Nightmare's purpose is to reveal a dreamer's fears, that they may face them
+* Played By: Tom Sturridge

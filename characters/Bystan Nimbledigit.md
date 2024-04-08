@@ -3,16 +3,15 @@ hp: 52
 ac: 15
 modifier: 1
 level: 7
+gender: Non-Binary
+race: Genasi
+subrace: Fire
+class: Artificer
+subclass: Armorer
+alignment: Chaotic Good
+pronouns: any/they
 ---
  #npc #pc [[Jolene Harper]] [[Eyre (Fernia)]]
-
-* **Alignment**:: Chaotic Good
-* **Class**:: Artificer
-* **Subclass**:: Armorer
-* **Gender**:: Non-Binary
-* **Pronouns**:: any/all (usually they)
-* **Race**:: Genasi
-* **Subrace**:: Fire
 
 ### Backstory
 

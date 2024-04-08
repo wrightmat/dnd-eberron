@@ -9,6 +9,22 @@ attitude: Helpful
 ---
  #npc [[Sharn]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
 Flamewind is a gynosphinx with amazing oracular powers. Found in Xen'drik in 996 YK, Flamewind resides at Morgrave University in Sharn, where she spends her time in the university's library in trade for her visions of things to come.
 
 ### History

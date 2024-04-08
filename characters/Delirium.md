@@ -1,10 +1,28 @@
 ---
 gender: Female
 race: Endless
-image: "![https://static.wikia.nocookie.net/character-level/images/b/bd/Delirium.png](https://static.wikia.nocookie.net/character-level/images/b/bd/Delirium.png)"
+image: "![https://e0.pxfuel.com/wallpapers/963/7/desktop-wallpaper-delirium-sandman-delirium-icon.jpg|250](https://e0.pxfuel.com/wallpapers/963/7/desktop-wallpaper-delirium-sandman-delirium-icon.jpg)"
 pronouns: she/her
 ---
  #npc [[Lharvion (Xoriat)]] [[The Endless]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
+>"Have you ever spent days and days making up flavors of ice cream that no one's ever eaten before? Like chicken and telephone ice cream?... Green mouse ice cream was the worst. I didn't like that at all.”
 
 Also known as Ysgithyrwyn, Delirium is a celestial who became the first of what is now known as the daelkyr lords. She created the other daelkyr lords and now rules the plane of Xoriat.
 
@@ -16,10 +34,6 @@ As her name suggests, Delirium is scatterbrained and easily distracted; she ofte
 
 Delirium often has a playful attitude, regarding some events with ecstatic joy. She is also quick to respond angrily to rudeness, leading her to occasionally punish people without mercy; usually with a form of madness.
 
-**Quotes**:
-- "Have you ever spent days and days making up flavors of ice cream that no one's ever eaten before? Like chicken and telephone ice cream?... Green mouse ice cream was the worst. I didn't like that at all.”
+### References
 
-**Played By**: Elsie Fisher
-![https://static.wikia.nocookie.net/character-level/images/b/bd/Delirium.png](https://static.wikia.nocookie.net/character-level/images/b/bd/Delirium.png)
-
-![https://e0.pxfuel.com/wallpapers/963/7/desktop-wallpaper-delirium-sandman-delirium-icon.jpg](https://e0.pxfuel.com/wallpapers/963/7/desktop-wallpaper-delirium-sandman-delirium-icon.jpg)
+* Played By: Elsie Fisher

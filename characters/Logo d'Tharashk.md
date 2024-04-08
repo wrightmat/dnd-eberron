@@ -8,6 +8,22 @@ type: Commoner
 ---
  #npc [[Sharn]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
 Logo is the self-appointed “greeter fella” at the Clifftop Guild Hall, essentially just because his favorite drinking table is right by the entrance. He is therefore often drunk, but generally helpful - even if that just involves going to find someone else with the answer or to actually help.
 
 He has a gruff voice, and his speech is usually slurred.

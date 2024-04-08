@@ -4,9 +4,25 @@ race: Human
 class: Fighter (Champion), Artificer
 occupation: Artificer, Adventurer
 attitude: Indifferent
-image: "![https://cdn.mos.cms.futurecdn.net/d8E5VoABThfcgw7SBVanVf.jpg](https://cdn.mos.cms.futurecdn.net/d8E5VoABThfcgw7SBVanVf.jpg)"
+image: "![https://cdn.mos.cms.futurecdn.net/d8E5VoABThfcgw7SBVanVf.jpg|300](https://cdn.mos.cms.futurecdn.net/d8E5VoABThfcgw7SBVanVf.jpg)"
 ---
  #npc 
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 Lei d'Cannith is an artificer for a team of ex-Cyran soldiers turned adventurers. A dragonmark heir, Lei is the daughter of Aleisa and Talin d'Cannith. She is secretly in love with the team's leader, Daine and she also considers the group's warforged ranger, Pierce, her brother.
 
@@ -24,5 +40,6 @@ In her travels in the Mournland, she discovered that our party had been to Makin
 
 The party ran into Lei again, at the docks at Sharn on the way to Aerenal and then Xen’drik. She confronted them about their lies outside of the Mournland, and made it clear that she knew what they were after. She “gently encouraged” them to get on the ship she had chartered (the Golden Dragon) where she would take them to Aerenal and Xen’drik to get the materials they need.
 
-**Played By**: Julianne Moore
-![https://cdn.mos.cms.futurecdn.net/d8E5VoABThfcgw7SBVanVf.jpg](https://cdn.mos.cms.futurecdn.net/d8E5VoABThfcgw7SBVanVf.jpg)
+### References
+
+* Played By: Julianne Moore

@@ -4,9 +4,25 @@ race: Human
 class: Fighter
 occupation: Soldier, Mercenary, Adventurer
 attitude: Unfriendly
-image: "![https://media1.popsugar-assets.com/files/thumbor/brYrhZQUsqSupSk9nvnHOzdzFEo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/06/28/817/n/1922283/a84dce335b352ae1951c95.61827167_p3/i/Nick-Offerman-Ron-Swanson.jpg](https://media1.popsugar-assets.com/files/thumbor/brYrhZQUsqSupSk9nvnHOzdzFEo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/06/28/817/n/1922283/a84dce335b352ae1951c95.61827167_p3/i/Nick-Offerman-Ron-Swanson.jpg)"
+image: "![https://media1.popsugar-assets.com/files/thumbor/brYrhZQUsqSupSk9nvnHOzdzFEo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/06/28/817/n/1922283/a84dce335b352ae1951c95.61827167_p3/i/Nick-Offerman-Ron-Swanson.jpg|300](https://media1.popsugar-assets.com/files/thumbor/brYrhZQUsqSupSk9nvnHOzdzFEo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/06/28/817/n/1922283/a84dce335b352ae1951c95.61827167_p3/i/Nick-Offerman-Ron-Swanson.jpg)"
 ---
  #npc
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 Daine Halar Deneith is the leader of a team of ex-Cyran soldiers turned adventurers.
 
@@ -14,5 +30,6 @@ A soldier and one-time mercenary, Daine was once an heir of House Deneith. Born 
 
 He, along with Lei d'Cannith, Pierce, and Jode Jorasco escaped Cyre before the Mourning could claim them. They made their way to Sharn, where they settled for a time.
 
-**Played By**: Nick Offerman
-![https://media1.popsugar-assets.com/files/thumbor/brYrhZQUsqSupSk9nvnHOzdzFEo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/06/28/817/n/1922283/a84dce335b352ae1951c95.61827167_p3/i/Nick-Offerman-Ron-Swanson.jpg](https://media1.popsugar-assets.com/files/thumbor/brYrhZQUsqSupSk9nvnHOzdzFEo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/06/28/817/n/1922283/a84dce335b352ae1951c95.61827167_p3/i/Nick-Offerman-Ron-Swanson.jpg)
+### References
+
+* Played By: Nick Offerman

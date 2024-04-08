@@ -1,10 +1,4 @@
----
-gender: Non-Gendered
-race: Daelkyr
-occupation: Daelkyr Lord
-image: "![https://static.wikia.nocookie.net/eberron/images/9/9e/Dyrrn.png|300](https://static.wikia.nocookie.net/eberron/images/9/9e/Dyrrn.png)"
----
- #npc [[Lharvion (Xoriat)]]
+#npc 
 
 > [!infobox]
 > # `=this.file.name`
@@ -17,11 +11,11 @@ image: "![https://static.wikia.nocookie.net/eberron/images/9/9e/Dyrrn.png|300](h
 > | **Subrace** | `=this.subrace` |
 > | **Occupation** | `=this.occupation` |
 > | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
+> | **Initial Attitude** | `=this.attitude` |
 > | **Languages** | `=this.languages` |
 > ###### Comments
 > `=this.comments`
 
-Dyrrn the Corruptor is considered to be the most powerful of the Daelkyr.
+
 
 ### References

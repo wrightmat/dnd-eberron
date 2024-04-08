@@ -5,8 +5,23 @@ race: Half-Orc
 occupation: Salvager
 attitude: Indifferent
 ---
-
  #npc [[Mournland (Cyre)]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 Ikar the Black is the half-orc leader of Ikar's Salvage, a team of mercenaries and laborers (including warforged and Karrnathi undead). Ikar's Salvage searches the Mournland for lost treasures, selling former Cyran equipment. He was once a decorated Karrnathi officer during the Last War.
 

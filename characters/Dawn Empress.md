@@ -2,9 +2,25 @@
 gender: Female
 race: Celestial
 occupation: Architect
-image: "![https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a](https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a)"
+image: "![https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a|300](https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a)"
 ---
  #npc [[Barrakas (Irian)]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 The Dawn Empress is the leader of the Amaranthine City in Irian.
 
@@ -12,5 +28,6 @@ Her defining principle is growth, the opportunity to reach your full potential, 
 
 She occasionally works with mortals, typically warlocks; while she may have missions tied to planar seeds or to clashing with agents of Mabar, she also gives her agents tasks that are designed to help them with their own growth and evolution.
 
-**Played By**: ‎D'Arcy Carden (as Janet from The Good Place)
-![https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a](https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a)
+### References
+
+* Played By: ‎D'Arcy Carden (as Janet from The Good Place)

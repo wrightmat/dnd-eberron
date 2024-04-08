@@ -7,6 +7,22 @@ alignment: Chaotic Neutral
 ---
  #npc [[Draconic Factions]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
 >"Why waste time and energy murdering weaker creatures when I can make them entertain me instead?"
 
 A swift Blue Dragon, Kalryni is an incredibly powerful arial tactician. She possesses a powerful pair of wings that are rumored to create gusts that flattened forests and upturned tectonic plates. While much of this is likely hyperbole, there is no doubting that her speed is unmatched. Kalryni’s color is fresh and lovely, a pale blue azure like the sky at dawn.

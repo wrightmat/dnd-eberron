@@ -6,6 +6,22 @@ alignment: Chaotic Evil
 ---
  #npc [[Draconic Factions]] [[The Chamber]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
 >"I have named the wind that blows through my lair (Gusstrill) and speak to it often. It is my sole companion."
 
 Kazdurakashtan was once a Chamber agent, but he decided to go rogue in Khorvaire to aid the humanoid races like the dragon Vvaraak once did. After establishing an order of dragon giants in the frozen north of Frostfell, he settled in Cyre because of a friendship with a Cyran professor, and hoped to negotiate an end to the Last War.

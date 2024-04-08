@@ -7,6 +7,22 @@ alignment: Chaotic Neutral
 ---
  #npc [[Draconic Factions]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
 >"I admire how brightly short-lived creatures shine before their lights go out."
 
 Kauverra is the leader of the Copper Dragons, and runs the Copper Dragon Hotel and Resort in Aerenal.
