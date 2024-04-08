@@ -1,6 +1,45 @@
+---
+type: Plane
+region: "[[Shardspace]]"
+image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/mtCloOmcIF3tvkVugrMUqpw8NdcP4lxMXVFka0WX.png|250](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/mtCloOmcIF3tvkVugrMUqpw8NdcP4lxMXVFka0WX.png)"
+---
  #location [[Shardspace]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/dravago.png](https://wrightmat.github.io/dnd-eberron/_img/dravago.png)
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
+### Characters
+
+* **Lindvuf** (male frost giant). A Frost Giant who lives on the moon Dravago.
+* **Garagai** (male frost giant). Frost Giant who has laid claim to the Frozen Sea.
+* **Il’Ara** (female giant archarcanist) Group of Eleven member who was devoted to Risia, and magebred her own lineage of frost giants over millennia.
+
+### Locations
+
+#### The Boundless Blizzard
+
+#### The Frozen Sea
+
+#### Freehearth
+
+#### Remorse
+This tower holds the bodies of many giants who have chosen to enter icy stasis out of eternal boredom. Each floor houses six sarcophagi that are made of the same magical ice used to make the towers.
+
+#### Winter
+
+#### Frozen Grove
 
 ### Universal Properties
 
@@ -16,13 +55,4 @@ Risia is bitterly cold, and unprotected creatures quickly succumb to the deadly 
 
 **Stillness of Flesh**. Time passes at the same pace as on the Material Plane, and is consistent across its layers. However, the passage of time has no effect on a mortal creature’s body, and creatures don’t age or grow while in Risia. Exhaustion, starvation, and disease merely reduce a creature to 0 hit points, and don’t immediately kill it. Dwarves are immune to this property’s effects, and in Risia they can grow, age, and die, just as they would on the Material Plane.
 
-### Characters
-
-* **Lindvuf** (male frost giant). A Frost Giant who lives on the moon Dravago.
-* **Garagai** (male frost giant). Frost Giant who has laid claim to the Frozen Sea.
-
-### Locations
-
-
-
-![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/mtCloOmcIF3tvkVugrMUqpw8NdcP4lxMXVFka0WX.png](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/mtCloOmcIF3tvkVugrMUqpw8NdcP4lxMXVFka0WX.png)
+### References

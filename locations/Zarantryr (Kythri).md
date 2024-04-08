@@ -27,10 +27,15 @@ image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/6Vcx
 
 ### Locations
 
-* **Sea of Chaos**.
-* **Cornerstone**. Cornerstone is the largest of the slaad cities. Its architectural style and precise layout are constantly changing, but it’s always a sprawling city that houses hundreds of thousands of slaadi. Each time the players travel to Cornerstone, roll on the Slaad Cultures table to determine which slaadi are in charge currently. The attitude of slaadi toward adventurers depends on the active culture. Regardless, Cornerstone is the best place to acquire Kythrian artifacts (see [[Trinkets of the Planes]]) or magical services.
-* **[[The Shifting Islands]]**. There are countless islands on the edge of the Sea of Chaos, varying dramatically in size, each with its own environment. These are constantly changing, but they change slowly; it can take anywhere from a day to a week for an island to shift from a barren desert to a verdant jungle. Weather is generally more dynamic, and often at odds with the environment; a vast desert can suddenly face a dramatic blizzard.
-* **[[Zertherun IV]]**
+#### Sea of Chaos
+
+#### Cornerstone
+Cornerstone is the largest of the slaad cities. Its architectural style and precise layout are constantly changing, but it’s always a sprawling city that houses hundreds of thousands of slaadi. Each time the players travel to Cornerstone, roll on the Slaad Cultures table to determine which slaadi are in charge currently. The attitude of slaadi toward adventurers depends on the active culture. Regardless, Cornerstone is the best place to acquire Kythrian artifacts (see [[Trinkets of the Planes]]) or magical services.
+
+#### [[The Shifting Islands]]
+There are countless islands on the edge of the Sea of Chaos, varying dramatically in size, each with its own environment. These are constantly changing, but they change slowly; it can take anywhere from a day to a week for an island to shift from a barren desert to a verdant jungle. Weather is generally more dynamic, and often at odds with the environment; a vast desert can suddenly face a dramatic blizzard.
+
+#### [[Zertherun IV]]
 
 ### Universal Properties
 

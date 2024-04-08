@@ -1,6 +1,47 @@
+---
+type: Plane
+region: "[[Shardspace]]"
+image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/lN6I3trilA7CBkHMG0WRnO9EsVMQK89PZH5oS01M.png|250](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/lN6I3trilA7CBkHMG0WRnO9EsVMQK89PZH5oS01M.png)"
+---
  #location [[Shardspace]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/nymm.png](https://wrightmat.github.io/dnd-eberron/_img/nymm.png)
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
+### Characters
+
+* **DOT-13**. Pentadrone who works at The Panopticon as a greeter.
+* **M3-GAN**. Quadrone who works at The Panopticon.
+* **WIL-13**. Monodrone who works at The Inescapable Prison.
+* **43-NRY.** Tridrone who works with the Formians of The Perfect Grange.
+
+### Locations
+
+#### The Panopticon
+
+#### The Hall of Justice
+
+#### The Infinite Archive
+
+#### The Iron Ward
+
+#### The Inescapable Prison
+
+#### The Perfect Grange
+
+##### Klictrik (aka Mandible), the Formian City
 
 ### Universal Properties
 
@@ -16,4 +57,4 @@ The impulse toward order affects all creatures in Daanvi. It’s impossible to k
 
 **Flowing Time**. For every 10 minutes that pass in Daanvi, only 1 minute passes in the Material Plane. So if a creature spends 10 days arguing a case before a Daanvian court, less than a day has passed on Eberron.
 
-![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/lN6I3trilA7CBkHMG0WRnO9EsVMQK89PZH5oS01M.png](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/lN6I3trilA7CBkHMG0WRnO9EsVMQK89PZH5oS01M.png)
+### References

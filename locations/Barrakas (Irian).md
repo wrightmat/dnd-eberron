@@ -1,6 +1,46 @@
+---
+type: Plane
+region: "[[Shardspace]]"
+image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/ttTL57RiRcNUHwh3idRiPXC7Kx6i4tEbcufrpRSd.png|250](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/ttTL57RiRcNUHwh3idRiPXC7Kx6i4tEbcufrpRSd.png)"
+---
  #location [[Shardspace]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/barrakas.png](https://wrightmat.github.io/dnd-eberron/_img/barrakas.png)
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
+### Characters
+
+* **[[Desire]]**
+* **[[Dawn Empress]]**
+* **[[The Gardener]]**
+* **[[Araam]]**
+* **Rhea** (female ki-rin).
+
+### Locations
+
+#### Amaranthine City
+
+##### Club Starlight
+
+##### Desire’s Den
+
+##### Rhea’s Resort
+
+#### The Garden
+
+#### The Refuge
 
 ### Universal Properties
 
@@ -23,4 +63,4 @@ The light of the Eternal Dawn strengthens the living. Darkness and disease have 
 
 **Standard Time**. Time passes at the same pace as on the Material Plane, and is consistent across its layers.
 
-![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/ttTL57RiRcNUHwh3idRiPXC7Kx6i4tEbcufrpRSd.png](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/ttTL57RiRcNUHwh3idRiPXC7Kx6i4tEbcufrpRSd.png)
+### References

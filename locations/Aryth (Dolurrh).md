@@ -28,11 +28,15 @@ Image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/CaWs
 
 ### Locations
 
-* **River of Souls**
-* **The Kennel**
-* **The Catacombs**
-* **The Crucible**
-* **Vault of Memories**
+#### River of Souls
+
+#### The Kennel
+
+#### The Catacombs
+
+#### The Crucible
+
+#### Vault of Memories
 
 ### Universal Properties
 

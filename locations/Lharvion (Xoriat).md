@@ -1,6 +1,51 @@
+---
+type: Plane
+region: "[[Shardspace]]"
+image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/chCgFSsOL92eGFZCnMVNsORVT890egtGGt9Jgvtm.png|250](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/chCgFSsOL92eGFZCnMVNsORVT890egtGGt9Jgvtm.png)"
+---
  #location [[Shardspace]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/lharvion.png](https://wrightmat.github.io/dnd-eberron/_img/lharvion.png)
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
+### Characters
+
+* **[[Delirium]]**
+* **[[Belashyrra (Lord of Eyes)]]**
+* **[[Dyrrn (Dyrrn the Corruptor)]]**
+* **[[Kyrzin (Prince of Slime)]]**
+
+### Locations
+
+#### The Maze of Reality
+Imagine time as a maze and the Material Plane as a rat moving through it, with the other planes worn as a crown. This is how the Draconic Prophecy works. It doesn’t tell you what will happen, because that hasn’t been decided yet — it’s a roadmap to the maze.
+
+#### Delirium's Dollhouse
+This is the home of Delirium, and can only be accessed from a portal in the center of the Maze of Reality. 
+
+#### The Unseen Citadel
+This is the stronghold and birthplace of the daelkyr Belashyrra. The Lord of Eyes imagined the beholders and brought that vision to life, and the Citadel is home to a host of beholderkin.
+
+#### The Fields of Thought
+This area is the domain of Dyrrn the Corruptor. Dyrrn’s Tower is made of glowing threads of pure thought intertwined around a massive purple flesh spinal column. This tower is filled with the tools of fleshcrafting. There are pools of blood and canals of amniotic fluid, massive pulsing organs waiting for a purpose, and untended tendrils crawling across the floor. Adventurers might find a chamber that contains half-formed clones of the adventurers themselves... or perhaps the clones are completed, and consider the adventurers to be evil doppelgangers.
+
+#### The Orchard of Ooze
+This area is the domain of Kyrzin, the Prince of Slime. The protoplasm is much like the Psychomagnotheric Slime from Ghostbusters II — if the players allow the slime to touch them, it absorbs whatever emotion they're currently experiencing and reacts accordingly (such as bubbling and then exploding after touching strong negative emotion). It also becomes more reactive, reaching out more aggressively, whenever strong emotions are experienced near it.
+
+#### The Emocean
+The Emocean is a tide of surging thoughts and emotions, deeper and more primal than Dal Quor’s Ocean of Dreams. Flumph cloisters drift along streams of consciousness, drawing sustenance from the pure psychic emanations surrounding them. This is a blissful experience, and most flumphs have no interest in leaving. It is also the realm of The Master of Silence, who lords over monsters of telepathy.
 
 ### Universal Properties
 
@@ -31,20 +76,20 @@ To mortal eyes, Xoriat may seem more chaotic than Kythri. However, it’s not de
 
 #### Properties of Xoriat
 
-| d13 | Trait                                                                                                                                                                                                                                                                                                                                                 |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| d13 | Trait                                                                                                                                                                                                                                                                                                                                                   |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Creatures can walk on any surface — walls, floors, ceilings. If a creature falls, it does so in a random direction, not necessarily toward the floor.                                                                                                                                                                                                   |
-| 2   | Creatures are under the effects of the slow spell                                                                                                                                                                                                                                                                                                     |
-| 3   | The air within the region takes on a fluidic quality. There’s no risk of drowning, but creatures must move by swimming, and all of the effects of underwater combat apply.                                                                                                                                                                            |
-| 4   | Creatures are under the effects of the haste spell.                                                                                                                                                                                                                                                                                                   |
-| 5   | Creatures are under the effects of the mirror image spell, and destroyed duplicates do not reappear.                                                                                                                                                                                                                                                  |
-| 6   | Whenever a creature is hit with an attack, it becomes invisible until the start of its next turn.                                                                                                                                                                                                                                                     |
-| 7   | Creatures can use a bonus action to teleport up to 30 feet to an unoccupied space they can see.                                                                                                                                                                                                                                                       |
-| 8   | Creatures are under the effects of the detect thoughts spell, but can’t use this to probe deeper into another creature’s thoughts.                                                                                                                                                                                                                    |
-| 9   | Creatures are under the effects of the gaseous form spell, becoming misty clouds of thought energy. Creatures can speak (forming sounds with their thoughts) in this form.                                                                                                                                                                            |
-| 10  | Creatures take on the appearance of a random creature in the region. This has no effect on abilities, and size remains unchanged (so if a halfling takes on the appearance of an ogre, they are a small ogre).                                                                                                                                        |
-| 11  | Creatures gain truesight with a range of 60 feet.                                                                                                                                                                                                                                                                                                     |
-| 12  | Creatures are vulnerable to psychic damage, even creatures that are normally immune to it.                                                                                                                                                                                                                                                            |
+| 2   | Creatures are under the effects of the slow spell                                                                                                                                                                                                                                                                                                       |
+| 3   | The air within the region takes on a fluidic quality. There’s no risk of drowning, but creatures must move by swimming, and all of the effects of underwater combat apply.                                                                                                                                                                              |
+| 4   | Creatures are under the effects of the haste spell.                                                                                                                                                                                                                                                                                                     |
+| 5   | Creatures are under the effects of the mirror image spell, and destroyed duplicates do not reappear.                                                                                                                                                                                                                                                    |
+| 6   | Whenever a creature is hit with an attack, it becomes invisible until the start of its next turn.                                                                                                                                                                                                                                                       |
+| 7   | Creatures can use a bonus action to teleport up to 30 feet to an unoccupied space they can see.                                                                                                                                                                                                                                                         |
+| 8   | Creatures are under the effects of the detect thoughts spell, but can’t use this to probe deeper into another creature’s thoughts.                                                                                                                                                                                                                      |
+| 9   | Creatures are under the effects of the gaseous form spell, becoming misty clouds of thought energy. Creatures can speak (forming sounds with their thoughts) in this form.                                                                                                                                                                              |
+| 10  | Creatures take on the appearance of a random creature in the region. This has no effect on abilities, and size remains unchanged (so if a halfling takes on the appearance of an ogre, they are a small ogre).                                                                                                                                          |
+| 11  | Creatures gain truesight with a range of 60 feet.                                                                                                                                                                                                                                                                                                       |
+| 12  | Creatures are vulnerable to psychic damage, even creatures that are normally immune to it.                                                                                                                                                                                                                                                              |
 | 13  | Size depends on perspective — is the mountain on the horizon enormous, or can you reach out and hold it in your hand? All creatures are randomly under the effects of the enlarge/reduce spell. At the start of its turn, a creature rolls 1d3. On a 1, its size is reduced, on a 2, the creature is its normal size, and on a 3, its size is enlarged. |
 
-![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/chCgFSsOL92eGFZCnMVNsORVT890egtGGt9Jgvtm.png](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/chCgFSsOL92eGFZCnMVNsORVT890egtGGt9Jgvtm.png)
+### References
