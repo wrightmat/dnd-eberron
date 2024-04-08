@@ -2,9 +2,25 @@
 gender: Non-Binary
 race: Astral Elf
 occupation: Military Commander
-image: "![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png|400](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png)"
+image: "![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png|250](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png)"
 ---
  #npc [[Tu'narath]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 >“I make talent look good.”
 
@@ -14,4 +30,4 @@ Saerthe’s quick wit and sharp tongue provide them with an inexhaustible supply
 
 They have a 22 Charisma, higher than Onme's (because they're even more beautiful).
 
-![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png|400](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png)
+### References

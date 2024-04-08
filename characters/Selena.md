@@ -12,8 +12,29 @@ pronouns: she/her
 ideal: A special care for people who are less fortunate.
 bond: The need to revive her dead house (family).
 flaw: Sometimes her royal attitude (snootiness) shows through.
+campaign: "[[C02. Curse of Strahd (Abridged)]]"
 ---
  #pc [[Claire Elrod]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> PC: `=this.campaign`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` (`=this.pronouns`) |
+> | **Race** | `=this.race` |
+> | **Class** | `=this.class` |
+> | **Subclass** | `=this.subclass` |
+> | **Alignment** | `=this.alignment` |
+> | **Languages** | `=this.languages` |
+> | **Background** | `=this.attitude` |
+> | **Ideal(s)** | `=this.ideal` |
+> | **Bond(s)** | `=this.bond` |
+> | **Flaw(s)** | `=this.flaw` |
+> ###### Comments
+> `=this.comments`
 
 ### Backstory
 

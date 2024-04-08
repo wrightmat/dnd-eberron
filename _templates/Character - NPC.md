@@ -1,3 +1,14 @@
+---
+gender: 
+pronouns: 
+race: 
+subrace: 
+occupation: 
+alignment: 
+attitude: 
+languages: 
+image:
+---
 #npc 
 
 > [!infobox]
@@ -11,7 +22,7 @@
 > | **Subrace** | `=this.subrace` |
 > | **Occupation** | `=this.occupation` |
 > | **Alignment** | `=this.alignment` |
-> | **Initial Attitude** | `=this.attitude` |
+> | **Attitude** | `=this.attitude` |
 > | **Languages** | `=this.languages` |
 > ###### Comments
 > `=this.comments`

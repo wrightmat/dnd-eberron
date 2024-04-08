@@ -4,6 +4,8 @@ race: Dragon
 subrace: Gem (Obsidian)
 occupation: Tribe Leader, Necromancer
 alignment: Chaotic Neutral
+attitude: Hostile
+languages: Abyssal, Common, Draconic
 image: "![https://i.redd.it/62qpj1yvywgb1.jpg|300](https://i.redd.it/62qpj1yvywgb1.jpg)"
 ---
  #npc [[Draconic Factions]]

@@ -10,8 +10,25 @@ class: Paladin
 subclass: Oath of the Crown
 occupation: Traveling Guardian (for hire)
 alignment: Lawful Good
+image: "![https://www.dndbeyond.com/avatars/40867/169/1581111423-121650038.jpeg|250](https://www.dndbeyond.com/avatars/40867/169/1581111423-121650038.jpeg)"
 ---
  #npc [[The Silver Scales]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 Valmoc is a silver dragonborn who serves as a sort of emissary for the silver dragons and the Silver Scales organization more generally. He's sort of the opposite of a mercenary - someone who is hired to protect others. The party will encounter him somewhere as they travel, as a means to learn about the Paladin Protectors of the Realm.
 

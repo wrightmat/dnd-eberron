@@ -4,15 +4,39 @@ hp: 63
 ac: 13
 modifier: 5
 gender: Female
+pronouns: she/her
 race: Fairy
 class: Bard / Warlock
 subclass: College of Eloquence / Celestial
 alignment: Chaotic Neutral
-pronouns: she/her
+background: Astral Drifter
+languages: Common, Elvish, Gith, Sylvan
+campaign: "[[C01. What Dreams May Come]]"
+image: "![https://www.dndbeyond.com/avatars/29397/531/1581111423-83677373.jpeg|250](https://www.dndbeyond.com/avatars/29397/531/1581111423-83677373.jpeg)"
 ---
  #pc [[Jolene Harper]] [[Rhaan (Thelanis)]] [[Lharvion (Xoriat)]]
 
 ### Backstory
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> PC: `=this.campaign`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` (`=this.pronouns`) |
+> | **Race** | `=this.race` |
+> | **Class** | `=this.class` |
+> | **Subclass** | `=this.subclass` |
+> | **Alignment** | `=this.alignment` |
+> | **Languages** | `=this.languages` |
+> | **Background** | `=this.background` |
+> | **Ideal(s)** | `=this.ideal` |
+> | **Bond(s)** | `=this.bond` |
+> | **Flaw(s)** | `=this.flaw` |
+> ###### Comments
+> `=this.comments`
 
  * Born on the Rock of Bral many years ago.
  * Started playing the harp in taverns to earn meals in her teens.

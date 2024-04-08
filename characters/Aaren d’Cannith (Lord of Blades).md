@@ -2,6 +2,8 @@
 gender: Male
 race: Warforged
 occupation: Lord of Blades
+alignment: Lawful Evil
+languages: Common
 ---
  #npc [[Mournland (Cyre)]]
 

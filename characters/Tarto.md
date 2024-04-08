@@ -2,12 +2,28 @@
 gender: Female
 race: Hadozee
 occupation: Training Officer
-image: "![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png|400](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png)"
+image: "![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png|250](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png)"
 ---
  #npc [[Tu'narath]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 >“Listen to what I tell you; it might just save your life.”
 
 The scars that Trainer Tarto bears are testament to her status as a battle-hardened veteran. Despite having one of her wing flaps torn away long ago, she remains as capable as ever while on board a ship. Spelljammer Academy has no better person to spearhead the training of raw recruits—and Tarto knows it. Never one to mince words (even when those words are directed toward those who outrank her), this old, grizzled hadozee has light-tan skin and ebon-black fur graying at the temples. She’s perpetually shrouded in a thick haze of cigar smoke, the smell of which often signals her imminent arrival.
 
-![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png|400](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png)
+### References

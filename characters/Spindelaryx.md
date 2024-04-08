@@ -7,6 +7,22 @@ alignment: Lawful Neutral
 ---
  #npc [[Draconic Factions]] [[Flamekeep]] [[The Chamber]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
 >"The future is writ large in the patterns of history. I enjoy conversing with others who think critically about history and society."
 
 Spindelaryx, also known by the nickname "Spiney", is a powerful dragon and secret leader of the Church of the Silver Flame in Thrane. In approximately 912 YK, Spindelaryx was left at an orphanage in Daskaran disguised as a white dragonborn, where she became fast friends with several of the orphans - but especially a young Aasimar named Onme Nanvia Donverou.

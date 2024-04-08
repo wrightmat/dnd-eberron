@@ -5,6 +5,22 @@ occupation: Anchor Baron
 ---
  #npc [[Rhaan (Thelanis)]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
 The Forgotten Prince steals things that are forgotten or unappreciated, hoarding them in his castle. This can be done to teach a lesson — in many tales, people don’t appreciate something until after the Prince steals it — but other times, the Prince is merely indulging his own desires. The Castle of Forgotten Things is his barony.
 
 >Once there was a prince of a grand kingdom, the youngest of eight sons. His brothers were celebrated as heroes of the realm, but whatever the youngest prince did, his deeds were never noticed; the shadows cast by his brothers were too long. Even when he saved the kingdom from a cruel dragon, the people assumed one of his brothers had done the deed. But in that dragon’s lair, the prince discovered a strange sack. Reaching inside it, he found a toy he’d loved as a child and long forgotten about, a comb lost by his sister, and a map of a nation that no longer exists. Curious, he climbed into the sack and found a castle within it, filled with forgotten wonders. No one ever noticed he was gone, and no one remembers his name or his deeds. But the Forgotten Prince still dwells in his Castle of Lost Things. When you forget something you love, or when something you need is nowhere to be found, it’s because the Forgotten Prince has taken it for his hoard.

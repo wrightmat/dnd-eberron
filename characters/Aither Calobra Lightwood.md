@@ -4,15 +4,38 @@ hp: 33
 ac: 16
 modifier: 4
 gender: Female
+pronouns: she/her
 race: Genasi
 subrace: Air
 class: Monk
 subclass: Way of Mercy
 alignment: Neutral
+languages: Common, Draconic
 background: Street Urchin
-pronouns: she/her
+campaign: "[[C03. Riddles of the Third Age]]"
+image: "![https://www.dndbeyond.com/avatars/39208/881/1581111423-115630616.jpeg|250](https://www.dndbeyond.com/avatars/39208/881/1581111423-115630616.jpeg)"
 ---
  #pc [[Sara Edwards]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> PC: `=this.campaign`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` (`=this.pronouns`) |
+> | **Race** | `=this.race` |
+> | **Class** | `=this.class` |
+> | **Subclass** | `=this.subclass` |
+> | **Alignment** | `=this.alignment` |
+> | **Languages** | `=this.languages` |
+> | **Background** | `=this.background` |
+> | **Ideal(s)** | `=this.ideal` |
+> | **Bond(s)** | `=this.bond` |
+> | **Flaw(s)** | `=this.flaw` |
+> ###### Comments
+> `=this.comments`
 
 ### Backstory
 

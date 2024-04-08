@@ -9,8 +9,30 @@ class: Rogue, Artificer
 subclass: Phantom
 alignment: Chaotic Neutral
 pronouns: she/her
+campaign: "[[C01. What Dreams May Come]]"
+image: "![https://www.dndbeyond.com/avatars/29693/195/1581111423-79286323.jpeg|250](https://www.dndbeyond.com/avatars/29693/195/1581111423-79286323.jpeg)"
 ---
  #pc [[Claire Elrod]] [[Rhaan (Thelanis)]] [[Aryth (Dolurrh)]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> PC: `=this.campaign`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` (`=this.pronouns`) |
+> | **Race** | `=this.race` |
+> | **Class** | `=this.class` |
+> | **Subclass** | `=this.subclass` |
+> | **Alignment** | `=this.alignment` |
+> | **Languages** | `=this.languages` |
+> | **Background** | `=this.attitude` |
+> | **Ideal(s)** | `=this.ideal` |
+> | **Bond(s)** | `=this.bond` |
+> | **Flaw(s)** | `=this.flaw` |
+> ###### Comments
+> `=this.comments`
 
 ### Backstory
 

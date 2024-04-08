@@ -4,15 +4,36 @@ hp: 33
 ac: 15
 modifier: 3
 gender: Non-Binary
+pronouns: she/they
 race: Aasimar (Fallen)
 class: Rogue
 subclass: Arcane Trickster
 alignment: Chaotic Neutral
 background: Charlatan
 campaign: "[[C03. Riddles of the Third Age]]"
-pronouns: she/they
+image: "![https://www.dndbeyond.com/avatars/39526/908/1581111423-116417392.jpeg|250](https://www.dndbeyond.com/avatars/39526/908/1581111423-116417392.jpeg)"
 ---
  #pc [[Kerrie Heath]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> PC: `=this.campaign`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` (`=this.pronouns`) |
+> | **Race** | `=this.race` |
+> | **Class** | `=this.class` |
+> | **Subclass** | `=this.subclass` |
+> | **Alignment** | `=this.alignment` |
+> | **Languages** | `=this.languages` |
+> | **Background** | `=this.attitude` |
+> | **Ideal(s)** | `=this.ideal` |
+> | **Bond(s)** | `=this.bond` |
+> | **Flaw(s)** | `=this.flaw` |
+> ###### Comments
+> `=this.comments`
 
 ### Backstory
 

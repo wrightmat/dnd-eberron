@@ -7,6 +7,22 @@ alignment: Lawful Good
 ---
  #npc [[Draconic Factions]] [[The Silver Scales]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
 >"It's my duty as a member of an elder species to protect and guide other peoples."
 
 Yllosavax is the leader of the Silver Scales, Paladin Protectors of the Realm.

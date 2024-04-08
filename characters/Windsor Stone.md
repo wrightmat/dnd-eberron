@@ -4,14 +4,35 @@ hp: 95
 ac: 15
 modifier: 1
 gender: Male
+pronouns: he/him
 race: Human
 class: Barbarian
 subclass: Storm Herald
 alignment: Lawful Good
 campaign: "[[C01. What Dreams May Come]]"
-pronouns: he/him
+image: "![https://www.dndbeyond.com/avatars/37864/354/1581111423-75316650.jpeg|250](https://www.dndbeyond.com/avatars/37864/354/1581111423-75316650.jpeg)"
 ---
  #pc [[Kerrie Heath]] [[Zarantryr (Kythri)]] [[Therendor (Syrania)]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> PC: `=this.campaign`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` (`=this.pronouns`) |
+> | **Race** | `=this.race` |
+> | **Class** | `=this.class` |
+> | **Subclass** | `=this.subclass` |
+> | **Alignment** | `=this.alignment` |
+> | **Languages** | `=this.languages` |
+> | **Background** | `=this.attitude` |
+> | **Ideal(s)** | `=this.ideal` |
+> | **Bond(s)** | `=this.bond` |
+> | **Flaw(s)** | `=this.flaw` |
+> ###### Comments
+> `=this.comments`
 
 ### Backstory
 
@@ -22,6 +43,14 @@ Windsor attended school at Arcanix for 6 years, pursing the equivalent of a Mast
  * Paid off the debt in Rhaan 998 YK, thanks to a substantial gift from Bystan, after Windsor saved his life. He sent the money off to the school via House Kundarak.
 
 Windsor’s favorite bookshop is in North Towers (Lower Central) near his parents’ shop, where he would secretly purchase trashy romance novels - his guilty pleasure.
+
+### Family
+
+Windsor's parents are Vernon (father) and Tourmaline (mother) Stone, who work as art restorers in Sharn.
+
+They have the common personality traits of kind parents. Neither of his parents are the type to raise their voices. The only thing is that they share Windsor's overthinking patterns and worry about him quite a bit. His father's side of the family is the origin of the art restoration/conservation business but both parents contribute to the business. Windsor is familiar with the baseline procedures behind the work but doesn't consider himself professional level like his parents. They'll both be happy to see Astra because they know Windsor is introverted at times so it's rare for them to meet new friends of his.
+
+They are also quite nosey, which is what contributed to Windsor’s anxiety.
 
 ### Development
 

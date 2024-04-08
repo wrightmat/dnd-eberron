@@ -4,6 +4,7 @@ race: Celestial
 occupation: Architect
 alignment: Lawful Good
 attitude: Friendly
+languages: All
 Image: "![https://regardmag.com/wp-content/uploads/IA-4_0321-r-1-770x550.jpg|300](https://regardmag.com/wp-content/uploads/IA-4_0321-r-1-770x550.jpg)"
 ---
  #npc [[Barrakas (Irian)]]

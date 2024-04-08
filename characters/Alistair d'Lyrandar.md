@@ -4,6 +4,7 @@ race: Half-Elf
 occupation: Galleon Captain
 alignment: Lawful Good
 attitude: Indifferent
+languages: Common, Elvish
 flaw: Foolhardy bravery
 image: "![https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/08/pope-exorcist-scaled-e1659555123847.jpg|300](https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/08/pope-exorcist-scaled-e1659555123847.jpg)"
 ---

@@ -5,6 +5,22 @@ occupation: Keeper of the Flame
 ---
  #npc
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
 Melysse Miron, also known as the Keeper of the Crimson Flame by followers of the Cult of the Whispering Flame, is a mysterious figure from the history of the Church of the Silver Flame in Thrane.
 
 Specific knowledge regarding Melysse Miron has been purged from the record, and her exact history is unclear to all those outside the highest levels of the Church of the Silver Flame's hierarchy.

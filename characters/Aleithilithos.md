@@ -5,6 +5,7 @@ subrace: Gem (Amethyst)
 occupation: Caretaker of the Gith
 alignment: Neutral
 attitude: Helpful
+languages: Common, Draconic
 image: "![https://static.wikia.nocookie.net/forgottenrealms/images/1/1d/Amethyst_dragon_5e.jpg|300](https://static.wikia.nocookie.net/forgottenrealms/images/1/1d/Amethyst_dragon_5e.jpg)"
 ---
  #npc [[Draconic Factions]] [[Tu'narath]]

@@ -3,9 +3,25 @@ gender: Male
 race: Human
 occupation: Baron
 attitude: Helpful
-image: "![https://db4sgowjqfwig.cloudfront.net/images/5362027/Merrix_d_Cannith.png](https://db4sgowjqfwig.cloudfront.net/images/5362027/Merrix_d_Cannith.png)"
+image: "![https://db4sgowjqfwig.cloudfront.net/images/5362027/Merrix_d_Cannith.png|250](https://db4sgowjqfwig.cloudfront.net/images/5362027/Merrix_d_Cannith.png)"
 ---
  #npc [[Sharn]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 Baron Merrix d'Cannith is the current head of the southern holdings of House Cannith, including the Sharn Cannith enclave in Breland. He is currently one of the most renowned and brilliant inventors in Khorvaire. He has fair skin and red hair (much like many members of House Cannith) that is shoulder length and includes a red beard.
 
@@ -13,5 +29,6 @@ Merrix's main interests are in research, and development, particularly on the wa
 
 Besides research into warforged, Merrix also works to improve the living conditions of warforged in Sharn. Warforged who work at the Cannith enclave are treated as equal to the other employees.
 
-**Played By**: Michael C. Hall
-![https://db4sgowjqfwig.cloudfront.net/images/5362027/Merrix_d_Cannith.png](https://db4sgowjqfwig.cloudfront.net/images/5362027/Merrix_d_Cannith.png)
+### References
+
+* Played By: Michael C. Hall

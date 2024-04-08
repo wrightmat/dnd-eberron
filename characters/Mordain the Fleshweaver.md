@@ -5,9 +5,25 @@ class: Wizard
 occupation: Transmutation Mage
 alignment: Neutral Evil
 attitude: Indifferent
-image: "![https://static.wikia.nocookie.net/eberron/images/9/9c/Mordain.jpg/revision/latest?cb=20211222120255](https://static.wikia.nocookie.net/eberron/images/9/9c/Mordain.jpg/revision/latest?cb=20211222120255)"
+image: "![https://static.wikia.nocookie.net/eberron/images/9/9c/Mordain.jpg|250](https://static.wikia.nocookie.net/eberron/images/9/9c/Mordain.jpg)"
 ---
  #npc [[Mordain’s Hall]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
 
 Mordain d'Phiarlan, better known as Mordain the Fleshweaver, is a disturbing transmutation mage of Droaam. Once a member of House Phiarlan and one of the greatest wizards of the Twelve, Mordain d'Phiarlan delved into the forbidden knowledge of the Closed Circle of Sharn. The 400-year-old wizard hides himself away in his secret hall in Droaam, continuing to explore the forbidden arts.
 
@@ -33,4 +49,4 @@ Mordain had indeed taken up home in Droaam. He created a tower, and surrounded h
 
 Since his exile, Mordain has spoken to nobody. Various nations of Khorvaire sent emissaries into KreshtRhyll hoping to enlist Mordain's aid during the Last War, mages have attempted to steal his secrets, and virtuous champions have sought to rid the world of him, but none have laid eyes on Mordain and returned unchanged, if they have returned at all. Mordain has secured his tower against scrying and teleportation. He occasionally sends out servants from his tower to search ancient daelkyr sites in Droaam and the Shadow Marches. His servants include many creatures of his own creation, as well as enslaved abominations, such as beholders, illithids, and umber hulks.
 
-![https://static.wikia.nocookie.net/eberron/images/9/9c/Mordain.jpg/revision/latest?cb=20211222120255](https://static.wikia.nocookie.net/eberron/images/9/9c/Mordain.jpg/revision/latest?cb=20211222120255)
+### References
