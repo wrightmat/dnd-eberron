@@ -1,24 +1,24 @@
----
-type: Region
-image: "![https://static.wikia.nocookie.net/eberron/images/2/2b/Xen%27Drik_Map_4e.jpg|250](https://static.wikia.nocookie.net/eberron/images/2/2b/Xen%27Drik_Map_4e.jpg)"
----
  #location #continent [[Eberron]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
-
 The former home of the Giants, and current home of the Drow. Mostly extreme biomes such as lust jungle, arid desert, and expansive tundra. The northern section of the continent contains the majority of settlements.
+
+```leaflet
+id: xendrik-map
+tileServer: https://eberronmap.johnarcadian.com/worldbin/eberron/{z}/{x}/{y}.jpg
+height: 500px
+lat: -35
+long: -65
+minZoom: 1
+maxZoom: 7
+zoomDelta: 0.5
+defaultZoom: 3.5
+unit: miles
+osmLayer: false
+marker: default, -15.690788982147719, -64.90179854670532, [[Stormreach]]
+marker: default, -17.71454797841944, -68.87927419087964, , Throne Gate Ruins
+marker: default, -22.956921635859455, -63.65883740790083, , Obsidian City
+marker: default, -46.093757727380044, -72.6081576072931, , Fangs of Argarak
+```
 
 ### Locations
 
@@ -44,4 +44,3 @@ The former home of the Giants, and current home of the Drow. Mostly extreme biom
 ^random-encounters
 
 ### References
-

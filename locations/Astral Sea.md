@@ -10,7 +10,7 @@ minZoom: 1
 maxZoom: 8
 defaultZoom: 6
 unit: miles
-scale: 1
+marker: default, -22.453125, 50.203125, [[Shardspace]]
 ```
 
 The Astral Plane, also known as the Astral Sea, is one of the planes of existence. The Astral Sea can be navigated via a spelljamming ship, as well as magic (such as Astral Projection).

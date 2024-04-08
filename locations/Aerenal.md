@@ -1,38 +1,35 @@
----
-type: Continent
-region: "[[Eberron]]"
-image: "![https://static.wikia.nocookie.net/eberron/images/d/d5/Aerenal.jpg|250](https://static.wikia.nocookie.net/eberron/images/d/d5/Aerenal.jpg)"
----
  #location #continent [[Eberron]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
-
 The continent of the Elves, and led by the Undying Court.
+
+```leaflet
+id: aerenal-map
+tileServer: https://eberronmap.johnarcadian.com/worldbin/eberron/{z}/{x}/{y}.jpg
+height: 500px
+lat: -15
+long: -10
+minZoom: 1
+maxZoom: 7
+zoomDelta: 0.5
+defaultZoom: 4.5
+unit: miles
+osmLayer: false
+marker: default, -13.13285372107109, -8.906399243563582, [[Shae Cairdal]]
+marker: default, -17.299663704967013, -9.186065499794596, [[Shae Mordai]]
+```
 
 ### Locations
 
 * **[[Shae Cairdal]]**
 * **[[Shae Mordai]]**
 * **Pylas Talaer**. A port city in Aerenal. It is the main port used by outsiders wishing to trade with Aerenal, and most foreigners never see any other part of the country. 
+* **Shae Thoridor**
 * **Kathuran**
 * **Pylas Zirinth**
-* **Shae Thoridor**
 * **Taer Kalindal**
 * **Taer Senadal**
 * **Var-Shalas**
+* **The Moonsword Jungle**
 
 ### History
 

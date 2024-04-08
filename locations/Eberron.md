@@ -14,23 +14,22 @@ defaultZoom: 2
 unit: miles
 scale: 3.233
 osmLayer: false
-marker:
-    - default, 20, -20, [[Khorvaire]]
-    - default, 0, 90, [[Sarlona]]
-    - default, -20, -10, [[Aerenal]]
-    - default, -50, -70, [[Xen’drik]]
-    - default, -40, 40, [[Argonnessen]]
-    - default, 50, -60, [[Frostfell]]
+marker: default, 20, -20, [[Khorvaire]]
+marker: default, 0, 90, [[Sarlona]]
+marker: default, -20, -10, [[Aerenal]]
+marker: default, -50, -70, [[Xen’drik]]
+marker: default, -40, 40, [[Argonnessen]]
+marker: default, 50, -60, [[Frostfell]]
 ```
 
-### Regions
+### Continents
 
-* [[Khorvaire]]
-* [[Sarlona]]
-* [[Aerenal]]
-* [[Xen’drik]]
-* [[Argonnessen]]
-* [[Frostfell]]
+* **[[Aerenal]]**
+* **[[Argonnessen]]**
+* **[[Frostfell]]**
+* **[[Khorvaire]]**
+* **[[Sarlona]]**
+* **[[Xen’drik]]**
 
 ### Accents
 
