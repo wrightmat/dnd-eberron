@@ -16,8 +16,6 @@ image: "![https://www.dndbeyond.com/avatars/29397/531/1581111423-83677373.jpeg|2
 ---
  #pc [[Jolene Harper]] [[Rhaan (Thelanis)]] [[Lharvion (Xoriat)]]
 
-### Backstory
-
 > [!infobox]
 > # `=this.file.name`
 > `=this.image`

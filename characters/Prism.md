@@ -27,14 +27,12 @@ image: "![https://www.dndbeyond.com/avatars/29693/195/1581111423-79286323.jpeg|2
 > | **Subclass** | `=this.subclass` |
 > | **Alignment** | `=this.alignment` |
 > | **Languages** | `=this.languages` |
-> | **Background** | `=this.attitude` |
+> | **Background** | `=this.background` |
 > | **Ideal(s)** | `=this.ideal` |
 > | **Bond(s)** | `=this.bond` |
 > | **Flaw(s)** | `=this.flaw` |
 > ###### Comments
 > `=this.comments`
-
-### Backstory
 
 Prism is a warforged who doesn’t remember much of her life, included where she was made or where she’s been for the last several years.
 

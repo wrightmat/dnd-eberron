@@ -1,6 +1,38 @@
+---
+type: Plane
+region: "[[Shardspace]]"
+Image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/CaWs8Rbg2mb7S4LqTuDwM1OOV1Fq2V3usASv0CAV.png|250](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/CaWs8Rbg2mb7S4LqTuDwM1OOV1Fq2V3usASv0CAV.png)"
+---
  #location [[Shardspace]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/aryth.png](https://wrightmat.github.io/dnd-eberron/_img/aryth.png)
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
+### Characters
+
+* **[[Death]]**
+* **[[Smith of Souls]]**
+* **[[The Librarian]]**
+
+### Locations
+
+* **River of Souls**
+* **The Kennel**
+* **The Catacombs**
+* **The Crucible**
+* **Vault of Memories**
 
 ### Universal Properties
 
@@ -27,4 +59,4 @@ When a creature reaches 6 levels of ennui, its will is completely broken and it 
 | 5     | Speed reduced to 0                             |
 | 6     | Death                                          |
 
-![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/CaWs8Rbg2mb7S4LqTuDwM1OOV1Fq2V3usASv0CAV.png](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/CaWs8Rbg2mb7S4LqTuDwM1OOV1Fq2V3usASv0CAV.png)
+### References

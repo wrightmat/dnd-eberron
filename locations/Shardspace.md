@@ -5,12 +5,26 @@ id: shardspace-map
 image: https://wrightmat.github.io/dnd-eberron/_img/Shardspace.png
 height: 500px
 lat: 50
-long: 30
+long: 45
 minZoom: 1
 maxZoom: 7
 defaultZoom: 6
 unit: miles
-scale: 1
+marker: default, -6.3515625, 1.2890625, [[Eberron]]
+marker: default, -6.484375, 5.0703125, [[Zarantryr (Kythri)]]
+marker: default, -6.78125, 6.6875, [[Olarune (Lamannia)]]
+marker: default, -6.90625, 7.9296875, [[Therendor (Syrania)]]
+marker: default, -6.9140625, 9.3046875, [[Eyre (Fernia)]]
+marker: default, -6.921875, 10.7578125, [[Dravago (Risia)]]
+marker: default, -7.109375, 12.078125, [[Nymm (Daanvi)]]
+marker: default, -7.140625, 13.3125, [[Lharvion (Xoriat)]]
+marker: default, -7.15625, 14.59375, [[Barrakas (Irian)]]
+marker: default, -7.18518, 15.69141, [[Rhaan (Thelanis)]]
+marker: default, -7.2109375, 16.6640625, [[Sypheros (Mabar)]]
+marker: default, -7.25, 17.59375, [[Aryth (Dolurrh)]]
+marker: default, -7.28125, 18.578125, [[Vult (Shavarath)]]
+marker: default, -9.890625, 18.2109375, [[Crya (Dal Quor)]]
+marker: default, -9.625, 14.875, [[The Outer Darkness]]
 ```
 
 Shardspace (also sometimes called Siberspace) is a particularly named wildspace, the empty vacuum between astronomical bodies, inside the world of Eberron. The githyanki, from the second age of Eberron, call it Siberspace, while Aleithilithos, from the original age of Eberron, calls it Shardspace.

@@ -29,14 +29,12 @@ campaign: "[[C02. Curse of Strahd (Abridged)]]"
 > | **Subclass** | `=this.subclass` |
 > | **Alignment** | `=this.alignment` |
 > | **Languages** | `=this.languages` |
-> | **Background** | `=this.attitude` |
+> | **Background** | `=this.background` |
 > | **Ideal(s)** | `=this.ideal` |
 > | **Bond(s)** | `=this.bond` |
 > | **Flaw(s)** | `=this.flaw` |
 > ###### Comments
 > `=this.comments`
-
-### Backstory
 
 Lady Selena is an Eberron noble from the capital of Cyre, Metrol. On the Day of Mourning, she was walking the streets discretely when the mists overtook her and brought her to Barovia. Lady Selena is often seen wearing a plague mask.
 

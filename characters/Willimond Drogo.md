@@ -29,13 +29,11 @@ image: "![https://www.dndbeyond.com/avatars/30004/437/1581111423-87163956.jpeg|2
 > | **Subclass** | `=this.subclass` |
 > | **Alignment** | `=this.alignment` |
 > | **Languages** | `=this.languages` |
-> | **Background** | `=this.attitude` |
+> | **Background** | `=this.background` |
 > | **Ideal(s)** | `=this.ideal` |
 > | **Bond(s)** | `=this.bond` |
 > | **Flaw(s)** | `=this.flaw` |
 > ###### Comments
 > `=this.comments`
 
-### Backstory
-
-* Willimond is a poet and medium from Metrol, the capital of Cyre in Eberron. On the Day of Mourning he was walking back home after a reading when the mists enveloped him and he was transported to Barovia.
+Willimond is a poet and medium from Metrol, the capital of Cyre in Eberron. On the Day of Mourning he was walking back home after a reading when the mists enveloped him and he was transported to Barovia.

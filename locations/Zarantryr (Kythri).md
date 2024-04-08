@@ -1,6 +1,36 @@
+---
+type: Plane
+region: "[[Shardspace]]"
+image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/6VcxN1Cd9S4JCtdNcl2GKkRGXTH6uZQB8tUcAElq.png|250](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/6VcxN1Cd9S4JCtdNcl2GKkRGXTH6uZQB8tUcAElq.png)"
+---
  #location [[Shardspace]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/zarantyr.png](https://wrightmat.github.io/dnd-eberron/_img/zarantyr.png)
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
+### Characters
+
+* **[[The Architect]]**
+* **Zaerith** (CN male githzerai fighter/wizard). The leader of the githzerai monastery and known as The Great Githzerai.
+
+### Locations
+
+* **Sea of Chaos**.
+* **Cornerstone**. Cornerstone is the largest of the slaad cities. Its architectural style and precise layout are constantly changing, but it’s always a sprawling city that houses hundreds of thousands of slaadi. Each time the players travel to Cornerstone, roll on the Slaad Cultures table to determine which slaadi are in charge currently. The attitude of slaadi toward adventurers depends on the active culture. Regardless, Cornerstone is the best place to acquire Kythrian artifacts (see [[Trinkets of the Planes]]) or magical services.
+* **[[The Shifting Islands]]**. There are countless islands on the edge of the Sea of Chaos, varying dramatically in size, each with its own environment. These are constantly changing, but they change slowly; it can take anywhere from a day to a week for an island to shift from a barren desert to a verdant jungle. Weather is generally more dynamic, and often at odds with the environment; a vast desert can suddenly face a dramatic blizzard.
+* **[[Zertherun IV]]**
 
 ### Universal Properties
 
@@ -18,10 +48,17 @@ All things change in Kythri, even time and the future. The only thing that’s t
 
 **Chaotic Time**. Time is fluid in Kythri, inconsistent both with the Material Plane and within its own islands. Adventurers who spend a day in Kythri could find that a year has passed in Eberron, or they could be trapped in Kythri for a year and find that only an hour has passed when they return.
 
-### Characters
+### DM Notes and Random Tables
 
-* **Zaerith** (CN male githzerai fighter/wizard). The leader of the githzerai monastery and known as The Great Githzerai.
+| dice: 1d6 | Culture                                                                                                                                                                                                                                                                                                            | Architecture/Layout                                                                                                                                                   | Attitude Toward Adventurers                                                                                          |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 1         | The Grand Concordance of Iron is a ruthless regime that intends to subjugate all slaadi, and then, the entire multiverse. It’s a strict caste system in which the death slaadi are cruel tyrants and all slaadi serve in the military.                                                                             | Has vast armies drilling (though their tactics and units constantly shift)                                                                                            | No-nonsense. Not totally against visitors, but won’t put up with much from them.                                     |
+| 2         | The Enlightened Lyceum League is a democratic society of scholars and philosophers. They believe in finding a peaceful solution to every problem and a logical answer to every question.                                                                                                                           | A large hillside auditorium makes up the center of the city, surrounded by stone academic building with decorative columns.                                           | Extremely welcoming to all, especially those who yearn for knowledge.                                                |
+| 3         | The Final Regency asserts that the Sovereigns have abandoned reality and ordered the slaadi of the Regency to rule the multiverse in their stead until they return. They are fanatically devoted to a slaad-based version of the Sovereign Host and are offended by all inaccurate representations.                | Immense temples and countless shrines to the slaadi interpretation of the Sovereigns.                                                                                 | Welcome adventurers who profess devotion to the Sovereigns, provided they don’t question the Regency interpretation. |
+| 4         | The Glorious Union of Flesh asserts that slaadi are the ultimate evolution of life and seek to grant all other humanoids the gift of slaadhood through the chaos phage. They don’t accept the idea that slaad numbers will always remain constant; clearly previous slaad cultures just weren’t doing it properly. | The Spawning Stone is the prominent feature here, which constantly shifts into a new form and sees various slaadi enter and exit it regularly.                        | A very dangerous place to visit! They will actively try to infest any non-slaad who visit.                           |
+| 5         | The Confluence of Reality believes that every civilization has something worth emulating, and studies other cultures to find these things. In a Confluence community, you could find slaadi eating Aundairian crepes, playing an Aereni form of Conqueror, and debating the finer points of Daanvi law.            | Varied architecture that can be recognized from all over Eberron - floating towers from Aundair and Breland, huts from the Talenta Plains, and everything in between. | Celebrates extraplanar visitors, desiring their stories and performances.                                            |
+| 6         | The Republic of B’ob is ruled by a red slaad who makes up new laws whenever he feels like it. Why is B’ob in charge? Well, that was the first rule he made, and the only one he hasn’t changed. And he’s B’ob! Who else would be in charge?                                                                        | A large red gem throne on which B’ob sits is the most prominent feature. A notice board has posted all of the rules currently in effect.                              | Uninterested in visitors, as long as the rules are followed.                                                         |
+^kythri-slaad-culture
 
-### Locations
+### References
 
-![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/6VcxN1Cd9S4JCtdNcl2GKkRGXTH6uZQB8tUcAElq.png](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/6VcxN1Cd9S4JCtdNcl2GKkRGXTH6uZQB8tUcAElq.png)

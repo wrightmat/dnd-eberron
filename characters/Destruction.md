@@ -2,7 +2,7 @@
 gender: Male
 race: Endless
 occupation: Peacekeeper
-Image: "![https://www.tvinsider.com/wp-content/uploads/2020/01/Twin-kristofer-hivju.jpg|300](https://www.tvinsider.com/wp-content/uploads/2020/01/Twin-kristofer-hivju.jpg)"
+Image: "![https://www.tvinsider.com/wp-content/uploads/2020/01/Twin-kristofer-hivju.jpg|250](https://www.tvinsider.com/wp-content/uploads/2020/01/Twin-kristofer-hivju.jpg)"
 pronouns: he/him
 ---
  #npc [[Vult (Shavarath)]] [[The Endless]]

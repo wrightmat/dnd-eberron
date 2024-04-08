@@ -27,17 +27,16 @@ image: "![https://www.dndbeyond.com/avatars/17/463/636377891051966547.jpeg|250](
 > | **Subclass** | `=this.subclass` |
 > | **Alignment** | `=this.alignment` |
 > | **Languages** | `=this.languages` |
-> | **Background** | `=this.attitude` |
+> | **Background** | `=this.background` |
 > | **Ideal(s)** | `=this.ideal` |
 > | **Bond(s)** | `=this.bond` |
 > | **Flaw(s)** | `=this.flaw` |
 > ###### Comments
 > `=this.comments`
 
-### Backstory
+Trained as a Templar of the Silver Flame, where she began her training at the age of 16 after being sent there from the orphanage (since she wasn't adopted).
 
-* Trained as a Templar of the Silver Flame, where she began her training at the age of 16 after being sent there from the orphanage (since she wasn't adopted).
-* Originally from Thrane, where she was raised in an orphanage in Daskaran.
+Onme is originally from Thrane, where she was raised in an orphanage in Daskaran.
 
 ### Development
 

@@ -28,15 +28,12 @@ image: "![https://www.dndbeyond.com/avatars/27637/272/1581111423-75581475.jpeg|2
 > | **Subclass** | `=this.subclass` |
 > | **Alignment** | `=this.alignment` |
 > | **Languages** | `=this.languages` |
-> | **Background** | `=this.attitude` |
+> | **Background** | `=this.background` |
 > | **Ideal(s)** | `=this.ideal` |
 > | **Bond(s)** | `=this.bond` |
 > | **Flaw(s)** | `=this.flaw` |
 > ###### Comments
 > `=this.comments`
-
-### Backstory
-
 
 ### Development
 

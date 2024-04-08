@@ -8,6 +8,7 @@ race: Changeling
 class: Wizard
 subclass: Chronurgy Magic
 alignment: Lawful Neutral
+languages: Common, Draconic, Dwarvish, Giant, Goblin, Infernal, Ogre
 background: Sage
 pronouns: she/her
 comments: Only about 3 feet tall naturally.
@@ -29,14 +30,12 @@ image: "![https://www.dndbeyond.com/avatars/39057/781/1581111423-115909399.jpeg|
 > | **Subclass** | `=this.subclass` |
 > | **Alignment** | `=this.alignment` |
 > | **Languages** | `=this.languages` |
-> | **Background** | `=this.attitude` |
+> | **Background** | `=this.background` |
 > | **Ideal(s)** | `=this.ideal` |
 > | **Bond(s)** | `=this.bond` |
 > | **Flaw(s)** | `=this.flaw` |
 > ###### Comments
 > `=this.comments`
-
-### Backstory
 
 Staff (full name Staffanie) works at the arcane university where her parents teach - but she's a clerk (copies scrolls and such). She goes out adventuring in her free time.
 

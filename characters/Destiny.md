@@ -3,7 +3,7 @@ gender: Male
 race: Endless
 occupation: Bookkeeper
 pronouns: he/him
-image: "![https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg|300](https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg)"
+image: "![https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg|250](https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg)"
 ---
  #npc [[Rhaan (Thelanis)]] [[The Endless]]
 

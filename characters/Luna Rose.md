@@ -30,16 +30,14 @@ image: "![https://www.dndbeyond.com/avatars/25837/112/637883860583922242.jpeg|25
 > | **Subclass** | `=this.subclass` |
 > | **Alignment** | `=this.alignment` |
 > | **Languages** | `=this.languages` |
-> | **Background** | `=this.attitude` |
+> | **Background** | `=this.background` |
 > | **Ideal(s)** | `=this.ideal` |
 > | **Bond(s)** | `=this.bond` |
 > | **Flaw(s)** | `=this.flaw` |
 > ###### Comments
 > `=this.comments`
 
-### Backstory
-
-* Luna arrived in the Vistani camp outside of Vallaki some time ago, and has been spending time with Kasimir Velikov and the Vistani there.
+Luna arrived in the Vistani camp outside of Vallaki some time ago, and has been spending time with Kasimir Velikov and the Vistani there.
 
 ### Character Sheet
 

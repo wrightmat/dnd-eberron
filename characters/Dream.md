@@ -1,7 +1,7 @@
 ---
 gender: Male
 race: Endless
-image: "![https://d.newsweek.com/en/full/2088866/sandman.jpg|300](https://d.newsweek.com/en/full/2088866/sandman.jpg)"
+image: "![https://d.newsweek.com/en/full/2088866/sandman.jpg|250](https://d.newsweek.com/en/full/2088866/sandman.jpg)"
 pronouns: he/him
 ---
  #npc [[Crya (Dal Quor)]] [[The Endless]]

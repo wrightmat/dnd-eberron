@@ -26,17 +26,12 @@ campaign: "[[C03. Riddles of the Third Age]]"
 > | **Subclass** | `=this.subclass` |
 > | **Alignment** | `=this.alignment` |
 > | **Languages** | `=this.languages` |
-> | **Background** | `=this.attitude` |
+> | **Background** | `=this.background` |
 > | **Ideal(s)** | `=this.ideal` |
 > | **Bond(s)** | `=this.bond` |
 > | **Flaw(s)** | `=this.flaw` |
 > ###### Comments
 > `=this.comments`
-
-Spiritual Weapon: Necrotome (ancient Egyptian embalming tool)
-https://www.pagepressjournals.org/index.php/jbr/article/download/10173/9640
-
-### Backstory
 
 Thana lived in Shae Mordai before it fell, and was present when the attack occured. When she woke up, she had become dhampir, and didn't remember anything that happened.
 
@@ -52,3 +47,6 @@ Alex: "I think my ultimate goal is for her to learn to accept the way she is now
 
  - [ ]  -
 
+### References
+
+* Spiritual Weapon is a Necrotome (ancient Egyptian embalming tool): https://www.pagepressjournals.org/index.php/jbr/article/download/10173/9640

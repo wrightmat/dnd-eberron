@@ -27,16 +27,14 @@ image: "![https://www.dndbeyond.com/avatars/37864/354/1581111423-75316650.jpeg|2
 > | **Subclass** | `=this.subclass` |
 > | **Alignment** | `=this.alignment` |
 > | **Languages** | `=this.languages` |
-> | **Background** | `=this.attitude` |
+> | **Background** | `=this.background` |
 > | **Ideal(s)** | `=this.ideal` |
 > | **Bond(s)** | `=this.bond` |
 > | **Flaw(s)** | `=this.flaw` |
 > ###### Comments
 > `=this.comments`
 
-### Backstory
-
-Windsor was born in Sharn, and his parents ([Tourmaline Stone](Tourmaline%20Stone.md) and [Vernon Stone](Vernon%20Stone.md)) still live in the Oakbridge neighborhood of the Middle Northedge district. They run an art restoration shop in North Towers (Lower Central).
+Windsor was born in Sharn, and his parents (Tourmaline and Vernon still live in the Oakbridge neighborhood of the Middle Northedge district. They run an art restoration shop in North Towers (Lower Central).
 
 Windsor attended school at Arcanix for 6 years, pursing the equivalent of a Masters degree, and then spent several years working at the library before setting out on his own. When Windsor met the adventuring party in 998 YK, he still held debt that he's trying to pay off, even after his parents' contribution and his working afterward.
  * Calculated Arcanix tuition as 2 gp/day x 350 days (365 days a year, minus holidays) = 700 gp per year x 6 years = 4200 gp total. Had 1400 gp left when the adventure started in Nymm 998 YK.

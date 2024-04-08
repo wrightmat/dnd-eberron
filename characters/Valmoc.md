@@ -10,6 +10,7 @@ class: Paladin
 subclass: Oath of the Crown
 occupation: Traveling Guardian (for hire)
 alignment: Lawful Good
+languages: Celestial, Common, Dragonic
 image: "![https://www.dndbeyond.com/avatars/40867/169/1581111423-121650038.jpeg|250](https://www.dndbeyond.com/avatars/40867/169/1581111423-121650038.jpeg)"
 ---
  #npc [[The Silver Scales]]

@@ -2,7 +2,7 @@
 gender: Non-Gendered
 race: Daelkyr
 occupation: Daelkyr Lord
-image: "![https://static.wikia.nocookie.net/eberron/images/9/9e/Dyrrn.png|300](https://static.wikia.nocookie.net/eberron/images/9/9e/Dyrrn.png)"
+image: "![https://static.wikia.nocookie.net/eberron/images/9/9e/Dyrrn.png|250](https://static.wikia.nocookie.net/eberron/images/9/9e/Dyrrn.png)"
 ---
  #npc [[Lharvion (Xoriat)]]
 

@@ -2,7 +2,7 @@
 gender: Gender-Fluid
 race: Endless
 occupation: Brothelkeeper
-Image: "![https://i.etsystatic.com/33041549/r/il/4693a5/4157203508/il_fullxfull.4157203508_llg9.jpg|300](https://i.etsystatic.com/33041549/r/il/4693a5/4157203508/il_fullxfull.4157203508_llg9.jpg)"
+Image: "![https://i.etsystatic.com/33041549/r/il/4693a5/4157203508/il_fullxfull.4157203508_llg9.jpg|250](https://i.etsystatic.com/33041549/r/il/4693a5/4157203508/il_fullxfull.4157203508_llg9.jpg)"
 pronouns: they/them
 ---
  #npc [[Barrakas (Irian)]] [[The Endless]]
