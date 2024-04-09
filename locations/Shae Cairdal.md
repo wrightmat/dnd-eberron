@@ -13,7 +13,7 @@ The city is arranged in a triangular grid, where the central triangle is compose
 
 * **Balaereth and Tezaera Mendyrian** (LG male and female elves). The "Sibling Kings" and current rulers of Shae Cairdal (and with it all of Aerenal).
 * **Cial Jhaelian** (NG male elf). High Warden of the Deathguard and Undying Councilor.
-* **Elyon Winslow** (NG male elf). Deathgard Warden of Sarlona, and older uncle of [[Thana Winslow]].
+* **Elyon Winslow** (NG male elf). Deathguard Warden of Sarlona, and older uncle of [[Thana Winslow]].
 * **Kauverra** (CN female copper dragon). The head of the copper dragon's hospitality empire, her office is on the top floor of the Copper Dragon Hotel and Resort.
 
 ### Locations
