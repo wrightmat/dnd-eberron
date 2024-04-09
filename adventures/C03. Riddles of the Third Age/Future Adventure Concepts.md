@@ -54,7 +54,7 @@ Tailored to Aither and/or Staff, and also a way to get to Argonnessen without be
 ##### The Vast
 
 * Final adventure where the players confront the topaz dragons and try to prevent their ritual to release Tiamat.
-* BBEG: Ancient Topaz Dragon (CR 20), with modifications, used for [[characters/Arstyvrax]].
+* BBEG: Ancient Topaz Dragon (CR 20), with modifications, used for [[characters/Arstyvrax|Arstyvrax]].
 * Final Battle:
 	* Part 1: Topaz dragons, probably as a swarm
 	* Part 2: Arstyvrax, who then flies off after completing the first half of his ritual
