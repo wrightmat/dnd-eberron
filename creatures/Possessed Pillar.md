@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+image: https://koboldpress.com/wp-content/uploads/2024/02/Possessed-Pillar.jpg
 name: Possessed Pillar
 size: Large
 type: Construct

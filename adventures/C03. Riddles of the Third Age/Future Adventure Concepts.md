@@ -28,11 +28,11 @@ marker: default, -3.98, 7.20, [[2-07. Labyrinth of the Lantern's Light]]
 ### Adventure Concepts
 Obviously any of these could be done in any order, but they're presented here in rough order of difficulty (with adventures of the same color being roughly the same difficulty).
 
-##### [[2-01. The Storm of Speartip]]
-Goal is to elucidate the blue dragons, Order of the Sapphire Scale, and give the party the opportunity to gain an ally. Also where the Dragon Claws are received. Purple difficulty (average CR 5, max CR 8).
-
-##### [[2-02. The Legacy of the Moonblade]]
+##### [[2-01. The Moon Temple]]
 Tailored to Thana, where the Moonblade is received. Purple difficulty (average CR 5, max CR 8).
+
+##### [[2-02. The Storm of Speartip]]
+Goal is to elucidate the blue dragons, Order of the Sapphire Scale, and give the party the opportunity to gain an ally. Also where the Dragon Claws are received. Purple difficulty (average CR 5, max CR 8).
 
 ##### [[2-03. Echoes of the Celestial Realm]]
 Tailored to Verity, where the Platinum Scarf is received. Blue difficulty (average CR 6, max CR 10).

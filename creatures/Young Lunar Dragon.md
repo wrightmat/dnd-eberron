@@ -48,7 +48,7 @@ Lunar dragons (also known as moon dragons or phase dragons) are capricious, xeno
 
 Before laying eggs, a female lunar dragon stocks her lair with food; she won’t leave the lair again until the eggs hatch and the offspring are old enough to fend for themselves. Lunar dragon eggs have stony shells that are pale white to light gray in color. Lunar dragons are alabaster white when they hatch and gradually turn darker as they age. Ancient moon dragons are the color of slate.
 
-Lunar dragons enjoy depriving other creatures of treasure more than acquiring the treasure themselves. Often found among the treasures in a lunar dragon’s hoard are one or more [spelljamming helms](https://www.dndbeyond.com/magic-items/5439867-spelljamming-helm) (see the _[Astral Adventurer’s Guide](https://www.dndbeyond.com/sources/sais/aag)_) taken from vessels that dared to invade the dragon’s territory.
+Lunar dragons enjoy depriving other creatures of treasure more than acquiring the treasure themselves. Often found among the treasures in a lunar dragon’s hoard are one or more spelljamming helms (see the Astral Adventurer’s Guide) taken from vessels that dared to invade the dragon’s territory.
 
 A lunar dragon can become incorporeal, but not to the extent that it can pass through other creatures or solid objects. In this semi-incorporeal state, roughly half of the dragon’s body has a dark, indistinctly spectral form.
 
