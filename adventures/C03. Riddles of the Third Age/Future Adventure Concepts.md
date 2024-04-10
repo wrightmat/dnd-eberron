@@ -26,30 +26,31 @@ marker: default, -3.98, 7.20, [[2-07. Labyrinth of the Lantern's Light]]
 ```
 
 ### Adventure Concepts
+Obviously any of these could be done in any order, but they're presented here in rough order of difficulty (with adventures of the same color being roughly the same difficulty).
 
-##### [[2-04. The Legacy of the Moonblade]]
-Tailored to Thana, where the Moonblade is received. Average CR 5, Max CR 8.
+##### [[2-01. The Storm of Speartip]]
+Goal is to elucidate the blue dragons, Order of the Sapphire Scale, and give the party the opportunity to gain an ally. Also where the Dragon Claws are received. Purple difficulty (average CR 5, max CR 8).
 
-##### [[2-02. Mystic Glade and Vvaraak's Cave]]
-Goal is to elucidate the black dragons, Order of the Onyx Scale, and give the party the opportunity to gain an ally.
+##### [[2-02. The Legacy of the Moonblade]]
+Tailored to Thana, where the Moonblade is received. Purple difficulty (average CR 5, max CR 8).
 
-##### [[2-03. The Storm of Speartip]]
-Goal is to elucidate the blue dragons, Order of the Sapphire Scale, and give the party the opportunity to gain an ally. Also where the Dragon Claws are received.
+##### [[2-03. Echoes of the Celestial Realm]]
+Tailored to Verity, where the Platinum Scarf is received. Blue difficulty (average CR 6, max CR 10).
 
-##### [[2-05. Echoes of the Celestial Realm]]
-Tailored to Verity, where the Platinum Scarf is received.
+##### [[2-04. Mystic Glade and Vvaraak's Cave]]
+Goal is to elucidate the black dragons, Order of the Onyx Scale, and give the party the opportunity to gain an ally. Blue difficulty (average CR 6, max CR 10).
+
+##### [[2-05. Labyrinth of the Lantern's Light]]
+This is a way to fully empower the Lantern of Seeking. Possibly also reveal some additional information about the world, and/or give the party the opportunity to gain an ally (the Steel Dragon NPC might be good here). Green difficulty (average CR 7, max CR 12).
 
 ##### [[2-06. The Draconic Phylactery]]
-An opportunity to give more information about Arstyvrax and his undead nature, as well as to give them control over his phylactery. Potential to ally with Haze-of-Death as well.
+An opportunity to give more information about Arstyvrax and his undead nature, as well as to give them control over his phylactery. Potential to ally with Haze-of-Death as well. Green difficulty (average CR 7, max CR 12).
 
-##### [[2-07. Labyrinth of the Lantern's Light]]
-This is a way to fully empower the Lantern of Seeking. Possibly also reveal some additional information about the world.
-
-##### [[2-01. Stygianos the Carrion Sphinx]]
-Final challenge in Khorvaire, and fulfillment of the party's promise to Reigney. Could be the location of the Draakhorn? Max CR 14.
+##### [[2-07. Stygianos the Carrion Sphinx]]
+Final challenge in Khorvaire, and fulfillment of the party's promise to Reigney. Could be the location of the Draakhorn? Yellow difficulty (average CR 9, max CR 15).
 
 ##### [[2-08. Passage Through the Crystal Library]]
-Tailored to Aither and/or Staff, and also a way to get to Argonnessen without being detected. Max CR 15.
+Tailored to Aither and/or Staff, and also a way to get to Argonnessen without being detected. Red difficulty (average CR 10, max CR 17).
 
 ##### The Vast
 
