@@ -41,6 +41,14 @@ actions:
     desc: "The temple cat purrs loudly, targeting a humanoid it can see within 30 feet that can hear the temple cat. The target must succeed on a DC 14 Wisdom saving throw or be charmed. While charmed by the temple cat, the target must move toward the cat at normal speed and try to pet it or pick it up. A charmed target repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful, the creature is immune to the temple cat’s Fascinating Lure for the next 24 hours. The temple cat has advantage on attack rolls against any creature petting or holding it."
 ```
 
+*A slim feline far larger than any house cat slips from the shadows. Its coat glistens like ink as it chirps, and its tail flicks teasingly as its golden eyes observe the doings in its temple.*
+
+**Bred for Magic**. Temple cats of Bastet are thought by some to be outsiders, but they are a terrestrial breed, created by the priesthood through generations of enchantment.
+
+**Lazy Temple Pets**. By day, temple cats laze about their shrines and porticos, searching out attention from the faithful and occasionally granting boons when it suits then.
+
+**Fierce Shrine Guardians**. By night, they serve as guardians in their temples, inciting would-be thieves to come close before viciously mauling them. More than one would-be rogue has met his or her fate at the claws and teeth of these slim, black-furred beasts. Bastet temple cats are fierce enemies of temple dogs.
+
 ### References
 
 * Tome of Beasts 1, pg. 32
