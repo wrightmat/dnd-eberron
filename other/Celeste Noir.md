@@ -1,3 +1,7 @@
+---
+crew: "30"
+crew_quality: "+3"
+---
 
 ### Description and Layout
 
