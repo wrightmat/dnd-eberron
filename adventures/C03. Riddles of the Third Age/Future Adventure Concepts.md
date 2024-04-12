@@ -73,7 +73,7 @@ Best for Thana, with some tie in to her family (as a +2 weapon). Most likely, th
 
 Best for Aither. When/if they get the Draakhorn and take on Megazord form, Aither is one of the hands.
 
-##### [[Platinum Scarf]]
+##### [[Platinum Scarf (Vestiage)]]
 
 Best for Verity? The radiant damage could be a fun play with her fallen status.
 
