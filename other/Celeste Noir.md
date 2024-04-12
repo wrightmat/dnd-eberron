@@ -3,6 +3,21 @@
 
 The Celeste Noir is a sailing ship that can be chartered from Sharn. It's famous for previous exhibitions it's been on, but is now primarily kept on retainer for whatever the Silver Scales may need.
 
+A sailing ship or warship has the following features:
+
+Ceilings. The ceilings in the lower deck, holds, and cabins are 8 feet high with 6-foot-high doorways.
+Doors. The ship's doors are made of wood and have AC 15. 18 hit points. and immunity to poison and psychic damage. A lock can be picked with a successful DC 15 Dexterity check made using thieves' tools, or the door can be forced open with a successful DC 20 Strength
+(Athletics) check.
+Footlockers. Footlockers on the ship are iron and have
+AC 19, 18 hit points, and immunity to poison and psychic
+damage.
+Light. Hanging lanterns cast bright light throughout
+the ship.
+Rigging. Rigging on the ship can be climbed without an
+ability check.
+Sails. The ship has three 80-foot-tall masts with sails to
+catch the wind and oars on the lower deck for rowing.
+
 ### Stats
 
 ![[sailing_ship.png]]
