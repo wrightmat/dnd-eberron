@@ -51,6 +51,9 @@ The city of the angels is composed of floating towers and is ruled over by the m
 
 A permanent gate to Sharn is present in Solar City as well, and it’s guarded by a group called The Burning Host.
 
+#### Undercloud
+A rarely visited and gloomy region beneath the clouds where things that need to be forgotten for the sake of peace sometimes end up. All manner of artifacts and strange relics from across Eberron and all the planes are drifting through the sky here on their own little motes of earth or cloud, forgotten to all but a few. There might be interplanar travellers in the Immeasurable Market who've come in search of things hidden in Undercloud and need help retrieving them. It seems like easy money, but a lot of the things that have ended up there are potentially dangerous, and the angels may try to stop your party retrieving them - and they'll have to contend with whatever strange monsters have ended up trapped in Undercloud over the millennia.
+
 ### Universal Properties
 
 Syrania encourages communication and negotiation, and grants all creatures the gift of flight. The Open Sky of Syrania is an endless void, and without flight, you could fall indefinitely; fortunately, all creatures find that they can move through the air just as naturally as walking.
@@ -66,3 +69,6 @@ Syrania encourages communication and negotiation, and grants all creatures the g
 **Absolute Peace**. To make an attack or cast a damaging spell, a creature must succeed on a DC 18 Wisdom saving throw. On a failed save, it doesn’t make the attack or cast the spell, but the action is lost.
 
 ### References
+
+* Planes of Eberron
+* https://www.reddit.com/r/Eberron/comments/krfn8j/anybody_run_anything_in_syrania/
