@@ -50,11 +50,12 @@ Unburdened property for any number of creatures it can see — so flightless cre
 ### Characters
 
 * **[[Castiel]]** (NN male angel solar). Castiel is the leader of the Solar City in Syrania, essentially the mayor of the city and definitely the most powerful angel in the plane.
+* **Mazalene** (NN female angel planetar). The Dominion of Rumors, who studies under the College of Commerce at The University.
+* **Akadi** (NN female angel planetar). The Dominion of Wind, who studies under the Nursery of Nature at The University.
+* **Sune** (NN female angel planetar). The Dominion of Beauty, who studies under the Amphitheater of Art at The University.
 * **Vyrael** (NN male angel). The Ashen Sword, Eighth among the Burning Host of Syrania. Vyrael is stationed as the guardian of a permanent portal between Syrania and Sharn, the City of Towers.
+* **Elyriel** (NN female angel). The Veiled Flame, Ninth among the Burning Host of Syrania, Elyriel appears as a tall, lithe celestial being, draped in flowing robes that shimmer with hues of azure and silver, and serves as guardian of any temporary portals to Eberron, including the Gate of Xabra. Elyriel embodies the calm and contemplative nature of Syrania, yet her demeanor conceals a fierce protectiveness over the portal she guards. She is wise and speaks in a melodious voice that resonates with the harmony of the plane.
 * **Ashe** (NN female angel). The angelic barkeep Ashe offers warm drinks around the fireplace at First Hearth, from which the inn takes its name.
-* **Mazalene** (NN female angel). The Dominion of Rumors, who studies under the College of Commerce at The University.
-* **Akadi** (NN female angel). The Dominion of Wind, who studies under the Nursery of Nature at The University.
-* **Sune** (NN female angel). The Dominion of Beauty, who studies under the Amphitheater of Art at The University.
 
 ### **Locations**
 

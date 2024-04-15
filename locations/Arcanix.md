@@ -57,16 +57,20 @@ Arcanix is also home to the Tower of Alchemy, one of the Five Nations’ premier
 
 Arcanix’s unique position makes it one of the Five Nations’ most magically aware places. Many of the residents are downright blasé about powerful arcane magic, while others take great delight in the astonishment on visitors’ faces when a carpet of flying alights on the town square or an aged wizard turns into a glorious dragon and flies away.
 
-Glarehold
+#### Glarehold
 One of the two towers devoted to training future spellcasters, including student residences. It is also home to the White Arch, where new students will often enter the academy for the first time.
 
-Amberwall: The second of the towers dedicated to students. In its lowest depths is the Maze of Shadowy Terror, a maze whose purpose is to teach students humility by testing their powers. The maze often serves as a final test for would-be graduates, though it is also used informally by students looking to prove themselves.
+#### Amberwall
+The second of the towers dedicated to students. In its lowest depths is the Maze of Shadowy Terror, a maze whose purpose is to teach students humility by testing their powers. The maze often serves as a final test for would-be graduates, though it is also used informally by students looking to prove themselves.
 
-Nocturnas: This is one of two towers that serves as a home and personal study for members of the Arcane Congress, including their personal laboratories and libraries. They often live here while advising Aundair on matters related to magic and their rivalry with the Twelve. In its center is Adal's Demesne, which houses Adal ir'Wynarn, Minister of Magic to Aundair and Queen Aurala's brother.[6] Near the top is the tower's observatory and a series of menhirs known as the Gate of Xabra. Finally, Nocturnas is the location of secret labs where Adal ir'Wynarn and his staff attempt to create weapons of war.
+#### Nocturnas
+This is one of two towers that serves as a home and personal study for members of the Arcane Congress, including their personal laboratories and libraries. They often live here while advising Aundair on matters related to magic and their rivalry with the Twelve. In its center is Adal's Demesne, which houses Adal ir'Wynarn, Minister of Magic to Aundair and Queen Aurala's brother. Near the top is the tower's observatory and a series of menhirs known as the Gate of Xabra. Finally, Nocturnas is the location of secret labs where Adal ir'Wynarn and his staff attempt to create weapons of war.
 
-Skyreach: Much like Nocturnas, Skyreach is home to members of the Arcane Congress. Unlike Nocturnas, it is also the location of the Five Nations' greatest store of arcane lore, the Library of Robideur, which takes up four stories of Skyreach's tallest tower.
+#### Skyreach
+Much like Nocturnas, Skyreach is home to members of the Arcane Congress. Unlike Nocturnas, it is also the location of the Five Nations' greatest store of arcane lore, the Library of Robideur, which takes up four stories of Skyreach's tallest tower.
 
-Tower of Alchemy: The Tower of Alchemy is home to Tzandro Kavalant, a senior mentor who teaches pupils in the art of alchemy including the secrets of alchemical golem creation.
+#### Tower of Alchemy
+The Tower of Alchemy is home to Tzandro Kavalant, a senior mentor who teaches pupils in the art of alchemy including the secrets of alchemical golem creation.
 
 #### The White Arch
 Visitors to the floating towers often ascend (via magic or the Trannicks’ hippogriffs) to Glarehold Tower, where an outcropping of rock has a massive white marble arch that leads to a white marble courtyard. The White Arch is also the traditional gateway that new students use when they begin their studies; many an Aundairian youth dreams of walking under the white arch, clad in the brown robes of a first-year student.
