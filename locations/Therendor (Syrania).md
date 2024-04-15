@@ -136,6 +136,8 @@ The city of the angels is composed of floating towers and is ruled over by the m
 A permanent gate to Sharn is present in Solar City as well, and it’s guarded by a group called The Burning Host. Vyrael, the Ashen Sword, Eighth among the Burning Host of Syrania, is stationed as the guardian of this portal.
 
 #### Undercloud
+>As you descend into the Undercloud, a dense, murky fog envelops you, muffling sounds and dimming the light to a perpetual twilight. The air is thick with the musty scent of age and forgotten secrets, tinged with the occasional sharp tang of ozone. Below you, small islands of earth and cloud drift lazily, each carrying relics and artifacts that whisper faintly of their origins across Eberron and beyond.
+
 A rarely visited and gloomy region beneath the clouds where things that need to be forgotten for the sake of peace sometimes end up. All manner of artifacts and strange relics from across Eberron and all the planes are drifting through the sky here on their own little motes of earth or cloud, forgotten to all but a few. There might be interplanar travelers in the Immeasurable Market who've come in search of things hidden in Undercloud and need help retrieving them. It seems like easy money, but a lot of the things that have ended up there are potentially dangerous, and the angels may try to stop your party retrieving them — and they'll have to contend with whatever strange monsters have ended up trapped in Undercloud over the millennia.
 
 #### Windmount
@@ -190,3 +192,4 @@ Syrania encourages communication and negotiation, and grants all creatures the g
 
 * Planes of Eberron
 * https://www.reddit.com/r/Eberron/comments/krfn8j/anybody_run_anything_in_syrania/
+* https://forgottenrealms.fandom.com/wiki/Sune
