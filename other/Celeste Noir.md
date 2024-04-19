@@ -1,6 +1,6 @@
 ---
 crew: "30"
-crew_quality: "+3"
+crew_quality: "+2"
 ---
 
 ### Description and Layout
