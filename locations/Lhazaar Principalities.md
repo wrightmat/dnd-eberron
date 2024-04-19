@@ -26,18 +26,18 @@ The Lhazaar people love the sea. They live around the sea because they feel trap
 
 #### Canon Fleets
   
-| Fleet | Leader | Seat |
-| ---- | ---- | ---- |
-| Seadragons | High Prince Ryger ir'Wynarn | Regalport, Greentarn |
-| Diresharks | Prince Kolberkon | Port Verge, Questor Island |
-| Cloudreavers | Prince Mika Rockface | Port Kraz, Kreg |
-| Gray Tide | Prince Kel | Unknown, Lastpoint |
-| The Bloodsails | Prince Shaen Tasil | Port Cairn, Farlnen Island |
-| The Wind Whisperers | Prince Koulton Brightwind | Blackrock, Orthoss |
-| The Heavenly Fleet | Prince Lorrister | Unknown |
-| Coldtide Fleet | Prince Kaelisk | Unknown, Stonespur Island |
-| Chaos Fleet | Magroth | Doesn't have one sort of pops in and out of Kythri |
-| Unnamed Gnomish Fleet | Unknown | Unknown, Lorghalen* |
+| Fleet                 | Leader                      | Seat                                               | Flagship             |
+| --------------------- | --------------------------- | -------------------------------------------------- | -------------------- |
+| Seadragons            | High Prince Ryger ir'Wynarn | Regalport, Greentarn                               | *Dragoneye*          |
+| Diresharks            | Prince Kolberkon            | Port Verge, Questor Island                         |                      |
+| Cloudreavers          | Prince Mika Rockface        | Port Kraz, Kreg                                    |                      |
+| Gray Tide             | Prince Kel                  | Unknown, Lastpoint                                 |                      |
+| The Bloodsails        | Prince Shaen Tasil          | Port Cairn, Farlnen Island                         |                      |
+| The Wind Whisperers   | Prince Koulton Brightwind   | Blackrock, Orthoss                                 |                      |
+| The Heavenly Fleet    | Prince Lorrister            | Unknown                                            | *Celestial Vanguard* |
+| Coldtide Fleet        | Prince Kaelisk              | Unknown, Stonespur Island                          |                      |
+| Chaos Fleet           | Magwroth                    | Doesn't have one sort of pops in and out of Kythri | *Magna Tyrannis*     |
+| Unnamed Gnomish Fleet | Unknown                     | Unknown, Lorghalen                                 |                      |
 
 ### References
 
