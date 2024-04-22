@@ -7,7 +7,7 @@ subrace:
 occupation: Deathguard Warden
 attitude: Helpful
 languages: Common, Elvish
-image:
+image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Elyon.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Elyon.png)"
 ---
  #npc 
  

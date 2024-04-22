@@ -4,6 +4,7 @@ race: Warforged
 occupation: Lord of Blades
 alignment: Lawful Evil
 languages: Common
+image: "![https://static.wikia.nocookie.net/eberron/images/a/a5/Lord_of_Blades.jpg|250](https://static.wikia.nocookie.net/eberron/images/a/a5/Lord_of_Blades.jpg)"
 ---
  #npc [[Mournland (Cyre)]]
 

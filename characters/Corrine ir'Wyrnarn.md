@@ -5,6 +5,7 @@ class: Sorcerer
 occupation: Empress of Aundair
 alignment: Lawful Evil
 attitude: Indifferent
+image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Corrine.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Corrine.png)"
 ---
  #npc 
 
