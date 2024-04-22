@@ -44,17 +44,17 @@ Goal is to elucidate the black dragons, Order of the Onyx Scale, and give the pa
 This is a way to fully empower the Lantern of Seeking. Possibly also reveal some additional information about the world, and/or give the party the opportunity to gain an ally (the Steel Dragon NPC might be good here). Green difficulty (average CR 7, max CR 12).
 
 ##### [[2-06. The Draconic Phylactery]]
-An opportunity to give more information about Arstyvrax and his undead nature, as well as to give them control over his phylactery. Potential to ally with Haze-of-Death as well. Green difficulty (average CR 7, max CR 12).
+Probably taliored to Staff. An opportunity to give more information about Arstyvrax and his undead nature, as well as to give them control over his phylactery. Potential to ally with Haze-of-Death as well. Green difficulty (average CR 7, max CR 12).
 
 ##### [[2-07. Stygianos the Carrion Sphinx]]
 Final challenge in Khorvaire, and fulfillment of the party's promise to Reigney. Could be the location of the Draakhorn? Yellow difficulty (average CR 9, max CR 15).
 
 ##### [[2-08. Passage Through the Crystal Library]]
-Tailored to Aither and/or Staff, and also a way to get to Argonnessen without being detected. Red difficulty (average CR 10, max CR 17).
+Most tied to Aither's backstory, but mostly a way to get to Argonnessen without being detected. Should also be a fun final challenge for all of the players, and a way to teach a lesson. Red difficulty (average CR 10, max CR 17).
 
 ##### The Vast
 
-* Final adventure where the players confront the topaz dragons and try to prevent their ritual to release Tiamat.
+* Final adventure where the players confront the topaz dragons and try to prevent their ritual to release Tiamat. Mechanics should really lean into the idea of order versus chaos.
 * BBEG: Ancient Topaz Dragon (CR 20), with modifications, used for [[characters/Arstyvrax|Arstyvrax]].
 * Final Battle:
 	* Part 1: Topaz dragons, probably as a swarm
@@ -67,27 +67,30 @@ Tailored to Aither and/or Staff, and also a way to get to Argonnessen without be
 
 ##### [[Moonblade (Vestige)]]
 
-Best for Thana, with some tie in to her family (as a +2 weapon). Most likely, this exact sword belonged to one of her parents and is her right to wield.
+Designed for Thana, with a tie in to her family. Most likely, this exact sword belonged to one of her parents and is her right to wield.
 
 ##### [[Dragon Claws (Vestige)]]
 
-Best for Aither. When/if they get the Draakhorn and take on Megazord form, Aither is one of the hands.
+Designed for Aither. When/if they get the Draakhorn and take on Megazord form, Aither is one of the hands.
 
-##### [[Platinum Scarf (Vestiage)]]
+##### [[Platinum Scarf (Vestige)]]
 
-Best for Verity? The radiant damage could be a fun play with her fallen status.
+Designed for Verity. The radiant damage is a fun play with her fallen status, and the various abilities give her utility.
+
+##### Something for Staff?
+
+??? Need to ask Jolene what her goals are for the character, and how she wants her to grow.
 
 ##### [[Draakhorn]]
 
-Final item that allows all of the PCs to use their Dragon Masks to create a larger form to take on the topaz dragons.
+Final item that allows all of the PCs to use their Dragon Masks to create a larger form to take on the topaz dragons. Need to design mechanics.
 
 ##### Topaz Annihilator
 
-This item from Fizban's should be the ultimate weapon that they get from defeating the topaz dragons. Or could give it earlier so they can use it on the final battle if it wouldn't entirely break the battle. Possibly it can't pierce topaz/obsidian dragon scales, since that's what powers it?
+This item from Fizban's should be the ultimate weapon that they get from defeating the topaz dragons. Or could give it earlier so they can use it on the final battle if it wouldn't entirely break the battle. Possibly it can't pierce topaz/obsidian dragon scales, since that's what powers it? But could be used against the Aspect of Tiamat?
 
 ### DM Notes
 
-* Use a Hoard Golem (ToB1, FToD) somewhere in an abandoned dragon lair with an unprotected hoard.
 * If the players return to Shae Mordai, use the Haugbui (ToB1) as a boss monster.
 * Slow Storm (ToB1) is a fun chaos-themed monster that should be used somewhere.
 

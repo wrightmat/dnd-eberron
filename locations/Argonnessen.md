@@ -15,12 +15,18 @@ zoomDelta: 0.5
 defaultZoom: 4
 unit: miles
 osmLayer: false
+marker: default,-38.41055825094608,27.685546875000004,,Light of Siberys,,
+marker: default,-30.29701788337204,41.92382812500001,,The Vast,,
+marker: default,-29.916852233070173,51.94335937500001,,The Tapestry,,
+marker: default,-33.28461996888768,57.74414062500001,[[Vorel’Arux]],,,
+marker: default,-42.29356419217008,57.83203125000001,,The Thousand,,
 ```
 
 ### Locations
 
 * **Light of Siberys**
 * **The Tapestry**
+	* **[[Vorel’Arux]]**
 * **The Thousand**
 * **The Vast**
 
@@ -32,6 +38,8 @@ Since then, dragons have only sallied forth in large numbers from Argonnessen on
 
 ### DM Notes
 
-
+* 
 
 ### References
+
+* Dragons of Eberron

@@ -62,9 +62,9 @@ mythic_actions:
 
 ### Description
 
-The five-headed progenitor of chromatic dragons, Tiamat embodies the vices of evil dragons. Since the destruction of the First World, she has dwelled in the Nine Hells—some say by choice. But others claim that she is imprisoned there to punish her for the evils she perpetrated when the gods sought to colonize the First World with their followers.
+The five-headed progenitor of chromatic dragons, Tiamat embodies the vices of evil dragons. Since the destruction of the First World, she has dwelled in the Nine Hells — some say by choice. But others claim that she is imprisoned there to punish her for the evils she perpetrated when the gods sought to colonize the First World with their followers.
 
-Mortals who hunger for power and wealth often swear fealty to Tiamat in pursuit of those goals. Many of her followers have attempted to break her out of Avernus—and failed—but even while she remains in the Nine Hells, Tiamat can send her aspect to manifest in the Material Plane. A follower with enough power and anger, and with a hoard worthy of ancient dragons, can sacrifice it all to unleash the wrath of the dragon queen on a world.
+Mortals who hunger for power and wealth often swear fealty to Tiamat in pursuit of those goals. Many of her followers have attempted to break her out of Avernus — and failed — but even while she remains in the Nine Hells, Tiamat can send her aspect to manifest in the Material Plane. A follower with enough power and anger, and with a hoard worthy of ancient dragons, can sacrifice it all to unleash the wrath of the dragon queen on a world.
 
 The aspect of Tiamat has the body of a titanic dragon with five heads, each the shape and hue of a different chromatic dragon. Each head might speak separately and have different mannerisms, but they are all Tiamat. Once unleashed, the aspect of Tiamat rampages across the world, acquiring any treasure she can find and destroying any creature that dares to cross her path.
 
