@@ -4,6 +4,7 @@ gender: Male
 race: Half-Orc
 occupation: Salvager
 attitude: Indifferent
+image: "![https://www.worldanvil.com/uploads/images/7d436c3bc606537c949ad600846c62e8.jpg|250](https://www.worldanvil.com/uploads/images/7d436c3bc606537c949ad600846c62e8.jpg)"
 ---
  #npc [[Mournland (Cyre)]]
 

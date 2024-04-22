@@ -3,6 +3,7 @@ gender: Male
 race: Human
 occupation: High Cardinal of Thrane
 alignment: Lawful Evil
+image: "![https://static.wikia.nocookie.net/eberron/images/8/87/Highcardinalkrozen.jpg|250](https://static.wikia.nocookie.net/eberron/images/8/87/Highcardinalkrozen.jpg)"
 ---
  #npc [[Flamekeep]]
 

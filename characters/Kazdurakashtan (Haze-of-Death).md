@@ -3,6 +3,7 @@ gender: Male
 race: Dragon
 subrace: Chromatic (White)
 alignment: Chaotic Evil
+image: "![https://static.wikia.nocookie.net/eberron/images/3/35/HazeofDeath.jpg|250](https://static.wikia.nocookie.net/eberron/images/3/35/HazeofDeath.jpg)"
 ---
  #npc [[Draconic Factions]] [[The Chamber]]
 
