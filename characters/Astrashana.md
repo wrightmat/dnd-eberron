@@ -54,7 +54,7 @@ Six years later, Astra now roams the country with his violin and a carefree smil
 
 * At some point Astra traveled from Sarlona to Khorvaire, which he accomplished via the ports of Ohr Kaluun in the east. The islands of Ohr Kaluun have smuggler ports that can get desperate Sarlonans to western Khorvaire, but getting there requires going through the Corvagura Province, which is the most populated Riedran territory.
 * After Astra met Windsor in Delethorn, where a group of them decided to take on a job from the desperate mayor, they started to develop a friendship that blossomed into a relationship over the next year or two. At one point in Zarantyr 999 YK, they decided to charter a boat and sail the world, where Astra showed Windsor their homeland of Adar for the first time and they confirmed their relationship.
-* Astra and the rest of their group left for wildspace ("The Up") aboard a ship called the New Dawn. After that adventure was completed, Astra returned to Eberron with Windsor to settle down. They took him back to Adar, to their favorite clifftop at dawn, and proposed marriage. The two were married in Sharn, and settled down in Arcanix where Windsor returned to his academic life.
+* Astra and the rest of their group left for wildspace ("The Up") aboard a ship called the New Dawn. After that adventure was completed, Astra returned to Eberron with Windsor to settle down. They took him back to Adar, to their favorite clifftop at dawn, and proposed marriage. The two were married in Sharn, and settled down in Arcanix where Windsor returned to his academic life. After many years, after Windsor had mostly retired, they moved to Stormhome to spend their old age on the beaches.
 
 ### Timeline
 
