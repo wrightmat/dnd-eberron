@@ -4,6 +4,7 @@ race: Dragon
 subrace: Metallic (Copper)
 occupation: Faction Leader, Hotelier
 alignment: Chaotic Neutral
+image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Kauverra.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Kauverra.png)"
 ---
  #npc [[Draconic Factions]]
 

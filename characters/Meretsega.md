@@ -4,6 +4,7 @@ race: Dragon
 subrace: Metallic (Brass)
 occupation: Faction Leader
 alignment: Chaotic Evil
+image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Meretsega.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Meretsega.png)"
 ---
  #npc [[Draconic Factions]]
 

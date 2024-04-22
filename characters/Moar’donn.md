@@ -4,6 +4,7 @@ race: Dragon
 subrace: Chromatic (Black)
 occupation: Faction Leader
 alignment: Chaotic Evil
+image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Moardonn.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Moardonn.png)"
 ---
  #npc [[Draconic Factions]]
 

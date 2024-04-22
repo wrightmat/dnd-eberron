@@ -4,6 +4,7 @@ race: Dragon
 subrace: Metallic (Silver)
 occupation: Faction Leader, Protector of Sharn
 alignment: Lawful Good
+image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Yllosavax.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Yllosavax.png)"
 ---
  #npc [[Draconic Factions]] [[The Silver Scales]]
 

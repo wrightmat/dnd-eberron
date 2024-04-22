@@ -4,6 +4,7 @@ race: Dragon
 subrace: Metallic (Gold)
 occupation: Faction Leader, Prefect of Thrane
 alignment: Lawful Neutral
+image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Spindelaryx.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Spindelaryx.png)"
 ---
  #npc [[Draconic Factions]] [[Flamekeep]] [[The Chamber]]
 

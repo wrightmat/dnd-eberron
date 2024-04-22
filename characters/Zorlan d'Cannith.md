@@ -2,6 +2,7 @@
 gender: Male
 race: Human
 occupation: Baron
+image: "![https://static.wikia.nocookie.net/eberron/images/5/56/Zorlan.jpg|250](https://static.wikia.nocookie.net/eberron/images/5/56/Zorlan.jpg)"
 ---
  #npc [[Korth]]
 

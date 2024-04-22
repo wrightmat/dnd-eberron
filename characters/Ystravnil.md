@@ -4,6 +4,7 @@ race: Dragon
 subrace: Chromatic (Green)
 occupation: Faction Leader
 alignment: Neutral Evil
+image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Ystravnil.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Ystravnil.png)"
 ---
  #npc [[Draconic Factions]]
 

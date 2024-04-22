@@ -4,6 +4,7 @@ race: Dragon
 subrace: Chromatic (Blue)
 occupation: Faction Leader
 alignment: Chaotic Neutral
+image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Kalryni.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Kalryni.png)"
 ---
  #npc [[Draconic Factions]]
 

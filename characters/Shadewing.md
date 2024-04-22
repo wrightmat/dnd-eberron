@@ -4,6 +4,7 @@ race: Dragon
 subrace: Metallic (Bronze)
 occupation: Faction Leader
 alignment: Neutral Evil
+image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Shadewing.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Shadewing.png)"
 ---
  #npc [[Draconic Factions]]
 
