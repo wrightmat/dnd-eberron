@@ -23,7 +23,7 @@ Image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/CaWs
 ### Characters
 
 * **[[Death]]**
-* **[[Smith of Souls]]**
+* **[[The Smith of Souls]]**
 * **[[The Librarian]]**
 
 ### Locations

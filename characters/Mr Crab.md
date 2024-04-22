@@ -2,6 +2,7 @@
 gender: Male
 race: Giant Crab
 attitude: Helpful
+image: "![https://www.tribality.com/wp-content/uploads/2019/03/email-giant-crab.png|250](https://www.tribality.com/wp-content/uploads/2019/03/email-giant-crab.png)"
 ---
  #npc [[Flamekeep]]
 

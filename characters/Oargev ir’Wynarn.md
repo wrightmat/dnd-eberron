@@ -3,6 +3,7 @@ gender: Male
 race: Human
 occupation: Noble
 attitude: Friendly
+image: "![https://static.wikia.nocookie.net/eberron/images/c/c2/Oargev_ir%27Wynarn.jpg|250](https://static.wikia.nocookie.net/eberron/images/c/c2/Oargev_ir%27Wynarn.jpg)"
 ---
  #npc [[New Cyre]]
 

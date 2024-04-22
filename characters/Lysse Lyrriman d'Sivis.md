@@ -3,6 +3,7 @@ gender: Female
 race: Gnome
 occupation: Noble
 attitude: Helpful
+image: "![https://static.wikia.nocookie.net/eberron/images/9/92/Lysse.jpg|250](https://static.wikia.nocookie.net/eberron/images/9/92/Lysse.jpg)"
 ---
  #npc [[Korranberg]]
 
