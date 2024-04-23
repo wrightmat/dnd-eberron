@@ -25,6 +25,7 @@ marker: default, -7.25, 17.59375, [[Aryth (Dolurrh)]]
 marker: default, -7.28125, 18.578125, [[Vult (Shavarath)]]
 marker: default, -9.890625, 18.2109375, [[Crya (Dal Quor)]]
 marker: default, -9.625, 14.875, [[The Outer Darkness]]
+marker: default, -6.729736328125, 2.9609375, [[Ring of Siberys]]
 ```
 
 Shardspace (also sometimes called Siberspace) is a particularly named wildspace, the empty vacuum between astronomical bodies, inside the world of Eberron. The githyanki, from the second age of Eberron, call it Siberspace, while Aleithilithos, from the original age of Eberron, calls it Shardspace.
