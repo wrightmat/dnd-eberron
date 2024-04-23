@@ -32,16 +32,16 @@ Obviously any of these could be done in any order, but they're presented here in
 Goal is to elucidate the blue dragons, Order of the Sapphire Scale, and give the party the opportunity to gain an ally. Also where the Dragon Claws are received. Purple difficulty (average CR 5, max CR 8).
 
 ##### [[2-02. The Moon Temple]]
-Tailored to Thana, where the Moonblade is received. Purple difficulty (average CR 5, max CR 8).
+Tailored to Thana, where the Moonblade is received. Purple difficulty (average CR 5, max CR 8). The Lantern of Seeking command word for Fey or Plants is found here.
 
 ##### [[2-03. Echoes of the Celestial Realm]]
-Tailored to Verity, where the Platinum Scarf is received. Blue difficulty (average CR 6, max CR 10).
+Tailored to Verity, where the Platinum Scarf is received. Blue difficulty (average CR 6, max CR 10). The Lantern of Seeking command word for Celestials is found here.
 
 ##### [[2-04. Mystic Glade and Vvaraak's Cave]]
-Goal is to elucidate the black dragons, Order of the Onyx Scale, and give the party the opportunity to gain an ally. Blue difficulty (average CR 6, max CR 10).
+Goal is to elucidate the black dragons, Order of the Onyx Scale, and give the party the opportunity to gain an ally. Blue difficulty (average CR 6, max CR 10). The Lantern of Seeking command word for Aberrations is found here.
 
 ##### [[2-05. Labyrinth of the Lantern's Light]]
-This is a way to fully empower the Lantern of Seeking. Possibly also reveal some additional information about the world, and/or give the party the opportunity to gain an ally (the Steel Dragon NPC might be good here). Green difficulty (average CR 7, max CR 12).
+This is a way to fully empower the Lantern of Seeking. Possibly also reveal some additional information about the world, and/or give the party the opportunity to gain an ally (the Steel Dragon NPC might be good here). Green difficulty (average CR 7, max CR 12). The Lantern of Seeking command words for Fiends, Elementals or Oozes, and Constructs are all found here.
 
 ##### [[2-06. The Draconic Phylactery]]
 Probably taliored to Staff. An opportunity to give more information about Arstyvrax and his undead nature, as well as to give them control over his phylactery. Potential to ally with Haze-of-Death as well. Green difficulty (average CR 7, max CR 12).
@@ -50,7 +50,7 @@ Probably taliored to Staff. An opportunity to give more information about Arstyv
 Final challenge in Khorvaire, and fulfillment of the party's promise to Reigney. Could be the location of the Draakhorn? Yellow difficulty (average CR 9, max CR 15).
 
 ##### [[2-08. Passage Through the Crystal Library]]
-Most tied to Aither's backstory, but mostly a way to get to Argonnessen without being detected. Should also be a fun final challenge for all of the players, and a way to teach a lesson. Red difficulty (average CR 10, max CR 17).
+Most tied to Aither's backstory, but mostly a way to get to Argonnessen without being detected. Should also be a fun final challenge for all of the players, and a way to teach a lesson. Red difficulty (average CR 10, max CR 17). The Lantern of Seeking command word for Dragons is found here.
 
 ##### The Vast
 
