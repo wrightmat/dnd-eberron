@@ -42,6 +42,10 @@ Verity is from Dar Ilash in Pyrine. They serve as a guide to tourists of the are
 
 They found a call to adventure at Morgrave University on one of the many temple bulletin boards, and chartered a room on a ship to get to Khorvaire.
 
+### Family
+
+Aeon is cold and distant, and basically uncaring about mortals.
+
 ### Motivation and Goal(s)
 
 Moral redemption for their past and present. Also acceptance from others (and to an extent from themself) in that she can be herself and still be accepted.
