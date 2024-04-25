@@ -25,16 +25,16 @@ damage_resistances: fire, radiant; bludgeoning, piercing, and slashing from nonm
 damage_immunities: poison
 condition_immunities: blinded, exhaustion, frightened, poisoned, prone
 senses: blindsight 120 ft. (blind beyond this radius), passive Perception 16
-languages: Celestial, telepathy 120 ft.
+languages: Celestial, Telepathy 120 ft.
 cr: 5
 traits:
   - name: Celestial Freedom.
     desc: "The moonkite ignores difficult terrain, and magical effects can’t reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled. In addition, it has advantage on saving throws against spells and effects that would banish it from its current plane or that would bind it to a particular location or creature. The moonkite can grant this trait to anyone riding it."
-    name: Flyby.
+  - name: Flyby.
     desc: "The moonkite doesn’t provoke opportunity attacks when it flies out of an enemy’s reach."
-    name: Magic Resistance.
+  - name: Magic Resistance.
     desc: "The moonkite has advantage on saving throws against spells and other magical effects."
-    name: Magic Weapons.
+  - name: Magic Weapons.
     desc: "The moonkite’s weapon attacks are magical and silvered."
 actions:
   - name: Multiattack.

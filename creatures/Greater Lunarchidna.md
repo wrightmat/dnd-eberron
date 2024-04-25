@@ -4,7 +4,6 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
 name: Greater Lunarchidna
 size: Medium
 type: Aberration
@@ -30,7 +29,7 @@ traits:
     desc: "The lunarchidna can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
   - name: Sunlight Sensitivity.
     desc: While in sunlight, the lunarchidna has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
-    name: Web Walker.
+  - name: Web Walker.
     desc: "The lunarchidna ignores movement restrictions caused by webbing."
 actions:
   - name: Multiattack.
