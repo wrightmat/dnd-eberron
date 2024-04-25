@@ -6,6 +6,7 @@ occupation: Empress of Aundair
 alignment: Lawful Evil
 attitude: Indifferent
 image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Corrine.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Corrine.png)"
+languages: Common, Draconic, Elvish, Halfling
 ---
  #npc 
 
@@ -25,7 +26,7 @@ image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Corrine.png|250](http
 > ###### Comments
 > `=this.comments`
 
-Corrine ir'Wynarn is the current empress of the Aundair. She is the youngest daughter of the late Aurala ir'Wynarn. When Corrine came into power, she removed the title queen and turned it into empress as a decree. She deemed that their nation was strong and proud enough to be considered an empire.
+Corrine ir'Wynarn is the current empress of the Aundair. She is the youngest daughter of the late Aurala ir'Wynarn. When Corrine came into power, she removed the title queen and turned it into empress as a decree. She deemed that their nation was strong and proud enough to be considered an empire. Corrine now resides at the palace in the Royal Court of Fairhold, or simply Fairhold, in the city of Fairhaven in Aundair (although she often returns to the Eldeen Reaches for business).
 
 * Aurala ir'Wynarn died unexpectedly while attending a public event in Fairhaven.
 * Corrine, who had moved to the Eldeen Reaches after graduating from Arcanix, returned to Aundair accompanied by a new man (who is actually a green dragon in disguise, which she knows but others don't).
