@@ -91,7 +91,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Assets**:
 	- 
 - **Morale**: +6
-- **Goal**: Build up a navy strong enough to protect Argonnessen from outsiders while the other dragons release Khyber.
+- **Goal**: Build up a navy strong enough to protect Argonnessen from outsiders while the other dragons release Tiamat.
 - **Objectives**:
 	 - [x]  A single ship of bronze dragonborn lands in Pylas Maradal, and begin working with House Lyrandar to build more ships.
 	 - [ ]  The bronze dragonborn open their own port and ship building business, called the Bronze Shipyard, to compete with House Lyrandar. Add "Bronze Shipyard (headquarters)" to Assets.
