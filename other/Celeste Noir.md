@@ -79,6 +79,8 @@ A ship requires a number of able-bodied sailors to crew it, as specified in its 
 #### Benjamin Octavius
 Benjamin, a chaotic good male human acolyte, is the ship’s surgeon. He’s a student of medicine studying at Morgrave University in Sharn, and is currently on break. He chose to accompany this voyage because he wanted hands-on experience, and this seemed like a thrilling way to get it. The idea of hanging around in a House Jorasco hospital all day drives him mad.
 
+He speaks with a more proper British accent, suggesting he may not originally be from Sharn but from another area of Breland, such as Wroat.
+
 #### Oliver Ramorell
 Oliver, a chaotic neutral male human veteran, grew up poor and hungry in the shadows of Rhukaan Draal, capital city of the young, goblin-run nation of Darguun. He fled from Darguun to Sharn as a teenager, but lost his parents in the process. Now he has dedicated himself to the arts of swordsmanship and weapon maintenance, serving as hired muscle for petty criminals in Sharn.
 
@@ -100,7 +102,7 @@ Demetrius has resistance to lightning damage, and can cast gust at will, and gus
 #### Aubrey Galatea
 Aubrey, a neutral evil changeling assassin, is the first mate. She possesses an aberrant dragonmark on her back, which spreads from her shoulder blades to her tailbone. She is immensely secretive about the mark, and it grows a fraction of an inch every time she casts a spell using its power — which makes her reluctant to use its power, lest it make its presence more obvious.
 
-If Aubrey joins the characters in combat, she doesn’t use poison on her weapons. She fights as if she were a frontline warrior, rather than revealing her exceptional skill at stealth and assassination. Her aberrant dragonmark also grants her the power to cast friends at will, and can cast charm person once per day.
+If Aubrey joins the characters in combat, she doesn’t use poison on her weapons. She fights as if she were a frontline warrior, rather than revealing her exceptional skill at stealth and assassination. Her aberrant dragonmark also grants her the power to cast *friends* at will, and can cast *charm person* once per day.
 
 ### Statistics and Combat
 

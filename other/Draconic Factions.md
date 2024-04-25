@@ -128,16 +128,16 @@ The tracts below are listed in the general order that the PCs are expected to en
 ##### Blue (Lhazaar)
 - **Cunning**: 1
 - **Force**: 1
-- **Magic**: 3
+- **Magic**: 5 (3)
 - **Wealth**: 1
 - **Assets**:
 	- 
-- **Morale**: +6
+- **Morale**: +8
 - **Goal**: To sow chaos, as a necessary precursor to the rise of draconic supremacy (mechanically this will probably involve adding to particular rolls/checks based on how many of these are checked off).
 - **Objectives**:
-	 - [ ]  The Order of the Sapphire Scale, a group of random people of all races (mostly humans and changelings), begin their efforts in Lhazaar. The Infernal Enginer appears during a play at the Grand Thuranni Theater and takes several people.
-	 - [ ]  Chaos spreads across Lhazaar - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects (d20 rolled when any spell cast, with a wild magic effect on a 1) in place for any magic cast in this region. +1 to Magic.
-	 - [ ]  Chaos spreads across eastern Khorvaire (east of the Mournland) - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast in the area. +1 to Magic.
+	 - [x]  The Order of the Sapphire Scale, a group of random people of all races (mostly humans and changelings), begin their efforts in Lhazaar. The Infernal Enginer appears during a play at the Grand Thuranni Theater and takes several people.
+	 - [x]  Chaos spreads across Lhazaar - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects (d20 rolled when any spell cast, with a wild magic effect on a 1) in place for any magic cast in this region. +1 to Magic.
+	 - [x]  Chaos spreads across eastern Khorvaire (east of the Mournland) - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast in the area. +1 to Magic.
 	 - [ ]  The Infernal Engine randomly appears on one of the islands of Lhazaar, disappearing `dice:1d6` days later, and taking `dice:1d8` people with it. Add those people to Assets.
 	 - [ ]  Chaos spreads across ALL Khorvaire - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast on the continent. +1 to Magic.
 	 - [ ]  The Infernal Engine randomly appears somewhere on Khorvaire, disappearing `dice:1d6` days later, and taking `dice:1d10+1` people with it. Add those people to Assets.
@@ -214,13 +214,13 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Assets**:
 	- 
 - **Morale**: +6
-- **Goal**: To create a new extremely powerful half-dragon, similar to Erandis Vol.
+- **Goal**: To create a new extremely powerful half-dragon, similar to Erandis Vol, referred to as "Project Emerald".
 - **Objectives**:
-	 - [ ]  Kidnap a renowned scholar specializing in draconic history, a former librarian named Tanila who lives at Arcanix University. Add as an Asset.
+	 - [ ]  Kidnap (or persuade to help) a renowned scholar specializing in draconic history, a librarian named Tanila who lives at Arcanix University. Add as an Asset.
 	 - [ ]  Kidnap a young heir from House Lyrandar, Ashaya, known for her strong affinity for elemental powers, to serve as the dragonmarked heir mother. Add as an Asset. Strange weather patterns begin to plague the area of Stormhome where she was kidnapped.
 	 - [ ]  Kidnap a high ranking member of the Blood of Vol, Archpriestess Valeria Dantos, who can contribute expertise in necromancy. Add as an Asset.
 	 - [ ]  Capture and study various species of dragonkin, such as wyverns and drakes, along with select humanoid subjects, to understand the compatibility of draconic essence with humanoid forms. +1 to Magic.
-	 - [ ]  Build or locate a site of significant magical power, such as a confluence of ley lines or a place steeped in ancient dragon lore, to serve as the focal point for the creation ritual. +1 to Magic.
+	 - [ ]  Build or locate a site of significant magical power, such as a confluence of ley lines or a place steeped in ancient dragon lore, to serve as the focal point for the creation ritual. Possibly Arcanix. +1 to Magic.
 	 - [ ]  Successfully complete the ritual, causing a pregnancy in Ashaya in the process. +1 to Magic.
 	 - [ ]  Ashaya gives birth of a half-dragon baby, completing their goal. Add as an Asset.
 
