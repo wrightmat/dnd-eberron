@@ -13,7 +13,7 @@ When an appropriate command word is spoken, and certain types of creatures are w
 | 3   | Constructs              | Orange  |           |
 | 4   | Dragons                 | Brown   |           |
 | 5   | Elementals or Oozes     | Blue    |           |
-| 6   | Fey or Plant            | Green   |           |
+| 6   | Fey or Plant            | Green   | Evergreen |
 | 7   | Fiends                  | Red     |           |
 | 8   | Giants                  | Cyan    | Everlarge |
 | 9   | Monstrosities or Beasts | Yellow  | Everlight |
