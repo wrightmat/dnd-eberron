@@ -37,7 +37,11 @@ Thana lived in Shae Mordai before it fell, and was present when the attack occur
 
 Now she lives in Dar Ulatesh (the largest city) in Rhiavhaar and does odd funeral jobs (including house calls to pick up bodies and such). She found the posting about Morgrave University on a job board while on her rounds. Then she took an odd job on a ship headed to Khorvaire.
 
-Thana has no family in Sarlona, but has at least some family alive in Aerenal (including an uncle in Shae Cairdal).
+### Family
+
+Thana has no family in Sarlona, but has at least some family alive in Aerenal. Her uncle, Elyon, is an Deathguard Warden in Shae Cairdal, whose domain is Sarlona
+
+Her grandmother ("mee-maw") is a Deathless who is entombed in the basement of the Temple to the Undying Court in Shae Cairdal.
 
 ### Motivation and Goal(s)
 
