@@ -1,7 +1,7 @@
 ---
 region: "[[public/Sarlona|Sarlona]]"
 type: Region
-image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Borunan.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Borunan.png)"
+image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Borunan.png|250](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Borunan.png)"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
 Public: [[locations/Borunan|Borunan]]

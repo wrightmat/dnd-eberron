@@ -13,10 +13,15 @@ location: "[27.780772, -36.848145]"
 > | ---- | ---- |
 > | **Type** | `=this.type` |
 > | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
 > `=this.comments`
 
@@ -34,38 +39,16 @@ Delethorn is a small town in the central Eldeen Reaches, on the shores of Lake G
 
 ### Locations
 
-![https://wrightmat.github.io/dnd-eberron/_img/delethorn.jpg](https://wrightmat.github.io/dnd-eberron/_img/delethorn.jpg)
+![https://wrightmat.github.io/dnd-eberron/_img/delethorn.jpg|400](https://wrightmat.github.io/dnd-eberron/_img/delethorn.jpg)
 
-##### 1: Docks and Stables.
-
-Mark of Storm and Mark of Handling over the door. A small galleon (water elemental-bound vessel) is available at the docks, and a small stable has a number of horses which can be bought or rented. Run by Ditan Indaze.
-
-##### 2: Arms and Armor.
-
-Mark of Making and Mark of Sentinel over the door. Sells any basic weapons or armor the party may need. Run by Jenseris.
-
-##### 3: Town Hall.
-
-Mark of Passage, Mark of Scribing, and Mark of Warding over the door. Office of Gelel Embertree, the town's mayor. Also serves as the town's Courier, Mapmaker, and Bank. Gelel can fulfill any of these services if asked - he has a good relationship with all of these houses. He can also be contacted directly using Speaking Stones if needed.
-
-##### 4: Gold Dragon Inn.
-
-Mark of Hospitality and Mark of Healing over the door. This is a smaller branch location that has only a few beds, a small restaurant with a limited menu, and an ancillary store licensed by House Jorasco that sells potions. The whole operation is run by a single halfling with the blessing of both houses, Kelyra Ambereyes.
-
-[[Gold Dragon Inns]]
-
-##### 5: Warehouse.
-
-A newly opened Warehouse/Factory that has the Mayor concerned.
-
-[[1-01. Delethorn Warehouse]]
-
-##### 6: Boraz’s Bounty.
-
-A local half-orc has claimed the sewers in the name of the Finders Guild, so he can explore them for any treasures. He hasn't fully explored them yet, but has set up shop near the opening of the sewers on the edge of town.
-
-##### 7: Hydra Theater.
-
-Mark of Shadow and Mark of Detection over the door. A sizeable theater composed of a lobby, a stage with seating, a locked back room, and an amphitheater outside. The lobby has a merchant selling various items, such as tools and kits. There's a wall of books on the other side of the lobby. The main stage room has a number of chairs, stands, musical instruments, etc. There's a locked door next to the stage, that if picked, could lead to the sewers or another location as needed.
+* **Docks and Stables** (1). Mark of Storm and Mark of Handling over the door. A small galleon (water elemental-bound vessel) is available at the docks, and a small stable has a number of horses which can be bought or rented. Run by Ditan Indaze.
+* **Arms and Armor** (2). Mark of Making and Mark of Sentinel over the door. Sells any basic weapons or armor the party may need. Run by Jenseris.
+* **Town Hall** (3). Mark of Passage, Mark of Scribing, and Mark of Warding over the door. Office of Gelel Embertree, the town's mayor. Also serves as the town's Courier, Mapmaker, and Bank. Gelel can fulfill any of these services if asked - he has a good relationship with all of these houses. He can also be contacted directly using Speaking Stones if needed.
+* **Gold Dragon Inn** (4). Mark of Hospitality and Mark of Healing over the door. This is a smaller branch location that has only a few beds, a small restaurant with a limited menu, and an ancillary store licensed by House Jorasco that sells potions. The whole operation is run by a single halfling with the blessing of both houses, Kelyra Ambereyes.
+	* [[Gold Dragon Inns]]
+* **Warehouse** (5). A newly opened Warehouse/Factory that has the Mayor concerned.
+	* [[1-01. Delethorn Warehouse]]
+* **Boraz’s Bounty** (6). A local half-orc has claimed the sewers in the name of the Finders Guild, so he can explore them for any treasures. He hasn't fully explored them yet, but has set up shop near the opening of the sewers on the edge of town.
+* **Hydra Theater** (7). Mark of Shadow and Mark of Detection over the door. A sizeable theater composed of a lobby, a stage with seating, a locked back room, and an amphitheater outside. The lobby has a merchant selling various items, such as tools and kits. There's a wall of books on the other side of the lobby. The main stage room has a number of chairs, stands, musical instruments, etc. There's a locked door next to the stage, that if picked, could lead to the sewers or another location as needed.
 
 ### References

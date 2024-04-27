@@ -5,7 +5,35 @@ location: "[19.508020,-42.176513]"
 ---
  #location #city  [[Droaam]]
 
-Graywall is a small city in the monster nation of Droaam. It lies on a House Orien trade road leading from western Breland, and is usually a visitor's first stop when entering Droaam. It is the second-largest settlement in the region after the Great Crag, which serves as the nation's capital. Graywall is run by [[Xor'chylic]], its illithid mayor.
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
+Graywall is a small city in the monster nation of Droaam. It lies on a House Orien trade road leading from western Breland, and is usually a visitor's first stop when entering Droaam. It is the second-largest settlement in the region after the Great Crag, which serves as the nation's capital.
+
+### Characters
+
+ * **[[Xor'chylic]]**. Graywall's illithid mayor.
+
+### Locations
+
+* 
 
 ### History
 
@@ -16,3 +44,5 @@ Over the next nine thousand years, the ruins of Korash Khaar changed hands many 
 During the latter days of the Last War, monstrous warbands were seen in western Breland, causing chaos amongst the citizens of the nation. In 987 YK, King Boranel of Breland evacuated the remaining Brelish settlements west of the Graywall Mountains. Soon after, a trio of hags calling themselves the Daughters of Sora Kell came forward, and announced possession of all Brelish lands west of the Graywall Mountains. They announced this land as a new sovereign nation they called Droaam, a nation where the unwanted creatures of the world, such as gnolls, hags, ogres, and the like can find home.
 
 The Daughters of Sora Kell established the basic feudal system that passes for government in Droaam. A rudimentary form of civilization sprang up in its wake. Graywall was one of the first new cities to be founded. Rumor has it that one of the Daughters, Sora Teraza, found one of Dyrrn's servants trapped beneath the ruins: an illithid named Xor'chylic. Xor'chylic was freed, and pledged loyalty to the Daughters of Sora Kell. Sora Teraza ordered Xor'chylic to take over the ruins, and from the ruins of Korash Khaar came the city of Graywall. Xor'chylic used the medusa masons of Cazhaak Draal, combined with brute ogre strength, to quickly built the second-largest city in the new nation of Droaam.
+
+### References

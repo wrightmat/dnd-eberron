@@ -5,6 +5,26 @@ location: "[-17.172283,-9.140625]"
 ---
  #location #capital  [[Aerenal]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
 Shae Mordai, also known as the City of the Dead, was the seat of the Undying Court in Aerenal. The city was also the site of the largest known Irian manifest zones and it was the spiritual capital of Aerenal.
 
 The city was made up of the temples and homes for the Deathless. The city also still holds a great (ruined) library of information on magic and the lives of every elf that has lived on Aerenal. The city was a center for arcane study and a place of worship, as well as the only place where the ritual of the undying could be performed.

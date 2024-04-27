@@ -1,7 +1,10 @@
+---
+region: "[[public/Sarlona|Sarlona]]"
+type: Region
+image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Dor_Maleer.png|250](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Dor_Maleer.png)"
+---
  #location #region [[locations/Sarlona|Sarlona]]
 Public: [[public/Dor Maleer|Dor Maleer]]
-
-![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Dor_Maleer.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Dor_Maleer.png)
 
 > [!infobox]
 > # `=this.file.name`

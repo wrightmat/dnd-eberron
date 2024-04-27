@@ -13,10 +13,15 @@ location: "[30.949347, -12.073975]"
 > | ---- | ---- |
 > | **Type** | `=this.type` |
 > | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
 > `=this.comments`
 
@@ -28,19 +33,16 @@ Atur was the center for production of Karrnath's undead during the Last War. Sin
 
 The City of Night has a rhythm and pulse that seems to increase when the sun goes down. Fest halls, taverns, theaters, and bordellos of all descriptions open their doors after dark and stay active until the sun struggles back up and over the mountains. For many visitors, the city seems to operate in a way opposite to the other metropolitan centers of the Five Nations. Everything appears quiet and deserted by day, but by night the various shops and businesses open to crowds of people.
 
+### Characters
+
+* 
+
 ### Locations
 
-#### The Crimson Monastery
-Khorvaire's largest place of worship dedicated to the Blood of Vol and Atur's largest claim to fame. The monastery is a pyramidal building made of blood-red brick and black mortar. The building glows faintly at twilight of a seemingly magical radiance. Guards, both living and dead, watch the entryways into the sacred temple.
-
-#### Nighthold
-A royal retreat for Karrnath's king, Kaius III.
-
-#### Atur Academy
-An arcane institute specializing in teaching necromancy.
-
-#### The Vaults of the Dead
-A large complex of catacombs that hold Karrnath's undead legions.
+* **The Crimson Monastery**. Khorvaire's largest place of worship dedicated to the Blood of Vol and Atur's largest claim to fame. The monastery is a pyramidal building made of blood-red brick and black mortar. The building glows faintly at twilight of a seemingly magical radiance. Guards, both living and dead, watch the entryways into the sacred temple.
+* **Nighthold**. A royal retreat for Karrnath's king, Kaius III.
+* **Atur Academy**. An arcane institute specializing in teaching necromancy.
+* **The Vaults of the Dead**. A large complex of catacombs that hold Karrnath's undead legions.
 
 ### References
 

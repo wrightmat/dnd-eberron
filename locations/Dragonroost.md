@@ -13,10 +13,15 @@ location: "[10.595821, -27.015381]"
 > | ---- | ---- |
 > | **Type** | `=this.type` |
 > | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
 > `=this.comments`
 
@@ -37,25 +42,12 @@ Today, the city is managing an influx of Cyran refugees who weren't comfortable 
 
 ### Locations
 
-#### The Roost Inn and Tavern
-
-House Ghallanda isn’t represented here, so the local inn and tavern was opened by a gnome, Torralyn Santiar. Several previous days’ copies of the Korranberg Chronicle are available in a newspaper stand inside the tavern.
-
-#### Dragon’s Roost Ranch
-
-The city is named after the large quantity of "domesticated" faerie dragons that roost in the area. The faerie dragons play along with the gnomish games of wit, acting as spies and messengers in exchange for baubles and morsels. Visitors quickly learn not to anger the creatures.
-
-A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
-
-The dragons housed here are free to come and go as they please, but Tyzian Davandi (the caretaker) ensures that they have food and shelter at all times. He is secretly working for The Trust and using the dragons to gather information.
-
-#### Trader’s Alley
-
-The majority of the streets are lined with merchants who come in from all over Zilargo, Breland, and Darguun. The area is maintained and managed by a gnome woman named Jose Davandi.
-
-#### The Fairy Garden
-
-A local Thelanian manifest zone keeps beautiful and rare flowers blooming all year long, and at the center of the zone sits a small wooden hut where the garden’s caretaker, Syla Nezzelech, resides. The entire area is surrounded by a large ring of mushrooms (faerie ring). Mesmerizing lights like floating lanterns dot the landscape.
+* **The Roost Inn and Tavern**. House Ghallanda isn’t represented here, so the local inn and tavern was opened by a gnome, Torralyn Santiar. Several previous days’ copies of the Korranberg Chronicle are available in a newspaper stand inside the tavern.
+* **Dragon’s Roost Ranch**. The city is named after the large quantity of "domesticated" faerie dragons that roost in the area. The faerie dragons play along with the gnomish games of wit, acting as spies and messengers in exchange for baubles and morsels. Visitors quickly learn not to anger the creatures.
+	* A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
+	* The dragons housed here are free to come and go as they please, but Tyzian Davandi (the caretaker) ensures that they have food and shelter at all times. He is secretly working for The Trust and using the dragons to gather information.
+* **Trader’s Alley**. The majority of the streets are lined with merchants who come in from all over Zilargo, Breland, and Darguun. The area is maintained and managed by a gnome woman named Jose Davandi.
+* **The Fairy Garden**. A local Thelanian manifest zone keeps beautiful and rare flowers blooming all year long, and at the center of the zone sits a small wooden hut where the garden’s caretaker, Syla Nezzelech, resides. The entire area is surrounded by a large ring of mushrooms (faerie ring). Mesmerizing lights like floating lanterns dot the landscape.
 
 ### Secrets and Clues
 

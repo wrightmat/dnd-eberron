@@ -16,15 +16,13 @@ The Race of Eight Winds has a major impact on the culture of this quarter. Resid
 ### Locations (Districts)
 
 #### Lower Dura
-
-Character: Miserable and dangerous, this ward is hotbed of crime and violence.
+>Miserable and dangerous, this ward is hotbed of crime and violence.
 
 Once the heart of Sharn, Lower Dura has slowly decayed as the rest of the city moved higher into the sky. Now it is a dark and dangerous place. Precarious and the Stores play important roles in the economy of the city, but the other districts have largely been left to fester and rot. Today, Lower Dura is home to the miserable poor. The Sharn Watch rarely risks patrolling Lower Dura, and the ward has become a center for criminal activities. The inhabitants of the ward may be shielded by gang allegiances, ties to one of the major criminal organizations, or the simple fact of having nothing to steal, but adventurers had best tread lightly and keep weapons near at hand when venturing here. Street violence occurs on a regular basis, amateur and professional cutpurses abound, and the Sharn Watch won't do much to help. A drawn blade and a successful DC 15 Intimidate check made when entering the district keep most of the rabble away — of course, the more dangerous criminals may see this as challenge and a promise of worthy loot.
 
 In general, Lower Dura is a wretched place, and the city council does little to change that. Everburning torches light most of the district, as opposed to everbright lanterns, and in the worst neighborhoods many of the torches have been shattered or stolen. The ward shows its age, with cracked and worn streets, walls covered with mildew and graffiti, and other signs of neglect and wear and tear. Once Lower Dura was Sharn, and it included a garrison, manors for the city lords, a great temple, and other important buildings. Over the course of time these structures have been forgotten or repurposed. Lower Dura is full of the shadows of a glorious past that can barely be seen beneath the grime of the present.
 
 ##### Callestan (Inn district)
-
 > The inns and taverns in this district are dark and grimy. Vermin run like water through the streets on a stormy day, including rats that scurry into shadows and foul men and women who study you with avaricious eyes.
 
 When Sharn first rose from the ruins of Shaarat, Callestan was the center for trade and commerce. Today, it serves as a center for illegal trade and activity. The people who come to stay in the inns of Callestan sacrifice comfort to avoid the watchful eyes of the law, and many crooked deals are arranged in these dark taverns.
@@ -37,7 +35,6 @@ Most of the average services and trades, and all of the upscale services and tra
 - **Silvermist**: Officially, Silvermist is a dream parlor secretly owned by the Boromar Clan — a place where illusions and glamers are used for the entertainment of guests. The regular entertainers include Jix (CN female changeling expert 3), a changeling who uses her natural powers to perform unusual one-woman ballets and operas, and Salleon (CN male gnome illusionist 3), an illusionist who fascinates audiences with bizarre and compelling hypnotic patterns. In addition, Silvermist is a dreamlily den — a place where people can buy and use dreamlily without fear of the law.
 
 ##### Fallen (Slum)
-
 > At first glance, this district looks like a ruin. Huge chunks of stone are scattered around the outer streets. Statues of the gods look down upon you, but many have shattered features or missing limbs. A few buildings and bridges have collapsed, in whole or in part, and most of the surviving buildings show some amount of scarring and damage.
 
 Fallen is the worst district in a bad ward. A century ago, it was known as Godsgate, Sharn’s first temple district. But as the city grew, the primary temples relocated to the higher wards, and the most important relics were taken to Sovereign Towers. Some of the temples remained in service, but most were converted to serve as housing for workers in the Cogs. For hundreds of years the district slowly decayed. The final blow came on 9 Olarune 918 YK. The Glass Tower broke apart as it fell, and while most of the floating citadel landed in the Dagger River, some of its spires struck the district of Godsgate, shattering buildings and killing hundreds.
@@ -52,13 +49,11 @@ Where the spires of the falling Glass Tower crashed into the district, the build
 - **Blackstone Church**: There are many shattered temples in Fallen, and the broken statues of the Sovereign Host look down upon the ruins. Only one temple still operates among the ruins — Blackstone Church, Sharn’s first temple to the Silver Flame. Once this church was tended by dozens of acolytes and filled with offerings and relics. Today, dust and shadows hold sway, and a single priest administers to the Flame. Faela (N female half-elf expert 3/adept 2), not part of the church hierarchy of Sharn, saw a need and took up residence in the abandoned church. The Silver Flame is dedicated to fighting the evil impulses of humanity as well as supernatural evil, and Faela does her best to counter the darkness she sees in Fallen. She provides nonmagical healing, acts as a mediator, and tries to defuse violent situations. While the people of Fallen don’t always listen to Faela, she is the only priest that has not abandoned them, and they generally look out for her. She devotes most of her time to the poorest and most wretched people of Fallen, trying to help these unfortunates rise up from squalor and make a better life. With her guidance, a number of the worst cases have even managed to leave Fallen and start a new life elsewhere in Sharn.
 
 ##### Gate of Gold (Tenement district)
-
 > The great gate from which this district takes its name was stripped of its gilt plating many centuries ago. Old mansions and towers that once belonged to wealthy lords and merchants have been converted into tenement housing for the poor, and the inhabitants appear lean and hungry.
 
 Once home to many of the founding families of Sharn, Gate of Gold is now little more than a slum. Small and wretched townhomes crowd the crime ridden, extremely dangerous district.
 
 ##### Malleon’s Gate (Goblinoid slum)
-
 > Chaos and noise. This district is run-down and filthy. Smoke fills the air and rats scurry in the shadows. Goblins are everywhere, squabbling, haggling, and shouting at one another. A bugbear forces his way through the crowd, flinging goblins aside. A trio of hobgoblin warriors emerges from a tavern and the crowd instantly parts.
 
 Sharn was built from the ruins of Shaarat, which was built atop old Duur’shaarat. All of these cities had one thing in common: Goblins. Malleon the Reaver enslaved the goblins of Duur’shaarat and forced them to build his city. King Galifar I offered the goblins freedom in exchange for their service as soldiers and laborers. For many of the goblins, there was little difference between life as a slave and life as a free laborer, but over the centuries some learned valuable trades and established their own businesses. While the goblins were officially citizens of Galifar, few humans enjoyed their company, and they found themselves congregating in Malleon’s Gate.
@@ -72,7 +67,6 @@ While many of the trades and services available in Malleon’s Gate are criminal
 - **Bloodstone Inn**: A Darguun mercenary troop known as the Ja’khor (a goblin word translating to “Blackbloods”) uses this inn as a base of operations.
 
 ##### Oldkeep (Apartment townhomes)
-
 > Over the course of centuries, old fortresses and garrison halls have been converted into apartment buildings and shelters for the poor.
 
 Once, Sharn’s City Watch operated out of a great set of towers and buildings known as the Keep, located in Lower Dura. When the City Watch spread out to Daggerwatch and the new garrisons springing up in other, higher-level districts, a number of land barons bought up the old property and converted it into housing. Now the place is called Oldkeep, in memory of its more glorious occupants. Most of the residents of Oldkeep work in Precarious, the Stores, or in Middle Dura. Many work for businesses with ties to the Boromars Clan.
@@ -81,7 +75,6 @@ Recently, bands of monsters with ties to Droaam have begun making surgical strik
 All trades available in this district are illegal in nature. While most criminals do business in other districts, it may be possible to finda fence,a burglar, or a source for dreamlily or dragon’s blood in Oldkeep.
 
 ##### Precarious (Warehouse district)
-
 > This district, dominated by massive warehouses that hold the cargo of the merchant ships that ply the Dagger River, consists of storage towers surrounded by tenements, flophouses, and an assortment of workhouses and businesses of questionable trade practices.
 
 The skydocks of Precarious lean out into the air high above the Dagger River. Vast mystical cranes and magic lifts use levitation and the power of Syrania to haul loads of cargo and people to and from the waterfront districts of Cliffside. An army of laborers transports goods between the docks and the warehouses in the district — both the massive storage towers and the smaller warehouses. While sailors generally find entertainment in Cliffside, Precarious houses a variety of crafts and services. Mills and workhouses make immediate use of the raw materials brought up from the Dagger River, while a few dingy taverns, gambling dens, and dreamlily dealers provide the workers with a chance to leave their cares — and their silver — behind. A variety of criminal trades are practiced in Precarious; the Boromar Clan has a hand in many of the businesses in the area due to their considerable investments in smuggling and shipping.
@@ -92,19 +85,16 @@ Precarious plays an important part in the economy of Sharn, and as a result the 
 - **House Kundarak**: House Kundarak owns five warehouses in Precarious. These warehouses are especially secure, combining alarm, seal of the magi, and glyph of warding with mundane and magic traps. These warehouses cost twice as much to use as their mundane counterparts, but merchants with a serious interest in security readily pay the price.
 
 ##### The Stores (Warehouse district)
-
 > Wide storage towers dominate this district, surrounded by tenements and smaller warehouses. The streets are full of wagons and laborers hauling goods to and from the skydocks of Precarious.
 
 The Stores district has much in common with Precarious. However, the Stores is not actually built on the cliff side, and the Watch focuses its attention and resources on Precarious. The result is that the Stores are slightly more dangerous than Precarious, and smugglers are more likely to hide their goods in these warehouses. The Boromar Clan has strong interests in this district, and thus a considerable halfling population can be found here.
 
 #### Middle Dura
-
-Character: Lower class ward split between commercial and residential districts; it is the border to the dangerous districts that lie below.
+>Lower class ward split between commercial and residential districts; it is the border to the dangerous districts that lie below.
 
 The stones in this old district have been worn smooth by the passage of time. There is a definite scent of danger in the air. The Sharn Watch patrols this ward, and these guards are always ready for trouble — though the crime lords often use bribes to ensure that the Watch is nowhere to be seen when certain activities take place. Nonetheless, Middle Dura is certainly safer than the ward that lies below. The Bazaar, the largest market in the city, can be found here, and the taverns and inns of Dura are a common destination for folk who don’t have many coins to rub together.
 
 ##### The Bazaar (Marketplace and shops)
-
 > The crowd and noise of this district are overwhelming. In addition to the shops and stalls, the streets are full of people offering questionable goods and deals; it seems like everyone has something to sell. The Watch maintains a strong presence in the Bazaar, but they are more concerned with preventing riots than in stopping trade of illegal goods.
 
 The Bazaar of Dura, the largest commercial district in Sharn, sprawls out across a dozen towers. The towers around the edges are devoted to shops and services. Almost anything can be found in this district, though the quality of any particular item or service cannot be guaranteed. At the center of the district, the open market from which the district takes its name presents a labyrinth of shops, tents, and makeshift stalls set up in the middle of the street. A marketplace permit costs only 3 cp, though many people try to avoid even this paltry sum. However, guards who catch such shirkers usually extort far larger sums in exchange for a pass.
@@ -120,7 +110,6 @@ The Bazaar is a good place to dispose of random acquisitions. Stolen goods aside
 - **Vundry**: Vundry (NE female gnome expert 6) runs a shop in the Bazaar of Dura. On the surface, appears to be a pawnshop and curio store. Behind this facade, Vundry is one of the most reliable and well-connected fences in Sharn. When dealing with a friend, Vundry can turn up almost any item within a week (within her 25,000 gp limit). Normally, Vundry buys any legal item for 45% of its value, up to a limit of 10,000 gp. Her shop is full of odds and ends of all sorts—pottery shards from Xen’drik, a masterwork broadsword, a Riedran spice rack. For her friends, Vundry raises her limit to 30,000 gp and pays 55% of the value of items that she buys. Vundry also fences illegal goods, charging 20% of the value of the item. She usually drops this fee by 1% every subsequent time she does business with the same character, to a minimum of 10%. It can be expensive establishing credentials with Vundry, but over time it is worth the expense.
 
 ##### Broken Arch (Average residential)
-
 > Rows of stone houses circle the central towers of this district. The stone is worn and cracks are beginning to show. The streets are surprisingly quiet and empty. The people view strangers with suspicion and fear, and hurry toward their destinations.
 
 Early in the history of Sharn, Barchan’s Arch was one of the finest residential districts in the city. Barchan ir’Tyran, a powerful nobleman, along with Hestian ir’Tain, helped shape the City of Towers. Then, during the reign of King Galifar the Dark, the ir’Tyran family attempted to seize the throne of the kingdom. Those ir’Tyrans who survived were stripped of their noble rank and banished from Galifar. Since then, Barchan’s Arch has been shunned by the powerful families of Sharn, and it has fallen into disrepair; two hundred years ago, people began calling it “Broken Arch,” and the name stuck.
@@ -128,7 +117,6 @@ Early in the history of Sharn, Barchan’s Arch was one of the finest residentia
 Today, Broken Arch lies under the shadow of the treason of the past. While it has a few manor houses, these belong to the lesser families of Sharn or merchants trying to climb the social ladder. The district rarely receives aid from the city council, and the Watch patrols are lighter than in the other districts of the ward. As a result, criminals from Lower Dura often frequent the alleys of Broken Arch and prey on the honest citizens. Daask bullies have become an especially common threat over the past three years.
 
 ##### Hareth’s Folly (Tavern district)
-
 > The buildings of this district are a bizarre mishmash of architectural styles and materials. Narrow spires stand across from squat brick keeps and densewood halls. In addition to the bridges connecting the great towers of the district, a maze of suspended rope, wood, and stone roads connect the upper levels within the towers, creating the impression of a mad spider web. Music and song can be heard echoing from various towers, and people laugh and run through the streets.
 
 Today, common opinion believes that the architect Hareth ir’Talan was mad. He should never have been allowed to work on a project as important as the construction of a Sharn district, but gold and family connections gave him his chance. The result was the district now known as Hareth’s Folly. At first, Hareth sought to include buildings in the styles of all the contemporary cultures of the kingdom, so that visitors from all parts of Galifar would feel at home. As construction continued, he began to add new designs, based on his visions of the architecture of Syrania, Thelanis, and the other divine realms.
@@ -141,25 +129,21 @@ Hareth’s Folly focuses on entertainment. Inexpensive inns, pubs, restaurants, 
 - **The King of Fire**: The most common deck of playing cards used in Khorvaire has four suits, each tied to one of the four elements. The largest tavern in Hareth’s Folly uses the King of Fire as its trade sign. The tavern, a strange structure supposedly inspired by Hareth’s visions of Fernia, consists of black stone and brass, and continual flame spells have been placed on fixtures throughout the building — including tables and chairs. Half a dozen card games constantly play out in the back rooms of the King, and the place does a brisk business in gambling on races and skyblade matches. Lat Horasca (N male halfling expert 5), a former Glidewing jockey, owns the tavern, which he won in a dramatic hand of cards. Lat is a gambler, not an innkeeper, but he has married into House Ghallanda and his wife Kela (N female halfling commoner 4) manages the day-to-day affairs of the business. Things can get rowdy during the Race of Eight Winds, but Lat has wisely invested in an excellent bouncer, an ogre named Korrla (N female ogre fighter 3). When she’s not working, Korrla often fights at the Burning Ring in Lower Menthis.
 
 ##### Rattlestone (Apartment townhomes)
-
 > The housing towers in this district are packed with people. The district shows its age. Cobblestones are cracked or missing, and the worn stone walls have been marred by time and vandalism. However, the people seem cheerful enough despite the squalid conditions.
 
 The inhabitants of Rattlestone are poor, but most have jobs of one sort or another in the Bazaar. Many of the Watch patrols that protect this district are made up of native Rattlestoners. In comparison to most members of the Dura Watch, the Rattlestone guards are more likely to risk life and limb to protect the people of the district. But this doesn’t apply to strangers, outsiders, or adventurers, and members of the Watch may actually help the local pickpockets and charlatans carry out their scams.
 
 ##### Stormhold (Average residential)
-
 > The houses of this district are extremely solid, and almost seem more like miniature fortresses rather than residences. The people tend to be serious and suspicious. Children are kept off the streets, and strangers are watched closely.
 
 Clifftop solicitors, overseers from the workhouses in Redstone and the Bazaar, and other successful crafters and merchants have made their homes in Stormhold. A number of manors built by the aristocratic founding families of Sharn in the first days of the city can be found in this district, but most of the powerful families have moved on to Central Plateau or Skyway in recent centuries. A handful of the Sixty great families still live in this district, however. The townhouses of Stormhold are generally cramped and uncomfortable, but the walls are thick and the doors stout. Stormholders take security extremely seriously, and the powerful families hire Deneith mercenaries to supplement the Watch patrols.
 
 ##### Tumbledown (Tenement district)
-
 > The walls of Tumbledown are honeycombed with tiny chambers, and massive tenements occupy the center of the towers. Large or small, these townhouses are in terrible condition; walls are chipped and cracked, and mold and mildew covers everything. The people crammed into Tumbledown are poor and miserable.
 
 Tumbledown is a wretched residential district, home to the poorest inhabitants of Middle Dura. While it has little to offer, it is at least occasionally patrolled by the Sharn Watch, which provides the inhabitants with a limited sense of security. Daask has recently established a dreamlily den in one of the tenements of Tumbledown, run by a gnoll named Caasht (NE male gnoll rogue 3). A small band of gnolls provides security for the den. This is a direct challenge to the Boromar Clan’s control of dreamlily distribution, but so far the Boromars have not struck back.
 
 ##### Underlook (Inn district)
-
 > The Underlook district has seen better days. Dingy inns and restaurants line the streets, but many old businesses have closed and been transformed into wretched tenements. Nonetheless, cheap lodging is plentiful and travelers from across Khorvaire walk the streets.
 
 Before Menthis Plateau, Underlook was the center for Sharn’s nightlife. The district was filled with fine restaurants, inns, and other forms of entertainment. But over the centuries the finest establishments have moved to other towers, leaving Underlook to decay in the shadows. Honest sailors and merchants who arrive at Cliffside often choose to stay in Underlook instead of risking life and limb in the Lower Wards.
@@ -169,13 +153,11 @@ In addition to the inns and taverns of Underlook, there are a wide number of bus
 - **Information Acquisition**: When people think of inquisitives, House Tharashk usually springs to mind. Kalaash’arrna (NE male half-ore rogue 4/master inquisitive 3), a cunning man with the Mark of Finding (locate object, locate creature), runs Information Acquisition (Lhash’ta’raak in the orcish tongue) for the house. As the name implies, InAc specializes in information gathering — shadowing people, digging up dirt, and similar, often unsavory tasks. Kalaash’arrna never betrays his clients; however, he is completely ruthless when it comes to fulfilling his contracts. Kalaash comes from one of the poorer families of the house. The success of InAc directly reflects on his family, and he is determined to prove his value to the house. While Kalaash serves as the primary inquisitive at InAc, he employs four lesser inquisitives, all unmarked members of House Tharashk (both humans and half-orcs). These include two 2nd-level rogues and two 3rd-level experts.
 
 #### Upper Dura
-
-Character: Crowded and bustling. This is not a wealthy ward, but the people are surviving, and some are clearly doing quite well for themselves. While there are a few upscale businesses, the merchants are clearly used to dealing with adventurers and others of questionable character.
+>Crowded and bustling. This is not a wealthy ward, but the people are surviving, and some are clearly doing quite well for themselves. While there are a few upscale businesses, the merchants are clearly used to dealing with adventurers and others of questionable character.
 
 Physically and economically, Upper Dura has little in common with the slums and tenements that lie below it. The upper towers were erected over the past few centuries, and the stonework reflects the prosperity of Breland and the city. If the ward is not as fancy or prestigious as Central Plateau or Northedge, at least the streets are clean and in good repair. However, while many of the people of Upper Dura are successful merchants or crafters, there is a seedy edge to the ward. Beggars can be found throughout the ward, flaunting their afflictions and misfortunes in hopes of earning pity and coppers. Dreamlily dens and other forms of high-class crime can be found in the shadows. The people are comfortable with strangers and others of questionable character — so adventurers are made welcome.
 
 ##### Clifftop (Adventurer’s quarter)
-
 > The towers of this district are drab gray granite, but the crowds that fill the streets are quite colorful. People of all races and cultures can be seen. An Aundairian wizard compares notes with a kalashtar monk in the shade of a tavern, while across the street a Lhazaar privateer and a Valenar elf compare blades. Clifftop is a fairly dingy district — but it attracts an interesting crowd.
 
 This district attracts those willing to devote sword, spells, or skills to risky but profitable endeavors. Anyone looking for a discreet bodyguard, a mercenary soldier, or a guide to the wilds of Xen drik can find what they need in Clifftop. Adventurers looking for a patron may find one here.
@@ -195,7 +177,6 @@ The district provides a number of services adventurers may find useful. A wide v
 - **The Mystic Market**: The white tower of the Esoteric Order of Aureon is surrounded by a host of lesser magic businesses. Most true wizards work with the Esoteric Order or the Guild of Starlight and Shadow, and the Mystic Market consists mainly of magewrights and adepts. Businesses in the market include: The Mithral Blade, a smithy that produces steel and mithral weapons and armor with up to a +2 enhancement bonus; Wise Wood, a shop that buys and sells wands and staves; The Moonlit Loom, which sells magic clothing; The Dragon’s Hoard, which sells a wide assortment of minor wondrous items and does a brisk business in feather fall talismans; and two different potion merchants, Boldrei’s Tears and Good Spirits. These shops all operate within the 40,000 gp limit of the ward, though the Dragon’s Hoard has a 20,000 gp limit on its goods.
 
 ##### Daggerwatch (Garrison)
-
 > This may be the cleanest and quietest district in Dura. The walls of the towers are heavily reinforced, as if to withstand siege weaponry. The streets are filled with guards of the Watch, both patrols and off-duty guards; it looks like a bad place to start a fight.
 
 Dura is easily the most dangerous quarter of the city, and during the Last War riots and other forms of unrest were a constant concern. Plus, the Race of the Eight Winds usually results in various forms of crime and vandalism. As a result, Daggerwatch has the largest concentration of the City Watch in Sharn. Many low-ranking city officials, including judges and tax collectors, make their homes in Daggerwatch and rely on the presence of the Watch to protect them from vengeful citizens.
@@ -205,7 +186,6 @@ Dura is easily the most dangerous quarter of the city, and during the Last War r
 - **Talain Garrison**: This fortress houses both the Sharn Watch and the elite Redcloak Battalion. While slightly smaller than the Daggerwatch Garrison, it is far more heavily fortified and could withstand an extended siege.
 
 ##### Highhold (Dwarf neighborhood)
-
 > The architecture is sturdy, functional stone, though the scale is slightly too small for most humans. While there is luxury to be found here, the citizens of Holdfast put work before play.
 
 When House Kundarak first established itself in Sharn, the dwarf immigrants who came with the house sought to make their mark on the city. While dwarf engineers had played a significant role in the construction of Sharn, the city was designed for humans. Holdfast is the first district to be built by dwarves for dwarves, and their touch is evident throughout the district. While the dwarves appreciate luxury and comfort, they are also concerned with defense and durability, and the buildings of Holdfast are among of the strongest and most defensible in the city.
@@ -217,7 +197,6 @@ Businesses in Holdfast include a branch of the Kundarak Bank and a Sivis message
 - **Moraggan’s**: The Mror spirits served at Moraggan’s might be the strongest drink in Sharn. However, Moraggan’s is a far cry from the rough and tumble saloon one might expect from a place with such a reputation. This posh, luxurious establishment has considerable security and a number of private, soundproofed rooms. Moraggan’s caters to Kundarak agents and other Mror merchants — traders and crafters who believe that strong drink and business negotiation go hand in hand.
 
 ##### Highwater (Average residential)
-
 > Quiet streets wind around townhouse towers in a relatively safe environment.
 
 Highwater is the finest residential district in Dura, thought the accommodations are considerably smaller and plainer than those of Middle Northedge, let alone any of the other upper wards. But the prices are reasonable, the stonework is solid, the views are exceptional, and the streets are fairly safe — for Dura.
@@ -225,16 +204,14 @@ Highwater is the finest residential district in Dura, thought the accommodations
 - **Pegasus Spire**: While House Vadalis conducts most of its business in Dragon Towers, the head of the household has always resided in the Pegasus Spire in Highwater. The Sharn Vadalis have always enjoyed participating in the Race of Eight Winds and the Highwater Wind Guard has always included members of the family. In addition to serving as the manor for the Vadalis family, Pegasus Spire provides the stable and training facilities for the pegasi used in the race.
 
 ##### Hope’s Peak (Temple district)
-
 > Many of the towers in this district are built from blocks of white stone flecked with spots of gold, and when the sunlight falls on Hope’s Peak it seems to glow and burn.
 
 Hope’s Peak is the most recent temple district constructed in Sharn, and many of the shrines were relocated from the lower levels of Dura. The most important building is the Citadel of the Sun, but the main temples of the Sovereign Host and the Silver Flame draw worshippers from the depths of Dura. While most of the priests of the region are devout enough, this is Dura, and pragmatism abounds. If a party of adventurers knows who to talk to and how to approach them, divine miracles can be bought outright. With luck and hard work, divine spellcasting services of up to 4th level can be purchased.
 
-- **The Citadel of the Sun**: The tallest tower in Hope’s Peak is the Citadel of the Sun, a temple dedicated to Dol Arrah, the Sovereign lady of Sun and Sword. The stone of the tower has been enchanted to shine like gold, but it is still stone—something that has proven to be a grave disappointment to many a beggar who has sought to scrape a shaving from the wall. Aerela Tal (LG female half-elf adept 12), a devoted priest who served with distinction in the war before retiring, maintains the temple. Aerela does not sell divine spells, but she may provide assistance in exchange for services; she is distressed by the darkness in Sharn, and would like to see light shed on the shadows of the city. This large and beautiful temple's tower rises far above the other districts of Upper Dura. At the top lies a garden, where three golden griffons — half-celestial creatures (7, 8, and 9 HD respectively) said to have been touched by the lady of the sun—reside. The griffons rarely stray from the tower, but an oracle has said that they will rise and fight at the time of Sharn’s greatest peril. Killing one of these creatures would be a heinous crime that would outrage the devotees of the goddess.
+- **The Citadel of the Sun**: The tallest tower in Hope’s Peak is the Citadel of the Sun, a temple dedicated to Dol Arrah, the Sovereign lady of Sun and Sword. The stone of the tower has been enchanted to shine like gold, but it is still stone — something that has proven to be a grave disappointment to many a beggar who has sought to scrape a shaving from the wall. Aerela Tal (LG female half-elf adept 12), a devoted priest who served with distinction in the war before retiring, maintains the temple. Aerela does not sell divine spells, but she may provide assistance in exchange for services; she is distressed by the darkness in Sharn, and would like to see light shed on the shadows of the city. This large and beautiful temple's tower rises far above the other districts of Upper Dura. At the top lies a garden, where three golden griffons — half-celestial creatures (7, 8, and 9 HD respectively) said to have been touched by the lady of the sun — reside. The griffons rarely stray from the tower, but an oracle has said that they will rise and fight at the time of Sharn’s greatest peril. Killing one of these creatures would be a heinous crime that would outrage the devotees of the goddess.
 - **Olladra’s Arms**: This restaurant, one of the brightest spots in Dura, is considered to be one of the finest restaurants in the city. In addition to a few private rooms, it features a vast central hall suitable for enormous parties or feasts. The menu consists of traditional Brelish cuisine, but choices are limited. The master chef, Halean Doss (N male human commoner 9), chooses a single menu each night. However, quantities are generous and the quality of the food is outstanding.
 
 ##### Overlook (Apartment townhomes)
-
 > The spires of over a dozen identical towers rise to the sky. While the towers are drab gray granite, bits of color are scattered about— an occasional window of stained glass, a small hanging garden, a tapestry of Riedran design.
 
 Built with the fortune of the ir’Tain family, Overlook is one of the largest residential districts in Sharn. The remarkably bland stonework creates a vast, gray vista that can be disconcerting. The ir’Tains were interested in getting the most for their gold, however, and aesthetics were not a concern. While the townhouse apartments in Overlook are not as pleasant as those in Lower Northedge, they are inexpensive and far safer than the wards that lie below. Plus, the area offers breathtaking views of the Dagger River and the surrounding countryside.
@@ -248,7 +225,6 @@ There are no inns in Overlook, but the Adarans take care of their own. Kalashtar
 - **The Shrine of il-Yannah**: The kalashtar-constructed shrine of il-Yannah, the Path of Light, occupies a small parapet at the top of a tall tower. From the breathtaking views to the Sarlonan incense that scents the air, the shrine radiates a calm, otherworldly peace. Tapestries with intricate, labyrinthine patterns cover the walls and floor, adding to the exotic nature of the place. The enlightened Havakhad (LG male kalashtar), a powerful psion whose frail body is beginning to fail, tends the shrine and rarely wanders far from this location. Havakhad gladly offers advice and spiritual guidance to any follower of the Light who comes to meditate at the shrine, and he sometimes uses precognition on behalf of those he considers to be champions.
 
 ##### Redstone (Shops)
-
 > Handsome towers of red marble and granite packed with various shops and crafters offer a seemingly endless array of goods. The brick hanging streets are filled with milling customers and the occasional unfortunate begging for copper and silver.
 
 One of the newer districts, Redstone is less than two hundred years old and many of the respectable crafters from the Bazaar of Middle Dura have moved here in recent years. The architects sought to overcome the negative perceptions of Dura, and the stonework is beautiful. Much of it was crafted using red marble from Rose Quarry, once a thriving Cyran supplier which now lies in ruins in Darguun. The rest of the towers consist of red granite and brick. With a host of subtle variations in shade, the towers present a striking sight, especially in the light of the setting sun.

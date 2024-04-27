@@ -5,6 +5,26 @@ location: "[28.72913, -19.610596]"
 ---
  #location #capital [[Thrane]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
 > From afar, Flamekeep resembles a gigantic fortress enclosed by high walls, its buildings perched atop a rocky plinth surrounded on all sides by a water-filled crevasse. Deep within this crevasse sits the city's bustling harbor and more crowded districts. The magnificent Cathedral of the Silver Flame, its white alabaster walls agleam, surmounts the rocky plinth - a glorious beacon visible for miles in every direction. West of the Cathedral rise the slender spires of Thalingard, the ancestral home of Thrane's kings. Unlike the Cathedral, the royal palace is sculpted from gray rock and looks somewhat glum by comparison. To the east of the Cathedral lies a relatively simple stone Temple of the Sovereign Host. Lightning Rail stations, an academic district, and a commercial district dot the areas around the Cathedral.
 
 ### Characters
@@ -14,7 +34,7 @@ location: "[28.72913, -19.610596]"
 
 ### Locations
 
-![https://wrightmat.github.io/dnd-eberron/_img/flamekeep.png|800](https://wrightmat.github.io/dnd-eberron/_img/flamekeep.png)
+![https://wrightmat.github.io/dnd-eberron/_img/flamekeep.png|600](https://wrightmat.github.io/dnd-eberron/_img/flamekeep.png)
 
 #### Cathedral of the Silver Flame
 
@@ -93,11 +113,12 @@ A blacksmith shop in the commercial district.
 The lightning rail station is the northern terminus for a line connecting Flamekeep to Sigilstar, Aruldusk, and Vathirond. It connects to an even larger line that runs the length of Breland, passing through Starilaskur and Wroat before terminating in Sharn. The lightning rail departs twice daily, in the morning and evening.
 The distances, times, and costs (first class passage) involved in traveling the lightning rail from Flamekeep are summarized below.
 
-| From Flamekeep To | Distance Between Stops | Time | Cost |
-| --- | --- | --- | --- |
-| Sigilstar | 270 miles | 9 hours | 135 gp |
-| Aruldusk | +130 miles | +4.25 hours | +65 gp |
-| Vathirond | +230 miles | +8.75 hours | +115 gp |
-| Starilaskur | +420 miles | +14 hours | +210 gp |
-| Wroat | +1290 miles | +43 hours | +645 gp |
-| Sharn | +450 miles | +15 hours | +225 gp |
+| From Flamekeep To | Distance Between Stops | Time        | Cost    |
+| ----------------- | ---------------------- | ----------- | ------- |
+| Sigilstar         | 270 miles              | 9 hours     | 135 gp  |
+| Aruldusk          | +130 miles             | +4.25 hours | +65 gp  |
+| Vathirond         | +230 miles             | +8.75 hours | +115 gp |
+| Starilaskur       | +420 miles             | +14 hours   | +210 gp |
+| Wroat             | +1290 miles            | +43 hours   | +645 gp |
+| Sharn             | +450 miles             | +15 hours   | +225 gp |
+### References

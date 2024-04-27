@@ -22,7 +22,7 @@ marker: default, -40, 40, [[Argonnessen]]
 marker: default, 50, -60, [[Frostfell]]
 ```
 
-### Continents
+### Locations (Continents)
 
 * **[[Aerenal]]**
 * **[[Argonnessen]]**

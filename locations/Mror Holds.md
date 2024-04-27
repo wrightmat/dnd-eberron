@@ -1,5 +1,20 @@
  #location #region [[Khorvaire]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
 The Mror Holds are known as the homeland of the dwarves. Not only is the Mror Holds one of the few dwarven lands in Khorvaire, but it is estimated that no fewer than 455,000 dwarves live there; many more than any other known location. However, the dwarves aren't the only inhabitants of the mountainous region.
 
 The Mror Holds population consists mostly of twelve dwarven clans formed from the original exiled leaders. These clans are:

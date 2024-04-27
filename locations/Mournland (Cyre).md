@@ -1,5 +1,20 @@
  #location #region [[Khorvaire]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
 The Mournland is the shattered remnants of the nation of Cyre, lost to a cataclysm in a single day known as the Day of Mourning.
 
 The borders of the Mournland are easily distinguished by the dead-gray mist that forms a dome around the entire area. To the north, the Mournland touches against the Cyre River coming off of Scions Sound and emptying into Lake Cyre on the Mournland's eastern border. The Brey River marks part of its northwest boundary while its border with Breland is defined by the hanging mist. Similarly in the goblin nation of Darguun the dead-gray mist is a constant reminder of the border of the Mournland. To the south lies Kraken Bay and to the east the Blade Desert of Valenar, the Talenta Plains, and the nation of Karrnath.

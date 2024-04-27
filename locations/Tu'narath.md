@@ -13,10 +13,15 @@ image: "![https://daemonsanddeathrays.files.wordpress.com/2021/12/b2798-treasure
 > | ---- | ---- |
 > | **Type** | `=this.type` |
 > | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
 > ###### Travel
 > |  |  |
 > | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
 > `=this.comments`
 

@@ -5,6 +5,26 @@ location: "[31.690782, -2.219238]"
 ---
  #location #town [[Karrnath]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
 Lakeside is a small town in eastern Karrnath between the Icetop Mountains and Lake Dark. It is currently almost entirely abandoned, save for a few farmers and a single individual running the Assembly Hall. The only building lit up at night is the alchemy shop.
 
 > You come upon a small village that has clearly seen better days. Mostly abandoned and dead fields line the perimeter of the village, but a few of them contain hearty looking crops. Four larger buildings stand in the corners of the village, but only one of them has dim light emanating from it. Another appears to be a gathering hall of some sort, one is adjacent to a dock jutting out into a dark lake, and one is an old fort.

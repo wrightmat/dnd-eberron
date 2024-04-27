@@ -11,19 +11,16 @@ These less-than legitimate services include bordellos, taverns, casinos, and eve
 ### Locations
 
 ##### Grayflood (Waterfront district)
-
-> Most of the traffic here consists of sailors in search of entertainment. Bars, flophouses, and small shops— many of which don’t bother to advertise the nature of their business— line the street, which winds precariously along the edge of a steep cliff overlooking the river.
+> Most of the traffic here consists of sailors in search of entertainment. Bars, flophouses, and small shops — many of which don’t bother to advertise the nature of their business — line the street, which winds precariously along the edge of a steep cliff overlooking the river.
 
 Grayflood, a seedy waterfront district, fills roughly the northern half of the docks and wharves running along the Dagger River. Gigantic cranes empowered by magic haul freight from ships at dock to the warehouse districts of Precarious and White Tower, while the crews of those ships restock and recharge at the shops and taverns that line the bottom of the great cliffs.
 
 ##### Mud Caves (Shantytown)
-
 > Lean-tos, smoky fires, and makeshift hovels cling to the side of the cliff and spread into tiny caves in the great rock wall.
 
 The southern expanse of cliff face, away from the wharves where the Hilt flows into the Dagger River, is dotted with small caves. Some of the poorest of Sharn’s poor find shelter in wretched hovels built in and around these caves. The populace is a destitute mixture of humans, dwarves, gnomes, halflings, shifters, changelings, goblins, hobgoblins, bugbears, orcs, ogres, and even a troll or two.
 
 ##### Sharn’s Welcome (Red light district)
-
 > Raucous sailors stagger through the streets in groups of threes and fives, careening from tavern to bordello in search of a good time.
 
 Catering to the carnal desires of the clientele in Cliffside, Sharn’s Welcome is rough, dirty, and a haven for crime. Bordellos abound, but customers are often robbed, sometimes beaten, and occasionally killed.

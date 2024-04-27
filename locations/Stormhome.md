@@ -5,6 +5,26 @@ location: "[37.302305, -19.218465]"
 ---
  #location #city [[Aundair]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
 > The island of Stormhome is a long, scimitar-shaped piece of land with a narrow spine of highlands running up its center. They are not quite tall enough to be mountains, but these steep hills are enough to block the fierce winds blowing east down the Icehorn Mountains and across the waves to the island crouched against Aundair's northern shore. Built against a bluff overlooking the Bitter Sea on the island's east side is the city of Stormhome, House Lyrandar's ancestral home and principal base of operations.
 > The erratic weather of your trip has suddenly subsided into the most temperate you’ve ever experienced. The smell of sea air hits your nostrils as seagulls fly overhead, calling out to you. The coasts of this small island are lined with tall spire-like buildings, connected with gangways. Boats with the House Lyrandar logo crowd various piers all over the city.
 

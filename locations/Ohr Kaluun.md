@@ -1,7 +1,25 @@
+---
+region: "[[public/Sarlona|Sarlona]]"
+type: Region
+image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Ohr_Kaluun.png|250](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Ohr_Kaluun.png)"
+---
  #location #region [[locations/Sarlona|Sarlona]]
 Public: [[public/Ohr Kaluun|Ohr Kaluun]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Ohr_Kaluun.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Ohr_Kaluun.png)
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
 
 The island kingdom of Ohr Kaluun may be the most infamous nation in the history of Khorvaire. Its lords were ruthless in their pursuit of supernatural power, committing countless atrocities in their quest for mystical might. It’s thought that the first changelings were created in Ohr Kaluun, and spread to Khorvaire in a wave of refugees. Likewise, refugees from Ohr Kaluun are believed to be the ancestors of the humans found in the Carrion Tribes of the Demon Wastes.
 

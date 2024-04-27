@@ -1,7 +1,7 @@
 ---
 region: "[[public/Sarlona|Sarlona]]"
 type: Region
-image:
+image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Corvagura.png|250](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Corvagura.png)"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
 Public: [[public/Corvagura|Corvagura]]

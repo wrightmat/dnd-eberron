@@ -123,5 +123,4 @@ The alignment of the Eberron timeline is based on the Day of Mourning coinciding
 ### References
 
 * http://www.spelljammer.org/worlds/articles/SphereGuide/Guide%20to%20the%20Spheres.pdf
-
 * http://www.spelljammer.org/essays/history/pw_timeline.html

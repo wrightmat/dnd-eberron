@@ -1,7 +1,25 @@
+---
+region: "[[public/Sarlona|Sarlona]]"
+type: Region
+image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Khalesh.png|250](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Khalesh.png)"
+---
  #location #region [[locations/Sarlona|Sarlona]]
 Public: [[public/Khalesh|Khalesh]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Khalesh.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Khalesh.png)
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
 
 Khalesh is a land of temperate plains and desert — green grassland fading into sunbaked plains and mesas. While it’s more hospitable than neighboring Borunan, at a glance it’s rather barren — endless and empty. And yet, if you wander these plains, you may find yourself enveloped by a sense of well-being, a deep-rooted optimism, and the knowledge that all will be well… with an underlying conviction that you’ll fight to keep it that way.
 

@@ -11,7 +11,6 @@ The City of the Dead lies outside of the manifest zone linked to Syrania. Magic 
 ### Locations
 
 ##### Dragon Crypts (Necropolis)
-
 > Silent tombs stand nestled among the rocky crags of the cliff top, keeping silent watch over the dead.
 
 Dragon Crypts occupies the northern cliff top, overlooking both Dura and Northedge.
@@ -19,7 +18,6 @@ Dragon Crypts occupies the northern cliff top, overlooking both Dura and Northed
 - **Warden Tower**: Not to be confused with the Warden Towers district in Middle Menthis, Warden Tower is a white obelisk standing on the edge of the cliff overlooking the Clifftop district of Upper Dura. For centuries, Warden Tower has been the home of a line of hermit clerics of the Silver Flame, each of whom has taken the title of Warden. These Wardens are charged (by the church) to watch over the City of the Dead in order to prevent necromancers or undead from troubling the people of Sharn. The current Warden, Gaia Sotharr, is young and idealistic, and she is locked in a power struggle with the lich of Halden’s Tomb. Neither seems to be able to get the upper hand in this struggle, and Gaia is too proud to call for help from her church. In fact, she has an unholy fascination with Gath — as long as he exists, her life has meaning and purpose, and after years of conflict she would not happily see him destroyed, though she gladly kills his minions and allies. It seems clear that Gath has similar feelings, if he can be said to feel, or else Gaia would certainly not be alive.
 
 ##### Halden’s Tomb (Necropolis)
-
 > Silent tombs stand nestled among the rocky crags of the clifftop, keeping silent watch over the dead.
 
 Halden’s Tomb is the tomb district overlooking Tavick’s Landing on the eastern edge of the city.

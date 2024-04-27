@@ -5,6 +5,26 @@ location: "[31.353637, -17.600098]"
 ---
  #location #city [[Karrnath]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
 Rekkenmark is a large city in Karrnath standing on Scions Sound across the water from Thaliost.
 
 From the halls of Rekkenmark Academy, one of the premier military training institutions on the continent, the cliffs that border both sides of Scions Sound can be seen. The large city of Rekkenmark has stared into the face of one of Karrnath’s most fervent enemies since the kingdom of Galifar collapsed and the children of Jarot went to war. Perhaps the most telling moment of the Last War occurred in 899 YK when King Kaius I ordered the destruction of the great White Arch Bridge to prevent an invasion by severing the passage across the sound. As the massive stone blocks, decorative statues, lightning rail conductor stones, and distinctive golden arches fell into the sound, the people of Rekkenmark realized that the Galifar kingdom had truly come undone. Today, the remains of the shattered bridge jut out over the cliffs as a stark reminder of both the connection that once existed and the war that ended Galifar’s dream.

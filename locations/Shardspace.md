@@ -49,24 +49,36 @@ At any time they can decide to backtrack though, and return to any previous loca
 
 ### Astronomical Bodies
 
-[[3-14. Susurrus, Palace of Whispers]] is located exactly halfway between Barrakas and Rhaan, after it was randomly encountered after leaving Barrakas.
+#### Arrah (The Sun)
 
-| d12 | Moon                     | Appearance and Portal Color | Associated Plane | Assoc. Dragonmark | Distance from Eberron | Travel Time from Eberron |
-| --- | ------------------------ | --------------------------- | ---------------- | ----------------- | --------------------- | ------------------------ |
-| 1   | Zarantyr, the Storm Moon | Pearly white                | Kythri           | Storm             | 14,300 miles          | 2 days                   |
-| 2   | Olarune, The Sentinel    | Pale orange                 | Lamannia         | Sentinel          | 22,500 miles          | 3.75 days                |
-| 3   | Therendor, The Healer    | Pale gray                   | Syrania          | Healing           | 39,000 miles          | 6.5 days                 |
-| 4   | Eyre, the Anvil          | Silver-gray                 | Fernia           | Making            | 52,000 miles          | 8.6 days                 |
-| 5   | Dravago, the Herder      | Pale lavender               | Risia            | Handling          | 77,500 miles          | 12.9 days                |
-| 6   | Nymm, the Crown          | Pale yellow                 | Daanvi           | Hospitality       | 95,000 miles          | 15.8 days                |
-| 7   | Lharvion, the Eye        | Dull white with black slit  | Xoriat           | Detection         | 125,000 miles         | 20.8 days                |
-| 8   | Barrakas, the Lantern    | Pale gray                   | Irian            | Finding           | 144,000 miles         | 24 days                  |
-| 9   | Rhaan, the Book          | Pale blue                   | Thelanis         | Scribing          | 168,000 miles         | 28 days                  |
-| 10  | Sypheros, the Shadow     | Smoky gray                  | Mabar            | Shadow            | 193,000 miles         | 32 days                  |
-| 11  | Aryth, the Gateway       | Orange-red                  | Dolurrh          | Passage           | 221,000 miles         | 36.8 days                |
-| 12  | Vult, the Warding Moon   | Gray and pockmarked         | Shavarath        | Warding           | 252,000 miles         | 42 days                  |
-|     | Crya, the Lonely Dreamer | Deep, dark blue             | Dal Quor         |                   | ~400,000 miles        | 66.6 days                |
+In the Progenitor Myth, the three Progenitors rested in the Material Plane after creating the planes. They created the sun, Arrah, much as mortals might kindle a campfire. This fire remained even after their battle, and continues to provide light, heat, and comfort to the world. Arrah is rarely mentioned because it functions much like the sun we’re used to; it’s good that it’s there, but you definitely wouldn’t want to visit it. In the Sovereign Host, Dol Arrah is the Sovereign of Sun and Sacrifice; her name is, essentially, “The Warrior Sun.”
+
+If anyone gets near enough to the star they take 24d10 radiant damage per round.
+
+#### Moons / Planes
+
+| dice: 1d12 | Moon                                    | Appearance and Portal Color | Associated Plane | Associated Dragonmark | Distance from Eberron | Travel Time from Eberron |
+| ---------- | --------------------------------------- | --------------------------- | ---------------- | --------------------- | --------------------- | ------------------------ |
+| 1          | [[Zarantryr (Kythri)]], the Storm Moon  | Pearly white                | Kythri           | Storm                 | 14,300 miles          | 2 days                   |
+| 2          | [[Olarune (Lamannia)]], The Sentinel    | Pale orange                 | Lamannia         | Sentinel              | 22,500 miles          | 3.75 days                |
+| 3          | [[Therendor (Syrania)]], The Healer     | Pale gray                   | Syrania          | Healing               | 39,000 miles          | 6.5 days                 |
+| 4          | [[Eyre (Fernia)]], the Anvil            | Silver-gray                 | Fernia           | Making                | 52,000 miles          | 8.6 days                 |
+| 5          | [[Dravago (Risia)]], the Herder         | Pale lavender               | Risia            | Handling              | 77,500 miles          | 12.9 days                |
+| 6          | [[Nymm (Daanvi)]], the Crown            | Pale yellow                 | Daanvi           | Hospitality           | 95,000 miles          | 15.8 days                |
+| 7          | [[Lharvion (Xoriat)]], the Eye          | Dull white with black slit  | Xoriat           | Detection             | 125,000 miles         | 20.8 days                |
+| 8          | [[Barrakas (Irian)]], the Lantern       | Pale gray                   | Irian            | Finding               | 144,000 miles         | 24 days                  |
+| 9          | [[Rhaan (Thelanis)]], the Book          | Pale blue                   | Thelanis         | Scribing              | 168,000 miles         | 28 days                  |
+| 10         | [[Sypheros (Mabar)]], the Shadow        | Smoky gray                  | Mabar            | Shadow                | 193,000 miles         | 32 days                  |
+| 11         | [[Aryth (Dolurrh)]], the Gateway        | Orange-red                  | Dolurrh          | Passage               | 221,000 miles         | 36.8 days                |
+| 12         | [[Vult (Shavarath)]], the Warding Moon  | Gray and pockmarked         | Shavarath        | Warding               | 252,000 miles         | 42 days                  |
+|            | [[Crya (Dal Quor)]], the Lonely Dreamer | Deep, dark blue             | Dal Quor         |                       | ~400,000 miles        | 66.6 days                |
 ^shardshapce-astronomical-bodies
+
+#### Other Locations
+
+* **[[Ring of Siberys]]**
+* **[[The Outer Darkness]]**
+* **[[Astral Sea]]**
 
 ### Random Encounters
 

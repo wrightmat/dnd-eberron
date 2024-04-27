@@ -1,5 +1,5 @@
 ---
-type: Continent
+type: Region
 region: "[[Eberron]]"
 image:
 ---

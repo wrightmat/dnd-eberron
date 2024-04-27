@@ -6,15 +6,27 @@ The Frostfell is a bleak and frigid land covering the northern pole of Eberron. 
 
 There are no nations on the continent of Frostfell, nor are there any known permanent settlements of any of the existing nations of the other continents. The Frostfell remains open territory, though no nation has shown any interest in claiming it. The only modern settlement on the entire continent is the hidden city of Icerazer
 
-### Landmarks
+```leaflet
+id: frostfell-map
+tileServer: https://eberronmap.johnarcadian.com/worldbin/eberron/{z}/{x}/{y}.jpg
+height: 500px
+lat: 55
+long: -45
+minZoom: 1
+maxZoom: 7
+defaultZoom: 4
+unit: miles
+scale: 3.233
+osmLayer: false
+```
 
-Though frozen, the Frostfell contains a diverse geography:
+### Locations
 
-* Dayne Bay, named after Boroman ir'Dayne, is a large bay near where the Frostfell meets Sarlona.
-* Icehammer Palace, a rumored floating "skyberg" high above Icewhite Island, which has been around since the Age of Demons.
-* Icewhite Island sits between the Frostfell and Khorvaire. Nearby also sits Icewhite Island's three "children": Icegaunt Island, Qorrashi Island, and Tlalusk Island. Though they fall between Khorvaire and Frostfell, all four islands are considered part of the Frostfell, owing to their frigid temperatures.
-* The Iceworm Peaks bisect the continent. These mountains are cloaked by great glaciers.
-* The Wayfinder Tundra, named after the ir'Dayne expedition, borders the Barren Sea and the Bitter Sea. This expanse of tundra is actually home to fields of lichen during the summer months, though they quickly freeze over during the winter.
+* **Dayne Bay**, named after Boroman ir'Dayne, is a large bay near where the Frostfell meets Sarlona.
+* **Icehammer Palace**, a rumored floating "skyberg" high above Icewhite Island, which has been around since the Age of Demons.
+* **Icewhite Island** sits between the Frostfell and Khorvaire. Nearby also sits Icewhite Island's three "children": Icegaunt Island, Qorrashi Island, and Tlalusk Island. Though they fall between Khorvaire and Frostfell, all four islands are considered part of the Frostfell, owing to their frigid temperatures.
+* **The Iceworm** Peaks bisect the continent. These mountains are cloaked by great glaciers.
+* **The Wayfinder Tundra**, named after the ir'Dayne expedition, borders the Barren Sea and the Bitter Sea. This expanse of tundra is actually home to fields of lichen during the summer months, though they quickly freeze over during the winter.
 
 ### History
 

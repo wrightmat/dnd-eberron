@@ -37,6 +37,24 @@ image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/qwEK
 #### The City of Brass
 The sole metropolis in Fernia, the City of Brass is the glorious city of the efreet, a place of marvels. Here, a towering statue of an efreeti holds a sphere of continual flame the size of an airship. The statue reshapes itself to match the appearance of the efreeti who currently dominates society; both the statue and whichever efreeti it depicts are known as the Sultan. Currently, the Sultan is Azhalar of High Hearth.  All efreet have mansions in the City of Brass, though at any given time, many dwell within their island estates. Likewise, there are always a few dao in residence showing off their latest creations and taking new commissions. The streets are filled with mephits and salamanders. Visiting mortals are a curiosity, but most elementals are too busy to take much time on them. The City of Brass is ringed with teleportation circles, linking it to all of the estates and major foundries.
 
+##### Iskalat
+In this district are the public docks, primarily used for interplanar vessels. It is a lively district with a multitude of races from across the planes and is dotted with inns and taverns.
+
+##### The Furnace
+* **High Hearth**. High Hearth serves as the seat of power for the Great Sultan of the Efreet. Dark basalt was used to construct most of the structure of the palace. The basalt is so dark that it appears to drain light from the flames surrounding the city. Gold, brass, and copper were used to cover many of the towers and domes of the palace.
+* **Red Pillar Halls**. The Red Pillar Halls serve as the court of the Sultan. Additionally, bureaucrats collect taxes, make appointments, and deal justice here. Any efreeti hoping to address their grievances here are subjected to an extensive search and need to dish out hefty bribes to make it into the building.
+* **Flamesight Mosque**. This mosque was built to resemble a pyramid. The entire structure is made from copper that never tarnishes.
+
+##### Pyraculum
+The bazaars within this district offer the most diverse array of high-quality goods. Many craftsmen and traders are found in the Pyraculum, as well as artisans of many races.
+- Dir al-Nasar, where the dao named Vakees works.
+- Edible Bazaar, a bazaar within the district that specializes in fruits and vegetables.
+- Hayyat Suq, a clothier and tailor establishment within the district.
+- Marabout Suq, a bazaar within the district where one could find preachers, books, and holy items.
+- Marakish Bazaar, a bazaar within the district that was dedicated to dealing in leather goods.
+- Mehara Bazaar, a bazaar within the district that specialized in camels and crafting saddles.
+- Qahwa Suq, a bazaar within the district where one could find beans, coffee, and spices.
+
 #### Efreeti Estates
 Each of the noble efreet have a sprawling palace or mansion on an island in the Sea of Fire. While not so grand as the City of Brass, these estates are studies in opulence, filled with dao-crafted wonders and sculptures of metal and flame.
 

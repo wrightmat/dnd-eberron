@@ -28,7 +28,9 @@ marker: default, -5.9657536710655235, 91.66992187500001, [[Khalesh]]
 marker: default, 17.895114303749143, 74.09179687500001, [[Tashana Tundra]]
 ```
 
-### Ten Regions
+### Locations
+
+#### Ten Regions
 
 The Capital of the Ten Regions is the city of Kasshta (formerly Kasshta Keep) in Adar. The regions below are presented in descending order of approximate population (with Syrkarn being the most populace).
 
@@ -112,7 +114,7 @@ Khalesh is a land of temperate plains and desert — green grassland fading into
 * Planar Elements: Couatl shrines and ruins; wild zones linked to Irian, Shavarath, and Syrania
 * Major Settlements: none
 
-### [[Tashana Tundra]]
+#### [[Tashana Tundra]]
 
 The Tashana Tundra is a cold land in the north of Sarlona. It lies northwest of Dor Maleer, and is a region of mostly tundra and mountains. It is not an official region, but is defined by its lack of rule. The land is mostly inhabited by shifters, humans (barbarians), and duergar, a subrace of dwarves. Tashana is a word from an ancient shifter dialect meaning "Many Waters", referring to the hundreds of glacial lakes that dot the landscape.
 

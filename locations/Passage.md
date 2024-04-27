@@ -5,6 +5,26 @@ location: "[27.215556, -29.992676]"
 ---
  #location #city [[Aundair]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
 A center for trade and commerce, the city features a large House Orien enclave named Journey's Home. Almost any trade good in western Aundair passes through Passage. Passage also features a large lightning rail maintenance and repair facility.
 
 Journey's Home is built on a hill and is big enough to be considered a district in and of itself. It is the center of a bustling nexus, with a variety of other districts around it. These include the Zil Quarter (where the Zil experts in elemental binding live and House Sivis is headquartered), Farmarket (where one can find products from all over Khorvaire), the Cannith Factory District, the Speaking Hub (where House Sivis can easily send messages to each of the markers on the map or give any other relevant information), and the Commercial District, among others.

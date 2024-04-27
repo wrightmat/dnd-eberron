@@ -5,6 +5,26 @@ location: "[30.183122, -15.150146]"
 ---
  #location #capital [[Karrnath]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
 Korth is the capital and the largest city of [[Karrnath]]. Nestled between the Karrn River to the north and the Nightwood to the east, Korth has been Karrnath's capital since before the empire of Galifar.
 
 The city is currently ruled by Karrnath's King Kaius III from his palace of Crownhome, although he leaves the day-to-day management of the city to his Civic Minister Hyran ir'Tennet, and the management of the city's garrison, the White Lions, to General Thaurum.
