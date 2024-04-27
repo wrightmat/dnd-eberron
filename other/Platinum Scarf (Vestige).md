@@ -2,7 +2,7 @@
 
 _Wondrous Item, legendary (requires attunement)_
 
-This scarf is made of sturdy cloth and covered in platinum-colored scales. As an action, you can pull a scale from the scarf and speak a command word, activating one of its abilities. Once a scale is removed it is gone until the next dawn, when all the missing scales grow back. If you pull off a scale but don’t speak a command word, it disappears after 1 minute.
+This scarf is made of Syranian silk and covered in platinum-colored scales. As an action, you can pull a scale from the scarf and activate one of its abilities, or treat it as a thrown weapon (Finesse, Thrown (range 20/60), 1d4 piercing). Once a scale is removed it is gone until the next dawn, when all the missing scales grow back. If you pull off a scale but don’t activate it, it disappears after 1 minute.
 
 #### Vestige Abilities
 
