@@ -31,10 +31,10 @@ The city is currently ruled by Karrnath's King Kaius III from his palace of Crow
 
 ### Characters
 
-* [[Lukt]]
-* King Kaius III
-* Hyran ir'Tennet
-* General Thaurum
+* **[[Lukt]]**.
+* **King Kaius III**.
+* **Hyran ir'Tennet**.
+* **General Thaurum**.
 
 ### Locations
 

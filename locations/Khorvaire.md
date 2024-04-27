@@ -32,7 +32,7 @@ marker: default, 9.882275493429953, -5.361328125, [[Valenar]]
 marker: default, 6.664607562172573, -29.091796875, [[Zilargo]]
 ```
 
-### Locations
+### Locations (Regions)
 
 * **[[Aundair]]**
 * **[[Breland]]**

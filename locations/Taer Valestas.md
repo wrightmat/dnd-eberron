@@ -37,6 +37,10 @@ Infrastructure: The Valenar follow the Aereni custom of dividing their cities in
 
 According to rumor acquired by Tasker d'Sivis, Lyrandar leadership recently relocated many of their best researchers in the Gift to Taer Valaestas in Valenar, along with most of the Windwrights Guild administrators. Tasker speculated Lyran's Gift were trying to unlock the secrets of elemental binding. Maybe they’re interested in lightning elementals from the Lamannia manifest zone?
 
+### Characters
+
+- 
+
 ### Locations
 
 ##### Darkwood Keep
@@ -63,3 +67,4 @@ When entering the manifest zone, a player should roll a Nature check, with the r
 | 17-18 | Water elemental |
 | 19-20 | Earth elemental |
 | 21+ | Lightning elemental |
+### References

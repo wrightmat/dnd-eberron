@@ -29,8 +29,12 @@ Loom Keep is a fortification in Karrnath. It lies just west of Karrlakton, situa
 
 ### Characters
 
-* Escher Belasco
+* **Escher Belasco**.
+
+### Locations
+
+* 
 
 ### References
 
-* Escher from Curse of Strahd
+* *Curse of Strahd*

@@ -31,7 +31,7 @@ After the players return from the mine, new postings are present on the job boar
 
 #### 2. Gold Dragon Inn
 
-[[Gold Dragon Inns]]
+[[Gold Dragon Inn]]
 
 #### 4. Eston District
 

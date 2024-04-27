@@ -3,7 +3,7 @@ type: Continent
 region: "[[Eberron]]"
 government: Principality
 ruler: High Prince Ryger ir'Wynarn
-image: "![https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg|300](https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg)"
+image: "![https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg|250](https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg)"
 location: "[36.791691,19.072266]"
 ---
 

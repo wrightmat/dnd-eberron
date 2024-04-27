@@ -32,7 +32,7 @@ Lakeside is a small town in eastern Karrnath between the Icetop Mountains a
 ### Characters
 
 * **Trevon** (halfling male). Runs the inn and tavern at the Assembly Hall.
-* **Arend**. Alchemist and BBEG.
+* **Arend**. Alchemist and midpoint BBEG of [[C01. What Dreams May Come]].
 
 ### Locations
 
@@ -46,3 +46,5 @@ Lakeside is a small town in eastern Karrnath between the Icetop Mountains a
 ### History
 
 * Onme sent word to the church about the abandoned fort, so they would’ve sent templars to convert it to a church, in order to get a foothold in the region. The Church is constructed of stone, and the first floor has abnormally high ceilings. All Flame churches feature enormous arches, peaks, open spaces, and graceful flying buttresses, in what has been dubbed the Flamic style. The main sanctuary has a mosaic floor, with a representation of the Flame in the very center.
+
+### References

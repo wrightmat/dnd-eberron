@@ -31,10 +31,15 @@ Despite its friendly exterior, Pylas Talaear holds a dark secret: beneath the ci
 
 The governor of Pylas Talaear is an Aereni woman named Syraen Melideth. She has been governor for the last century and is both skilled and determined when it comes to keeping order in the city. In addition to her position as governor, she is quite a powerful wizard. She is known for her beauty and her skull tattoos, this latter trait shared with many of the Aereni elves.
 
-Market District:
+### Characters
 
-University: 
+* 
 
-Governor’s Mansion: 
+### Locations
 
-Hall of the Bereaved:
+* Market District
+* University
+* Governor’s Mansion
+* Hall of the Bereaved
+
+### References

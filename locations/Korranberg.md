@@ -27,17 +27,15 @@ location: "[4.171115, -24.543457]"
 
 Korranberg is the city of truth and knowledge, its library the best collection of knowledge outside of Argonessen. House Sivis calls Korranberg home, maintaining its largest enclave in the city. The Korranberg Chronicle is produced here, independently owned by the Jarell clan.
 
-![https://wrightmat.github.io/dnd-eberron/_img/korranberg.jpg](https://wrightmat.github.io/dnd-eberron/_img/korranberg.jpg)
+### Characters
 
-**The Library of Korranberg**
+- 
 
-Founded by an eccentric and obsessive gnome, Dorius Alyre ir'Korran sought to create a large enough repository of information that he could ascend and take Aureon's place amongst the sovereigns. Despite Dorius' apparent failure to
-ascend to the divine, the project of a massive library was popular not just within the ir'Korran family, but all of Zilargo.
-Only the most stubborn secrets have eluded the Library's grasp, making it a resource or even patron for inquiring
-adventurers. The library maintains offices in every major city of Khorvaire, tasked with improving local connections.
-Not only is the library important for its collection of books and other knowledge receptacles (most of which are stored in
-extradimensional locations), it has become the center of life in Korranberg. The library has eight colleges, each with their
-own specialty listed in the table below. Unlike the Twelve or the Arcane Congress, the Library is interested in more than just magical secrets.
+### Locations
+
+![https://wrightmat.github.io/dnd-eberron/_img/korranberg.jpg|600](https://wrightmat.github.io/dnd-eberron/_img/korranberg.jpg)
+
+- **The Library of Korranberg**. Founded by an eccentric and obsessive gnome, Dorius Alyre ir'Korran sought to create a large enough repository of information that he could ascend and take Aureon's place amongst the sovereigns. Despite Dorius' apparent failure to ascend to the divine, the project of a massive library was popular not just within the ir'Korran family, but all of Zilargo. Only the most stubborn secrets have eluded the Library's grasp, making it a resource or even patron for inquiring adventurers. The library maintains offices in every major city of Khorvaire, tasked with improving local connections. Not only is the library important for its collection of books and other knowledge receptacles (most of which are stored in extradimensional locations), it has become the center of life in Korranberg. The library has eight colleges, each with their own specialty listed in the table below. Unlike the Twelve or the Arcane Congress, the Library is interested in more than just magical secrets.
 
 | College | Specialty |
 | --- | --- |

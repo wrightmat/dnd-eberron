@@ -1,3 +1,8 @@
+---
+type: Region
+region: "[[Khorvaire]]"
+image: "![https://static.wikia.nocookie.net/eberron/images/e/e6/Creilath_sharn_council.png|250](https://static.wikia.nocookie.net/eberron/images/e/e6/Creilath_sharn_council.png)"
+---
  #location #region [[Khorvaire]]
 
 > [!infobox]
@@ -40,7 +45,9 @@ Influential Groups:
 - The Aurum
 - Jhorash'tar
 
-![https://static.wikia.nocookie.net/eberron/images/e/e6/Creilath_sharn_council.png/revision/latest?cb=20220123124957](https://static.wikia.nocookie.net/eberron/images/e/e6/Creilath_sharn_council.png/revision/latest?cb=20220123124957)
+### Characters
+
+* 
 
 ### Locations
 

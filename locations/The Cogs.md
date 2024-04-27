@@ -25,7 +25,6 @@ Much of Sharn’s warforged population can be found in the Cogs districts of Ash
 Physically, the Upper Cogs are a honeycomb of passages, just wide enough for the carts and caravans that transport goods to and from the surface. The heat is palpable, and smoke and sulfur scents the air. The Cogs are old, and light is provided by everburning torches as opposed to everbright lanterns; these torches are often spaced far apart, so there can be stretches of shadow between the pools of light. Merchants may hire adventurers to guard particularly important caravans, supply trains have been attacked by Daask in the past.
 
 ##### Ashblack (Industry district)
-
 > The air is filled with the smell of smoke and sulfur, and the walls are covered with ash. The constant rumble of the forges and foundries shakes your feet and makes conversation difficult.
 
 Ashblack stretches out from Dura toward the center of the city. In general, the businesses all operate on a large scale, processing loads of ore and other raw materials, they will have little business here. However, there are a few points of interest.
@@ -34,7 +33,6 @@ Ashblack stretches out from Dura toward the center of the city. In general, the 
 - **Keldoran Forge**: Antos Keldoran (N male dwarf expert 5) runs a small smithy in Ashblack, where he produces high-quality metal arms and armor. If a character can win his affection (DC 20 Persuasion check; dwarf characters gain a +5 bonus), Antos sells masterwork metal goods at a 10% discount.
 
 ##### Blackbones (Industry district)
-
 > Heat and the smell of smoke fills the air. The long passages are dimly lit and coated with soot, and the inhabitants are dour folk focused on their work.
 
 Blackbones is located under Tavick’s Landing, and stretched west toward the center of Sharn. In most respects it is similar to Ashblack; it is slightly newer, and the corridors are a little wider and better lit. Like Ashblack, there are a considerable number of warforged laborers in this district, and a few businesses have sprung up around these constructs.
@@ -43,7 +41,6 @@ Blackbones is located under Tavick’s Landing, and stretched west toward the ce
 - **The Red Hammer**: This unusual business is an inn — for warforged. Warforged do not need to eat, drink, or sleep, but they can still hunger for camaraderie. The Red Hammer is a place for warforged to gather, make new friends, and exchange stories. The Hammer is owned by two warforged, Blue (N female personality warforged fighter 5) and Crucible (N female personality warforged artificer 5). The official story is that Blue bought the Hammer with a cache of gold he found during the Last War, but in truth it was paid for by Merrix d’Cannith. Crucible is one of Merrix’s experimental warforged produced in Sharn, and Merrix also wants to provide the warforged with an outlet for social development. Blue and Crucible are on good terms with Smith, and both support his views as opposed to those of the Lord of Blades. In addition to companionship, the Hammer is a source for repairs and cosmetic improvement for warforged; costs are equivalent to those of a house of healing. Warforged characters receive a +1 bonus on any Intellgence checks made in the Red Hammer.
 
 ##### Khyber’s Gate (Undercity)
-
 > This is an actual city beneath the city, with homes and shops carved into the walls of the Cogs. It is still a maze of passages, but the “streets” are a little wider and the ceilings rise higher. The heat is far less intense than in the industrial district, but the air is still filled with the stench of smoke and garbage. Goblins watch from the shadows, and in the distance two ogres stagger out of a bar.
 
 Khyber’s Gate covers the distance between Ashblack and Blackbones. Due to the lack of lava streams, it does not have any of the heavy industry found to the east or west. For the most part, Khyber’s Gate is a tenement district, filled with tiny houses carved into the tunnel walls. A great many of the monstrous immigrants from Droaam have settled in Khyber’s Gate, using strength or supernatural abilities to drive the original residents away. Beyond these monsters, the vast majority of the inhabitants are goblins. The other inhabitants of the Gate are drawn from all races, though they share a common desperation; an elf resident of Khyber’s Gate has little in common with one of the haughty inhabitants of Shae Lias. Many of the non-goblin inhabitants of the region are criminals who have fled from justice.

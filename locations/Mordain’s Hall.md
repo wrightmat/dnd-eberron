@@ -29,13 +29,10 @@ Home to Mordain the Fleshweaver, Mordain’s Hall lies in the northwest of Droaa
 
 ### Locations
 
-**The Tower of Mordain** is a massive tower close to Droaam's western border, and the residence of Mordain the Fleshweaver. The Tower reaches high up into the sky, and is shaped somewhat like a malformed limb, seemingly made out of the flesh of a black dragon. The walls bleed when struck, but the tower's wounds heal extraordinarily fast. The tower has been magically protected against scrying and teleportation by Mordain.
-
-**Blackroot** refers to the small Orc/Human village west of the tower, and the associated entrance to the depths of Khyber in a nearby cave.
-
-**The Forest of Flesh** is located east of Blackroot, and surrounds the Tower of Mordain. It is a dangerous place that houses fowl creatures such as skinweavers.
-
-**Dolurrh’s Dawn** is located east of the Forest of Flesh, but is magically protected by Mordain so it can’t be found by outsiders unless they’re traversing through the Forest of Flesh.
+- **The Tower of Mordain**. A massive tower close to Droaam's western border, and the residence of Mordain the Fleshweaver. The Tower reaches high up into the sky, and is shaped somewhat like a malformed limb, seemingly made out of the flesh of a black dragon. The walls bleed when struck, but the tower's wounds heal extraordinarily fast. The tower has been magically protected against scrying and teleportation by Mordain.
+- **Blackroot**. A small Orc/Human village west of the tower, and the associated entrance to the depths of Khyber in a nearby cave.
+- **The Forest of Flesh**. Located east of Blackroot, and surrounds the Tower of Mordain. It is a dangerous place that houses fowl creatures such as skinweavers.
+- **Dolurrh’s Dawn**. Located east of the Forest of Flesh, but is magically protected by Mordain so it can’t be found by outsiders unless they’re traversing through the Forest of Flesh.
 
 ### Mordain the Fleshweaver
 
@@ -103,4 +100,6 @@ Skinweaver webs create patches of rough terrain, but the skinweavers can ignore 
 
 Merely moving close to a skinweaver head causes a creature’s flesh to crawl. A head uses existing obstacles and its disgusting mucus web to hold enemies at bay, which allows its hands to strike from afar. If an enemy uses an arcane power against the skinweavers, a head can mimic the spell in the caster’s own voice, flinging the power back against the party. Though a skinweaver head appears to display intelligence through its actions, it does not speak and instead mockingly mimics speech it hears.
 
-[https://archive.org/details/DragonMagazine260_201801/DragonMagazine364/page/n73/mode/2up](https://archive.org/details/DragonMagazine260_201801/DragonMagazine364/page/n73/mode/2up)
+### References
+
+* https://archive.org/details/DragonMagazine260_201801/DragonMagazine364/page/n73/mode/2up

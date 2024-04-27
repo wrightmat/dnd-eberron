@@ -12,13 +12,11 @@ In addition, if an adventurer wants to take up residence within Sharn, the price
 ### Locations (Districts)
 
 #### Lower Northedge
-
-Character: A quiet residential area containing a few workhouses.
+>A quiet residential area containing a few workhouses.
 
 Lower Northedge is home to the hardworking laborers of Sharn — generally decent folk who believe in an honest day’s work and can afford to stay out of Lower Dura. The people of Lower Northedge don’t look for trouble, and they don’t like it coming to their towers. The ward is relatively simple in structure and design, but it has been kept in good condition over the centuries and is a pleasant enough place to live. While it is largely residential, it includes a number of small workhouses and simple schools, along with North Market.
 
 ##### North Market (Marketplace)
-
 > North Market is one of the oldest business districts in Sharn. The cobblestone streets have been repaved time and again, and the walls of the towers are worn smooth with age. People always fill the streets, but there is less noise and bustle than one might expect from such a crowd; the locals are surprisingly patient and polite.
 
 The open market of this district is one of the oldest in Sharn. In addition to local residents, crafters from the regions around Sharn come to sell their wares at the open market, and Far and Sar are excellent times to purchase textiles and other crafted goods. A marketplace permit costs 3 sp. Most of the businesses and merchants in the district follow solid, simple trades: blacksmiths, brewers, carpenters, and tailors who produce sturdy clothes for the lower classes. However, Lower Northedge is home to a significant portion of Sharn’s shifter population, and there are a few exotic trades and restaurants catering to the shifting folk, including an apothecary who specializes in the proper care of fangs and claws.
@@ -30,25 +28,21 @@ In addition to the private businesses, there area number of workhouses in North 
 - **The Rat’s Nest**: This tavern caters primarily to the shifters of Lower Northedge, and serves food and drink in the style of the Eldeen Reaches. The customers of the Rat’s Nest are more inclined to gossip than to violence; the shifters of Northedge are as industrious and honest as any other citizen of the ward. However, the presence of Fathen’s Shrine hangs over the tavern like a shadow, and the regulars have an unfriendly attitude toward any follower of the Silver Flame. 
 
 ##### Stoneyard (Apartment townhomes)
-
 > Balcony orchards line the exterior towers of this quiet residential district, and small parks are scattered throughout the district. A large number of shifters inhabit the area, and shifter children scamper through the trees with great enthusiasm and agility.
 
 Stoneyard is a peaceful residential district, notable primarily for its significant shifter population and the large number of orchards and parks scattered throughout the region. Shifter children often use the parks for hrazhak matches, swinging through the trees and racing through the grass. A druid named Teln (N male shifter druid 3) helps to maintain the foliage and tend to those injured in hrazhak; in exchange for his services, the locals provide for his needs. Teln follows the Gatekeeper tradition, and sends word to the Gatehouse in Skysedge Park if he sees anything disturbing.
 
 ##### Longstairs (Apartment townhomes)
-
 > Most of the towers in this residential district have stairs that wrap around the outside of the buildings. The people go about their business with quiet determination, and keep a suspicious eye on any strangers.
 
 Longstairs is a quiet residential district, and its inhabitants like it that way. The people of Longstairs are primarily human and dwarf commoners, with a few experts and magewrights mixed in. These citizens go out of their way to maintain the stability of the neighborhood, and anything disruptive is quickly met with unified opposition. The apartments in Longstairs are reasonably priced and well maintained. However, adventurers who settle in Longstairs may have to make an extra effort to fit in; characters that engage in wild antics may be run out of the neighborbood.
 
 #### Middle Northedge
-
-Character: Peaceful residential area, home to skilled crafters and successful merchants.
+>Peaceful residential area, home to skilled crafters and successful merchants.
 
 Middle Northedge is a peaceful residential ward, featuring some of the finest average housing in the city. The inhabitants are successful, hardworking folk, and the streets are clean and quiet. Much of the dwarf population of the city lives in this ward.
 
 ##### Holdfast (Dwarf neighborhood)
-
 > Dwarves fill streets of Holdfast, though few have the accent or wear the clothing of the Mror Holds. The ringing of anvils and song of steel on steel can be heard rising from the smithies in the center to the district, and masons pass by with cartloads of stone. The people seem to be very industrious, and reasonably well off.
 
 When King Galifar I’s son, Karrn, invaded the Mror Holds, the dwarf nation was in a state of anarchy and constant clan warfare. Despite the barbaric state of their realm, the dwarves were natural miners and stonemasons with an innate talent for building fortifications. When King Galifar decided to rebuild the city of Sharn, he brought in a force of dwarf engineers and laborers from the Mror Holds. Dwarf hands played an important role in the rebirth of Sharn, and as the city grew it developed a sizeable dwarf population. Over the centuries, many dwarves spread across the city, abandoning their ancient roots. But other families remained together, forming a strong dwarf community. In time, they settled in the district they named Holdfast.
@@ -58,7 +52,6 @@ Dwarves comprise almost 90% of the population of Holdfast; the rest of the popul
 The people of Holdfast are comfortably middle class. Some serve as overseers in the vast foundries down in the Cogs, while others are architects or stonemasons. Holdfast also contains smithies of all sorts. Most of the arms and armor of the Sharn City Watch are produced in Holdfast, and anyone looking for masterwork armor can find it in this district. The smiths also look after their own, and if a dwarf of Brelish descent can make a successful DC 10 Charisma check, the cost of any weapons or armor he purchases in Holdfast is reduced by 10%.
 
 ##### High Hope (Temple district)
-
 > Shrines and temples line the suspended streets of High Hope. Compared to the gaudy trappings of Sovereign Towers, High Hope appears plain and functional. However, the temples are large and well maintained, and throngs of devotees fill the streets.
 
 The most impressive temples in Sharn are found in the Sovereign Towers district of Middle Central. But the glory of these monuments is tarnished by the corruption within the churches themselves. High Hope lacks the gilt trappings of Sovereign Towers, but what it lacks in pomp it makes up for with faith and sincerity. In addition to the three primary temples and the three large shrines, there are a wide range of smaller monuments dedicated to other deities and to religious heroes and martyrs. The people who live in the district or who come to High Hope to pray are typically quiet and serious in their devotions.
@@ -69,7 +62,6 @@ The councilor of Middle Northedge lives in High Hope. Doran Cantar (NG male huma
 - **Daca’s Watch**: High Hope contains an unusual shrine to Boldrei, a monument that has come to be known as Daca’s Watch. A thick, 12-foot pillar of densewood, this structure was supposed to hold a statue of some priest or martyr, but funding for the project evaporated, and the pillar stood empty for many years. One day, a gnome named Daca climbed up to the top and sat down. From this high perch, she watched and studied the people, occasionally shouting advice to people who seemed troubled or distressed. That was 120 years ago. Daca still sits on her post, watching over her neighbors. While she has no oracular powers, she is very familiar with the people of High Hope and has a great deal of common sense. The inhabitants of the district often come to her for advice or when a mediator is required, and she served as an emotional pillar of the community over the course of the Last War. While she has no religious training and does not profess to be a priestess of Boldrei, most of the locals believe that she has been touched by the goddess and consider her to be a holy woman. They are not alone in this; a handful of priests from other districts regularly visit High Hope to discuss events in Sharn with Daca.
 
 ##### Oakbridge (Average residential)
-
 > Towers and houses of polished densewood fill this district. While simple in design, the buildings are comfortable and well designed, and the district has been carefully maintained. The streets are quiet and the people are friendly, and after a few minutes, it feels like home.
 
 While the majority of the townhouses and apartments in Oakbridge fall into the “average” category, they are of the highest quality within that category. The district is not ostentatious and an Oakbridge address conveys no status on its owner, but the buildings are large, well constructed, and very safe, and the inhabitants are friendly and always keep an eye out for one another. If someone purchases a home in Oakbridge, within a week he has dozens of new friends.
@@ -77,13 +69,11 @@ While the majority of the townhouses and apartments in Oakbridge fall into the �
 - **Bright Wind**: The people of Oakbridge are generally a social and outgoing group, but the friendliest inhabitants of the district are the members of Milana family, who live in a small, comfortable townhouse they have named Bright Wind. Jolan Milana (NG male human commoner 3) is a baker who sells his wares in High Hope, while his wife Sarina (NG female human commoner 3) is a seamstress who works out of their home. They have three young children: Jalina (female, 12), Mesin (male, 8), and Jeral (male, 5). Anyone who settles in Oakbridge soon receives a personal welcome from the Milanas. In time, the family may be used as a way to pull a party into an adventure. Perhaps one of the children goes missing or overhears a conversation she shouldn't have. Maybe Jolan is infected with a Riedran mind seed. Or perhaps this friendly family is hiding a dark secret—a tie to a Radiant Cult or one of the Cults of the Dragon Below.
 
 #### Upper Northedge
-
-Character: Wealthy, but not ostentatious. Calm and peaceful.
+>Wealthy, but not ostentatious. Calm and peaceful.
 
 Upper Northedge is home to those who have the wealth to purchase a manor in the clouds, but who wish to avoid the bustle of Upper Central. This ward also houses the majority of Sharn’s population of elves.
 
 ##### Shae Lias (Elf neighborhood)
-
 > The district is filled with beautifully sculpted statues of long-dead elves. Densewood warriors stand guard at the gates of townhouses, while statues of priests and honored elders are spread throughout plazas and open-air orchards. The residents move quietly among these statues of the dead, carrying out their daily activities with silent grace.
 
 While naturalized elves can be found throughout Sharn, Shae Lias is a bastion for the values and traditions of the elves of Aerenal. Orchard balconies ring the neighborhood; the restaurants of the district own some of these, while others are open to the public for purposes of meditation and reflection. In addition to serving as a residential district for Aerenal expatriates, it is a source for a wide range of elven craftwork, woodwork, and furniture. The district also includes a handful of more exotic establishments, a few of which are outlined below.
@@ -97,17 +87,15 @@ While naturalized elves can be found throughout Sharn, Shae Lias is a bastion fo
 - **The Veil of Flesh**: This is a studio for body art, including traditional tattoos and the elven techniques that give the living the appearance of death. Depending on the purse and the desires of the client, the effects of either procedure can be permanent or temporary.
 
 ##### Crystal Bridge (Wealthy residential)
-
 > Manors and mansions surround penthouse towers, the sheer size of these estates hinting at the wealth of the residents within. Walls and bridges are covered with thick panels of glass and crysteel, causing a brilliant kaleidoscope of color when sunlight strikes the towers.
 
 While many of the most influential citizens of Sharn prefer to live in Upper Central, closer to the center of government and trade, Crystal Bridge is home to many of Sharn’s wealthiest denizens. A number of dragonmarked heirs maintain private residences in Crystal Bridge or Oak Towers, along with Brelish aristocrats and merchant princes. Crystal Towers is a quiet, peaceful district, and many of its inhabitants employ private guards to ensure that it remains peaceful.
 
 Notable inhabitants of Crystal Bridge include:
-* Haras Kant (NE male human aristocrat 6) is a wealthy Brelish aristocrat anda member of the Aurum. Like most members of the Aurum, he is interested in increasing his personal power and wealth, whatever the cost. Kant has a special interest in fabulous and magic gems, and adventurers that obtain unusual gemstones may attract his interest—which can be a dangerous thing.
+* Haras Kant (NE male human aristocrat 6) is a wealthy Brelish aristocrat anda member of the Aurum. Like most members of the Aurum, he is interested in increasing his personal power and wealth, whatever the cost. Kant has a special interest in fabulous and magic gems, and adventurers that obtain unusual gemstones may attract his interest — which can be a dangerous thing.
 * Ilia Merith (LG female human aristocrat 3/ expert 3), amember of Sharn’s upper crust, isa noted philanthropist and a strong supporter of the arts, particularly song and poetry. Ilia might become a patron for a PC bard, or she could employ the party to recover a rare book of poetry that has been lost or stolen.
 
 ##### Oak Towers (Wealthy residential)
-
 > The smooth lines of elven architecture can be seen throughout this district, and most of the towers are formed of polished densewood. Manors and palatial estates line the wide avenues, and private gardens can be seen stretching out on walled balconies.
 
 Like Crystal Bridge, Oak Towers is a peaceful neighborhood that is home to many of Sharn’s wealthiest citizens. The elven influence of Shae Lias is clearly visible in the architecture of the district, and much of the population is made up of elves and half-elves. Between the Sharn City Watch, private guards, and the magical wards employed by many of the households, Oak Towers remains a quiet and peaceful district.

@@ -13,19 +13,16 @@ The Menthis Plateau is the hub of Sharn’s entertainment industry, as well as i
 ### Locations (Districts)
 
 #### Lower Menthis Plateau
-
-Character: Rowdy entertainment district.
+>Rowdy entertainment district.
 
 The lower ward of Menthis Plateau perhaps best meets the stereotype of a metropolitan entertainment district. Its streets are crowded night and day, its buildings huddle dark and close together, and its offerings are lurid and often risqué. The only exceptions are the two residential districts, which are comparatively quiet places that give the City Watch little trouble.
 
 ##### Center Bridge (Average residential)
-
 > Orderly collections of townhouses ring the towers of this district.
 
 Center Bridge tries to be a quiet residential district, but with Torchfire and Firelight on one side and Downstairs on the other it can’t help but smolder with seedy activity. Its residents include a number of people associated with Morgrave University, since it is located directly below the University District and it offers much cheaper housing than can be found in the ward above. In fact, groups of students share inexpensive housing here, so close to the illicit pleasures of Lower Menthis, and are responsible for much of the rowdiness that sometimes disturbs the peace of Center Bridge.
 
 ##### Downstairs (Tavern district)
-
 > By night, inebriated revelers stumble forth into the crowded streets from dozens of taverns. By day, this district is a virtual ghost town, with only cleaning crews, delivery personnel, and the occasional determined drunk livening up the scene.
 
 Situated on the western end of the plateau, separated from Torchfire and Firelight by the residential neighborhood of Center Bridge, Downstairs is nevertheless a rowdy district. Most of its businesses are taverns rather than fine restaurants (though there are exceptions), and drunken revels are the norm every night. Carousers finished with an evening at the theater in Torchfire or even the upper wards, or fresh from different kinds of activities in Firelight, come Downstairs to cap off the night.
@@ -34,7 +31,6 @@ Situated on the western end of the plateau, separated from Torchfire and Firelig
 - **Four Sails**: The Four Sails restaurant is the exception to the general rule of Downstairs that drink comes first, food second. Known as one of Sharn’s hidden dining treasures, regular patrons of Four Sails claim that it has the best seafood in Sharn. Located at the base of Seventh Tower, Four Sails is owned by a Lhazaarite named Ulfen Marcrot (N male human barbarian 3/rogue 1), who certainly knows his seafood. Though he prefers not to discuss his past with the tourists and slumming upper-ward residents who come to Four Sails for the dining experience, Ulfen has a colorful history he does enjoy sharing with adventurers. Born and raised a pirate in the Lhazaar Principalities, he took up an adventuring career later in life and has even explored Argonnessen’s coast.
 
 ##### Firelight (Red light district)
-
 > Noisy crowds fill taverns, casinos, and bordellos, the sound of laughter spilling out onto the dark streets. A great deal seems to be going on that appears illegal, but everyone seems to be having a good time.
 
 The Firelight district caters to clients seeking entertainment of an intimate nature, as well as hardcore and casual gamblers. While Sharn’s other red-light districts, Sharn’s Welcome and Dragoneyes, are dangerous and disreputable places most respectable citizens wouldn't dream of visiting, Firelight has somehow managed to maintain a reputation as a socially acceptable place to come and have fun, whatever type of fun one might be interested in having. Crime is much better controlled in Firelight than in the other red-light districts, so customers are less likely to become victims. Changelings control most of the bordellos here, as they do in Dragoneyes, but they employ members of almost all races.
@@ -44,13 +40,11 @@ The Firelight district caters to clients seeking entertainment of an intimate na
 - **Savia’s**: The most elegant bordello in Firelight claims that its clientele comes from Upper Central and Skyway as well as closer districts. Its real claim to fame, however, is that its owner, Savia Potellas (NE female human expert 2/bard 1), is Lower Menthis’s representative on Sharn’s city council. Her election outraged many of her fellow council members, but she claims to fairly represent the interests of the businesses in her ward, and the merchants of Lower Menthis have never complained about her leadership.
 
 ##### Forgelight Towers (Average residential)
-
 > Orderly collections of townhouses ring the towers of this quiet district. Children play in the streets and couples stroll arm in arm.
 
 Forgelight Towers mostly succeeds where Center Bridge fails in being a relatively quiet residential neighborhood amid the rowdy chaos of Lower Menthis. A number of older citizens live in Forgelight Towers, long-time homeowners who established their residence here before the ward became quite so seedy. Many of them are fond of complaining how far downhill the neighborhood has gone; others are more interested in sampling the wares in Downstairs and Torchfire.
 
 ##### Torchfire (Theater district)
-
 > Noisy crowds press into crowded theaters, and the sounds of bawdy music and roaring audiences fill the streets.
 
 Torchfire is the most notorious district in Menthis, though its offerings are relatively tame compared to those of Firelight. Its theaters, particularly the Ten Torches, are known for racy musical comedy designed to appeal to rowdy audiences.
@@ -59,19 +53,16 @@ Torchfire is the most notorious district in Menthis, though its offerings are re
 - **Ten Torches Theater**: The namesake of the Torchfire district is this crowded, smoke-filled theater near the point where Torchfire, Firelight, and Center Bridge converge. Though critically derided as the bottom of the barrel in Sharn’s entertainment scene, crowds fill its hall to bursting every night, thanks to a winning combination of cheap tickets and undeniably entertaining shows. It is sometimes hard to hear the performers over the roaring crowd, but no one seems to care — except perhaps the performers, or the young playwrights with aspirations of writing for the Grand Stage.
 
 #### Middle Menthis Plateau
-
-Character: Racially, ethnically, and economically diverse downtown area.
+>Racially, ethnically, and economically diverse downtown area.
 
 Middle Menthis is quite possibly Sharn’s most diverse ward, representing a true melting pot of different races, ethnic and national origins, economic classes, and social statuses. Small communities of human immigrants from the Lhazaar Principalities (in Warden Towers), the Shadow Marches (in Cassan Bridge), and Cyre (in Smoky Towers), in addition to the large halfling community in Little Plains and the students of Morgrave University, drawn from across Khorvaire, contribute to this diversity. Together, these many communities of immigrants make Middle Menthis an excellent place to find crafts and services that are particular to certain peoples and nations.
 
 ##### Cassan Bridge (Shops)
-
 > Citizens rush by with their arms full of packages in this shop district. There is a definite foreign element to some of the architecture and the goods for sale, not to mention the people.
 
 Cassan Bridge is a fairly unremarkable shopping district, unique only in the small community of human immigrants from the Shadow Marches who make their homes and livings here. Several importers bring Marcher crafts into Sharn, and specialty groceries carry ingredients favored in Marcher cooking. Although no buildings need be built on stilts in Middle Menthis, some of the architecture of Cassan Bridge echoes the styles of the Marches as well.
 
 ##### Everbright (Magic district)
-
 > Everbright lanterns keep the towers here well illuminated, and other magical effects are visible everywhere—from soarsleds carrying people through the air to constructs following their masters as they visit different shops
 
 Everbright might not be home to the majority of Sharn’s magic item dealers and spellcasters for hire, but it certainly can boast the largest concentration of them in any one district. While magic item dealers in the Central Plateau cater to wealthy collectors, those in Everbright tend to keep a more practical focus, selling items to the people who are most likely to actually use them — adventurers. For this reason, dealers in Everbright are far more willing to buy (and likely to sell) items that are not fully charged or are otherwise partially used up. Similarly, Everbright is the best place to find spellcasters for hire who are 10th level or above — whose talents are rare and in significant demand in Sharn.
@@ -80,16 +71,14 @@ While the spellcasters and dealers of Everbright are accustomed to trading with 
 * **Shrine of the Shadow**: Hidden down a dark alley, the shrine of The Shadow represents the dark side of Everbright. Here, necromancers and other evil wizards gather in secret to revere the power of magic perverted to evil ends, led by a cleric/necromancer named Thalanna (CE female human cleric 3/necromancer 3). This secretive cult has no grand evil schemes for world domination; they exist purely to worship their patron deity and hide only to escape persecution.
 
 ##### Little Plains (Halfling encampment)
-
 > The towers here appear insideout: instead of open central spaces surrounded by buildings attached to the outside of a tower, streets run around the outsides of the towers, giving access to very low doorways leading to cavelike interiors. Halflings seem to negotiate these outside ledges with ease, and so do the dinosaurs many of them ride. Great winged reptiles soar between towers, many with halfling riders on their backs.
 
 Little Plains is not the only halfling neighborhood in Sharn, but it is the only district almost entirely inhabited by halflings and the only significant concentration west of the Mournland of halfling immigrants from the Talenta Plains. Even the architecture suggests the maintenance of these halflings’ traditional ways, since the towers resemble the city of Gatherhold in Talenta. More urbanized halflings live in Little Plains as well, as do some few members of other races (primarily gnomes and some kobolds).
 
 ##### Smoky Towers (Theater district)
-
 > Theaters, restaurants, and concert halls offer the promise of an evening’s musical entertainment in this district.
 
-Smoky Towers is in some ways an extension of the Torchlight district directly below it, perhaps slightly better off in general but not much different in essentials. Smoky Towers is the entertainment district of Middle Menthis, known for dinner theaters, recital halls, and one grand theater. It presents a grade of entertainment that falls between the burlesque of Torchlight and the classical drama of the University District—affordable yet respectable, accessible yet thoughtful.
+Smoky Towers is in some ways an extension of the Torchlight district directly below it, perhaps slightly better off in general but not much different in essentials. Smoky Towers is the entertainment district of Middle Menthis, known for dinner theaters, recital halls, and one grand theater. It presents a grade of entertainment that falls between the burlesque of Torchlight and the classical drama of the University District — affordable yet respectable, accessible yet thoughtful.
 
 A small but significant number of people who trace their origin to Cyre have made their home in Smoky Towers. Although culturally they differ little from their Brelish neighbors, this community has become very active in the wake of Cyre’s destruction, discussing rebuilding or reestablishing the nation elsewhere in Khorvaire. The Citadel keeps the Cyran community here under close watch due to this potentially treasonous talk.
 
@@ -100,7 +89,6 @@ A small but significant number of people who trace their origin to Cyre have mad
 - **Thovanic Hall**: Similar to the Atrium, Thovanic Hall is a former theater converted to use as a recital hall. It is still very new (the renovation was completed only two years ago), and is still trying to build its reputation as a place for fine music to compete with the Atrium. As a distinguishing point, Thovanic presents a significant number of non-Brelish and even non-human performers, who bring diversity to the musical offerings that the residents of Middle Menthis find sorely lacking in the district’s other offerings.
 
 ##### Warden Towers (Garrison)
-
 > Some guards of the Watch march to and fro in groups, while others stand at attention, and still others drill for combat. Shouted commands and marching songs fill the air.
 
 Warden Towers is the home of Menthis Plateau’s Watch garrison, which includes 450 guards responsible for keeping order in the whole plateau. It also houses a small community of Lhazaar immigrants, many of whom have joined the Watch. This community also spills into Forgelight Towers and Downstairs, both in Lower Menthis.
@@ -108,13 +96,11 @@ Warden Towers is the home of Menthis Plateau’s Watch garrison, which includes 
 - **Thuranne d’Velderan’s Investigative Services**: Thuranne d’ Velderan (NG half-ore rogue 5/dragonmark heir 1), ascion of House Tharashk, operates an inquisitive agency in Warden Towers. Her greatest asset is an extensive network of contacts within the Warden Towers garrison, which gives her access to resources beyond the reach of most inquisitives. She specializes in criminal investigation, and frequently consults for the Watch to repay the many favors her contacts have performed for her. She is not particularly favored in House Tharashk, since she prefers to run her own business than take on jobs for the house.
 
 #### Upper Menthis Plateau
-
-Character: Wealthy and educated, strongly influenced by the presence of Morgrave University.
+>Wealthy and educated, strongly influenced by the presence of Morgrave University.
 
 Morgrave University might not be the most prestigious university in the Five Nations, but it is the largest educational institution in Sharn. The University strongly influences the character of the Upper Menthis ward, drawing academics, scribes, sages, and students from all over Breland and beyond. A diverse mix of races and national origins populate Upper Menthis. In addition to the University, Upper Menthis’s role as the crown of Sharn’s entertainment quarter has made a significant impact on the character of the ward, and four major theaters have been established here.
 
 ##### Den’iyas (Gnome neighborhood)
-
 > The buildings here, from quiet and neat little townhomes to shops and services of all kinds, are scaled for the district's gnome inhabitants.
 
 Den’iyas is known as the gnome neighborhood of Sharn, though barely ten percent of the city’s gnome population lives in this district. Few people of other races call it home, and its gnome residents cleave to their traditional customs unlike their more integrated brethren in the rest of the city. There are usually a dozen subtle power struggles going on between the major families of Den’iyas, and even the most innocuous event could be part of some elaborate intrigue. Information of all types can be acquired here, but those with secrets must be careful around the inquisitive gnomes, lest they become the object of blackmail, curiosity, or deceit.
@@ -129,13 +115,11 @@ Den’iyas is known as the gnome neighborhood of Sharn, though barely ten percen
 Ivy Towers is a generally unremarkable residential district, notable only because a significant number of professors at Morgrave University make their homes here.
 
 ##### Platinate (Wealthy residential)
-
 > The townhomes in this district are large and well kept, clearly displaying the wealth of their occupants. Servants move about on the business of their employers, and guards can be seen posted at many of the doors.
 
 Platinate, among Sharn’s most desirable residential districts, isn’t as exclusive as Mithral Tower in Upper Central, but certainly compares to Oak Towers and Crystal Bridge in Upper Northedge. Morgrave University produces few scholars wealthy enough to live in Platinate, but some retired explorers who struck it rich selling artifacts from Xen’drik settled in this district to remain close to the University. There are just enough eccentric collectors of antiquities and retired adventurers to give Platinate a quirky character that distinguishes it from similar districts.
 
 ##### Seventh Tower (Fine shops)
-
 > Stores, restaurants, hotels, and a few townhomes in this prosperous neighborhood appear high-priced and lavish.
 
 Named for its most prominent architectural feature, Seventh Tower holds the distinction of being the finest shopping district in Menthis Plateau. A number of rare book dealers and antiquities shops set it apart from similar districts, such as Platinum Heights in Upper Central.
@@ -150,7 +134,6 @@ Named for its most prominent architectural feature, Seventh Tower holds the dist
 	* Reina’s twin sister, Fista Doiran (NG female human expert 8) owns the Doiran Gallery (which once belonged to their parents) and has the opposite personality and artistic disposition. This allows them to get along amazingly well, and the twins cooperate in business dealings despite a strong sense of rivalry.
 
 ##### University District (University)
-
 > Students carrying armloads of scrolls and books hustle to classes, while others sit or stand in circles, discussing the day’s lessons.
 
 The home of Morgrave University, the University District is dedicated to the pursuit of knowledge— while making as much profit as possible. From Morgrave itself to the businesses that have sprung up around it, love of learning coexists with love of earning and the two feed happily off each other. If scholarly interest can lead to great profit, or thirst for gold to historical discovery, then the residents of the University District are doubly satisfied.

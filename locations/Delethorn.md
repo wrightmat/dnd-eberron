@@ -45,7 +45,7 @@ Delethorn is a small town in the central Eldeen Reaches, on the shores of Lake G
 * **Arms and Armor** (2). Mark of Making and Mark of Sentinel over the door. Sells any basic weapons or armor the party may need. Run by Jenseris.
 * **Town Hall** (3). Mark of Passage, Mark of Scribing, and Mark of Warding over the door. Office of Gelel Embertree, the town's mayor. Also serves as the town's Courier, Mapmaker, and Bank. Gelel can fulfill any of these services if asked - he has a good relationship with all of these houses. He can also be contacted directly using Speaking Stones if needed.
 * **Gold Dragon Inn** (4). Mark of Hospitality and Mark of Healing over the door. This is a smaller branch location that has only a few beds, a small restaurant with a limited menu, and an ancillary store licensed by House Jorasco that sells potions. The whole operation is run by a single halfling with the blessing of both houses, Kelyra Ambereyes.
-	* [[Gold Dragon Inns]]
+	* [[Gold Dragon Inn]]
 * **Warehouse** (5). A newly opened Warehouse/Factory that has the Mayor concerned.
 	* [[1-01. Delethorn Warehouse]]
 * **Boraz’s Bounty** (6). A local half-orc has claimed the sewers in the name of the Finders Guild, so he can explore them for any treasures. He hasn't fully explored them yet, but has set up shop near the opening of the sewers on the edge of town.
