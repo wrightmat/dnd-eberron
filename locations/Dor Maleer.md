@@ -3,6 +3,21 @@ Public: [[public/Dor Maleer|Dor Maleer]]
 
 ![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Dor_Maleer.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Dor_Maleer.png)
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
 Dor Maleer is a region of harsh plains, cold deserts, and mountains. Its barren land is only slightly more hospitable than the Tashana Tundra that lies to the north. In the days before the First Sundering, the northern mountains were the domain of the Doriak dwarves, while the plains were claimed by the Hual Maleer, a loose federation of human and shifter clans.
 
 Dor Maleer was never a strongly united nation. The first step for the Dreaming Dark was to drive a wedge between the Hual Maleer, causing tensions between clans and between human and shifter. Inspired champions arose within the clans, uniting them and spreading the word of the Path of Unity. The psychic Doriak proved resistant to the manipulations of the Dreaming Dark, but the quori amplified fear and conflict between them and the people of the lowlands. As the Unity of Riedra emerged, the first true Inspired offered peace to the Doriak, and paid them handsomely for their aid in creating the hanbalani and other elements of Riedran infrastructure. But once the dwarves had served their purpose, Riedra turned on them, launching a brutal preemptive strike. The Doriak survivors were driven from their mountain home and into the Tashana Tundra.

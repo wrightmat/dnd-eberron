@@ -1,7 +1,25 @@
+---
+region: "[[public/Sarlona|Sarlona]]"
+type: Region
+image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Borunan.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Borunan.png)"
+---
  #location #region [[locations/Sarlona|Sarlona]]
 Public: [[locations/Borunan|Borunan]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Borunan.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Borunan.png)
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
 
 In the days of the old kingdoms, the ogres of Borunan were peerless warriors. Their champions possessed inhuman strength, martial discipline, unshakable courage, and weapons forged in Fernian flame. Time and again, they repelled the legions of Nulakesh and the crusaders of Khalesh, and yet Borunan never sought to conquer any of its neighbors. Some might wonder why this was. Borunan is a harsh land; did the ogres never consider claiming the more fertile fields of Nulakesh? What kept their population so low that they never needed to expand?
 

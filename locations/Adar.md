@@ -1,7 +1,7 @@
 ---
 type: Region
 region: "[[public/Sarlona|Sarlona]]"
-image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Adar.png|250](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Adar.png)"
+image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Adar.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Adar.png)"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
 Public: [[public/Adar|Adar]]

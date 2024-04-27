@@ -5,6 +5,21 @@ location: "[30.949347, -12.073975]"
 ---
  #location #city [[Karrnath]]
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
 Atur, also called the City of Night, is a large city in central Karrnath, south of the Karrn River between the Ashen Spires on the east and the Nightwood on the west. Adherents of the Blood of Vol faith make up a significant amount of the population.
 
 Atur is located near where the Karrn River flows out of the Ashen Spires mountain range. The proximity of the mountains and mists from the Karrn Falls create a gloom that shrouds the city, shortening the amount of daylight it receives. A lightning rail line runs through the city, connecting it to Korth and Vulyar. Atur is also located near a Mabaran manifest zone.
