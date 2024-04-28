@@ -9,7 +9,6 @@ Skyway demonstrates the most dramatic manifestation of the magic made possible b
 ### Locations
 
 ##### Azure (Sky district)
-
 > This district is almost silent, floating on clouds high above the hubbub of the city. Servants scurry about from fabulous mansions to exquisite shops, while the gentry who call this place home parade in state, often riding griffons or hippogriffs, as they call upon their counterparts.
 
 The two districts of Skyway appear almost the same in character and composition; Azure is just “southern Skyway” (hovering roughly over the Menthis Plateau) while Brilliant is “northern Skyway” (positioned over the Central Plateau). Both districts feature expansive estates unlike anything found among the lower towers, with churning vistas of cloudstuff forming the elegant landscape. In places, the cloud matter on which the ward is built is shaped (permanently or temporarily) into an elegant statue or the semblance of a tree.

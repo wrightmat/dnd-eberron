@@ -63,6 +63,8 @@ Influential Groups:
 - Korran's Maw
 - Mirror Lake
 
-### Adventures
+### DM Notes
 
 - The Forge of Fury, from Tales of the Yawning Portal can be set here, in a city called Khundrukar on the western edge.
+
+### References

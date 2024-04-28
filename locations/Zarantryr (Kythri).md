@@ -32,10 +32,15 @@ image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/6Vcx
 #### Cornerstone
 Cornerstone is the largest of the slaad cities. Its architectural style and precise layout are constantly changing, but it’s always a sprawling city that houses hundreds of thousands of slaadi. Each time the players travel to Cornerstone, roll on the Slaad Cultures table to determine which slaadi are in charge currently. The attitude of slaadi toward adventurers depends on the active culture. Regardless, Cornerstone is the best place to acquire Kythrian artifacts (see [[Trinkets of the Planes]]) or magical services.
 
+#### Zertherun IV
+Zertherun IV is one of the monastery vessels of the githzerai. It’s under the guidance of the zerth, whose mental discipline maintains the stability of the ship. The Great Githzerai Zaerith is a senior monk charged with dealing with outsiders, which is sometimes a matter of diplomatic negotiations, and other times, rallying zerths to defend the vessel from attack. Like most githzerai, Zaerith isn’t inherently hostile toward outsiders, but has no great love for them; his reaction is based entirely on the actions and approach of the visitors.
+
+Kythri’s Broken Rhythms and The Odds Are Odd properties don’t apply in a githzerai monastery, and while Constant Change exists, its effects are minimized. Zertherun IV maintains capacitors for change, such as gardens of small stones and engraved wheels with shifting patterns, which absorb the energies of change and prevent it from transforming the vessel.
+
+[[Githzerai]]
+
 #### [[The Shifting Islands]]
 There are countless islands on the edge of the Sea of Chaos, varying dramatically in size, each with its own environment. These are constantly changing, but they change slowly; it can take anywhere from a day to a week for an island to shift from a barren desert to a verdant jungle. Weather is generally more dynamic, and often at odds with the environment; a vast desert can suddenly face a dramatic blizzard.
-
-#### [[Zertherun IV]]
 
 ### Universal Properties
 

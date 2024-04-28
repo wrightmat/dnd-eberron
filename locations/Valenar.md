@@ -1,14 +1,29 @@
+---
+type: Region
+region: "[[Khorvaire]]"
+---
  #location #region [[Khorvaire]]
 
-Valenar is a nation that broke away from the nation of Cyre during the Last War when the Valaes Tairn mercenary elves annexed the land.
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
 
-### Geography
+Valenar is a nation that broke away from the nation of Cyre during the Last War when the Valaes Tairn mercenary elves annexed the land.
 
 Valenar is located in the southeast part of the continent of Khorvaire. It borders the Talenta Plains to the north and Q'barra to the east, while the Mournland and Kraken Bay lie on its western border. Valenar is the closest nation on Khorvaire to the island nation of Aerenal, which is a short sea journey to the south.
 
 Most of northern Valenar is covered by the Blade Desert, while the southern tip of Valenar is a peninsula containing the jungles of Ravar Orioth. The central part of the nation is covered by plains.
-
-### Government
 
 The Valaes Tairn are divided into 45 units known as warclans, each holding between 200 to 500 elves. All of these warclans owe fealty to War Leader Shaeras Vadallia, the High King of Valenar. However, only 20 of the warclans are under his direct command at any one time, known as the Host of Valenar. Warclans serve in the Host of Valenar for 10 years, before rotating out to become independent again. Half of the warclans in the Host of Valenar serve in military operations, while the other half polices the kingdom. Vadallia rewards valiant service with noble titles and land in Valenar, but most elves prefer to remain in the saddle rather than settle down to rule.
 
@@ -17,6 +32,14 @@ With the Valaes Tairn focused on military affairs, the civic administration of V
 The elves of Valenar have little interest in building relationships with the other powers of Khorvaire. The nation has tense relationships with the Talenta Plains, Q'barra, and Karrnath because of raiding Valenar warbands.
 
 Most of the dragonmarked houses have a limited presence in the country, with the exception of House Lyrandar, who holds land in Valenar in violation of the Korth Edicts and helps run the country, and House Vadalis, who are banned for trying to steal horses.
+
+### Characters
+
+- 
+
+### Locations
+
+- 
 
 ### History
 

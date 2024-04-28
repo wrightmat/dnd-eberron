@@ -27,6 +27,10 @@ location: "[24.156778, -49.064941]"
 
 Home to Mordain the Fleshweaver, Mordain’s Hall lies in the northwest of Droaam, a day’s travel from the border of the Shadow Marches and the Byeshk Mountains. The area includes the Tower of Mordain, the village of Blackroot, the surrounding forest, (called the KhreshtRhyyl, or “Forest of Flesh”), and village of Dolurrh’s Dawn.
 
+### Characters
+
+- **[[Mordain the Fleshweaver]]**
+
 ### Locations
 
 - **The Tower of Mordain**. A massive tower close to Droaam's western border, and the residence of Mordain the Fleshweaver. The Tower reaches high up into the sky, and is shaped somewhat like a malformed limb, seemingly made out of the flesh of a black dragon. The walls bleed when struck, but the tower's wounds heal extraordinarily fast. The tower has been magically protected against scrying and teleportation by Mordain.

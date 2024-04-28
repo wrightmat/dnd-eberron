@@ -1,3 +1,7 @@
+---
+type: Region
+region: "[[Khorvaire]]"
+---
  #location #region [[Khorvaire]]
 
 > [!infobox]
