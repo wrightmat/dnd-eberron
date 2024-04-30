@@ -1,5 +1,5 @@
 ---
-type: Town
+type: Castle/Fort
 region: "[[Breland]]"
 government: 
 ruler: 
@@ -7,7 +7,7 @@ image:
 location:
 ---
 
- #location
+ #location #castle/fort [[Breland]]
 
 > [!infobox]
 > # `=this.file.name`
@@ -28,6 +28,10 @@ location:
 > | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
 > ###### Comments
 > `=this.comments`
+
+Kennrun is a fortification in northeastern Breland on the border with Darguun.
+
+The knights and warriors of Kennrun defend unceasingly against the monsters coming out of the nearby Mournland, keeping the place very busy.
 
 ### Characters
 
