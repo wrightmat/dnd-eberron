@@ -13,9 +13,9 @@ hp: 57
 hit_dice: 6d10 + 24
 speed: 25 ft., fly 25 ft.
 stats: [10, 15, 18, 3, 10, 6]
-damage_resistances: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
-damage_immunities: Lightning
-condition_immunities: Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Poisoned, Prone
+damage_resistances: bludgeoning, piercing, and slashing from nonmagical attacks
+damage_immunities: lightning
+condition_immunities: blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone
 senses: darkvision 60 ft., passive perception 10
 languages: --
 cr: 5
@@ -32,3 +32,7 @@ actions:
   - name: Spell Mimicry (Recharge 5–6)
     desc: "The living spell unleashes a stroke of lightning in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw, taking 28 (8d6) lightning damage on a failed save, or half as much damage on a successful one."
 ```
+
+### References
+
+* https://media.wizards.com/2019/dnd/dragon/28/DRA28_LivingSpells.pdf
