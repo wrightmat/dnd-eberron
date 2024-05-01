@@ -120,9 +120,6 @@ It is up to the DM to decide whether, or how often, their party encounters a sto
 | 20  | Water with lightning                                                                                  |
 ^mournland-weather
 
-
-
-
 ### References
 
 * https://eberron.fandom.com/wiki/Mournland

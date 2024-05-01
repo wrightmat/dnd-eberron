@@ -31,3 +31,5 @@ Actually, Aaren retreated to the secret lab that he had used to develop the orig
 In the years since he first appeared, the warforged who soon came to be known as the Lord of Blades has gathered followers from among the Warforged of Khorvaire, and sought to build an empire upon the ruins of Cyre, deep within the desolate Mournland. These followers call themselves "The Blades" and have joined his nation, centered in a great, hidden fortress where Warforged from all over Khorvaire can come and feel a sense of belonging. Today his Warforged roam the Mournland, patrolling the devastated terrain and salvaging resources from the ashes of Cyre.
 
 ### References
+
+* https://eberron.fandom.com/wiki/Lord_of_Blades
