@@ -28,9 +28,9 @@ On the 20th of Olarune, 994 YK, an unknown magical holocaust wiped out the natio
 
 ### Characters
 
-* **[[Aaren d’Cannith (Lord of Blades)]]**.
-* **[[Ikar the Black]]**.
-* **[[Kazdurakashtan (Haze-of-Death)]]**.
+* **[[Aaren d’Cannith (Lord of Blades)]]** (LE male warforged artificer).
+* **[[Ikar the Black]]** (NE male half-orc salvager).
+* **[[Kazdurakashtan (Haze-of-Death)]]** (CE male white dragon).
 
 ### Locations
 
