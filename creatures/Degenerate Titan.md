@@ -36,6 +36,14 @@ actions:
     desc: "The degenerate titan utters a scream that rends reality in a 30-foot cone. Any ongoing spell or magical effect of 3rd level or lower in the area ends. For every spell or effect of 4th level or higher in the area, the degenerate titan makes a Constitution check against DC (10 + the level of the spell or effect). On a success, the spell or effect ends."
 ```
 
+_This giant retains a look of daunting power despite its stooped bearing, tattered clothing, and pieces of slapdash armor strapped on wherever it fits._
+
+**Haunt Ruins**. The degenerate descendants of once-noble titans haunt the ruins where their cities once flourished. They hunt for any living thing to eat, including each other, and sometimes chase after herds of goats or other animals for miles. While they are easily distracted, they always find their way home unerringly.
+
+**Insane and Moody**. Degenerate titans are prone to insanity and unexpected mood shifts. They are fiercely territorial creatures who worship the still-active magical devices of their cities and any surviving statuary as if they were gods. Their lairs are filled with items scavenged from the city. These collections are a hodgepodge of dross and delight, as the degenerate titans are not intelligent enough to discern treasure from trash.
+
+**Primal Power**. Degenerate titans cannot command magical words of power, but they have tapped into the earth's latent mystic power to generate strange geomancy. These devolved misfits may have lost most of their former gifts, but what remains are primal powers that tap, without subtlety or skill, into the fundamental building blocks of magic.
+
 ### References
 
 * Tome of Beasts 1, pg 381
