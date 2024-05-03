@@ -172,18 +172,48 @@ During the summer of the Quiet Year, Adar established Olympics-like games ("Unit
 
 ##### 6. The Psychic Archery
 - Archers must hit targets that are only visible through psychic perception, challenging their mental focus and archery skills simultaneously.
+- Participants must succeed on a Wisdom (Perception) check (DC 15) to visualize each target. If they fail, the target remains invisible to them, increasing the difficulty of hitting it.
+- Once a target is perceived, contestants must make an attack roll to hit the target with a bow and arrow. Normal archery mechanics apply, but hitting an invisible target (if the perception check was failed) imposes disadvantage on the attack roll. For visible targets (successful perception check), contestants make a regular ranged attack roll against a target AC of 12.
+- Participants can use abilities or magical enhancements to improve their accuracy or gain bonuses on their attack rolls or Perception check to see the target.
 
 ##### 7. The Chanting Choir
 - Teams compete in a chanting competition where they must harmonize not only their voices but their psychic energies, creating a mesmerizing auditory and mental experience.
+- Participants make a Charisma (Performance) check (DC 12) to effectively sing and harmonize with their group. Teams with members who have musical backgrounds (+2) or proficiencies receive that benefit on this check.
+- Teams must also synchronize their psychic energies to enhance the emotional impact of their chant. Following the vocal performance, the team makes a group Wisdom (Insight) check with a DC of 15 to align their psychic energies, adding depth and power to their performance. Teams that include characters with psychic abilities or spells that aid in emotional or mental connection can lower this DC by 2.
 
 ##### 8. The Ascetic's Climb
 - Competitors climb a steep path while carrying weights that symbolize spiritual burdens, shedding them as they answer riddles based on Adaran philosophy to lighten their load and reach the summit.
+- Participants begin the climb carrying a weighted pack that symbolizes their spiritual burdens. The heavy pack adds a penalty of -5 (disadvantage) to all their physical checks (Athletics, Acrobatics).
+- The path features physical obstacles such as steep inclines, slippery rocks, and narrow ledges. Participants must make a series of Strength (Athletics) checks to overcome physical obstacles. Each obstacle has a set DC (ranging from 12 to 18), depending on its difficulty. Successful navigation of an obstacle allows participants to shed a portion of their burden, reducing the penalty by 1 for each success.
+- Interspersed along the climb are riddle stations where participants must solve philosophical riddles to lighten their spiritual load. At each riddle station, participants make an Intelligence (Investigation) or Wisdom (Insight) check (DC 15) to solve the riddle, reducing their penalty by 1 for each success.
+- The last segment of the climb is the steepest and requires participants to draw upon their remaining strength and insight. This segment requires a final Strength (Athletics) check (DC 17). Participants who have successfully lightened their load significantly (reduced their penalty to -1 or less) receive advantage on this check.
+- Upon reaching the summit, participants undergo a moment of spiritual revelation, reflecting on their journey. A final Wisdom (Insight) check (DC 14) at the summit determines the depth of their spiritual insight gained from the climb. Success results in a temporary boon, such as advantage on Wisdom checks or saving throws for the next 24 hours, symbolizing their enlightened state.
 
 ##### 9. The Aerial Race
 - Participants use wind gliders to navigate a course set high in the sky, requiring skillful control of air currents and precise maneuvering.
+- Contestants make a single Dexterity (Acrobatics) check (DC 15) to steer their glider through the course. Participants can attempt to use the wind to their advantage. A successful Wisdom (Nature) check (DC 12) allows them to catch a favorable gust, granting a +2 bonus to their Acrobatics check.
+- Optionally, participants can glide through aerial rings placed at strategic points along the course to gain extra points. For each ring successfully navigated, up to three, participants perform a Dexterity (Acrobatics) check (DC 13). Success results in bonus points added to their final score. Missing a ring adds a time penalty, reducing overall score.
+- The final test is to execute a perfect landing at the end of the course, which is marked by a narrow landing strip. A final Dexterity (Acrobatics) check (DC 14) is required for a smooth landing. A successful landing boosts the final score, while a poor landing can result in a penalty.
 
 ##### 10. The Healing Hands
 - A timed event where healers must correctly diagnose and treat ailments using a combination of herbal medicine, psychic healing, and traditional remedies.
+- First, diagnose a set of symptoms presented on a volunteer or a magical simulation. Participants make a Wisdom (Medicine) check to identify the ailment. Each ailment has a set difficulty class, generally ranging from DC 12 for common conditions to DC 18 for rare or complex diseases. Successful diagnosis within the first attempt grants maximum points, while additional attempts reduce the score.
+- Once the diagnosis is confirmed, participants must choose an appropriate treatment from a range of options. For correct treatment application, a second Wisdom (Medicine) check is required, with the DC dependent on the complexity of the treatment (similar to the diagnostic DC). Participants may use spells, herbal remedies, or surgical techniques, each with specific benefits and risks. For example, using a healing spell like *[[cure wounds]]* could provide a bonus to the treatment check.
+- Participants face a sudden, critical situation where they must stabilize a condition that rapidly deteriorates. This requires a quick Constitution saving throw (DC 15) to maintain composure, followed by an urgent Wisdom (Medicine) check (DC 17) to stabilize the condition.
+- Last, evaluate and address the patient's overall well-being, not just the immediate symptoms, to promote complete recovery. Participants make a Charisma (Persuasion) check to effectively communicate with the patient, ensuring their comfort and cooperation, which is crucial for holistic care (DC 14).
+
+| dice: 1d10 | Ailment/Disease      | Symptoms                                                       | Diagnosis DC | Treatment                                                                                      | Treatment DC |
+| ---------- | -------------------- | -------------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------- | ------------ |
+| 1          | Cackle Fever         | Uncontrollable fits of laughter                                | 12           | Bed rest and a dose of feverfew tea                                                            | 12           |
+| 2          | Sewer Plague         | Fatigue, followed by aching joints and a rapidly spiking fever | 14           | A course of strong antibiotics made from refined silverleaf extract                            | 13           |
+| 3          | Mindfire             | Delirium, reddened eyes, and an aversion to light              | 13           | Dark, quiet rest and consumption of a specially prepared broth containing deep mushroom spores | 12           |
+| 4          | Mummy Rot            | Wasting away of flesh, weakness, cannot heal wounds            | 18           | Magical healing combined with an application of rare ointments made from crushed dragonshard   | 20           |
+| 5          | Leprous Lichen       | Skin turns scaly and bark-like, discomfort under sunlight      | 15           | Antifungal treatment along with exposure to healing magic                                      | 14           |
+| 6          | Filth Fever          | High fever, disorientation, sporadic bursts of pain            | 13           | A series of detoxifying baths followed by ingestion of a tonic derived from purifying herbs    | 14           |
+| 7          | Blinding Sickness    | Gradual loss of vision, pain in the eyes, sensitivity to light | 16           | Eye drops made from a dilution of moonseed poison and healing spells                           | 17           |
+| 8          | Soldier's Shake      | Trembling hands, flashbacks, sudden bouts of fear              | 12           | Therapeutic counseling sessions combined with calming elixirs                                  | 12           |
+| 9          | Dream Lily Addiction | Hallucinations, severe withdrawal symptoms, disorientation     | 15           | Gradual weaning off the drug combined with magic-assisted detoxification                       | 16           |
+| 10         | Demon Fever          | Nightmares, bouts of rage, an unnatural chill in the body      | 18           | Exorcism or a cleansing ritual followed by administration of holy water and blessed herbs      | 20           |
 
 ##### 11. The Pilgrim's Journey
 - A long-distance race where participants must make strategic choices about paths and manage limited resources to reach distant checkpoints, reflecting the spiritual journey of a pilgrim.
