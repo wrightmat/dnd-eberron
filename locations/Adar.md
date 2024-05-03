@@ -125,8 +125,90 @@ The Adarans' love of craft manifests in a variety of jewelry. From glass beadwor
 ### Development
 
 * Sometime during the Second Sundering, Adarans started feeding (at least certain) criminals to the blue dragons that are prevalent in the area.
-* During the summer of the Quiet Year, Adar established Olympics-like games for competitive art. The first one took place the following summer, and every summer since, opening it up to the rest of Sarlona.
 * The Wanderers of Twilight still pop up occasionally, so security has increased across the region, especially during the Art-lympics.
+
+### Unity Games
+
+During the summer of the Quiet Year, Adar established Olympics-like games ("Unity Games") for competitive art. The first one took place the following summer, and every summer since, opening it up to the rest of Sarlona. Eventually the number of events expanded, but kept specific to the monastic style of Adar. The events below are presented in the order that they've been added to the games, with the last event listed being brand new this year (and still kept secret).
+
+##### 1. The Canvas of Souls
+- In this competitive art event (the first event of the games in honor of it being the only event in the first games), participants create artwork that reflects their personal interpretation of life's journey and spiritual growth. Each artist is provided with materials that represent the four elements — earth, air, fire, and water — as symbols of the life force that binds the universe. The artists must use these elements in their creations, which can range from paintings and sculptures to mixed media installations.
+- A Charisma (Performance) check, with any appropriate tool proficiencies added, and extra bonuses for creativity, determines how many points they get (15+ is 1 point, and 20+ is 2 points).
+
+##### 2. The Stormstride
+- Participants must carry a "lightning orb" that intermittently discharges small bolts of electricity. This 4x400 meter (1300 feet) event is run in teams of four, with each member running an equal leg.
+- Participants run their normal speed (no dashing), multiplied by ten to determine how far they travel in one minute. They then make a Constitution saving throw (DC 10) every minute to maintain their grip on the charged orb. On a failed save, they drop the orb and must spend extra time (6 seconds) to pick it up again.
+- Participants must pass the orb to a team member in a relay format, requiring a successful Sleight of Hand check (DC 10 plus however many times they've been shocked) to ensure a smooth handoff. On a failed save, they drop the orb and the new runner must spend extra time (6 seconds) to pick it up again.
+
+##### 3. The Wind Sprint
+- Competitors race across a series of platforms suspended high in the air, utilizing their agility and balance to navigate swiftly and safely to the finish line.
+- Participants make a series of Dexterity (Acrobatics) checks to navigate from one platform to another. The DC for these checks starts at 10 and increases by 2 for each platform, maxing out at 20 (so six platforms).
+- A failed check results in the participant slipping, which requires a DC 10 Dexterity saving throw to catch themselves on the edge of the platform. Failing this saving throw means they fall and gain no points.
+- The number of points is based on the number of successful checks (2+ is 1 point, and 4+ is 2 points).
+
+##### 4. The Elemental Relay
+- Teams use their abilities to manipulate elements (air, earth, fire, water) to complete a relay race that includes tasks like extinguishing flames, creating breezes, shaping earth, and channeling water. This 4x100 meter (300 feet) event is run in teams of four, with each member running an equal leg.
+- **Air Leg**
+	- Participants must navigate through a series of wind tunnels that push and pull in various directions. Participants make Dexterity saving throws (DC 13) to maintain balance and progress through the tunnels without being knocked off course. On a failed save, their speed is cut in half for that round as they fight against the wind gusts.
+	- Using spells or abilities to control air (like gust of wind) can lower the DC by 2, reflecting effective manipulation of air.
+- **Earth Leg**
+	- Runners navigate a maze with walls that periodically shift positions, requiring quick adaptation and problem-solving.
+	- Runners make an Intelligence (Investigation) check (DC 15) to predict wall movements and choose the correct path. Failure results in an earthen wall rising in front of them to a height of `dice:1d6*5`feet.
+	- Physical barriers can be climbed normally, or runners may attempt a Strength (Athletics) check (DC 15) to climb. While climbing, each foot of movement costs 1 extra foot, unless a creature has a climbing speed.
+- **Fire Leg**
+	- Participants run through a course dotted with rings of fire, needing to pass through them without getting burned.
+	- Acrobatics checks (DC 14) are required to agilely maneuver through the rings.
+	- Participants can use spells or abilities to protect against or extinguish fire to reduce the DC by 2 or avoid damage.
+- **Water Leg**
+	- The final leg involves crossing a fast-flowing stream using stepping stones that are slippery and unstable.
+	- A series of two Dexterity (Acrobatics) checks (DC 16) is required to hop between stones without slipping into the water. Failure results in the player losing their footing, taking 6 seconds to recover.
+	- Participants may use water manipulation spells or abilities to calm the stream temporarily, making checks easier (DC reduction by 3 for one turn).
+- For each leg, participants must pass the orb to a team member in a relay format, requiring a successful Sleight of Hand check (DC 10) to ensure a smooth handoff. On a failed save, they drop the orb and the new runner must spend extra time (6 seconds) to pick it up again.
+
+##### 5. The Staff Duel
+- Participants face off in a martial arts contest using staffs, emphasizing defensive maneuvers and the ability to disarm or outmaneuver their opponent without causing injury.
+- This is basically a combat encounter, but each side can only use a staff. Use the Githzerai Monk as the base for the monk competitor - 38 (7d8 + 7) HP, AC 14, two attacks with Multiattack.
+- Staff Damage: 1d6 (1d8) Bludgeoning (Versatile).
+
+##### 6. The Psychic Archery
+- Archers must hit targets that are only visible through psychic perception, challenging their mental focus and archery skills simultaneously.
+
+##### 7. The Chanting Choir
+- Teams compete in a chanting competition where they must harmonize not only their voices but their psychic energies, creating a mesmerizing auditory and mental experience.
+
+##### 8. The Ascetic's Climb
+- Competitors climb a steep path while carrying weights that symbolize spiritual burdens, shedding them as they answer riddles based on Adaran philosophy to lighten their load and reach the summit.
+
+##### 9. The Aerial Race
+- Participants use wind gliders to navigate a course set high in the sky, requiring skillful control of air currents and precise maneuvering.
+
+##### 10. The Healing Hands
+- A timed event where healers must correctly diagnose and treat ailments using a combination of herbal medicine, psychic healing, and traditional remedies.
+
+##### 11. The Pilgrim's Journey
+- A long-distance race where participants must make strategic choices about paths and manage limited resources to reach distant checkpoints, reflecting the spiritual journey of a pilgrim.
+
+##### 12. The Meditative Balance
+- Contestants must maintain balance in a challenging yoga pose on a raised beam, while also completing complex meditation sequences to demonstrate focus and physical control.
+
+##### 13. The Luminous Journey
+- "The Luminous Journey" is designed to simulate the spiritual path of a soul as taught by the Path of Light, focusing on the themes of life's experiences, trials, and ultimate return to the universal life force. This event combines physical challenges, puzzle-solving, and role-playing elements to test participants' resilience, wisdom, and alignment with spiritual harmony.
+- **Station of Awakening** (Birth and Innocence)
+	- Participants find themselves in a maze filled with mirrors and soft fog, symbolizing the confusion and innocence of early life.
+	- Participants make Wisdom (Perception) checks (DC 12) to find their way out. Failure by 5 or more means they become "lost" and need assistance from event guides (representing parental guidance) to exit.
+- **Trials of Strength** (Youth and Challenges)
+	- A series of physical obstacles including climbing walls (to represent overcoming personal barriers) and balancing beams (to symbolize life balance).
+	- Participants must succeed on a series of Athletics checks (climbing DC 15, balancing DC 13). Each failure results in a "setback story" they must role-play, reflecting on a personal challenge or failure.
+- **Pool of Visions** (Midlife and Reflection)
+	- Participants meditate beside a tranquil pool, receiving visions of potential futures.
+	- Participants engage in a Meditation Challenge where they must succeed on a DC 15 Wisdom (Insight) check to gain a clear vision; a successful check grants them a "Visionary Bonus" (advantage on the next skill check). Failure results in confusing, mixed messages.
+- **Path of the Elders** (Wisdom and Age)
+	- Navigate a path where they encounter NPCs who present ethical dilemmas or philosophical questions.
+	- Participants must make Charisma (Persuasion) or Intelligence (Religion) checks (DC 14) to appropriately address the dilemmas. Success grants points toward their final score.
+- **The Final Release** (Death and Reunion)
+	- Participants perform a symbolic ritual where they release a crafted biodegradable item into a flowing river, representing their soul’s return to the universal life force.
+	- This ritual involves a final DC 16 Constitution (Survival) check to properly perform the release under varying natural conditions. Success in this task symbolizes a peaceful transition and grants points toward their final score.
+- Points are awarded based on successful checks, with additional points for creativity in solving puzzles and role-playing interactions. The winner is the participant who best demonstrates balance, wisdom, and spiritual insight throughout the journey.
 
 ### References
 
