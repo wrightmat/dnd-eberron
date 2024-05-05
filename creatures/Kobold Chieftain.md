@@ -51,3 +51,5 @@ While most kobolds are scuttling scavengers or pathetic sycophants, a few carry 
 **Living Legend**. A kobold chieftain is more than a leader, it is a symbol of the tribe’s greatness. The strongest, most cunning, most ruthless of a kobold tribe embodies their connection to the revered dragons. When a chieftain sounds the call to battle, the kobolds meld into a fearless, deadly force.
 
 ### References
+
+* Tome of Beasts 1, pg 263
