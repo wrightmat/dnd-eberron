@@ -4,8 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-name: Eldritch Lich
+source: MC1
 image: https://www.dndbeyond.com/avatars/thumbnails/25265/568/1000/1000/637861450541222100.jpeg
+name: Eldritch Lich
 size: Medium
 type: Undead
 alignment: Typically Neutral Evil
@@ -15,11 +16,11 @@ hit_dice: 22d8 + 66
 speed: 30 ft., fly 30 ft. (hover)
 stats: [11, 18, 16, 19, 14, 12]
 saves:
-  - intelligence: 9
-  - wisdom: 7
+  - Int: 9
+  - Wis: 7
 skillsaves:
-  - arcana: 14
-  - perception: 7
+  - Arcana: 14
+  - Perception: 7
 damage_resistances: Necrotic, Poison
 condition_immunities: Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 senses: Truesight 120ft., Passive Perception 17

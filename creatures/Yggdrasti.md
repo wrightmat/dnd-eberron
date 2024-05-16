@@ -4,8 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-name: Yggdrasti
+source: MC1
 image: https://www.dndbeyond.com/avatars/thumbnails/25265/556/1000/1000/637861450519429998.jpeg
+name: Yggdrasti
 size: Gargantuan
 type: Plant
 alignment: Unaligned

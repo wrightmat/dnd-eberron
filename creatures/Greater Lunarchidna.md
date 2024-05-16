@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ToB2
 name: Greater Lunarchidna
 size: Medium
 type: Aberration

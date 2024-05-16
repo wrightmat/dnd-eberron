@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MC1
 image: https://www.dndbeyond.com/avatars/thumbnails/25265/562/1000/1000/637861450530101041.jpeg
 name: Star Lancer
 size: Large
@@ -15,18 +16,18 @@ hit_dice: 10d8 + 16
 speed: 0 ft., fly 50 ft.
 stats: [18, 15, 15, 10, 13, 8]
 saves:
-  - dexterity: 4
-  - constitution: 4
+  - Dex: 4
+  - Con: 4
 skillsaves:
-  - perception: 3
-  - stealth: 4
-damage_resistances: radiant
-senses: Passive Perception 13
+  - Perception: 3
+  - Stealth: 4
+damage_resistances: Radiant
+senses: passive Perception 13
 languages: Celestial, Telepathy 120 ft.
 cr: 2
 traits:
   - name: Flyby.
-    desc: "The guppy doesn’t provoke opportunity attacks when it flies out of an enemy’s reach."
+    desc: "The star lancer doesn’t provoke opportunity attacks when it flies out of an enemy’s reach."
 actions:
   - name: Horn.
     desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage. If the star lancer moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 10 (3d6) piercing damage."
