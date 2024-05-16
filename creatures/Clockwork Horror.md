@@ -53,3 +53,8 @@ Clockwork horrors communicate with each other by means of clicks, whirs, and sim
 When another creature gets in its way, a clockwork horror attacks that creature with its razor-sharp mandibles and two tiny rotating saws mounted at the tips of its forelimbs. A horror can also discharge bolts of lightning from a short lightning rod embedded in its body.
 
 When a clockwork horror dies, the magic that created it consumes it over a period of 1 minute. Its metallic body and crystal eye degrade rapidly until nothing is left but a small heap of glittering dust.
+
+### References
+
+* https://www.dndbeyond.com/monsters/2506149-clockwork-horror
+* Monstrous Compendium Vol. 1: Spelljammer Creatures, pg. 4

@@ -4,11 +4,11 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://angrygolem-games.com/wp-content/uploads/2021/11/Blue-Slaad.jpg
 name: Blue Slaad
 size: Large
 type: Abberation
-subtype: 
 alignment: Chaotic Neutral
 ac: 15
 hp: 123
@@ -16,10 +16,10 @@ hit_dice: 13d10 + 52
 speed: 30 ft.
 stats: [20, 15, 18, 7, 7, 9]
 skillsaves:
-  - perception: 1
+  - Perception: 1
 damage_resistances: acid, cold, fire, lightning, thunder
 senses: darkvision 60 ft., passive Perception 11
-languages: Slaad, telepathy 60 ft.
+languages: Slaad, Telepathy 60 ft.
 cr: 7
 traits:
   - name: Magic Resistance.
@@ -39,4 +39,6 @@ actions:
 
 ### References
 
+* https://www.dndbeyond.com/monsters/17112-blue-slaad
+* Monster Manual, pg. 276
 * https://angrygolem-games.com/monster-manual/letter-b/blue-slaad-5e-stats/

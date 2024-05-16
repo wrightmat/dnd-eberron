@@ -4,6 +4,7 @@ statblock: inline
  #monster
 
 ```statblock
+source: MPMM
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/420/1000/1000/637880557629850021.jpeg
 name: Githyanki Supreme Commander
 size: Medium
@@ -16,14 +17,14 @@ hit_dice: 22d8 + 88
 speed: 30 ft.
 stats: [19, 17, 18, 16, 16, 18]
 saves:
-  - constitution: 9
-  - intelligence: 8
-  - wisdom: 8
+  - Con: 9
+  - Int: 8
+  - Wis: 8
 skillsaves:
-  - insight: 8
-  - intimidation: 9
-  - perception: 8
-senses: Passive Perception 18
+  - Insight: 8
+  - Intimidation: 9
+  - Perception: 8
+senses: passive Perception 18
 languages: Gith
 cr: 14
 spells:
@@ -67,3 +68,4 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 ### References
 
 * https://www.dndbeyond.com/monsters/2560830-githyanki-supreme-commander
+* Mordenkainen Presents: Monsters of the Multiverse, pg. 141

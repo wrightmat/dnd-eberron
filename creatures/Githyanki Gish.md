@@ -4,6 +4,7 @@ statblock: inline
  #monster
 
 ```statblock
+source: MPMM
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/416/1000/1000/637880557623079462.jpeg
 name: Githyanki Gish
 size: Medium
@@ -16,13 +17,13 @@ hit_dice: 20d8 + 40
 speed: 30 ft.
 stats: [17, 15, 14, 16, 15, 16]
 saves:
-  - constitution: 6
-  - intelligence: 7
-  - wisdom: 6
+  - Con: 6
+  - Int: 7
+  - Wis: 6
 skillsaves:
-  - insight: 6
-  - perception: 6
-  - stealth: 6
+  - Insight: 6
+  - Perception: 6
+  - Stealth: 6
 senses: Passive Perception 16
 languages: Gith
 cr: 10
@@ -54,3 +55,4 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 ### References
 
 * https://www.dndbeyond.com/monsters/2560828-githyanki-gish
+* Mordenkainen Presents: Monsters of the Multiverse, pg. 140

@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://angrygolem-games.com/wp-content/uploads/2021/11/Green-Slaad.jpg
 name: Green Slaad
 size: Large
@@ -16,9 +17,9 @@ hit_dice: 15d10 + 45
 speed: 40 ft.
 stats: [18, 15, 16, 11, 8, 12]
 skillsaves:
-  - arcana: 3
-  - perception: 2
-damage_resistances: acid, cold, fire, lightning, thunder
+  - Arcana: 3
+  - Perception: 2
+damage_resistances: Acid, Cold, Fire, Lightning, Thunder
 senses: blindsight 30 ft., darkvision 60 ft., passive Perception 12
 languages: Slaad, telepathy 60 ft.
 cr: 8
@@ -49,4 +50,6 @@ actions:
 
 ### References
 
+* https://www.dndbeyond.com/monsters/17115-green-slaad
+* Monster Manual, pg. 277
 * https://angrygolem-games.com/monster-manual/letter-g/green-slaad-5e-stats/

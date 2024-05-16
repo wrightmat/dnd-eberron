@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MPMM
 name: Clockwork Stone Defender
 size: Medium
 type: Construct
@@ -34,3 +35,4 @@ reactions:
 ### References
 
 * https://www.dndbeyond.com/monsters/2560759-clockwork-stone-defender
+* Mordenkainen Presents: Monsters of the Multiverse, pg. 80

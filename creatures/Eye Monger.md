@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: BAM
 image: https://www.dndbeyond.com/avatars/thumbnails/28079/832/1000/1000/637961800761621184.jpeg
 name: Eye Monger
 size: Large
@@ -35,7 +36,7 @@ When its large eye and mouth are closed, an eye monger looks like nothing more t
 
 An eye monger has no use for treasure, but its belly might hold a fair amount of incidental valuables that it can’t digest, including coins, metal weapons, gemstones, and magic items that belonged to the creatures it swallowed.
 
-Although an eye monger doesn’t project an antimagic cone from its eye as a [beholder](https://www.dndbeyond.com/monsters/17099-beholder) does, magic is suppressed inside its gullet, which prevents a swallowed creature from using magic to escape.
+Although an eye monger doesn’t project an antimagic cone from its eye as a beholder does, magic is suppressed inside its gullet, which prevents a swallowed creature from using magic to escape.
 
 ### References
 

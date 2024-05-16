@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://angrygolem-games.com/wp-content/uploads/2021/11/Gray-Slaad.jpg
 name: Gray Slaad
 size: Medium
@@ -16,8 +17,8 @@ hit_dice: 17d8 + 51
 speed: 40 ft.
 stats: [17, 17, 16, 13, 8, 14]
 skillsaves:
-  - arcana: 5
-  - perception: 6
+  - Arcana: 5
+  - Perception: 6
 damage_resistances: acid, cold, fire, lightning, thunder
 senses: blindsight 60 ft., darkvision 60 ft., passive Perception 16
 languages: Slaad, telepathy 60 ft.
@@ -49,4 +50,6 @@ actions:
 
 ### References
 
+* https://www.dndbeyond.com/monsters/17114-gray-slaad
+* Monster Manual, pg. 277
 * https://angrygolem-games.com/monster-manual/letter-g/gray-slaad-5e-stats/

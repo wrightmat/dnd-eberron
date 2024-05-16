@@ -4,6 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
+source: GGR
+image: https://www.dndbeyond.com/avatars/thumbnails/4719/679/1000/1000/636755093436157209.png
 name: Galvanice Weird
 size: Medium
 type: elemental
@@ -26,3 +28,8 @@ actions:
   - name: Slam
     desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit:5 (1d6 + 2) bludgeoning damage plus 5 (2d4) lightning damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or lose the ability to use reactions until the start of the weird’s next turn."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/175704-galvanice-weird
+* Guildmasters’ Guide to Ravnica, pg. 209

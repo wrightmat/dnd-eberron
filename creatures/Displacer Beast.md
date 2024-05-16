@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30782/213/1000/1000/638061954801799592.png
 name: Displacer Beast
 size: Large
@@ -44,3 +45,4 @@ _**Prized Guards and Pets.**_ Intelligent evil creatures favor displacer beasts
 ### References
 
 * https://www.dndbeyond.com/monsters/17130-displacer-beast
+* Monster Manual, pg. 81

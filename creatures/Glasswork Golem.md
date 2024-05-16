@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: WBtW
 image: https://www.dndbeyond.com/avatars/thumbnails/20472/433/1000/1000/637677440076415821.jpeg
 name: Glasswork Golem
 size: Medium

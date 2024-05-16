@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ToA
 image: https://www.dndbeyond.com/avatars/thumbnails/5907/468/1000/1000/636918204697433981.png
 name: Assassin Vine
 size: Large
@@ -28,3 +29,8 @@ actions:
   - name: Entangling Vines.
     desc: " The assassin vine can animate normal vines and roots on the ground in a 15-foot square within 30 feet of it. These plants turn the ground in that area into difficult terrain. A creature in that area when the effect begins must succeed on a DC 13 Strength saving throw or be restrained by entangling vines and roots. A creature restrained by the plants can use its action to make a DC 13 Strength (Athletics) check, freeing itself on a successful check. The effect ends after 1 minute or when the assassin vine dies or uses Entangling Vines again."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/33010-assassin-vine
+* Tomb of Annihilation

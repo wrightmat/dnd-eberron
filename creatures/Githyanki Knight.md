@@ -4,6 +4,7 @@ statblock: inline
  #monster
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30784/513/1000/1000/638062044708531532.png
 name: Githyanki Knight
 size: Medium
@@ -16,10 +17,10 @@ hit_dice: 14d8 + 28
 speed: 30 ft.
 stats: [16, 14, 15, 14, 14, 15]
 saves:
-  - constitution: 5
-  - intelligence: 5
-  - wisdom: 5
-senses: Passive Perception 12
+  - Con: 5
+  - Int: 5
+  - Wis: 5
+senses: passive Perception 12
 languages: Gith
 cr: 8
 spells:
@@ -59,3 +60,4 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 ### References
 
 * https://www.dndbeyond.com/monsters/17150-githyanki-knight
+* Monster Manual, pg. 160

@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: FToD
 name: Gem Stalker
 size: Large
 type: Monstrosity
@@ -54,4 +54,4 @@ reactions:
 
 ### References
 
-* FTD, pg 202
+* Fizban's Treasury of Dragons, pg 202

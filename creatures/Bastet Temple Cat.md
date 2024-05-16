@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ToB
 image: https://paperanddice.files.wordpress.com/2018/05/bastet_cat1.png?w=770
 name: Bastet Temple Cat
 size: Small

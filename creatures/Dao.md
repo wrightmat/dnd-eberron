@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30783/894/1000/1000/638062023078340731.png
 name: Dao
 size: Large
@@ -55,3 +56,8 @@ _**Lords of the Earth.**_ A dao never assists a mortal unless the genie has som
 _**Proud Slavers.**_ The dao trade for the finest slaves that money can buy, forcing them to work in dangerous subterranean realms that rumble with earthquakes.
 
 As much as they enjoy enslaving others, the dao hate being enslaved. Powerful wizards have been known to lure dao to the Material Plane and trap them in the confines of magic gemstones or iron flasks. Unfortunately for the dao, their greed makes it relatively easy for mages to cozen them into service.
+
+### References
+
+* https://www.dndbeyond.com/monsters/17142-dao
+* Monster Manual, pg. 143

@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: TftYP
 name: Giant Crayfish
 size: Large
 type: Beast
@@ -14,7 +15,7 @@ hit_dice: 7d10 + 7
 speed: 30 ft., swim 30 ft.
 stats: [15, 13, 13, 1, 9, 3]
 skillsaves:
-  - stealth: 3
+  - Stealth: 3
 senses: Blindsight 30 ft., Passive Perception 9
 languages: --
 cr: 2
@@ -31,3 +32,4 @@ actions:
 ### References
 
 * https://www.dndbeyond.com/monsters/22553-giant-crayfish
+* Tales from the Yawning Portal

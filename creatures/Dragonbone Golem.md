@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: FToD
 image: https://www.dndbeyond.com/avatars/thumbnails/21205/226/1000/1000/637707682451137391.jpeg
 name: Dragonbone Golem
 size: Large

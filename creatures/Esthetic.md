@@ -4,8 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-name: Esthetic
+source: BAM
 image: https://www.dndbeyond.com/avatars/thumbnails/28079/829/1000/1000/637961800754913369.jpeg
+name: Esthetic
 size: Gargantuan
 type: Aberration
 alignment: Unaligned

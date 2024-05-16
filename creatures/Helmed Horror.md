@@ -4,8 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-name: Helmed Horror
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30788/719/1000/1000/638062180166404293.png
+name: Helmed Horror
 size: Medium
 type: Construct
 alignment: Neutral
@@ -15,7 +16,7 @@ hit_dice: 8d8 + 24
 speed: 30 ft., fly 30 ft.
 stats: [18, 13, 16, 10, 10, 10]
 skills:
-  - perception: 4
+  - Perception: 4
 damage_resistances: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine
 damage_immunities: Force, Necrotic, Poison
 condition_immunities: Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned, Stunned

@@ -4,10 +4,11 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: ERLW
 name: Clawfoot
 size: Medium
 type: Beast
+subtype: (Dinosaur)
 alignment: Unaligned
 ac: 13
 hp: 19

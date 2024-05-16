@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MPMM
 image: https://www.dndbeyond.com/avatars/thumbnails/20487/335/1000/1000/637677953105014863.jpeg
 name: Darkling Elder
 size: Medium
@@ -41,3 +42,4 @@ A wise and respected darkling can undergo a ritual to become an elder. Other eld
 ### References
 
 * https://www.dndbeyond.com/monsters/17232-darkling-elder
+* Mordenkainen Presents: Monsters of the Multiverse, pg. 84

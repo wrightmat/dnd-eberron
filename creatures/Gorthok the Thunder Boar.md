@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: DIP
 name: Gorthok the Thunder Boar
 size: Huge
 type: monstrosity
@@ -31,3 +32,8 @@ actions:
   - name: Lightning Bolt (Recharge 6)
     desc: "Gorthok shoots a bolt of lightning at one creature it can see within 120 feet of it. The target must make a DC 15 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/338612-gorthok-the-thunder-boar
+* Dragon of Icespire Peak

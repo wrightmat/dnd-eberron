@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ERLW
 image: https://www.dndbeyond.com/avatars/thumbnails/7725/602/1000/1000/637091618587585877.png
 name: Dolgaunt
 size: Medium
@@ -45,3 +46,8 @@ Dolgaunts are emaciated hobgoblins with disease-hued flesh. Their eye sockets ga
 _**Warped by Chaos.**_ When the daelkyr emerged from Xoriat to conquer Khorvaire, they captured and transformed that land’s indigenous creatures to create armies of hideous warriors. Dyrrn the Corruptor shaped dolgaunts from hobgoblin stock, turning them into intelligent, cold, and efficient killers.
 
 When the daelkyr were defeated, the dolgaunts descended into the depths of Khyber with their masters. There, they study in cavernous monasteries, forging their bodies into living weapons dedicated to the missions given them by those masters. Dolgaunts are often found commanding squads of dolgrims, and can also be found working with the Cults of the Dragon Below — particularly those devoted to Dyrrn the Corruptor.
+
+### References
+
+* https://www.dndbeyond.com/monsters/487575-dolgaunt
+* Eberron: Rising from the Last War, pg. 290

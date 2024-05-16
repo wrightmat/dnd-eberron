@@ -15,13 +15,13 @@ hit_dice: 26d8 + 104
 speed: 30 ft.
 stats: [20, 14, 18, 14, 14, 17]
 saves:
-  - constitution: 9
-  - wisdom: 7
-  - charisma: 8
+  - Con: 9
+  - Wis: 7
+  - Cha: 8
 skillsaves:
-  - athletics: 10
-  - perception: 7
-senses: Blindsight 10 ft., Darkvision 60 ft., Passive Perception 17
+  - Athletics: 10
+  - Perception: 7
+senses: Blindsight 10 ft., Darkvision 60 ft., passive Perception 17
 languages: Draconic, Gith
 cr: 13
 spells:

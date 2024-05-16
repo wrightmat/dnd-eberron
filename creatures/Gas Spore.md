@@ -4,6 +4,7 @@ statblock: inline
  #monster #fungus #underdark
 
 ```statblock
+source: MM
 name: Gas Spore
 image: https://www.dndbeyond.com/avatars/thumbnails/16/525/1000/1000/636376325969431504.jpeg
 size: Large

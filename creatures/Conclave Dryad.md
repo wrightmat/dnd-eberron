@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: GGR
 image: https://www.dndbeyond.com/avatars/thumbnails/4719/589/1000/1000/636755085764790775.png
 name: Conclave Dryad
 size: Medium
@@ -15,13 +16,13 @@ hit_dice: 22d8 + 44
 speed: 30 ft.
 stats: [12, 19, 14, 19, 20, 21]
 saves:
-  - intelligence: 8
-  - wisdom: 9
-  - charisma: 9
+  - Int: 8
+  - Wis: 9
+  - Cha: 9
 skillsaves:
-  - arcana: 8
-  - nature: 8
-  - perception: 9
+  - Arcana: 8
+  - Nature: 8
+  - Perception: 9
 senses: Darkvision 60 ft., Passive Perception 19
 languages: Common, Elvish, Sylvan
 cr: 9

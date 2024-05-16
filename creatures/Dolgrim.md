@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ERLW
 image: https://www.dndbeyond.com/avatars/thumbnails/7725/608/1000/1000/637091619688542557.png
 name: Dolgrim
 size: Small
@@ -39,4 +40,5 @@ Small numbers of these creatures sometimes make their way to the surface, often 
 
 ### References
 
+* https://www.dndbeyond.com/monsters/487585-dolgrim
 * Eberron: Rising from the Last War, pg. 291

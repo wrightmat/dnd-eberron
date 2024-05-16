@@ -4,20 +4,21 @@ statblock: inline
  #monster 
 
 ```statblock
+source: CM
 name: Cloud Giant Ghost
 size: Huge
-type: undead
-alignment: unaligned
+type: Undead
+alignment: Unaligned
 ac: 15
 hp: 104
 hit_dice: 16d12
 speed: 0 ft., 40 ft. (hover)
 stats: [27, 11, 10, 12, 16, 17]
 skillsaves:
-  - wisdom: 7
-  - charisma: 7
+  - Wis: 7
+  - Cha: 7
 skills:
-  - perception: 7 
+  - Perception: 7 
 damage_resistances: Cold
 damage_immunities: Necrotic, Poison
 condition_immunities: Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
@@ -46,3 +47,8 @@ spells:
   - 3/day: telekinesis
   - 1/day: control weather
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/1528958-cloud-giant-ghost
+* Candlekeep Mysteries, pg. 146

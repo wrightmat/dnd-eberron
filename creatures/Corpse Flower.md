@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MPMM
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/240/1000/1000/637880557308920420.jpeg
 name: Corpse Flower
 size: Large
@@ -42,3 +43,4 @@ bonus_actions:
 ### References:
 
 * https://www.dndbeyond.com/monsters/2560762-corpse-flower
+* Mordenkainen Presents: Monsters of the Multiverse, pg. 82

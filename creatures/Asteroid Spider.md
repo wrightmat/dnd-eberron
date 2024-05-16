@@ -5,7 +5,7 @@ statblock: inline
 
 ```statblock
 name: Asteroid Spider
-image: [[https://www.dndbeyond.com/avatars/thumbnails/25265/553/1000/1000/637861450514009347.jpeg]]
+image: https://www.dndbeyond.com/avatars/thumbnails/25265/553/1000/1000/637861450514009347.jpeg
 size: Gargantuan
 type: Monstrosity
 alignment: Typically Neutral Evil
@@ -15,11 +15,11 @@ hit_dice: 2d20 + 96
 speed: 60 ft., fly 60 ft. (hover)
 stats: [26, 10, 18, 17, 13, 12]
 saves:
-  - constitution: 9
-  - wisdom: 6
+  - Con: 9
+  - Wis: 6
 skillsaves:
-  - perception: 11
-  - stealth: 5
+  - Perception: 11
+  - Stealth: 5
 senses: Blindsight 120 ft. while the spider’s eyes are closed, Darkvision 120 ft., Passive Perception 21
 languages: --
 cr: 15
@@ -52,4 +52,5 @@ An asteroid spider has its own gravity plane and air envelope, as well as multip
 
 ### References
 
+* https://www.dndbeyond.com/monsters/2506147-asteroid-spider
 * Monstrous Compendium Volume One: Spelljammer Creatures, pg. 3

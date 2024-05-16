@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30784/580/1000/1000/638062047068720070.png
 name: Githyanki Warrior
 size: Medium
@@ -16,10 +17,10 @@ hit_dice: 9d8 + 9
 speed: 30 ft.
 stats: [15, 14, 12, 13, 13, 10]
 saves:
-  - constitution: 3
-  - intelligence: 3
-  - wisdom: 3
-senses: Passive Perception 11
+  - Con: 3
+  - Int: 3
+  - Wis: 3
+senses: passive Perception 11
 languages: Gith
 cr: 3
 spells:
@@ -54,3 +55,4 @@ Outposts in the Mortal Realm. Since creatures that dwell on the Astral Plane don
 ### References
 
 * https://www.dndbeyond.com/monsters/17149-githyanki-warrior
+* Monster Manual, pg. 160

@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: CM
 image: https://www.dndbeyond.com/avatars/thumbnails/16420/907/1000/1000/637514193116718560.jpeg
 name: Canopic Golem
 size: Large
@@ -14,12 +15,12 @@ hit_dice: 24d10 + 12
 speed: 30 ft.
 stats: [20, 10, 20, 7, 11, 1]
 saves:
-  - intelligence: 3
-  - wisdom: 5
+  - Int: 3
+  - Wis: 5
 damage_immunities: poison
 condition_immunities: Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 senses: Darkvision 120 ft., Passive Perception 10
-languages: -
+languages: --
 cr: 13
 traits:
   - name: Limited Spell Immunity.
@@ -37,3 +38,8 @@ reactions:
   - name: Spell Deflection.
     desc: "In response to a spell attack missing the golem, it causes that spell to hit another creature within 120 feet of it that it can see."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/1528957-canopic-golem
+* Candlekeep Mysteries, pg. 179

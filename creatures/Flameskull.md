@@ -46,3 +46,4 @@ actions:
 ### References:
 
 * https://www.dndbeyond.com/monsters/17091-flameskull
+* Basic Rules, pg. 127

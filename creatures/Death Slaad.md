@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://angrygolem-games.com/wp-content/uploads/2021/11/Death-Slaad.jpg
 name: Death Slaad
 size: Medium
@@ -16,8 +17,8 @@ hit_dice: 20d8 + 80
 speed: 60 ft.
 stats: [20, 15, 19, 15, 10, 16]
 skillsaves:
-  - arcana: 6
-  - perception: 8
+  - Arcana: 6
+  - Perception: 8
 damage_resistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing and slashing from non magical weapons
 senses: blindsight 60 ft., darkvision 60 ft., passive Perception 18
 languages: Slaad, telepathy 60 ft.
@@ -49,4 +50,6 @@ actions:
 
 ### References
 
+* https://www.dndbeyond.com/monsters/17113-death-slaad
+* Monster Manual, pg. 278
 * https://angrygolem-games.com/monster-manual/letter-d/death-slaad-5e-stats/

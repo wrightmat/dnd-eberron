@@ -56,3 +56,4 @@ _**Undead Nature.**_ A banshee doesn’t require air, food, drink, or sleep.
 ### References
 
 * https://www.dndbeyond.com/monsters/17089-banshee
+* Basic Rules, pg. 118

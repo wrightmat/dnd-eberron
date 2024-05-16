@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: IDRotF
 image: https://www.dndbeyond.com/avatars/thumbnails/12734/873/1000/1000/637357081636637868.jpeg
 name: Frost Giant Skeleton
 size: Huge
@@ -31,3 +32,8 @@ actions:
   - name: Freezing Stare.
     desc: "The skeleton targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Constitution saving throw or take 35 (10d6) cold damage and be paralyzed until the end of its next turn."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/1123084-frost-giant-skeleton
+* Icewind Dale: Rime of the Frostmaiden, pg. 288

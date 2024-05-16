@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: FToD
 image: https://www.dndbeyond.com/avatars/thumbnails/21205/223/1000/1000/637707682446769838.jpeg
 name: Dragonblood Ooze
 size: Large

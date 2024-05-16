@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30761/985/1000/1000/638061102430294654.png
 name: Beholder
 size: Large
@@ -15,11 +16,11 @@ hit_dice: 19d10 + 76
 speed: 0 ft., fly 20 ft. (hover)
 stats: [10, 14, 18, 17, 15, 17]
 saves:
-  - intelligence: 8
-  - wisdom: 7
-  - charisma: 8
+  - Int: 8
+  - Wis: 7
+  - Cha: 8
 skillsaves:
-  - perception: 12
+  - Perception: 12
 condition_immunities: Prone
 senses: Darkvision 120 ft., Passive Perception 22
 languages: Deep Speech, Undercommon
@@ -45,9 +46,9 @@ A beholder’s central lair is typically a large, spacious cavern with high ceil
 
 When fighting inside its lair, a beholder can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the beholder can take one lair action to cause one of the following effects:
 
--   A 50-foot square area of ground within 120 feet of the beholder becomes slimy; that area is difficult terrain until initiative count 20 on the next round.
--   Walls within 120 feet of the beholder sprout grasping appendages until initiative count 20 on the round after next. Each creature of the beholder’s choice that starts its turn within 10 feet of such a wall must succeed on a DC 15 Dexterity saving throw or be [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled). Escaping requires a successful DC 15 Strength ([Athletics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Athletics)) or Dexterity ([Acrobatics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Acrobatics)) check.
--   An eye opens on a solid surface within 60 feet of the beholder. One random eye ray of the beholder shoots from that eye at a target of the beholder’s choice that it can see. The eye then closes and disappears.
+- A 50-foot square area of ground within 120 feet of the beholder becomes slimy; that area is difficult terrain until initiative count 20 on the next round.
+- Walls within 120 feet of the beholder sprout grasping appendages until initiative count 20 on the round after next. Each creature of the beholder’s choice that starts its turn within 10 feet of such a wall must succeed on a DC 15 Dexterity saving throw or be grappled. Escaping requires a successful DC 15 Strength (Athletics) or Dexterity (Acrobatics) check.
+- An eye opens on a solid surface within 60 feet of the beholder. One random eye ray of the beholder shoots from that eye at a target of the beholder’s choice that it can see. The eye then closes and disappears.
 
 The beholder can’t repeat an effect until they have all been used, and it can’t use the same effect two rounds in a row.
 
@@ -55,8 +56,8 @@ The beholder can’t repeat an effect until they have all been used, and it can�
 
 A region containing a beholder’s lair is warped by the creature’s unnatural presence, which creates one or more of the following effects:
 
--   Creatures within 1 mile of the beholder’s lair sometimes feel as if they’re being watched when they aren’t.
--   When the beholder sleeps, minor warps in reality occur within 1 mile of its lair and then vanish 24 hours later. Marks on cave walls might change subtly, an eerie trinket might appear where none existed before, harmless slime might coat a statue, and so on. These effects apply only to natural surfaces and to nonmagical objects that aren’t on anyone’s person.
+- Creatures within 1 mile of the beholder’s lair sometimes feel as if they’re being watched when they aren’t.
+- When the beholder sleeps, minor warps in reality occur within 1 mile of its lair and then vanish 24 hours later. Marks on cave walls might change subtly, an eerie trinket might appear where none existed before, harmless slime might coat a statue, and so on. These effects apply only to natural surfaces and to nonmagical objects that aren’t on anyone’s person.
 
 If the beholder dies, these effects fade over the course of 1d10 days.
 
@@ -65,7 +66,6 @@ One glance at a beholder is enough to assess its foul and otherworldly nature. A
 A beholder’s spheroid body levitates at all times, and its great bulging eye sits above a wide, toothy maw, while the smaller eyestalks that crown its body twist and turn to keep its foes in sight. When a beholder sleeps, it closes its central eye but leaves its smaller eyes open and alert.
 
 > “Every beholder thinks it is the epitome of beholderkind, and the only thing it fears is that it might be wrong.”
-> 
 > — Valkara Ironfell, dwarf sage
 
 _**Xenophobic Isolationists.**_ Enemies abound, or so every beholder believes. Beholders are convinced that other creatures resent them for their brilliance and magical power, even as they dismiss those creatures as crude and disgusting. Beholders always suspect others of plotting against them, even when no other creatures are around.
@@ -76,4 +76,9 @@ _**Eye Tyrant.**_ Some beholders manage to channel their xenophobic tendencies 
 
 _**Alien Lairs.**_ Because they refuse to share territory with others, most beholders withdraw to frigid hills, abandoned ruins, and deep caverns to scheme. A beholder’s lair is carved out by its disintegration eye ray, emphasizing vertical passages connecting chambers stacked on top of each other. Such an environment allows a beholder to move freely, even as it prevents intruders from easily creeping about. When intruders do break in, the height of its open ceilings allows a beholder to float up and harry foes on the floor.
 
-As alien as their creator, the rooms in a beholder’s lair reflect the creature’s arrogance. It festoons its chambers with trophies from the battles it has won, including [petrified](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Petrified) adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
+As alien as their creator, the rooms in a beholder’s lair reflect the creature’s arrogance. It festoons its chambers with trophies from the battles it has won, including petrified adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
+
+### References
+
+- https://www.dndbeyond.com/monsters/17099-beholder
+- Monster Manual, pg. 28

@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ERLW
 image: https://www.dndbeyond.com/avatars/thumbnails/7725/618/1000/1000/637091620885285452.png
 name: Dusk Hag
 size: Medium
@@ -15,12 +16,12 @@ hit_dice: 15d8 + 15
 speed: 30 ft.
 stats: [11, 14, 12, 17, 16, 18]
 saves:
-  - intelligence: 6
-  - wisdom: 6
+  - Int: 6
+  - Wis: 6
 skillsaves:
-  - deception: 7
-  - insight: 6
-  - perception: 6
+  - Deception: 7
+  - Insight: 6
+  - Perception: 6
 condition_immunities: Blinded, Charmed, Frightened
 senses: Blindsight 60 ft., Passive Perception 16
 languages: Common, Giant, Infernal

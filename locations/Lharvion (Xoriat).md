@@ -24,7 +24,7 @@ image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/chCg
 
 * **[[Delirium]]**
 * **[[Belashyrra]]**
-* **[[Dyrrn (Dyrrn the Corruptor)]]**
+* **[[characters/Dyrrn]]**
 * **[[Kyrzin (Prince of Slime)]]**
 
 ### Locations

@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://static.wikia.nocookie.net/forgottenrealms/images/7/78/Flumph.jpg
 name: Flumph
 size: Small
@@ -15,9 +16,9 @@ hit_dice: 2d6
 speed: 5 ft., fly 30 ft.
 stats: [6, 15, 10, 14, 14, 11]
 skillsaves:
-  - arcana: 4
-  - history: 4
-  - religion: 4
+  - Arcana: 4
+  - History: 4
+  - Religion: 4
 senses: darkvision 60 ft., passive Perception 12
 languages: understands Undercommon but can’t speak, telepathy 60 ft.
 cr: 1/8
@@ -45,4 +46,6 @@ Common flumphs cannot communicate vocally, but have a unique sign language that 
 
 ### References
 
+* https://www.dndbeyond.com/monsters/17145-flumph
+* Monster Manual, pg. 135
 * https://angrygolem-games.com/monster-manual/letter-f/flumph-5e-stats/

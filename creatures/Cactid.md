@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: ToB
 name: Cactid
 size: Large
 type: Plant
@@ -14,10 +14,6 @@ hp: 76
 hit_dice: 8d10 + 32
 speed: 5 ft.
 stats: [16, 8, 18, 7, 10, 9]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
 damage_vulnerabilities: fire
 damage_resistances: bludgeoning, piercing
 condition_immunities: blinded, deafened

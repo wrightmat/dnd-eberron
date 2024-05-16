@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: 
 name: Hoard Mimic
 size: Huge
 type: Monstrosity

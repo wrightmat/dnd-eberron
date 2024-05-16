@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: WDH
 image: https://www.dndbeyond.com/avatars/thumbnails/7644/720/1000/1000/637084713720836025.jpeg
 name: Giant Mimic
 size: Large
@@ -39,3 +40,8 @@ actions:
   - name: Bite.
     desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/285320-giant-mimic
+* Waterdeep: Dragon Heist, pg. 122
