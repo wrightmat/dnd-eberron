@@ -23,7 +23,7 @@ image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/chCg
 ### Characters
 
 * **[[Delirium]]**
-* **[[Belashyrra (Lord of Eyes)]]**
+* **[[Belashyrra]]**
 * **[[Dyrrn (Dyrrn the Corruptor)]]**
 * **[[Kyrzin (Prince of Slime)]]**
 

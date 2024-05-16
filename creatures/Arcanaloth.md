@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30836/648/1000/1000/638063941046733761.png
 name: Arcanaloth
 size: Medium
@@ -56,3 +57,4 @@ actions:
 ### References
 
 * https://www.dndbeyond.com/monsters/17109-arcanaloth
+* Monster Manual, pg. 313

@@ -28,3 +28,8 @@ actions:
   - name: Claw
     desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/17087-allosaurus
+* Basic Rules, pg. 116

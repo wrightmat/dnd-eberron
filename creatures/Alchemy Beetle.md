@@ -7,7 +7,6 @@ statblock: inline
 name: Alchemy Beetle
 size: Small
 type: Construct
-subtype: 
 alignment: Unaligned
 ac: 13
 hp: 31
@@ -15,8 +14,8 @@ hit_dice: 9d6
 speed: 40 ft.
 stats: [13, 11, 11, 1, 5, 1]
 skillsaves:
-  - acrobatics: 5
-  - stealth: 4
+  - Acrobatics: 5
+  - Stealth: 4
 damage_immunities: Poison, Psychic
 condition_immunitites: Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned
 senses: passive Perception 7

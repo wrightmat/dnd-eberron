@@ -49,4 +49,4 @@ actions:
     desc: "Melee Weapon Attack: +15 to hit, reach 5 ft., one incapacitated creature grappled by Dyrrn. Hit: 25 (5d10) piercing damage. If this damage reduces the target to 0 hit points, Dyrrn kills the target by extracting and devouring its brain."
 ```
 
-A miniature version of [[docs/creatures/Dyrrn|Dyrrn]].
+A miniature version of [[Dyrrn]].

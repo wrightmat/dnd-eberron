@@ -1,7 +1,32 @@
 ---
+gender: Non-Gendered
+race: Daelkyr
+occupation: Daelkyr Lord
 statblock: inline
 ---
- #monster #daelkyr
+ #npc #monster #daelkyr [[Lharvion (Xoriat)]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
+Valaara is known as the Crawling Queen, the Watcher in the Walls, and the Keeper of Worms. It’s said that you can hear Valaara’s voice in the rustling of roaches and the keening of locusts. In some tales, Valaara crafts worms that crawl through the ear and consume a creature’s brain; in others, when its maggots devour a corpse, Valaara can recreate the victim in its Deepest Hive. No one knows what Valaara wants, but its minions could be all around you even now, crawling in your walls and moving beneath your feet.
+
+Valaara is known to work its will upon various forms of vermin such as insects and arachnids and, perhaps because of this, is known to be delighted by various things that would usually cause disturbance in others such as swarms with malign sentience, worms that consume their victims from within, and cultists that slowly transform into insects.
+
+### Stat Block
 
 ```statblock
 name: Valaara
@@ -56,8 +81,6 @@ legendary_actions:
   - name: Imaginary Crawlers (Costs 3 Actions).
     desc: "Valaara touches the mind of mortals, implanting a suggestion that her creatures have burrowed under their skin. One target of Valaara’s choice within 60 feet that she can see must succeed on a DC 22 Wisdom saving throw or take 22 (4d10) psychic damage and immediately lose concentration on any spell it is concentrating on."
 ```
-
-Valaara is known as the Crawling Queen, the Watcher in the Walls, and the Keeper of Worms. It’s said that you can hear Valaara’s voice in the rustling of roaches and the keening of locusts. In some tales, Valaara crafts worms that crawl through the ear and consume a creature’s brain; in others, when its maggots devour a corpse, Valaara can recreate the victim in its Deepest Hive. No one knows what Valaara wants, but its minions could be all around you even now, crawling in your walls and moving beneath your feet.
 
 ### References
 

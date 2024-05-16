@@ -66,7 +66,7 @@ Jorlanna’s cousin was Aaren, making her second cousin to Merrix (I think), and
 * **[[Jorlanna d'Cannith]]**. Baron of Cannith West.
 * **[[Lei d'Cannith]]**. Former leader of a team of ex-Cyran soldiers turned adventurers.
 * **Lady [[Elaydren d’Vown]]**. Noble non-heir member of House Cannith who resides in Sharn.
-* **[[Aaren d’Cannith (Lord of Blades)]]**. A former member of House Cannith and son of Merrix d'Cannith, the creator of the warforged. Aaren advanced his father's creation by giving sapience to the warforged, a discovery that was coopted by his father.
+* **[[Lord of Blades (Aaren d’Cannith)]]**. A former member of House Cannith and son of Merrix d'Cannith, the creator of the warforged. Aaren advanced his father's creation by giving sapience to the warforged, a discovery that was coopted by his father.
 * **Haestus d'Cannith** (CE male forgewraith [formerly human]). Once an amateur necromancer and the overseer of a House Cannith facility before his death at the hands of a Karrnathi raiding party. Haestus returned from the dead as a forgewraith, and still haunts his old facility.
 * Starrin d'Cannith. The last patriarch of the unified House Cannith.
 * Norran d'Cannith. The only son of former Cannith patriarch Starrin d'Cannith, Norran died along with his father on the Day of Mourning in Cyre. Norran was the only direct descendant of Starrin and next in line to rule House Cannith, but Norran had fathered no children himself. With his death the house fell into chaos as to who would rule in his stead.

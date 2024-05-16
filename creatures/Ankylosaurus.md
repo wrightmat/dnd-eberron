@@ -21,3 +21,8 @@ actions:
   - name: Tail
     desc: "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/17088-ankylosaurus
+* Basic Rules, pg. 117

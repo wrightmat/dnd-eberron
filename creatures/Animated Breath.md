@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: FToD
 image: https://www.dndbeyond.com/avatars/thumbnails/21205/165/1000/1000/637707682369550913.jpeg
 name: Animated Breath
 size: Large
@@ -45,3 +46,4 @@ An animated breath is a bipedal creature formed from the same energy as the brea
 ### References
 
 * https://www.dndbeyond.com/monsters/2059704-animated-breath
+* Fizban's Treasury of Dragons, pg. 163

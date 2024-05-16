@@ -54,12 +54,12 @@ hit_dice: 15d8 + 45
 speed: 30 ft.
 stats: [20, 15, 17, 10, 14, 15]
 saves:
-  - strength: 8
-  - dexterity: 5
-  - constitution: 6
+  - STR: 8
+  - DEX: 5
+  - CON: 6
 skillsaves:
-  - athletics: 11
-  - intimidation: 5
+  - Athletics: 11
+  - Intimidation: 5
 senses: Darkvision 60 ft., Passive Perception 12
 languages: Commmon, Orc
 cr: 6

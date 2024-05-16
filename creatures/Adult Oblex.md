@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MPMM
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/107/1000/1000/637880557086160019.jpeg
 name: Adult Oblex
 size: Medium
@@ -55,3 +56,8 @@ Older oblexes, called adults and elders, have eaten so many memories that they c
 By experimenting on the slimes, jellies, and puddings that infest the depths of the Underdark, mind flayers created a special breed of Ooze, the oblex—a slime capable of assaulting the minds of other creatures. These pools of jelly are cunning hunters that feed on thoughts and memories. The sharper the mind, the better the meal, so oblexes hunt targets more likely to be intelligent, such as wizards and other spellcasters. When suitable fare comes within reach, an oblex draws its body up to engulf its victim. As it withdraws, it plunders the creature’s mind, leaving its prey befuddled and confused—or dead.
 
 When oblexes feed on thoughts, they can form weird copies of their prey to use as lures, which helps them harvest even more victims for their mind flayer masters.
+
+### References
+
+* https://www.dndbeyond.com/monsters/2560714-adult-oblex
+* Mordenkainen Presents: Monsters of the Multiverse, pg. 198

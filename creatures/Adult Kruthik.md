@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MPMM
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/105/1000/1000/637880557083119765.jpeg
 name: Adult Kruthik
 size: Medium
@@ -52,3 +53,4 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 ### References
 
 * https://www.dndbeyond.com/monsters/2560713-adult-kruthik
+* Mordenkainen Presents: Monsters of the Multiverse, pg. 169
