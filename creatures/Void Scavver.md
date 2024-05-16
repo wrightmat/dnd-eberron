@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: BAM
 image: https://www.dndbeyond.com/avatars/thumbnails/28079/965/1000/1000/637961801015741442.jpeg
 name: Void Scavver
 size: Huge
@@ -15,8 +16,8 @@ hit_dice: 15d12 + 60
 speed: 0 ft., fly 40 ft.
 stats: [22, 16, 19, 4, 13, 5]
 skills:
-  - perception: 5
-  - stealth: 11
+  - Perception: 5
+  - Stealth: 11
 senses: Darkvision 120 ft., Passive Perception 15
 languages: --
 cr: 11
@@ -36,8 +37,6 @@ bonus_actions:
 Void scavvers are 20 feet long. Each one is a solitary menace with a pitch-black hide. While most other scavvers are content to feed on kitchen scraps, a void scavver goes after the cook.
 
 A void scavver can emit an invisible ray from its eye that causes its target to feel fear even more intense than what it might normally experience given the creature’s size and nature.
-
----
 
 #### Scavvers
 

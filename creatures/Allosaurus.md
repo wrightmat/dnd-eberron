@@ -4,6 +4,7 @@ statblock: inline
  #monster
 
 ```statblock
+source: MM
 name: Allosaurus
 size: Large
 type: beast

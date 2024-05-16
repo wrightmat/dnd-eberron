@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MPMM
 image: https://www.dndbeyond.com/avatars/thumbnails/9/788/1000/1000/636332006160598385.jpeg
 name: Redcap
 size: Small
@@ -15,8 +16,8 @@ hit_dice: 6d6 + 24
 speed: 25 ft.
 stats: [18, 13, 18, 10, 12, 9]
 skillsaves:
-  - athletics: 6
-  - perception: 3
+  - Athletics: 6
+  - Perception: 3
 senses: Darkvision 60 ft., Passive Perception 13
 languages: Common, Sylvan
 cr: 3

@@ -4,6 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
+image: https://www.dndbeyond.com/avatars/thumbnails/16/462/1000/1000/636376286057911052.png
 name: Needle Blight
 size: Medium
 type: Plant
@@ -27,3 +29,4 @@ actions:
 ### References
 
 * https://www.dndbeyond.com/monsters/17215-needle-blight
+* Monster Manual, pg. 32

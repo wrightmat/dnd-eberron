@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 name: Mud Mephit
 size: Small
 type: Elemental
@@ -14,7 +15,7 @@ hit_dice: 6d6 + 6
 speed: 20 ft., fly 20 ft., swim 20 ft.
 stats: [8, 12, 12, 9, 11, 7]
 skillsaves:
-  - stealth: 3
+  - Stealth: 3
 damage_immunities: Poison
 condition_immunities: Poisoned
 senses: Darkvision 60 ft., Passive Perception 10
@@ -35,3 +36,4 @@ actions:
 ### References
 
 * https://www.dndbeyond.com/monsters/17173-mud-mephit
+* Monster Manual, pg. 216

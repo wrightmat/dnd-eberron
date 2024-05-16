@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ERLW
 image: https://www.dndbeyond.com/avatars/thumbnails/7726/9/1000/1000/637091672054047965.png
 name: Tsucora Quori
 size: Medium
@@ -15,11 +16,11 @@ hit_dice: 8d8 + 32
 speed: 40 ft.
 stats: [17, 14, 18, 14, 14, 16]
 saves:
-  - wisdom: 5
-  - charisma: 6
+  - Wis: 5
+  - Cha: 6
 skillsaves:
-  - insight: 5
-  - persuasion: 5
+  - Insight: 5
+  - Persuasion: 5
 damage_resistances: Cold, Psychic
 condition_immunities: Charmed, Frightened
 senses: Darkvision 60 ft., Passive Perception 15

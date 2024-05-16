@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MPP
 image: https://www.dndbeyond.com/avatars/thumbnails/37204/499/1000/1000/638318543792959618.png
 name: Musteval Guardinal
 size: Small

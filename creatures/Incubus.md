@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30835/955/1000/1000/638063924845225613.png
 name: Incubus
 size: Medium
@@ -62,3 +63,4 @@ _**Fiendish Offspring.**_ Succubi and incubi can reproduce with one another to 
 ### References
 
 * https://www.dndbeyond.com/monsters/257235-incubus
+* Basic Rules, pg. 349

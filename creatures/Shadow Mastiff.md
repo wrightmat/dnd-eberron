@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MPMM
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/635/1000/1000/637880557981173432.jpeg
 name: Shadow Mastiff
 size: Medium
@@ -40,8 +41,9 @@ Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted t
 
 #### Shadow Mastiffs
 
-Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows, always on the hunt.
+Shadow mastiffs — hounds of the Shadowfell — move invisibly through the shadows, always on the hunt.
 
 ### References
 
 * https://www.dndbeyond.com/monsters/2560913-shadow-mastiff
+* Mordenkainen Presents: Monsters of the Multiverse, pg. 215

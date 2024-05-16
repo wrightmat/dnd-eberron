@@ -4,8 +4,9 @@ statblock: inline
  #monster #underdark 
 
 ```statblock
-name: Intellect Devourer
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30831/57/1000/1000/638063804285013333.png
+name: Intellect Devourer
 size: Tiny
 type: Aberration
 alignment: Lawful Evil
@@ -15,8 +16,8 @@ hit_dice: 6d4 + 6
 speed: 40 ft.
 stats: [6, 14, 13, 12, 11, 10]
 skillsaves:
-  - perception: 2
-  - stealth: 4
+  - Perception: 2
+  - Stealth: 4
 damage_resistances: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 condition_immunities: Blinded
 senses: Blindsight 60 ft. (blind beyond this radius), Passive Perception 12

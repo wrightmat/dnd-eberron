@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-source: 
+source: FToD
 name: Hoard Mimic
 size: Huge
 type: Monstrosity
@@ -46,4 +46,4 @@ Hoard mimics are so named because many enter into partnerships with dragons, eac
 
 ### References
 
-* _FTD_, pg 204
+* Fizban's Treasury of Dragons, pg 204

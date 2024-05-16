@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 name: Orc War Chief
 size: Medium
 type: Humanoid
@@ -15,9 +16,9 @@ hit_dice: 11d8 + 44
 speed: 30
 stats: [18, 12, 18, 11, 11, 16]
 saves:
-  - STR: 6
-  - CON: 6
-  - WIS: 2
+  - Str: 6
+  - Con: 6
+  - Wis: 2
 skillsaves:
   - Intimidation: 5
 senses: Darkvision 60 ft., Passive Perception 10
@@ -42,3 +43,4 @@ actions:
 ### References
 
 * https://www.dndbeyond.com/monsters/17187-orc-war-chief
+* Monster Manual, pg. 246

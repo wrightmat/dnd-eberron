@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ToB
 image: https://3.bp.blogspot.com/-_UdOTpGMxyU/XNcEkuJTW9I/AAAAAAAALq0/cjBor98x2HsqODgczVEMuLmhnEp_yWwkACLcBGAs/s1600/prismatic%2Bbeetles.png
 name: Prismatic Beetle Swarm
 size: Medium swarm of Tiny beasts

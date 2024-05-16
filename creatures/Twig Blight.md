@@ -31,3 +31,4 @@ actions:
 ### References
 
 * https://www.dndbeyond.com/monsters/17095-twig-blight
+* Basic Rules, pg. 157

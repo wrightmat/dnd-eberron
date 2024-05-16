@@ -4,8 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-name: Space Dolphin
+source: MPMM
 image: https://5e.tools/img/MPMM/Dolphin%20Delighter.png
+name: Space Dolphin
 size: Medium
 type: Fey
 alignment: Chaotic Good
@@ -15,13 +16,13 @@ hit_dice: 5d8 + 8
 speed: 0 ft., fly 60 ft.
 stats: [14, 13, 13, 11, 12, 16]
 saves:
-  - wisdom: 3
-  - charisma: 5
+  - Wis: 3
+  - Cha: 5
 skillsaves:
-  - perception: 3
-  - performance: 5
-senses: Blindsight 60 ft., Passive Perception 13
-languages: Aquan, telepathy 120 ft.
+  - Perception: 3
+  - Performance: 5
+senses: Blindsight 60 ft., passive Perception 13
+languages: Aquan, Telepathy 120 ft.
 cr: 3
 traits:
   - name: Unusual Nature.

@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: MTF
 name: Iron Cobra
 size: Medium
 type: Construct

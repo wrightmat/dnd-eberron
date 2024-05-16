@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: BAM
 name: Young Lunar Dragon
 size: Large
 type: Dragon
@@ -14,13 +15,13 @@ hit_dice: 13d10 + 52
 speed: 40 ft., burrow 20 ft., fly 80 ft. (hover)
 stats: [19, 12, 18, 8, 10, 13]
 saves:
-  - constitution: 7
-  - wisdom: 3
+  - Con: 7
+  - Wis: 3
 skillsaves:
-  - perception: 6
-  - stealth: 7
-damage_immunities: cold
-senses: Darkvision 240 ft., Passive Perception 16
+  - Perception: 6
+  - Stealth: 7
+damage_immunities: Cold
+senses: Darkvision 240 ft., passive Perception 16
 languages: Draconic
 cr: 7
 traits:

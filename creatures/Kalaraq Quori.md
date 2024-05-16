@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ERLW
 image: https://www.dndbeyond.com/avatars/thumbnails/7726/2/1000/1000/637091671682327075.png
 name: Kalaraq Quori
 size: Medium
@@ -15,13 +16,13 @@ hit_dice: 19d8 + 76
 speed: 30 ft., fly 60 ft. (hover)
 stats: [12, 21, 18, 23, 24, 25]
 saves:
-  - intelligence: 12
-  - wisdom: 13
-  - charisma: 13
+  - Int: 12
+  - Wis: 13
+  - Cha: 13
 skillsaves:
-  - deception: 13
-  - perception: 13
-  - persuasion: 13
+  - Deception: 13
+  - Perception: 13
+  - Persuasion: 13
 damage_resistances: Cold, Necrotic, Poison, Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 condition_immunities: Blinded, Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained
 senses: Truesight 120 ft., Passive Perception 23

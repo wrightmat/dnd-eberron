@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30833/421/1000/1000/638063863513745427.png
 name: Mind Flayer
 size: Medium
@@ -15,16 +16,16 @@ hit_dice: 13d8 + 13
 speed: 30 ft.
 stats: [11, 12, 12, 19, 17, 17]
 saves:
-  - intelligence: 7
-  - wisdom: 6
-  - charisma: 6
+  - Int: 7
+  - Wis: 6
+  - Cha: 6
 skillsaves:
-  - arcana: 7
-  - deception: 6
-  - insight: 6
-  - perception: 6
-  - persuasion: 6
-  - stealth: 4
+  - Arcana: 7
+  - Deception: 6
+  - Insight: 6
+  - Perception: 6
+  - Persuasion: 6
+  - Stealth: 4
 senses: Darkvision 120 ft., Passive Perception 16
 languages: Deep Speech, Telepathy 120 ft., Undercommon
 cr: 7
@@ -61,3 +62,8 @@ _**Hive Mind Colonies.**_ Solitary mind flayers are likely rogues and outcasts.
 _**Hunger of the Mind.**_ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormones, and psychic energy necessary for their survival. An illithid healthy from a brain-rich diet secretes a thin glaze of mucus that coats its mauve skin.
 
 An illithid experiences euphoria as it devours the brain of a humanoid, along with its memories, personality, and innermost fears. Mind flayers will sometimes harvest a brain rather than devour it, using it as part of some alien experiment or transforming it into an intellect devourer.
+
+### References
+
+* https://www.dndbeyond.com/monsters/17104-mind-flayer
+* Monster Manual, pg. 222

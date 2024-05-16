@@ -4,8 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-name: Fractine
+source: MC1
 image: https://www.dndbeyond.com/avatars/thumbnails/25265/572/1000/1000/637861450545952412.jpeg
+name: Fractine
 size: Large
 type: Construct
 alignment: Typically Neutral
@@ -15,7 +16,7 @@ hit_dice: 13d10 + 39
 speed: 0 ft., fly 60 ft. (hover)
 stats: [1, 13, 16, 18, 18, 11]
 skillssaves:
-  - perception: 8
+  - Perception: 8
 condition_immunities: Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
 senses: Blindsight 360 ft. (blind beyond this radius), Passive Perception 18
 languages: --

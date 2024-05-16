@@ -4,6 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
+image: https://www.dndbeyond.com/avatars/thumbnails/16/466/1000/1000/636376287271000215.png
 name: Vine Blight
 size: Medium
 type: Plant
@@ -32,3 +34,4 @@ actions:
 ### References
 
 * https://www.dndbeyond.com/monsters/17216-vine-blight
+* Monster Manual, pg. 32

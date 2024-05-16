@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/14/487/1000/1000/636364325235118776.png
 name: Flameskull
 size: Tiny

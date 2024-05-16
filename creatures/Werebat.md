@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: WDotMM
 image: https://www.dndbeyond.com/avatars/thumbnails/4772/20/1000/1000/636764577391179535.png
 name: Werebat
 size: Small
@@ -16,8 +17,8 @@ hit_dice: 7d6
 speed: 30 ft., climb 30 ft. in bat or hybrid form, fly 60 ft. in bat or hybrid form
 stats: [8, 17, 10, 10, 12, 8]
 skillsaves:
-  - perception: 3
-  - stealth: 5
+  - Perception: 3
+  - Stealth: 5
 damage_immunities: bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 senses: passive perception 13
 languages: Goblin (can’t speak in bat form)
@@ -43,3 +44,8 @@ actions:
   - name: Shortbow (Humanoid or Hybrid Form Only)
     desc: "Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/183864-werebat
+* Waterdeep: Dungeon of the Mad Mage

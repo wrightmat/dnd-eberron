@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30761/972/1000/1000/638061101973584758.png
 name: Banshee
 size: Medium

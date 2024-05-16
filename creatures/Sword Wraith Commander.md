@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MPMM
 image: https://www.dndbeyond.com/avatars/thumbnails/268/205/1000/1000/636597572553866730.png
 name: Sword Wraith Commander
 size: Medium
@@ -15,7 +16,7 @@ hit_dice: 15d8 + 60
 speed: 30 ft.
 stats: [18, 14, 18, 11, 12, 14]
 skillsaves:
-  - perception: 4
+  - Perception: 4
 damage_resistances: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 damage_immunities: Poison
 condition_immunities: Exhaustion, Frightened, Poisoned, Unconscious
@@ -44,8 +45,6 @@ bonus_actions:
 ### Description
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
-
----
 
 #### Sword Wraiths
 

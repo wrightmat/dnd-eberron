@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: ToB
 name: Young Wind Dragon
 size: Large
 type: Dragon

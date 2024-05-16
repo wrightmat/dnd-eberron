@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: ToB
 name: Morphoi
 size: Medium
 type: Plant

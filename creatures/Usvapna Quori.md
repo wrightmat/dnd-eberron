@@ -15,12 +15,12 @@ hit_dice: 24d10 + 96
 speed: 30 ft., fly 40 ft.
 stats: [18, 18, 18, 22, 18, 19]
 saves:
-  - wisdom: 5
-  - charisma: 6
+  - Wis: 5
+  - Cha: 6
 skillsaves:
-  - deception: 12
-  - insight: 5
-  - perception: 8
+  - Deception: 12
+  - Insight: 5
+  - Perception: 8
 damage_resistances: Acid, Psychic
 condition_immunities: Charmed, Frightened
 senses: Darkvision 60 ft., Passive Perception 18
@@ -50,8 +50,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 
 Usvapnas, in their quori forms, are up to 10 feet tall, possessing a mostly humanoid torso, but with four arms ending in crab-like pincers, and a long snakelike tail. They do not have a head; instead a cloud of darkness rests where the head would normally be. They represent Sloth, and reside in the Blue Tower of the Outer Ring of Il-Lashtavar.
 
-***Tactics.*** The uvaspena quori begins combat with its Thoughtscour Shriek, using it again whenever available. It relies on the shriek to provide it with hosts for its Dream Invade ability, using its claws instead to try to kill creatures resistant to it, first prioritizing clerics and paladis, then bards, sorcerers, and warlocks. If it gets a creature grappled with all four claws, it always uses its Tear Apart ability in place of two of its attacks.
-If approaching conflict from a distance, it holds its action to Psychoport in just before its turn. If surprised, the quori Psychoports away to gain control of the situation before re-engaging.
+***Tactics.*** The uvaspena quori begins combat with its Thoughtscour Shriek, using it again whenever available. It relies on the shriek to provide it with hosts for its Dream Invade ability, using its claws instead to try to kill creatures resistant to it, first prioritizing clerics and paladis, then bards, sorcerers, and warlocks. If it gets a creature grappled with all four claws, it always uses its Tear Apart ability in place of two of its attacks. If approaching conflict from a distance, it holds its action to Psychoport in just before its turn. If surprised, the quori Psychoports away to gain control of the situation before re-engaging.
 
 ### References
 

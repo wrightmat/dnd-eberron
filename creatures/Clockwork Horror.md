@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MC1
 image: https://www.dndbeyond.com/avatars/thumbnails/25265/558/400/490/637861450522280364.png
 name: Clockwork Horror
 size: Small

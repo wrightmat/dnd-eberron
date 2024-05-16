@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ToB
 image: https://koboldpress.com/wp-content/uploads/2024/02/Possessed-Pillar.jpg
 name: Possessed Pillar
 size: Large

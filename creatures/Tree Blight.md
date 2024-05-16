@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: CoS
 name: Tree Blight
 size: Huge
 type: Plant
@@ -37,3 +38,4 @@ bonus_actions:
 ### References
 
 * https://www.dndbeyond.com/monsters/17363-tree-blight
+* Curse of Strahd, pg. 230

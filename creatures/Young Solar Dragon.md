@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: BAM
 name: Young Solar Dragon
 size: Large
 type: Dragon
@@ -14,13 +15,13 @@ hit_dice: 17d10 + 85
 speed: 20 ft., fly 60 ft. (hover)
 stats: [20, 15, 20, 13, 14, 12]
 saves:
-  - dexterity: 6
-  - constitution: 9
-  - wisdom: 6
-  - charisma: 5
+  - Dex: 6
+  - Con: 9
+  - Wis: 6
+  - Cha: 5
 skillsaves:
-  - perception: 10
-  - stealth: 6
+  - Perception: 10
+  - Stealth: 6
 damage_immunities: Radiant
 condition_immunities: Blinded
 senses: Darkvision 120 ft., Passive Perception 20

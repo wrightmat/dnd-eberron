@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MPMM
 image: https://www.dndbeyond.com/avatars/thumbnails/268/205/1000/1000/636597572553866730.png
 name: Sword Wraith Warrior
 size: Medium
@@ -36,8 +37,6 @@ bonus_actions:
 ### Description
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
-
----
 
 #### Sword Wraiths
 

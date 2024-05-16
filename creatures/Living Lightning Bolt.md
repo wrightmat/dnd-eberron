@@ -4,6 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ERLW
+image: https://www.dndbeyond.com/avatars/thumbnails/7725/792/1000/1000/637091643352509004.png
 name: Living Lightning Bolt
 size: Large
 type: Construct
@@ -35,4 +37,6 @@ actions:
 
 ### References
 
+* https://www.dndbeyond.com/monsters/486454-living-lightning-bolt
+* Eberron: Rising from the Last War, pg. 299
 * https://media.wizards.com/2019/dnd/dragon/28/DRA28_LivingSpells.pdf

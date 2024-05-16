@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: FToD
 image: https://www.dndbeyond.com/avatars/thumbnails/21205/333/1000/1000/637707682596838942.jpeg
 name: Young Moonstone Dragon
 size: Large
@@ -15,10 +16,10 @@ hit_dice: 17d10 + 51
 speed: 40 ft., fly 80 ft.
 stats: [18, 16, 17, 18, 17, 19]
 saves:
-  - CON: 6
-  - INT: 7
-  - WIS: 6
-  - CHA: 7
+  - Con: 6
+  - Int: 7
+  - Wis: 6
+  - Cha: 7
 skillsaves:
   - Perception: 6
   - Persuasion: 7

@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: ERLW
+image: https://www.dndbeyond.com/avatars/thumbnails/7725/795/1000/1000/637091643640649912.png
 name: Living Cloudkill
 size: Large
 type: Construct
@@ -36,4 +37,6 @@ actions:
 
 ### References
 
+* https://www.dndbeyond.com/monsters/486460-living-cloudkill
+* Eberron: Rising from the Last War, pg. 299
 * https://media.wizards.com/2019/dnd/dragon/28/DRA28_LivingSpells.pdf

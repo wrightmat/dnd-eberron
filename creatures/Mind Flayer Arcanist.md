@@ -4,8 +4,9 @@ statblock: inline
  #monster #underdark 
 
 ```statblock
-name: Mind Flayer Arcanist 
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/9/19/1000/1000/636322598567599439.jpeg
+name: Mind Flayer Arcanist 
 size: Medium
 type: Aberration
 alignment: Lawful Evil
@@ -15,16 +16,16 @@ hit_dice: 13d8 + 13
 speed: 30 ft.
 stats: [11, 12, 12, 19, 17, 17]
 saves:
-  - intelligence: 7
-  - wisdom: 6
-  - charisma: 6
+  - Int: 7
+  - Wis: 6
+  - Cha: 6
 skillsaves:
-  - arcana: 7
-  - deception: 6
-  - insight: 6
-  - perception: 6
-  - persuasion: 6
-  - stealth: 4
+  - Arcana: 7
+  - Deception: 6
+  - Insight: 6
+  - Perception: 6
+  - Persuasion: 6
+  - Stealth: 4
 senses: Darkvision 120 ft., Passive Perception 16
 languages: Deep Speech, Telepathy 120 ft., Undercommon
 cr: 8
@@ -52,7 +53,7 @@ actions:
 
 ### Description
 
-A few [mind flayers](https://www.dndbeyond.com/monsters/17104-mind-flayer) supplement their psionic power with arcane spells. However, they are regarded as deviants by their illithid peers and usually shunned.
+A few mind flayers supplement their psionic power with arcane spells. However, they are regarded as deviants by their illithid peers and usually shunned.
 
 ### References
 

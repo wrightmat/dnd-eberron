@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MPMM
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/757/1000/1000/637880558163737194.jpeg
 name: Winter Eladrin
 size: Medium

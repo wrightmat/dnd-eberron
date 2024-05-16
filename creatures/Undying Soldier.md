@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ERLW
 image: https://www.dndbeyond.com/avatars/thumbnails/7726/196/1000/1000/637091692561869434.png
 name: Undying Soldier
 size: Medium

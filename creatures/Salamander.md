@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30835/805/1000/1000/638063921868615940.png
 name: Salamander
 size: Large
@@ -56,3 +57,8 @@ As salamanders age, they increase in size and status, rising to positions of pow
 _**Living Forges.**_ Salamanders generate intense heat, and when they fight, their weapons glow red and sear the bodies of their enemies on contact. Even approaching a salamander is dangerous, since flesh blisters and burns in its proximity.
 
 This inherent heat is an asset to salamanders’ skill as smiths, allowing them to soften and shape iron and steel with their bare hands. Although not as meticulous as azers, salamanders number among the greatest metalsmiths in all the planes. Powerful creatures summon them as warriors, but others enlist the salamanders for their crafting skills, or bind them to forges and ovens to generate limitless heat.
+
+### References
+
+* https://www.dndbeyond.com/monsters/17004-salamander
+* Basic Rules, pg. 344

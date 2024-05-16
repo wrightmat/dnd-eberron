@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ToA
 image: https://www.dndbeyond.com/avatars/thumbnails/30/762/1000/1000/636395100053374701.png
 name: Pterafolk
 size: Large

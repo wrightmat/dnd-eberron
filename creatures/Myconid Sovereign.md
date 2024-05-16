@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 name: Myconid Sovereign
 size: Large
 type: Plant
@@ -35,3 +36,8 @@ actions:
   - name: Rapport Spores
     desc: "A 30-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren’t undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/17184-myconid-sovereign
+* Monster Manual, pg. 232

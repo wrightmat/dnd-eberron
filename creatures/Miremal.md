@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ToB
 image: https://koboldpress.com/wp-content/uploads/2018/08/miremal.jpg
 name: Miremal
 size: Small

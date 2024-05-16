@@ -4,8 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-name: Goon Balloon
+source: MC1
 image: https://www.dndbeyond.com/avatars/thumbnails/25265/578/1000/1000/637861450557623471.jpeg
+name: Goon Balloon
 size: Medium
 type: Aberration
 alignment: Typically Chaotic Evil
@@ -15,10 +16,10 @@ hit_dice: 1d8 + 2
 speed: 20 ft., climb 20 ft.
 stats: [10, 11, 14, 11, 14, 4]
 saves:
-  - constitution: 4
-  - wisdom: 4
+  - Con: 4
+  - Wis: 4
 skillsaves:
-  - perception: 6
+  - Perception: 6
 damage_vulnerabilities: Piercing
 senses: Darkvision 60 ft., Passive Perception 16
 languages: Deep Speech

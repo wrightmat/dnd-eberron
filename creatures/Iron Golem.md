@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30784/170/1000/1000/638062031423594632.png
 name: Iron Golem
 size: Large
@@ -45,7 +46,7 @@ The mightiest of the golems, the iron golem is a massive, towering giant wrought
 
 An iron golem’s body is smelted with rare tinctures and admixtures. Though other golems bear weaknesses inherent in their materials or the power of the elemental spirit bound within them, iron golems were designed to be nearly invulnerable. Their iron bodies imprison the spirits that drive them, and are susceptible only to weapons imbued with magic or the strength of adamantine.
 
-_**Blind Obedience.**_ When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [incapacitated](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Incapacitated), it continues to follow its last orders to the best of its ability. When it can’t fulfill its orders, a golem might react violently — or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+_**Blind Obedience.**_ When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is incapacitated, it continues to follow its last orders to the best of its ability. When it can’t fulfill its orders, a golem might react violently — or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 A golem can’t think or act for itself. Though it understands its commands perfectly, it has no grasp of language beyond that understanding, and can’t be reasoned with or tricked with words.
 
@@ -54,3 +55,4 @@ _**Constructed Nature.**_ A golem doesn’t require air, food, drink, or sleep.
 ### References
 
 * https://www.dndbeyond.com/monsters/16935-iron-golem
+* Basic Rules, pg. 317

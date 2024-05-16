@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: ToB2
 name: Swamp Naga
 size: Large
 type: Monstrosity

@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: MOT
+image: https://www.dndbeyond.com/avatars/thumbnails/16464/484/1000/1000/637515965711226798.png
 name: Naiad
 size: Medium
 type: Fey
@@ -43,3 +44,6 @@ actions:
 ```
 
 ### References
+
+* https://www.dndbeyond.com/monsters/909494-naiad
+* Mythic Odysseys of Theros, pg. 236

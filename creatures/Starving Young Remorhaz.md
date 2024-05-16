@@ -24,3 +24,7 @@ actions:
   - name: Bite.
     desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 13 (2d10 + 2) piercing damage plus 7 (2d6) fire damage."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/17195-young-remorhaz

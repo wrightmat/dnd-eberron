@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: DSotDQ
 image: https://www.dndbeyond.com/avatars/thumbnails/30414/551/1000/1000/638046466599936549.jpeg
 name: Lesser Death Dragon
 size: Large

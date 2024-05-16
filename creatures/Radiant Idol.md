@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ERLW
 image: https://www.dndbeyond.com/avatars/thumbnails/7726/15/1000/1000/637091672429063408.png
 name: Radiant Idol
 size: Large
@@ -15,13 +16,13 @@ hit_dice: 15d10 + 60
 speed: 40 ft.
 stats: [23, 18, 19, 17, 20, 21]
 saves:
-  - wisdom: 9
-  - charisma: 9
+  - Wis: 9
+  - Cha: 9
 skillsaves:
-  - deception: 9
-  - insight: 9
-  - perception: 9
-  - persuasion: 9
+  - Deception: 9
+  - Insight: 9
+  - Perception: 9
+  - Persuasion: 9
 damage_resistances: Radiant; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 condition_immunities: Charmed, Exhaustion, Frightened
 senses: Darkvision 120 ft., Passive Perception 19
@@ -54,3 +55,8 @@ _**Fallen Angels.**_ The insatiable hunger to be adored can transform a fallen 
 _**The Weight of Corruption.**_ When a radiant idol achieves a sizable following through silvered words and demonstrations of power, its facade begins to crack, and a downward spiral ensues. As the radiant idol sinks deeper into the realm of material power, it begins twisting its followers, leading them ever deeper into ominous ritualism, hedonistic folly, and fanatical doom.
 
 _**Immortal Nature.**_ A radiant idol doesn’t require food, drink, or sleep.
+
+### References
+
+* https://www.dndbeyond.com/monsters/487750-radiant-idol
+* Eberron: Rising from the Last War, pg. 308

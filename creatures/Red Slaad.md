@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://angrygolem-games.com/wp-content/uploads/2021/04/red-slaad.jpg
 name: Red Slaad
 size: Large
@@ -16,7 +17,7 @@ hit_dice: 11d10 + 33
 speed: 30 ft.
 stats: [16, 12, 16, 6, 6, 7]
 skillsaves:
-  - perception: 1
+  - Perception: 1
 damage_resistances: acid, cold, fire, lightning, thunder
 senses: darkvision 60 ft., passive Perception 11
 languages: Slaad, telepathy 60 ft.
@@ -39,4 +40,6 @@ actions:
 
 ### References
 
+* https://www.dndbeyond.com/monsters/17116-red-slaad
+* Monster Manual, pg. 276
 * https://angrygolem-games.com/monster-manual/letter-r/red-slaad-5e-stats/

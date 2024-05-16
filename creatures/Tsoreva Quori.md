@@ -15,9 +15,9 @@ hit_dice: 16d8 + 48
 speed: 30 ft., fly 40 ft.
 stats: [17, 15, 16, 14, 16, 16]
 saves:
-  - wisdom: 6
+  - Wis: 6
 skillsaves:
-  - perception: 6
+  - Perception: 6
 damage_resistances: Psychic
 condition_immunities: Charmed, Frightened
 senses: Darkvision 60 ft., Passive Perception 16

@@ -1,11 +1,13 @@
 ---
 statblock: inline
+Environment: underdark, urban
 ---
  #monster 
 
 ```statblock
-name: Water Weird
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30836/496/1000/1000/638063938477200551.png
+name: Water Weird
 size: Large
 type: Elemental
 alignment: Neutral
@@ -29,3 +31,8 @@ actions:
   - name: Constrict
     desc: "Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is restrained, the water weird tries to drown it, and the water weird can’t constrict another target."
 ```
+
+### References
+
+* https://www.dndbeyond.com/monsters/17208-water-weird
+* Monster Manual, pg. 299

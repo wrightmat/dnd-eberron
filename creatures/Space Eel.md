@@ -4,8 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-name: Space Eel
+source: BAM
 image: https://www.dndbeyond.com/avatars/thumbnails/28079/928/1000/1000/637961800946946294.jpeg
+name: Space Eel
 size: Small
 type: Beast
 alignment: Unaligned

@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 image: https://www.dndbeyond.com/avatars/thumbnails/30782/223/1000/1000/638061955172779716.png
 name: Young Shadow Dragon
 size: Large

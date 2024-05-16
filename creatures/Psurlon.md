@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: BAM
 image: https://www.dndbeyond.com/avatars/thumbnails/28079/916/1000/1000/637961800921830771.jpeg
 name: Psurlon
 size: Medium

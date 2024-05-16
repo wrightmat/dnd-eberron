@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: MM
 name: Orc Eye of Gruumsh
 size: Medium
 type: Humanoid
@@ -38,3 +39,4 @@ actions:
 ### References
 
 * https://www.dndbeyond.com/monsters/17188-orc-eye-of-gruumsh
+* Monster Manual, pg. 247
