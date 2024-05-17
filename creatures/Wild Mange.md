@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Wild Mange
 size: Medium
 type: Humanoid
@@ -15,7 +16,7 @@ hit_dice: 9d8  + 18
 speed: 30 ft.
 stats: [15, 14, 14, 10, 11, 10]
 saves:
-  - dexterity: 4
+  - Dex: 4
 damage_immunities: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 senses: Darkvision 60 ft., Passive Perception 14
 languages: Common, Undercommon
@@ -42,3 +43,5 @@ reactions:
   - name: Chaotic Crescendo.
     desc: "When the Wild Mange is reduced to 0 hit points, it explodes. Each creature within 15 feet of the Wild Mange must make a DC 12 Dexterity saving throw, taking 10 (2d10) lightning damage on a failed save, or half as much damage on a successful one. When the Wild Mange is reduced to 0 hit points roll once on the Sorcerer's Wild Magic table and proceed with the following effect."
 ```
+
+### References

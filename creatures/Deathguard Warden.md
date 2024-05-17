@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: Homebrew
 name: Deathguard Warden
 size: Medium
 type: Humanoid
@@ -15,9 +15,9 @@ hit_dice: 11d8 + 22
 speed: 30 ft.
 stats: [13, 18, 14, 11, 13, 12]
 saves:
-  - DEX: 7
-  - CON: 5
-  - WIS: 4
+  - Dex: 7
+  - Con: 5
+  - Wis: 4
 skillsaves:
   - Perception: 4
   - Stealth: 10

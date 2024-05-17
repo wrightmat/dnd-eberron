@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Skinweaver Head
 size: Small
 type: Beast
@@ -14,9 +15,9 @@ hit_dice: 27d8
 speed: 25 ft., climb 25 ft.
 stats: [6, 14, 18, 16, 15, 18]
 skillsaves:
-  - arcana: 8
-  - deception: 5
-  - insight: 2
+  - Arcana: 8
+  - Deception: 5
+  - Insight: 2
 damage_resistances: Nectrotic
 damage_immunities: Poison
 senses: Blindsight 10 ft, Tremorsense 10 ft, Passive Perception 12
@@ -35,3 +36,5 @@ bonus_actions:
   - name: Fleshweaving (Recharge 5-6).
     desc: "Any skinweavers within a 10-foot cone regain 10 hit points."
 ```
+
+### References

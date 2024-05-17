@@ -4,8 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-name: Asteroid Spider
+source: MC1
 image: https://www.dndbeyond.com/avatars/thumbnails/25265/553/1000/1000/637861450514009347.jpeg
+name: Asteroid Spider
 size: Gargantuan
 type: Monstrosity
 alignment: Typically Neutral Evil

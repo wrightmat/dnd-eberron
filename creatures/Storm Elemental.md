@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: Homebrew
 name: Storm Elemental
 size: Huge
 type: Elemental
@@ -15,8 +15,8 @@ hit_dice: 16d12 + 48
 speed: 0 ft., swim 60 ft., fly 60 ft.
 stats: [18, 21, 17, 9, 10, 13]
 saves:
-  - dexterity: 9
-  - constitution: 7
+  - Dex: 9
+  - Con: 7
 damage_resistances: Acid, Fire; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 damage_immunities: Cold, Lightning, Poison, Thunder
 condition_immunities: Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -46,3 +46,8 @@ actions:
   - name: Vortex (Recharge 5–6).
     desc: "The elemental pulls all unsecured objects within 60 feet of it that aren't being worn or carried 60 feet closer to the center of its space. Each creature within 60 feet of the elemental must make a DC 16 Strength saving throw. On a failed save, a creature takes 27 (5d8 + 5) bludgeoning damage, is knocked prone, and is pulled up to 60 feet toward the center of the elemental's space."
 ```
+
+### References
+
+* https://www.dndunleashed.com/home/new-monster-storm-elemental
+* https://www.reddit.com/r/monsteraday/comments/np5udu/storm_elemental_cr12_a_combination_of_lightning/

@@ -29,6 +29,7 @@ Terrifying as Dyrrn’s mind flayers may be, when an illithid is slain, the thre
 ### Stat Block
 
 ```statblock
+source: CoE
 name: Avassh
 size: Medium
 type: Aberration
@@ -39,14 +40,14 @@ hit_dice: 25d8 + 175
 speed: 40 ft., climb 40 ft., fly 40 ft. (hover)
 stats: [24, 21, 25, 24, 22, 22]
 saves:
-  - intelligence: 14
-  - wisdom: 13
-  - charisma: 13
+  - Int: 14
+  - Wis: 13
+  - Cha: 13
 skillsaves:
-  - arcana: 14
-  - nature: 14
-  - perception: 13
-  - survival: 13
+  - Arcana: 14
+  - Nature: 14
+  - Perception: 13
+  - Survival: 13
 damage_resistances: bludgeoning, piercing, and slashing from nonmagical attacks
 damage_immunities: poison, psychic
 condition_immunities: blinded, charmed, exhaustion, frightened, petrified, poisoned, prone

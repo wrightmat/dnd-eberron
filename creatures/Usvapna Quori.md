@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 image: https://static.wikia.nocookie.net/eberron/images/d/d6/Dream_Master_Quori.jpg
 name: Usvapna Quori
 size: Large

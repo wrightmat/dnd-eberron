@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 image: https://i0.wp.com/dmdave.com/wp-content/uploads/2018/11/xag-ya-xeg-yi.jpg
 name: Xag-ya
 size: Large
@@ -15,14 +16,14 @@ hit_dice: 18d8 + 108
 speed: 0 ft., fly 60 ft. (hover)
 stats: [3, 19, 22, 21, 18, 16]
 saves:
-  - intelligence: 9
-  - wisdom: 8
-  - charisma: 7
+  - Int: 9
+  - Wis: 8
+  - Cha: 7
 skillsaves:
-  - perception: 8
-damage_vulnerabilities: cold, necrotic
-damage_resistances: radiant
-damage_immunities: acid, fire, lightning, psychic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+  - Perception: 8
+damage_vulnerabilities: Cold, Necrotic
+damage_resistances: Radiant
+damage_immunities: Acid, Fire, Lightning, Psychic, Thunder; Bludgeoning, piercing, and slashing from nonmagical attacks
 condition_immunities: blinded, exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 senses: blindsense 30 ft., darkvision 120 ft., passive Perception 18
 languages: --

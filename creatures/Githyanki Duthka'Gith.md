@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Githyanki Duthka'Gith
 size: Medium
 type: Humanoid

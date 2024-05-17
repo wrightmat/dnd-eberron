@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-image: https://static.wikia.nocookie.net/eberron/images/6/6c/Du%27ulora_quori.png/revision/latest/scale-to-width-down/350?cb=20201118154752
+source: Homebrew
+image: https://static.wikia.nocookie.net/eberron/images/6/6c/Du%27ulora_quori.png
 name: Du'ulora Quori
 size: Large
 type: Aberration
@@ -15,12 +16,12 @@ hit_dice: 27d10 + 81
 speed: fly 60 ft. (hover)
 stats: [14, 16, 17, 20, 18, 23]
 saves:
-  - wisdom: 8
-  - charisma: 10
+  - Wis: 8
+  - Cha: 10
 skillsaves:
-  - deception: 10
-  - insight: 8
-  - perception: 12
+  - Deception: 10
+  - Insight: 8
+  - Perception: 12
 damage_resistances: Fire, Psychic
 condition_immunities: Charmed, Frightened
 senses: Truesight 120 ft., Passive Perception 22

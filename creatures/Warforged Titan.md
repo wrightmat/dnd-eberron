@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 image: https://static.wikia.nocookie.net/eberron/images/a/a6/Warforgedtitan.jpg
 name: Warforged Titan
 size: Huge

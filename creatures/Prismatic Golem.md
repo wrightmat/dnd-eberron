@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Prismatic Golem
 size: Large
 type: Construct
@@ -14,18 +15,18 @@ hit_dice: 30d8 + 150
 speed: 50 ft.
 stats: [11, 24, 20, 20, 11, 9]
 saves:
-  - dexterity: 13
-  - intelligence: 11
-  - wisdom: 6
-  - charisma: 5
+  - Dex: 13
+  - Int: 11
+  - Wis: 6
+  - Cha: 5
 skillsaves:
-  - arcana: 11
-  - acrobatics: 13
-  - perception: 12
-  - stealth: 13
-damage_resistances: acid, cold, fire, force, lightning, radiant
-damage_immunities: poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-condition_immunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
+  - Arcana: 11
+  - Acrobatics: 13
+  - Perception: 12
+  - Stealth: 13
+damage_resistances: Acid, Cold, Fire, Force, Lightning, Radiant
+damage_immunities: Poison, Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't adamantine
+condition_immunities: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned, Stunned
 senses: darkvision 120 ft., blindsight 60 ft., passive Perception 22
 languages: the languages of its creator, Telepathy 120 ft.
 cr: 20
@@ -77,3 +78,7 @@ While not the largest, or by far the strongest construct crafted, the prismatic 
 **A Collective.** While the process is similar in crafting a prismatic golem, the difficult part is drawing in many, if not all of the different elemental spirits from their respective planes of existence to fuel this magic construct with life. Perhaps it is because of this fused consciousness that the prismatic golem is able to breach the surface of sapience. While incredibly intelligent, the prismatic golem is still almost infantile in its mentality until it can mentally grow under the tutelage of its creator, which is why these creations usually take on the mannerisms and ideologies of those who own them. However, in the rare occurrence that one is either broken away from its subservient nature or defects, it will develop naturally through its environment; which isn't always the best result should one become as independent. After all, it could be intelligent, but it could be an instinctual intelligence instead of sapience.
 
 **Master of the Elements.** Prismatic golems are -- thanks to its rare core of all things -- masters of the elemental forces of the arcane. They are heavily resistant to most magical forces, and their polished onyx bodies have a tendency to reflect such forces back at the assailant. In the rare occurrence that the prismatic golem is forced to defend itself or its master, it does such with incredible efficiency. It will focus the most perceived threat to either unconsciousness or death, or it will focus those that can aid their allies through magic means. From its prismatic visage, it can create luminescent beams of all elemental forces, not to mention its geometric limbs, which all end in sharpened points. Hope you can run, for it is quick and more dexterous than most initially anticipate: but that is usually their last mistake.
+
+### References
+
+* https://www.gmbinder.com/share/-MKc3FZiYQgD05gq3oyi

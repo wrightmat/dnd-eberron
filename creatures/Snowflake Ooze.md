@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Snowflake Ooze
 size: Medium
 type: Ooze
@@ -14,10 +15,10 @@ hit_dice: 12d8 + 36
 speed: 20 ft.
 stats: [15, 8, 16, 8, 11, 10]
 skillsaves:
-  - perception: 3
-  - stealth: 3
-damage_vulnerabilities: fire
-damage_immunities: cold, poison
+  - Perception: 3
+  - Stealth: 3
+damage_vulnerabilities: Fire
+damage_immunities: Cold, Poison
 condition_immunities: blinded, charmed, deafened, exhaustion, poisoned, prone
 senses: blindsight 60 ft. (blind beyond this radius), passive Perception 13
 languages: --
@@ -34,3 +35,5 @@ reactions:
   - name: Split.
     desc: "When a snowflake ooze that is Medium or larger is subjected to bludgeoning damage, it splits into two new oozes if it has at least 10 hit points. Each new ooze has hit points equal to half the original ooze's, rounded down. New oozes are one size smaller than the original ooze."
 ```
+
+### References

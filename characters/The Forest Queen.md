@@ -29,3 +29,5 @@ Regardless of origin, any character allied with the Forest Queen is expected to 
 - Don’t kill a natural beast with magic or for sport.
 - Protect those who travel on a marked path, unless they harm the forest with their actions.
 - Help any fey of the forest who comes to you in need.
+
+### References

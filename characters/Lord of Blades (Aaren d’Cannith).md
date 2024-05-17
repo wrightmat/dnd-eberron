@@ -33,6 +33,7 @@ In the years since he first appeared, the warforged who soon came to be known as
 ### Stat Block
 
 ```statblock
+source: ERLW
 image: https://static.wikia.nocookie.net/eberron/images/a/a5/Lord_of_Blades.jpg
 name: Lord of Blades
 size: Large
@@ -99,4 +100,4 @@ legendary_actions:
 ### References
 
 * https://eberron.fandom.com/wiki/Lord_of_Blades
-* _ERLW_, pg 300
+* Eberron: Rising from the Last War, pg 300

@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 image: https://upload.wikimedia.org/wikipedia/en/e/e3/Ursula%28TheLittleMermaid%29character.png
 name: Sea Witch
 size: Medium
@@ -15,7 +16,7 @@ hit_dice: 20d8 + 60
 speed: 30 ft., swim 30 ft.
 stats: [12, 10, 16, 10, 15, 14]
 skillsaves:
-  - perception: 5
+  - Perception: 5
 senses: Passive Perception 15
 languages: Common, Aquan
 cr: 7

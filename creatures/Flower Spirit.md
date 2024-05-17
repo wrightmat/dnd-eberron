@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Flower Spirit
 size: Tiny
 type: Fey
@@ -14,9 +15,9 @@ hit_dice: 4d4
 speed: 10 ft., fly 40 ft.
 stats: [2, 17, 11, 17, 17, 17]
 skillsaves:
-  - deception: 5
-  - persuasion: 5
-  - stealth: 5
+  - Deception: 5
+  - Persuasion: 5
+  - Stealth: 5
 senses: darkvision 30 ft., passive Perception 13
 languages: Sylvan
 cr: 1

@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Living Star
 size: Gargantuan
 type: Elemental
@@ -15,7 +16,7 @@ hit_dice: 14d12  + 70
 speed: 0 ft., fly 50 ft.
 stats: [1, 28, 10, 13, 14, 11]
 skillsaves:
-  - stealth: 6
+  - Stealth: 6
 damage_resistances: Acid, Cold, Fire, Necrotic, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 damage_immunities: Lightning, Poison, Radiant
 condition_immunities: Exhaustion, Grappled, Paralyzed, Poisoned, Prone, Restrained, Unconscious
@@ -52,3 +53,5 @@ The living star is a massive creature, with a body that is composed entirely of 
 Despite its size and power, the living star is a neutral creature, and it is not interested in the petty conflicts of mortal beings. It is content to watch and observe from afar, occasionally intervening if it senses great danger or imbalance in the cosmos.
 
 Those who encounter a living star in wildspace or the astral plane are often awestruck by its beauty and majesty, and they are filled with a sense of wonder and awe at the sight of this powerful and ancient being. Those who dare to attack a living star, however, soon learn the folly of their ways, as the creature is capable of unleashing powerful blasts of radiant energy and reflecting magical attacks back at their source.
+
+### References

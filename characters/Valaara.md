@@ -29,6 +29,7 @@ Valaara is known to work its will upon various forms of vermin such as insects a
 ### Stat Block
 
 ```statblock
+source: EE
 name: Valaara
 size: Medium
 type: Aberration
@@ -39,19 +40,19 @@ hit_dice: 29d8 + 145
 speed: 40 ft., fly 40 ft. (hover)
 stats: [ 21, 25, 21, 24, 22, 25]
 saves:
-  - intelligence: 14
-  - wisdom: 13
-  - charisma: 14
+  - Int: 14
+  - Wis: 13
+  - Cha: 14
 skillsaves:
-  - arcana: 14
-  - deception: 14
-  - nature 14
-  - perception 13
+  - Arcana: 14
+  - Deception: 14
+  - Nature 14
+  - Perception 13
 damage_resistances: Bludgeoning, piercing, and slashing from nonmagical attacks
 damage_immunities: Poison, Psychic
 condition_immunities: blinded, charmed, frightened, poisoned, prone
-senses: truesight 120 ft., passive Perception 23
-languages: Deep Speech, telepathy 120 ft.
+senses: Truesight 120 ft., passive Perception 23
+languages: Deep Speech, Telepathy 120 ft.
 cr: 23
 traits:
   - name: Alien Mind.

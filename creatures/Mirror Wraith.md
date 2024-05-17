@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Mirror Wraith
 size: Medium
 type: Undead
@@ -14,15 +15,15 @@ hit_dice: 8d8 + 24
 speed: 30 ft., fly 30 ft. (hover)
 stats: [10, 18, 16, 12, 14, 16]
 saves:
-  - dex: 4
-  - cha: 3
+  - Dex: 4
+  - Cha: 3
 skillsaves:
-  - stealth: 7
-  - perception: 6
-damage_vulnerabilities: radiant
-damage_resistances: necrotic, non-magical weapons
-damage_immunities: poison
-condition_immunities: poisoned
+  - Stealth: 7
+  - Perception: 6
+damage_vulnerabilities: Radiant
+damage_resistances: Necrotic, Non-magical weapons
+damage_immunities: Poison
+condition_immunities: Poisoned
 senses: Darkvision 60 ft., passive Perception 16
 languages: Common, Abyssal
 cr: 3

@@ -22,3 +22,5 @@ occupation: Architect
 > `=this.comments`
 
 The right hand of Dream, the Devourer sees to il-Lashtavar, the source and home of all quori.
+
+### References

@@ -1,9 +1,34 @@
 ---
 statblock: inline
+gender: Non-Gendered
+race: Daelkyr
+occupation: Daelkyr Lord
+Image: "![https://i.redd.it/4bzemvhajdf61.png|250](https://i.redd.it/4bzemvhajdf61.png)"
 ---
  #monster #daelkyr 
 
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Basic Information
+> |  |  |
+> | ---- | ---- |
+> | **Gender** | `=this.gender` |
+> | **Race** | `=this.race` |
+> | **Subrace** | `=this.subrace` |
+> | **Occupation** | `=this.occupation` |
+> | **Alignment** | `=this.alignment` |
+> | **Attitude** | `=this.attitude` |
+> | **Languages** | `=this.languages` |
+> ###### Comments
+> `=this.comments`
+
+Orlassk is credited with creating the medusas (to their severe objection), basilisks, and other creatures that petrify their victims or manipulate stone. Orlassk is skilled at manipulating flesh and stone, and has knowledge of secret transmutation magic. It is said to travel within a moving citadel, a giant gargoyle prowling Khyber.
+
+### Stat Block
+
 ```statblock
+source: Homebrew
 name: Orlassk
 size: Medium
 type: Aberration
@@ -57,10 +82,6 @@ legendary_actions:
   - name: Petrifying Aura (Costs 3 Actions).
     desc: "Any number of creatures Orlassk chooses within 60 feet of it, including itself if desired, must make a DC 21 Constitution saving throw. On a failure, a creature is restrained for 1 minute. A restrained creature can repeat the saving throw with disadvantage at the end of each of its turns, ending the effect on a success. However, if a creature fails the initial or any subsequent save by 5 or more, it becomes petrified indefinitely. Orlassk can willingly fail its saving throw against this effect and be petrified if it wishes."
 ```
-
-### Description
-
-Orlassk is credited with creating the medusas (to their severe objection), basilisks, and other creatures that petrify their victims or manipulate stone. Orlassk is skilled at manipulating flesh and stone, and has knowledge of secret transmutation magic. It is said to travel within a moving citadel, a giant gargoyle prowling Khyber.
 
 ### References
 

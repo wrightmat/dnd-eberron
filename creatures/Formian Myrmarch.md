@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Formian Myrmarch
 size: Large
 type: Monstrosity
@@ -14,11 +15,11 @@ hit_dice: 13d10 + 52
 speed: 50 ft.
 stats: [21, 16, 19, 15, 15, 9]
 saves:
-  - dexterity: 7
-  - wisdom: 6
+  - Dex: 7
+  - Wis: 6
 skillsaves:
-  - perception: 10
-  - stealth: 7
+  - Perception: 10
+  - Stealth: 7
 damage_immunities: Poison
 condition_immunities: Poisoned
 senses: passive Perception 20

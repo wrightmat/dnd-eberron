@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Formian Warrior
 size: Medium
 type: Monstrosity

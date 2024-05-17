@@ -30,6 +30,7 @@ Unlike most of its foul brethren, Belashyrra wears a human face. However, its di
 ### Stat Block
 
 ```statblock
+source: ERLW
 name: Belashyrra
 size: Medium
 type: Aberration

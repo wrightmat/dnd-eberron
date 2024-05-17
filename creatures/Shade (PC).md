@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 layout: Basic 5e Layout (Modified PC)
 name: Prism (Shade)
 size: Medium

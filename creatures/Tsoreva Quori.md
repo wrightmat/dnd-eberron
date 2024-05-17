@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 image: https://static.wikia.nocookie.net/eberron/images/7/78/Tsoreva.jpg
 name: Tsoreva Quori
 size: Medium

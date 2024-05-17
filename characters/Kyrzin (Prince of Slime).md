@@ -32,6 +32,7 @@ Kyrzin cannot speak, and communicates exclusively through telepathy. He is surro
 ### Stat Block
 
 ```statblock
+source: Homebrew
 name: Kyrzin
 size: Medium
 type: Aberration

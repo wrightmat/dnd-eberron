@@ -36,6 +36,7 @@ The Prince of Frost was once the Prince of Summer, but his heart froze when his 
 ### Stat Block
 
 ```statblock
+source: Homebrew
 image: https://static.wikia.nocookie.net/forgottenrealms/images/b/b6/Prince_of_Frost_4e.jpg
 name: Prince of Frost
 size: Medium

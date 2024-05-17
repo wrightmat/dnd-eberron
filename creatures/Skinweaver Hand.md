@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Skinweaver Hand
 size: Small
 type: Beast
@@ -14,9 +15,9 @@ hit_dice: 18d8
 speed: 25 ft., climb 25 ft.
 stats: [6, 14, 18, 16, 15, 18]
 skillsaves:
-  - athletics: 8
-  - sleight of hand: 14
-  - stealth: 14
+  - Athletics: 8
+  - Sleight of Hand: 14
+  - Stealth: 14
 damage_resistances: Nectrotic
 damage_immunities: Poison
 senses: Blindsight 10 ft, Tremorsense 10 ft, Passive Perception 12
@@ -30,3 +31,5 @@ actions:
   - name: Choke Hold.
     desc: "The target must make a DC 15 Dexterity saving throw. On a failed save, a creature takes 10 (2d6 + 4) necrotic damage and is grappled (escape DC 15). On a successful save, a creature takes half damage and is not grappled. While grappled, the target takes an additional 10 necrotic damage at the start of each of their turns."
 ```
+
+### References

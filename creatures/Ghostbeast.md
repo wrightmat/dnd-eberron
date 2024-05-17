@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Ghostbeast
 size: Medium
 type: Monstrosity
@@ -14,8 +15,8 @@ hit_dice: 14d8 + 42
 speed: 40 ft.
 stats: [14, 17, 16, 8, 11, 6]
 saves:
-  - dexterity: 6
-  - wisdom: 3
+  - Dex: 6
+  - Wis: 3
 senses: Darkvision 120 ft., Passive Perception 10
 languages: --
 cr: 5
@@ -32,3 +33,5 @@ actions:
   - name: Claw.
     desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) slashing damage, plus 7 (2d6) necrotic damage."
 ```
+
+### References

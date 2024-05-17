@@ -4,7 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: Homebrew
 name: Metal Minotaur
 size: Large
 type: Construct
