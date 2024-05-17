@@ -11,7 +11,7 @@
 * The **University of Wynarn** is, together with Arcanix, the primary institute of arcane studies in the Five Nations. Located in Fairhaven in the nation of Aundair, the University of Wynarn might be lesser known than Morgrave University in Sharn but Wynarn is the more prestigious and respected university among the two. Curricula in the University of Wynarn are focused on both mundane and magic-related topics.
   *This would be equivalent to something like MU - a smaller and cheaper school in more of a standard college town, with a decent reputation. Not very selective, and a good range of courses, although less than something bigger like NYU (Morgrave).*
 
-- **Arcanix** is an institute of arcane studies, located in a farming village in the nation of Aundair, on the shores of Lake Galifar. Many of the greatest wizards of Galifar learned their craft within the floating towers of Arcanix. The towers are also home to Aundair's Arcane Congress.
+- **The Floating Towers of Arcanix** is an institute of arcane studies, located in a farming village in the nation of Aundair, on the shores of Lake Galifar. Many of the greatest wizards of Galifar learned their craft within the floating towers of Arcanix. The towers are also home to Aundair's Arcane Congress.
   *This would be a liberal-arts style school, like Truman. Much smaller and more focused in its curriculum, more selective in its attendance, and part of a much smaller town.*
 
 - The **Rekkenmark Academy** is a war college in Rekkenmark, Karrnath. Originally established to produce the greatest military officers for the Kingdom of Galifar, the academy came under Karrnath's control during the Last War, and only recently has reopened to students from other nations.

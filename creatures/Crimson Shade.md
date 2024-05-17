@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 name: Crimson Shade
 size: Medium
 type: Fey

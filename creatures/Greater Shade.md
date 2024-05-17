@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: Homebrew
 image: https://static.wikia.nocookie.net/forgottenrealms/images/f/f9/Shadow_elemental.jpg
 name: Greater Shade
 size: Large
