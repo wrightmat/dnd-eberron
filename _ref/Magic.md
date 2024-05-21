@@ -23,7 +23,31 @@ In a subset of these realities, certain gods may have formed mana more generally
 
 In some realities, select beings are able to channel the mana that forms life itself in order to do work (magical spells), tapping in to what's often called primal magic.
 
-Generally mana is pervasive and relatively equal all over the known universe, and in all planes of reality. But there are a few exceptions where mana groups together or is missing entirely. Dark regions of certain wildspace systems and the general Astral Sea have been discovered, for example the Outer Darkness of Shardspace, or the Dark Regions of the Astral. Some scholars have theorized a sort of inverse mana-like particle that pervades these areas, and have generally taken to calling it "dark matter" or something of the like. Alternatively, rivers of mana are often found in the Astral Sea.
+Generally mana is pervasive and relatively equal all over the known universe, and in all planes of reality. But there are a few exceptions where mana groups together or is missing entirely. Dark regions of certain wildspace systems and the general Astral Sea have been discovered, for example the Outer Darkness of Shardspace, or the Dark Regions of the Astral. Some scholars have theorized a sort of inverse mana-like particle that pervades these areas, and have generally taken to calling it "dark mana" or something of the like. Alternatively, rivers of mana are often found in the Astral Sea.
+
+### 13 Types of Magic
+
+Below is an expanded form of magic types that relates to the Eberron concept of the "Baker's Dozen" (13 minus 1). This system takes the original eight schools of magic, adds two types of "magic" that are prevalent in Eberron (Artifice and Psionics), as well as two types of magic that are used in various settings but aren't represented in the schools (Dunamancy from Wildemount and Wild Magic). Finally, it adds the outlawed magic of Hemomancy - blood magic, that particularly draws its power from dragon blood - as the thirteenth (minus one) school.
+
+The table below also associates each type of magic to a classical element (including the expanded concepts of mind, body, spirit, etc.), a color, a plane of Eberron, and a Dean/School of Strixhaven (limited to the ten of those that exist). It also gives each type a little "tag line", for example Dunamancy being the School of Potentiality and Possibility.
+
+While I don't suggest to add any spells or move any from existing schools, that is something that could be done under this system.
+
+| Type          | Element | Color   | School of…                   | Plane (Eberron) | Dean (Strixhaven)      |
+| ------------- | ------- | ------- | ---------------------------- | --------------- | ---------------------- |
+| Abjuration    | Earth   | Blue    | Protection and Preservation  | Risia           | Perfection (Prismari)  |
+| Conjuration   | Nature  | Green   | Creation and Creatures       | Lamannia        | Root (Witherbloom)     |
+| Divination    | Air     | Cyan    | Discovery and Detection      | Syrania         |                        |
+| Enchantment   | Light   | White   | Influence and …?             | Irian           | Radiance (Silverquill) |
+| Evocation     | Fire    | Red     | Energy and Eruption          | Fernia          | Expression (Prismari)  |
+| Illusion      | Shadow  | Gray    | Subterfuge and Shadow        | Mabar           | Shadow (Silverquill)   |
+| Necromancy    | Death   | Black   | Death and Decay              | Dolurrh         | Vein (Witherbloom)     |
+| Transmutation | Water   | Indigo  | Alteration and Adaptation    | Shavarath       | Substance (Quandrix)   |
+| Artifice      | Life    | Yellow  | Invention and Innovation     | Daanvi          | Order (Lorehold)       |
+| Psionics      | Mind    | Violet  | Mind and Memory              | Dal Quor        |                        |
+| Dunamancy     | Spirit  | Orange  | Potentiality and Possibiilty | Thelanis        | Theory (Quandrix)      |
+| Wild          | Chaos   | Magenta | Chaos and Change             | Kythri          | Chaos (Lorehold)       |
+| Hemomancy     | Blood   | Crimson | Sanguinity and Sacrifice     | Xoriat          |                        |
 
 ### DM Notes and Random Tables
 
@@ -87,3 +111,4 @@ Generally mana is pervasive and relatively equal all over the known universe, an
 ### References
 
 * The Buddhist concept of water becoming a wave and then returning to the water, but the water always being the same - as discussed in The Good Place.
+* https://www.reddit.com/r/UnearthedArcana/comments/dbnf5e/13_schools_of_magic_a_worldspecific_list_with_lore/
