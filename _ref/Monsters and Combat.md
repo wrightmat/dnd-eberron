@@ -193,7 +193,11 @@ You can create a forest version of an existing creature by adding one or more of
 
 
 ##### Swamp
+You can create a swamp version of an existing creature by adding one or more of the following traits to their stat block:
 
+- **Acidic Nature**. The natural acidity of the swamp gives the swamp creature resistance to acid damage. If the creature already has resistance to acid damage, they gain immunity to acid damage instead.
+- **Swamp Stride**. The swamp creature ignores difficult terrain caused by the natural conditions of a swamp.
+- **One with the Swamp**. The swamp creature has advantage on Wisdom (Perception) checks made to perceive creatures within a swamp who don’t have this trait.
 
 ##### Tomb
 You can create a graveyard or tomb version of an existing creature by adding one or more of the following traits to their stat block:
@@ -203,23 +207,29 @@ You can create a graveyard or tomb version of an existing creature by adding one
 - **Undying Hunger**. The tomb creature can perceive each creature within 30 feet of them who isn’t a Construct or an Undead, as if the tomb creature had blindsight.
 
 ##### Underground
+You can create an underground version of an existing creature by adding one or more of the following traits to their stat block:
 
+- **Fungal Infestation**. The underground creature is covered in layers of poisonous fungi. They have immunity to poison damage. The first time the underground creature takes damage on a turn, each creature within 5 feet of them takes PB poison damage.
+- **Shadow Blend**. While in dim light or darkness, the underground creature can take the Hide action as a bonus action.
+- **Underground Senses**. The underground creature gains one of the following senses: darkvision out to a range of 300 feet, tremorsense out to a range of 120 feet, or blindsight out to a range of 60 feet.
 
 ##### Underwater
 
 
 ##### Urban
 You can create an urban or sewer version of an existing creature by adding one or more of the following traits to their stat block:
+
 - **Low-Light Senses**. The urban creature gains blindsight or darkvision out to a range of 60 feet.
-- Used to Filth. The urban creature gains resistance to poison damage and immunity to the poisoned condition. If the creature already has resistance to poison damage, they gain immunity to poison damage instead.
-- Of Unusual Size. If the urban creature is Small or Tiny, their size increases to Medium and their Hit Dice type changes to a d8. This gives them 1 extra hit point per Hit Die if originally Small, or 2 extra hit points per Hit Die if originally Tiny.
+- **Used to Filth**. The urban creature gains resistance to poison damage and immunity to the poisoned condition. If the creature already has resistance to poison damage, they gain immunity to poison damage instead.
+- **Of Unusual Size**. If the urban creature is Small or Tiny, their size increases to Medium and their Hit Dice type changes to a d8. This gives them 1 extra hit point per Hit Die if originally Small, or 2 extra hit points per Hit Die if originally Tiny.
 
 ### References
 
 * 4e mechanics for monster roles
-* Flee! Morals book from MCDM (monster roles, and traits based on environment)
+* "Flee, Morals!" book from MCDM (monster roles, and traits based on environment)
 * https://www.giffyglyph.com/monstermaker/grimoire/2.1.2/en/making_monsters.html (stats and traits based on role)
 * https://www.gmbinder.com/share/-Lyr4Z6BYE3OCJDK6mr9 (traits based on role)
+* https://www.cottageofeverything.com/blog/special-traits-for-dnd-monsters (traits based on creature type)
 * https://theangrygm.com/return-of-the-son-of-the-dd-boss-fight-now-in-5e/ (Paragon monsters)
 * https://www.reddit.com/r/DMAcademy/comments/75frby/monster_roles_in_combat/
 * https://donjon.bin.sh/5e/monsters/
