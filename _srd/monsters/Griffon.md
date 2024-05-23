@@ -30,4 +30,4 @@
 ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

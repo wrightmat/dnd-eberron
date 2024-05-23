@@ -151,4 +151,4 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 ***Split***. When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

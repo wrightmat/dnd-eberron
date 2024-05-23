@@ -31,6 +31,6 @@ If the object touched is either metal armor or a metal shield being worn or carr
 
 
 
-[[Monsters]]
+[[_srd/Monsters]]
 
-[[Monsters]]
+[[_srd/Monsters]]

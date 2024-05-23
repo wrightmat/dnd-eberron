@@ -62,4 +62,4 @@ Saving Throws Wis +0
 
 
 
-[[Monsters]]
+[[_srd/Monsters]]

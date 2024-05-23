@@ -24,4 +24,4 @@
 The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

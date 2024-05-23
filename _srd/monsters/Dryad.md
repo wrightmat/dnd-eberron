@@ -44,4 +44,4 @@ Each time the dryad or its allies do anything harmful to the target, it can repe
 The dryad can have no more than one humanoid and up to three beasts charmed at a time.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

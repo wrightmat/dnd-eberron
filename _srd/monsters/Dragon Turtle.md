@@ -36,4 +36,4 @@
 ***Steam Breath (Recharge 5-6)***. The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

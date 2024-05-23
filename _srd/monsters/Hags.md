@@ -115,4 +115,4 @@ Unless the target is surprised or the revelation of the hag's true form is sudde
 The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

@@ -415,4 +415,4 @@ At will: *detect magic*, *fireball*
 ***Tail***. *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24 (3d10+8) bludgeoning damage.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

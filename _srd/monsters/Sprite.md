@@ -30,4 +30,4 @@
 ***Invisibility***. The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

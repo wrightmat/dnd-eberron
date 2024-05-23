@@ -38,4 +38,4 @@ At will: *disguise self* (any humanoid form), *major image*
 ***Intoxicating Touch***. *Melee Spell Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

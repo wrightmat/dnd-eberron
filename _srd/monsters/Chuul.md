@@ -36,4 +36,4 @@
 ***Tentacles***. One creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

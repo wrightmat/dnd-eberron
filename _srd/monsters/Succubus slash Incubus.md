@@ -41,6 +41,6 @@ Constitution saving throw against this magic, taking 32 (5d10+5) psychic damage 
 
 
 
-[[Monsters]]
+[[_srd/Monsters]]
 
-[[Monsters]]
+[[_srd/Monsters]]

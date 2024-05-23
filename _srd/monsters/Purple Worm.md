@@ -33,6 +33,6 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 
 
-[[Monsters]]
+[[_srd/Monsters]]
 
-[[Monsters]]
+[[_srd/Monsters]]

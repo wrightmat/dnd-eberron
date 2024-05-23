@@ -54,6 +54,6 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 
 
-[[Monsters]]
+[[_srd/Monsters]]
 
-[[Monsters]]
+[[_srd/Monsters]]

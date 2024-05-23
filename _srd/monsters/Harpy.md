@@ -32,4 +32,4 @@ While charmed by the harpy, a target is incapacitated and ignores the songs of o
 A target that successfully saves is immune to this harpy's song for the next 24 hours.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

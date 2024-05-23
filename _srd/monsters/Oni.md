@@ -42,4 +42,4 @@ At will: *darkness*, *invisibility*
 ***Change Shape***. The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

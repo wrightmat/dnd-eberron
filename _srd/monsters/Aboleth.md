@@ -49,4 +49,4 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 **Psychic Drain (Costs 2 Actions)**. One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

@@ -32,4 +32,4 @@
 ***Longbow***. *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

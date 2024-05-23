@@ -24,4 +24,4 @@
 ***Acid Spray (Recharge 6)***. The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

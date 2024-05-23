@@ -38,4 +38,4 @@
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) piercing damage plus 4 (1d8) acid damage.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

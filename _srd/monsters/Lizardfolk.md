@@ -34,4 +34,4 @@
 ***Spiked Shield***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

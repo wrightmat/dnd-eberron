@@ -121,6 +121,6 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 
 
-[[Monsters]]
+[[_srd/Monsters]]
 
-[[Monsters]]
+[[_srd/Monsters]]

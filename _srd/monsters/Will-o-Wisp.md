@@ -38,4 +38,4 @@
 ***Invisibility***. The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
 
 
-[[Monsters]]
+[[_srd/Monsters]]

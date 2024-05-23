@@ -30,4 +30,4 @@
 ***Shortbow***. *Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:* 6 (1d6+3) piercing damage.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

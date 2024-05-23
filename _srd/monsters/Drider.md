@@ -44,4 +44,4 @@ At will: *dancing lights*
 ***Longbow***. *Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8+3) piercing damage plus 4 (1d8) poison damage.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

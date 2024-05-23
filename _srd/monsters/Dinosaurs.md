@@ -83,4 +83,4 @@ If the target is prone, the triceratops can make one stomp attack against it as 
 ***Tail***. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 20 (3d8+7) bludgeoning damage.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

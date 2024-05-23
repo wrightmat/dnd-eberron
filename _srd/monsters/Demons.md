@@ -322,4 +322,4 @@ At will: *darkness*, *detect magic*, *dispel magic*
 ***Stunning Screech (1/Day)***. The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

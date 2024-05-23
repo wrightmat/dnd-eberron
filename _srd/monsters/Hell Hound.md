@@ -32,4 +32,4 @@
 ***Fire Breath (Recharge 5-6)***. The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

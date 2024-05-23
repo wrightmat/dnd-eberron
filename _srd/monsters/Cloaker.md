@@ -42,4 +42,4 @@ Whenever any creature targets the cloaker with an attack or a harmful spell whil
 A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

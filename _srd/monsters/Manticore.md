@@ -30,4 +30,4 @@
 ***Tail Spike***. *Ranged Weapon Attack:* +5 to hit, range 100/200 ft., one target. *Hit:* 7 (1d8+3) piercing damage.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

@@ -30,4 +30,4 @@
 ***Touch***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

@@ -212,4 +212,4 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 ***Lightning Strike (Recharge 5-6)***. The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

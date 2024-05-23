@@ -147,4 +147,4 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8+4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

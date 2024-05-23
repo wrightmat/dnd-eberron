@@ -62,4 +62,4 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 **Disrupt Life (Costs 3 Actions)**. Each non-undead creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

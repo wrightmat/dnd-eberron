@@ -83,4 +83,4 @@ At will: *detect magic*
 ***Hurl Flame***. *Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 17 (5d6) fire damage.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

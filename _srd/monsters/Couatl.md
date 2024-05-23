@@ -47,6 +47,6 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 
 
-[[Monsters]]
+[[_srd/Monsters]]
 
-[[Monsters]]
+[[_srd/Monsters]]

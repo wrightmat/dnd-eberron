@@ -118,4 +118,4 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 **Cast a Spell (Costs 3 Actions)**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

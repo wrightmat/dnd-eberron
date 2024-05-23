@@ -30,4 +30,4 @@
 ***Harpoon***. *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 11 (2d6+3) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
 
 
-[[Monsters]]
+[[_srd/Monsters]]

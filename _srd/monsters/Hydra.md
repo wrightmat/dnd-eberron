@@ -39,6 +39,6 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 
 
-[[Monsters]]
+[[_srd/Monsters]]
 
-[[Monsters]]
+[[_srd/Monsters]]

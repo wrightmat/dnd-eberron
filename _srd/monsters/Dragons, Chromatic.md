@@ -793,4 +793,4 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 ***Cold Breath (Recharge 5-6)***. The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 
-[[Monsters]]
+[[_srd/Monsters]]
