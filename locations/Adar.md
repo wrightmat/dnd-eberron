@@ -131,6 +131,8 @@ The Adarans' love of craft manifests in a variety of jewelry. From glass beadwor
 
 During the summer of the Quiet Year, Adar established Olympics-like games ("Unity Games") for competitive art. The first one took place the following summer, and every summer since, opening it up to the rest of Sarlona. Eventually the number of events expanded, but kept specific to the monastic style of Adar. The events below are presented in the order that they've been added to the games, with the last event listed being brand new this year (and still kept secret).
 
+The Opening Ceremony of the Unity Games always takes place on the first day before any events, and consists of a group of Adaran blue dragons flying overhead like the Blue Angels jets.
+
 ##### 1. The Canvas of Souls
 - In this competitive art event (the first event of the games in honor of it being the only event in the first games), participants create artwork that reflects their personal interpretation of life's journey and spiritual growth. Each artist is provided with materials that represent the four elements — earth, air, fire, and water — as symbols of the life force that binds the universe. The artists must use these elements in their creations, which can range from paintings and sculptures to mixed media installations.
 - A Charisma (Performance) check, with any appropriate tool proficiencies added, and extra bonuses for creativity, determines how many points they get (15+ is 1 point, and 20+ is 2 points).
