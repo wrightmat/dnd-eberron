@@ -32,6 +32,7 @@ Urthhold is a small coastal town that grew around a barely maintained road that 
 - **Vilberg Dargakk** (male half-orc). Shopkeeper.
 - **Gilbert** (male half-orc). Meat market owner.
 - **Mumpena Daergel** (female half-orc). Blacksmith.
+- **Boruk "Ironfist" Vonn** (male half-orc). The dockmaster, and a towering half-orc with a muscular build, standing at 6'5". His skin is a dark green, marred with scars from old battles and accidents at the docks. His most distinctive feature is his right arm, which has been replaced with a finely crafted iron prosthetic, giving him the nickname "Ironfist." His eyes are a piercing amber, always scanning the docks with a watchful gaze. He often wears a leather vest and sturdy boots, suitable for the rugged work of a dockmaster. Boruk is known for his stern and no-nonsense attitude. He runs the docks with an iron fist, ensuring everything runs smoothly and efficiently.
 
 ### Locations
 
