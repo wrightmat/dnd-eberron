@@ -38,7 +38,7 @@ Tailored to Thana, where the Moonblade is received. Purple difficulty (average C
 Tailored to Verity, where the Platinum Scarf is received. Blue difficulty (average CR 6, max CR 10). The Lantern of Seeking command word for Celestials is found here.
 
 ##### [[2-04. Mystic Glade and Vvaraak's Cave]]
-Goal is to elucidate the black dragons, Order of the Onyx Scale, and give the party the opportunity to gain an ally. Blue difficulty (average CR 6, max CR 10). The Lantern of Seeking command word for Aberrations is found here.
+Goal is to elucidate the black dragons (and the Order of the Onyx Scale), the dragon plot generally, and possibly give the party an opportunity to gain allies. Blue difficulty (average CR 6, max CR 10). The Lantern of Seeking command word for Aberrations is found here.
 
 ##### [[2-05. Labyrinth of the Lantern's Light]]
 This is a way to fully empower the Lantern of Seeking. Possibly also reveal some additional information about the world, and/or give the party the opportunity to gain an ally (the Steel Dragon NPC might be good here). Green difficulty (average CR 7, max CR 12). The Lantern of Seeking command words for Fiends, Elementals or Oozes, and Constructs are all found here.

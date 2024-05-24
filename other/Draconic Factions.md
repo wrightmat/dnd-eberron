@@ -246,18 +246,18 @@ The tracts below are listed in the general order that the PCs are expected to en
 * The table below can be used for potions made from dragon parts, draconic ales, or anything else.
 
 
-| dice:d10 | Dragon Color | Potion Effect                       |
-| -------- | ------------ | ----------------------------------- |
-| 1        | White        | Resistance to Cold damage           |
-| 2        | Black        | Resistance to Acid damage           |
-| 3        | Green        | Resistance to Poison damage         |
-| 4        | Red          | Resistance to Fire damage           |
-| 5        | Blue         | Resistance to Lightning damage      |
-| 6        | Brass        | Immunity to Petrified condition     |
-| 7        | Bronze       | Immunity to Charmed condition       |
-| 8        | Copper       | Immunity to Incapacitated condition |
-| 9        | Silver       | Immunity to Paralyzed condition     |
-| 10       | Gold         | Immunity to Stunned condition       |
+| dice: 1d10 | Dragon Color | Potion Effect                       |
+| ---------- | ------------ | ----------------------------------- |
+| 1          | White        | Resistance to Cold damage           |
+| 2          | Black        | Resistance to Acid damage           |
+| 3          | Green        | Resistance to Poison damage         |
+| 4          | Red          | Resistance to Fire damage           |
+| 5          | Blue         | Resistance to Lightning damage      |
+| 6          | Brass        | Immunity to Petrified condition     |
+| 7          | Bronze       | Immunity to Charmed condition       |
+| 8          | Copper       | Immunity to Incapacitated condition |
+| 9          | Silver       | Immunity to Paralyzed condition     |
+| 10         | Gold         | Immunity to Stunned condition       |
 ^random-dragon-color
 
 ### References
