@@ -39,7 +39,9 @@ Now she lives in Dar Ulatesh (the largest city) in Rhiavhaar and does odd funera
 
 ### Family
 
-Thana has no family in Sarlona, but has at least some family alive in Aerenal. Her uncle, Elyon, is an Deathguard Warden in Shae Cairdal, whose domain is Sarlona
+Thana has no family in Sarlona, but has at least some family alive in Aerenal. Her uncle, Elyon, is an Deathguard Warden in Shae Cairdal, whose domain is Sarlona.
+
+Her father has similar hair and such as her, while her mother has similar features with blonde hair.
 
 Her grandmother ("mee-maw") is a Deathless who is entombed in the basement of the Temple to the Undying Court in Shae Cairdal.
 
