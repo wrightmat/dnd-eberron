@@ -57,9 +57,9 @@ Most tied to Aither's backstory, but mostly a way to get to Argonnessen without 
 * Final adventure where the players confront the topaz dragons and try to prevent their ritual to release Tiamat. Mechanics should really lean into the idea of order versus chaos.
 * BBEG: Ancient Topaz Dragon (CR 20), with modifications, used for [[characters/Arstyvrax|Arstyvrax]].
 * Final Battle:
-	* Part 1: Topaz dragons, probably as a swarm
-	* Part 2: Arstyvrax, who then flies off after completing the first half of his ritual
-	* Part 3: Avatar of Tiamat, who appears as sort of a shadow of the Overlord as the ritual works to finish her release
+	* Part 1: Topaz dragons - probably as a swarm, or using the Warriors of Krynn game mechanics.
+	* Part 2: Arstyvrax, who then flies off after completing the first half of his ritual.
+	* Part 3: Avatar of Tiamat, who appears as sort of a shadow of the Overlord as the ritual works to finish her release.
 	* Part 4: Arstyvrax, who returns to finish off his ritual, and the players!
 * Monsters: Gem Stalker (FtoD), Andrenjinyi (ToB1), Haugbui (ToB1)
 * Use the Talons of Tiamat as a foil to the players while here, possibly secretly hunting them from the shadows.

@@ -12,9 +12,9 @@ This scarf is made of Syranian silk and covered in platinum-colored scales. As a
 - **Level 3**: The scarf holds 8 scales, which regrow at dawn.
 
 ##### Slot 2
-* Level 1: The scale disappears, and you or a creature you touch regains 5d4 hit points.
-* Level 2: The scale disappears, and you or a creature you touch regains 10d4 hit points.
-* Level 3: The scale disappears, and you or a creature you choose within 30 feet regains 10d4 hit points.
+* **Level 1**: The scale disappears, and you or a creature you touch regains 5d4 hit points.
+* **Level 2**: The scale disappears, and you or a creature you touch regains 10d4 hit points.
+* **Level 3**: The scale disappears, and you or a creature you choose within 30 feet regains 10d4 hit points.
 
 ##### Slot 2 Alternate
 * **Level 1**: An illusion of a dragon, your choice of appearance, forms over the thrown scale and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm.
