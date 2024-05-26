@@ -24,7 +24,9 @@ region: "[[Argonnessen]]"
 > ###### Comments
 > `=this.comments`
 
-Strixhaven University is located on the continent of Argonnessen,
+Strixhaven University is located on north end of the continent of Argonnessen, on the east end of the Great Barrier, south of the Wyrmsfang Jungle. The school was started by five dragons many centuries ago, and has since strived to attract only the most spectacular students from across Eberron, recruiting entirely in secret.
+
+The Wyrmsfang Jungle is the ancestral home of the Owlin people, who have become a common sight at the University over the centuries.
 
 ### Characters
 
@@ -44,12 +46,16 @@ The Quandrix school is located on the northeast of campus.
 
 #### Witherbloom
 
-The Witherbloom school is located on the southeast of campus. The 
+The Witherbloom school is located on the southeast of campus, among the large green region.
 
 #### Prismari
 
+The Prismari school is located on the southwest of campus.
+
 #### Lorehold
+
+The Lorehold school is located on the northwest of campus, within the Fang Crater.
 
 ### References
 
-* https://eberron.fandom.com/wiki/Arcanix
+* Strixhaven: A Curriculum of Chaos
