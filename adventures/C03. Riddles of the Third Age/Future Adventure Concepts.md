@@ -52,10 +52,13 @@ Final challenge in Khorvaire, and fulfillment of the party's promise to Reigney.
 ##### [[2-08. Passage Through the Crystal Library]]
 Most tied to Aither's backstory, but mostly a way to get to Argonnessen without being detected. Should also be a fun final challenge for all of the players, and a way to teach a lesson. Red difficulty (average CR 10, max CR 17). The Lantern of Seeking command word for Dragons is found here.
 
-#### The Tapestry
-Some challenge here, when they emerge from 
+#### The Tapestry and The Vast
+* Some challenge(s) here, when the PCs emerge from the Crystal Library at Vorel’arux in the Tapestry. A unique challenge in the Tapestry (where non-dragons would be mostly ignored or treated as pets or pests) as well as The Vast (where there are fewer dragons of more different types, and non-dragons are entirely ignored), as the players traverse Argonnessen to get to the Pit of Five Sorrows.
+* There should be some information given out here about the Light of Siberys and their existing work to protect the Pit of Five Sorrows.
 
-##### The Vast
+##### The Pit of Five Sorrows
+* The Pit of Five Sorrows is a chasm in Argonnessen that is the prison for the Overlord Tiamat, the Daughter of Khyber. The chasm is heavily guarded by the forces of the Light of Siberys.
+	* Should set up the Pit of Five Sorrows as a front between the topaz dragons (led by Loredrake Arstyvrax) and the Light of Siberys (led by Lightkeeper Dolarashynach).
 * Final adventure where the players confront the topaz dragons and try to prevent their ritual to release Tiamat. Mechanics should really lean into the idea of order versus chaos.
 * BBEG: Ancient Topaz Dragon (CR 20), with modifications, used for [[characters/Arstyvrax|Arstyvrax]].
 * Final Battle:
