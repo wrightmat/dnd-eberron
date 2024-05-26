@@ -39,6 +39,7 @@ marker: default,-23.241346102386135,53.876953125,,Strixhaven University,,
 * **Seren Island**
 * **Observatory of Tyrass**
 * **Totem Beach**
+* **Wyrmsfang Jungle**. The ancestral home of the rare Owlin, and where a manifest zone to Thelanis is hidden.
 * **Strixhaven University**
 
 ### History
