@@ -52,8 +52,10 @@ Final challenge in Khorvaire, and fulfillment of the party's promise to Reigney.
 ##### [[2-08. Passage Through the Crystal Library]]
 Most tied to Aither's backstory, but mostly a way to get to Argonnessen without being detected. Should also be a fun final challenge for all of the players, and a way to teach a lesson. Red difficulty (average CR 10, max CR 17). The Lantern of Seeking command word for Dragons is found here.
 
-##### The Vast
+#### The Tapestry
+Some challenge here, when they emerge from 
 
+##### The Vast
 * Final adventure where the players confront the topaz dragons and try to prevent their ritual to release Tiamat. Mechanics should really lean into the idea of order versus chaos.
 * BBEG: Ancient Topaz Dragon (CR 20), with modifications, used for [[characters/Arstyvrax|Arstyvrax]].
 * Final Battle:
