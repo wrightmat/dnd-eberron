@@ -55,10 +55,16 @@ Most tied to Aither's backstory, but mostly a way to get to Argonnessen without 
 #### The Tapestry and The Vast
 * Some challenge(s) here, when the PCs emerge from the Crystal Library at Vorel’arux in the Tapestry. A unique challenge in the Tapestry (where non-dragons would be mostly ignored or treated as pets or pests) as well as The Vast (where there are fewer dragons of more different types, and non-dragons are entirely ignored), as the players traverse Argonnessen to get to the Pit of Five Sorrows.
 * There should be some information given out here about the Light of Siberys and their existing work to protect the Pit of Five Sorrows.
+* Probably run these areas as a point crawl. Possible encounters:
+	* A non-dragon of some sort running away from somewhere. He's fleeing from a dragon master, who was keeping him captive.
+	* Someone should try to take their Orb of Dragonkind
+	* A dragon who discovers them while traveling. They must explain themselves and why they're here, or get eaten.
+	* 
 
 ##### The Pit of Five Sorrows
 * The Pit of Five Sorrows is a chasm in Argonnessen that is the prison for the Overlord Tiamat, the Daughter of Khyber. The chasm is heavily guarded by the forces of the Light of Siberys.
 	* Should set up the Pit of Five Sorrows as a front between the topaz dragons (led by Loredrake Arstyvrax) and the Light of Siberys (led by Lightkeeper Dolarashynach).
+	* Also work in the Talons of Tiamat somewhere. Likely as a foil to the Light of Siberys to explain why they haven't already squashed the topaz dragons and their plan.
 * Final adventure where the players confront the topaz dragons and try to prevent their ritual to release Tiamat. Mechanics should really lean into the idea of order versus chaos.
 * BBEG: Ancient Topaz Dragon (CR 20), with modifications, used for [[characters/Arstyvrax|Arstyvrax]].
 * Final Battle:
@@ -66,7 +72,7 @@ Most tied to Aither's backstory, but mostly a way to get to Argonnessen without 
 	* Part 2: Arstyvrax, who then flies off after completing the first half of his ritual.
 	* Part 3: Avatar of Tiamat, who appears as sort of a shadow of the Overlord as the ritual works to finish her release.
 	* Part 4: Arstyvrax, who returns to finish off his ritual, and the players!
-* Monsters: Gem Stalker (FtoD), Andrenjinyi (ToB1), Haugbui (ToB1)
+* Monsters: Gem Stalker (FtoD), Andrenjinyi (ToB1), Haugbui (ToB1), Gray Render (CR 12, MotM), Displacer Beast (CR 3, MM), Umber Hulk (CR 5, MM), Venom Troll (CR 7, MotM), dinosaurs, dire animals, and all types of dragons.
 * Use the Talons of Tiamat as a foil to the players while here, possibly secretly hunting them from the shadows.
 
 ### Magic Items
