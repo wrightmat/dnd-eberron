@@ -49,25 +49,14 @@ Probably taliored to Staff. An opportunity to give more information about Arstyv
 ##### [[2-07. Stygianos the Carrion Sphinx]]
 Final challenge in Khorvaire, and fulfillment of the party's promise to Reigney. Could be the location of the Draakhorn? Yellow difficulty (average CR 9, max CR 15).
 
-##### [[2-08. Passage Through the Crystal Library]]
+##### [[2-08. Through the Crystal Library]]
 Most tied to Aither's backstory, but mostly a way to get to Argonnessen without being detected. Should also be a fun final challenge for all of the players, and a way to teach a lesson. Red difficulty (average CR 10, max CR 17). The Lantern of Seeking command word for Dragons is found here.
 
-#### The Tapestry and The Vast
+##### [[2-09 Traversing Argonnessen]]
+The players emerge from the Crystal Library of Azalakardon in Argonnessen, and must traverse the center of the continent in order to get to Arstyvrax and his topaz dragons. This is run as a point crawl, with five major points (scenes below) and several minor connections that mostly lead to random encounters. Maybe of these involve dragons finding out the players, who should be traipsing across the continent unaccompanied.
 
-
-##### The Pit of Five Sorrows
-* The Pit of Five Sorrows is a chasm in Argonnessen that is the prison for the Overlord Tiamat, the Daughter of Khyber. The chasm is heavily guarded by the forces of the Light of Siberys.
-	* Should set up the Pit of Five Sorrows as a front between the topaz dragons (led by Loredrake Arstyvrax) and the Light of Siberys (led by Lightkeeper Dolarashynach).
-	* Also work in the Talons of Tiamat somewhere. Likely as a foil to the Light of Siberys to explain why they haven't already squashed the topaz dragons and their plan.
-* Final adventure where the players confront the topaz dragons and try to prevent their ritual to release Tiamat. Mechanics should really lean into the idea of order versus chaos.
-* BBEG: Ancient Topaz Dragon (CR 20), with modifications, used for [[characters/Arstyvrax|Arstyvrax]].
-* Final Battle:
-	* Part 1: Topaz dragons - probably as a swarm, or using the Warriors of Krynn game mechanics.
-	* Part 2: Arstyvrax, who then flies off after completing the first half of his ritual.
-	* Part 3: Avatar of Tiamat, who appears as sort of a shadow of the Overlord as the ritual works to finish her release.
-	* Part 4: Arstyvrax, who returns to finish off his ritual, and the players!
-* Monsters: Gem Stalker (FtoD), Andrenjinyi (ToB1), Haugbui (ToB1), Gray Render (CR 12, MotM), Displacer Beast (CR 3, MM), Umber Hulk (CR 5, MM), Venom Troll (CR 7, MotM), dinosaurs, dire animals, and all types of dragons.
-* Use the Talons of Tiamat as a foil to the players while here, possibly secretly hunting them from the shadows.
+##### [[2-10 The Final Battle]]
+The final battle will be a multi-phase combat and roleplay encounter of some sort (scenes below), taking place near the Pit of Five Sorrows in Argonnessen.
 
 ### Magic Items
 
