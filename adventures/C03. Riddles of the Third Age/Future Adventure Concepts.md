@@ -55,7 +55,7 @@ Most tied to Aither's backstory, but mostly a way to get to Argonnessen without 
 #### The Tapestry and The Vast
 * Some challenge(s) here, when the PCs emerge from the Crystal Library at Vorel’arux in the Tapestry. A unique challenge in the Tapestry (where non-dragons would be mostly ignored or treated as pets or pests) as well as The Vast (where there are fewer dragons of more different types, and non-dragons are entirely ignored), as the players traverse Argonnessen to get to the Pit of Five Sorrows.
 * There should be some information given out here about the Light of Siberys and their existing work to protect the Pit of Five Sorrows.
-* Probably run these areas as a point crawl. Possible encounters:
+* Probably run these areas as a point crawl. Possible encounters (more in Dragons of Eberron, page 63):
 	* A non-dragon of some sort running away from somewhere. He's fleeing from a dragon master, who was keeping him captive.
 	* Someone should try to take their Orb of Dragonkind
 	* A dragon who discovers them while traveling. They must explain themselves and why they're here, or get eaten.
