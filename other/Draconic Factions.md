@@ -32,7 +32,7 @@ Each of the "Orders" are essentially secret societies where the membership is ge
 
 #### Orders of the Scale
 
-Each of these Orders is composed of the followers of a chromatic dragon leader. They mark their membership by wearing a small ornament made of a dragon scale from their leader somewhere on them (usually hidden), which operates mechanically as a [[Scaled Ornament]]. The ranks of each Order are roughly as follows:
+Each of these Orders is composed of the followers of a chromatic dragon leader. They mark their membership by wearing a small ornament made of a dragon scale from their leader somewhere on them (usually hidden), which operates mechanically as a [[Scaled Ornament]] (but only for members of the Order). The ranks of each Order are roughly as follows:
 
 * Initiates wear a tiny scale of the Slumbering (Uncommon) rarity, always in the form of a badge they must wear hidden.
 * Regular members wear a small scale of the Stirring (Rare) rarity, and may wear it as they choose.
