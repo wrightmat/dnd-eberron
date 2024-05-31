@@ -47,4 +47,4 @@ _Gray and amorphous, this creature skulks along the stone floor. Its body appear
 
 ### References
 
-* Tome of Beasts 1, pg. 280
+* Tome of Beasts 2, pg. 280

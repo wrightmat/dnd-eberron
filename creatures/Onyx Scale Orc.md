@@ -1,3 +1,6 @@
+---
+statblock: inline
+---
  #monster 
 
 ```statblock
