@@ -16,8 +16,10 @@
 
 ### Scenes and Situations
 
- - [ ]  **Vorel'arux**
+ - [ ]  **[[Vorel’Arux]]**
 
+* The players emerge from the Library into a long-forgotten storm sewer that runs under the city of Vorel'arux. Ironically, the long lost Crystal Library of Azalakardon was literally under the dragons' feet the whole time! As the last player emerges, the door to the library (a non-descript stone wall-like structure) closes on its own.
+* The sewer snakes under the entire city, allowing the players to access all major locations. But it doesn't go outside of the city, and the players will need to navigate the perimeter wall in order to get outside. Players would also need to emerge from the sewer in order to interact with anything they can see from within the sewers (such as the scrying Fountain).
 * 
 
  - [ ]  **The Tapestry**
