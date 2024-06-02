@@ -38,7 +38,9 @@ The center of the Tapestry is Vorel’arux, the Valley of Beauty. In this haven 
 
 ### Characters
 
-* 
+* **Valthyrian the Watchful** (male mercury dragon). Valthyrian is an imposing adult mercury dragon with scales that glint like polished metal in the sunlight. His eyes are a deep orange, and they flit around constantly keeping awareness of his surroundings. His wings are broad and powerful, and his sleek and serpentine body ends with a whip-like tail. Valthyrian is known for his vigilance and unwavering sense of duty.
+* **Thyrlossia the Veiled** (female iron dragon). Thyrlossia is a graceful adult iron dragon with shimmering scales with silver highlights. Her eyes are a bright silver, almost reflective, and her presence exudes an imposing aura. Her wings are sleek and agile, allowing her to maneuver effortlessly through the skies. Thyrlossia is known for her calm demeanor and her strategic mind. She is a patient observer, preferring to analyze situations thoroughly before taking action. She is compassionate and empathetic, often taking time to understand the needs and concerns of the inhabitants of Vorel’Arux. However, she is also a fierce protector, unyielding when the city’s safety is at stake.
+* **Anthissalara the Seer** (female blue dragon). Anthissalara is an imposing ancient blue dragon with scales that shimmer like sapphires. Her eyes are a striking electric blue, glowing with arcane power. Her horns curve elegantly back from her head, and her wings are adorned with intricate patterns that seem to shift and change with her movements. She has a regal bearing, and her presence commands respect and attention. Anthissalara is known for her sharp intellect and her keen insight into the Draconic Prophecy. She is highly analytical and strategic, often seeing patterns and connections that others miss. Despite her formidable power, she prefers to operate from the shadows, using her abilities to observe and manipulate events from afar. She values knowledge and information above all else and is often more interested in the big picture than in individual details.
 
 ### Locations
 
