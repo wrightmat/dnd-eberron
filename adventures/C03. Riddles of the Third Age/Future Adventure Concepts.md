@@ -34,10 +34,10 @@ Goal is to elucidate the blue dragons, Order of the Sapphire Scale, and give the
 ##### [[2-02. The Moon Temple]]
 Tailored to Thana, where the Moonblade is received. Purple difficulty (average CR 5, max CR 8). The Lantern of Seeking command word for Fey or Plants is found here.
 
-##### [[2-03. Echoes of the Celestial Realm]]
+##### [[2-04. Echoes of the Celestial Realm]]
 Tailored to Verity, where the Platinum Scarf is received. Blue difficulty (average CR 6, max CR 10). The Lantern of Seeking command word for Celestials is found here.
 
-##### [[2-04. Mystic Glade and Vvaraak's Cave]]
+##### [[2-03. Mystic Glade and Vvaraak's Cave]]
 Goal is to elucidate the black dragons (and the Order of the Onyx Scale), the dragon plot generally, and possibly give the party an opportunity to gain allies. Blue difficulty (average CR 6, max CR 10). The Lantern of Seeking command word for Aberrations is found here.
 
 ##### [[2-05. Labyrinth of the Lantern's Light]]

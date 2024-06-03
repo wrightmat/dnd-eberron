@@ -27,6 +27,10 @@
 	* **Archives**. The sewers end abruptly at a wall similar to the one the party emerged from when leaving the Library. Those observing the wall see a kobold open it up, look around, and return inside. This same event occurs every hour, and the players may interact with the kobold (Skribble) if they choose, even possibly convincing him to let them inside. In that case, he might agree to help the players gather any information they may need. For every hour spent in the Archives, roll a d20 to determine if the patrol dragons check in - with them appearing on a 18+ (and this number decreasing by one for every additional hour spend in the Archives).
 * Two dragons patrol the city - Valthyrian the Watchful and Thyrlossia the Veiled. Any time the players exit the sewers, they must roll a group Stealth check against the dragons' Passive Perception scores (22 and 20, respectively). If discovered, the patrolling dragons will warn the players only once, telling them to leave the city immediately. If discovered a second time, the party will be picked up by the dragons and flown out of the city, then dropped just outside of the wall (taking 7d6 bludgeoning damage from the 70 foot fall).
 
+ - [ ]  **Gix'kuhri**
+
+* This river divides Vorel'Arux from The Tapestry, and serves as a barrier for the players. At its narrowest, near Vorel'Arux, the river is 15 miles across.
+
  - [ ]  **The Tapestry**
 
 * 

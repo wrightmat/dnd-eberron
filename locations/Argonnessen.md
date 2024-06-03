@@ -45,10 +45,11 @@ marker: default,-23.241346102386135,53.876953125,,Strixhaven University,,
 	* **Fang Crater.** This pit is hundreds of miles across and punches deep into the earth. The stone rim is blackened and smooth, and volcanic gases rise from cracks and vents in the walls. The crater was caused by a planar incursion from Fernia, when forces from the Sea of Fire flooded into Argonnessen. The Light of Siberys repelled the assault, and the loredrakes sealed the rift. Still, a manifest zone to Fernia remains at the very center of the crater — a pit of lava more than a mile wide.
 	* **Nestling Plateau**. This region is set aside for the youngest members of the Vast. It is essentially a training ground, where newcomers can test their wits against each other before claiming a dominion in the Vast proper. It’s rare to encounter a dragon older than a young adult here. However, if adventurers or other nondragons take advantage of this — slaying too many of the dragons or stealing their rightful prey — it should attract the attention of one of the great wyrms who maintains the Vast.
 	* **Totem Beach**. Massive idols are spread across the northwestern coast of Argonnessen, carved to resemble the heads of mighty dragons. The Serens consider this sacred ground, and often gather along the beach to perform holy rites. Most of the Seren tribes have a patron (whom they consider to be a god) among the lords of the Vast. A few dominion lords have given their tribes permission to settle along the beach and the in Great Barrier Mountains, and these Serens fiercely defend this territory from foreign invaders. 
-	* **Observatory of Tyrass**
+	* **Observatory of Tyrass**.
 	* **Wyrmsfang Jungle**. The ancestral home of the rare Owlin, and where a manifest zone to Thelanis is hidden.
-	* **Strixhaven University**
-* **Seren Island**
+	* **Strixhaven University**.
+* **Gix'kuhri**. Draconic for "Claw River", this river snakes across most of northern Argonnessen. It also serves to split The Tapestry from both The Thousand (near the city of Vorel'Arux) and The Great Barrier (near Strixhaven University).
+* **Seren Island**.
 
 ### History
 

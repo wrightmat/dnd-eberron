@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"5652966d1dc8f87b","x":300,"y":0,"width":260,"height":100,"type":"file","file":"locations/Vorel’Arux.md"},
+		{"id":"010d234678d477aa","x":-560,"y":100,"width":250,"height":60,"type":"text","text":"The Pit of Five Sorrows"},
+		{"id":"447a0871d21bb350","x":-210,"y":30,"width":310,"height":100,"type":"file","file":"locations/Io'lokar.md"},
+		{"id":"bd8e086e0f838274","x":-180,"y":-280,"width":180,"height":60,"type":"text","text":"The Vast"},
+		{"id":"c935033bcf90485e","x":-510,"y":-160,"width":200,"height":60,"type":"text","text":"Nestling Plateau"},
+		{"id":"17a8677fc9d4c20b","x":320,"y":-130,"width":160,"height":60,"type":"text","text":"Gix'kuhri"},
+		{"id":"e47693a23fc23e54","x":100,"y":-220,"width":180,"height":60,"type":"text","text":"The Tapestry"}
+	],
+	"edges":[
+		{"id":"30e8df67669d6895","fromNode":"bd8e086e0f838274","fromSide":"right","toNode":"e47693a23fc23e54","toSide":"left","fromEnd":"arrow"},
+		{"id":"05a8c79546b5dc9f","fromNode":"bd8e086e0f838274","fromSide":"left","toNode":"c935033bcf90485e","toSide":"right","fromEnd":"arrow"},
+		{"id":"6b8ad34a63f4ca8f","fromNode":"c935033bcf90485e","fromSide":"left","toNode":"010d234678d477aa","toSide":"left","fromEnd":"arrow"},
+		{"id":"c036efd59b9c802b","fromNode":"010d234678d477aa","fromSide":"right","toNode":"447a0871d21bb350","toSide":"left","fromEnd":"arrow"},
+		{"id":"a09d254c7396b8ea","fromNode":"c935033bcf90485e","fromSide":"bottom","toNode":"010d234678d477aa","toSide":"top","fromEnd":"arrow"},
+		{"id":"3ac8954968928849","fromNode":"bd8e086e0f838274","fromSide":"bottom","toNode":"447a0871d21bb350","toSide":"top","fromEnd":"arrow"},
+		{"id":"cf155e976e0dd2e1","fromNode":"e47693a23fc23e54","fromSide":"right","toNode":"17a8677fc9d4c20b","toSide":"left","fromEnd":"arrow"},
+		{"id":"0a8805ffd9974b09","fromNode":"17a8677fc9d4c20b","fromSide":"bottom","toNode":"5652966d1dc8f87b","toSide":"top","fromEnd":"arrow"},
+		{"id":"300f6d05d637121b","fromNode":"e47693a23fc23e54","fromSide":"bottom","toNode":"447a0871d21bb350","toSide":"right","fromEnd":"arrow"}
+	]
+}

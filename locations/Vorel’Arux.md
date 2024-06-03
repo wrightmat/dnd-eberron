@@ -7,7 +7,7 @@ image:
 location:
 ---
 
- #location
+ #location [[Argonnessen]]
 
 > [!infobox]
 > # `=this.file.name`
