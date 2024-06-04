@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+image: https://www.dndbeyond.com/avatars/thumbnails/30833/355/1000/1000/638063862056716335.png
 name: Medusa
 size: Medium
 type: Monstrosity
@@ -26,6 +27,7 @@ condition_immunities: poisoned
 senses: darkvision 60 ft., passive Perception 14
 languages: Common
 cr: 6
+role: Controller
 actions:
   - name: Multiattack.
     desc: "The medusa uses Stone Gaze and makes two attacks using Snake Bite, Heavy Crossbow, or both."

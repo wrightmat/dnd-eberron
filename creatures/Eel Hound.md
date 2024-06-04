@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ToB1
 name: Eel Hound
 size: Medium
 type: Fey

@@ -23,6 +23,7 @@ damage_immunities: Poison, Psychic; Bludgeoning, Piercing, and Slashing from Non
 condition_immunities: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned, Stunned
 senses: Darkvision 60 ft., Passive Perception 17
 languages: --
+role: Skirmisher
 cr: 12
 traits:
   - name: Charge.

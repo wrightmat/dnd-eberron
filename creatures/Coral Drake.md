@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ToB1
 name: Coral Drake
 size: Medium
 type: Dragon
