@@ -73,7 +73,7 @@
 - [[Lycanthropes]]
 - [[Magmin]]
 - [[Manticore]]
-- [[Medusa]]
+- [[_srd/monsters/Medusa]]
 - [[Mephits]]
 - [[Merfolk]]
 - [[Merrow]]
