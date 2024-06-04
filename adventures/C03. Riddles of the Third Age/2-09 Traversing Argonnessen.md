@@ -29,7 +29,8 @@
 
  - [ ]  **Gix'kuhri**
 
-* This river divides Vorel'Arux from The Tapestry, and serves as a barrier for the players. At its narrowest, near Vorel'Arux, the river is 15 miles across.
+* This river divides Vorel'Arux from The Tapestry, and serves as a barrier for the players. At its narrowest, near Vorel'Arux, the river is several miles across. The players may choose to create a boat of some sort, use magic creatively, or simply try to traverse on foot.
+* The players must each make a Strength check (DC 15) to attempt to cross the waters safely on foot. This check is made with disadvantage if the character is unable to stand in the water or has just been thrown into it. If a character fails this check, it is immediately pulled a number of feet downstream equal to the check's DC. If it collides with a rock or other hard object, the character takes (DC-10)d6 bludgeoning damage (minimum of 1d6). The character makes this check again at the start of each of its turns, getting pulled further downstream each time it fails.
 
  - [ ]  **The Tapestry**
 
