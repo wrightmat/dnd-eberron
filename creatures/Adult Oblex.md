@@ -10,6 +10,7 @@ name: Adult Oblex
 size: Medium
 type: Ooze
 alignment: Typically Lawful Evil
+environment: [Swamp, Underdark, Urban]
 ac: 14
 hp: 75
 hit_dice: 10d8 + 30
