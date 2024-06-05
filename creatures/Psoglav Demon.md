@@ -4,11 +4,12 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: Planar
 name: Psoglav Demon
 size: Large
 type: Fiend
-subtype: (demon)
+subtype: (Demon)
 alignment: Chaotic Evil
 ac: 17
 hp: 115

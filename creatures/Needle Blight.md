@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Forest
 image: https://www.dndbeyond.com/avatars/thumbnails/16/462/1000/1000/636376286057911052.png
 name: Needle Blight
 size: Medium

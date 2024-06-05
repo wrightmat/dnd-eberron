@@ -5,11 +5,12 @@ statblock: inline
 
 ```statblock
 source: ToB1
+environment: [Coastal, Underwater]
+image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c974924-6b69-45e1-9b1a-3b3e3bc66c17/d9c2zey-71227c0b-fecb-41fe-8cea-e58e55fc60c0.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjOTc0OTI0LTZiNjktNDVlMS05YjFhLTNiM2UzYmM2NmMxN1wvZDljMnpleS03MTIyN2MwYi1mZWNiLTQxZmUtOGNlYS1lNThlNTVmYzYwYzAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TsxxjbPMpBI1-wtCAJJr_Kz5BPes118YYgZJBBAIvVs
 name: Coral Drake
 size: Medium
 type: Dragon
 alignment: Neural Evil
-environment: [Coastal, Underwater]
 ac: 16
 hp: 127
 hit_dice: 15d8 + 60

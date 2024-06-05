@@ -5,6 +5,8 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: [Arctic, Forest, Grassland, Hill, Mountain, Swamp, Underdark]
+image: https://5e.tools/img/bestiary/MM/Orc.webp
 name: Orc Eye of Gruumsh
 size: Medium
 type: Humanoid

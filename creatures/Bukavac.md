@@ -6,7 +6,7 @@ statblock: inline
 ```statblock
 source: ToB1
 environment: [Forest, Underwater]
-image: https://static.wikia.nocookie.net/naturerules1/images/d/d0/Bukavac.jpg/revision/latest?cb=20221024154237
+image: https://static.wikia.nocookie.net/naturerules1/images/d/d0/Bukavac.jpg
 name: Bukavac
 size: Large
 type: Monstrosity

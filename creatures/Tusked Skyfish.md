@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: [Desert, Grassland]
 name: Tusked Skyfish
 size: Large
 type: Aberration

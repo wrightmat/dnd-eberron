@@ -5,12 +5,12 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Forest, Swamp, Urban]
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/240/1000/1000/637880557308920420.jpeg
 name: Corpse Flower
 size: Large
 type: Plant
 alignment: Typically Chaotic Evil
-environment: [Forest, Swamp, Urban]
 ac: 12
 hp: 127
 hit_dice: 15d10 + 45

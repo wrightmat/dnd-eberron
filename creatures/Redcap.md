@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Forest, Hill, Swamp]
 image: https://www.dndbeyond.com/avatars/thumbnails/9/788/1000/1000/636332006160598385.jpeg
 name: Redcap
 size: Small

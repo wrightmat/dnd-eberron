@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: Homebrew
+environment: Underwater
 image: https://upload.wikimedia.org/wikipedia/en/e/e3/Ursula%28TheLittleMermaid%29character.png
 name: Sea Witch
 size: Medium

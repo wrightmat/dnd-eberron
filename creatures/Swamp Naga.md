@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: ToB2
+environment: Swamp
 name: Swamp Naga
 size: Large
 type: Monstrosity

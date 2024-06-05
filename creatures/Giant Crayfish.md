@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: TftYP
+environment: [Coastal, Underwater]
 name: Giant Crayfish
 size: Large
 type: Beast

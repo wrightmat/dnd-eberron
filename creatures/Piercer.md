@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Underdark
 image: https://www.dndbeyond.com/avatars/thumbnails/30834/687/1000/1000/638063894881668043.png
 name: Piercer
 size: Medium

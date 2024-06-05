@@ -4,11 +4,12 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: Planar
 name: Ink Devil
 size: Small
 type: Fiend
-subtype: (devil)
+subtype: (Devil)
 alignment: Lawful Evil
 ac: 14
 hp: 54

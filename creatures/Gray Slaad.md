@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Urban
 image: https://angrygolem-games.com/wp-content/uploads/2021/11/Gray-Slaad.jpg
 name: Gray Slaad
 size: Medium

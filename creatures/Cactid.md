@@ -5,11 +5,12 @@ statblock: inline
 
 ```statblock
 source: ToB1
+environment: Desert
+image: https://koboldpress.com/wp-content/uploads/2023/02/Cactid.jpg
 name: Cactid
 size: Large
 type: Plant
 alignment: Unaligned
-environment: Desert
 ac: 14
 hp: 76
 hit_dice: 8d10 + 32

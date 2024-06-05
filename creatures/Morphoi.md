@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: [Coastal, Underwater]
 name: Morphoi
 size: Medium
 type: Plant

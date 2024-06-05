@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Forest, Grassland]
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/682/1000/1000/637880558052946930.jpeg
 name: Stegosaurus
 size: Huge

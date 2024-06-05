@@ -5,12 +5,12 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Underdark
 image: https://www.dndbeyond.com/avatars/thumbnails/30783/894/1000/1000/638062023078340731.png
 name: Dao
 size: Large
 type: Elemental
 alignment: Neutral Evil
-environment: Underdark
 ac: 18
 hp: 187
 hit_dice: 15d10 + 105

@@ -5,11 +5,11 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: [Desert, Mountain]
 name: Dust Devil
 size: Large
 type: Elemental
 alignment: Neutral
-environment: [Desert, Mountain]
 ac: 15
 hp: 90
 hit_dice: 12d10 + 24

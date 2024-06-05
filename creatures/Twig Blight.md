@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Forest
 name: Twig Blight
 size: Small
 type: Plant

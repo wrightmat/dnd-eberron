@@ -4,7 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: Urban
+image: https://koboldpress.com/wp-content/uploads/2019/05/paper-drake.jpg
 name: Paper Drake
 size: Small
 type: Dragon

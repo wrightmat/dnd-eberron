@@ -4,6 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
+source: FM
+environment: Desert
 image: https://www.dndbeyond.com/avatars/thumbnails/30833/355/1000/1000/638063862056716335.png
 name: Medusa
 size: Medium

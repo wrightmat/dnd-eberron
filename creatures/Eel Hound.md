@@ -5,11 +5,11 @@ statblock: inline
 
 ```statblock
 source: ToB1
+environment: [Coastal, Underwater]
 name: Eel Hound
 size: Medium
 type: Fey
 alignment: Neutral
-environment: [Coastal, Underwater]
 ac: 14
 hp: 77
 hit_dice: 14d8 + 14

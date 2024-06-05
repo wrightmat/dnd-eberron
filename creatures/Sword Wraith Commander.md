@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Grassland, Swamp]
 image: https://www.dndbeyond.com/avatars/thumbnails/268/205/1000/1000/636597572553866730.png
 name: Sword Wraith Commander
 size: Medium

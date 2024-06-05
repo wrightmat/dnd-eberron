@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Forest
 image: https://www.dndbeyond.com/avatars/thumbnails/16/466/1000/1000/636376287271000215.png
 name: Vine Blight
 size: Medium

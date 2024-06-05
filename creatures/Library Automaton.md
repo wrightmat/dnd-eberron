@@ -4,7 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: Urban
+image: https://4.bp.blogspot.com/-yUXCvGHTjB8/WMmAFZVzimI/AAAAAAAAHro/AolKQOMPmAUej8BFZ0T3dLLhj499XslRQCLcB/s1600/Library%2BAutomaton.jpg
 name: Library Automaton
 size: Small
 type: Construct

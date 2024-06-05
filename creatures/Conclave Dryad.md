@@ -5,12 +5,12 @@ statblock: inline
 
 ```statblock
 source: GGR
+environment: Forest
 image: https://www.dndbeyond.com/avatars/thumbnails/4719/589/1000/1000/636755085764790775.png
 name: Conclave Dryad
 size: Medium
 type: Fey
 alignment: Lawful Good
-environment: Forest
 ac: 16
 hp: 143
 hit_dice: 22d8 + 44

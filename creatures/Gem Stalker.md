@@ -5,6 +5,8 @@ statblock: inline
 
 ```statblock
 source: FToD
+environment: Underdark
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzdyh73mAChGOxdVVCp5ivOcppfGiQl60Vg&s
 name: Gem Stalker
 size: Large
 type: Monstrosity

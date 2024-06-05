@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-image: [[Wikilink To Image]]
+source: ToB2
+environment: Underdark
 name: Mineral Ooze
 size: Large
 type: Ooze
@@ -15,7 +16,7 @@ hit_dice: 8d10 + 32
 speed: 20 ft.
 stats: [14, 8, 18, 1, 5, 3]
 damage_resistances: acid, cold, fire
-condition_immunities:  blinded, charmed, deafened, exhaustion, frightened, prone
+condition_immunities: blinded, charmed, deafened, exhaustion, frightened, prone
 senses: blindsight 60 ft. (blind beyond this radius), passive Perception 7
 languages: --
 cr: 3

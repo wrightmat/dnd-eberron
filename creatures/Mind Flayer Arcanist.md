@@ -1,10 +1,11 @@
 ---
 statblock: inline
 ---
- #monster #underdark 
+ #monster 
 
 ```statblock
 source: MM
+environment: Underdark
 image: https://www.dndbeyond.com/avatars/thumbnails/9/19/1000/1000/636322598567599439.jpeg
 name: Mind Flayer Arcanist 
 size: Medium

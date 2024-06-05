@@ -19,7 +19,7 @@ damage_vulnerabilities: Fire
 condition_immunities: Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified
 senses: Blindsight 10 ft. (blind beyond this radius), Passive Perception 8
 languages: --
-cr: 0.125
+cr: 1/8
 traits:
   - name: Air Envelope.
     desc: "If it has at least 1 hit point, the gadabout can generate an air envelope around itself when in a vacuum. This air envelope can sustain the gadabout and one other creature in its space indefinitely."

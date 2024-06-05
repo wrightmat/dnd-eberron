@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: Homebrew
+environment: Arctic
 name: Snowflake Ooze
 size: Medium
 type: Ooze

@@ -5,12 +5,12 @@ statblock: inline
 
 ```statblock
 source: ERLW
+environment: Underdark
 image: https://www.dndbeyond.com/avatars/thumbnails/7725/602/1000/1000/637091618587585877.png
 name: Dolgaunt
 size: Medium
 type: Aberration
 alignment: Lawful Evil
-environment: Underdark
 ac: 16
 hp: 33
 hit_dice: 6d8 + 6

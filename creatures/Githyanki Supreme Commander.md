@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Desert, Mountain, Urban]
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/420/1000/1000/637880557629850021.jpeg
 name: Githyanki Supreme Commander
 size: Medium

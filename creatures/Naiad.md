@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MOT
+environment: [Coastal, Underwater]
 image: https://www.dndbeyond.com/avatars/thumbnails/16464/484/1000/1000/637515965711226798.png
 name: Naiad
 size: Medium

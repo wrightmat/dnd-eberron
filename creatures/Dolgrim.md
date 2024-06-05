@@ -5,12 +5,12 @@ statblock: inline
 
 ```statblock
 source: ERLW
+environment: Underdark
 image: https://www.dndbeyond.com/avatars/thumbnails/7725/608/1000/1000/637091619688542557.png
 name: Dolgrim
 size: Small
 type: Aberration
 alignment: Chaotic Evil
-environment: Underdark
 ac: 15
 hp: 13
 hit_dice: 3d6 + 3

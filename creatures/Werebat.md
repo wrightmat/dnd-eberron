@@ -9,7 +9,7 @@ image: https://www.dndbeyond.com/avatars/thumbnails/4772/20/1000/1000/6367645773
 name: Werebat
 size: Small
 type: Humanoid
-subtype: (goblinoid, shapechanger)
+subtype: (Goblinoid, Shapechanger)
 alignment: Neutral Evil
 ac: 13
 hp: 24

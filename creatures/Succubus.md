@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Urban
 image: https://www.dndbeyond.com/avatars/thumbnails/30835/963/1000/1000/638063925132245499.png
 name: Succubus
 size: Medium

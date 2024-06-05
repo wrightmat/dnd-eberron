@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: Homebrew
+environment: Arctic
 name: Starving Young Remorhaz
 size: Large
 type: Monstrosity

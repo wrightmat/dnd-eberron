@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: [Grassland, Mountain]
 name: Young Wind Dragon
 size: Large
 type: Dragon

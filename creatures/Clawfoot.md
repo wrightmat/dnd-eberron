@@ -5,12 +5,12 @@ statblock: inline
 
 ```statblock
 source: ERLW
+environment: Grassland
 name: Clawfoot
 size: Medium
 type: Beast
 subtype: (Dinosaur)
 alignment: Unaligned
-environment: Grassland
 ac: 13
 hp: 19
 hit_dice: 3d8 + 6

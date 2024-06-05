@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+image: https://pbs.twimg.com/media/CQuQFeDWUAATtDI.jpg
 name: Lich Hound
 size: Medium
 type: Undead

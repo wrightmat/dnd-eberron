@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: Urban
 name: Rat King
 size: Medium
 type: Monstrosity

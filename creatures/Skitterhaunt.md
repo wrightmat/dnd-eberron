@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: [Forest, Underdark]
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UxMQIjifB1mpFvgZq_Ec8tWN8HYHoWJxXzfhLJKe1g&s
 name: Skitterhaunt
 size: Large

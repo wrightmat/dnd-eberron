@@ -5,12 +5,12 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Forest, Grassland, Hill, Mountain]
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/232/1000/1000/637880557295319136.jpeg
 name: Clockwork Stone Defender
 size: Medium
 type: Construct
 alignment: Unaligned
-environment: [Forest, Grassland, Hill, Mountain]
 ac: 16
 hp: 105
 hit_dice: 14d8 + 42

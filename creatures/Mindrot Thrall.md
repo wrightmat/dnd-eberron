@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: Underdark
 name: Mindrot Thrall
 size: Medium
 type: Plant

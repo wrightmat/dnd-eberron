@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: [Coastal, Forest]
 image: https://i.pinimg.com/474x/22/fe/96/22fe9676a9544b013f31d215c34eafde.jpg
 name: Ravenala
 size: Large

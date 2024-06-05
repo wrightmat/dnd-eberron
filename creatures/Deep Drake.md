@@ -5,11 +5,11 @@ statblock: inline
 
 ```statblock
 source: ToB1
+environment: Underdark
 name: Deep Drake
 type: Dragon
 size: Large
 alignment: Chaotic Evil
-environment: Underdark
 hp: 150
 hit_dice: 20d10 + 40
 ac: 17 (natural armor)

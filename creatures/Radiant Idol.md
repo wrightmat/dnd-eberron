@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: ERLW
+environment: Planar
 image: https://www.dndbeyond.com/avatars/thumbnails/7726/15/1000/1000/637091672429063408.png
 name: Radiant Idol
 size: Large

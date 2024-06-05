@@ -4,7 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-name: Onyx Scale Orc
+source: Homebrew
+environment: [Grassland, Hill, Swamp, Underdark]
+name: Orc of the Onyx Scale
 size: Medium
 type: Humanoid
 alignment: Chaotic Evil

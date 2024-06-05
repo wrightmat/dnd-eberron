@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: Homebrew
+environment: [Desert, Mountain, Urban]
 name: Githyanki Duthka'Gith
 size: Medium
 type: Humanoid

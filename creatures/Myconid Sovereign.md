@@ -5,6 +5,8 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Underdark
+image: https://www.kryxrpg.com/static/36336d8e9fc9ab7bf8c4b3daaca66d6f/52485/myconid-sovereign.png
 name: Myconid Sovereign
 size: Large
 type: Plant

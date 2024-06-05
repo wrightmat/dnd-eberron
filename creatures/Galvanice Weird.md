@@ -8,11 +8,11 @@ source: GGR
 image: https://www.dndbeyond.com/avatars/thumbnails/4719/679/1000/1000/636755093436157209.png
 name: Galvanice Weird
 size: Medium
-type: elemental
-alignment: chaotic neutral
+type: Elemental
+alignment: Chaotic Neutral
 ac: 12
 hp: 22
-hit_dice: 3d8+9
+hit_dice: 3d8 + 9
 speed: 30 ft.
 stats: [14, 10, 17, 3, 10, 5]
 damage_resistances: Cold; Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks

@@ -17,7 +17,7 @@ speed: 10 ft., fly 30 ft.
 stats: [12, 18, 11, 1, 10, 1]
 senses: Darkvision 60 ft., Passive Perception 10
 languages: --
-cr: 0.5
+cr: 1/2
 traits:
   - name: Unusual Nature.
     desc: "The kindori doesn’t require food, drink, or air."

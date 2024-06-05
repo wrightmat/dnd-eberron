@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: Underwater
 name: Nihileth
 size: Large
 type: Undead

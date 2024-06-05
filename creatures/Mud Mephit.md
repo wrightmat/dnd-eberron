@@ -5,6 +5,8 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Swamp
+image: https://www.dndbeyond.com/avatars/thumbnails/34175/963/1000/1000/638190242776292202.png
 name: Mud Mephit
 size: Small
 type: Elemental

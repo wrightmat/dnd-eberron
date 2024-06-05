@@ -5,12 +5,12 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Forest
 image: https://www.dndbeyond.com/avatars/thumbnails/30782/213/1000/1000/638061954801799592.png
 name: Displacer Beast
 size: Large
 type: Monstrosity
 alignment: Lawful Evil
-environment: Forest
 ac: 13
 hp: 85
 hit_dice: 10d10 + 30

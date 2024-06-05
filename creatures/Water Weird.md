@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: [Underdark, Underwater, Urban]
 image: https://www.dndbeyond.com/avatars/thumbnails/30836/496/1000/1000/638063938477200551.png
 name: Water Weird
 size: Large

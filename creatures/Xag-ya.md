@@ -5,10 +5,11 @@ statblock: inline
 
 ```statblock
 source: Homebrew
+environment: Planar
 image: https://i0.wp.com/dmdave.com/wp-content/uploads/2018/11/xag-ya-xeg-yi.jpg
 name: Xag-ya
 size: Large
-type: Abberation
+type: Aberration
 alignment: Neutral
 ac: 19
 hp: 189

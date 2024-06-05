@@ -5,6 +5,8 @@ statblock: inline
 
 ```statblock
 source: ToB
+environment: [Underdark, Urban]
+image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c974924-6b69-45e1-9b1a-3b3e3bc66c17/d9vwnyz-949378dc-1c3e-44ea-a249-a0b27b6a1987.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjOTc0OTI0LTZiNjktNDVlMS05YjFhLTNiM2UzYmM2NmMxN1wvZDl2d255ei05NDkzNzhkYy0xYzNlLTQ0ZWEtYTI0OS1hMGIyN2I2YTE5ODcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vCDFa3BrSG-nJbi8jgtnabRJEC4eSlC2zL1P0nEIHmI
 name: Kobold Chieftain
 size: Small
 type: Humanoid

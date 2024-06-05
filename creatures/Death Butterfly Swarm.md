@@ -4,12 +4,13 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: [Grassland, Forest, Urban]
+image: https://koboldpress.com/wp-content/uploads/2016/10/death-butterfly-swarm-232x300.jpg
 name: Death Butterfly Swarm
 size: Large Swarm of Tiny Beasts
 type: Beast
 alignment: Chaotic Evil
-environment: [Grassland, Forest, Urban]
 ac: 15
 hp: 60
 hit_dice: 11d10

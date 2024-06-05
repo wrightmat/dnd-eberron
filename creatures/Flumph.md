@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Underdark
 image: https://static.wikia.nocookie.net/forgottenrealms/images/7/78/Flumph.jpg
 name: Flumph
 size: Small

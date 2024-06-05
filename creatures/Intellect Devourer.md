@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Underdark
 image: https://www.dndbeyond.com/avatars/thumbnails/30831/57/1000/1000/638063804285013333.png
 name: Intellect Devourer
 size: Tiny

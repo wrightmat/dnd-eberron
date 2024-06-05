@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: [Coastal, Underwater]
 image: https://www.dndbeyond.com/avatars/thumbnails/16/488/1000/1000/636376304583147024.jpeg
 name: Plesiosaurus
 size: Large

@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Underdark
 image: https://www.dndbeyond.com/avatars/thumbnails/30835/805/1000/1000/638063921868615940.png
 name: Salamander
 size: Large

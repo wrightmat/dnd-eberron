@@ -5,12 +5,12 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Forest, Swamp, Underdark, Urban]
 image: https://www.dndbeyond.com/avatars/thumbnails/20487/335/1000/1000/637677953105014863.jpeg
 name: Darkling Elder
 size: Medium
 type: Fey
 alignment: Typically Chaotic Neutral
-environment: [Forest, Swamp, Underdark, Urban]
 ac: 15
 hp: 27
 hit_dice: 5d8 + 5

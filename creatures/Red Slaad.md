@@ -8,8 +8,8 @@ source: MM
 image: https://angrygolem-games.com/wp-content/uploads/2021/04/red-slaad.jpg
 name: Red Slaad
 size: Large
-type: Abberation
-subtype: (slaad)
+type: Aberration
+subtype: (Slaad)
 alignment: Chaotic Neutral
 ac: 14
 hp: 93

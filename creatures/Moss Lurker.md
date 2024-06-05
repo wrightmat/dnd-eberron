@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: [Forest, Underdark]
 name: Moss Lurker
 size: Small
 type: Humanoid

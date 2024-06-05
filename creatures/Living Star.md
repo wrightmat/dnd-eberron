@@ -8,7 +8,7 @@ source: Homebrew
 name: Living Star
 size: Gargantuan
 type: Elemental
-subtype: (light)
+subtype: (Light)
 alignment: Neutral
 ac: 17
 hp: 185

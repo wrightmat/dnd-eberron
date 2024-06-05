@@ -5,6 +5,8 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: [Arctic, Forest, Grassland, Hill, Mountain, Swamp, Underdark]
+image: https://www.aidedd.org/dnd/images/orc.jpg
 name: Orc War Chief
 size: Medium
 type: Humanoid

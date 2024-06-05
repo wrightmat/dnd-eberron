@@ -4,7 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: Desert
+image: https://koboldpress.com/wp-content/uploads/2024/03/Sandwyrm.jpg
 name: Sandwyrm
 size: Large
 type: Dragon

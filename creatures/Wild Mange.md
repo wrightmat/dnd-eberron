@@ -8,7 +8,7 @@ source: Homebrew
 name: Wild Mange
 size: Medium
 type: Humanoid
-subtype: (gnoll, shapechanger)
+subtype: (Gnoll, Shapechanger)
 alignment: Chaotic Evil
 ac: 14
 hp: 58

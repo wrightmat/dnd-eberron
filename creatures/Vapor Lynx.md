@@ -4,7 +4,8 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: Swamp
 name: Vapor Lynx
 size: Large
 type: Monstrosity

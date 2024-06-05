@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Desert, Mountain, Urban]
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/416/1000/1000/637880557623079462.jpeg
 name: Githyanki Gish
 size: Medium

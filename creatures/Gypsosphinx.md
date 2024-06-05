@@ -4,7 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: [Desert, Underdark, Urban]
+image: https://static.wikia.nocookie.net/realm-of-midgard/images/f/f0/Gypsosphinx.jpg
 name: Gypsosphinx
 size: Large
 type: Monstrosity

@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: CoS
+environment: [Forest, Swamp]
 name: Tree Blight
 size: Huge
 type: Plant
