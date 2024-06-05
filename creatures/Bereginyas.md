@@ -4,7 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: Mountain
+image: https://paperanddice.wordpress.com/wp-content/uploads/2018/05/bereginyas1.png
 name: Bereginyas
 size: Tiny
 type: Fey

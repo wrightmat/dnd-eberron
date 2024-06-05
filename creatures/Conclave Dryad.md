@@ -10,6 +10,7 @@ name: Conclave Dryad
 size: Medium
 type: Fey
 alignment: Lawful Good
+environment: Forest
 ac: 16
 hp: 143
 hit_dice: 22d8 + 44

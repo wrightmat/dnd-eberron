@@ -9,6 +9,7 @@ name: Deathguard Warden
 size: Medium
 type: Humanoid
 alignment: Neutral Good
+environment: Urban
 ac: 18
 hp: 71
 hit_dice: 11d8 + 22

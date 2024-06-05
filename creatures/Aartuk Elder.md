@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: BAM
+environment: [Desert, Mountain, Underdark]
 image: https://www.dndbeyond.com/avatars/thumbnails/28079/771/1000/1000/637961800642907022.jpeg
 name: Aartuk Elder
 size: Large

@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: Forest
 image: https://www.dndbeyond.com/avatars/thumbnails/25814/920/1000/1000/637883017262154458.jpeg
 name: Autumn Eladrin
 size: Medium

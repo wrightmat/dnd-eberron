@@ -10,6 +10,7 @@ name: Darkling Elder
 size: Medium
 type: Fey
 alignment: Typically Chaotic Neutral
+environment: [Forest, Swamp, Underdark, Urban]
 ac: 15
 hp: 27
 hit_dice: 5d8 + 5

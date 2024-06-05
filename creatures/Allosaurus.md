@@ -5,19 +5,20 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Grassland
 name: Allosaurus
 size: Large
-type: beast
-subtype: (dinosaur)
-alignment: unaligned
+type: Beast
+subtype: (Dinosaur)
+alignment: Unaligned
 ac: 13
 hp: 51
 hit_dice: 6d10+18
 speed: 60 ft.
 stats: [19, 13, 17, 2, 12, 5]
 skillsaves:
-  - perception: 5
-senses: passive perception 15
+  - Perception: 5
+senses: passive Perception 15
 languages: --
 cr: 2
 traits:

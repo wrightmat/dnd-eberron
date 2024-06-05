@@ -10,6 +10,7 @@ name: Displacer Beast
 size: Large
 type: Monstrosity
 alignment: Lawful Evil
+environment: Forest
 ac: 13
 hp: 85
 hit_dice: 10d10 + 30

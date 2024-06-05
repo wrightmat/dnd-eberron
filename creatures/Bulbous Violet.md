@@ -4,6 +4,7 @@ statblock: inline
  #monster 
 
 ```statblock
+source: ToB2
 image: https://i0.wp.com/blog.worldanvil.com/wp-content/uploads/2021/03/bulbous-violet-1.jpg
 name: Bulbous Violet
 size: Medium

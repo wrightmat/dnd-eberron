@@ -10,6 +10,7 @@ name: Corpse Flower
 size: Large
 type: Plant
 alignment: Typically Chaotic Evil
+environment: [Forest, Swamp, Urban]
 ac: 12
 hp: 127
 hit_dice: 15d10 + 45

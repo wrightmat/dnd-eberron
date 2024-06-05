@@ -5,17 +5,18 @@ statblock: inline
 
 ```statblock
 source: MM
+environment: Grassland
 name: Ankylosaurus
 size: Huge
-type: beast
-subtype: (dinosaur)
-alignment: unaligned
+type: Beast
+subtype: (Dinosaur)
+alignment: Unaligned
 ac: 15
 hp: 68
 hit_dice: 8d12+16
 speed: 30 ft.
 stats: [19, 11, 15, 2, 12, 5]
-senses: passive perception 11
+senses: passive Perception 11
 languages: --
 cr: 3
 actions:

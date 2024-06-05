@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Swamp, Urban]
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/119/1000/1000/637880557105201582.jpeg
 name: Allip
 size: Medium

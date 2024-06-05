@@ -4,7 +4,9 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
+environment: Desert
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0RKt8MzP58GPv5BDGNfJPJTWgIFHDHa3adw&s
 name: Anubian
 size: Medium
 type: Elemental

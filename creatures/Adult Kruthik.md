@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Desert, Mountain, Underdark]
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/105/1000/1000/637880557083119765.jpeg
 name: Adult Kruthik
 size: Medium

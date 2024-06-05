@@ -5,12 +5,12 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Swamp, Underdark, Urban]
 image: https://www.dndbeyond.com/avatars/thumbnails/25746/107/1000/1000/637880557086160019.jpeg
 name: Adult Oblex
 size: Medium
 type: Ooze
 alignment: Typically Lawful Evil
-environment: [Swamp, Underdark, Urban]
 ac: 14
 hp: 75
 hit_dice: 10d8 + 30

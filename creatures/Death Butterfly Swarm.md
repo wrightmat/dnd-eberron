@@ -9,6 +9,7 @@ name: Death Butterfly Swarm
 size: Large Swarm of Tiny Beasts
 type: Beast
 alignment: Chaotic Evil
+environment: [Grassland, Forest, Urban]
 ac: 15
 hp: 60
 hit_dice: 11d10

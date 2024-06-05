@@ -10,6 +10,7 @@ name: Dolgaunt
 size: Medium
 type: Aberration
 alignment: Lawful Evil
+environment: Underdark
 ac: 16
 hp: 33
 hit_dice: 6d8 + 6

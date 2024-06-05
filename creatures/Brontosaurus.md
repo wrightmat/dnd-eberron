@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: MPMM
+environment: [Forest, Grassland]
 name: Brontosaurus
 size: Gargantuan
 type: Beast

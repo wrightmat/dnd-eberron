@@ -10,6 +10,7 @@ name: Dolgrim
 size: Small
 type: Aberration
 alignment: Chaotic Evil
+environment: Underdark
 ac: 15
 hp: 13
 hit_dice: 3d6 + 3

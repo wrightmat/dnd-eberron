@@ -4,11 +4,12 @@ statblock: inline
  #monster 
 
 ```statblock
-source: ToB
+source: ToB1
 name: Cactid
 size: Large
 type: Plant
 alignment: Unaligned
+environment: Desert
 ac: 14
 hp: 76
 hit_dice: 8d10 + 32

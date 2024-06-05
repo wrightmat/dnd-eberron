@@ -9,19 +9,19 @@ image: https://www.dndbeyond.com/avatars/thumbnails/30783/894/1000/1000/63806202
 name: Dao
 size: Large
 type: Elemental
-subtype: 
 alignment: Neutral Evil
+environment: Underdark
 ac: 18
 hp: 187
 hit_dice: 15d10 + 105
 speed: 30 ft., burrow 30 ft., fly 30 ft.
 stats: [23, 12, 24, 12, 13, 14]
 saves:
-  - intelligence: 5
-  - wisdom: 5
-  - charisma: 6
+  - Int: 5
+  - Wis: 5
+  - Cha: 6
 condition_immunities: Petrified
-senses: Darkvision 120 ft., Passive Perception 11
+senses: Darkvision 120 ft., passive Perception 11
 languages: Terran
 cr: 11
 spells:

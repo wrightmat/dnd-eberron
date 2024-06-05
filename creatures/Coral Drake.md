@@ -9,6 +9,7 @@ name: Coral Drake
 size: Medium
 type: Dragon
 alignment: Neural Evil
+environment: [Coastal, Underwater]
 ac: 16
 hp: 127
 hit_dice: 15d8 + 60
