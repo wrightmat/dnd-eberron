@@ -40,6 +40,7 @@ The tiefling has the secret support of the overlord Dral Khatuur, having traded 
 When the party encountered her in the Frostfell, they were robbed by Avarice. Verity robbed of gold, and Thana of her Undying Court broach.
 
 Avarice was commissioned by Garrick Quickfinder in Frostmantle to get back his Bag of Holding that the Verity took. She lies in wait for them outside of the Mournland. She has gathered a small party since their last encounter.
+- Jutkarr Flintfingers (male dwarf thief). Jutkarr also answered Garrick's job posting to get the stolen Bag of Holding back, but he and Avarice hit it off with their similarities and they decided to join forces. Use the stat block from Flee, Mortals!, page 376, with Amethyst Die added to him instead of Harlo (removing the Shared Condition reaction and treating these characters as.
 
 ### Stat Block
 
