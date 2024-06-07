@@ -25,6 +25,15 @@ marker: default, -3.29, 7.55, [[2-06. The Draconic Phylactery]]
 marker: default, -3.98, 7.20, [[2-07. Labyrinth of the Lantern's Light]]
 ```
 
+### Story Beats
+Below are some story beats that can still be weaved into the campaign - just need to find good places to do so.
+
+- **Dragon Attack**. At least one more needs to happen to their ship on the way to Adar, probably by the brass dragons. If more story advancement is needed, a second earlier attack could be done, just need to decide by which faction and where.
+
+- **Thronehold Council**. A council held on the subject of the dragons may make sense, but not sure who would organize it. Possibly the gold dragons at Thronehold, but then it would have to be a front (and they would need a motivation to do so) since they're in on it. Inspiration from the Councils of Waterdeep in Tyranny of Dragons (Rise of Tiamat).
+
+- **Return of Prince Lorrister**. Could be interesting to give the players a ride on the Heavenly Fleet's flagship, as a way to see all of Khorvaire and the impact the dragons are having. This could work as a way to get them to Adar if we want to do the Dragon Attack earlier to ramp up the drama.
+
 ### Adventure Concepts
 Obviously any of these could be done in any order, but they're presented here in rough order of difficulty (with adventures of the same color being roughly the same difficulty).
 

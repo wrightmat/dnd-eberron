@@ -35,7 +35,7 @@
 
  - [ ]  **The Tapestry**
 
-* 
+* The Draakhorn should start to be audible with a successful DC 18 Perception check. This check should be repeated, with the DC decreasing by 2 each time the party move to a point closer to the Pit of Five Sorrows. 
 
  - [ ]  **The Vast**
 
@@ -59,6 +59,7 @@ Check off as information is received. These should be gathered from Secrets and 
 * Some challenge(s) here, when the PCs emerge from the Crystal Library at Vorel’arux in the Tapestry. A unique challenge in the Tapestry (where non-dragons would be mostly ignored or treated as pets or pests) as well as The Vast (where there are fewer dragons of more different types, and non-dragons are entirely ignored), as the players traverse Argonnessen to get to the Pit of Five Sorrows.
 * Use the Talons of Tiamat as a foil to the players while here, possibly secretly hunting them from the shadows.
 * There should be some information given out here about the Light of Siberys and their existing work to protect the Pit of Five Sorrows.
+* Use the Draakhorn from Tyranny ofRise of Tiamat (page 169), much as it's presented, as a signaling war horn being utilized by the topaz dragons (and ditching most of the other lore around it). This gives the players the chance to subvert the horn and possibly use it against the dragons.
 * Probably run these areas as a point crawl. Possible encounters (more in Dragons of Eberron, page 63):
 	* A non-dragon of some sort running away from somewhere. He's fleeing from a dragon master, who was keeping him captive.
 	* Someone should try to take their Orb of Dragonkind
