@@ -60,17 +60,15 @@ As a Strixhaven student, you start with a well-rounded education in a rigorous f
 - **Embrose Lu, Dean of Shadow** (LN male human Silverquill professor of shadow). A master poet whose ink magic is merciless. Scant with praise and quick with a cutting remark, Dean Lu has seen many mage-students scrub out of Strixhaven and has nothing good to say about those who can’t hack it. A cynic, Embrose believes that most people are in it for themselves. He demands his students learn how to use language-based magic to “get what they deserve.” While he often argues with Dean Talonrook, he holds a deep (if begrudging) respect for the owlin.
 - **Breena, the Demagogue** (NG female owlin Silverquill professor of shadow). Breena has a talent for getting her way. If she wants you to do something, you won’t just do it — you’ll be sure it was your idea all along. Her students and colleagues alike hang on her every word, and in front of a crowd, she’s a powerhouse of charisma, enhancing her speeches with elegant swirls of ink magic. Though she’s an elite mage who can easily hold her own in a fight, Breena prefers to defeat her foes with words alone. An Oriq agent once trapped and attempted to recruit her, threatening her students’ lives if she didn’t comply. Within an hour, she convinced him to free her, abandon his wicked ways, and seek wisdom from the archaics.
 - **Nils, Discipline Enforcer** (LN male human Silverquill professor of radiance). Nils is an optimist, as he believes in every student’s potential for greatness. However, this outlook also means he’s constantly disappointed by their suboptimal choices, and he is well known for his strictness and abrupt scoldings.
-- **Brenneth Blackstone, Scriptology Star** (NG male dhampir Silverquill professor of shadow). Brenneth is a rising star in the study of magical writing and symbols. With a dynamic lecturing style, this dhampir — a partial vampire — attracts students from across Strixhaven purely for his lessons’ value as performance art. He teaches a course in scrivening and scriptology that characters take over the course of year 4.
-- Fain, the Broker
-Lost an important textbook? Craving some rare del
-icacy from home? Need something inconveniently
-forbidden? Enter Fain (neutral human Silverquill
-professor of shadow). He has an extensive network
-of connections on and off campus, and he can pro
-cure just about anything—so long as you can afford
-his price.
-
-
+- **Brenneth Blackstone, Scriptology Star** (NG male dhampir Silverquill professor of shadow). Brenneth is a rising star in the study of magical writing and symbols. With a dynamic lecturing style, this dhampir — a partial vampire — attracts students from across Strixhaven purely for his lessons’ value as performance art. He teaches a course in scrivening and scriptology that characters take over the course of year 2.
+- **Fain, the Broker** (N male human Silverquill professor of shadow). Lost an important textbook? Craving some rare delicacy from home? Need something inconveniently forbidden? Enter Fain. He has an extensive network of connections on and off campus, and he can procure just about anything — so long as you can afford his price.
+- **Lisette, Dean of the Root** (NG female human Witherbloom professor of growth). Dean Lissette is a world-class healer and herbalist; it’s even said she once cured the Lorehold founder dragon of a secret illness. Lisette’s classes lean more toward demonstration and hands-on experience than lectures. When Lisette speaks, her words are soft and full of colorful metaphors. Lisette believes in preserving nature and life, and she instills in her students a respect for all living things. While Dean Valentin’s exploitation of living creatures disgusts her, she also knows she can use the results of his cruelty to help future lives.
+- **Valentin, Dean of the Vein** (N male vampire). Dean Valentin is ancient and drinks the blood of living creatures throughout the bayou. Valentin is a kind of sangromancer — he receives visions from the blood he consumes, which he uses to learn things about a creature or place. He has no qualms about exploiting the bayou’s creatures for personal gain. Valentin's classes focus on dissection and decay. He and Dean Lisette often clash over his cavalier treatment of animals, but that hasn’t stopped her from using his discoveries for her research.
+- **Willowdusk, Essence Seer** (NG female treant). No one knows how old Willowdusk really is. This professor of growth claims to be older than Strixhaven itself, and although many suspect that she exaggerates, no one else who has lived long enough to refute her cares to do so. Many years ago, a group of rebellious students got lost in Detention Bog and took shelter in what turned out to be Willowdusk’s roots. She protected them from a pack of hungry groffs and shepherded them back to Widdershins Hall, offering a lecture on proper herb-gathering practices during the journey. Her lessons proved so effective that she was asked to stay as a professor. She loves passing on her knowledge of medicinal herbs, pest mascot cultivation, and dissection techniques to generations of new students, and she almost always has a pot of tea brewing.
+- **Tivash, Gloom Summoner** (N male human Witherbloom professor of decay). It’s tough to study the secrets of life and death without getting your hands dirty — which is the first thing Tivash teaches Witherbloom students. Some call the forces he manipulates evil, but he asserts that power is only as good or evil as how you use it.
+- **Verelda Lang, Arcano-Biologist** (CN female dryad). Verelda is a respected Witherbloom professor of growth who teaches introductory courses in magical physiologies, helping students in every college learn about the many unusual creatures they’re likely to encounter, whatever the students’ field of study. Her research extends to the vital functions of fractal creatures and other artificial life-forms, leading her to teach courses at Quandrix College as well.
+- **Yedora, Grave Gardener** (N female treant). Yedora is the head groundskeeper and unofficial undertaker of Strixhaven. Students and graduates often wish to spend their afterlife at their beloved university, and she honors that wish. Each tree she plants represents the essence of a fallen mage, and she remembers them all by name.
+- **Gyome, Master Chef** (N male troll). Anyone who thinks a troll can't be a great chef has never met Gyome. He combines local ingredients with flavors from his homeland into an ever-changing menu of delicacies. Students from every college trek through Sedgemoor in droves for his food. The only complaint he ever receives is that he gives out unreasonably large portions.
 
 ### Locations
 
@@ -104,10 +102,8 @@ Lorehold is the College of Archaeomancy — a term that describes the exploratio
 Lorehold College is devoted to the study of history, broadly understood to include the various aspects of culture, behavior, and social relationships that shape historical events. Its studies include various subdivisions of history (military history, social history, cultural history), archaeology, anthropology, psychology, sociology, religion, and economics. It overlaps with Prismari College in the field of art history, with some students splitting their studies between the two colleges. Lorehold mages use their magic to unearth secrets and share illumination.
 
 Lorehold’s two deans carry the titles Dean of Order and Dean of Chaos, as order versus chaos encapsulates the fundamental conflict at the heart of Lorehold’s philosophy. This conflict revolves around the forces that underlie and drive history. Is the course of time driving toward a well-ordered ideal state or slowly devolving into chaos? Are deep patterns hidden in historical texts, or is time a series of coincidence and happenstance?
-
-The perspective of order emphasizes the structures that pull people together — law, religion, economics, education, social class, and so on — and how those structures drive historical events. Order focuses on systemic changes and the actions of people collectively.
-
-The perspective of chaos, by contrast, emphasizes individual actions, personal bonds of families and friends, and the disruptive force of lone, passionate people in history. Scholars of chaos gravitate toward reckless discovery and the spirit of adventure in their research of the past — the essence and emotion of history over precision or procedure.
+- The perspective of order emphasizes the structures that pull people together — law, religion, economics, education, social class, and so on — and how those structures drive historical events. Order focuses on systemic changes and the actions of people collectively.
+- The perspective of chaos, by contrast, emphasizes individual actions, personal bonds of families and friends, and the disruptive force of lone, passionate people in history. Scholars of chaos gravitate toward reckless discovery and the spirit of adventure in their research of the past — the essence and emotion of history over precision or procedure.
 
 The Lorehold campus is located on the northwest of the central campus, in a region of stark vertical relief, near the Fang Crater. Rugged mesas and steep hills rise from a wide plain, and a great chasm holds the excavated ruins of an ancient settlement. Several star arches encircle rocky peaks and outcroppings, testifying to the powerful magical energy in the vicinity — energy once harnessed by the ancients who used to inhabit this area.
 
@@ -129,8 +125,8 @@ inspiration. Prismari studies focus on visual arts (including architecture, pain
 
 Prismari's two deans carry the titles Dean of Perfection and Dean of Expression, and they often express the fundamental conflict of their philosophy
 as perfection versus expression — or, sometimes, as intellect versus emotion. What is the purpose of art? Is it to make people think things or make people feel things? Is it supposed to be carefully thought out or raw and spontaneous? Is mastery of art a matter of honing precise techniques to a point of perfection or of perfectly expressing a raw emotional state? Does art aspire to express universal truths or intensely personal ones?
-
-The perspective of perfection focuses on technique, analysis, theory, aesthetics, and universal principles. It embraces intellect over emotion, strives to be thought-provoking and reflective, and aspires to mastery. Its mages tend to use elemental forces of cold, water, and wind. The perspective of expression instead emphasizes the portrayal of personal emotional truths. Its mages value improvisation, innovation, and rule-breaking, and they often favor elemental magic using fire, lightning, and earth.
+- The perspective of perfection focuses on technique, analysis, theory, aesthetics, and universal principles. It embraces intellect over emotion, strives to be thought-provoking and reflective, and aspires to mastery. Its mages tend to use elemental forces of cold, water, and wind.
+- The perspective of expression instead emphasizes the portrayal of personal emotional truths. Its mages value improvisation, innovation, and rule-breaking, and they often favor elemental magic using fire, lightning, and earth.
 
 The Prismari campus is located on the southwest of the central campus, situated in a region of jagged rocks, rugged spires, and intense geothermal activity.
 
@@ -151,10 +147,8 @@ The studies undertaken within Quandrix College include mathematics, physics, log
 
 Quandrix’s two deans carry the titles Dean of Substance and Dean of Theory, reflecting the philosophical division within the college. Is mathematics a
 natural force that exists in the universe independent of the constructs of intelligent minds, or is it a theoretical framework created by those who study it? Is the work of the scholar to discover what is or to define what could be?
-
-The perspective of substance emphasizes physical reality. In this view, math is embodied in the natural forces of the multiverse, waiting to be discovered by those with the intellectual fortitude to delve into those secrets. Quandrix mages who embrace this view use magic to bring numerical concepts to life, creating or altering physical reality out of mathematical possibility.
-
-The perspective of theory focuses on the abstract realms of conjecture and possibility. Its scholars view math as a lens through which a mind can understand the cosmos, not something that exists in dependently in the world. Mages who embrace this perspective use their spells to weave illusions and manipulate the fabric of magic itself.
+- The perspective of substance emphasizes physical reality. In this view, math is embodied in the natural forces of the multiverse, waiting to be discovered by those with the intellectual fortitude to delve into those secrets. Quandrix mages who embrace this view use magic to bring numerical concepts to life, creating or altering physical reality out of mathematical possibility.
+- The perspective of theory focuses on the abstract realms of conjecture and possibility. Its scholars view math as a lens through which a mind can understand the cosmos, not something that exists in dependently in the world. Mages who embrace this perspective use their spells to weave illusions and manipulate the fabric of magic itself.
 
 Quandrix is located on the northeast of campus, situated in a coastal area surrounded by lush woodland and abundant rivers and streams.
 
@@ -175,16 +169,43 @@ The curriculum of Silverquill College revolves around words, encompassing litera
 skills, learning to speak and write more effectively about their primary field of study. Silverquill and Prismari see overlap in the area of performing arts, with Silverquill emphasizing verbal performance and Prismari focusing more on dance and other forms of movement.
 
 The two deans of Silverquill are called the Dean of Radiance and the Dean of Shadow, highlighting the college’s use of metaphor in describing its philosophical differences. The metaphor of radiance and shadow takes concrete form in Silverquill magic, as students learn to manifest brilliant light or inky darkness with their spells. The fundamental argument among Silverquill’s scholars centers on the purpose of communication. Is it to help others or further a personal agenda? Does literature selflessly better society or selfishly advance one’s own goals?
+- The college’s perspective of radiance envisions language as sunlight emanating from the speaker or writer to illuminate others and make the world a brighter place. Mages who embrace this view use their language skills — and their magic — to uplift and empower others, to shine light on the evils of society, and to inspire the best in those around them.
+- The college’s perspective of shadow focuses on the power of language to stab, to expose stinging truths, and to obfuscate secrets. The magic of shadow mages often manifests as bolts or blades of darkness or blotches of flowing ink, and its effects range from a sting of shame to an assault on the target’s life energy.
 
-The college’s perspective of radiance envisions language as sunlight emanating from the speaker or writer to illuminate others and make the world a brighter place. Mages who embrace this view use their language skills — and their magic — to uplift and empower others, to shine light on the evils of society, and to inspire the best in those around them.
+Silverquill is located on the north end of campus, on the border between the school and the Wyrmsfang Jungle. Silverquill is the most urban of the five colleges, with a campus that features buildings of stately elegance.
 
-The college’s perspective of shadow focuses on the power of language to stab, to expose stinging truths, and to obfuscate secrets. The magic of shadow mages often manifests as bolts or blades of darkness or blotches of flowing ink, and its effects range from a sting of shame to an assault on the target’s life energy.
+##### Grandloft Hall
+The main Silverquill building is Grandloft Hall, a vast space with shafts of light streaking in from the enchanted windowpanes far above. Grandloft teems with balconies, loges, booths, daises, and other spaces where orators can perform their craft. Inklings, the college’s mascots, flit around the high ceiling, and enchanted spotlights automatically focus on any mage who uses powerful magic.
 
-Silverquill is located on the north end of campus, on the border between the school and the Wyrmsfang Jungle.
+##### The Rose Stage
+The Rose Stage is a rotating circular platform on the Silverquill campus. It has a backdrop of roses made of magical ink (tributes left by spectators of past performances), which creates excellent acoustics. Mage-students meet at the Rose Stage to practice performances, spar, or engage in honor duels. Faculty members often observe performances at the Rose Stage, coaching the students in their magical and rhetorical displays.
+
+##### The Dramarium
+The Dramarium is a facility where Silverquill students train in fitness, dance, martial arts, and other acts of physical performance. Students can avail
+themselves of the preparation space called the Gray Room (actually a chain of rooms), which has hair and makeup salons, voice rehearsal booths, mirrored rehearsal spaces, and spa facilities. The back of the Dramarium has a special sensory deprivation chamber for mage-students who want complete silence in which to meditate.
 
 #### Witherbloom
 
-Witherbloom is located on the southeast of campus, among the large green region known as Sedgemoor.
+At Witherbloom, the College of Essence Studies, mages draw power from the opposing forces of life and death. These mages brew their spells from
+natural components and the essence of living creatures, using that power to heal or harm the living or to raise or entreat the dead. They can cause entire forests to blossom out of nowhere or call down old curses that scourge flesh from bone. Some Witherbloom mages defend ecosystems from pollution. while others revel in the power of corruption. They’re at home riding zombie crocodiles down a languid river, picking herbs for a potion to treat a disease, brooding over a chorus of swamp frogs, or summoning fearsome avatars of nature.
+
+The curriculum of Witherbloom College focuses on various sciences, revolving around the life sciences. Biology, ecology, botany, chemistry, and related sciences combine with the study and manipulation of the magical energy of the Positive Plane and the Negative Plane, the primal forces of life and death. Witherbloom’s curriculum shares some overlap with Quandrix’s analysis of the mathematical patterns in nature.
+
+The two deans of Witherbloom are traditionally called the Dean of the Root and the Dean of the Vein. These titles are a somewhat abstract way of
+framing the core division in the college’s philosophy: is growth or decay the driving force in nature?
+- The philosophy of the root (growth) focuses on life and its irrepressible drive to thrive. This view celebrates the diversity and adaptability of life forms, from the tiniest cells to the most complex networks of living things. The growth philosophy asserts that the urge to survive and reproduce is the most essential principle in the cosmos. Mages who adopt this view wield positive energy and practice healing magic.
+- The philosophy of the vein (decay) focuses on the inevitability of death and decay. Its traditional name comes from the prominence of vampires within the college, whose conceptions of draining life through the vein have long proven an important counterweight to the growth philosophy of Witherbloom. The decay philosophy sees life energy as a resource to be consumed, rather than a good to be nourished for its own sake. Mages who adopt this view wield negative energy and practice necromancy.
+
+Witherbloom is located on the southeast of campus, tucked away in a wide bayou, and adjacent to a large bog (denoted by the green area on the map of Argonnessen on the eastern end of the Great Barrier).
+
+##### Sedgemoor
+Sedgemoor, the bayou area that encompasses the Witherbloom campus, is known for a range of swamp creatures: bats, crocodilian monsters, zombified animals, lumbering beasts called brackish trudges, and canine creatures called groffs. Sedgemoor is an excellent place to find pest mascots, herbs, spider silk, fungi, and other ingredients for potions and spells.
+
+##### Widdershins Hall
+The center of the Witherbloom campus is Widdershins Hall, a bog mansion that looks like it grew out of Sedgemoor itself. Widdershins is a network of interconnected wooden pods, with planked walkways leading out of it like tendrils. The hall has a cozy inner chamber where students gather for classwork.
+
+##### Detention Bog
+A stinking, thoroughly unpleasant marshland lies adjacent to Sedgemoor: the Detention Bog. Witherbloom faculty members send misbehaving students to this bog as punishment, but it’s also an excellent place to gather herbs for certain cures and curses.
 
 #### Fang Crater
 
