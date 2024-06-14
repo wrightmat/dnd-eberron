@@ -25,7 +25,6 @@ Each of the "Orders" are essentially secret societies where the membership is ge
 | Topaz†   | Necrotic           | [[characters/Arstyvrax\|Arstyvrax]]                    | Dolurrh (Base in Argonnessen, The Vast)          | Scions of Sardior                                      | Viscous, Intelligent              | n/a    |                     | CN  |
 | Crystal  | Radiant            | Hrodel                                                 | Dal Quor (Base in Sarlona, Syrkarn, Heart of Io) | Scions of Sardior                                      | Fun-loving, Mischievous           | n/a    |                     | LN  |
 | Amethyst | Force              | [[Aleithilithos]]                                      | Daanvi (Base on the Ring of Siberys)             | Scions of Sardior                                      | Detached, Peaceful                | n/a    |                     | NN  |
-
 † Arstyvrax is the one and only Obsidian Gem Dragon, whose followers are all Topaz Gem Dragons. Arstyvrax is an Ancient Topaz Dragon with additional Vampire abilities.
 
 ### Organizations
@@ -46,17 +45,17 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Silver (Breland)
 - **Cunning**: 2
-- **Force**: 1
+- **Force**: 2 (1)
 - **Magic**: 1
 - **Wealth**: 2
 - **Assets**:
 	- Silvered Spire (headquarters in Sharn)
-- **Morale**: +7
+- **Morale**: +8
 - **Goal**: Work to ensure that all people in Khorvaire trust the dragons, while at the same time pursuing Yllosavax's goals of arcane knowledge. "I'm not at liberty to say."
 - **Objectives**:
-	 - [x]  A silver dragonborn named Valmoc is introduced to the PCs as part of their travels. He introduces them to the idea of the Silver Scales, and their role as protectors of all of Khorvaire so we don't see something like Shae Mordai again. ✅ 2024-01-11
+	 - [x]  A silver dragonborn named Valmoc is introduced to the PCs as part of their travels. He introduces them to the idea of the Silver Scales, and their role as protectors of all of Khorvaire so we don't see something like Shae Mordai again.
 	 - [x]  Valmoc and/or silver dragons arrive in Arcanix, hoping to create an alliance with the humans there to protect their pursuit of arcane research.
-	 - [ ]  The silver dragons begin recruiting promising arcane individuals (wizards, sorcerers, magewrights, etc.) to come to both Arcanix and the Silvered Spire in Sharn.
+	 - [x]  The silver dragons begin recruiting promising arcane individuals (wizards, sorcerers, magewrights, etc.) to come to both Arcanix and the Silvered Spire in Sharn. +1 Force
 	 - [ ]  The Silver Scales are seen delving into forgotten tombs, deciphering ancient texts, and confronting magical challenges, looking for arcane secrets.
 	 - [ ]  The Silver Scales actively intervene in conflicts between dragon tribes, employing diplomatic measures and, when necessary, covert operations to prevent escalation. Their goal is to redirect the dragons' focus from chaotic pursuits to the principles of order and protection.
 	 - [ ]  Arcanix, Sharn, and any other locations scoped out by the silver dragonborn are declared as Arcane Sanctuaries under the protection of the Silver Scales, where both dragons and mortals can safely study and harness magical energies without interference by the other dragons.
@@ -104,19 +103,19 @@ The tracts below are listed in the general order that the PCs are expected to en
 	 - [ ]  The Bronze Navy has completely control of the southern seas (Thunder Sea, Sea of Rage, Dark Sea), accomplishing their goal +1 to Force.
 
 ##### Brass (Zilargo)
-- **Cunning**: 5 (4)
+- **Cunning**: 7 (4)
 - **Force**: 1
 - **Magic**: 0
 - **Wealth**: 1
 - **Assets**:
 	- 
-- **Morale**: +7
+- **Morale**: +9
 - **Goal**: Establish a spy network to get information back to Argonnessen, destroying The Trust in the process. "Information is power".
 - **Objectives**:
 	 - [x]  A traveling comedy troupe of brass dragonborn, known as the Brass Bards, begins to perform at any Copper Dragon Inns that exist in Khorvaire.
 	 - [x]  A stationary Brass Bards troupe starts up in the city of Zolanberg, led by a charismatic dwarf leader (who always wears a brass ring on every finger) who is actually a disguised brass dragon. +1 to Cunning.
-	 - [ ]  A stationary Brass Bards troupe starts up in the city of Trolanport. +1 to Cunning.
-	 - [ ]  A stationary Brass Bards troupe starts up in the city of Korranberg. +1 to Cunning.
+	 - [x]  A stationary Brass Bards troupe starts up in the city of Trolanport. +1 to Cunning.
+	 - [x]  A stationary Brass Bards troupe starts up in the city of Korranberg. +1 to Cunning.
 	 - [ ]  The leader of the Brass Bards ot Zolanberg is appointed to the Council of Nine that leads the city. Add "Zolanberg Council of Nine" as an Asset.
 	 - [ ]  The leader of the Brass Bards ot Trolanport is appointed to the Council of Nine that leads the city. Add "Trolanport Council of Nine" as an Asset.
 	 - [ ]  The leader of the Brass Bards ot Korranberg is appointed to the Council of Nine that leads the city. Add "Korranberg Council of Nine" as an Asset.
@@ -131,14 +130,14 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Magic**: 5 (3)
 - **Wealth**: 1
 - **Assets**:
-	- 
-- **Morale**: +8
+	- 3 people from an island of Lhazaar taken by the Infernal Engine
+- **Morale**: +9
 - **Goal**: To sow chaos, as a necessary precursor to the rise of draconic supremacy (mechanically this will probably involve adding to particular rolls/checks based on how many of these are checked off).
 - **Objectives**:
 	 - [x]  The Order of the Sapphire Scale, a group of random people of all races (mostly humans and changelings), begin their efforts in Lhazaar. The Infernal Enginer appears during a play at the Grand Thuranni Theater and takes several people.
 	 - [x]  Chaos spreads across Lhazaar - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects (d20 rolled when any spell cast, with a wild magic effect on a 1) in place for any magic cast in this region. +1 to Magic.
 	 - [x]  Chaos spreads across eastern Khorvaire (east of the Mournland) - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast in the area. +1 to Magic.
-	 - [ ]  The Infernal Engine randomly appears on one of the islands of Lhazaar, disappearing `dice:1d6` days later, and taking `dice:1d8` people with it. Add those people to Assets.
+	 - [x]  The Infernal Engine randomly appears on one of the islands of Lhazaar, disappearing `dice:1d6` days later, and taking `dice:1d8` people with it. Add those people to Assets.
 	 - [ ]  Chaos spreads across ALL Khorvaire - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast on the continent. +1 to Magic.
 	 - [ ]  The Infernal Engine randomly appears somewhere on Khorvaire, disappearing `dice:1d6` days later, and taking `dice:1d10+1` people with it. Add those people to Assets.
 	 - [ ]  Chaos spreads across all of Eberron - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast. +1 to Magic.
@@ -155,7 +154,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Morale**: +6
 - **Goal**: To descend into the depths of Khyber in order to gain access to Tiamat herself directly.
 - **Objectives**:
-	 - [ ]  Order of the Onyx Scale begins excavation of what's believed to be Vvaraak's Cave in the Shadow Marches.
+	 - [x]  Order of the Onyx Scale begins excavation of what's believed to be Vvaraak's Cave in the Shadow Marches.
 	 - [ ]  Dragon Orcs find their way to the upper levels of Khyber and begin exploring. +1 to Wealth.
 	 - [ ]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Droaam.
 	 - [ ]  Order of the Onyx Scale travels south via the Khyber tunnels. Dragon Orcs become a common sight in the depths of Sharn (Khyber's Gate). +1 to Cunning.
@@ -169,15 +168,15 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Cunning**: 1
 - **Force**: 1
 - **Magic**: 0
-- **Wealth**: 4
+- **Wealth**: 5 (4)
 - **Assets**:
 	- 
-- **Morale**: +6
+- **Morale**: +7
 - **Goal**: Convert all existing inns into "Copper Dragon Inns", destroying House Ghallanda in the process.
 - **Objectives**:
 	 - [x]  All inns in Valenar are now Copper Dragon Inns.
-	 - [ ]  All inns in Talenta Plains and Q'barra are now Copper Dragon Inns. +1 to Wealth.
-	 - [ ]  All inns in Zilargo and Darguun are now Copper Dragon Inns.
+	 - [x]  All inns in Talenta Plains and Q'barra are now Copper Dragon Inns. +1 to Wealth.
+	 - [x]  All inns in Zilargo and Darguun are now Copper Dragon Inns.
 	 - [ ]  All inns in Karrnath are now Copper Dragon Inns. +1 to Wealth.
 	 - [ ]  All inns in Mror Holds and Lhazaar Principalities are now Copper Dragon Inns.
 	 - [ ]  All inns in Thrane are now Copper Dragon Inns. +1 to Wealth.
@@ -190,16 +189,16 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Red (Mror Holds)
 - **Cunning**: 2
-- **Force**: 1
+- **Force**: 2 (1)
 - **Magic**: 1
 - **Wealth**: 2
 - **Assets**:
 	- 
-- **Morale**: +6
+- **Morale**: +7
 - **Goal**: To spread the religion of the dragons, known as Thir, throughout Eberron but especially through the Sovereign Host. The intent is to channel the energy of faithful believers (their Force) to help release Tiamat.
 - **Objectives**:
 	 - [x]  The Order of the Ruby Scale, a group of dwarves, begin their ministries in the Mror Holds spreading Thir.
-	 - [ ]  Temples of the Sovereign Host throughout eastern Khorvaire (east of the Mournland) begin teaching Thir beliefs, that the first Sovereigns were dragons of great or ill renown who ascended to godhood during the Age of Demons. +1 to Force.
+	 - [x]  Temples of the Sovereign Host throughout eastern Khorvaire (east of the Mournland) begin teaching Thir beliefs, that the first Sovereigns were dragons of great or ill renown who ascended to godhood during the Age of Demons. +1 to Force.
 	 - [ ]  Temples of the Sovereign Host throughout ALL of Khorvaire are teaching Thir beliefs. +1 to Force.
 	 - [ ]  Half of the Khorvaire believers of the Sovereign Host have adopted the Thir beliefs. Sovereign Host temples all over Khorvaire start adopting more draconic symbology. +1 to Force.
 	 - [ ]  Temples of the Sovereign Host throughout Sarlona (and anywhere else in Eberron) begin teaching Thir beliefs. +1 to Force.
@@ -244,7 +243,6 @@ The tracts below are listed in the general order that the PCs are expected to en
 * Tiamat is essentially a representation of the evil eye, with the sphinxes acting as agents of apotropaic magic.
 * For the Infernal Machine, use the Kobold War Machine (CR 9) stat block from Tome of Beasts 2, then have it disappear when defeated (possibly taking a PC with it? maybe roll a save or something?)
 * The table below can be used for potions made from dragon parts, draconic ales, or anything else.
-
 
 | dice: 1d10 | Dragon Color | Potion Effect                       |
 | ---------- | ------------ | ----------------------------------- |
