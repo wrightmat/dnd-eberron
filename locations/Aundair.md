@@ -1,6 +1,7 @@
 ---
 region: "[[Khorvaire]]"
 type: Region
+image: "![https://static.wikia.nocookie.net/eberron/images/0/04/Aundair_Coat_of_Arms.png|250](https://static.wikia.nocookie.net/eberron/images/0/04/Aundair_Coat_of_Arms.png)"
 ---
  #location #region [[Khorvaire]]
 

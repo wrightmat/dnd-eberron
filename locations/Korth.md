@@ -2,6 +2,7 @@
 type: Capital
 region: "[[Karrnath]]"
 location: "[30.183122, -15.150146]"
+image: "![https://static.wikia.nocookie.net/eberron/images/b/b1/Korth_Map.JPG|250](https://static.wikia.nocookie.net/eberron/images/b/b1/Korth_Map.JPG)"
 ---
  #location #capital [[Karrnath]]
 

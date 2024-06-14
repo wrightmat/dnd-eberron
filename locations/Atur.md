@@ -2,6 +2,7 @@
 type: City
 region: "[[Karrnath]]"
 location: "[30.949347, -12.073975]"
+image: "![https://static.wikia.nocookie.net/eberron/images/4/44/Map_Karrnath.jpg|250](https://static.wikia.nocookie.net/eberron/images/4/44/Map_Karrnath.jpg)"
 ---
  #location #city [[Karrnath]]
 

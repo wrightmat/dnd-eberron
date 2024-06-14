@@ -3,7 +3,7 @@ type: City
 region: "[[Argonnessen]]"
 government: 
 ruler: The Masters of Io’lokar
-image: 
+image: "![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVATzdg6HEaeSC_u7Ht4ZJuIFVSR_3LiV1g&s|250](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVATzdg6HEaeSC_u7Ht4ZJuIFVSR_3LiV1g&s)"
 location: 
 demographics: 14% human, 13% dwarf, 12% goblin and hobgoblin, 11% elf and half-elf, 11% changeling, 10% orc and half-orc, 10% halfling, 10% gnome, 8% shifter, 1% other
 ---

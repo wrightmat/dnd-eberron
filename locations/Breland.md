@@ -1,6 +1,7 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
+image: "![https://static.wikia.nocookie.net/eberron/images/d/da/BrelandCoA.jpg|250](https://static.wikia.nocookie.net/eberron/images/d/da/BrelandCoA.jpg)"
 ---
  #location #region [[Khorvaire]]
 

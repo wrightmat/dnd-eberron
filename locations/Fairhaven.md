@@ -2,6 +2,7 @@
 type: Capital
 region: "[[Aundair]]"
 location: "[30.647364, -25.686035]"
+image: "![https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg|250](https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg)"
 ---
  #location #capital [[Aundair]]
 

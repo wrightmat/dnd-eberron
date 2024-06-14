@@ -2,6 +2,7 @@
 type: City
 region: "[[Zilargo]]"
 location: "[4.171115, -24.543457]"
+image: "![https://i.redd.it/6wyhgbbmg0y21.jpg|250](https://i.redd.it/6wyhgbbmg0y21.jpg)"
 ---
  #location #city [[Zilargo]]
 

@@ -19,10 +19,13 @@ The Eldeen Reaches are a land in northwestern Khorvaire. It is covered by hea
 
 ### Characters
 
-* 
+* **Oalian**. The Great Druid Oalian is recognized as the ultimate authority in the region by all the sects except for the Gatekeepers. The Wardens of the Wood directly serve Oalian and act as his eyes and ears throughout the region.
 
 ### Locations
 
-* 
+* **[[Greenheart]]**
+* **[[Delethorn]]**
+* **[[Niern]]**
+* **The Gloaming**
 
 ### References

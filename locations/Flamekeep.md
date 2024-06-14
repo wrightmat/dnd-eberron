@@ -2,6 +2,7 @@
 type: Capital
 region: "[[Thrane]]"
 location: "[28.72913, -19.610596]"
+image: "![https://www.worldanvil.com/uploads/images/51f0a11fbeec2b7c01293762407f90b7.jpg|250](https://www.worldanvil.com/uploads/images/51f0a11fbeec2b7c01293762407f90b7.jpg)"
 ---
  #location #capital [[Thrane]]
 
