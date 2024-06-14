@@ -1,6 +1,7 @@
 ---
 type: University
 region: "[[Argonnessen]]"
+image: "![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthmwlrzFo2mU4UV8obpqx9-vjh3pr0QyZzQ&s|250](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthmwlrzFo2mU4UV8obpqx9-vjh3pr0QyZzQ&s)"
 ---
  #location #university [[Argonnessen]]
 

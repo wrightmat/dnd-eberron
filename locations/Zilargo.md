@@ -1,6 +1,7 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
+image: "![https://www.worldanvil.com/uploads/images/067d1f0bb26f9b7947c876c106acf2be.jpg|250](https://www.worldanvil.com/uploads/images/067d1f0bb26f9b7947c876c106acf2be.jpg)"
 ---
  #location #region [[Khorvaire]]
 

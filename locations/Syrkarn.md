@@ -1,6 +1,7 @@
 ---
 type: Region
 region: "[[public/Sarlona|Sarlona]]"
+image: "![https://static.wikia.nocookie.net/eberron/images/b/bc/Syrkarn_Map.png|250](https://static.wikia.nocookie.net/eberron/images/b/bc/Syrkarn_Map.png)"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
 Public: [[public/Syrkarn|Syrkarn]]

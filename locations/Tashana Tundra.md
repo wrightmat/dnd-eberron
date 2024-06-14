@@ -1,4 +1,24 @@
+---
+type: Region
+region: "[[public/Sarlona|Sarlona]]"
+image: "![https://static.wikia.nocookie.net/eberron/images/c/cd/Tashana_Tundra_Map.png|250](https://static.wikia.nocookie.net/eberron/images/c/cd/Tashana_Tundra_Map.png)"
+---
 #location #region [[locations/Sarlona|Sarlona]]
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
 
 The Tashana Tundra is a land of vast, open spaces and endless sky. Home to the great shifter nation of Sarlona, the Tundra consists mainly of grassy, treeless plains that stretch without interruption from horizon to horizon. For many thousands of years, these semi-nomadic tribes have roamed the grasslands, isolated from the rest of the world and left in relative peace to contemplate the cold, pure spirit of their ancestral homeland.
 

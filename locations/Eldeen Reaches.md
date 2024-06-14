@@ -1,3 +1,8 @@
+---
+type: Region
+region: "[[Khorvaire]]"
+image: "![https://static.wikia.nocookie.net/eberron/images/2/2d/Eldeen_Reaches.jpg|250](https://static.wikia.nocookie.net/eberron/images/2/2d/Eldeen_Reaches.jpg)"
+---
  #location #region [[Khorvaire]]
 
 > [!infobox]

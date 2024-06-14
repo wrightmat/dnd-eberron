@@ -2,6 +2,7 @@
 type: Capital
 region: "[[Breland]]"
 location: "[12.608176, -36.156006]"
+image: "![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3V5D3YxIVjDjCYqp3PFwOz0r-VZjm5L0Ug&s|250](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3V5D3YxIVjDjCYqp3PFwOz0r-VZjm5L0Ug&s)"
 ---
  #location #capital [[Breland]]
 

@@ -1,6 +1,7 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
+image: "![https://static.wikia.nocookie.net/eberron/images/2/23/ShadowMarches.jpg|250](https://static.wikia.nocookie.net/eberron/images/2/23/ShadowMarches.jpg)"
 ---
  #location #region [[Khorvaire]]
 

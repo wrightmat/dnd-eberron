@@ -6,7 +6,6 @@ ruler: Shan Kaelan
 image: 
 location:
 ---
-
  #location #castle/fort [[Valenar]]
 
 > [!infobox]

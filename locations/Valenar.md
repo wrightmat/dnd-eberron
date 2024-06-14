@@ -1,6 +1,7 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
+image: "![https://static.wikia.nocookie.net/eberron/images/0/0d/D%26D_-_4th_Edition_-_Eberron_Map_Valenar.jpg](https://static.wikia.nocookie.net/eberron/images/0/0d/D%26D_-_4th_Edition_-_Eberron_Map_Valenar.jpg)"
 ---
  #location #region [[Khorvaire]]
 

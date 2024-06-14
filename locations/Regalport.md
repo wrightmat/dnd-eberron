@@ -6,8 +6,7 @@ ruler: High Prince Ryger ir'Wynarn
 image: "![https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg|250](https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg)"
 location: "[36.791691,19.072266]"
 ---
-
- #location #capital 
+ #location #capital [[Lhazaar Principalities]]
 
 > [!infobox]
 > # `=this.file.name`

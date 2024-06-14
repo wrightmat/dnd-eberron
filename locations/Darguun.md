@@ -1,3 +1,8 @@
+---
+type: Region
+region: "[[Khorvaire]]"
+image: "![https://static.wikia.nocookie.net/eberron/images/3/37/D%26D_-_4th_Edition_-_Eberron_Map_Darguun.jpg|250](https://static.wikia.nocookie.net/eberron/images/3/37/D%26D_-_4th_Edition_-_Eberron_Map_Darguun.jpg)"
+---
  #location #region [[Khorvaire]]
 
 > [!infobox]

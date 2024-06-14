@@ -2,6 +2,7 @@
 type: Town
 region: "[[Breland]]"
 location: "[20.457896, -17.731934]"
+image: "![https://external-preview.redd.it/D3ukHR3jU3MYBcc2NtsbpA4cwO914QhayV7jvhxCp7s.jpg?auto=webp&s=d937df20e4e0ea106aeda3be0e05c543e8fd5c23|250](https://external-preview.redd.it/D3ukHR3jU3MYBcc2NtsbpA4cwO914QhayV7jvhxCp7s.jpg?auto=webp&s=d937df20e4e0ea106aeda3be0e05c543e8fd5c23)"
 ---
  #location #town [[Breland]]
 

@@ -1,7 +1,7 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
-image: "![https://static.wikia.nocookie.net/eberron/images/e/e6/Creilath_sharn_council.png|250](https://static.wikia.nocookie.net/eberron/images/e/e6/Creilath_sharn_council.png)"
+image: "![https://static.wikia.nocookie.net/eberron/images/3/3c/Mror_holds.jpg|250](https://static.wikia.nocookie.net/eberron/images/3/3c/Mror_holds.jpg)"
 ---
  #location #region [[Khorvaire]]
 

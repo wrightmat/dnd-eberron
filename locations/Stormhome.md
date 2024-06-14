@@ -2,6 +2,7 @@
 type: City
 region: "[[Aundair]]"
 location: "[37.302305, -19.218465]"
+image: "![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50amwrau7WZ_rkJ2b_IaCdetW4B_jz9cR1A&s|250](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50amwrau7WZ_rkJ2b_IaCdetW4B_jz9cR1A&s)"
 ---
  #location #city [[Aundair]]
 

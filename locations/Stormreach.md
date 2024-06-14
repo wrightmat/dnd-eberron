@@ -1,11 +1,11 @@
 ---
 type: City
 region: "[[Xen’drik]]"
-image: "![https://static.wikia.nocookie.net/eberron/images/f/f3/Stormreach_map.jpg|250](https://static.wikia.nocookie.net/eberron/images/f/f3/Stormreach_map.jpg)"
 ruler: Storm Lords
 government: Aristocracy
 demographics: "Humans 43%, gnomes 9%, half-elves\r9%, dwarves 8%, orcs and half-ores 8%, halflings 7%, elves\r6%, warforged 2%, shifters 2%, changelings 1%, other\r(drow, goblinoids, giants, kalashtar, monstrous races) 5%"
 location: "[-15.114553, -64.951172]"
+image: "![https://static.wikia.nocookie.net/eberron/images/f/f3/Stormreach_map.jpg|250](https://static.wikia.nocookie.net/eberron/images/f/f3/Stormreach_map.jpg)"
 ---
  #location #city [[Xen’drik]]
 

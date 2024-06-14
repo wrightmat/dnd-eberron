@@ -2,7 +2,7 @@
 type: Town
 region: "[[Q’barra]]"
 ruler: Elder Wedon Nevillom
-image: "![https://static.wikia.nocookie.net/eberron/images/7/7a/4E_Qbarra.jpg|250](https://static.wikia.nocookie.net/eberron/images/7/7a/4E_Qbarra.jpg)"
+image: "![https://preview.redd.it/55cp188n06o71.jpg?auto=webp&s=cb7671dec9d0ffd2bfee8b5384745694607722c1|250](https://preview.redd.it/55cp188n06o71.jpg?auto=webp&s=cb7671dec9d0ffd2bfee8b5384745694607722c1)"
 location: "[15.36895, 0.054932]"
 ---
  #location #village [[Q’barra]]

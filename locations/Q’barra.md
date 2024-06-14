@@ -1,6 +1,7 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
+image: "![https://static.wikia.nocookie.net/eberron/images/d/d7/Qbarra.jpg|250](https://static.wikia.nocookie.net/eberron/images/d/d7/Qbarra.jpg)"
 ---
  #location #region [[Khorvaire]]
 

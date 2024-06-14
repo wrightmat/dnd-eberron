@@ -2,6 +2,7 @@
 type: City
 region: "[[Aundair]]"
 location: "[27.215556, -29.992676]"
+image: "![https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg|250](https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg)"
 ---
  #location #city [[Aundair]]
 
@@ -31,11 +32,11 @@ Journey's Home is built on a hill and is big enough to be considered a district 
 
 ### Characters
 
-* **Kellark** (male dwarf).
-* **Mon Rizon** (female human).
-* **Almorn** (male gnome).
-* **Sincryn** (male gnome).
-* **Lorixi** (female gnome).
+* **Kellark** (male dwarf)
+* **Mon Rizon** (female human)
+* **Almorn** (male gnome)
+* **Sincryn** (male gnome)
+* **Lorixi** (female gnome)
 * **Rikard d’Orien**
 * **Hazel d’Orien**
 

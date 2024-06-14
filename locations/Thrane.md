@@ -1,6 +1,7 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
+image: "![https://klubbsaga2015.wdfiles.com/local--files/thrane/Crest%20-%20Kingdom%20of%20Thrane%2001.png|250](https://klubbsaga2015.wdfiles.com/local--files/thrane/Crest%20-%20Kingdom%20of%20Thrane%2001.png)"
 ---
  #location #region [[Khorvaire]]
 

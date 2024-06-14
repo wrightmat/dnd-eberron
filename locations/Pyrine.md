@@ -1,9 +1,27 @@
+---
+region: "[[public/Sarlona|Sarlona]]"
+type: Region
+image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png)"
+---
  #location #region [[locations/Sarlona|Sarlona]]
 Public: [[public/Pyrine|Pyrine]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png)
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
 
-Pyrine is a land of warm plains and forests, welcoming both in its aspect and its aura. Something about Pyrine inspires calm reflection. When standing in a Pyrinean meadow, it's easy to feel a sense of joy and contentment— to know that somehow, all is right in the world.
+Pyrine is a land of warm plains and forests, welcoming both in its aspect and its aura. Something about Pyrine inspires calm reflection. When standing in a Pyrinean meadow, it's easy to feel a sense of joy and contentment — to know that somehow, all is right in the world.
 
 Faith was the strong foundation of Pyrine, but the Dreaming Dark was able to use this as a weapon. Dream manipulation allowed the quori to spread false visions, creating schisms and driving zealots to pursue heresy. Nulakesh was again encouraged to extend its power into Pyrine, and even some of the Shadow Lords of Ohr Kaluun were urged to attack. Across Sarlona, quori worked to undermine faith in the Sovereigns; after all, if the gods were just, why would they allow the myriad terrors of the Sundering? Ultimately, people came to see the Pyrineans as servants of the altavars, peddling a faith that bound innocent dupes to the service of fiends. The temples were torn down and the Sovereigns forgotten.
 
