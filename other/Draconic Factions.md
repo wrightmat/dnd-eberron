@@ -130,19 +130,19 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Magic**: 5 (3)
 - **Wealth**: 1
 - **Assets**:
-	- 3 people from an island of Lhazaar taken by the Infernal Engine
+	- 30 people from an island of Lhazaar taken by the Infernal Engine
 - **Morale**: +9
 - **Goal**: To sow chaos, as a necessary precursor to the rise of draconic supremacy (mechanically this will probably involve adding to particular rolls/checks based on how many of these are checked off).
 - **Objectives**:
 	 - [x]  The Order of the Sapphire Scale, a group of random people of all races (mostly humans and changelings), begin their efforts in Lhazaar. The Infernal Enginer appears during a play at the Grand Thuranni Theater and takes several people.
 	 - [x]  Chaos spreads across Lhazaar - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects (d20 rolled when any spell cast, with a wild magic effect on a 1) in place for any magic cast in this region. +1 to Magic.
 	 - [x]  Chaos spreads across eastern Khorvaire (east of the Mournland) - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast in the area. +1 to Magic.
-	 - [x]  The Infernal Engine randomly appears on one of the islands of Lhazaar, disappearing `dice:1d6` days later, and taking `dice:1d8` people with it. Add those people to Assets.
+	 - [x]  The Infernal Engine randomly appears on one of the islands of Lhazaar, disappearing `dice:1d6` days later, and taking `dice:1d8*10` people with it. Add those people to Assets.
 	 - [ ]  Chaos spreads across ALL Khorvaire - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast on the continent. +1 to Magic.
-	 - [ ]  The Infernal Engine randomly appears somewhere on Khorvaire, disappearing `dice:1d6` days later, and taking `dice:1d10+1` people with it. Add those people to Assets.
+	 - [ ]  The Infernal Engine randomly appears somewhere on Khorvaire, disappearing `dice:1d6` days later, and taking `dice:1d10*25` people with it. Add those people to Assets.
 	 - [ ]  Chaos spreads across all of Eberron - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast. +1 to Magic.
-	 - [ ]  The Infernal Engine randomly appears somewhere on Sarlona, disappearing `dice:1d6` days later, and taking `dice:1d12+2` people with it. Add those people to Assets.
-	 - [ ]  The Infernal Engine randomly appears somewhere on Eberron, disappearing `dice:1d6` days later, and taking `dice:1d20+3` people with it. Add those people to Assets.
+	 - [ ]  The Infernal Engine randomly appears somewhere on Sarlona, disappearing `dice:1d6` days later, and taking `dice:1d12*50` people with it. Add those people to Assets.
+	 - [ ]  The Infernal Engine randomly appears somewhere on Eberron, disappearing `dice:1d6` days later, and taking `dice:1d20*100` people with it. Add those people to Assets.
 
 ##### Black (Shadow Marches)
 - **Cunning**: 1
@@ -151,7 +151,9 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Wealth**: 0
 - **Assets**:
 	- 
-- **Morale**: +6
+- **Setbacks**:
+	- Gharzaak, the leader of the Order of the Onyx Scale was killed by Verity (-1)
+- **Morale**: +5
 - **Goal**: To descend into the depths of Khyber in order to gain access to Tiamat herself directly.
 - **Objectives**:
 	 - [x]  Order of the Onyx Scale begins excavation of what's believed to be Vvaraak's Cave in the Shadow Marches.
