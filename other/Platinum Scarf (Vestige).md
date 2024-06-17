@@ -18,8 +18,8 @@ This scarf is made of Syranian silk and covered in platinum-colored scales. As a
 
 ##### Slot 2 Alternate
 * **Level 1**: An illusion of a dragon, your choice of appearance, forms over the thrown scale and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm.
-* **Level 1**: An illusion of a creature of your choice forms over the thrown scale and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm.
-* **Level 1**: An illusion of one or more creatures forms over the thrown scale and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its scale.
+* **Level 2**: An illusion of a creature of your choice forms over the thrown scale and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm.
+* **Level 3**: An illusion of one or more creatures forms over the thrown scale and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its scale.
 
 ##### Slot 3
 
@@ -30,8 +30,8 @@ This scarf is made of Syranian silk and covered in platinum-colored scales. As a
 ##### Slot 3 Alternate
 
 - **Level 1**: For 1 hour or until you dismiss it (no action required), the scale becomes a magic light hammer, which you or another creature can use. The weapon deals 2d4 radiant damage, instead of the bludgeoning damage normal for a light hammer. It deals an extra 2d4 radiant damage to dragons.
-- **Level 2**: For 1 hour or until you dismiss it (no action required), the scale becomes a magic light hammer, which you or another creature can use. The weapon deals 3d4 radiant damage, instead of the bludgeoning damage normal for a light hammer. It deals an extra 2d4 radiant damage to dragons.
-- **Level 3**: For 1 hour or until you dismiss it (no action required), the scale becomes a magic light hammer, which you or another creature can use. The weapon deals 4d4 radiant damage, instead of the bludgeoning damage normal for a light hammer. It deals an extra 2d4 radiant damage to dragons.
+- **Level 2**: For 1 hour or until you dismiss it (no action required), the scale becomes a magic light hammer, which you or another creature can use. The weapon deals 4d4 radiant damage, instead of the bludgeoning damage normal for a light hammer. It deals an extra 2d4 radiant damage to dragons.
+- **Level 3**: For 1 hour or until you dismiss it (no action required), the scale becomes a magic light hammer, which you or another creature can use. The weapon deals 6d4 radiant damage, instead of the bludgeoning damage normal for a light hammer. It deals an extra 2d4 radiant damage to dragons.
 
 ### References
 
