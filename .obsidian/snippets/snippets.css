@@ -1,0 +1,9 @@
+.hide-embedded-h1 .markdown-embed h1 {
+	display: none; 
+}
+.hide-embedded-h2 .markdown-embed h2 {
+	display: none; 
+}
+.hide-embedded-h3 .markdown-embed h3 {
+	display: none; 
+}
