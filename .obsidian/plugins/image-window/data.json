@@ -1,0 +1,19 @@
+{
+  "saveWindowLocations": true,
+  "useCustomWindowName": true,
+  "customWindowName": "Second Window",
+  "windows": {
+    "Second Window": {
+      "hosts": {
+        "CCS69K3": {
+          "x": 231,
+          "y": 114,
+          "width": 1443,
+          "height": 800,
+          "fullscreen": false,
+          "maximized": false
+        }
+      }
+    }
+  }
+}
