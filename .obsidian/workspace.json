@@ -225,7 +225,8 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "97f22b5c9e620780",
