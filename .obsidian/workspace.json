@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "sessions/2024-06-20.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "sessions/2024-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,38 +178,19 @@
             }
           },
           {
-            "id": "3e9463db9aa3b5b3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "DM Screen.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "275f2b5e2b05f725",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          },
-          {
-            "id": "17194325e2d5dcb8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,13 +210,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "97f22b5c9e620780",
+  "active": "84263f6f4fb45785",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
-    "characters/Verity.md",
-    "sessions/2024-06-20.md",
     "DM Screen.md",
     "adventures/C03. Riddles of the Third Age.md",
+    "sessions/2024-06-20.md",
+    "adventures/C03. Riddles of the Third Age/2-09 Traversing Argonnessen.md",
+    "characters/Avarice.md",
+    "locations/Argonnessen.md",
+    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+    "characters/Verity.md",
     "adventures/C01. What Dreams May Come.md",
     "locations/Arcanix.md",
     "sessions/C01/2023-09-28.md",
@@ -252,11 +236,8 @@
     "sessions/2024-06-13.md",
     "other/Platinum Scarf (Vestige).md",
     "_ref/Modular Magic Items (Vestiges).md",
-    "adventures/C03. Riddles of the Third Age/2-09 Traversing Argonnessen.md",
     "adventures/C03. Riddles of the Third Age/2-08. Through the Crystal Library.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
-    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
-    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",

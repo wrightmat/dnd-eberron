@@ -68,6 +68,11 @@ Check off as information is received. These should be gathered from Secrets and 
 	* A non-dragon of some sort running away from somewhere. He's fleeing from a dragon master, who was keeping him captive.
 	* Someone should try to take their Orb of Dragonkind
 	* A dragon who discovers them while traveling. They must explain themselves and why they're here, or get eaten.
+* If the group gets lost or off track in the deserts of The Vast or The Light of Siberys, then confront them with a dracosphinx.
+	* https://www.reddit.com/r/mattcolville/comments/g9re9z/my_version_of_the_dracosphinx_for_5e_long/
+	* https://forgottenrealms.fandom.com/wiki/Dracosphinx
+* Somewhere here (probably in Vorel'Arux), introduce a warlock NPC with the sphinx of wonder patron (or even introduce the patron first). The warlock should probably attack the party, and they will likely kill him. But the patron survives and takes a liking to the party. Then come up with mechanics to make the sphinx more powerful - likely via obtaining information or riddles or something else very sphinx-like.
+	* Reference: 2024 Players Handbook
 
 
 | dice: 1d20 | River Encounter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -82,8 +87,6 @@ Check off as information is received. These should be gathered from Secrets and 
 | 8          | `encounter: 1d6+2: Eel Hound`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 9-20       | No encounter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 ^argonnessen-river-encounters
-
-
 
 ### References
 
