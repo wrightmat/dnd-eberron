@@ -184,6 +184,18 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "9981db2ea9a77c3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sessions/2024-06-20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 4
