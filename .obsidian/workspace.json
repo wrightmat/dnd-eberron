@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
+                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md"
+                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
+                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,14 +223,16 @@
   },
   "active": "58b9e82936591613",
   "lastOpenFiles": [
+    "sessions/2024-06-20.md",
+    "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
+    "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
+    "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
+    "adventures/C04. The Nature of Magic.md",
     "adventures/C04. The Nature of Magic/1-02. Strixhaven Year 1, Term 2.md",
     "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
     "adventures/C04. The Nature of Magic/1-04. Strixhaven Year 2, Term 2.md",
-    "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
-    "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
     "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
     "other/Platinum Scarf (Vestige).md",
-    "sessions/2024-06-20.md",
     "DM Screen.md",
     "adventures/C03. Riddles of the Third Age.md",
     "adventures/C03. Riddles of the Third Age/2-09 Traversing Argonnessen.md",
@@ -247,8 +249,6 @@
     "other/Academic Institutions.md",
     "characters/Windsor Stone.md",
     "locations/Therendor (Syrania).md",
-    "creatures/Mindrot Thrall.md",
-    "other/Draconic Factions.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
