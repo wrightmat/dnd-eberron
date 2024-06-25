@@ -60,21 +60,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6d982979c72eeaee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/1-12. Xen'drik and the Ruined Lair.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/1-12. Xen'drik and the Ruined Lair.md"
+                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md"
               }
             }
           },
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/1-12. Xen'drik and the Ruined Lair.md",
+                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,8 +221,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6d982979c72eeaee",
+  "active": "58b9e82936591613",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/1-12. Xen'drik and the Ruined Lair.md",
     "adventures/C04. The Nature of Magic.md",
     "adventures/C03. Riddles of the Third Age.md",
     "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
@@ -260,7 +249,6 @@
     "other/Embers.md",
     "other/Academic Institutions.md",
     "characters/Windsor Stone.md",
-    "locations/Therendor (Syrania).md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
