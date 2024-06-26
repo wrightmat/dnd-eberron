@@ -55,19 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e78a6b5a839b2b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "creatures/Mineral Ooze.md",
+                "file": "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md"
+                "file": "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md"
               }
             }
           },
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
+                "file": "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,9 +223,12 @@
   },
   "active": "58b9e82936591613",
   "lastOpenFiles": [
-    "creatures/Mineral Ooze.md",
-    "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
+    "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
+    "creatures/Arboreal Grappler.md",
     "adventures/C04. The Nature of Magic/1-04. Strixhaven Year 2, Term 2.md",
+    "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
+    "creatures/Mineral Ooze.md",
+    "creatures/Feyward Tree.md",
     "adventures/C04. The Nature of Magic/1-02. Strixhaven Year 1, Term 2.md",
     "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
     "creatures/Murgaxor.md",
@@ -245,7 +236,6 @@
     "creatures/Swampgas Shade.md",
     "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
     "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
-    "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
     "sessions/2024-06-20.md",
     "adventures/C03. Riddles of the Third Age/1-12. Xen'drik and the Ruined Lair.md",
     "adventures/C03. Riddles of the Third Age.md",
@@ -259,8 +249,6 @@
     "adventures/C01. What Dreams May Come.md",
     "locations/Arcanix.md",
     "sessions/C01/2023-09-28.md",
-    "other/Spellshard.md",
-    "other/Space Race.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
