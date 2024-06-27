@@ -65,7 +65,7 @@ Arcanix is divided between four major schools that occupy the first two towers, 
 
 | School                           | Head Professor   | Tower     |
 | -------------------------------- | ---------------- | --------- |
-| Abjuration and Artificy          | Miromi           | Glarehold |
+| Abjuration and Artifice          | Miromi           | Glarehold |
 | Arcana and Artifacts             | Frederic         | Glarehold |
 | Divination and Draconic Prophesy | Jasmine Goldwine | Amberwall |
 | Transmutation and Conjuration    | Flo              | Amberwall |

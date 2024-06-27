@@ -1,6 +1,5 @@
 #organization 
 
-
 #### Arcane Congress (Aundair, Thrane, Breland)
 **Headquarters**: Arcanix, Aundair
 **Schools**: abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, and transmutation.
@@ -18,7 +17,7 @@ Though not the first wizard’s circle, this was the first circle to use the ter
 Over the course of centuries, internal rivalries caused the Arcane Order to split along national lines. This resulted in Breland’s Esoteric Order of Aureon and the Erudite Order of eastern Cyre. The Arcane Order remained a force in central Cyre and in Thrane, though its support dropped significantly in Thrane following the depredations of Sarmondelaryx, the Year of Blood and Fire, and the rise of the Silver Flame. Today the Arcane Order maintains a single hall in Thrane, in the city of Sigilstar.
 
 #### Arcane Order of Moonlight and Whispers (Aundair)
-Headquarters: Daskaran, Aundair
+Headquarters: Stormhome, Aundair
 Schools: illusion, enchantment, divination, necromancy
 
 Said to be the first true wizard’s circle in Khorvaire, the Guild of Moonlight and Whispers was founded in ancient Thaliost by Margana Lain. The guild was dedicated to finding ways to replicating the mystical powers of the fey through arcane science. Members specialize in illusion, enchantment, divination, and magic related directly to the fey, and the Guild is an exceptional source of knowledge regarding fey and archfey.
@@ -37,7 +36,7 @@ Wizards and sorcerers associated with the Guild of Starlight and Shadows usually
 
 #### Order of the Ethereal Blade
 Headquarters: Lathleer, Aundair
-Schools: abjuration, evocation
+Schools: enchantment, illusion
 
 The Order of the Ethereal Blade was founded in the fifth century (YK) as a duelist’s society, where members of other circles could test their skills and spells in battle with fellow mages. What began as a mystical fight club became the core of the original Knights Arcane, and also pioneered Aundair’s Bladesinger tradition (the Tairnadal, Greensingers, and others have their own forms of this path). Today, the Ethereal Blade focuses on the study and development of war magic, but it remains a dueling society whose members are always ready to prove their mettle in battle. Many of Aundair’s finest warmages are members of the Order, along with officers of the Knights Arcane and Knight Phantoms.
 
@@ -87,4 +86,8 @@ Located in the city of Thaliost, this order of Evokers specializes in pyromancy.
 Headquarters: Wyr, Aundair
 Schools: psionics
 
-small monasteries dot the countryside, in which monks devoted to any number of gods or belief systems spend time in quiet mediation and study. The warrior-monks of the Monastery of Oral-un, located on the edge of the village Wyr, for example, are as famed for the sweet, dark Orla-un wine as they are for their doctorine of strong minds and stronger bodies.
+Small monasteries dot the countryside, in which monks devoted to any number of gods or belief systems spend time in quiet mediation and study. The warrior-monks of the Monastery of Oral-un, located on the edge of the village Wyr, for example, are as famed for the sweet, dark Orla-un wine as they are for their doctorine of strong minds and stronger bodies.
+
+### References
+
+- https://keith-baker.com/ifaq-wizard-circles/ (some names adjusted to use a consistent "Order" naming scheme)

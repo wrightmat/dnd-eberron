@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-06-20.md",
+                "file": "sessions/2024-06-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,38 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "981d55e0c5833585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C04. The Nature of Magic.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dacd555e48437b12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "other/Wizard Circles.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/Wizard Circles.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md"
               }
             }
           },
@@ -162,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/Wizard Circles.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 418.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,13 +221,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dacd555e48437b12",
+  "active": "58b9e82936591613",
   "lastOpenFiles": [
-    "adventures/C04. The Nature of Magic.md",
-    "other/Wizard Circles.md",
-    "Summary.md",
+    "sessions/2024-06-27.md",
+    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+    "sessions/2024-06-20.md",
+    "sessions/2024-06-13.md",
+    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+    "locations/Arcanix.md",
     "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
+    "other/Wizard Circles.md",
+    "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
+    "adventures/C04. The Nature of Magic.md",
     "adventures/C04. The Nature of Magic/1-08. Strixhaven Finale.md",
+    "Summary.md",
     "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
     "adventures/C03. Riddles of the Third Age.md",
     "Untitled.md",
@@ -265,14 +248,7 @@
     "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
     "creatures/Murgaxor.md",
     "creatures/Swampgas Shade.md",
-    "sessions/2024-06-20.md",
     "adventures/C03. Riddles of the Third Age/1-12. Xen'drik and the Ruined Lair.md",
-    "other/Platinum Scarf (Vestige).md",
-    "DM Screen.md",
-    "adventures/C03. Riddles of the Third Age/2-09 Traversing Argonnessen.md",
-    "characters/Avarice.md",
-    "locations/Argonnessen.md",
-    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
