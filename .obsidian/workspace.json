@@ -72,9 +72,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dacd555e48437b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/Wizard Circles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md"
+                "file": "other/Wizard Circles.md"
               }
             }
           },
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
+                "file": "other/Wizard Circles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,11 +245,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "58b9e82936591613",
+  "active": "dacd555e48437b12",
   "lastOpenFiles": [
-    "adventures/C04. The Nature of Magic/1-08. Strixhaven Finale.md",
-    "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
     "adventures/C04. The Nature of Magic.md",
+    "other/Wizard Circles.md",
+    "Summary.md",
+    "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
+    "adventures/C04. The Nature of Magic/1-08. Strixhaven Finale.md",
     "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
     "adventures/C03. Riddles of the Third Age.md",
     "Untitled.md",
@@ -259,8 +273,6 @@
     "characters/Avarice.md",
     "locations/Argonnessen.md",
     "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
-    "characters/Verity.md",
-    "adventures/C01. What Dreams May Come.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
