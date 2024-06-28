@@ -43,14 +43,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-06-27.md",
+                "file": "sessions/2024-06-20.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce8289e6a6d2aa8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/2024-06-27.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e804d4b59ed74e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,6 +133,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 52.170138888888886,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -116,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-06-27.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md"
               }
             }
           },
@@ -126,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-06-27.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +159,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e23402bfb9e69ab3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -186,22 +200,36 @@
             }
           },
           {
-            "id": "f9bdfc759c25fc77",
+            "id": "e23402bfb9e69ab3",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "tag",
               "state": {
-                "file": "sessions/2024-06-27.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "230482de5e75f4d1",
+        "type": "tabs",
+        "dimension": 47.82986111111111,
+        "children": [
+          {
+            "id": "4752edb2f8b627b6",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 464.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +249,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "84263f6f4fb45785",
+  "active": "97f22b5c9e620780",
   "lastOpenFiles": [
+    "other/Lantern of Seeking.md",
+    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+    "sessions/2024-06-27.md",
+    "sessions/2024-06-20.md",
+    "adventures/C03. Riddles of the Third Age.md",
+    "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
     "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
     "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
     "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
@@ -230,25 +264,19 @@
     "adventures/C04. The Nature of Magic/1-04. Strixhaven Year 2, Term 2.md",
     "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
     "adventures/C04. The Nature of Magic/1-02. Strixhaven Year 1, Term 2.md",
-    "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "_srd/items/Bead of Force.md",
-    "sessions/2024-06-27.md",
-    "sessions/2024-06-20.md",
     "sessions/2024-06-13.md",
-    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
     "locations/Arcanix.md",
     "other/Wizard Circles.md",
     "adventures/C04. The Nature of Magic.md",
     "adventures/C04. The Nature of Magic/1-08. Strixhaven Finale.md",
     "Summary.md",
-    "adventures/C03. Riddles of the Third Age.md",
     "Untitled.md",
     "creatures/Arboreal Grappler.md",
     "creatures/Mineral Ooze.md",
     "creatures/Feyward Tree.md",
     "creatures/Murgaxor.md",
-    "creatures/Swampgas Shade.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
