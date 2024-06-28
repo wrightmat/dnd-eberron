@@ -133,7 +133,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 52.170138888888886,
+        "dimension": 35.67708333333333,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md"
+                "file": "_srd/spells/Lightning Bolt.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+                "file": "_srd/spells/Lightning Bolt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,15 +210,16 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "230482de5e75f4d1",
+        "id": "d8ce98afad7b2645",
         "type": "tabs",
-        "dimension": 47.82986111111111,
+        "dimension": 64.32291666666666,
         "children": [
           {
-            "id": "4752edb2f8b627b6",
+            "id": "e6b8f3050381822f",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -229,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 505.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,11 +250,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "97f22b5c9e620780",
+  "active": "de76a06521b063a6",
   "lastOpenFiles": [
-    "other/Lantern of Seeking.md",
+    "creatures/Bereginyas.md",
     "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+    "_srd/spells/Lightning Bolt.md",
+    "_srd/spells/Dancing Lights.md",
+    "_srd/Situational Rules.md",
     "sessions/2024-06-27.md",
+    "DM Screen.md",
+    "other/Lantern of Seeking.md",
     "sessions/2024-06-20.md",
     "adventures/C03. Riddles of the Third Age.md",
     "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
@@ -272,11 +278,6 @@
     "adventures/C04. The Nature of Magic.md",
     "adventures/C04. The Nature of Magic/1-08. Strixhaven Finale.md",
     "Summary.md",
-    "Untitled.md",
-    "creatures/Arboreal Grappler.md",
-    "creatures/Mineral Ooze.md",
-    "creatures/Feyward Tree.md",
-    "creatures/Murgaxor.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
