@@ -55,38 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-06-27.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e804d4b59ed74e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88040b10de9a14a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "other/Platinum Scarf (Vestige).md",
-                "mode": "preview",
+                "file": "sessions/2024-07-11.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +121,6 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 36.11111111111111,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -153,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md"
+                "file": "sessions/2024-07-11.md"
               }
             }
           },
@@ -163,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+                "file": "sessions/2024-07-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,27 +197,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "3f75408941fbd594",
-        "type": "tabs",
-        "dimension": 63.888888888888886,
-        "children": [
-          {
-            "id": "be79bd00fac1cef1",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,18 +221,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7e804d4b59ed74e5",
+  "active": "ce8289e6a6d2aa8b",
   "lastOpenFiles": [
-    "other/Platinum Scarf (Vestige).md",
+    "sessions/2024-06-27.md",
+    "sessions/2024-07-11.md",
+    "sessions/2024-06-20.md",
     "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+    "other/Platinum Scarf (Vestige).md",
+    "characters/Verity.md",
     "_srd/spells/Lightning Bolt.md",
     "creatures/Bereginyas.md",
     "_srd/spells/Dancing Lights.md",
     "_srd/Situational Rules.md",
-    "sessions/2024-06-27.md",
     "DM Screen.md",
     "other/Lantern of Seeking.md",
-    "sessions/2024-06-20.md",
     "adventures/C03. Riddles of the Third Age.md",
     "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
     "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
@@ -288,8 +249,6 @@
     "sessions/2024-06-13.md",
     "locations/Arcanix.md",
     "other/Wizard Circles.md",
-    "adventures/C04. The Nature of Magic.md",
-    "adventures/C04. The Nature of Magic/1-08. Strixhaven Finale.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
