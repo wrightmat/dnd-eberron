@@ -133,7 +133,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 35.67708333333333,
+        "dimension": 42.10069444444444,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_srd/spells/Lightning Bolt.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_srd/spells/Lightning Bolt.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
       {
         "id": "d8ce98afad7b2645",
         "type": "tabs",
-        "dimension": 64.32291666666666,
+        "dimension": 57.89930555555556,
         "children": [
           {
             "id": "e6b8f3050381822f",
@@ -252,9 +252,9 @@
   },
   "active": "de76a06521b063a6",
   "lastOpenFiles": [
-    "creatures/Bereginyas.md",
     "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
     "_srd/spells/Lightning Bolt.md",
+    "creatures/Bereginyas.md",
     "_srd/spells/Dancing Lights.md",
     "_srd/Situational Rules.md",
     "sessions/2024-06-27.md",

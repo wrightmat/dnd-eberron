@@ -200,7 +200,7 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -238,9 +238,11 @@
         "note": "Thana Winslow",
         "path": "characters/Thana Winslow.md",
         "id": "ID_289a380b9b68",
-        "currentHP": 46,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "level": 5,
         "player": true,
@@ -282,11 +284,11 @@
         "ac": 17,
         "currentAC": 17,
         "id": "ID_191b28ab4a99",
-        "currentHP": 82,
+        "currentHP": 34,
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "11d8 + 32",
@@ -294,7 +296,7 @@
       },
       {
         "name": "Green Hag",
-        "display": "Arizza",
+        "display": "Azirssa",
         "initiative": 17,
         "static": false,
         "modifier": 1,
@@ -304,9 +306,11 @@
         "ac": 17,
         "currentAC": 17,
         "id": "ID_3ad92a58faa8",
-        "currentHP": 82,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -317,7 +321,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 2,
+    "round": 8,
     "logFile": "",
     "rollHP": false
   },
