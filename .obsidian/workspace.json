@@ -60,45 +60,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4abdac263860272e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/Mordain’s Hall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc68c622182c5299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "639a795ca02743ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/Dolurrh's Dawn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md"
+                "file": "adventures/C04. The Nature of Magic/2-02. Transmutation.md"
               }
             }
           },
@@ -174,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md",
+                "file": "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md",
+                "file": "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,14 +233,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bc68c622182c5299",
+  "active": "ce8289e6a6d2aa8b",
   "lastOpenFiles": [
-    "locations/Dolurrh's Dawn.md",
-    "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md",
     "locations/Mordain’s Hall.md",
-    "_ref/Travel and Random Encounters.md",
     "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
+    "adventures/C01. What Dreams May Come/2-11. Tower of Mordain.md",
+    "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md",
     "adventures/C01. What Dreams May Come/2-09. The Forest of Flesh.md",
+    "locations/Dolurrh's Dawn.md",
+    "locations/Menthis Plateau.md",
+    "_ref/Travel and Random Encounters.md",
     "sessions/2024-07-11.md",
     "sessions/2024-06-20.md",
     "creatures/Skinweaver Hand.md",
@@ -295,8 +261,6 @@
     "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
     "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
     "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
-    "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
-    "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",

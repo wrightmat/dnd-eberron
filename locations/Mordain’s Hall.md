@@ -2,6 +2,7 @@
 type: Castle/Fort
 region: "[[Droaam]]"
 location: "[24.156778, -49.064941]"
+image: "![https://static.wikia.nocookie.net/eberron/images/e/e0/TheForestofFlesh.jpg|250](https://static.wikia.nocookie.net/eberron/images/e/e0/TheForestofFlesh.jpg)"
 ---
  #location #castle/fort [[Droaam]]
 
@@ -36,7 +37,7 @@ Home to Mordain the Fleshweaver, Mordain’s Hall lies in the northwest of Droaa
 - **The Tower of Mordain**. A massive tower close to Droaam's western border, and the residence of Mordain the Fleshweaver. The Tower reaches high up into the sky, and is shaped somewhat like a malformed limb, seemingly made out of the flesh of a black dragon. The walls bleed when struck, but the tower's wounds heal extraordinarily fast. The tower has been magically protected against scrying and teleportation by Mordain.
 - **Blackroot**. A small Orc/Human village west of the tower, and the associated entrance to the depths of Khyber in a nearby cave.
 - **The Forest of Flesh**. Located east of Blackroot, and surrounds the Tower of Mordain. It is a dangerous place that houses fowl creatures such as skinweavers.
-- **Dolurrh’s Dawn**. Located east of the Forest of Flesh, but is magically protected by Mordain so it can’t be found by outsiders unless they’re traversing through the Forest of Flesh.
+- **[[Dolurrh's Dawn]]**. Located east of the Forest of Flesh, but is magically protected by Mordain so it can’t be found by outsiders unless they’re traversing through the Forest of Flesh.
 
 ### Mordain the Fleshweaver
 
@@ -93,20 +94,21 @@ If they can survive the dangers of the forest, adventurers eventually come to a 
 
 The entire area is considered dangerous, so encounters occur on a 12 or greater (1d20 + hours of time in the forest), rolling every hour that’s spent here. The forest is 10 miles across, resulting in 3 rolls (if no Nature checks are failed) while on foot.
 
-| d12 | Encounter                                                                                                                                                       |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | `encounter: 1d8: Gnoll`                                                                                                                                         |
-| 2   | Cluster of bloodvines - roll for Verdant Whispers (disease) if touched.                                                                                         |
-| 3   | Grove of banshee’s boughs - roll for Verdant Whispers if touched.                                                                                               |
-| 4   | Pasture of ghoul’s rose - roll for Verdant Whispers if touched.                                                                                                 |
-| 5   | Patch of stormflowers - 1 lightning damage for touching a flower, `dice:1d6` lightning damage per round for standing in a patch                                 |
-| 6   | `encounter: 1d6: Harpy`                                                                                                                                         |
-| 7   | A male elf ranger (Cael Vadallia) is seen running through the forest in the distance, appearing to be hunting. If followed, he leads players to Dolurrh’s Dawn. |
-| 8   | Two shadowy figures in dark robes (cultists) can be seen in the distance walking out of the forest. If followed, they lead the players to Blackroot.            |
-| 9   | `encounter: 1: Black Pudding`                                                                                                                                   |
-| 10  | `encounter: 1: Troll`                                                                                                                                           |
-| 11  | `encounter: 1: Hydra`                                                                                                                                           |
-| 12  | `encounter: 1: Skinweaver Head, 1d4: Skinweaver Hand`                                                                                                           |
+| dice: 1d12 | Random Encounter                                                                                                                                                |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | `encounter: 1d8: Gnoll`                                                                                                                                         |
+| 2          | Cluster of bloodvines - roll for Verdant Whispers (disease) if touched.                                                                                         |
+| 3          | Grove of banshee’s boughs - roll for Verdant Whispers if touched.                                                                                               |
+| 4          | Pasture of ghoul’s rose - roll for Verdant Whispers if touched.                                                                                                 |
+| 5          | Patch of stormflowers - 1 lightning damage for touching a flower, `dice:1d6` lightning damage per round for standing in a patch                                 |
+| 6          | `encounter: 1d6: Harpy`                                                                                                                                         |
+| 7          | A male elf ranger (Cael Vadallia) is seen running through the forest in the distance, appearing to be hunting. If followed, he leads players to Dolurrh’s Dawn. |
+| 8          | Two shadowy figures in dark robes (cultists) can be seen in the distance walking out of the forest. If followed, they lead the players to Blackroot.            |
+| 9          | `encounter: 1: Black Pudding`                                                                                                                                   |
+| 10         | `encounter: 1: Troll`                                                                                                                                           |
+| 11         | `encounter: 1: Hydra`                                                                                                                                           |
+| 12         | `encounter: 1: Skinweaver Head, 1d4: Skinweaver Hand`                                                                                                           |
+^random-encounters
 
 ### References
 
