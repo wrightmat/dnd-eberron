@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-06-20.md",
+                "file": "sessions/2024-07-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,14 +55,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-07-11.md",
+                "file": "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4abdac263860272e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/Mordain’s Hall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc68c622182c5299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "639a795ca02743ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/Dolurrh's Dawn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-07-11.md"
+                "file": "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md"
               }
             }
           },
@@ -138,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-07-11.md",
+                "file": "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2024-07-11.md",
+                "file": "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,11 +269,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ce8289e6a6d2aa8b",
+  "active": "bc68c622182c5299",
   "lastOpenFiles": [
-    "sessions/2024-06-27.md",
+    "locations/Dolurrh's Dawn.md",
+    "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md",
+    "locations/Mordain’s Hall.md",
+    "_ref/Travel and Random Encounters.md",
+    "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
+    "adventures/C01. What Dreams May Come/2-09. The Forest of Flesh.md",
     "sessions/2024-07-11.md",
     "sessions/2024-06-20.md",
+    "creatures/Skinweaver Hand.md",
+    "creatures/Skinweaver Head.md",
+    "sessions/2024-06-27.md",
     "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
     "other/Platinum Scarf (Vestige).md",
     "characters/Verity.md",
@@ -253,14 +297,6 @@
     "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
     "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
     "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
-    "adventures/C04. The Nature of Magic/1-04. Strixhaven Year 2, Term 2.md",
-    "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
-    "adventures/C04. The Nature of Magic/1-02. Strixhaven Year 1, Term 2.md",
-    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
-    "_srd/items/Bead of Force.md",
-    "sessions/2024-06-13.md",
-    "locations/Arcanix.md",
-    "other/Wizard Circles.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
