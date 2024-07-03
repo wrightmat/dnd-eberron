@@ -196,6 +196,18 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "3b0b7156e09407e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sessions/2024-07-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
