@@ -31,17 +31,19 @@ Mordain is a powerful wizard, and a master of the transmutation school of magic.
 
 Mordain avoids interfering in the affairs and followers of the Daughters of Sora Kell, and they in turn steer well clear of his tower.
 
-**Early Years**
+### History
+
+#### Early Years
 
 In the year 560 YK, Mordain was born into House Phiarlan. Showing aptitude in the arcane arts, he was accepted as a member of the Twelve. Mordain eventually became the provost of the Twelve, and pushed the advancement of the arts of transmutation. However, he began exploring forbidden knowledge, delving into the depths of the Closed Circle of Sharn's daelkyr magic. Rumors of his trespass began: some say that he was trying to create a whole new dragonmarked house resulting in foulspawn that ate his own family, others that he replaced his blood with a mixture of dragon and troll blood. Still other rumors say he stole children, replacing them with perfect simulacra so that their parents would never know. When word got out of the horrors of his experiments, the other mages of the Twelve moved against him.
 
-**Dismissal and Excoriation**
+#### Dismissal and Excoriation
 
 With knowledge of his horrid experiments public, the Twelve and the dragonmarked houses moved against Mordain. In 797 YK, he was excoriated from House Phiarlan. The Twelve, led by Salyon Syrralan d'Sivis, tried him for his crimes and attempted to execute him. However, every method the Twelve used failed: Mordain was bathed in acid, burned at the stake, drowned, and even dismembered, yet after each horrible death Mordain's flesh reformed and he awoke renewed.
 
 Since they could not kill Mordain, the Twelve petrified the mage and prepared him for transport to Dreadhold prison. However, Mordain reversed the petrification spell and escaped. Salyon speculated that only a mage equal to Mordain's power and will could have hoped to force a change on his flesh in the way they had attempted.
 
-**Solitude in Droaam**
+#### Solitude in Droaam
 
 Mordain disappeared from the world until 873 YK, when a troop of Aundairian soldiers pursued a group of lycanthropes during the Purge. They discovered a tower jutting up from the woods of what is now Droaam. The only survivor of the squad was found with the bottom half of his body replaced with that of one of the lycanthropes he was hunting. Before he died of self-inflicted wounds he spoke of a tower "with blackened, leathery walls, twisted as the limb of a dragon reaching up to grasp the sun."
 
