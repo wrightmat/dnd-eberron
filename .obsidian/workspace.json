@@ -72,9 +72,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4e8e688345c208e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Vecna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ref/Magic.md"
+                "file": "characters/Vecna.md"
               }
             }
           },
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ref/Magic.md",
+                "file": "characters/Vecna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ref/Magic.md",
+                "file": "characters/Vecna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,10 +257,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f5df28e68a6c49f7",
+  "active": "e4e8e688345c208e",
   "lastOpenFiles": [
-    "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
+    "sessions/2024-07-11.md",
+    "characters/Vecna.md",
     "_ref/Magic.md",
+    "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
     "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
     "adventures/C04. The Nature of Magic.md",
     "locations/Mordain’s Hall.md",
@@ -258,7 +272,6 @@
     "locations/Dolurrh's Dawn.md",
     "locations/Menthis Plateau.md",
     "_ref/Travel and Random Encounters.md",
-    "sessions/2024-07-11.md",
     "sessions/2024-06-20.md",
     "creatures/Skinweaver Hand.md",
     "creatures/Skinweaver Head.md",
@@ -272,7 +285,6 @@
     "_srd/Situational Rules.md",
     "DM Screen.md",
     "other/Lantern of Seeking.md",
-    "adventures/C03. Riddles of the Third Age.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
