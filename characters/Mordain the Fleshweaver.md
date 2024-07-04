@@ -52,3 +52,5 @@ Mordain had indeed taken up home in Droaam. He created a tower, and surrounded h
 Since his exile, Mordain has spoken to nobody. Various nations of Khorvaire sent emissaries into KreshtRhyll hoping to enlist Mordain's aid during the Last War, mages have attempted to steal his secrets, and virtuous champions have sought to rid the world of him, but none have laid eyes on Mordain and returned unchanged, if they have returned at all. Mordain has secured his tower against scrying and teleportation. He occasionally sends out servants from his tower to search ancient daelkyr sites in Droaam and the Shadow Marches. His servants include many creatures of his own creation, as well as enslaved abominations, such as beholders, illithids, and umber hulks.
 
 ### References
+
+- https://eberron.fandom.com/wiki/Mordain_the_Fleshweaver

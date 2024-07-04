@@ -55,19 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "834ad6c9b1a11dc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/Mordain the Fleshweaver.md",
+                "file": "adventures/C04. The Nature of Magic/2-03. Illusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-02. Transmutation.md"
+                "file": "adventures/C04. The Nature of Magic/2-03. Illusion.md"
               }
             }
           },
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
+                "file": "adventures/C04. The Nature of Magic/2-03. Illusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,13 +215,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
+                "file": "adventures/C04. The Nature of Magic/2-03. Illusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,11 +248,20 @@
   },
   "active": "ce8289e6a6d2aa8b",
   "lastOpenFiles": [
-    "characters/Mordain the Fleshweaver.md",
     "_ref/Magic.md",
-    "characters/Vecna.md",
-    "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
+    "sessions/C01/2023-06-08.md",
+    "adventures/C01. What Dreams May Come/3-09. The Grand Revel at Moonlit Vale.md",
+    "sessions/C01/2023-06-01.md",
+    "characters/Selene de Rhaan.md",
+    "Syla Nezzelech.md",
+    "adventures/C04. The Nature of Magic/2-03. Illusion.md",
+    "other/The Prince of Frost.md",
+    "characters/The Prince of Frost.md",
     "adventures/C04. The Nature of Magic.md",
+    "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
+    "characters/Mordain the Fleshweaver.md",
+    "locations/Mordain’s Hall.md",
+    "characters/Vecna.md",
     "adventures/C03. Riddles of the Third Age.md",
     "adventures/C01. What Dreams May Come.md",
     "adventures/C02. Curse of Strahd (Abridged).md",
@@ -272,19 +270,10 @@
     "characters/Verity.md",
     "characters/Valmoc.md",
     "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
-    "locations/Mordain’s Hall.md",
     "adventures/C01. What Dreams May Come/2-11. Tower of Mordain.md",
     "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md",
     "adventures/C01. What Dreams May Come/2-09. The Forest of Flesh.md",
     "locations/Dolurrh's Dawn.md",
-    "locations/Menthis Plateau.md",
-    "_ref/Travel and Random Encounters.md",
-    "sessions/2024-06-20.md",
-    "creatures/Skinweaver Hand.md",
-    "creatures/Skinweaver Head.md",
-    "sessions/2024-06-27.md",
-    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
-    "other/Platinum Scarf (Vestige).md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
