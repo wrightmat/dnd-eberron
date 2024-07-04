@@ -1,13 +1,13 @@
 ---
-gender: 
-pronouns: 
-race: 
-subrace: 
-occupation: 
-alignment: 
+gender: Male
+pronouns: he/him
+race: Demigod
+subrace: Human (former)
+occupation: God of Secrets
+alignment: Neutral Evil
 attitude: 
 languages: 
-image:
+image: "![https://static.wikia.nocookie.net/forgottenrealms/images/2/22/Vecna-Returns_DnD-Beyond-Promo.webp|250](https://static.wikia.nocookie.net/forgottenrealms/images/2/22/Vecna-Returns_DnD-Beyond-Promo.webp)"
 ---
 #npc 
 
@@ -27,12 +27,26 @@ image:
 > ###### Comments
 > `=this.comments`
 
+>Evil is not an absence of good. […] It is not a choice. […] Evil is one of two forces in the cosmos, an agency locked in eternal struggle against its antithesis. […] Only good and evil exist. And not even a hair's width of space separates them.    — Vecna
 
+Vecna was a once-human king and lich from Oerth who ascended to godhood. While he was once considered the most powerful lich to dwell on that world, over the ages he spent in undeath Vecna became maligned across the multiverse, and was considered the scourge of all civilization.
 
+According to some, Vecna had an obsession with acquiring and maintaining secrets, believing them to be the source of true power. He was precise and calculating in his actions, but was at times prone to bouts of intense rage. Vecna believed that every being in existence held a single secret that could be manipulated to bring about its destruction. Uncovering that secret and exploiting its truth were the key to gaining dominion over others.
+
+### Relationships
+
+- **Mazzel**. According to Vecna's own accounts, his mortal mother was a wholly evil woman who sacrificed animals and consorted with monstrous beings. It was her cruelty that helped shape the man he was in life and undeath.
+- **Mok'slyk (the Serpent)**. Vecna claimed that his intensive knowledge of long forbidden magic was taught to him by Mok’slyk, and that was where he gained his knowledge of ancient secrets relating to magic. Some scholars argue that Vecna was lying, attempting to cover up his true source for these dark magics, while others argue that there’s no other way that Vecna could have discovered the horrible secrets that he used to gain power.
+- **Acererak**. One of Vecna's favored wizard generals, who once saved him from battle. Acererak later went on to become a lich himself.
+- **Kas**. Vecna was obsessed with taking revenge on his vampire lieutenant and former lover for the legendary betrayal he committed against his master on Oerth.
+- **Asmodeus**. Vecna had something of a working relationship with Asmodeus, the powerful archdevil having offered the archlich use of his devil minions. Ironically, Asmodeus' servant Fierna stole a valuable secret from Vecna: that of how to directly travel between the Prime Material plane and the Nine Hells.
+- **Falazure the Night Dragon**. One of Vecna's known exarchs was the dragon god of death and undeath's aspect also known as The Reaver.
+- **Vocar the Disobedient**. The other of Vecna's known exarchs, who was rumored to possess a powerful secret regarding Vecna himself.
+- **The Raven Queen**. The Whispered One was a sworn enemy of the Raven Queen, whom he envied for her unique abilities to tap into the flow of souls and to harvest knowledge. One of his goals was to overthrow the Queen and rule the entire Shadowfell from her Fortress of Memories. His servants constantly battled with the Raven Queen's shadar-kai followers.
 
 ### History
 
-#### Early Life
+#### Mortal Life
 
 Vecna was born as a human, centuries ago as a member of the untouchable caste in the Flan city of Fleeth on Oerth. His mother, Mazzel, saw great potential in her son, and began training Vecna in the arcane arts, instilling in him a thirst for knowledge and power. Their clandestine activities did not go unnoticed. When their secret was discovered, Mazzel was executed by the government of Fleeth for practicing witchcraft. This traumatic event shattered Vecna’s world, filling him with a burning desire for vengeance and a deeper commitment to mastering the arcane arts. Vecna swore revenge upon all those who were responsible for her death and he then disappeared for several years, where he gained a mastery of the dark arts, achieved by no one before him and since. Legend tells us that his great power was obtained through tutelage by Mok'slyk, the Serpent, believed to be the personification of arcane magic itself.
 
@@ -42,7 +56,7 @@ During his clandestine rise to power, Vecna encountered Kas, a young and talente
 
 ![https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/06/young-kas-and-vecna-d-d.jpg|800](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/06/young-kas-and-vecna-d-d.jpg)
 
-#### Lichdom
+#### Rise and Lichdom
 
 After learning all he could from mortals and ancients alike, Vecna spent years researching and planning to become immortal. Once completed, Vecna took his life and was transformed into a lich, though no legend specifies exactly how. Now immortal, Vecna returned to begin his siege on the world he previously abandoned. Conquering the lands in and around Sheldomar Valley, he amassed power and grew his army of undead to unfathomable numbers.
 
@@ -70,13 +84,15 @@ Driven by the sword’s influence and his own corrupted desires, Kas confronted 
 
 #### Death and Ascension
 
-After Kas betrayed and battled with Vecna, he was flung across the multiverse, ending up in the negative energy plane. Because of his prolonged exposure to this plane, where he remained for hundreds of years, he became a vampire. The only traces left of Vecna's physical body were his left hand and eye, which still carried a fragment of the lich's will. Their latent power turned them into the artifacts known as the Hand of Vecna and the Eye of Vecna.
+After Kas betrayed and battled with Vecna, he was flung across the multiverse, ending up in the negative energy plane, and losing the Sword of Kas in the process. Because of his prolonged exposure to this plane, where he remained for hundreds of years, he became a vampire. The only traces left of Vecna's physical body were his left hand and eye, which still carried a fragment of the lich's will. Their latent power turned them into the artifacts known as the Hand of Vecna and the Eye of Vecna.
 
 Vecna's spirit endured, however, languishing across the planes and slowly gathering power from the surviving members of his cult; his name continued to instill fear in mortals, and it was said that, through his eponymous artifacts, his evil continued corrupting others. Small pieces of his withered remains scattered across existence, corrupting anyone with whom they came into contact.
 
 After several centuries, Vecna amassed sufficient followers and worshipers among ambitious wizards to reach the status of demigod, and was accepted among the most corrupt powers of the Astral Sea. For failing him, he transformed his most powerful lieutenants into the first of the undead monstrosities known as skull lords. At this point, many, including Elminster, were aware of the threat of Vecna's ascension.
 
 After a failed attempt to ascend to full deity status, Vecna himself was banished to Cavitius, which was drawn into the Domains of Dread by the Dark Powers; his failure freed Kas, whose long exposure to Cavitius's negative energy had transformed him into a vampire. Kas, in turn, became the lord of Tovag, a realm originally from Oerth drawn into the Domains of Dread bordering Cavitius, the two realms forming the Domain of Dread known as the Burning Peaks.
+
+![https://www.enworld.org/attachments/screenshot-2024-02-28-at-23-01-41-png.348708|800](https://www.enworld.org/attachments/screenshot-2024-02-28-at-23-01-41-png.348708)
 
 #### Godhood
 
@@ -86,3 +102,6 @@ Vecna invaded the City of Doors, becoming the only deity in existence that succe
 
 ### References
 
+- https://en.wikipedia.org/wiki/Vecna
+- https://forgottenrealms.fandom.com/wiki/Vecna
+- https://www.reddit.com/r/DnDBehindTheScreen/comments/cnm5i8/the_dark_and_twisted_history_of_vecna_and_the/
