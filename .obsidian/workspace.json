@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-03. Illusion.md",
+                "file": "adventures/C04. The Nature of Magic/2-12. Wild Magic.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-03. Illusion.md"
+                "file": "adventures/C04. The Nature of Magic/2-12. Wild Magic.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-03. Illusion.md",
+                "file": "adventures/C04. The Nature of Magic/2-12. Wild Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,21 +208,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "3b0b7156e09407e2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "adventures/C04. The Nature of Magic/2-03. Illusion.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -248,32 +235,32 @@
   },
   "active": "ce8289e6a6d2aa8b",
   "lastOpenFiles": [
+    "adventures/C04. The Nature of Magic.md",
+    "adventures/C04. The Nature of Magic/2-12. Wild Magic.md",
+    "adventures/C04. The Nature of Magic/2-14. Hemomancy (Finale).md",
+    "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
+    "adventures/C04. The Nature of Magic/2-11. Psionics.md",
+    "adventures/C04. The Nature of Magic/2-10. Artifice.md",
+    "locations/Mournland (Cyre).md",
+    "adventures/C04. The Nature of Magic/2-09. Conjuration.md",
+    "adventures/C04. The Nature of Magic/2-08. Divination.md",
+    "locations/Arcanix.md",
     "_ref/Magic.md",
+    "adventures/C04. The Nature of Magic/2-07. Enchantment.md",
+    "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
+    "adventures/C04. The Nature of Magic/2-05. Evocation.md",
+    "adventures/C04. The Nature of Magic/2-04. Abjuration.md",
+    "adventures/C04. The Nature of Magic/2-03. Illusion.md",
+    "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
     "sessions/C01/2023-06-08.md",
     "adventures/C01. What Dreams May Come/3-09. The Grand Revel at Moonlit Vale.md",
     "sessions/C01/2023-06-01.md",
     "characters/Selene de Rhaan.md",
     "Syla Nezzelech.md",
-    "adventures/C04. The Nature of Magic/2-03. Illusion.md",
     "other/The Prince of Frost.md",
     "characters/The Prince of Frost.md",
-    "adventures/C04. The Nature of Magic.md",
-    "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
     "characters/Mordain the Fleshweaver.md",
     "locations/Mordain’s Hall.md",
-    "characters/Vecna.md",
-    "adventures/C03. Riddles of the Third Age.md",
-    "adventures/C01. What Dreams May Come.md",
-    "adventures/C02. Curse of Strahd (Abridged).md",
-    "sessions/2024-07-11.md",
-    "adventures/C05. Vecna Eve of Ruin.md",
-    "characters/Verity.md",
-    "characters/Valmoc.md",
-    "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
-    "adventures/C01. What Dreams May Come/2-11. Tower of Mordain.md",
-    "adventures/C01. What Dreams May Come/2-10. Dolurrh’s Dawn.md",
-    "adventures/C01. What Dreams May Come/2-09. The Forest of Flesh.md",
-    "locations/Dolurrh's Dawn.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
