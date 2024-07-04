@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-12. Wild Magic.md",
+                "file": "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-12. Wild Magic.md"
+                "file": "adventures/C04. The Nature of Magic.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-12. Wild Magic.md",
+                "file": "adventures/C04. The Nature of Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,11 +233,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ce8289e6a6d2aa8b",
+  "active": "84263f6f4fb45785",
   "lastOpenFiles": [
+    "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
+    "_ref/Magic.md",
+    "locations/Sigilstar.md",
+    "locations/Sharokarthel.md",
     "adventures/C04. The Nature of Magic.md",
-    "adventures/C04. The Nature of Magic/2-12. Wild Magic.md",
     "adventures/C04. The Nature of Magic/2-14. Hemomancy (Finale).md",
+    "adventures/C04. The Nature of Magic/2-15. Strixhaven Epilogue.md",
+    "adventures/C04. The Nature of Magic/2-12. Wild Magic.md",
     "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
     "adventures/C04. The Nature of Magic/2-11. Psionics.md",
     "adventures/C04. The Nature of Magic/2-10. Artifice.md",
@@ -245,7 +250,6 @@
     "adventures/C04. The Nature of Magic/2-09. Conjuration.md",
     "adventures/C04. The Nature of Magic/2-08. Divination.md",
     "locations/Arcanix.md",
-    "_ref/Magic.md",
     "adventures/C04. The Nature of Magic/2-07. Enchantment.md",
     "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
     "adventures/C04. The Nature of Magic/2-05. Evocation.md",
@@ -257,10 +261,6 @@
     "sessions/C01/2023-06-01.md",
     "characters/Selene de Rhaan.md",
     "Syla Nezzelech.md",
-    "other/The Prince of Frost.md",
-    "characters/The Prince of Frost.md",
-    "characters/Mordain the Fleshweaver.md",
-    "locations/Mordain’s Hall.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
