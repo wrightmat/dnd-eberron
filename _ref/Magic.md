@@ -61,11 +61,23 @@ While I don't suggest to add any spells or move any from existing schools, that 
 
 ##### College of Whispers (Bard)
 
+- May need to re-flavor some to make it more psionic
+
 #### Dunamancy
 
-##### Chronurgy Wizard
+##### Chronurgist (Wizard)
 
+- Wildemount
 
+##### Echo Knight (Fighter)
+
+- Wildemount
+
+##### Path of the Probable (Barbarian)
+
+- Use Path of Fundamental Chaos from Critical Role (Ashton Greymoore) as a base
+
+##### ??? (Monk)
 
 #### Entropomancy
 
@@ -73,11 +85,25 @@ While I don't suggest to add any spells or move any from existing schools, that 
 
 ##### Entropist (Wizard)
 
+- Deep Magic from Kobold Press
+
 ##### College of Chaos (Bard)
+
+- Deep Magic from Kobold Press (College of Entropy)
+
+##### Path of Wild Magic (Barbarian)
 
 #### Hemomancy
 
+##### Blood Hunter (Ranger)
 
+- Wildemount
+
+##### Blood Mage (Wizard?)
+
+- Based on Strixhaven Blood Mage monster stat block
+
+##### ??? (Warlock)
 
 ### DM Notes and Random Tables
 

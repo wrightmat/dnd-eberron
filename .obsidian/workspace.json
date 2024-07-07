@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "5d4ce5cb2445a619",
+            "id": "38ae4bcfda1f781d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -198,20 +198,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "faf9094064d4295d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "16786853123b584b",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -235,24 +221,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5d4ce5cb2445a619",
+  "active": "38ae4bcfda1f781d",
   "lastOpenFiles": [
+    "adventures/C04. The Nature of Magic.md",
+    "adventures/C03. Riddles of the Third Age.md",
+    "_ref/Magic.md",
+    "adventures/C04. The Nature of Magic/2-10. Artifice.md",
     "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
     "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
     "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
-    "_ref/Magic.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
-    "adventures/C04. The Nature of Magic.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "other/Lantern of Seeking.md",
-    "adventures/C03. Riddles of the Third Age.md",
     "other/Platinum Scarf (Vestige).md",
     "adventures/C04. The Nature of Magic/2-05. Evocation.md",
     "adventures/C04. The Nature of Magic/2-15. Strixhaven Epilogue.md",
     "adventures/C04. The Nature of Magic/2-14. Hemomancy (Finale).md",
     "adventures/C04. The Nature of Magic/2-11. Psionics.md",
-    "adventures/C04. The Nature of Magic/2-10. Artifice.md",
     "adventures/C04. The Nature of Magic/2-09. Conjuration.md",
     "adventures/C04. The Nature of Magic/2-08. Divination.md",
     "adventures/C04. The Nature of Magic/2-07. Enchantment.md",
