@@ -46,8 +46,38 @@ While I don't suggest to add any spells or move any from existing schools, that 
 | Artifice      | Life    | Yellow  | Invention and Innovation     | Daanvi          | Order (Lorehold)       |
 | Psionics      | Mind    | Violet  | Mind and Memory              | Dal Quor        |                        |
 | Dunamancy     | Spirit  | Orange  | Potentiality and Possibiilty | Xoriat          | Theory (Quandrix)      |
-| Wild          | Chaos   | Magenta | Chaos and Change             | Kythri          | Chaos (Lorehold)       |
+| Entropomancy  | Chaos   | Magenta | Chaos and Change             | Kythri          | Chaos (Lorehold)       |
 | Hemomancy     | Blood   | Crimson | Sanguinity and Sacrifice     | Shavarath       |                        |
+
+### Additional Subclasses
+
+#### Psionics
+
+##### Aberrant Mind (Sorcerer)
+
+##### Psi Warrior (Fighter)
+
+##### Soulknife (Rogue)
+
+##### College of Whispers (Bard)
+
+#### Dunamancy
+
+##### Chronurgy Wizard
+
+
+
+#### Entropomancy
+
+##### Wild Magic (Sorcerer)
+
+##### Entropist (Wizard)
+
+##### College of Chaos (Bard)
+
+#### Hemomancy
+
+
 
 ### DM Notes and Random Tables
 
