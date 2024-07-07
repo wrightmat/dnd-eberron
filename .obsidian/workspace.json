@@ -172,6 +172,18 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "d961cef83c24dd10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "adventures/C03. Riddles of the Third Age.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
