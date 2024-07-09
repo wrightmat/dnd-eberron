@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ref/Magic.md",
+                "file": "adventures/C04. The Nature of Magic.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ref/Magic.md"
+                "file": "adventures/C04. The Nature of Magic.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ref/Magic.md",
+                "file": "adventures/C04. The Nature of Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ref/Magic.md",
+                "file": "adventures/C04. The Nature of Magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,6 +223,7 @@
   },
   "active": "38ae4bcfda1f781d",
   "lastOpenFiles": [
+    "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
     "adventures/C04. The Nature of Magic.md",
     "adventures/C03. Riddles of the Third Age.md",
     "_ref/Magic.md",
@@ -249,7 +250,6 @@
     "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
     "locations/Stormhome.md",
     "locations/Sigilstar.md",
-    "locations/Sharokarthel.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
