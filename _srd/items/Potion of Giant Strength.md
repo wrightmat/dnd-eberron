@@ -1,4 +1,4 @@
- #item[[Magic Items]]
+ #item [[Magic Items]]
 
 *Potion, rarity varies*
 
@@ -9,10 +9,9 @@ This potion's transparent liquid has floating in it a sliver of fingernail from 
 **Table- Potion of Giant Strength**
 
 | Type of Giant     | Strength | Rarity    |
-|-------------------|----------|-----------|
+| ----------------- | -------- | --------- |
 | Hill giant        | 21       | Uncommon  |
 | Frost/stone giant | 23       | Rare      |
 | Fire giant        | 25       | Rare      |
 | Cloud giant       | 27       | Very rare |
 | Storm giant       | 29       | Legendary |
-|                   |          |           |

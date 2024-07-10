@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "79d5403b3e6533f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7bbeb1c80d9d65f4",
             "type": "leaf",
             "state": {
@@ -62,19 +74,19 @@
             }
           },
           {
-            "id": "649895017e74461e",
+            "id": "2d953b7a835e8ba3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_gen/Travel Calculators.md",
+                "file": "_srd/items/Necklace of Prayer Beads.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_gen/Travel Calculators.md"
+                "file": "_srd/items/Necklace of Prayer Beads.md"
               }
             }
           },
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_gen/Travel Calculators.md",
+                "file": "_srd/items/Necklace of Prayer Beads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,17 +227,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_gen/Travel Calculators.md",
+                "file": "_srd/items/Necklace of Prayer Beads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ]
+      },
+      {
+        "id": "6d2db9836fc00a1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cb21759ec92de77",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,35 +271,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "649895017e74461e",
+  "active": "2d953b7a835e8ba3",
   "lastOpenFiles": [
-    "_ref/Travel and Random Encounters.md",
-    "adventures/C04. The Nature of Magic.md",
-    "other/Lantern of Seeking.md",
-    "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
-    "adventures/C03. Riddles of the Third Age.md",
-    "_ref/Magic.md",
-    "adventures/C04. The Nature of Magic/2-10. Artifice.md",
-    "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
-    "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
-    "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
-    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
-    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+    "_srd/items/Nine Lives Stealer.md",
+    "_srd/items/Oathbow.md",
+    "_srd/items/Oil of Etherealness.md",
+    "_srd/items/Oil of Sharpness.md",
+    "_srd/items/Oil of Slipperiness.md",
+    "_srd/items/Pearl of Power.md",
+    "_srd/items/Periapt of Health.md",
+    "_srd/items/Periapt of Proof against Poison.md",
+    "_srd/items/Periapt of Wound Closure.md",
+    "_srd/items/Philter of Love.md",
+    "_srd/items/Pipes of Haunting.md",
+    "_srd/items/Pipes of the Sewers.md",
+    "_srd/items/Plate Armor of Etherealness.md",
+    "_srd/items/Portable Hole.md",
+    "_srd/items/Potion of Animal Friendship.md",
+    "_srd/items/Potion of Clairvoyance.md",
+    "_srd/items/Potion of Climbing.md",
+    "_srd/items/Potion of Diminution.md",
+    "_srd/items/Potion of Flying.md",
+    "_srd/items/Potion of Gaseous Form.md",
+    "_srd/items/Potion of Giant Strength.md",
+    "_srd/items/Potion of Growth.md",
+    "_srd/items/Potion of Healing.md",
+    "_srd/items/Potion of Heroism.md",
+    "_srd/items/Potion of Invisibility.md",
+    "_srd/items/Potion of Invulnerability.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
-    "other/Platinum Scarf (Vestige).md",
-    "adventures/C04. The Nature of Magic/2-05. Evocation.md",
-    "adventures/C04. The Nature of Magic/2-15. Strixhaven Epilogue.md",
-    "adventures/C04. The Nature of Magic/2-14. Hemomancy (Finale).md",
-    "adventures/C04. The Nature of Magic/2-11. Psionics.md",
-    "adventures/C04. The Nature of Magic/2-09. Conjuration.md",
-    "adventures/C04. The Nature of Magic/2-08. Divination.md",
-    "adventures/C04. The Nature of Magic/2-07. Enchantment.md",
-    "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
-    "adventures/C04. The Nature of Magic/2-04. Abjuration.md",
-    "adventures/C04. The Nature of Magic/2-03. Illusion.md",
-    "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
-    "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
-    "locations/Stormhome.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",

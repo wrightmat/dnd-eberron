@@ -43,7 +43,8 @@ Avarice was commissioned by Garrick Quickfinder in Frostmantle to get back his B
 - **Jutkarr Flintfingers** (male dwarf thief). Jutkarr also answered Garrick's job posting to get the stolen Bag of Holding back, but he and Avarice hit it off with their similarities and they decided to join forces. Use the stat block from Flee, Mortals!, page 376, with Amethyst Die added to him instead of Harlo (removing the Shared Condition reaction and treating these characters as individuals rather than a villain group).
 
 Next time the players encounter Avarice, depending on how this encounter goes, she should have another member in her party.
-- **Victory "Vic" Graves** (female human thief). Use the stat block from Flee, Mortals!, page 277. Decide where she came from and how/why they joined forces.
+- **Victory "Vic" Graves** (female human thief). Use the stat block from Flee, Mortals!, page 377. Decide where she came from and how/why they joined forces.
+- http://wizzle.tplinkdns.com:38090/index.php/s/P84e8EAww8Nok8t#pdfviewer?page=377
 
 ### Stat Block
 

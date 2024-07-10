@@ -9872,7 +9872,8 @@
     "patch": 2
   },
   "paths": [
-    "creatures"
+    "creatures",
+    "characters"
   ],
   "autoParse": true,
   "disableSRD": false,

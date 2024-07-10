@@ -1,4 +1,4 @@
- #item[[Magic Items]]
+ #item [[Magic Items]]
 
 *Weapon (longbow), very rare (requires attunement)*
 
