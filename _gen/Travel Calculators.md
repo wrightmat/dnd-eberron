@@ -1,8 +1,8 @@
 ---
-MilesPerHour: 10
+MilesPerHour: 3
 SpeedMultiplier: 1
-HoursPerDay: 24
-TravelDistance: 1800
+HoursPerDay: 8
+TravelDistance: 192
 Environment: grassland
 CostPer15Miles: 1
 PeopleTraveling: 5
@@ -35,17 +35,18 @@ Updating the calculator below will flow the changes out to any notes that automa
 
 ### Travel Encounters
 
-|  |  |
-| ---- | ---- |
-| **Environment**: | `INPUT[inlineSelect(option(arctic, Arctic), option(coastal, Coastal), option(desert, Desert), option(forest, Forest), option(grassland, Grassland), option(hill, Hill), option(mountain, Mountain), option(swamp, Swamp), option(underdark, Underdark), option(underwater, Underwater), option(urban, Urban)):Environment]` |
-| **Party Level:** | `INPUT[inlineSelect(option(1-4, 1 to 4), option(5-10, 5 to 10), option(11-16, 11 to 16), option(17-20, 17 to 20)):PartyLevel]` |
-| **Travel Situation:** | `INPUT[inlineSelect(option(20, Safe route- low danger environment), option(18, Safe route- higher danger environment), option(15, Mildly dangerous route), option(11, Dangerous route)):EncounterProbability]` |
+|                       |                                                                                                                                                                                                                                                                                                                             |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Environment**:      | `INPUT[inlineSelect(option(arctic, Arctic), option(coastal, Coastal), option(desert, Desert), option(forest, Forest), option(grassland, Grassland), option(hill, Hill), option(mountain, Mountain), option(swamp, Swamp), option(underdark, Underdark), option(underwater, Underwater), option(urban, Urban)):Environment]` |
+| **Party Level:**      | `INPUT[inlineSelect(option(1-4, 1 to 4), option(5-10, 5 to 10), option(11-16, 11 to 16), option(17-20, 17 to 20)):PartyLevel]`                                                                                                                                                                                              |
+| **Travel Situation:** | `INPUT[inlineSelect(option(20, Safe route- low danger environment), option(18, Safe route- higher danger environment), option(15, Mildly dangerous route), option(11, Dangerous route)):EncounterProbability]`                                                                                                              |
 ```dataviewjs
 const environment = dv.current().Environment
 const partyLevel = dv.current().PartyLevel
 const daysTravel = dv.current().TravelDistance / ( ( dv.current().MilesPerHour * dv.current().HoursPerDay ) * dv.current().SpeedMultiplier )
 const encounterProbability = dv.current().EncounterProbability
-const diceRollerPlugin = app.plugins.getPlugin("obsidian-dice-roller");
+//const diceRollerPlugin = app.plugins.getPlugin("obsidian-dice-roller");
+const diceRollerPlugin = window.DiceRoller;
 var day = 0;
 while (day <= daysTravel) {
   const diceRoller20 = await diceRollerPlugin.getRoller("1d20");
