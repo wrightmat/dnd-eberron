@@ -1,4 +1,4 @@
- #item[[Magic Items]]
+ #item [[Magic Items]]
 
 *Wondrous item, legendary*
 
@@ -11,7 +11,7 @@ An *identify* spell reveals that a creature is inside the flask, but the only wa
 **Table- Iron Flask**
 
 | d100  | Contents          |
-|-------|-------------------|
+| ----- | ----------------- |
 | 1‒50  | Empty             |
 | 51‒54 | Demon (type 1)    |
 | 55‒58 | Demon (type 2)    |
@@ -32,4 +32,3 @@ An *identify* spell reveals that a creature is inside the flask, but the only wa
 | 96    | Solar             |
 | 97‒99 | Succubus/incubus  |
 | 100   | Xorn              |
-|       |                   |

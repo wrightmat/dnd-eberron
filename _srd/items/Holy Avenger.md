@@ -1,4 +1,4 @@
- #item[[Magic Items]]
+ #item [[Magic Items]]
 
 *Weapon (any sword), legendary (requires attunement by a paladin)*
 

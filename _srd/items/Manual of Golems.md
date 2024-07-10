@@ -1,4 +1,4 @@
- #item[[Magic Items]]
+ #item [[Magic Items]]
 
 *Wondrous item, very rare*
 
@@ -7,12 +7,11 @@ This tome contains information and incantations necessary to make a particular t
 **Table- Manual of Golems**
 
 | d20   | Golem | Time     | Cost       |
-|-------|-------|----------|------------|
+| ----- | ----- | -------- | ---------- |
 | 1-5   | Clay  | 30 days  | 65,000 gp  |
 | 6-17  | Flesh | 60 days  | 50,000 gp  |
 | 18    | Iron  | 120 days | 100,000 gp |
 | 19-20 | Stone | 90 days  | 80,000 gp  |
-|       |       |          |            |
 
 To create a golem, you must spend the time shown on the table, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase supplies.
 

@@ -9,10 +9,9 @@ Six varieties of this belt exist, corresponding with and having rarity according
 **Table- Belt of Strength**
 
 | Type              | Strength | Rarity    |
-|-------------------|----------|-----------|
+| ----------------- | -------- | --------- |
 | Hill giant        | 21       | Rare      |
 | Stone/frost giant | 23       | Very rare |
 | Fire giant        | 25       | Very rare |
 | Cloud giant       | 27       | Legendary |
 | Storm giant       | 29       | Legendary |
-|                   |          |           |

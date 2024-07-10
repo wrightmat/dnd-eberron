@@ -38,18 +38,6 @@
             }
           },
           {
-            "id": "38ae4bcfda1f781d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C04. The Nature of Magic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "79d5403b3e6533f7",
             "type": "leaf",
             "state": {
@@ -74,19 +62,19 @@
             }
           },
           {
-            "id": "2d953b7a835e8ba3",
+            "id": "1752f5acc22c6590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_srd/items/Necklace of Prayer Beads.md",
-                "mode": "source",
+                "file": "sessions/2024-07-11.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_srd/items/Necklace of Prayer Beads.md"
+                "file": "sessions/2024-07-11.md"
               }
             }
           },
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_srd/items/Necklace of Prayer Beads.md",
+                "file": "sessions/2024-07-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_srd/items/Necklace of Prayer Beads.md",
+                "file": "sessions/2024-07-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,34 +259,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2d953b7a835e8ba3",
+  "active": "1752f5acc22c6590",
   "lastOpenFiles": [
-    "_srd/items/Nine Lives Stealer.md",
-    "_srd/items/Oathbow.md",
-    "_srd/items/Oil of Etherealness.md",
-    "_srd/items/Oil of Sharpness.md",
-    "_srd/items/Oil of Slipperiness.md",
-    "_srd/items/Pearl of Power.md",
-    "_srd/items/Periapt of Health.md",
-    "_srd/items/Periapt of Proof against Poison.md",
-    "_srd/items/Periapt of Wound Closure.md",
-    "_srd/items/Philter of Love.md",
-    "_srd/items/Pipes of Haunting.md",
-    "_srd/items/Pipes of the Sewers.md",
-    "_srd/items/Plate Armor of Etherealness.md",
-    "_srd/items/Portable Hole.md",
-    "_srd/items/Potion of Animal Friendship.md",
-    "_srd/items/Potion of Clairvoyance.md",
-    "_srd/items/Potion of Climbing.md",
-    "_srd/items/Potion of Diminution.md",
-    "_srd/items/Potion of Flying.md",
-    "_srd/items/Potion of Gaseous Form.md",
-    "_srd/items/Potion of Giant Strength.md",
-    "_srd/items/Potion of Growth.md",
-    "_srd/items/Potion of Healing.md",
-    "_srd/items/Potion of Heroism.md",
-    "_srd/items/Potion of Invisibility.md",
-    "_srd/items/Potion of Invulnerability.md",
+    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+    "other/Lantern of Seeking.md",
+    "sessions/2024-07-11.md",
+    "adventures/C03. Riddles of the Third Age.md",
+    "adventures/C04. The Nature of Magic.md",
+    "_srd/items/Ammunition, +1, +2, or +3.md",
+    "_srd/items/Adamantine Armor.md",
+    "_srd/items/Amulet of Health.md",
+    "_srd/items/Amulet of Proof against Detection and Location.md",
+    "_srd/items/Amulet of the Planes.md",
+    "_srd/items/Animated Shield.md",
+    "_srd/items/Apparatus of the Crab.md",
+    "_srd/items/Armor of Resistance.md",
+    "_srd/items/Armor of Invulnerability.md",
+    "_srd/items/Armor of Vulnerability.md",
+    "_srd/items/Armor, +1, +2, or +3.md",
+    "_srd/items/Arrow of Slaying.md",
+    "_srd/items/Arrow-Catching Shield.md",
+    "_srd/items/Bag of Beans.md",
+    "_srd/items/Bag of Devouring.md",
+    "_srd/items/Bag of Holding.md",
+    "_srd/items/Bag of Tricks.md",
+    "_srd/items/Bead of Force.md",
+    "_srd/items/Belt of Dwarvenkind.md",
+    "_srd/items/Belt of Giant Strength.md",
+    "_srd/items/Berserker Axe.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",

@@ -1,4 +1,4 @@
- #item[[Magic Items]]
+ #item [[Magic Items]]
 
 *Wondrous item, uncommon*
 
@@ -7,9 +7,8 @@ This gem contains a mote of elemental energy. When you use an action to break th
 **Table- Elemental Gem**
 
 | Gem            | Summoned Elemental |
-|----------------|--------------------|
+| -------------- | ------------------ |
 | Blue sapphire  | Air elemental      |
 | Yellow diamond | Earth elemental    |
 | Red corundum   | Fire elemental     |
 | Emerald        | Water elemental    |
-|                |                    |

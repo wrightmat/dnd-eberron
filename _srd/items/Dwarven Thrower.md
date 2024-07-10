@@ -1,4 +1,4 @@
- #item[[Magic Items]]
+ #item [[Magic Items]]
 
 *Weapon (warhammer), very rare (requires attunement by a dwarf)*
 

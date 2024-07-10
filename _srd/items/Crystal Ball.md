@@ -1,4 +1,4 @@
- #item[[Magic Items]]
+ #item [[Magic Items]]
 
 *Wondrous item, very rare or legendary (requires attunement)*
 

@@ -1,4 +1,4 @@
- #item[[Magic Items]]
+ #item [[Magic Items]]
 
 *Wondrous item, legendary*
 
@@ -11,7 +11,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 **Table- Deck of Many Things**
 
 | Playing Card       | Card       |
-|--------------------|------------|
+| ------------------ | ---------- |
 | Ace of diamonds    | Vizier*    |
 | King of diamonds   | Sun        |
 | Queen of diamonds  | Moon       |
@@ -34,8 +34,6 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 | Two of spades      | Balance*   |
 | Joker (with TM)    | Fool*      |
 | Joker (without TM) | Jester     |
-|                    |            |
-
 \* Found only in a deck with twenty-two cards
 
 ***Balance***. Your mind suffers a wrenching alteration, causing your alignment to change. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you.
