@@ -15,6 +15,8 @@ A sailing ship or warship has the following features:
 * **Rigging**. Rigging on the ship can be climbed without an ability check.
 * **Sails**. The ship has three 80-foot-tall masts with sails to catch the wind and oars on the lower deck for rowing.
 
+![https://images.dndbeyond.com/images/game-data/vehicles/5/sailingship_detail.png|400](https://images.dndbeyond.com/images/game-data/vehicles/5/sailingship_detail.png)
+
 #### 1. Main Deck
 The main deck of the ship has the following features:
 - **Mangonel**. Sailing ships have one mangonel (DMG, Ch. 8) attached to the deck. Warships have two mangonels. Each weapon has 10 mangonel stones stacked and secured near it.
@@ -64,8 +66,6 @@ This area houses both passengers and cargo. The ship's off-duty crew sleep on be
 #### 13. Armory
 The ship's supply of weapons and armor is held in this cabin. Its walls are fitted with built-in weapon and armor racks. The door to this cabin is usually locked, the key kept by one of the ship's officers.
 
-![[sailing_ship_layout.png]]
-
 ### Officers and Crew
 
 Each vessel requires people to run it: the officers in charge and the sailors who follow their orders.
@@ -97,7 +97,7 @@ Demetrius, a chaotic neutral male half-elf spy, is the peerless but laconic pilo
 
 When drunk — which he is most evenings — he may comment that he initially refused to join the crew, but Aubrey showed him a document that instantly changed his mind. If pressed, he immediately backpedals, and pretends to have been joking. If forced to respond, he dismally reveals that Angelica dredged up a record of a murder he committed while exploring the Demon Wastes, several years ago. He murdered his travel partner for a silver idol bearing an inscription of an aberrant dragonmark, which he sold for a tidy profit in Droaam. He escaped from prison, and sought haven in Breland. Such a document would land him right back in prison, probably for life — so he took the job.
 
-Demetrius has resistance to lightning damage, and can cast gust at will, and gust of wind once per day. He also has a swimming speed of 30 feet.
+Demetrius has resistance to lightning damage, and can cast *[[gust]]* at will, and *[[gust of wind]]* once per day. He also has a swimming speed of 30 feet.
 
 #### Aubrey Galatea
 Aubrey, a neutral evil changeling assassin, is the first mate. She possesses an aberrant dragonmark on her back, which spreads from her shoulder blades to her tailbone. She is immensely secretive about the mark, and it grows a fraction of an inch every time she casts a spell using its power — which makes her reluctant to use its power, lest it make its presence more obvious.
@@ -106,7 +106,7 @@ If Aubrey joins the characters in combat, she doesn’t use poison on her weapon
 
 ### Statistics and Combat
 
-![[sailing_ship_stats.png]]
+https://www.dndbeyond.com/vehicles/sailing-ship
 
 #### Special Officer Actions
 During an encounter, the captain, first mate, and bosun each have access to two special action options: Take Aim and Full Speed Ahead, both detailed below.
