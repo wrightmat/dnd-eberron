@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md"
+                "file": "sessions/2024-06-27.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+                "file": "sessions/2024-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,12 +231,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "253c7deb3a599e6d",
+  "active": "1752f5acc22c6590",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "other/Lantern of Seeking.md",
     "sessions/2024-06-27.md",
     "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "sessions/2024-06-20.md",
     "sessions/2024-07-11.md",
     "DM Screen.md",
@@ -258,7 +259,6 @@
     "_srd/items/Armor of Invulnerability.md",
     "_srd/items/Armor of Vulnerability.md",
     "_srd/items/Armor, +1, +2, or +3.md",
-    "_srd/items/Arrow of Slaying.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
