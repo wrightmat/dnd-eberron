@@ -18,7 +18,7 @@ This scarf is made of Syranian silk and covered in a number of platinum-colored 
 
 ##### Slot 3
 
-* **Level 1**: For 1 hour or until you dismiss it (no action required), the scale becomes a +1 shield, which you or another creature can use. A creature wielding the shield has immunity to radiant damage.
+* **Level 1**: For 1 hour or until you dismiss it (no action required), the scale becomes a +1 shield, which you or another creature can use. A creature wielding the shield has resistance to radiant damage.
 * **Level 2**: For 1 hour or until you dismiss it (no action required), the scale becomes a +2 shield, which you or another creature can use. A creature wielding the shield has immunity to radiant damage.
 * **Level 3**: For 1 hour or until you dismiss it (no action required), the scale becomes a +3 shield, which you or another creature can use. A creature wielding the shield has immunity to radiant damage.
 
