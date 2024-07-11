@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-07-11.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-07-11.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,10 +215,24 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2024-07-11.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "faccd8d083c9dcfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4132d551effc92fd",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
             }
           }
         ]
@@ -245,10 +259,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1752f5acc22c6590",
+  "active": "79d5403b3e6533f7",
   "lastOpenFiles": [
-    "other/Celeste Noir.md",
     "sessions/2024-07-11.md",
+    "other/Celeste Noir.md",
     "locations/Citadel Mercane.md",
     "sessions/2024-06-27.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
