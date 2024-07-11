@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "other/Lantern of Seeking.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -74,13 +74,13 @@
             }
           },
           {
-            "id": "63da50613f61a0d3",
+            "id": "8bc7ffc2596a2671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other/Platinum Scarf (Vestige).md",
-                "mode": "source",
+                "file": "other/Celeste Noir.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/Platinum Scarf (Vestige).md"
+                "file": "other/Celeste Noir.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/Platinum Scarf (Vestige).md",
+                "file": "other/Celeste Noir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,24 +227,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other/Platinum Scarf (Vestige).md",
+                "file": "other/Celeste Noir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6d2db9836fc00a1b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7cb21759ec92de77",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
             }
           }
         ]
@@ -271,12 +257,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "63da50613f61a0d3",
+  "active": "8bc7ffc2596a2671",
   "lastOpenFiles": [
     "sessions/2024-07-11.md",
+    "locations/Citadel Mercane.md",
+    "sessions/2024-06-27.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "other/Lantern of Seeking.md",
     "adventures/C03. Riddles of the Third Age.md",
+    "other/Platinum Scarf (Vestige).md",
     "adventures/C04. The Nature of Magic.md",
     "_srd/items/Ammunition, +1, +2, or +3.md",
     "_srd/items/Adamantine Armor.md",
@@ -296,9 +285,6 @@
     "_srd/items/Bag of Holding.md",
     "_srd/items/Bag of Tricks.md",
     "_srd/items/Bead of Force.md",
-    "_srd/items/Belt of Dwarvenkind.md",
-    "_srd/items/Belt of Giant Strength.md",
-    "_srd/items/Berserker Axe.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
