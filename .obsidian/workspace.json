@@ -24,17 +24,15 @@
             }
           },
           {
-            "id": "b5b9afca7c0322bb",
+            "id": "253c7deb3a599e6d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -67,14 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-07-11.md",
-                "mode": "preview",
+                "file": "sessions/2024-06-27.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md"
               }
             }
           },
@@ -150,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +170,7 @@
                   "viewState": 1,
                   "displaying": {
                     "year": 998,
-                    "month": 4,
+                    "month": 0,
                     "day": 1
                   },
                   "displayDayNumber": false,
@@ -208,38 +206,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "d961cef83c24dd10",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "faccd8d083c9dcfc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4132d551effc92fd",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,15 +231,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "79d5403b3e6533f7",
+  "active": "253c7deb3a599e6d",
   "lastOpenFiles": [
-    "sessions/2024-07-11.md",
-    "other/Celeste Noir.md",
-    "locations/Citadel Mercane.md",
-    "sessions/2024-06-27.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "other/Lantern of Seeking.md",
+    "sessions/2024-06-27.md",
+    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+    "sessions/2024-06-20.md",
+    "sessions/2024-07-11.md",
+    "DM Screen.md",
     "adventures/C03. Riddles of the Third Age.md",
+    "Untitled.md",
+    "Syla Nezzelech.md",
+    "other/Celeste Noir.md",
+    "locations/Citadel Mercane.md",
     "other/Platinum Scarf (Vestige).md",
     "adventures/C04. The Nature of Magic.md",
     "_srd/items/Ammunition, +1, +2, or +3.md",
@@ -282,11 +259,6 @@
     "_srd/items/Armor of Vulnerability.md",
     "_srd/items/Armor, +1, +2, or +3.md",
     "_srd/items/Arrow of Slaying.md",
-    "_srd/items/Arrow-Catching Shield.md",
-    "_srd/items/Bag of Beans.md",
-    "_srd/items/Bag of Devouring.md",
-    "_srd/items/Bag of Holding.md",
-    "_srd/items/Bag of Tricks.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",

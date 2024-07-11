@@ -183,30 +183,8 @@
   "state": {
     "creatures": [
       {
-        "name": "Medusa",
-        "initiative": 11,
-        "static": false,
-        "modifier": 5,
-        "hp": 110,
-        "currentMaxHP": 110,
-        "cr": 6,
-        "ac": 16,
-        "currentAC": 16,
-        "path": "creatures/Medusa.md",
-        "id": "ID_ba09c98a0b49",
-        "currentHP": 110,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "13d8 + 52",
-        "rollHP": false
-      },
-      {
         "name": "Verity",
-        "initiative": 22,
+        "initiative": 16,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -222,13 +200,13 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Aither",
-        "initiative": 11,
+        "initiative": 9,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -250,7 +228,7 @@
       },
       {
         "name": "Thana",
-        "initiative": 7,
+        "initiative": 5,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -262,9 +240,7 @@
         "id": "ID_99480ae8db1b",
         "currentHP": 0,
         "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
+        "status": [],
         "enabled": true,
         "level": 5,
         "player": true,
@@ -273,7 +249,7 @@
         "friendly": false
       }
     ],
-    "state": true,
+    "state": false,
     "name": null,
     "round": 1,
     "logFile": "",
