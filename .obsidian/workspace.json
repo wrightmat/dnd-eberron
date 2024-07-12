@@ -73,21 +73,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "660d9c5ec97c0723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "creatures/Angatra.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creatures/Angatra.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md"
               }
             }
           },
@@ -165,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creatures/Angatra.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,11 +251,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "de76a06521b063a6",
+  "active": "79d5403b3e6533f7",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "other/Lantern of Seeking.md",
+    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+    "_srd/spells/Glyph of Warding.md",
+    "creatures/Angatra.md",
     "sessions/2024-07-11.md",
     "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
     "_srd/items/Potion of Healing.md",
@@ -290,8 +279,6 @@
     "locations/Citadel Mercane.md",
     "other/Platinum Scarf (Vestige).md",
     "adventures/C04. The Nature of Magic.md",
-    "_srd/items/Ammunition, +1, +2, or +3.md",
-    "_srd/items/Adamantine Armor.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",

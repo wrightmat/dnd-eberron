@@ -17,7 +17,6 @@ stats: [14, 20, 18, 8, 12, 15]
 skillsaves:
   - Perception: 4
   - Stealth: 8
-damage_vulnerabilities: string
 damage_resistances: necrotic; bludgeoning, piercing, and slashing from nonmagical weapons
 damage_immunities: poison
 condition_immunities: charmed, exhaustion, frightened, poisoned
