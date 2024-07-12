@@ -184,7 +184,7 @@
     "creatures": [
       {
         "name": "Verity",
-        "initiative": 16,
+        "initiative": 5,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -206,7 +206,7 @@
       },
       {
         "name": "Aither",
-        "initiative": 9,
+        "initiative": 23,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -228,7 +228,7 @@
       },
       {
         "name": "Thana",
-        "initiative": 5,
+        "initiative": 13,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -247,9 +247,31 @@
         "active": false,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Angatra",
+        "initiative": 9,
+        "static": false,
+        "modifier": 5,
+        "hp": 85,
+        "currentMaxHP": 85,
+        "cr": 6,
+        "ac": 17,
+        "currentAC": 17,
+        "path": "creatures/Angatra.md",
+        "id": "ID_8a186a589b99",
+        "currentHP": 64,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": true,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "10d8 + 40",
+        "rollHP": false
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
     "round": 1,
     "logFile": "",
