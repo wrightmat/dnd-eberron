@@ -216,7 +216,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Assets**:
 	- Tanila
 	- Ashaya
-- **Morale**: +6
+- **Morale**: +8
 - **Goal**: To create a new extremely powerful half-dragon, similar to Erandis Vol, referred to as "Project Emerald".
 - **Objectives**:
 	 - [x]  Kidnap (or persuade to help) a renowned scholar specializing in draconic history, a librarian named Tanila who lives at Arcanix University. Add as an Asset.

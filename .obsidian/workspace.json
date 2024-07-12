@@ -73,21 +73,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "05c22af103de1a49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "other/Draconic Factions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,6 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 32.03125,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/Draconic Factions.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -164,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/Draconic Factions.md",
+                "file": "DM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,21 +209,17 @@
                 "useHierarchy": true
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "39ad376bad6b96d0",
-        "type": "tabs",
-        "dimension": 67.96875,
-        "children": [
+          },
           {
-            "id": "1ca6174aede50965",
+            "id": "5746d0de4d2ff069",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "DM Screen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -263,7 +246,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "05c22af103de1a49",
+  "active": "97f22b5c9e620780",
   "lastOpenFiles": [
     "sessions/2024-07-11.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
