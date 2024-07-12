@@ -184,7 +184,7 @@
     "creatures": [
       {
         "name": "Verity",
-        "initiative": 5,
+        "initiative": 23,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -206,7 +206,7 @@
       },
       {
         "name": "Aither",
-        "initiative": 23,
+        "initiative": 21,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -228,7 +228,7 @@
       },
       {
         "name": "Thana",
-        "initiative": 13,
+        "initiative": 16,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -249,31 +249,30 @@
         "friendly": false
       },
       {
-        "name": "Angatra",
-        "initiative": 9,
+        "name": "Earth Elemental",
+        "initiative": 19,
         "static": false,
-        "modifier": 5,
-        "hp": 85,
-        "currentMaxHP": 85,
-        "cr": 6,
+        "modifier": -1,
+        "hp": 126,
+        "currentMaxHP": 126,
+        "cr": "5",
         "ac": 17,
         "currentAC": 17,
-        "path": "creatures/Angatra.md",
-        "id": "ID_8a186a589b99",
-        "currentHP": 18,
+        "id": "ID_d9db8a380a59",
+        "currentHP": 8,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "10d8 + 40",
+        "hit_dice": "12d10 + 60",
         "rollHP": false
       }
     ],
     "state": true,
     "name": null,
-    "round": 2,
+    "round": 4,
     "logFile": "",
     "rollHP": false
   },

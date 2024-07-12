@@ -89,7 +89,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Wealth**: 1
 - **Assets**:
 	- Bronze Shipyard (Headquarters)
-- **Morale**: +6
+- **Morale**: +7
 - **Goal**: Build up a navy strong enough to protect Argonnessen from outsiders while the other dragons release Tiamat.
 - **Objectives**:
 	 - [x]  A single ship of bronze dragonborn lands in Pylas Maradal, and begin working with House Lyrandar to build more ships.
@@ -110,7 +110,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Assets**:
 	- Zolanberg Council of Nine
 	- Trolanport Council of Nine
-- **Morale**: +9
+- **Morale**: +11
 - **Goal**: Establish a spy network to get information back to Argonnessen, destroying The Trust in the process. "Information is power".
 - **Objectives**:
 	 - [x]  A traveling comedy troupe of brass dragonborn, known as the Brass Bards, begins to perform at any Copper Dragon Inns that exist in Khorvaire.
