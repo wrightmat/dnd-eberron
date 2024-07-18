@@ -30,13 +30,29 @@ image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/ttTL
 
 ### Locations
 
-#### Amaranthine City
+##### Amaranthine City
+
+The Amaranthine City is the capital of an empire in its first bloom of glory. Gilded banners catch the wind. Armored angels and pegasi patrols pass overhead. People laugh in the streets, healthy and happy. Artisans create a mosaic depicting glorious victories. While this is an empire, the message isn’t about oppression, but one of potential. This is an empire where all the citizens are prosperous and all have equal opportunities. People are proud, the city is full of wonders, and the future is bright. The Amaranthine City is widely seen as the heart of Irian. Its Dawn Empress is the first and greatest of the Architects.
+
+The largest city in the realm is largely populated by embers, manifestations linked to a spark — a tiny echo of a soul, each one tied to a living creature. Each ember should have the appearance and name of a person the party has met during their adventures, but otherwise they’ll act like basic NPCs, just populating the scene and moving about randomly.  An ember resembles the mortal whose spark fuels it, but it isn’t fully conscious and doesn’t have any complete memories, merely echoes of that mortal’s brightest joys, deepest hopes, and greatest deeds.
+
+The city contains a variety of buildings, but some of the most famous are Club Starlight, Desire’s Den, and Rhea’s Resort (below). There’s also a frozen yogurt shop called “Icicles Frozen Yogurt Shop” run by an Ice Djinn, a clothing store called “Everything Fits”, and food shops called “Chocolate Everything”, “Chai There!” and “The Good Plates”.
 
 ##### Club Starlight
 
+A rave-inspired dance club that’s run by a Lumi, who also serves as the bouncer (who glows with positive energy and gives off light for 5 feet). If any player isn’t feeling positively about visiting the club, they’ll either need to change their outlook for real, or succeed on a DC 18 Deception check in order to get in to the club - the Lumi can’t abide negativity in his club!
+
 ##### Desire’s Den
 
+This club/bathhouse/bar is entirely sex-positive and run by Desire, the most powerful creature on Irian (above the Architects), and member of the Endless. All sexuality is welcome and openly embraced here, and the den also represents the concept of fertility. The symbol of the club is a heart made of cut glass. Desire's Den has smooth, red, curvilinear walls and floors throughout, made of something similar to epoxy.
+
+The inside of the club consists of a communal bar and lounge, indoor bathhouse (whose waters act as Desire's scrying pool), private rooms, and private gallery where Desire spends most of their time. There is also a direct connection to Club Starlight next door. Although the gallery is Desire's own space, they allow anyone to enter and speak to them at any time. The gallery is decorated with white hanging paintings of each of the Endless sigils.
+
 ##### Rhea’s Resort
+
+A Ki-rin ranch can be found just outside of the Amaranthine City, between Desire's Den and The Garden. The ki-rin here aren’t contained in any way and actually run the place themselves, but they freely choose to give visitors and angels rides around the plane. The leader is a Ki-rin female (said to be exceptionally rare), named named Rhea, who has gathered all the others males as a sort of harem.
+
+Females are velvety blue, while the men are gold.
 
 #### The Garden
 

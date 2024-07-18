@@ -80,14 +80,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-07-18.md",
+                "file": "locations/Barrakas (Irian).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24a414f082a8b0d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md"
+                "file": "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md"
               }
             }
           },
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+                "file": "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+                "file": "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,8 +270,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "110af3dc86d348b3",
+  "active": "24a414f082a8b0d5",
   "lastOpenFiles": [
+    "locations/Barrakas (Irian).md",
+    "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
     "sessions/2024-07-18.md",
     "sessions/2024-07-11.md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
@@ -285,8 +299,6 @@
     "Untitled.md",
     "Syla Nezzelech.md",
     "other/Celeste Noir.md",
-    "locations/Citadel Mercane.md",
-    "other/Platinum Scarf (Vestige).md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
