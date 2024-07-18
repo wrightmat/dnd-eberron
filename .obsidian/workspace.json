@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-07-11.md",
+                "file": "sessions/2024-07-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "sessions/2024-07-18.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "sessions/2024-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "sessions/2024-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,9 +246,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "97f22b5c9e620780",
+  "active": "110af3dc86d348b3",
   "lastOpenFiles": [
     "sessions/2024-07-11.md",
+    "sessions/2024-07-18.md",
+    "DM Screen.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "other/Lantern of Seeking.md",
@@ -267,7 +269,6 @@
     "characters/Kazdurakashtan (Haze-of-Death).md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "sessions/2024-06-20.md",
-    "DM Screen.md",
     "adventures/C03. Riddles of the Third Age.md",
     "Untitled.md",
     "Syla Nezzelech.md",
