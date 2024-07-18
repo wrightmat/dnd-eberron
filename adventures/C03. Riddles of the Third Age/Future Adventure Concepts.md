@@ -37,7 +37,9 @@ Below are some story beats that can still be weaved into the campaign - just nee
 - Travel to Irian. Should definitely incorporate Irian in a pretty major way, as it connects to all of the characters in some way (Undying for Thana, "the light" for Aither, and a possible new home and/or source of radiance for Verity as an Irian aasimar instead of Syranian). They are also already tied to Lorrister, who is an Irian aasimar.
 	- Should tie in Hope and Joy somehow, probably as the primary hook. As Verity would like to help their siblings (get away from their father at least) if possible.
 	- Maybe they've been exiled from Syrania as Radiant Idols, and sent to Sharn. Then they left and happened upon Shining Valley in Breland. There they allied with The Haunting Song, who they identified with because they were also considered monsters and didn't believe themselves to be so.
-	- Some adventure to find the Irian manifest zone in Shining Valley, navigate/explore Irian, and possibly somehow re-connect Shae Mordai to Irian.
+	- Some adventure to find the Irian manifest zone in Shining Valley, navigate/explore Irian, and possibly somehow find Shae Mordai's planar seed and re-connect it to the Material Plane.
+	- Planar seeds sprout from realms. Early on, they’re small layers with indistinct themes, but expand and gradually take on the nature and properties of the plane they’re to become.  Moving between realms requires plane shift or a ritual tied to that realm. These rituals may not be magical; they are simply secrets that have to be learned. If you’re in the Amaranthine City and you want to travel to the Garden, all you have to do is plant a flower and reflect on its beauty; those thoughts will carry you there.
+		- Exploring Eberron, pg. 166
 
 ### Adventure Concepts
 Obviously any of these could be done in any order, but they're presented here in rough order of difficulty (with adventures of the same color being roughly the same difficulty).

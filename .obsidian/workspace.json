@@ -73,33 +73,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e11dfc12d55d3e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/Barrakas (Irian).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24a414f082a8b0d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md"
+                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md"
               }
             }
           },
@@ -175,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
+                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
+                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +246,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "24a414f082a8b0d5",
+  "active": "110af3dc86d348b3",
   "lastOpenFiles": [
     "locations/Barrakas (Irian).md",
     "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
