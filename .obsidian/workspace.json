@@ -24,18 +24,6 @@
             }
           },
           {
-            "id": "253c7deb3a599e6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "79d5403b3e6533f7",
             "type": "leaf",
             "state": {
@@ -63,19 +51,31 @@
             }
           },
           {
-            "id": "110af3dc86d348b3",
+            "id": "e151d3708625a912",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+                "file": "sessions/2024-07-18.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e7d2327be9cd239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/Lantern of Seeking.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,21 +246,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "110af3dc86d348b3",
+  "active": "79d5403b3e6533f7",
   "lastOpenFiles": [
+    "DM Screen.md",
+    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+    "canvas_maps/Labyrinth of the Lantern's Light.canvas",
+    "sessions/2024-07-18.md",
+    "other/Lantern of Seeking.md",
+    "creatures/Metal Minotaur.md",
+    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "locations/Barrakas (Irian).md",
     "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
-    "sessions/2024-07-18.md",
     "sessions/2024-07-11.md",
-    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
-    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
-    "DM Screen.md",
-    "canvas_maps/Labyrinth of the Lantern's Light.canvas",
-    "other/Lantern of Seeking.md",
     "_ref/Modular Magic Items (Vestiges).md",
     "_srd/spells/Glyph of Warding.md",
     "creatures/Angatra.md",
-    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
     "_srd/items/Potion of Healing.md",
     "_ref/Factions.md",
     "other/Draconic Factions.md",
@@ -273,8 +274,6 @@
     "sessions/2024-06-20.md",
     "adventures/C03. Riddles of the Third Age.md",
     "Untitled.md",
-    "Syla Nezzelech.md",
-    "other/Celeste Noir.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
