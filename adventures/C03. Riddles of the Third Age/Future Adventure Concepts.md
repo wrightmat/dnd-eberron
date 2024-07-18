@@ -34,6 +34,11 @@ Below are some story beats that can still be weaved into the campaign - just nee
 
 - **Return of Prince Lorrister**. Could be interesting to give the players a ride on the Heavenly Fleet's flagship, as a way to see all of Khorvaire and the impact the dragons are having. This could work as a way to get them to Adar if we want to do the Dragon Attack earlier to ramp up the drama.
 
+- Travel to Irian. Should definitely incorporate Irian in a pretty major way, as it connects to all of the characters in some way (Undying for Thana, "the light" for Aither, and a possible new home and/or source of radiance for Verity as an Irian aasimar instead of Syranian). They are also already tied to Lorrister, who is an Irian aasimar.
+	- Should tie in Hope and Joy somehow, probably as the primary hook. As Verity would like to help their siblings (get away from their father at least) if possible.
+	- Maybe they've been exiled from Syrania as Radiant Idols, and sent to Sharn. Then they left and happened upon Shining Valley in Breland. There they allied with The Haunting Song, who they identified with because they were also considered monsters and didn't believe themselves to be so.
+	- Some adventure to find the Irian manifest zone in Shining Valley, navigate/explore Irian, and possibly somehow re-connect Shae Mordai to Irian.
+
 ### Adventure Concepts
 Obviously any of these could be done in any order, but they're presented here in rough order of difficulty (with adventures of the same color being roughly the same difficulty).
 

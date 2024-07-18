@@ -68,6 +68,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e11dfc12d55d3e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "sessions/2024-07-18.md",
                 "mode": "source",
                 "source": false
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-07-18.md"
+                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md"
               }
             }
           },
@@ -151,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-07-18.md",
+                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2024-07-18.md",
+                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,10 +260,11 @@
   },
   "active": "110af3dc86d348b3",
   "lastOpenFiles": [
-    "sessions/2024-07-11.md",
     "sessions/2024-07-18.md",
-    "DM Screen.md",
+    "sessions/2024-07-11.md",
+    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+    "DM Screen.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "other/Lantern of Seeking.md",
     "_ref/Modular Magic Items (Vestiges).md",
@@ -267,7 +280,6 @@
     "sessions/2024-06-27.md",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
     "characters/Kazdurakashtan (Haze-of-Death).md",
-    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "sessions/2024-06-20.md",
     "adventures/C03. Riddles of the Third Age.md",
     "Untitled.md",
