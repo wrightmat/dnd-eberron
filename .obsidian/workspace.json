@@ -49,33 +49,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "e151d3708625a912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/2024-07-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a01bf21329911d71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "other/Lantern of Seeking.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +109,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 33.07291666666667,
+        "dimension": 33.072916666666664,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -142,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-07-18.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -152,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-07-18.md",
+                "file": "DM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2024-07-18.md",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +204,7 @@
       {
         "id": "49ac74af40969e2a",
         "type": "tabs",
-        "dimension": 66.92708333333334,
+        "dimension": 66.92708333333333,
         "children": [
           {
             "id": "145b941b392a70b6",
@@ -263,13 +238,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e151d3708625a912",
+  "active": "814c005cc526692a",
   "lastOpenFiles": [
-    "other/Lantern of Seeking.md",
-    "other/Dragon Mask.md",
-    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "sessions/2024-07-18.md",
+    "other/Lantern of Seeking.md",
+    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+    "other/Dragon Mask.md",
     "creatures/Psoglav Demon.md",
     "sessions/2024-07-11.md",
     "creatures/Metal Minotaur.md",
@@ -291,7 +266,6 @@
     "sessions/2024-06-27.md",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
     "characters/Kazdurakashtan (Haze-of-Death).md",
-    "sessions/2024-06-20.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
