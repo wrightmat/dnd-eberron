@@ -73,9 +73,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00ab8bd7f121bd35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "creatures/Psoglav Demon.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md"
+                "file": "creatures/Psoglav Demon.md"
               }
             }
           },
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+                "file": "creatures/Psoglav Demon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+                "file": "creatures/Psoglav Demon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,11 +275,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "79d5403b3e6533f7",
+  "active": "00ab8bd7f121bd35",
   "lastOpenFiles": [
-    "other/Lantern of Seeking.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
+    "other/Lantern of Seeking.md",
     "sessions/2024-07-18.md",
     "sessions/2024-07-11.md",
     "creatures/Metal Minotaur.md",
