@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "2e7d2327be9cd239",
+            "id": "a01bf21329911d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,6 +134,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 31.944444444444443,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -222,6 +223,22 @@
               }
             }
           }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "49ac74af40969e2a",
+        "type": "tabs",
+        "dimension": 68.05555555555556,
+        "children": [
+          {
+            "id": "145b941b392a70b6",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
         ]
       }
     ],
@@ -248,17 +265,18 @@
   },
   "active": "79d5403b3e6533f7",
   "lastOpenFiles": [
-    "DM Screen.md",
-    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+    "other/Lantern of Seeking.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "sessions/2024-07-18.md",
-    "other/Lantern of Seeking.md",
+    "sessions/2024-07-11.md",
     "creatures/Metal Minotaur.md",
+    "_srd/monsters/Minotaur.md",
+    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+    "DM Screen.md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "locations/Barrakas (Irian).md",
     "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
-    "sessions/2024-07-11.md",
     "_ref/Modular Magic Items (Vestiges).md",
     "_srd/spells/Glyph of Warding.md",
     "creatures/Angatra.md",
@@ -273,7 +291,6 @@
     "characters/Kazdurakashtan (Haze-of-Death).md",
     "sessions/2024-06-20.md",
     "adventures/C03. Riddles of the Third Age.md",
-    "Untitled.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
