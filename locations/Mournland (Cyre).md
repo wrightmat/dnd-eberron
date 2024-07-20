@@ -34,8 +34,6 @@ On the 20th of Olarune, 994 YK, an unknown magical holocaust wiped out the natio
 
 ### Locations
 
-![https://wrightmat.github.io/dnd-eberron/_img/mournland_hex.png|600](https://wrightmat.github.io/dnd-eberron/_img/mournland_hex.png)
-
 * **The Dead-Grey Mists**. The dead-gray mist is a shroud that hangs over and circumscribes the Mournland. The mist acts as an obscuring fog that prevents a clear view of the mangled landscape; even people on airships can't see through the heavy blanket. The thickness of the mist varies; at its broadest, an adventurer would have to trek 5 miles (8 kilometers) to escape the constricting smoke. A more fortunate explorer could just hold their breath for a couple hundred feet before breaking through to the other side. This, however, is easier said than done, for the dead-gray mist has the ability to muddle one's mind. There are stories of unfortunate souls who found themselves caught in a labyrinth without walls manufactured from their own shattered psyche. Within the Mournland, there are isolated locations where the mist gathers again, but these patches are far less dense and dangerous than the perimeter walls.
 * **Dollen on the River** (1).
 * **Swoz** (2).

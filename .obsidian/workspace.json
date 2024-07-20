@@ -49,8 +49,36 @@
                 }
               }
             }
+          },
+          {
+            "id": "3e97c3fe962fce8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6827e79283942bd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas_maps/Mournland.canvas",
+                "viewState": {
+                  "x": 220.27638533676668,
+                  "y": 744.4992415958747,
+                  "zoom": -0.8576489954638306
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +137,6 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 33.072916666666664,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -117,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md"
               }
             }
           },
@@ -127,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,29 +219,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "49ac74af40969e2a",
-        "type": "tabs",
-        "dimension": 66.92708333333333,
-        "children": [
-          {
-            "id": "145b941b392a70b6",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,9 +250,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "814c005cc526692a",
+  "active": "3e97c3fe962fce8f",
   "lastOpenFiles": [
+    "canvas_maps/Mournland.canvas",
+    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
+    "locations/Mournland (Cyre).md",
+    "DM Screen.md",
     "sessions/2024-07-18.md",
     "other/Lantern of Seeking.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
@@ -250,7 +266,6 @@
     "creatures/Metal Minotaur.md",
     "_srd/monsters/Minotaur.md",
     "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
-    "DM Screen.md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "locations/Barrakas (Irian).md",
     "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
@@ -264,8 +279,6 @@
     "locations/Arcanix.md",
     "characters/Corrine ir'Wyrnarn.md",
     "sessions/2024-06-27.md",
-    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
-    "characters/Kazdurakashtan (Haze-of-Death).md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
@@ -284,7 +297,6 @@
     "canvas_docs_maps/dragon_hoard_heist.pdf",
     "Untitled.canvas",
     "canvas_maps/Argonnessen.canvas",
-    "canvas_maps/Mournland.canvas",
     "canvas_docs_maps/mournland.canvas",
     "canvas_maps/moon-temple.xcf",
     "canvas_maps/vvaraak-cave-grove.xcf",
