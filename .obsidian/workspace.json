@@ -61,21 +61,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a6827e79283942bd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas_maps/Mournland.canvas",
-                "viewState": {
-                  "x": 220.27638533676668,
-                  "y": 744.4992415958747,
-                  "zoom": -0.8576489954638306
-                }
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -252,8 +237,11 @@
   },
   "active": "3e97c3fe962fce8f",
   "lastOpenFiles": [
-    "canvas_maps/Mournland.canvas",
+    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+    "adventures/C04. The Nature of Magic/2-08. Divination.md",
+    "adventures/C04. The Nature of Magic.md",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
+    "canvas_maps/Mournland.canvas",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "locations/Mournland (Cyre).md",
     "DM Screen.md",
@@ -266,7 +254,6 @@
     "creatures/Metal Minotaur.md",
     "_srd/monsters/Minotaur.md",
     "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
-    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "locations/Barrakas (Irian).md",
     "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
     "_ref/Modular Magic Items (Vestiges).md",
@@ -278,7 +265,6 @@
     "other/Draconic Prophesy.md",
     "locations/Arcanix.md",
     "characters/Corrine ir'Wyrnarn.md",
-    "sessions/2024-06-27.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
