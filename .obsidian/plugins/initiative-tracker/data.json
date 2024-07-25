@@ -184,7 +184,7 @@
     "creatures": [
       {
         "name": "Thana",
-        "initiative": 19,
+        "initiative": 2,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -205,32 +205,8 @@
         "friendly": false
       },
       {
-        "name": "Bukavac",
-        "initiative": 13,
-        "static": false,
-        "modifier": 3,
-        "hp": 199,
-        "currentMaxHP": 199,
-        "cr": 9,
-        "ac": 16,
-        "currentAC": 16,
-        "path": "creatures/Bukavac.md",
-        "id": "ID_abd9ba598ab8",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "21d10 + 84",
-        "rollHP": false
-      },
-      {
         "name": "Aither",
-        "initiative": 13,
+        "initiative": 24,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -252,7 +228,7 @@
       },
       {
         "name": "Verity",
-        "initiative": 6,
+        "initiative": 9,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -268,14 +244,36 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Metal Minotaur",
+        "initiative": 7,
+        "static": false,
+        "modifier": 3,
+        "hp": 198,
+        "currentMaxHP": 198,
+        "cr": 12,
+        "ac": 20,
+        "currentAC": 20,
+        "path": "creatures/Metal Minotaur.md",
+        "id": "ID_3b6b3b095929",
+        "currentHP": 198,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "18d10 + 108",
+        "rollHP": false
       }
     ],
-    "state": true,
+    "state": false,
     "name": null,
-    "round": 5,
+    "round": 1,
     "logFile": "",
     "rollHP": false
   },
