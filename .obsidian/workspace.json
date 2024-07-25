@@ -197,6 +197,18 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "a2b1a9cb13956df8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sessions/2024-07-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 3
