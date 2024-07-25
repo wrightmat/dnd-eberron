@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/Lantern of Seeking.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/Lantern of Seeking.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other/Lantern of Seeking.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,6 +230,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -241,22 +243,20 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "97f22b5c9e620780",
+  "active": "79d5403b3e6533f7",
   "lastOpenFiles": [
+    "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
+    "DM Screen.md",
     "characters/Arstyvrax.md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "adventures/C04. The Nature of Magic/2-08. Divination.md",
     "adventures/C04. The Nature of Magic.md",
     "canvas_maps/Mournland.canvas",
-    "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "locations/Mournland (Cyre).md",
-    "DM Screen.md",
     "sessions/2024-07-18.md",
     "other/Lantern of Seeking.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
@@ -275,7 +275,6 @@
     "_ref/Factions.md",
     "other/Draconic Factions.md",
     "other/Draconic Prophesy.md",
-    "locations/Arcanix.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
