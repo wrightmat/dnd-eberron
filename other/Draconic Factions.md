@@ -71,7 +71,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Assets**:
 	- 
 - **Morale**: +7
-- **Goal**: Take over both the Church of the Silver Flame and Thronehold, in order to get an ancient couatl artifact (hidden in Thronehold and protected by the Church) that will help release Khyber.
+- **Goal**: Take over both the Church of the Silver Flame and Thronehold, in order to get an ancient couatl artifact (hidden in Thronehold and protected by the Church, known as "Hezcalipa's Heart") that will help release Khyber.
 - **Objectives**:
 	 - [x]  Onme Donverou, a childhood friend of Spindelaryx, is appointed as Keeper of the Flame.
 	 - [x]  Spindelaryx selected to lead Thrane's new contingent to Thronehold. +1 to Force.
@@ -79,8 +79,8 @@ The tracts below are listed in the general order that the PCs are expected to en
 	 - [ ]  "Throne Wardens" of House Denieth replaced by the Silver Scales, Paladin Protectors of the Realm. +1 to Force for Silver Dragon Faction.
 	 - [ ]  Spindelaryx takes control of the newly remodeled Thronehold Castle (now called the Golden Palace), calling in gold dragon reinforcements to force out the other three nations. The silver dragons may want to pretend to put up a fight, to keep up appearances. Add "Golden Palace" as an Asset.
 	 - [ ]  Gold dragons attack Flamekeep, wiping out the Council of Cardinals. Add "Flamekeep" as an Asset.
-	 - [ ]  Gold dragons search for and eventually find the ancient couatl artifact. Add "Couatl Artifact" as an Asset.
-	 - [ ]  Gold dragons return to Argonnessen with the artifact, completing their goal. +1 to Magic.
+	 - [ ]  Gold dragons search for and eventually find the ancient couatl artifact. Add "Hezcalipa's Heart" as an Asset.
+	 - [ ]  Gold dragons return to Argonnessen with Hezcalipa's Heart, completing their goal. +1 to Magic.
 
 ##### Bronze (Valenar)
 - **Cunning**: 2
