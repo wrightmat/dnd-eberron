@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -55,10 +55,22 @@
               "state": {
                 "file": "canvas_maps/Mournland.canvas",
                 "viewState": {
-                  "x": -342.3901181223488,
-                  "y": 1476.5181787881934,
-                  "zoom": -0.2733410349586795
+                  "x": -16.423336331395063,
+                  "y": 1137.9426524499172,
+                  "zoom": -0.8777190301995187
                 }
+              }
+            }
+          },
+          {
+            "id": "544579daa65766d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Avarice.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -255,11 +267,13 @@
   "lastOpenFiles": [
     "canvas_maps/Mournland.canvas",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
+    "sessions/2024-07-25.md",
+    "characters/Avarice.md",
+    "other/Draconic Factions.md",
+    "other/Draconic Pantheon.md",
     "_ref/Modular Magic Items (Vestiges).md",
     "other/Dragon Claws (Vestige).md",
-    "sessions/2024-07-25.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
-    "characters/Avarice.md",
     "_srd/Conditions.md",
     "DM Screen.md",
     "_gen/Travel Calculators.md",
@@ -278,8 +292,6 @@
     "creatures/Psoglav Demon.md",
     "creatures/Metal Minotaur.md",
     "_srd/monsters/Minotaur.md",
-    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
-    "locations/Barrakas (Irian).md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
