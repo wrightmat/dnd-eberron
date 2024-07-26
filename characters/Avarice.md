@@ -40,10 +40,10 @@ The tiefling has the secret support of the overlord Dral Khatuur, having traded 
 When the party encountered her in the Frostfell, they were robbed by Avarice. Verity robbed of gold, and Thana of her Undying Court broach.
 
 Avarice was commissioned by Garrick Quickfinder in Frostmantle to get back his Bag of Holding that the Verity took. She lies in wait for them outside of the Mournland. She has gained a companion since their last encounter.
-- **Victory "Vic" Graves** (female human thief). Vic also answered Garrick's job posting to get the stolen Bag of Holding back, but she and Avarice hit it off with their similarities and they decided to join forces. Use the stat block from Flee, Mortals!, page 377.
+- **[[Victory Graves]]** (female human thief). Vic also answered Garrick's job posting to get the stolen Bag of Holding back, but she and Avarice hit it off with their similarities and they decided to join forces. Use the stat block from Flee, Mortals!, page 377.
 
 Next time the players encounter Avarice, depending on how this encounter goes, she should have another member in her party.
-- **Jutkarr Flintfingers** (male dwarf thief). Jutkarr responded to the sale of the Orb of Dragonkind that Avarice put out, but he and Avarice hit it off and they instead hatched a plan and decided to join forces. Use the stat block from Flee, Mortals!, page 376, with Amethyst Die added to him instead of Harlo.
+- **[[Jutkarr Flintfingers]]** (male dwarf thief). Jutkarr responded to the sale of the Orb of Dragonkind that Avarice put out, but he and Avarice hit it off and they instead hatched a plan and decided to join forces. Use the stat block from Flee, Mortals!, page 376, with Amethyst Die added to him instead of Harlo.
 - http://wizzle.tplinkdns.com:38090/index.php/s/P84e8EAww8Nok8t#pdfviewer?page=377
 
 ### Stat Block

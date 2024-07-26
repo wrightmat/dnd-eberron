@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,19 +63,19 @@
             }
           },
           {
-            "id": "544579daa65766d6",
+            "id": "91b12771160acdfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Avarice.md",
-                "mode": "source",
+                "file": "other/Orb of Dragonkind.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md"
+                "file": "other/Orb of Dragonkind.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
+                "file": "other/Orb of Dragonkind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,14 +217,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
+                "file": "other/Orb of Dragonkind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "11d7c32edccf8238",
@@ -263,19 +262,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "afbffd5406dc87e9",
+  "active": "91b12771160acdfb",
   "lastOpenFiles": [
-    "canvas_maps/Mournland.canvas",
-    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Phylactery.md",
-    "sessions/2024-07-25.md",
+    "characters/Victory Graves.md",
     "characters/Avarice.md",
+    "characters/Jutkarr Flintfingers.md",
+    "other/Orb of Dragonkind.md",
+    "_srd/Conditions.md",
+    "DM Screen.md",
+    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
+    "canvas_maps/Mournland.canvas",
+    "other/Eberron Dragonshard.md",
+    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+    "other/Khyber Dragonshard.md",
+    "_srd/monsters/Lich.md",
+    "characters/Arstyvrax.md",
+    "sessions/2024-07-25.md",
     "other/Draconic Factions.md",
     "other/Draconic Pantheon.md",
     "_ref/Modular Magic Items (Vestiges).md",
     "other/Dragon Claws (Vestige).md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
-    "_srd/Conditions.md",
-    "DM Screen.md",
     "_gen/Travel Calculators.md",
     "sessions/2024-07-18.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
@@ -283,15 +290,8 @@
     "_srd/items/Bead of Force.md",
     "sessions/2024-06-27.md",
     "sessions/2024-07-11.md",
-    "characters/Arstyvrax.md",
-    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "adventures/C04. The Nature of Magic/2-08. Divination.md",
     "adventures/C04. The Nature of Magic.md",
-    "locations/Mournland (Cyre).md",
-    "other/Dragon Mask.md",
-    "creatures/Psoglav Demon.md",
-    "creatures/Metal Minotaur.md",
-    "_srd/monsters/Minotaur.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",

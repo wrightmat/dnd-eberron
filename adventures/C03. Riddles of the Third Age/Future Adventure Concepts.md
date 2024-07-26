@@ -21,7 +21,7 @@ marker: default, -3.00, 5.25, [[2-02. Mystic Glade and Vvaraak's Cave]]
 marker: default, -1.83, 9.33, [[2-03. The Storm of Speartip]]
 marker: default, -5.05, 7.24, [[2-04. The Legacy of the Moonblade]]
 marker: default, -2.91, 6.46, [[2-05. Echoes of the Celestial Realm]]
-marker: default, -3.29, 7.55, [[2-06. The Draconic Phylactery]]
+marker: default, -3.29, 7.55, [[2-06. The Draconic Soulshard]]
 marker: default, -3.98, 7.20, [[2-07. Labyrinth of the Lantern's Light]]
 ```
 
@@ -60,8 +60,8 @@ Tailored to Verity, where the Platinum Scarf is received. Blue difficulty (avera
 ##### [[2-05. Labyrinth of the Lantern's Light]]
 This is a way to fully empower the Lantern of Seeking. Possibly also reveal some additional information about the world, and/or give the party the opportunity to gain an ally (the Steel Dragon NPC might be good here). Green difficulty (average CR 7, max CR 12). The Lantern of Seeking command words for Fiends, Elementals or Oozes, and Constructs are all found here.
 
-##### [[2-06. The Draconic Phylactery]]
-Probably tailored to Staff. An opportunity to give more information about Arstyvrax and his undead nature, as well as to give them control over his phylactery. Potential to ally with Haze-of-Death as well. Green difficulty (average CR 7, max CR 12).
+##### [[2-06. The Draconic Soulshard]]
+Probably tailored to Staff. An opportunity to give more information about Arstyvrax and his undead nature, as well as to give them control over his soulshard. Potential to ally with Haze-of-Death as well. Green difficulty (average CR 7, max CR 12).
 
 ##### [[2-07. Stygianos the Carrion Sphinx]]
 Final challenge in Khorvaire, and fulfillment of the party's promise to Reigney. Could be the location of the Draakhorn? Yellow difficulty (average CR 9, max CR 15).
