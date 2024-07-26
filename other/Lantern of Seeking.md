@@ -10,7 +10,7 @@ When an appropriate command word is spoken, and certain types of creatures are w
 | --- | ----------------------- | ------- | ----------- |
 | 1   | Aberrations             | Violet  | Everstrange |
 | 2   | Celestials              | Silver  | Everbright  |
-| 3   | Constructs              | Orange  |             |
+| 3   | Constructs              | Orange  | Eversteel   |
 | 4   | Dragons                 | Brown   |             |
 | 5   | Elementals or Oozes     | Blue    |             |
 | 6   | Fey or Plant            | Green   | Evergreen   |

@@ -184,7 +184,7 @@
     "creatures": [
       {
         "name": "Thana",
-        "initiative": 2,
+        "initiative": 3,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -206,7 +206,7 @@
       },
       {
         "name": "Aither",
-        "initiative": 24,
+        "initiative": 11,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -222,13 +222,13 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Verity",
-        "initiative": 9,
+        "initiative": 14,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -260,9 +260,11 @@
         "currentAC": 20,
         "path": "creatures/Metal Minotaur.md",
         "id": "ID_3b6b3b095929",
-        "currentHP": 198,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -271,9 +273,9 @@
         "rollHP": false
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
-    "round": 1,
+    "round": 3,
     "logFile": "",
     "rollHP": false
   },
