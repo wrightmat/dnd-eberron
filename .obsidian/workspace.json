@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-07-25.md",
+                "file": "sessions/2024-08-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,46 +41,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc4621579d7a3f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/Taer Valior.md",
+                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "276114139b844ac0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas_maps/Mournland.canvas",
-                "viewState": {
-                  "x": 26.92160469842011,
-                  "y": 118.57840080857727,
-                  "zoom": -0.5789737092634926
-                }
-              }
-            }
-          },
-          {
-            "id": "088d206e2e4578c7",
+            "id": "9c83ed4b90f8aafb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+                "file": "adventures/C03. Riddles of the Third Age/Travel to Irian.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +119,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 32.46527777777778,
+        "dimension": 38.97569444444444,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -154,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/Taer Valior.md"
+                "file": "adventures/C03. Riddles of the Third Age/Travel to Irian.md"
               }
             }
           },
@@ -164,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/Taer Valior.md",
+                "file": "adventures/C03. Riddles of the Third Age/Travel to Irian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locations/Taer Valior.md",
+                "file": "adventures/C03. Riddles of the Third Age/Travel to Irian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +213,7 @@
       {
         "id": "11d7c32edccf8238",
         "type": "tabs",
-        "dimension": 67.53472222222221,
+        "dimension": 61.02430555555556,
         "children": [
           {
             "id": "23c5e5d8e1784c85",
@@ -274,34 +247,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "cc4621579d7a3f03",
+  "active": "9c83ed4b90f8aafb",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+    "adventures/C03. Riddles of the Third Age/Travel to Irian.md",
+    "adventures/C03. Riddles of the Third Age/2-09 Traversing Argonnessen.md",
+    "adventures/C03. Riddles of the Third Age/2-08. Through the Crystal Library.md",
+    "other/Draakhorn.md",
+    "sessions/2024-08-01.md",
+    "sessions/2024-07-25.md",
+    "sessions/2024-07-18.md",
+    "sessions/2024-07-11.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
-    "canvas_maps/Mournland.canvas",
-    "locations/Taer Valior.md",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
+    "canvas_maps/Mournland.canvas",
+    "creatures/Living Cloudkill.md",
+    "creatures/Living Lightning Bolt.md",
+    "locations/Taer Valior.md",
     "locations/Gatherhold.md",
     "locations/Vathirond.md",
     "locations/Loom Keep.md",
     "characters/Escher Belasco.md",
     "locations/Kennrun.md",
     "locations/Lyrenton.md",
-    "sessions/2024-07-25.md",
     "other/Draconic Factions.md",
     "characters/Spindelaryx.md",
     "other/Orb of Dragonkind.md",
     "characters/Victory Graves.md",
     "characters/Avarice.md",
     "characters/Jutkarr Flintfingers.md",
-    "_srd/Conditions.md",
-    "DM Screen.md",
-    "other/Eberron Dragonshard.md",
-    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
-    "other/Khyber Dragonshard.md",
-    "_srd/monsters/Lich.md",
-    "characters/Arstyvrax.md",
-    "other/Draconic Pantheon.md",
-    "_ref/Modular Magic Items (Vestiges).md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",

@@ -24,7 +24,7 @@ cr: 7
 traits:
   - name: Amorphous.
     desc: "The living spell can move through a space as narrow as 1 inch wide without squeezing."
-    name: Magic Resistance.
+  - name: Magic Resistance.
     desc: "The living spell has advantage on saving throws against spells and other magical effects."
 actions:
   - name: Multiattack.

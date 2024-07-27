@@ -34,8 +34,9 @@ In addition to the clan stationed there, Taer Valior is also home to a sizeable 
 
 ### Characters
 
-* **Shan Kaelan** (male elf). The lord of the fortress, and a hardened leader interested in the Mournland.
-* Captain Aric Stormrider (male elfCaptain Aric Stormrider is a Khoravar bearing the Mark of Storm, known for his expertise in airship navigation and combat. With long, wind-tousled blond hair and striking blue eyes, Aric exudes confidence and charisma. He commands the airship "Zephyr's Grace" and is responsible for patrolling the skies around Taer Valior, ensuring the safety of the airship routes.
+* **Shan Kaelan** (male elf). A stern and battle-hardened leader, Shan commands Taer Valior with unwavering authority. In his fifties, Shan has silver hair, a weathered face, and piercing blue eyes that reflect his relentless curiosity about the Mournland. He is known for his strategic mind and commitment to the safety and efficiency of the fortress and its operations.
+* **Captain Aric Stormrider** (male elf sailor). Captain Aric Stormrider is a Khoravar bearing the Mark of Storm, known for his expertise in airship navigation and combat. With long, wind-tousled blond hair and striking blue eyes, Aric exudes confidence and charisma. He commands the airship "Zephyr's Grace" and is responsible for patrolling the skies around Taer Valior, ensuring the safety of the airship routes.
+* **Maelis Kel Valior** (female elf artificer). Maelis is a young, ambitious member of the Kel Valior clan, deeply involved in the upkeep and operations of the fortress. With her short red hair and sharp green eyes, Maelis is known for her keen intellect and engineering skills. She oversees the maintenance of the Griffon Roosts and the Stormward Docks, ensuring everything runs smoothly and efficiently.
 
 ### Locations
 
