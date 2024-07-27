@@ -39,7 +39,7 @@ There are reports of terrible wailing coming from the ruins. At night, their ech
 
 ### Characters
 
-* 
+* **Eamon Trent** (male human). Eamon is a rugged, middle-aged scavenger and former adventurer in his late fifties. His appearance is marked by scars and a grizzled beard, with clothes and equipment showing signs of long-term use. Eamon has a keen eye for valuable artifacts and an intimate knowledge of the Mournland’s dangers, gained through years of exploring its ruins and surviving its horrors. He was born in Lyrenton just prior to the Day of Mourning, and has raised himself here when his parents never returned.
 
 ### Locations
 
@@ -48,7 +48,8 @@ There are reports of terrible wailing coming from the ruins. At night, their ech
 ### Secrets and Clues
 Check off as information is received. Some items may have more details throughout the page.
 
- - [ ] -
+ - [ ]   Eamon’s family was lost in the Mournland, and he has since dedicated himself to exploring its ruins and collecting artifacts, hoping to uncover secrets about his lost family and the world before the Day of Mourning. His experiences have made him both resourceful and wary of the perils lurking in the region.
+ - [ ]   Eamon initially appears as a gruff, solitary figure but might be willing to trade information or join forces if the players prove themselves trustworthy. Eamon can offer insight into the current state of the ruins and the types of threats that have emerged in the decades since the disaster. His journal, which he guards closely, could hold clues or maps related to hidden areas of Lyrenton or artifacts of interest.
 
 ### History
 
