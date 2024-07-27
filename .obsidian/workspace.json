@@ -24,43 +24,19 @@
             }
           },
           {
-            "id": "79d5403b3e6533f7",
+            "id": "7c5dffb626fa0277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-08-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afbffd5406dc87e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c83ed4b90f8aafb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Travel to Irian.md",
-                "mode": "source",
+                "file": "adventures/C03. Riddles of the Third Age.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Travel to Irian.md"
+                "file": "adventures/C03. Riddles of the Third Age.md"
               }
             }
           },
@@ -137,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Travel to Irian.md",
+                "file": "adventures/C03. Riddles of the Third Age.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/Travel to Irian.md",
+                "file": "adventures/C03. Riddles of the Third Age.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,14 +223,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9c83ed4b90f8aafb",
+  "active": "7c5dffb626fa0277",
   "lastOpenFiles": [
+    "DM Screen.md",
+    "sessions/2024-08-01.md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
-    "adventures/C03. Riddles of the Third Age/Travel to Irian.md",
+    "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
+    "locations/Barrakas (Irian).md",
     "adventures/C03. Riddles of the Third Age/2-09 Traversing Argonnessen.md",
     "adventures/C03. Riddles of the Third Age/2-08. Through the Crystal Library.md",
     "other/Draakhorn.md",
-    "sessions/2024-08-01.md",
     "sessions/2024-07-25.md",
     "sessions/2024-07-18.md",
     "sessions/2024-07-11.md",
@@ -274,8 +252,6 @@
     "characters/Spindelaryx.md",
     "other/Orb of Dragonkind.md",
     "characters/Victory Graves.md",
-    "characters/Avarice.md",
-    "characters/Jutkarr Flintfingers.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
