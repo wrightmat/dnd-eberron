@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "721a569baaaad447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/Dodecahedron of Doom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/Lord of Blades (Aaren d’Cannith).md"
+                "file": "other/Dodecahedron of Doom.md"
               }
             }
           },
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/Lord of Blades (Aaren d’Cannith).md",
+                "file": "other/Dodecahedron of Doom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/Lord of Blades (Aaren d’Cannith).md",
+                "file": "other/Dodecahedron of Doom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,8 +259,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f2388db26ff2a375",
+  "active": "721a569baaaad447",
   "lastOpenFiles": [
+    "other/All-Purpose Tool.md",
+    "other/Dodecahedron of Doom.md",
+    "characters/Lord of Blades (Aaren d’Cannith).md",
+    "characters/Ikar the Black.md",
     "adventures/C03. Riddles of the Third Age/1-11. Sarlona and the Final Lair.md",
     "adventures/C03. Riddles of the Third Age.md",
     "DM Screen.md",
@@ -272,10 +288,6 @@
     "locations/Vathirond.md",
     "locations/Loom Keep.md",
     "characters/Escher Belasco.md",
-    "locations/Kennrun.md",
-    "locations/Lyrenton.md",
-    "other/Draconic Factions.md",
-    "characters/Spindelaryx.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
