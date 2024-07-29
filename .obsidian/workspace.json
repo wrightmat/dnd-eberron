@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2388db26ff2a375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Lord of Blades (Aaren d’Cannith).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/1-11. Sarlona and the Final Lair.md"
+                "file": "characters/Lord of Blades (Aaren d’Cannith).md"
               }
             }
           },
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/1-11. Sarlona and the Final Lair.md",
+                "file": "characters/Lord of Blades (Aaren d’Cannith).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/1-11. Sarlona and the Final Lair.md",
+                "file": "characters/Lord of Blades (Aaren d’Cannith).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,8 +247,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "85fc0a55a0d1001d",
+  "active": "f2388db26ff2a375",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/1-11. Sarlona and the Final Lair.md",
     "adventures/C03. Riddles of the Third Age.md",
     "DM Screen.md",
     "sessions/2024-08-01.md",
@@ -263,7 +276,6 @@
     "locations/Lyrenton.md",
     "other/Draconic Factions.md",
     "characters/Spindelaryx.md",
-    "other/Orb of Dragonkind.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
