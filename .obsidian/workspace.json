@@ -46,21 +46,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dbd494ee98c062e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/Barrakas (Irian).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/Barrakas (Irian).md"
+                "file": "adventures/C03. Riddles of the Third Age/An Irian Adventure.md"
               }
             }
           },
@@ -137,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/Barrakas (Irian).md",
+                "file": "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locations/Barrakas (Irian).md",
+                "file": "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,8 +235,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dbd494ee98c062e7",
+  "active": "44bdcd3ae1844915",
   "lastOpenFiles": [
+    "locations/Barrakas (Irian).md",
     "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
     "other/Draconic Factions.md",
     "DM Screen.md",
@@ -261,7 +250,6 @@
     "characters/Ikar the Black.md",
     "sessions/2024-08-01.md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
-    "locations/Barrakas (Irian).md",
     "adventures/C03. Riddles of the Third Age/2-09 Traversing Argonnessen.md",
     "adventures/C03. Riddles of the Third Age/2-08. Through the Crystal Library.md",
     "other/Draakhorn.md",
