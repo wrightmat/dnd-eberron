@@ -46,7 +46,7 @@ Mustevals are small, mousy guardinals skilled at evading danger. Their speed, st
 
 #### Guardinals
 
-Nomadic and peaceful, guardinals are animalistic Celestials who hail from Elysium. Guardinals resemble Humanoids with bestial traits. In their daily interactions, guardinals embody the beauty, calm, and righteousness of their home plane. Guardinals can be found throughout the Outlands, especially in Ecstasy, the gate-town to Elysium, and in Faunel, the gate-town to the Beastlands.
+Nomadic and peaceful, guardinals are animalistic Celestials who hail from Elysium (Irian, Syrania, and Thelanis on Eberron). Guardinals resemble Humanoids with bestial traits. In their daily interactions, guardinals embody the beauty, calm, and righteousness of their home plane.
 
 While guardinals are usually friendly and slow to anger, their supernatural virtue puts them at odds with the evil beings of the Lower Planes. Guardinals abhor wickedness and strike out against injustice and villainy without hesitation, determined to eradicate forces that threaten beauty and peace.
 
