@@ -5,6 +5,7 @@
 * Irian connects to all of the characters in some way - the Undying Court for Thana, "the light" for Aither, and a possible new home and/or source of radiance for Verity as an Irian aasimar instead of Syranian. They are also already tied to Lorrister, who is an Irian aasimar.
 * If the players die (especially a TPK, but could also work with a single death if we split the party for a short time), then they should see a bright light that they're drawn to. If they decide to move toward the light, then they can awake in Irian. If not all of the players die, then the one(s) who do could explore Irian for a short time by themselves, and then could follow shortly with the "Dragon Attack" story beat (see [[Future Adventure Concepts]]), drowning the rest of the characters in the process, where they see a bright white light underwater.
 * Could also use Aither's rat, Snippers, as a hook. He's actually a disguised Musteval Guardinal originally from Irian. If the players make it to Irian by whatever means, Snippers' *disguise self* drops (without his knowledge, just by nature of being on this plane) and he can speak and serve as their guide.
+* The gold dragons are associated with Irian as well, so could have them as a challenge here in some way.
 
 ### Characters and Locations
 

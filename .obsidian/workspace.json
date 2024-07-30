@@ -34,9 +34,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44bdcd3ae1844915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age.md"
+                "file": "adventures/C03. Riddles of the Third Age/An Irian Adventure.md"
               }
             }
           },
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age.md",
+                "file": "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age.md",
+                "file": "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,17 +235,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7c5dffb626fa0277",
+  "active": "44bdcd3ae1844915",
   "lastOpenFiles": [
+    "other/Draconic Factions.md",
+    "DM Screen.md",
+    "adventures/C03. Riddles of the Third Age.md",
     "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
     "creatures/Musteval Guardinal.md",
-    "adventures/C03. Riddles of the Third Age.md",
     "adventures/C03. Riddles of the Third Age/1-11. Sarlona and the Final Lair.md",
     "characters/Lord of Blades (Aaren d’Cannith).md",
     "other/Dodecahedron of Doom.md",
     "other/All-Purpose Tool.md",
     "characters/Ikar the Black.md",
-    "DM Screen.md",
     "sessions/2024-08-01.md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "locations/Barrakas (Irian).md",
@@ -251,7 +264,6 @@
     "locations/Taer Valior.md",
     "locations/Gatherhold.md",
     "locations/Vathirond.md",
-    "locations/Loom Keep.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
