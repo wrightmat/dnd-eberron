@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e3aecb7330028f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Arstyvrax.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/An Irian Adventure.md"
+                "file": "characters/Arstyvrax.md"
               }
             }
           },
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
+                "file": "characters/Arstyvrax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
+                "file": "characters/Arstyvrax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,10 +247,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "44bdcd3ae1844915",
+  "active": "8e3aecb7330028f7",
   "lastOpenFiles": [
-    "locations/Barrakas (Irian).md",
     "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
+    "locations/Barrakas (Irian).md",
     "other/Draconic Factions.md",
     "DM Screen.md",
     "adventures/C03. Riddles of the Third Age.md",
