@@ -54,7 +54,7 @@
               "type": "markdown",
               "state": {
                 "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -71,18 +71,6 @@
                   "y": 789.4953200027503,
                   "zoom": -0.4575030343533912
                 }
-              }
-            }
-          },
-          {
-            "id": "9a20353d3578defa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/Kazdurakashtan (Haze-of-Death).md",
-                "mode": "preview",
-                "source": false
               }
             }
           },
@@ -290,11 +278,11 @@
   "active": "44bdcd3ae1844915",
   "lastOpenFiles": [
     "canvas_maps/Mournland.canvas",
+    "locations/Mournland (Cyre).md",
+    "characters/Kazdurakashtan (Haze-of-Death).md",
+    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "sessions/2024-08-01.md",
     "adventures/C03. Riddles of the Third Age.md",
-    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
-    "characters/Kazdurakashtan (Haze-of-Death).md",
-    "locations/Mournland (Cyre).md",
     "_srd/items/Potion of Healing.md",
     "characters/Lord of Blades (Aaren d’Cannith).md",
     "creatures/Nihileth.md",
