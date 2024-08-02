@@ -73,6 +73,30 @@
                 }
               }
             }
+          },
+          {
+            "id": "db15b87d96e51c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Lord of Blades (Aaren d’Cannith).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9419a5573981820c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Kazdurakashtan (Haze-of-Death).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -134,6 +158,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 31.59722222222222,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -222,11 +247,27 @@
               }
             }
           }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e4c0bda71d667bab",
+        "type": "tabs",
+        "dimension": 68.40277777777779,
+        "children": [
+          {
+            "id": "d9172472f2b8c478",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 509.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,6 +292,9 @@
     "canvas_maps/Mournland.canvas",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "sessions/2024-08-01.md",
+    "characters/Lord of Blades (Aaren d’Cannith).md",
+    "characters/Kazdurakashtan (Haze-of-Death).md",
+    "other/Lords of Dust.md",
     "sessions/2024-07-25.md",
     "other/Lantern of Seeking.md",
     "adventures/C04. The Nature of Magic.md",
@@ -262,7 +306,6 @@
     "DM Screen.md",
     "creatures/Musteval Guardinal.md",
     "adventures/C03. Riddles of the Third Age/1-11. Sarlona and the Final Lair.md",
-    "characters/Lord of Blades (Aaren d’Cannith).md",
     "other/Dodecahedron of Doom.md",
     "other/All-Purpose Tool.md",
     "characters/Ikar the Black.md",
@@ -272,8 +315,6 @@
     "other/Draakhorn.md",
     "sessions/2024-07-18.md",
     "sessions/2024-07-11.md",
-    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
-    "creatures/Living Cloudkill.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
