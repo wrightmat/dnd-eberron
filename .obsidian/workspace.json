@@ -67,27 +67,15 @@
               "state": {
                 "file": "canvas_maps/Mournland.canvas",
                 "viewState": {
-                  "x": -291.4273244956584,
-                  "y": 1195.951608845431,
+                  "x": 154.85069534850118,
+                  "y": 821.0780721763371,
                   "zoom": -0.4575030343533912
                 }
               }
             }
           },
           {
-            "id": "db15b87d96e51c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/Lord of Blades (Aaren d’Cannith).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9419a5573981820c",
+            "id": "9a20353d3578defa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -289,11 +277,12 @@
   },
   "active": "b39169c89167d50b",
   "lastOpenFiles": [
-    "canvas_maps/Mournland.canvas",
-    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
-    "sessions/2024-08-01.md",
-    "characters/Lord of Blades (Aaren d’Cannith).md",
     "characters/Kazdurakashtan (Haze-of-Death).md",
+    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
+    "canvas_maps/Mournland.canvas",
+    "characters/Lord of Blades (Aaren d’Cannith).md",
+    "creatures/Nihileth.md",
+    "sessions/2024-08-01.md",
     "other/Lords of Dust.md",
     "sessions/2024-07-25.md",
     "other/Lantern of Seeking.md",
@@ -314,7 +303,6 @@
     "adventures/C03. Riddles of the Third Age/2-08. Through the Crystal Library.md",
     "other/Draakhorn.md",
     "sessions/2024-07-18.md",
-    "sessions/2024-07-11.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
