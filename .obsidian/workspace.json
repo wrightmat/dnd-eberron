@@ -54,7 +54,7 @@
               "type": "markdown",
               "state": {
                 "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-08-08.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-08-08.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2024-08-08.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,12 +259,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b1c1e42f7a144b91",
+  "active": "b39169c89167d50b",
   "lastOpenFiles": [
+    "sessions/2024-08-08.md",
     "sessions/2024-08-01.md",
     "sessions/2024-07-25.md",
     "sessions/2024-07-18.md",
-    "sessions/2024-08-08.md",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "DM Screen.md",
     "other/Draconic Factions.md",
