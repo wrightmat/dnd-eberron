@@ -14,7 +14,7 @@ kanban-plugin: board
 - [ ] [[Inebriation]] (Mechanic)
 - [ ] [[Lingering Injury]] (Mechanic)
 - [ ] [[Stress]] (Mechanic)
-- [ ] [[Swarms]] (Mechanic)
+- [ ] [[Homebrew DM Mechanics]] (Mechanic)
 - [ ] [[Travel Calculators]]
 - [ ] --
 - [ ] **Lazy DM Principles**:

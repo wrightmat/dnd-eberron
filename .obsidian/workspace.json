@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-08-01.md",
+                "file": "sessions/2024-08-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,14 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-08-08.md",
+                "file": "_ref/Homebrew PC Rules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md"
+                "file": "sessions/2024-08-08.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
+                "file": "sessions/2024-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
+                "file": "sessions/2024-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,26 +259,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b39169c89167d50b",
+  "active": "44bdcd3ae1844915",
   "lastOpenFiles": [
-    "sessions/2024-08-08.md",
     "sessions/2024-08-01.md",
+    "_ref/Homebrew PC Rules.md",
+    "_ref/Homebrew DM Mechanics.md",
+    "_ref/Stress.md",
+    "_ref/Modular Magic Items (Vestiges).md",
+    "_ref/Mazes Using Cards.md",
+    "_ref/Magic.md",
+    "_ref/Inebriation.md",
+    "sessions/2024-08-08.md",
+    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "sessions/2024-07-25.md",
     "sessions/2024-07-18.md",
-    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "DM Screen.md",
     "other/Draconic Factions.md",
     "_gen/Travel Calculators.md",
     "_ref/Travel and Random Encounters.md",
-    "_ref/Swarms.md",
-    "_ref/Stress.md",
     "_ref/Shardjammer.md",
     "_ref/Monsters and Combat.md",
-    "_ref/Modular Magic Items (Vestiges).md",
-    "_ref/Mazes Using Cards.md",
-    "_ref/Magic.md",
     "_ref/Lingering Injury.md",
-    "_ref/Inebriation.md",
     "_ref/Gladiator Combat.md",
     "_ref/Games.md",
     "_ref/Factions.md",
@@ -286,7 +287,6 @@
     "_ref/Downtime Activities.md",
     "_srd/Making an Attack.md",
     "_srd/Actions in Combat.md",
-    "_srd/Situational Rules.md",
     "canvas_maps/Mournland.canvas",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
