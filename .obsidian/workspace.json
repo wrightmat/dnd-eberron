@@ -58,8 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1c1e42f7a144b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/2024-08-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "sessions/2024-08-08.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "sessions/2024-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,14 +214,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "sessions/2024-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e4c0bda71d667bab",
@@ -227,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,35 +259,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "814c005cc526692a",
+  "active": "b1c1e42f7a144b91",
   "lastOpenFiles": [
-    "_srd/Making an Attack.md",
-    "DM Screen.md",
-    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
-    "_srd/Situational Rules.md",
-    "_srd/Conditions.md",
-    "locations/Shae Cairdal.md",
-    "locations/Mournland (Cyre).md",
-    "creatures/Deathguard Warden.md",
     "sessions/2024-08-01.md",
-    "canvas_maps/Mournland.canvas",
-    "characters/Kazdurakashtan (Haze-of-Death).md",
-    "adventures/C03. Riddles of the Third Age.md",
-    "_srd/items/Potion of Healing.md",
-    "characters/Lord of Blades (Aaren d’Cannith).md",
-    "creatures/Nihileth.md",
-    "other/Lords of Dust.md",
     "sessions/2024-07-25.md",
-    "other/Lantern of Seeking.md",
-    "adventures/C04. The Nature of Magic.md",
-    "adventures/C03. Riddles of the Third Age/An Irian Adventure.md",
-    "characters/Arstyvrax.md",
-    "locations/Barrakas (Irian).md",
+    "sessions/2024-07-18.md",
+    "sessions/2024-08-08.md",
+    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
+    "DM Screen.md",
     "other/Draconic Factions.md",
-    "creatures/Musteval Guardinal.md",
-    "adventures/C03. Riddles of the Third Age/1-11. Sarlona and the Final Lair.md",
-    "other/Dodecahedron of Doom.md",
-    "other/All-Purpose Tool.md",
+    "_gen/Travel Calculators.md",
+    "_ref/Travel and Random Encounters.md",
+    "_ref/Swarms.md",
+    "_ref/Stress.md",
+    "_ref/Shardjammer.md",
+    "_ref/Monsters and Combat.md",
+    "_ref/Modular Magic Items (Vestiges).md",
+    "_ref/Mazes Using Cards.md",
+    "_ref/Magic.md",
+    "_ref/Lingering Injury.md",
+    "_ref/Inebriation.md",
+    "_ref/Gladiator Combat.md",
+    "_ref/Games.md",
+    "_ref/Factions.md",
+    "_ref/Dungeon Types.md",
+    "_ref/Downtime Activities.md",
+    "_srd/Making an Attack.md",
+    "_srd/Actions in Combat.md",
+    "_srd/Situational Rules.md",
+    "canvas_maps/Mournland.canvas",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
