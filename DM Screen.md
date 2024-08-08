@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
@@ -34,11 +34,21 @@ kanban-plugin: basic
 - [ ] [[locations/Sarlona|Sarlona]]
 - [ ] [[Flamewind]]
 - [ ] --
-- [ ] [[Aither Calobra Lightwood]]<br>12, 18, 12, 11, 15, 11, AC 16, 45 ft.<br>P. Per. 14, P. Inv. 10, P. Ins. 14
-- [ ] [[Thana Winslow]]<br>11, 12, 14, 13, 19, 8, AC 17, 35 ft.<br>P. Per. 16, P. Inv. 11, P. Ins. 14
-- [ ] [[Staff]]<br>11, 14, 12, 19, 14, 12, AC 12, 30 ft.<br>P. Per. 12, P. Inv. 16, P. Ins. 14
-- [ ] [[Shahiri]]<br>16, 15, 15, 14, 15, 11, AC 14, 30 ft.<br>P. Per. 12, P. Inv. 12, P. Ins. 12
-- [ ] [[Verity]]<br>10, 16, 12, 12, 10, 15, AC 14, 30 ft.<br>P. Per. 12, P. Inv. 11, P. Ins. 12
+- [ ] [[Aither Calobra Lightwood]]
+	12, 18, 12, 11, 15, 11, AC 16, 45 ft.
+	P. Per. 14, P. Inv. 10, P. Ins. 14
+- [ ] [[Thana Winslow]]
+	11, 12, 14, 13, 19, 8, AC 17, 35 ft.
+	P. Per. 16, P. Inv. 11, P. Ins. 14
+- [ ] [[Staff]]
+	11, 14, 12, 19, 14, 12, AC 12, 30 ft.
+	P. Per. 12, P. Inv. 16, P. Ins. 14
+- [ ] [[Shahiri]]
+	16, 15, 15, 14, 15, 11, AC 14, 30 ft.
+	P. Per. 12, P. Inv. 12, P. Ins. 12
+- [ ] [[Verity]]
+	10, 16, 12, 12, 10, 15, AC 14, 30 ft.
+	P. Per. 12, P. Inv. 11, P. Ins. 12
 
 
 ## Randomness
@@ -89,6 +99,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"board"}
 ```
 %%

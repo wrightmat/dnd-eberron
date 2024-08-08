@@ -58,48 +58,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "92f8d7b5d0c4ee04",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas_maps/Mournland.canvas",
-                "viewState": {
-                  "x": 347.0935346659853,
-                  "y": 789.4953200027503,
-                  "zoom": -0.4575030343533912
-                }
-              }
-            }
-          },
-          {
-            "id": "51d336ed4c81b181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/Mournland (Cyre).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd18e7aec7b243b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/Shae Cairdal.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/Shae Cairdal.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -176,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/Shae Cairdal.md",
+                "file": "DM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locations/Shae Cairdal.md",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,14 +247,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bd18e7aec7b243b6",
+  "active": "814c005cc526692a",
   "lastOpenFiles": [
+    "_srd/Making an Attack.md",
+    "DM Screen.md",
+    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
+    "_srd/Situational Rules.md",
+    "_srd/Conditions.md",
+    "locations/Shae Cairdal.md",
     "locations/Mournland (Cyre).md",
     "creatures/Deathguard Warden.md",
     "sessions/2024-08-01.md",
     "canvas_maps/Mournland.canvas",
     "characters/Kazdurakashtan (Haze-of-Death).md",
-    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "adventures/C03. Riddles of the Third Age.md",
     "_srd/items/Potion of Healing.md",
     "characters/Lord of Blades (Aaren d’Cannith).md",
@@ -307,15 +272,10 @@
     "characters/Arstyvrax.md",
     "locations/Barrakas (Irian).md",
     "other/Draconic Factions.md",
-    "DM Screen.md",
     "creatures/Musteval Guardinal.md",
     "adventures/C03. Riddles of the Third Age/1-11. Sarlona and the Final Lair.md",
     "other/Dodecahedron of Doom.md",
     "other/All-Purpose Tool.md",
-    "characters/Ikar the Black.md",
-    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
-    "adventures/C03. Riddles of the Third Age/2-09 Traversing Argonnessen.md",
-    "adventures/C03. Riddles of the Third Age/2-08. Through the Crystal Library.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
