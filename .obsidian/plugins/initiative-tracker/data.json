@@ -184,7 +184,7 @@
     "creatures": [
       {
         "name": "Thana",
-        "initiative": 14,
+        "initiative": 7,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -206,7 +206,7 @@
       },
       {
         "name": "Aither",
-        "initiative": 11,
+        "initiative": 22,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -228,7 +228,7 @@
       },
       {
         "name": "Verity",
-        "initiative": 10,
+        "initiative": 17,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -244,14 +244,36 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Vapor Lynx",
+        "initiative": 16,
+        "static": false,
+        "modifier": 4,
+        "hp": 127,
+        "currentMaxHP": 127,
+        "cr": 5,
+        "ac": 14,
+        "currentAC": 14,
+        "path": "creatures/Vapor Lynx.md",
+        "id": "ID_3b1ae9398afa",
+        "currentHP": 93,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "15d10 + 45",
+        "rollHP": false
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
-    "round": 1,
+    "round": 2,
     "logFile": "",
     "rollHP": false
   },
