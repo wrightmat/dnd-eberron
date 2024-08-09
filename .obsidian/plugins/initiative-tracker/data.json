@@ -184,7 +184,7 @@
     "creatures": [
       {
         "name": "Thana",
-        "initiative": 8,
+        "initiative": 14,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -206,7 +206,7 @@
       },
       {
         "name": "Aither",
-        "initiative": 14,
+        "initiative": 11,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -222,13 +222,13 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Verity",
-        "initiative": 15,
+        "initiative": 10,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -247,32 +247,11 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Adult White Dragon",
-        "initiative": 5,
-        "static": false,
-        "modifier": 0,
-        "hp": 200,
-        "currentMaxHP": 200,
-        "cr": "13",
-        "ac": 18,
-        "currentAC": 18,
-        "id": "ID_783ac99bf848",
-        "currentHP": 200,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "16d12 + 96",
-        "rollHP": false
       }
     ],
-    "state": true,
+    "state": false,
     "name": null,
-    "round": 5,
+    "round": 1,
     "logFile": "",
     "rollHP": false
   },
