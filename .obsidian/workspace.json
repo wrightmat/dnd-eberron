@@ -79,8 +79,8 @@
               "state": {
                 "file": "canvas_maps/Mournland.canvas",
                 "viewState": {
-                  "x": 834.7775178652676,
-                  "y": 906.6578742234256,
+                  "x": 949.5071638485117,
+                  "y": 789.8230971212229,
                   "zoom": -0.07391009494493944
                 }
               }
@@ -93,7 +93,7 @@
               "type": "markdown",
               "state": {
                 "file": "locations/Taer Valior.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -289,12 +289,16 @@
   },
   "active": "743a4bf600e2d7f8",
   "lastOpenFiles": [
-    "characters/Lord of Blades (Aaren d’Cannith).md",
+    "sessions/2024-08-08.md",
+    "locations/Taer Valior.md",
+    "locations/Valenar.md",
+    "other/Lantern of Seeking.md",
+    "creatures/Gypsosphinx.md",
+    "characters/Arstyvrax.md",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "canvas_maps/Mournland.canvas",
-    "sessions/2024-08-08.md",
-    "characters/Arstyvrax.md",
-    "locations/Taer Valior.md",
+    "creatures/Vapor Lynx.md",
+    "characters/Lord of Blades (Aaren d’Cannith).md",
     "other/Celeste Noir.md",
     "_ref/Lingering Injury.md",
     "_ref/Homebrew PC Rules.md",
@@ -312,9 +316,6 @@
     "_gen/Travel Calculators.md",
     "_ref/Travel and Random Encounters.md",
     "_ref/Shardjammer.md",
-    "_ref/Monsters and Combat.md",
-    "_ref/Gladiator Combat.md",
-    "_ref/Games.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
