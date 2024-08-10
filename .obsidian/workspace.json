@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd4991b78b2776c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/Draconic Factions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-08-08.md"
+                "file": "other/Draconic Factions.md"
               }
             }
           },
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-08-08.md",
+                "file": "other/Draconic Factions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2024-08-08.md",
+                "file": "other/Draconic Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,14 +231,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "97f22b5c9e620780",
+  "active": "fd4991b78b2776c6",
   "lastOpenFiles": [
+    "DM Screen.md",
+    "sessions/2024-08-08.md",
     "sessions/2024-08-16.md",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "characters/Arstyvrax.md",
     "sessions/2024-07-25.md",
     "sessions/2024-08-01.md",
-    "sessions/2024-08-08.md",
     "canvas_maps/Mournland.canvas",
     "locations/Taer Valior.md",
     "locations/Valenar.md",
@@ -244,7 +257,6 @@
     "_ref/Magic.md",
     "_ref/Inebriation.md",
     "sessions/2024-07-18.md",
-    "DM Screen.md",
     "other/Draconic Factions.md",
     "_gen/Travel Calculators.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
