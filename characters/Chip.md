@@ -33,6 +33,6 @@ Chip's torso has intricate arcane runes etched into it, softly glowing, indicati
 
 Chip is endlessly curious about the world around him. His artificial mind, designed to learn and adapt, absorbs information rapidly. He often asks questions about things others might take for granted, eager to understand everything from the mechanics of magic to the nuances of social interactions. Chip is still learning about emotions, social cues, and the subtleties of communication. He might take things literally, struggle with sarcasm, or misinterpret certain gestures, leading to moments of awkwardness. However, this is usually endearing, as he genuinely tries his best to fit in.
 
-While he is an apprentice wizard, Chip is aware of the potential dangers of magic. He approaches his studies with a mix of awe and caution, always double-checking his work and hesitating before trying something new. This can make him slower to cast in combat situations, but it also means he’s less likely to make catastrophic mistakes.
+While he is an apprentice wizard, Chip is aware of the potential dangers of magic. He approaches his studies with a mix of awe and caution, always double-checking his work and hesitating before trying something new.
 
 ### References

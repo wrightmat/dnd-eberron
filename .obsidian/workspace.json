@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-08-16.md"
+                "file": "characters/Chip.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-08-16.md",
+                "file": "characters/Chip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2024-08-16.md",
+                "file": "characters/Chip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,8 +255,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "44bdcd3ae1844915",
+  "active": "dae43085af28aaae",
   "lastOpenFiles": [
+    "sessions/2024-08-16.md",
     "sessions/2024-08-08.md",
     "characters/Chip.md",
     "characters/Serelath.md",
@@ -268,7 +269,6 @@
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "DM Screen.md",
-    "sessions/2024-08-16.md",
     "characters/Arstyvrax.md",
     "sessions/2024-07-25.md",
     "sessions/2024-08-01.md",
