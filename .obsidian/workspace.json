@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df24c9e524262ec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/Draconic Factions.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md"
               }
             }
           },
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/Draconic Factions.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other/Draconic Factions.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,8 +243,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fd4991b78b2776c6",
+  "active": "df24c9e524262ec9",
   "lastOpenFiles": [
+    "other/Draconic Factions.md",
+    "canvas_maps/Labyrinth of the Lantern's Light.canvas",
+    "characters/Valmoc.md",
     "DM Screen.md",
     "sessions/2024-08-08.md",
     "sessions/2024-08-16.md",
@@ -257,9 +272,6 @@
     "_ref/Magic.md",
     "_ref/Inebriation.md",
     "sessions/2024-07-18.md",
-    "other/Draconic Factions.md",
-    "_gen/Travel Calculators.md",
-    "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
