@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-08-08.md",
+                "file": "sessions/2024-08-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,19 +60,31 @@
             }
           },
           {
-            "id": "501cbf7326c5ffdb",
+            "id": "99c89d88924e228d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Valmoc.md",
-                "mode": "preview",
+                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dae43085af28aaae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Chip.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/Valmoc.md"
+                "file": "sessions/2024-08-16.md"
               }
             }
           },
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/Valmoc.md",
+                "file": "sessions/2024-08-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/Valmoc.md",
+                "file": "sessions/2024-08-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,16 +255,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "501cbf7326c5ffdb",
+  "active": "44bdcd3ae1844915",
   "lastOpenFiles": [
-    "other/Draconic Factions.md",
-    "characters/Chip.md",
-    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
-    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
-    "canvas_maps/Labyrinth of the Lantern's Light.canvas",
-    "characters/Valmoc.md",
-    "DM Screen.md",
     "sessions/2024-08-08.md",
+    "characters/Chip.md",
+    "characters/Serelath.md",
+    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+    "characters/Valmoc.md",
+    "characters/Valaara.md",
+    "characters/Serezka.md",
+    "other/Draconic Factions.md",
+    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
+    "canvas_maps/Labyrinth of the Lantern's Light.canvas",
+    "DM Screen.md",
     "sessions/2024-08-16.md",
     "characters/Arstyvrax.md",
     "sessions/2024-07-25.md",
@@ -270,9 +285,6 @@
     "_ref/Homebrew DM Mechanics.md",
     "_ref/Stress.md",
     "_ref/Modular Magic Items (Vestiges).md",
-    "_ref/Mazes Using Cards.md",
-    "_ref/Magic.md",
-    "_ref/Inebriation.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
