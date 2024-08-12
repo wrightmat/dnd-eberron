@@ -46,45 +46,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fd4991b78b2776c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "other/Draconic Factions.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99c89d88924e228d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dae43085af28aaae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/Chip.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/Chip.md"
+                "file": "sessions/2024-08-16.md"
               }
             }
           },
@@ -160,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/Chip.md",
+                "file": "sessions/2024-08-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/Chip.md",
+                "file": "sessions/2024-08-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,17 +219,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dae43085af28aaae",
+  "active": "44bdcd3ae1844915",
   "lastOpenFiles": [
+    "other/Draconic Factions.md",
+    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
+    "characters/Chip.md",
     "sessions/2024-08-16.md",
     "sessions/2024-08-08.md",
-    "characters/Chip.md",
     "characters/Serelath.md",
-    "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "characters/Valmoc.md",
     "characters/Valaara.md",
     "characters/Serezka.md",
-    "other/Draconic Factions.md",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "DM Screen.md",
