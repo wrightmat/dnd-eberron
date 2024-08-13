@@ -46,9 +46,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91d36df5b7cb4663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/Taer Valior.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed07d5bce0b0bc62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-08-16.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md"
               }
             }
           },
@@ -124,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-08-16.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2024-08-16.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,25 +243,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "44bdcd3ae1844915",
+  "active": "ed07d5bce0b0bc62",
   "lastOpenFiles": [
+    "locations/Gatherhold.md",
+    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+    "locations/Taer Valior.md",
+    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
+    "sessions/2024-08-16.md",
+    "sessions/2024-08-08.md",
     "other/Draconic Factions.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "characters/Chip.md",
-    "sessions/2024-08-16.md",
-    "sessions/2024-08-08.md",
     "characters/Serelath.md",
     "characters/Valmoc.md",
     "characters/Valaara.md",
     "characters/Serezka.md",
-    "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "DM Screen.md",
     "characters/Arstyvrax.md",
     "sessions/2024-07-25.md",
     "sessions/2024-08-01.md",
     "canvas_maps/Mournland.canvas",
-    "locations/Taer Valior.md",
     "locations/Valenar.md",
     "other/Lantern of Seeking.md",
     "creatures/Gypsosphinx.md",
@@ -247,8 +273,6 @@
     "_ref/Lingering Injury.md",
     "_ref/Homebrew PC Rules.md",
     "_ref/Homebrew DM Mechanics.md",
-    "_ref/Stress.md",
-    "_ref/Modular Magic Items (Vestiges).md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
