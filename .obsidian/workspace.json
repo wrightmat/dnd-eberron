@@ -70,9 +70,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98d1c037a007c8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/Sphinxes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md"
+                "file": "other/Sphinxes.md"
               }
             }
           },
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+                "file": "other/Sphinxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+                "file": "other/Sphinxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,15 +255,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ed07d5bce0b0bc62",
+  "active": "98d1c037a007c8cf",
   "lastOpenFiles": [
-    "locations/Gatherhold.md",
+    "DM Screen.md",
+    "adventures/C03. Riddles of the Third Age.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+    "other/Draconic Factions.md",
+    "locations/Gatherhold.md",
     "locations/Taer Valior.md",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "sessions/2024-08-16.md",
     "sessions/2024-08-08.md",
-    "other/Draconic Factions.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
     "characters/Chip.md",
     "characters/Serelath.md",
@@ -259,7 +273,6 @@
     "characters/Valaara.md",
     "characters/Serezka.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
-    "DM Screen.md",
     "characters/Arstyvrax.md",
     "sessions/2024-07-25.md",
     "sessions/2024-08-01.md",
@@ -272,7 +285,6 @@
     "other/Celeste Noir.md",
     "_ref/Lingering Injury.md",
     "_ref/Homebrew PC Rules.md",
-    "_ref/Homebrew DM Mechanics.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
