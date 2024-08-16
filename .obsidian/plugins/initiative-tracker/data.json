@@ -184,7 +184,7 @@
     "creatures": [
       {
         "name": "Thana",
-        "initiative": 7,
+        "initiative": 13,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -200,13 +200,13 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Aither",
-        "initiative": 22,
+        "initiative": 15,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -222,13 +222,13 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Verity",
-        "initiative": 17,
+        "initiative": 12,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -249,31 +249,33 @@
         "friendly": false
       },
       {
-        "name": "Vapor Lynx",
-        "initiative": 16,
+        "name": "Sandwyrm",
+        "initiative": 9,
         "static": false,
-        "modifier": 4,
-        "hp": 127,
-        "currentMaxHP": 127,
-        "cr": 5,
-        "ac": 14,
-        "currentAC": 14,
-        "path": "creatures/Vapor Lynx.md",
-        "id": "ID_3b1ae9398afa",
-        "currentHP": 6,
+        "modifier": 1,
+        "hp": 142,
+        "currentMaxHP": 142,
+        "cr": 6,
+        "ac": 15,
+        "currentAC": 15,
+        "path": "creatures/Sandwyrm.md",
+        "id": "ID_6a8899d94bc9",
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "15d10 + 45",
+        "hit_dice": "15d10 + 60",
         "rollHP": false
       }
     ],
     "state": true,
     "name": null,
-    "round": 4,
+    "round": 3,
     "logFile": "",
     "rollHP": false
   },
