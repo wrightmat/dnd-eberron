@@ -70,33 +70,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fe3106e6ef4350f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/Arstyvrax.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a131ed3ca5e2075c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_gen/Travel Calculators.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,6 +131,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 39.0625,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -162,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_gen/Travel Calculators.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md"
               }
             }
           },
@@ -172,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_gen/Travel Calculators.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,10 +214,25 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_gen/Travel Calculators.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4a771d0b16019d86",
+        "type": "tabs",
+        "dimension": 60.9375,
+        "children": [
+          {
+            "id": "e1116036a2a0ecd2",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
             }
           }
         ]
@@ -267,14 +259,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a131ed3ca5e2075c",
+  "active": "ed07d5bce0b0bc62",
   "lastOpenFiles": [
-    "locations/Taer Valior.md",
-    "sessions/2024-08-16.md",
+    "characters/Arstyvrax.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+    "locations/Wyrmwatch, Hope.md",
+    "sessions/2024-08-16.md",
+    "locations/Taer Valior.md",
     "_gen/Travel Calculators.md",
     "DM Screen.md",
-    "characters/Arstyvrax.md",
     "sessions/2024-08-08.md",
     "other/Sphinxes.md",
     "adventures/C03. Riddles of the Third Age.md",
@@ -296,7 +289,6 @@
     "creatures/Gypsosphinx.md",
     "creatures/Vapor Lynx.md",
     "characters/Lord of Blades (Aaren d’Cannith).md",
-    "other/Celeste Noir.md",
     "public/_img/zarantyr.png",
     "public/_img/Xendrik_Stormreach.png",
     "public/_img/Xendrik_Ruined_Sphinx_Temple.png",
