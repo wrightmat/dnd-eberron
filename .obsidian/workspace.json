@@ -70,21 +70,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4f55fc1f887db3f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "creatures/Sandwyrm.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creatures/Sandwyrm.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md"
               }
             }
           },
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creatures/Sandwyrm.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "creatures/Sandwyrm.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,43 +260,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "4566fe7f764466d8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cfa72985aa584f0c",
-        "type": "window",
-        "children": [
-          {
-            "id": "3aae0d2a95c2b435",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2847cdeac52364dc",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 176,
-        "width": 959,
-        "height": 503,
-        "maximize": false,
-        "zoom": 2.5
-      }
-    ]
-  },
-  "active": "4f55fc1f887db3f9",
+  "active": "ed07d5bce0b0bc62",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
     "creatures/Sandwyrm.md",
+    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
     "characters/Arstyvrax.md",
     "locations/Wyrmwatch, Hope.md",
     "sessions/2024-08-16.md",
