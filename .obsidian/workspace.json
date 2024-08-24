@@ -60,19 +60,19 @@
             }
           },
           {
-            "id": "f7a00bec3bdc6a68",
+            "id": "931d37c9b67499e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "creatures/Equinal Guardinal.md",
-                "mode": "source",
+                "file": "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creatures/Equinal Guardinal.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creatures/Equinal Guardinal.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "creatures/Equinal Guardinal.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,23 +243,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f7a00bec3bdc6a68",
+  "active": "86711b1114d94c1a",
   "lastOpenFiles": [
-    "creatures/Crystal Dragon Wyrmling.md",
-    "creatures/Equinal Guardinal.md",
+    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "adventures/C03. Riddles of the Third Age.md",
+    "creatures/Equinal Guardinal.md",
+    "sessions/2024-09-05.md",
+    "creatures/Crystal Dragon Wyrmling.md",
     "_srd/spells/Dancing Lights.md",
     "characters/Dawn Empress.md",
     "characters/Arstyvrax.md",
     "locations/Barrakas (Irian).md",
     "other/Celeste Noir.md",
-    "sessions/2024-09-05.md",
     "characters/Serelath.md",
     "characters/Thana Winslow.md",
     "locations/Adar.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
     "creatures/Nihilethic Dominator.md",
-    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
@@ -270,7 +271,6 @@
     "sessions/2024-08-16.md",
     "creatures/Sandwyrm.md",
     "locations/Wyrmwatch, Hope.md",
-    "_gen/Travel Calculators.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
