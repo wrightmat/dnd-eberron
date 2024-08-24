@@ -66,21 +66,13 @@
               "type": "markdown",
               "state": {
                 "file": "other/Celeste Noir.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "37b153c65e9b32f7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sessions/2024-08-22.md"
+              }
             }
           },
           {
@@ -155,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sessions/2024-08-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sessions/2024-08-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,11 +244,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "37b153c65e9b32f7",
+  "active": "44bdcd3ae1844915",
   "lastOpenFiles": [
     "other/Celeste Noir.md",
     "sessions/2024-08-22.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "characters/Serelath.md",
     "characters/Arstyvrax.md",
     "characters/Thana Winslow.md",
     "locations/Adar.md",
@@ -275,7 +272,6 @@
     "other/Sphinxes.md",
     "adventures/C03. Riddles of the Third Age.md",
     "other/Draconic Factions.md",
-    "locations/Gatherhold.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
