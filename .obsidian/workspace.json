@@ -58,33 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "febeb2ff713c6314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/Barrakas (Irian).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed07d5bce0b0bc62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kaelen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +120,6 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 35.15625,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
+                "file": "sessions/2024-08-22.md"
               }
             }
           },
@@ -161,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "sessions/2024-08-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,33 +202,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "sessions/2024-08-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "4a771d0b16019d86",
-        "type": "tabs",
-        "dimension": 64.84375,
-        "children": [
-          {
-            "id": "e1116036a2a0ecd2",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,19 +228,22 @@
       "obsidian-kanban:Create new board": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "86711b1114d94c1a",
+  "active": "44bdcd3ae1844915",
   "lastOpenFiles": [
-    "locations/Barrakas (Irian).md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "sessions/2024-08-22.md",
+    "locations/Adar.md",
+    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+    "creatures/Nihilethic Dominator.md",
+    "locations/Barrakas (Irian).md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
-    "sessions/2024-08-22.md",
-    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
     "locations/Taer Valior.md",
     "sessions/2024-01-04.md",
     "sessions/2024-08-01.md",
@@ -297,8 +260,6 @@
     "locations/Gatherhold.md",
     "adventures/C03. Riddles of the Third Age/2-06. The Draconic Soulshard.md",
     "adventures/C03. Riddles of the Third Age/2-05. Labyrinth of the Lantern's Light.md",
-    "characters/Chip.md",
-    "characters/Serelath.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
