@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-08-22.md",
+                "file": "sessions/2024-09-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,19 +60,19 @@
             }
           },
           {
-            "id": "5910dabd39e0fb36",
+            "id": "f7a00bec3bdc6a68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other/Celeste Noir.md",
-                "mode": "source",
+                "file": "characters/Dawn Empress.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-08-22.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-08-22.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2024-08-22.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,18 +243,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "44bdcd3ae1844915",
+  "active": "86711b1114d94c1a",
   "lastOpenFiles": [
-    "other/Celeste Noir.md",
-    "sessions/2024-08-22.md",
+    "characters/Dawn Empress.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "locations/Barrakas (Irian).md",
+    "other/Celeste Noir.md",
+    "sessions/2024-09-05.md",
     "characters/Serelath.md",
     "characters/Arstyvrax.md",
     "characters/Thana Winslow.md",
     "locations/Adar.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
     "creatures/Nihilethic Dominator.md",
-    "locations/Barrakas (Irian).md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
@@ -271,7 +271,6 @@
     "DM Screen.md",
     "other/Sphinxes.md",
     "adventures/C03. Riddles of the Third Age.md",
-    "other/Draconic Factions.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
