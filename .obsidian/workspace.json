@@ -70,9 +70,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df2c5c749bcd3074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Arstyvrax.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
+                "file": "characters/Arstyvrax.md"
               }
             }
           },
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "characters/Arstyvrax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "characters/Arstyvrax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,10 +255,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "86711b1114d94c1a",
+  "active": "df2c5c749bcd3074",
   "lastOpenFiles": [
-    "characters/Dawn Empress.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "characters/Dawn Empress.md",
     "locations/Barrakas (Irian).md",
     "other/Celeste Noir.md",
     "sessions/2024-09-05.md",
