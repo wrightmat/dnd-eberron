@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kaelen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,17 +233,22 @@
   },
   "active": "86711b1114d94c1a",
   "lastOpenFiles": [
-    "sessions/2024-09-05.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
-    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
+    "sessions/2024-09-05.md",
+    "locations/Barrakas (Irian).md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+    "locations/Sarlona.md",
+    "creatures/Void Knight.md",
+    "locations/Pyrine.md",
+    "public/Pyrine.md",
+    "public/Borunan.md",
+    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
     "adventures/C03. Riddles of the Third Age.md",
     "creatures/Equinal Guardinal.md",
     "creatures/Crystal Dragon Wyrmling.md",
     "_srd/spells/Dancing Lights.md",
     "characters/Dawn Empress.md",
     "characters/Arstyvrax.md",
-    "locations/Barrakas (Irian).md",
     "other/Celeste Noir.md",
     "characters/Serelath.md",
     "characters/Thana Winslow.md",
@@ -254,11 +259,6 @@
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "locations/Taer Valior.md",
-    "sessions/2024-01-04.md",
-    "sessions/2024-08-01.md",
-    "sessions/2024-08-08.md",
-    "sessions/2024-08-16.md",
-    "creatures/Sandwyrm.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
