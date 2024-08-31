@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "450bd4ce08b3d56f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ref/Magic.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
+                "file": "_ref/Magic.md"
               }
             }
           },
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+                "file": "_ref/Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+                "file": "_ref/Magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,10 +243,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "86711b1114d94c1a",
+  "active": "450bd4ce08b3d56f",
   "lastOpenFiles": [
-    "characters/Serelath.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "_ref/Magic.md",
+    "characters/Serelath.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "sessions/2024-09-05.md",
     "locations/Barrakas (Irian).md",
@@ -258,7 +271,6 @@
     "creatures/Nihilethic Dominator.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
-    "locations/Taer Valior.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
