@@ -56,7 +56,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 	 - [x]  A silver dragonborn named Valmoc is introduced to the PCs as part of their travels. He introduces them to the idea of the Silver Scales, and their role as protectors of all of Khorvaire so we don't see something like Shae Mordai again.
 	 - [x]  Valmoc and/or silver dragons arrive in Arcanix, hoping to create an alliance with the humans there to protect their pursuit of arcane research.
 	 - [x]  The silver dragons begin recruiting promising arcane individuals (wizards, sorcerers, magewrights, etc.) to come to both Arcanix and the Silvered Spire in Sharn. +1 Force
-	 - [ ]  The Silver Scales are seen delving into forgotten tombs, deciphering ancient texts, and confronting magical challenges, looking for arcane secrets.
+	 - [x]  The Silver Scales are seen delving into forgotten tombs, deciphering ancient texts, and confronting magical challenges, looking for arcane secrets.
 	 - [ ]  The Silver Scales actively intervene in conflicts between dragon tribes, employing diplomatic measures and, when necessary, covert operations to prevent escalation. Their goal is to redirect the dragons' focus from chaotic pursuits to the principles of order and protection.
 	 - [ ]  Arcanix, Sharn, and any other locations scoped out by the silver dragonborn are declared as Arcane Sanctuaries under the protection of the Silver Scales, where both dragons and mortals can safely study and harness magical energies without interference by the other dragons.
 	 - [ ]  One of the Arcane Sanctuaries discovers an artifact that they believe may be what Yllosavax has been searching for - an arcane means to draconic immortality.
@@ -67,7 +67,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Cunning**: 2
 - **Force**: 2 (1)
 - **Magic**: 0
-- **Wealth**: 3
+- **Wealth**: 4
 - **Assets**:
 	- 
 - **Morale**: +7
@@ -75,7 +75,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Objectives**:
 	 - [x]  Onme Donverou, a childhood friend of Spindelaryx, is appointed as Keeper of the Flame.
 	 - [x]  Spindelaryx selected to lead Thrane's new contingent to Thronehold. +1 to Force.
-	 - [ ]  Spindelaryx convinces the other three nations stationed at Thonehold to let Thrane remodel Thronehold Castle. +1 to Wealth.
+	 - [x]  Spindelaryx convinces the other three nations stationed at Thonehold to let Thrane remodel Thronehold Castle. +1 to Wealth.
 	 - [ ]  "Throne Wardens" of House Denieth replaced by the Silver Scales, Paladin Protectors of the Realm. +1 to Force for Silver Dragon Faction.
 	 - [ ]  Spindelaryx takes control of the newly remodeled Thronehold Castle (now called the Golden Palace), calling in gold dragon reinforcements to force out the other three nations. The silver dragons may want to pretend to put up a fight, to keep up appearances. Add "Golden Palace" as an Asset.
 	 - [ ]  Gold dragons attack Flamekeep, wiping out the Council of Cardinals. Add "Flamekeep" as an Asset.
