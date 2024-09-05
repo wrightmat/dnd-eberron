@@ -48,31 +48,31 @@
             }
           },
           {
-            "id": "86711b1114d94c1a",
+            "id": "57118a1a11099891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
-                "mode": "source",
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "450bd4ce08b3d56f",
+            "id": "5c83a1c30157cc93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ref/Magic.md",
-                "mode": "source",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ref/Magic.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ref/Magic.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ref/Magic.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,13 +243,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "450bd4ce08b3d56f",
+  "active": "57118a1a11099891",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+    "sessions/2024-09-05.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "_ref/Magic.md",
     "characters/Serelath.md",
-    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
-    "sessions/2024-09-05.md",
     "locations/Barrakas (Irian).md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "locations/Sarlona.md",
@@ -267,7 +268,6 @@
     "other/Celeste Noir.md",
     "characters/Thana Winslow.md",
     "locations/Adar.md",
-    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
     "creatures/Nihilethic Dominator.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",

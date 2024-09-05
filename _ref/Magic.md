@@ -33,21 +33,21 @@ The table below also associates each type of magic to a classical element (inclu
 
 While I don't suggest to add any spells or move any from existing schools, that is something that could be done under this structure.
 
-| Type          | Element | Color   | School of…                   | Plane (Eberron) | Dean (Strixhaven)      |
-| ------------- | ------- | ------- | ---------------------------- | --------------- | ---------------------- |
-| Abjuration    | Earth   | Blue    | Protection and Preservation  | Risia           | Perfection (Prismari)  |
-| Conjuration   | Nature  | Green   | Creation and Creatures       | Lamannia        | Root (Witherbloom)     |
-| Divination    | Air     | Cyan    | Discovery and Detection      | Syrania         |                        |
-| Enchantment   | Light   | White   | Influence and Illumination   | Irian           | Radiance (Silverquill) |
-| Evocation     | Fire    | Red     | Energy and Eruption          | Fernia          | Expression (Prismari)  |
-| Illusion      | Shadow  | Gray    | Subterfuge and Shadow        | Mabar           | Shadow (Silverquill)   |
-| Necromancy    | Death   | Black   | Death and Decay              | Dolurrh         | Vein (Witherbloom)     |
-| Transmutation | Water   | Indigo  | Alteration and Adaptation    | Thelanis        | Substance (Quandrix)   |
-| Artifice      | Life    | Yellow  | Invention and Innovation     | Daanvi          | Order (Lorehold)       |
-| Psionics      | Mind    | Violet  | Mind and Memory              | Dal Quor        |                        |
-| Dunamancy     | Spirit  | Orange  | Potentiality and Possibiilty | Xoriat          | Theory (Quandrix)      |
-| Entropomancy  | Chaos   | Magenta | Chaos and Change             | Kythri          | Chaos (Lorehold)       |
-| Hemomancy     | Blood   | Crimson | Sanguinity and Sacrifice     | Shavarath       |                        |
+| Type          | Element | Color   | School of…                   | Plane (Eberron) | Dean (Strixhaven)      | Ability Damage |
+| ------------- | ------- | ------- | ---------------------------- | --------------- | ---------------------- | -------------- |
+| Abjuration    | Earth   | Blue    | Protection and Preservation  | Risia           | Perfection (Prismari)  |                |
+| Conjuration   | Nature  | Green   | Creation and Creatures       | Lamannia        | Root (Witherbloom)     |                |
+| Divination    | Air     | Cyan    | Discovery and Detection      | Syrania         |                        |                |
+| Enchantment   | Light   | White   | Influence and Illumination   | Irian           | Radiance (Silverquill) |                |
+| Evocation     | Fire    | Red     | Energy and Eruption          | Fernia          | Expression (Prismari)  |                |
+| Illusion      | Shadow  | Gray    | Subterfuge and Shadow        | Mabar           | Shadow (Silverquill)   |                |
+| Necromancy    | Death   | Black   | Death and Decay              | Dolurrh         | Vein (Witherbloom)     | STR            |
+| Transmutation | Water   | Indigo  | Alteration and Adaptation    | Thelanis        | Substance (Quandrix)   |                |
+| Artifice      | Life    | Yellow  | Invention and Innovation     | Daanvi          | Order (Lorehold)       | INT?           |
+| Psionics      | Mind    | Violet  | Mind and Memory              | Dal Quor        |                        | INT/WIS?       |
+| Dunamancy     | Spirit  | Orange  | Potentiality and Possibiilty | Xoriat          | Theory (Quandrix)      | DEX?           |
+| Entropomancy  | Chaos   | Magenta | Chaos and Change             | Kythri          | Chaos (Lorehold)       | CHA/WIS?       |
+| Hemomancy     | Blood   | Crimson | Sanguinity and Sacrifice     | Shavarath       |                        | CON            |
 
 ### Additional Subclasses
 
@@ -236,3 +236,5 @@ You take 1d10 force damage if you end your turn inside an object. If you return 
 * The Buddhist concept of water becoming a wave and then returning to the water, but the water always being the same - as discussed in The Good Place.
 * https://www.reddit.com/r/UnearthedArcana/comments/dbnf5e/13_schools_of_magic_a_worldspecific_list_with_lore/
 * Psionics: https://media.wizards.com/2020/dnd/downloads/UA2020_PsionicOptions.pdf
+* Ability Damage: https://forums.giantitp.com/showthread.php?655915-Ability-Damage-Resource-2-0
+* Ability Damage: https://www.dandwiki.com/wiki/SRD:Ability_Score_Loss
