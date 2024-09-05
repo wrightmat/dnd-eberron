@@ -53,6 +53,26 @@ While I don't suggest to add any spells or move any from existing schools, that 
 
 #### Psionics
 
+**Psionic Power**
+*1st-level Psion feature*
+
+You harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psi die, the starting size of which is a d6.
+If you roll the highest number on your Psi die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it’s a d4 and you roll a 4, it becomes unusable until you finish a long rest.
+Whenever you finish a long rest, your Psi die resets to its starting size. When you reach certain levels in this class, the starting size of your Psi die increases: at 5th level (d8), 11th level (d10), and 17th level (d12).
+**Psi Replenishment**. As a bonus action, you can calm your mind for a moment and restore your Psi die to its starting size. You then can’t use Psi Replenishment again until you finish a long rest.
+
+**Psychic Sorcery**
+*1st-level Psion feature*
+
+You can cast any spell from the Psion spell list, doing so psionically. When you do so, the spell doesn't require verbal, somatic, or material components that lack a gold cost.
+When you cast a spell, you choose how much mental energy you channel into it. To do so, roll your Psi die. The result determines the maximum level at which the spell can be cast, requiring one Focus Point to be spent for each level. For example, a cantrip can always be cast for free, while a 2nd level spell always requires two Focus Points (and a roll of 2 or higher on the Psi die).
+
+**Telepathic Speech**
+*3rd-level Psion feature*
+
+Starting at 3rd level, you can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). A creature can’t use this telepathy if it can’t speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don’t need to speak a common language to understand each other.
+Roll your Psi die. The telepathic connection lasts for a number of minutes equal to the number rolled. It ends early if you are incapacitated or die or if you use this ability to form a connection with a different creature.
+
 ##### Aberrant Mind (Sorcerer)
 
 ##### Psi Warrior (Fighter)
@@ -168,3 +188,4 @@ While I don't suggest to add any spells or move any from existing schools, that 
 
 * The Buddhist concept of water becoming a wave and then returning to the water, but the water always being the same - as discussed in The Good Place.
 * https://www.reddit.com/r/UnearthedArcana/comments/dbnf5e/13_schools_of_magic_a_worldspecific_list_with_lore/
+* Psionics: https://media.wizards.com/2020/dnd/downloads/UA2020_PsionicOptions.pdf
