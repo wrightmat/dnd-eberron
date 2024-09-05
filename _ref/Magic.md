@@ -53,25 +53,72 @@ While I don't suggest to add any spells or move any from existing schools, that 
 
 #### Psionics
 
-**Psionic Power**
-*1st-level Psion feature*
+| Level | PB  | Psi Die | Focus Points | Spells Known | Features                    |
+| ----- | --- | ------- | ------------ | ------------ | --------------------------- |
+| 1st   | +2  | 1d6     | -            | 5            | Spellcasting, Psionic Power |
+| 2nd   | +2  | 1d6     | 2            | 6            | Psychic Focus               |
+| 3rd   | +2  | 1d6     | 3            | 7            | Telepathic Speech           |
+| 4th   | +2  | 1d6     | 4            | 9            | Ability Score Improvement   |
+| 5th   | +3  | 1d8     | 5            | 10           | Empowered Psionics          |
+| 6th   | +3  | 1d8     | 6            | 11           | Psychic Defenses            |
+| 7th   | +3  | 1d8     | 7            | 12           | Thought Form                |
+| 8th   | +3  | 1d8     | 8            | 13           | Ability Score Improvement   |
+| 9th   | +4  | 1d8     | 9            | 14           |                             |
+| 10th  | +4  | 1d8     | 10           | 16           | Empowered Focus             |
+| 11th  | +4  | 1d10    | 11           | 17           |                             |
+| 12th  | +4  | 1d10    | 12           | 17           | Ability Score Improvement   |
+| 13th  | +5  | 1d10    | 13           | 18           |                             |
+| 14th  | +5  | 1d10    | 14           | 18           | Thought Travel              |
+| 15th  | +5  | 1d10    | 15           | 19           |                             |
+| 16th  | +5  | 1d10    | 16           | 19           | Ability Score Improvement   |
+| 17th  | +6  | 1d12    | 17           | 20           |                             |
+| 18th  | +6  | 1d12    | 18           | 20           |                             |
+| 19th  | +6  | 1d12    | 19           | 20           |                             |
+| 20th  | +6  | 1d12    | 20           | 20           |                             |
+Spells: [[mind sliver]], mind spike, psychic lance, dissonant whispers, feeblemind, phantasmal force, phantasmal killer, psychic scream, 
 
+**Spellcasting**
+You can cast any spell from the psion spell list, doing so psionically. When you do so, the spell doesn't require verbal, somatic, or material components that lack a gold cost. Because of this, the spell can't be seen being cast, for the purposes of spells such as *counterspell*.
+
+**Cantrips and Spells**. At 1st level, you know three spells of your choice from the psion spell list. You learn additional psion spells of your choice at higher levels, as shown in the Spells Known column of the Psion table. All psion spells can be cast at-will, just as cantrips, or powered up using Focus Points (starting at Psion 2nd level).
+
+**Spellcasting Ability**. Intelligence is your spellcasting ability for your psion spells, since you channel your spells through mental energy. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a psion spell you cast and when making an attack roll with one.
+- Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
+- Spell attack modifier = your proficiency bonus + your Intelligence modifier
+
+**Psionic Power**
 You harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psi die, the starting size of which is a d6.
 If you roll the highest number on your Psi die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it’s a d4 and you roll a 4, it becomes unusable until you finish a long rest.
 Whenever you finish a long rest, your Psi die resets to its starting size. When you reach certain levels in this class, the starting size of your Psi die increases: at 5th level (d8), 11th level (d10), and 17th level (d12).
 **Psi Replenishment**. As a bonus action, you can calm your mind for a moment and restore your Psi die to its starting size. You then can’t use Psi Replenishment again until you finish a long rest.
 
-**Psychic Sorcery**
-*1st-level Psion feature*
-
-You can cast any spell from the Psion spell list, doing so psionically. When you do so, the spell doesn't require verbal, somatic, or material components that lack a gold cost.
+**Psychic Focus**
 When you cast a spell, you choose how much mental energy you channel into it. To do so, roll your Psi die. The result determines the maximum level at which the spell can be cast, requiring one Focus Point to be spent for each level. For example, a cantrip can always be cast for free, while a 2nd level spell always requires two Focus Points (and a roll of 2 or higher on the Psi die).
 
 **Telepathic Speech**
-*3rd-level Psion feature*
-
 Starting at 3rd level, you can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). A creature can’t use this telepathy if it can’t speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don’t need to speak a common language to understand each other.
 Roll your Psi die. The telepathic connection lasts for a number of minutes equal to the number rolled. It ends early if you are incapacitated or die or if you use this ability to form a connection with a different creature.
+
+**Psychic Defenses**
+At 6th level, you gain resistance to psychic damage, and you have advantage on saving throws against being charmed or frightened.
+
+**Thought Form**
+At 7th level, you can use an action to magically transform your body into pure psionic energy. The transformation lasts for 10 minutes, until you use a bonus action to assume your normal form, or until you are incapacitated or die.
+
+While in thought form, you are a figure of luminous psychic energy. Your form can appear as anything you wish, but it is obviously magical, is the same size as you, and sheds dim light in a 5-foot radius. Any other equipment you are wearing or carrying transforms with you and melds into your thought form. You gain immunity to psychic damage and resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+
+You can transform using this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+
+**Empowered Psionics**
+At 5th level, when you deal psychic or force damage with a psion spell, you can add your Intelligence modifier to the damage against one of the spell's targets.
+
+**Empowered Focus**
+Starting at 10th level, you can maintain concentration on more than one spell from the psion spell list, by spending one Focus Point for each additional spell being concentrated on. When losing concentration while concentrating on more than one spell, you pick which spell to lose. You can optionally can use any mental ability score (in place of Constitution) for concentration checks.
+
+**Thought Travel**
+Starting at 14th level, while using your Thought Form, you have a flying speed equal to your walking speed and can hover, and you can move through other creatures and objects as if they were difficult terrain.
+
+You take 1d10 force damage if you end your turn inside an object. If you return to your normal form while inside an object, you are shunted to the nearest unoccupied space, and you take 1d10 force damage for every 5 feet traveled.
 
 ##### Aberrant Mind (Sorcerer)
 
