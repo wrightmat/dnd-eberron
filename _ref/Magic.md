@@ -75,7 +75,7 @@ While I don't suggest to add any spells or move any from existing schools, that 
 | 18th  | +6  | 1d12    | 18           | 20           |                             |
 | 19th  | +6  | 1d12    | 19           | 20           |                             |
 | 20th  | +6  | 1d12    | 20           | 20           |                             |
-Spells: [[mind sliver]], mind spike, psychic lance, dissonant whispers, feeblemind, phantasmal force, phantasmal killer, psychic scream, 
+Spells: [[mind sliver]], mind spike, psychic lance, dissonant whispers, feeblemind, phantasmal force, phantasmal killer, psychic scream, shadow blade, staggering smite, synaptic static, Tasha's mind whip, weird, wrathful smite, mind blank, suggestion, command, friends, message, charm person, cause fear, fear, enemies abound, dream, mental prison, mirror image, major image, calm emotions, guidance, bless, bane, hideous laughter, confusion, crown of madness, befuddlement, geas, power word kill, power word pain, power word fortify, power word stun, Yolande's regal presence, antipathy/sympathy, blur, dominate beast, dominate monster, dominate person, dream, enthrall, mass suggestion, modify memory, sleep
 
 **Spellcasting**
 You can cast any spell from the psion spell list, doing so psionically. When you do so, the spell doesn't require verbal, somatic, or material components that lack a gold cost. Because of this, the spell can't be seen being cast, for the purposes of spells such as *counterspell*.
