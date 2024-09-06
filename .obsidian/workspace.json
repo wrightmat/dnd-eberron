@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-08-16.md",
+                "file": "sessions/2024-09-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,6 +60,18 @@
             }
           },
           {
+            "id": "9b65ff38bee6406b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ref/Magic.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5c83a1c30157cc93",
             "type": "leaf",
             "state": {
@@ -67,18 +79,6 @@
               "state": {
                 "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13de3bdaee9dcdc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "creatures/Nihilethic Dominator.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
+                "file": "_ref/Magic.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "_ref/Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,54 +260,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "aa478cf710f5655b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1da236110cc1a922",
-        "type": "window",
-        "children": [
-          {
-            "id": "977a483d6f40eb2d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7903e289febb2acf",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 712,
-        "y": 545,
-        "width": 811,
-        "height": 414,
-        "maximize": false,
-        "zoom": 2
-      }
-    ]
-  },
-  "active": "5c83a1c30157cc93",
+  "active": "9b65ff38bee6406b",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
-    "sessions/2024-08-16.md",
-    "creatures/Nihilethic Dominator.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
-    "creatures/Adult Topaz Dragon.md",
-    "other/Draconic Factions.md",
-    "_ref/Factions.md",
     "sessions/2024-09-05.md",
+    "sessions/2024-08-16.md",
+    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+    "_ref/Magic.md",
+    "other/Draconic Factions.md",
+    "creatures/Nihilethic Dominator.md",
+    "creatures/Adult Topaz Dragon.md",
+    "_ref/Factions.md",
     "locations/Khorvaire.md",
     "locations/Eberron.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
-    "_ref/Magic.md",
     "characters/Serelath.md",
     "locations/Barrakas (Irian).md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
