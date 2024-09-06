@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 35.24305555555556,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
       {
         "id": "d2b307c6f018e53e",
         "type": "tabs",
-        "dimension": 66.66666666666666,
+        "dimension": 64.75694444444444,
         "children": [
           {
             "id": "61dcbed8801f070e",
@@ -260,10 +260,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "57118a1a11099891",
+  "floating": {
+    "id": "aa478cf710f5655b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1da236110cc1a922",
+        "type": "window",
+        "children": [
+          {
+            "id": "977a483d6f40eb2d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7903e289febb2acf",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 712,
+        "y": 545,
+        "width": 811,
+        "height": 414,
+        "maximize": false,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "5c83a1c30157cc93",
   "lastOpenFiles": [
-    "sessions/2024-08-16.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+    "sessions/2024-08-16.md",
     "creatures/Nihilethic Dominator.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "creatures/Adult Topaz Dragon.md",

@@ -184,7 +184,7 @@
     "creatures": [
       {
         "name": "Thana",
-        "initiative": 8,
+        "initiative": 16,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -206,7 +206,7 @@
       },
       {
         "name": "Aither",
-        "initiative": 14,
+        "initiative": 15,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -228,7 +228,7 @@
       },
       {
         "name": "Verity",
-        "initiative": 14,
+        "initiative": 18,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -249,17 +249,17 @@
         "friendly": false
       },
       {
-        "name": "Nihilethic Dominator",
-        "initiative": 11,
+        "name": "Gypsosphinx",
+        "initiative": 20,
         "static": false,
-        "modifier": -1,
-        "hp": 82,
-        "currentMaxHP": 82,
-        "cr": 5,
-        "ac": 13,
-        "currentAC": 13,
-        "path": "creatures/Nihilethic Dominator.md",
-        "id": "ID_49cb69baf9f9",
+        "modifier": 2,
+        "hp": 171,
+        "currentMaxHP": 171,
+        "cr": 14,
+        "ac": 17,
+        "currentAC": 17,
+        "path": "creatures/Gypsosphinx.md",
+        "id": "ID_aa8a69a99b98",
         "currentHP": 0,
         "tempHP": 0,
         "status": [
@@ -269,13 +269,13 @@
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "11d8 + 33",
+        "hit_dice": "18d10 + 72",
         "rollHP": false
       }
     ],
     "state": true,
     "name": null,
-    "round": 11,
+    "round": 3,
     "logFile": "",
     "rollHP": false
   },
