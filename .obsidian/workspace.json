@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,6 +167,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 41.75347222222222,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-08-16.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md"
               }
             }
           },
@@ -184,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-08-16.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,10 +246,25 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "d2b307c6f018e53e",
+        "type": "tabs",
+        "dimension": 58.24652777777778,
+        "children": [
+          {
+            "id": "61dcbed8801f070e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 511.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,15 +284,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "44bdcd3ae1844915",
+  "active": "de76a06521b063a6",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "_ref/Factions.md",
+    "sessions/2024-08-16.md",
     "sessions/2024-09-05.md",
     "other/Draconic Factions.md",
-    "_ref/Factions.md",
     "locations/Khorvaire.md",
     "locations/Eberron.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
-    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "creatures/Adult Topaz Dragon.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
@@ -295,7 +312,6 @@
     "creatures/Crystal Dragon Wyrmling.md",
     "_srd/spells/Dancing Lights.md",
     "characters/Dawn Empress.md",
-    "characters/Arstyvrax.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
