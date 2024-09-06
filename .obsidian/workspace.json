@@ -48,30 +48,6 @@
             }
           },
           {
-            "id": "57118a1a11099891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b65ff38bee6406b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ref/Magic.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5c83a1c30157cc93",
             "type": "leaf",
             "state": {
@@ -83,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ref/Magic.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -161,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ref/Magic.md",
+                "file": "DM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,13 +235,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9b65ff38bee6406b",
+  "active": "814c005cc526692a",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "adventures/C03. Riddles of the Third Age.md",
     "sessions/2024-09-05.md",
-    "sessions/2024-08-16.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "_ref/Magic.md",
+    "sessions/2024-08-16.md",
     "other/Draconic Factions.md",
     "creatures/Nihilethic Dominator.md",
     "creatures/Adult Topaz Dragon.md",
@@ -284,7 +260,6 @@
     "public/Pyrine.md",
     "public/Borunan.md",
     "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
-    "adventures/C03. Riddles of the Third Age.md",
     "creatures/Equinal Guardinal.md",
     "creatures/Crystal Dragon Wyrmling.md",
     "_srd/spells/Dancing Lights.md",
