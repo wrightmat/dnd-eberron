@@ -8,6 +8,8 @@
 * Psionic magic is manipulation of mana focused in a creature's brain, creating effects focused on the mind.
 * Primal magic is manipulation of the life force of various creatures and life forms, all life being different arrangements of mana.
 * Wild magic comes from the forces of chaos that underlie the order of creation - essentially accelerating naturally-occurring entropy.
+* The types are arranged in concentric circles, with the well-known schools of magic on the outer ring, and the letter known schools on the inner ring. The inside of the circles is chaos magic, while the outside of the circles represents order and the material plane. Essentially magic is just tapping into the underlying chaos from before creation.
+	* Similar to this: https://www.shroudoftheavatar.com/forum/index.php?threads/the-four-forgotten-schools-of-magic-mind-force-space-time.14270/
 
 ### Details
 
@@ -15,7 +17,7 @@ The source of magic, in Eberron and in other realities of the broader Astral Sea
 
 Just as channeling electrons in a controlled manner creates usable electricity, channeling mana in a controlled manner creates magical spells. Spellcasters, regardless of the type, are able to manipulate mana in order to create different effects by interacting them with other particles of the universe. One spellcaster may interact mana with electrons in order to create lightning spells, while another uses mana to excite particles in order to create fire.
 
-While most magic-sensitive creatures have their mana distributed throughout the body, requiring other verbal and somatic components for magical manipulation, others have it concentrated in their mind, allowing for psionic abilities. All of these types of magic arise from the same manipulation of mana.
+While most magic-sensitive creatures have their mana distributed throughout the body, requiring verbal and somatic components for magical manipulation, others have it concentrated in their mind, allowing for psionic abilities. All of these types of magic arise from the same manipulation of mana.
 
 In some realities, gods have arisen - beings who are able to arrange these particles at will and with little to no effort. This means essentially anyone can become a god if they have either enough natural ability or practiced talent to manipulate sufficient mana. The followers of these gods use a form of magic known as divine magic, which channels this already arranged mana to more easily do work (magical spells).
 
@@ -33,21 +35,25 @@ The table below also associates each type of magic to a classical element (inclu
 
 While I don't suggest to add any spells or move any from existing schools, that is something that could be done under this structure.
 
-| Type          | Element | Color   | School of…                   | Plane (Eberron) | Dean (Strixhaven)      | Ability Damage |
-| ------------- | ------- | ------- | ---------------------------- | --------------- | ---------------------- | -------------- |
-| Abjuration    | Earth   | Blue    | Protection and Preservation  | Risia           | Perfection (Prismari)  |                |
-| Conjuration   | Nature  | Green   | Creation and Creatures       | Lamannia        | Root (Witherbloom)     |                |
-| Divination    | Air     | Cyan    | Discovery and Detection      | Syrania         |                        |                |
-| Enchantment   | Light   | White   | Influence and Illumination   | Irian           | Radiance (Silverquill) |                |
-| Evocation     | Fire    | Red     | Energy and Eruption          | Fernia          | Expression (Prismari)  |                |
-| Illusion      | Shadow  | Gray    | Subterfuge and Shadow        | Mabar           | Shadow (Silverquill)   |                |
-| Necromancy    | Death   | Black   | Death and Decay              | Dolurrh         | Vein (Witherbloom)     | STR            |
-| Transmutation | Water   | Indigo  | Alteration and Adaptation    | Thelanis        | Substance (Quandrix)   |                |
-| Artifice      | Life    | Yellow  | Invention and Innovation     | Daanvi          | Order (Lorehold)       | INT?           |
-| Psionics      | Mind    | Violet  | Mind and Memory              | Dal Quor        |                        | INT/WIS?       |
-| Dunamancy     | Spirit  | Orange  | Potentiality and Possibiilty | Xoriat          | Theory (Quandrix)      | DEX?           |
-| Entropomancy  | Chaos   | Magenta | Chaos and Change             | Kythri          | Chaos (Lorehold)       | CHA/WIS?       |
-| Hemomancy     | Blood   | Crimson | Sanguinity and Sacrifice     | Shavarath       |                        | CON            |
+**Outer circle** (schools): Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, Transmutation
+**Inner circle**: Artifice, Psionics, Dunamancy, Hemomancy
+**Center**: Entropomancy
+
+| Type          | Element | Color     | School of…                   | Plane (Eberron) | Dean (Strixhaven)      | Ability Damage |
+| ------------- | ------- | --------- | ---------------------------- | --------------- | ---------------------- | -------------- |
+| Abjuration    | Earth   | Blue      | Protection and Preservation  | Risia           | Perfection (Prismari)  |                |
+| Conjuration   | Nature  | Yellow    | Creation and Creatures       | Lamannia        | Root (Witherbloom)     |                |
+| Divination    | Air     | Cyan      | Discovery and Detection      | Syrania         |                        |                |
+| Enchantment   | Light   | Purple    | Influence and Illumination   | Irian           | Radiance (Silverquill) |                |
+| Evocation     | Fire    | Red       | Energy and Eruption          | Fernia          | Expression (Prismari)  |                |
+| Illusion      | Shadow  | Violet    | Subterfuge and Shadow        | Mabar           | Shadow (Silverquill)   |                |
+| Necromancy    | Death   | Green     | Death and Decay              | Dolurrh         | Vein (Witherbloom)     | STR            |
+| Transmutation | Water   | Orange    | Alteration and Adaptation    | Thelanis        | Substance (Quandrix)   |                |
+| Artifice      | Life    | Vermilion | Invention and Innovation     | Daanvi          | Order (Lorehold)       | INT?           |
+| Psionics      | Mind    | Indigo    | Mind and Memory              | Dal Quor        |                        | INT/WIS?       |
+| Dunamancy     | Spirit  | Grey      | Potentiality and Possibiilty | Xoriat          | Theory (Quandrix)      | DEX?           |
+| Hemomancy     | Body    | Magenta   | Sanguinity and Sacrifice     | Shavarath       |                        | CON            |
+| Entropomancy  | Chaos   | Black     | Chaos and Change             | Kythri          | Chaos (Lorehold)       | CHA/WIS?       |
 
 ### Additional Subclasses
 

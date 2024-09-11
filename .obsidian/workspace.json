@@ -53,14 +53,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a56ed7dd287acdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ref/Magic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md"
+                "file": "_ref/Magic.md"
               }
             }
           },
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+                "file": "_ref/Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+                "file": "_ref/Magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,9 +260,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5c83a1c30157cc93",
+  "active": "2a56ed7dd287acdd",
   "lastOpenFiles": [
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "characters/Chip.md",
     "sessions/2024-09-05.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
@@ -275,7 +288,6 @@
     "locations/Pyrine.md",
     "public/Pyrine.md",
     "public/Borunan.md",
-    "adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
