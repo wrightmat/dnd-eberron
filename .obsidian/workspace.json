@@ -24,18 +24,6 @@
             }
           },
           {
-            "id": "7c5dffb626fa0277",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "44bdcd3ae1844915",
             "type": "leaf",
             "state": {
@@ -58,21 +46,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "60955a9885122a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
               }
             }
           },
@@ -149,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,19 +236,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "60955a9885122a97",
+  "active": "5c83a1c30157cc93",
   "lastOpenFiles": [
-    "_ref/Magic.md",
+    "sessions/2024-09-05.md",
+    "DM Screen.md",
+    "sessions/2024-09-12.md",
+    "adventures/C03. Riddles of the Third Age.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
+    "_ref/Magic.md",
     "adventures/C04. The Nature of Magic.md",
     "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "characters/Chip.md",
-    "sessions/2024-09-05.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "characters/Dawn Empress.md",
-    "DM Screen.md",
-    "adventures/C03. Riddles of the Third Age.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
     "sessions/2024-08-16.md",
     "other/Draconic Factions.md",
@@ -281,13 +259,11 @@
     "_ref/Factions.md",
     "locations/Khorvaire.md",
     "locations/Eberron.md",
-    "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "characters/Serelath.md",
     "locations/Barrakas (Irian).md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "locations/Sarlona.md",
     "creatures/Void Knight.md",
-    "locations/Pyrine.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
