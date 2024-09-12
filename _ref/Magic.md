@@ -39,21 +39,21 @@ While I don't suggest to add any spells or move any from existing schools, that 
 **Inner circle**: Artifice, Psionics, Dunamancy, Hemomancy
 **Center**: Entropomancy
 
-| Type          | Element | Color     | School of…                   | Plane (Eberron) | Dean (Strixhaven)      | Ability Damage |
-| ------------- | ------- | --------- | ---------------------------- | --------------- | ---------------------- | -------------- |
-| Abjuration    | Earth   | Blue      | Protection and Preservation  | Risia           | Perfection (Prismari)  |                |
-| Conjuration   | Nature  | Yellow    | Creation and Creatures       | Lamannia        | Root (Witherbloom)     |                |
-| Divination    | Air     | Cyan      | Discovery and Detection      | Syrania         |                        |                |
-| Enchantment   | Light   | Purple    | Influence and Illumination   | Irian           | Radiance (Silverquill) |                |
-| Evocation     | Fire    | Red       | Energy and Eruption          | Fernia          | Expression (Prismari)  |                |
-| Illusion      | Shadow  | Violet    | Subterfuge and Shadow        | Mabar           | Shadow (Silverquill)   |                |
-| Necromancy    | Death   | Green     | Death and Decay              | Dolurrh         | Vein (Witherbloom)     | STR            |
-| Transmutation | Water   | Orange    | Alteration and Adaptation    | Thelanis        | Substance (Quandrix)   |                |
-| Artifice      | Life    | Vermilion | Invention and Innovation     | Daanvi          | Order (Lorehold)       | INT?           |
-| Psionics      | Mind    | Indigo    | Mind and Memory              | Dal Quor        |                        | INT/WIS?       |
-| Dunamancy     | Spirit  | Grey      | Potentiality and Possibiilty | Xoriat          | Theory (Quandrix)      | DEX?           |
-| Hemomancy     | Body    | Magenta   | Sanguinity and Sacrifice     | Shavarath       |                        | CON            |
-| Entropomancy  | Chaos   | Black     | Chaos and Change             | Kythri          | Chaos (Lorehold)       | CHA/WIS?       |
+| Type          | Element | Color   | School of…                   | Plane (Eberron) | Dean (Strixhaven)      | Ability Damage |
+| ------------- | ------- | ------- | ---------------------------- | --------------- | ---------------------- | -------------- |
+| Abjuration    | Earth   | Blue    | Protection and Preservation  | Risia           | Perfection (Prismari)  |                |
+| Conjuration   | Nature  | Yellow  | Creation and Creatures       | Lamannia        | Root (Witherbloom)     |                |
+| Divination    | Air     | Cyan    | Discovery and Detection      | Syrania         |                        |                |
+| Enchantment   | Light   | Purple  | Influence and Illumination   | Irian           | Radiance (Silverquill) |                |
+| Evocation     | Fire    | Red     | Energy and Eruption          | Fernia          | Expression (Prismari)  |                |
+| Illusion      | Shadow  | Magenta | Subterfuge and Shadow        | Mabar           | Shadow (Silverquill)   |                |
+| Necromancy    | Death   | Green   | Death and Decay              | Dolurrh         | Vein (Witherbloom)     | STR            |
+| Transmutation | Water   | Orange  | Alteration and Adaptation    | Thelanis        | Substance (Quandrix)   |                |
+| Artifice      | Life    | Olive   | Invention and Innovation     | Daanvi          | Order (Lorehold)       | INT?           |
+| Psionics      | Mind    | Indigo  | Mind and Memory              | Dal Quor        |                        | INT/WIS?       |
+| Dunamancy     | Spirit  | Teal    | Potentiality and Possibiilty | Xoriat          | Theory (Quandrix)      | DEX?           |
+| Hemomancy     | Body    | Maroon  | Sanguinity and Sacrifice     | Shavarath       |                        | CON            |
+| Entropomancy  | Chaos   | Black   | Chaos and Change             | Kythri          | Chaos (Lorehold)       | CHA/WIS?       |
 
 ### Additional Subclasses
 
