@@ -46,30 +46,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "62790b23f15de6d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "other/Celeste Noir.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d34ded711f3c5626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/Barrakas (Irian).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -131,7 +107,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 38.19444444444444,
+        "dimension": 40.625,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -226,7 +202,7 @@
       {
         "id": "d2b307c6f018e53e",
         "type": "tabs",
-        "dimension": 61.80555555555556,
+        "dimension": 59.375,
         "children": [
           {
             "id": "61dcbed8801f070e",
@@ -265,15 +241,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "fc2140eea90ff207",
+        "id": "0250814dfb640f9a",
         "type": "window",
         "children": [
           {
-            "id": "87201259e57d62ae",
+            "id": "e2b01c6b1e9505cc",
             "type": "tabs",
             "children": [
               {
-                "id": "87f96e681cd04114",
+                "id": "fe2504b7d9013b28",
                 "type": "leaf",
                 "state": {
                   "type": "initiative-tracker-player-view",
@@ -286,31 +262,32 @@
         "direction": "vertical",
         "x": 448,
         "y": 176,
-        "width": 908,
-        "height": 533,
+        "width": 981,
+        "height": 451,
         "maximize": false,
-        "zoom": 2
+        "zoom": 1
       }
     ]
   },
   "active": "5c83a1c30157cc93",
   "lastOpenFiles": [
-    "locations/Barrakas (Irian).md",
+    "_srd/Situational Rules.md",
+    "DM Screen.md",
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "characters/Dawn Empress.md",
     "other/Celeste Noir.md",
+    "locations/Barrakas (Irian).md",
+    "_ref/Magic.md",
     "sessions/2024-09-12.md",
     "sessions/2024-09-05.md",
-    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "other/Dragon Mask.md",
-    "DM Screen.md",
     "adventures/C03. Riddles of the Third Age.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
-    "_ref/Magic.md",
     "adventures/C04. The Nature of Magic.md",
     "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "characters/Chip.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
-    "characters/Dawn Empress.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
     "sessions/2024-08-16.md",
     "other/Draconic Factions.md",
@@ -320,7 +297,6 @@
     "locations/Khorvaire.md",
     "locations/Eberron.md",
     "characters/Serelath.md",
-    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
