@@ -41,7 +41,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d6127f5896d71c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +119,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 34.28819444444444,
+        "dimension": 36.11111111111111,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
               }
             }
           },
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,22 +202,21 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "d2b307c6f018e53e",
+        "id": "a73a683efd7fec2e",
         "type": "tabs",
-        "dimension": 65.71180555555556,
+        "dimension": 63.888888888888886,
         "children": [
           {
-            "id": "61dcbed8801f070e",
+            "id": "628a304677c335af",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -216,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 511.5
+    "width": 435.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,9 +249,11 @@
   },
   "active": "5c83a1c30157cc93",
   "lastOpenFiles": [
-    "locations/Barrakas (Irian).md",
-    "sessions/2024-09-12.md",
+    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "sessions/2024-09-12.md",
+    "locations/Barrakas (Irian).md",
     "_srd/Situational Rules.md",
     "DM Screen.md",
     "characters/Dawn Empress.md",
@@ -252,9 +265,7 @@
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "adventures/C04. The Nature of Magic.md",
     "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
-    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "characters/Chip.md",
-    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
     "sessions/2024-08-16.md",
     "other/Draconic Factions.md",
