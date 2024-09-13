@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -107,7 +107,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 35.24305555555556,
+        "dimension": 38.19444444444444,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -202,7 +202,7 @@
       {
         "id": "d2b307c6f018e53e",
         "type": "tabs",
-        "dimension": 64.75694444444444,
+        "dimension": 61.80555555555556,
         "children": [
           {
             "id": "61dcbed8801f070e",
@@ -238,11 +238,11 @@
   },
   "active": "5c83a1c30157cc93",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "sessions/2024-09-05.md",
     "DM Screen.md",
     "sessions/2024-09-12.md",
     "adventures/C03. Riddles of the Third Age.md",
-    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "_ref/Magic.md",
     "adventures/C04. The Nature of Magic.md",
