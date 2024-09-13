@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,18 +195,6 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "8be8ff9e464ffd0d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ]
       },
@@ -227,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,12 +235,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5c83a1c30157cc93",
+  "active": "6d6127f5896d71c2",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
-    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
-    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "sessions/2024-09-12.md",
+    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "locations/Barrakas (Irian).md",
     "_srd/Situational Rules.md",
     "DM Screen.md",
