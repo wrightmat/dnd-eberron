@@ -107,7 +107,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 40.625,
+        "dimension": 34.28819444444444,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -202,7 +202,7 @@
       {
         "id": "d2b307c6f018e53e",
         "type": "tabs",
-        "dimension": 59.375,
+        "dimension": 65.71180555555556,
         "children": [
           {
             "id": "61dcbed8801f070e",
@@ -236,49 +236,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "1345a1dcbd9a8895",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0250814dfb640f9a",
-        "type": "window",
-        "children": [
-          {
-            "id": "e2b01c6b1e9505cc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fe2504b7d9013b28",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 176,
-        "width": 981,
-        "height": 451,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
   "active": "5c83a1c30157cc93",
   "lastOpenFiles": [
+    "locations/Barrakas (Irian).md",
+    "sessions/2024-09-12.md",
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "_srd/Situational Rules.md",
     "DM Screen.md",
-    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "characters/Dawn Empress.md",
     "other/Celeste Noir.md",
-    "locations/Barrakas (Irian).md",
     "_ref/Magic.md",
-    "sessions/2024-09-12.md",
     "sessions/2024-09-05.md",
     "other/Dragon Mask.md",
     "adventures/C03. Riddles of the Third Age.md",
