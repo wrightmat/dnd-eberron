@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Arstyvrax.md",
-                "mode": "preview",
+                "file": "adventures/C04. The Nature of Magic/2-11. Psionics.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/Arstyvrax.md"
+                "file": "adventures/C04. The Nature of Magic/2-11. Psionics.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/Arstyvrax.md",
+                "file": "adventures/C04. The Nature of Magic/2-11. Psionics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,6 +249,9 @@
   },
   "active": "9fabbb22fcb73fee",
   "lastOpenFiles": [
+    "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
+    "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
+    "characters/Arstyvrax.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "sessions/2024-09-12.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
@@ -272,9 +275,6 @@
     "creatures/Nihilethic Dominator.md",
     "creatures/Adult Topaz Dragon.md",
     "_ref/Factions.md",
-    "locations/Khorvaire.md",
-    "locations/Eberron.md",
-    "characters/Serelath.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
