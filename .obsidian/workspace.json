@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-11. Psionics.md",
+                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-11. Psionics.md"
+                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-11. Psionics.md",
+                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,6 +249,14 @@
   },
   "active": "9fabbb22fcb73fee",
   "lastOpenFiles": [
+    "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
+    "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
+    "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
+    "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
+    "adventures/C04. The Nature of Magic/1-02. Strixhaven Year 1, Term 2.md",
+    "adventures/C04. The Nature of Magic/2-09. Conjuration.md",
+    "adventures/C04. The Nature of Magic/2-10. Artifice.md",
+    "adventures/C04. The Nature of Magic/2-11. Psionics.md",
     "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
     "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
     "characters/Arstyvrax.md",
@@ -267,14 +275,6 @@
     "adventures/C03. Riddles of the Third Age.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "adventures/C04. The Nature of Magic.md",
-    "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
-    "characters/Chip.md",
-    "adventures/C03. Riddles of the Third Age/2-07. Stygianos the Carrion Sphinx.md",
-    "sessions/2024-08-16.md",
-    "other/Draconic Factions.md",
-    "creatures/Nihilethic Dominator.md",
-    "creatures/Adult Topaz Dragon.md",
-    "_ref/Factions.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
