@@ -60,13 +60,13 @@
             }
           },
           {
-            "id": "9fabbb22fcb73fee",
+            "id": "ae038f61120be231",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
-                "mode": "source",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,8 +247,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9fabbb22fcb73fee",
+  "active": "ae038f61120be231",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+    "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
     "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
     "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
     "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
@@ -260,9 +263,7 @@
     "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
     "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
     "characters/Arstyvrax.md",
-    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "sessions/2024-09-12.md",
-    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "locations/Barrakas (Irian).md",
     "_srd/Situational Rules.md",
@@ -274,7 +275,6 @@
     "other/Dragon Mask.md",
     "adventures/C03. Riddles of the Third Age.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
-    "adventures/C04. The Nature of Magic.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
