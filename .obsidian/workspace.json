@@ -60,17 +60,14 @@
             }
           },
           {
-            "id": "f0a28b88187ebc00",
+            "id": "93429953a45c02f5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas_maps/Thronehold.canvas",
-                "viewState": {
-                  "x": -30.52770183433867,
-                  "y": 468.8199742964142,
-                  "zoom": -0.116706395149231
-                }
+                "file": "other/Draconic Factions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -253,9 +250,10 @@
   },
   "active": "ae038f61120be231",
   "lastOpenFiles": [
-    "canvas_maps/Thronehold.canvas",
-    "locations/Throneport.md",
     "other/Draconic Factions.md",
+    "locations/Throneport.md",
+    "characters/Spindelaryx.md",
+    "canvas_maps/Thronehold.canvas",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",

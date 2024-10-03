@@ -65,7 +65,7 @@ By 975 YK, the port had developed into a small city, eventually taking its most 
 	* **The Silver Shield Armory**. A quiet armory where religious soldiers of Thrane’s Silver Flame forces come to replenish their supplies. The armorer, Gera Thornwhistle (she/her), may have overheard discussions between knights and dragon agents about secret excavations under the castle.
 * **Thronehold**.
 	* This should be run as a raid. The players need to gain access to the castle, learn its layout, navigate while avoiding patrols, and discover the dragons' plans. Then at the end, they'll need to either excavate the artifact before the dragons, or take it from them.
-	* Use a clock to track progress. For every minute of real time, roll a d6 - on a 5 or 6 the dragons make progress on their dig (fill in one segment on a six segment clock). Once that clock is full, the artifact is unearthed and the dragons start to leave the castle. Start a second six-segment clock using the same timer and rolls.
+	* Use a clock to track progress. For every minute of real time (outside of combat), roll a d6 - on a 5 or 6 the dragons make progress on their dig (fill in one segment on a six segment clock). Once that clock is full, the artifact is unearthed and the dragons start to leave the castle. Start a second six-segment clock using the same timer and rolls.
 	* **1. Main Gate**. The primary entrance to the castle, heavily guarded by Throne Wardens. The players may need forged documents, a distraction, or extreme persuasion to pass through without incident.
 	* **2. Great Hall**. A grand chamber where official meetings and ceremonies are held, adorned with faded banners and cracked marble floors. Several Throne Wardens are stationed here to protect the castle’s most public space - requiring a DC 15 Stealth or Persuasion check to bypass or convince.
 	* **3. Kitchen**. The castle’s large kitchen is filled with clattering pots, a few staff, and the scent of stew. Servants here could alert guards if the players anger them, but otherwise they'll likely be ignored.
@@ -89,20 +89,21 @@ By 975 YK, the port had developed into a small city, eventually taking its most 
 	* **20. Ice House**. 
 	* **21. Pantry**. 
 	* **22. Catacombs**. The ground is littered with broken stone, ancient runes, and the faint smell of death. This is the only access deeper into the earth to the Excavation Site below.
-	* **23. Excavation Site**. Deep beneath the castle lies the burial chamber of Hezcalipa’s Heart, a grand but crumbling room with celestial carvings on the walls. The air hums with radiant energy, and the Heart is buried beneath layers of ancient stone.
+	* **23. Excavation Site**. Deep beneath the castle lies the burial chamber of Hezcalipa’s Heart, a grand but crumbling room with celestial carvings on the walls. The air hums with radiant energy, and the Heart is buried beneath layers of ancient stone. Spindelaryx herself is here leading the excavation efforts.
 
+[[Thronehold.canvas|Thronehold]]
 
-| Inital Area | Current Area | Adversaries                           | Notes                              |
-| ----------- | ------------ | ------------------------------------- | ---------------------------------- |
-| 1           | 1            | `encounter: 6: Knight`                | Mostly Stationary                  |
-| 2           | 2            | `encounter: 4: Knight`                | Mostly Stationary                  |
-| 3           | 3            | `encounter: 4: Commoner`              | Mostly Stationary (Servants)       |
-| 4           | 4            | `encounter: 1: Knight`                | Patrol: 4-6-9-6-7-5-3-4            |
-| 9           | 9            | `encounter: 1: Knight, 1: Dragonborn` | Mostly Stationary                  |
-| 13          | 13           | `encounter: 1: Knight`                | Patrol: 13-12-15-11-15-12-10-12-13 |
-| 14          | 14           | `encounter: 2: Knight, 2: Dragonborn` | Mostly Stationary                  |
-| 16          | 16           |                                       |                                    |
-
+| Inital Area | Current Area | Adversaries                                                                             | Notes                              |
+| ----------- | ------------ | --------------------------------------------------------------------------------------- | ---------------------------------- |
+| 1           | 1            | `encounter: 6: Knight` (Throne Wardens)                                                 | Mostly Stationary                  |
+| 2           | 2            | `encounter: 4: Knight` (Throne Wardens)                                                 | Mostly Stationary                  |
+| 3           | 3            | `encounter: 4: Commoner` (Servants)                                                     | Mostly Stationary                  |
+| 4           | 4            | `encounter: 1: Knight` (Throne Warden)                                                  | Patrol: 4-6-9-6-7-5-3-4            |
+| 9           | 9            | `encounter: 1: Knight, 1: Half-Red Dragon Veteran` (Throne Wardens and Gold Dragonborn) | Mostly Stationary                  |
+| 13          | 13           | `encounter: 1: Knight` (Throne Warden)                                                  | Patrol: 13-12-15-11-15-12-10-12-13 |
+| 14          | 14           | `encounter: 2: Knight, 2: Half-Red Dragon Veteran` (Throne Wardens and Gold Dragonborn) | Mostly Stationary                  |
+| 16          | 16           | `encounter: 2: Gold Dragon Wyrmling`                                                    | Patrol: 16-17-18-19-21-16          |
+| 23          | 23           | `encounter: 1: Adult Gold Dragon` (Spindelaryx)                                         | Stationary                         |
 
 ### Secrets and Clues
 Check off as information is received. Some items may have more details throughout the page.
