@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-09-12.md",
+                "file": "sessions/2024-10-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,31 +48,19 @@
             }
           },
           {
-            "id": "6d6127f5896d71c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ae038f61120be231",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
-                "mode": "preview",
+                "file": "locations/Thronehold.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +119,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 36.11111111111111,
+        "dimension": 27.083333333333332,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
+                "file": "locations/Thronehold.md"
               }
             }
           },
@@ -149,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "locations/Thronehold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +201,7 @@
       {
         "id": "a73a683efd7fec2e",
         "type": "tabs",
-        "dimension": 63.888888888888886,
+        "dimension": 72.91666666666666,
         "children": [
           {
             "id": "628a304677c335af",
@@ -227,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 462.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,8 +237,12 @@
   },
   "active": "ae038f61120be231",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "locations/Thronehold.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+    "sessions/2024-10-03.md",
+    "sessions/2024-09-12.md",
     "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
     "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
     "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
@@ -263,8 +255,6 @@
     "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
     "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
     "characters/Arstyvrax.md",
-    "sessions/2024-09-12.md",
-    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "locations/Barrakas (Irian).md",
     "_srd/Situational Rules.md",
     "DM Screen.md",
@@ -273,8 +263,6 @@
     "_ref/Magic.md",
     "sessions/2024-09-05.md",
     "other/Dragon Mask.md",
-    "adventures/C03. Riddles of the Third Age.md",
-    "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
