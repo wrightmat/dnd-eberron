@@ -1,0 +1,90 @@
+---
+type: Town
+region: "[[Thrane]]"
+government: 
+ruler: 
+image: 
+location:
+---
+
+ #location
+
+> [!infobox]
+> # `=this.file.name`
+> `=this.image`
+> ###### Geography
+> |  |  |
+> | ---- | ---- |
+> | **Type** | `=this.type` |
+> | **Region** | `=this.region` |
+> ###### Politics
+> |  |  |
+> | ---- | ---- |
+> | **Government** | `=this.government` |
+> | **Ruler** | `=this.ruler` |
+> ###### Travel
+> |  |  |
+> | ---- | ---- |
+> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
+> ###### Comments
+> `=this.comments`
+
+Thronehold was built by Galifar I as his seat of power within the kingdom, located on an island in the center of the Scions Sound. The island, with the eponymous castle, was established by Galifar I to avoid having the capital within one of his existing realms. It is a place of international intrigue, divided into four districts that are each controlled by one of the surviving Five Nations.
+
+A small port town was built on the shoreline in the shadow of the castle, able to provide staff and services that the seat of power would require. During the course of the Last War, after the rejection of the line of succession, the island and castle were protected by a detachment of House Deneith known as the "Throne Wardens", who continue to protect the battlements to this day.
+
+By 975 YK, the port had developed into a small city, eventually taking its most recent role in history as the locale where the Treaty of Thronehold was signed, cementing the city's present appearance. Intended to be neutral ground, many spies and double agents are still hosted within. The castle of Thronehold itself is closed to the public for the time being.
+
+### Characters
+
+* **Grand Regent Modred Deneith** (male human aristocrat). Leader of the Throne Wardens and governor of Throneport. His primary title, Grand Regent, is only cerimonial after the fall of the Kingdom of Galifar. His current role is to maintain the peace between emissaries of the Five Nations within Thronehold. The Grand Regent wants nothing more than to see a united Galifar once again, and will go to extreme measures (including working with dragons) to pursue that goal.
+* **Adan Velros** (male human). Stern mage who oversees the Aundarian embassy.
+* **Lady Kera Thalin** (female half-elf). Owner of the Raven's Rest Tavern.
+* **Sir Harald Stoneclaw** (male human). A prominent member of the Throne Wardens.
+* **Lieutenant Ilora Hask** (female human). An observant Karrnathi soldier.
+* **Jalesta Morgrave** (female half-elf). A black market information broker who does business in the Lower Market District.
+* **Siril Valdros** (male human, secretly a gold dragon in disguise). Actually a gold dragon who's pretending to be a Silver Flame priest who is trying to restore a ruined temple. In actuality, he's watching over a hidden chamber of information the gold dragons have gathered.
+* **Gera Thornwhistle** (female dwarf). Armorer who resides in the Thranish Quarter.
+
+### Locations
+
+* **Aundairian Quarter**.
+	* **The Aurum Sanctum**. A lavish estate run by the Aurum, a cabal of wealthy aristocrats. This location is a hotbed for spies and mercenaries who work for the highest bidder, often facilitating the gold dragons' interests under the radar.
+	* **The Starlight Spire**. An Aundairian embassy and small outpost of Arcanix. Some Aundairian wizards residing here are not fully aware of the gold dragons' plans but may suspect something unusual. A stern mage named Adan Velros (he/him)) oversees the embassy and has a cautious relationship with Throneport’s authorities.
+	* **Raven’s Rest Tavern**. A high-end establishment that caters to diplomats, nobles, and spies. The tavern owner, Lady Kera Thalin (she/her), knows many secrets, including rumors about strange activities involving the Silver Flame temple.
+* **Karrnathi Quarter.**
+	* **The Warden’s Hall**. Seat of Throneport’s authority, housing both the Throne Wardens and Governor Modred Deneith (he/him). This location is under constant surveillance, and rumors abound of unauthorized activities near the castle. A prominent warden, Sir Harald Stoneclaw (he/him), has seen strange deliveries moving in and out of Thronehold Castle.
+	* **Blackbone Barracks**. A militarized district where many of Karrnath’s remaining elite forces are stationed. Some soldiers, like Lieutenant Ilora Hask (she/her), have noticed odd happenings near the borders of the old castle but are hesitant to speak out against the current regime.
+	* **The Dead Man’s Refuge**. A shadowy tavern where mercenaries for hire gather. Many of the mercenaries come from the remnants of Karrnathi’s undead armies, and they may have picked up on movements around the city from the gold dragons.
+* **Breland Quarter**.
+	* **The Rusted Chain** (Lower Market District). The black market hub of Throneport, known for selling all manner of contraband and stolen goods. Jalesta Morgrave (she/her), an information broker, may offer key insights into the gold dragons' search for the couatl artifact in exchange for favors.
+	* **The Shattered Hall.** A dilapidated ruin from the Last War, filled with vagrants and desperate thieves. This area is largely ignored by the authorities but can serve as a base for underground movements. It hides tunnels leading under the city, which could be useful for the players.
+	* **The Burned Quill**. A half-ruined library, once a center of learning, where clues about ancient couatl artifacts are hidden. If the players can gain access to the restricted archives, they may find references to relics once housed in Thronehold Castle.
+* **Thranish Quarter**.
+	* **The Fallen Flame** (Old Temple District). The ruined temple to the Silver Flame, now under the control of Siril Valdros (he/him). Beneath the temple is a hidden chamber where gold dragons are gathering clues to the artifact.
+	* **The Silver Shield Armory**. A quiet armory where religious soldiers of Thrane’s Silver Flame forces come to replenish their supplies. The armorer, Gera Thornwhistle (she/her), may have overheard discussions between knights and dragon agents about secret excavations under the castle.
+* **Thronehold**. 
+	* **Hall of Judgement**. The Tribunal of Thronehold is a war crimes tribunal created by the Treaty of Thronehold that ended the Last War. Believed to have been an idea of King Boranel of Breland during the treaty negotiations, it holds court in the Hall of Judgement in a wing of Thronehold Castle in Thronehold. The Tribunal represents a multilateral effort by the nations of Khorvaire to bring to justice war criminals and prosecute the worst offense of the Last War, but this power is largely symbolic. In practice, the tribunal often finds itself dependent on nations cooperating with it and with limited personnel and funding to carry its out its task.
+
+### Secrets and Clues
+Check off as information is received. Some items may have more details throughout the page.
+
+ - [ ]  The gold dragons, and others in Throneport who they have influenced, claim that the Treaty of Thronehold should not apply to Thrane, since it does not swear fealty to the Galifar line. For this reason, the gold dragons have the right to claim Thronehold as their own, even though the treaty declares it as neutral.
+ - [ ]  The gold dragons' goal is to take over both the Church of the Silver Flame and Thronehold, in order to get an ancient couatl artifact (hidden under Thronehold and protected by the Church, known as "Hezcalipa's Heart") that will help release Khyber.
+ - [ ]  Representatives (and spies) of the Five Nations gather in the town of Throneport, where it's impossible to tell friend from foe and alliances shift daily.
+ - [ ]  Although Cyre no longer has a formal presence on the island, many former Cyrans find work here as spies and agents for other nations.
+ - [ ]  The Throne Wardens, sometimes known as the Kingsguard, were once an elite order of Galifar's greatest knights who answered only to the king himself. They are led by the Grand Regent, who traditionally acted as regent while the king was unable to rule. The Throne Wardens currently protect Thronehold Castle and ensure the terms of the Treaty of Thronehold are honored, as well as preside over the Tribunal of Thronehold.
+
+### History
+
+
+
+### DM Notes
+
+- Politically, Thronehold is stated to be similar to Berlin or Vienna after World War 2.
+
+### References
+
+- Five Nations
+- https://terra-mortem.fandom.com/wiki/The_Tribunal_of_Thronehold
+- https://eberron.fandom.com/wiki/House_Deneith

@@ -71,7 +71,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Assets**:
 	- 
 - **Morale**: +7
-- **Goal**: Take over both the Church of the Silver Flame and Thronehold, in order to get an ancient couatl artifact (hidden in Thronehold and protected by the Church, known as "Hezcalipa's Heart") that will help release Khyber.
+- **Goal**: Take over both the Church of the Silver Flame and Thronehold, in order to get an ancient couatl artifact (hidden under Thronehold and protected by the Church, known as "Hezcalipa's Heart") that will help release Khyber.
 - **Objectives**:
 	 - [x]  Onme Donverou, a childhood friend of Spindelaryx, is appointed as Keeper of the Flame.
 	 - [x]  Spindelaryx selected to lead Thrane's new contingent to Thronehold. +1 to Force.
