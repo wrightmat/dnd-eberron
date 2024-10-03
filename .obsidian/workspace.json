@@ -58,18 +58,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "93429953a45c02f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "other/Draconic Factions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -132,7 +120,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 27.083333333333332,
+        "dimension": 27.083333333333336,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -208,13 +196,25 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "5f0a1eb2e3271d5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "locations/Throneport.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
       {
         "id": "a73a683efd7fec2e",
         "type": "tabs",
-        "dimension": 72.91666666666666,
+        "dimension": 72.91666666666667,
         "children": [
           {
             "id": "628a304677c335af",
@@ -250,8 +250,9 @@
   },
   "active": "ae038f61120be231",
   "lastOpenFiles": [
-    "other/Draconic Factions.md",
+    "creatures/Void Knight.md",
     "locations/Throneport.md",
+    "other/Draconic Factions.md",
     "characters/Spindelaryx.md",
     "canvas_maps/Thronehold.canvas",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
@@ -276,7 +277,6 @@
     "DM Screen.md",
     "characters/Dawn Empress.md",
     "other/Celeste Noir.md",
-    "_ref/Magic.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",

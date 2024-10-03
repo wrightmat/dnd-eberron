@@ -49,3 +49,5 @@ actions:
 ```
 
 ### References
+
+- Tome of Beasts 3, pg. 386
