@@ -63,11 +63,14 @@
             "id": "f0a28b88187ebc00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "other/Draconic Factions.md",
-                "mode": "preview",
-                "source": false
+                "file": "canvas_maps/Thronehold.canvas",
+                "viewState": {
+                  "x": -46.79155275150785,
+                  "y": 52.46539081688388,
+                  "zoom": -0.116706395149231
+                }
               }
             }
           }
@@ -249,8 +252,9 @@
   },
   "active": "ae038f61120be231",
   "lastOpenFiles": [
-    "other/Draconic Factions.md",
+    "canvas_maps/Thronehold.canvas",
     "locations/Throneport.md",
+    "other/Draconic Factions.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
@@ -274,7 +278,6 @@
     "characters/Dawn Empress.md",
     "other/Celeste Noir.md",
     "_ref/Magic.md",
-    "sessions/2024-09-05.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",

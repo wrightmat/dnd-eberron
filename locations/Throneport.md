@@ -64,7 +64,30 @@ By 975 YK, the port had developed into a small city, eventually taking its most 
 	* **The Fallen Flame** (Old Temple District). The ruined temple to the Silver Flame, now under the control of Siril Valdros (he/him). Beneath the temple is a hidden chamber where gold dragons are gathering clues to the artifact.
 	* **The Silver Shield Armory**. A quiet armory where religious soldiers of Thrane’s Silver Flame forces come to replenish their supplies. The armorer, Gera Thornwhistle (she/her), may have overheard discussions between knights and dragon agents about secret excavations under the castle.
 * **Thronehold**. 
-	* **Hall of Judgement**. The Tribunal of Thronehold is a war crimes tribunal created by the Treaty of Thronehold that ended the Last War. Believed to have been an idea of King Boranel of Breland during the treaty negotiations, it holds court in the Hall of Judgement in a wing of Thronehold Castle in Thronehold. The Tribunal represents a multilateral effort by the nations of Khorvaire to bring to justice war criminals and prosecute the worst offense of the Last War, but this power is largely symbolic. In practice, the tribunal often finds itself dependent on nations cooperating with it and with limited personnel and funding to carry its out its task.
+	* **1. Main Gate**. The primary entrance to the castle, heavily guarded by Throne Wardens. The players may need forged documents, a distraction, or extreme persuasion to pass through without incident.
+	* **2. Great Hall**. A grand chamber where official meetings and ceremonies are held, adorned with faded banners and cracked marble floors. Several guards (`dice:1d4`) are stationed here to protect the castle’s most public space - requiring a DC 15 Stealth or Persuasion check to bypass or convince.
+	* **3. Kitchen**. The castle’s large kitchen is filled with clattering pots, a few staff, and the scent of stew. Servants here could alert guards if the players anger them, but otherwise they'll likely be ignored.
+	* **4. Dining**. 
+	* **5. Servant's Room**. A smaller, less-guarded entrance on the eastern side of the castle is used by servants and supply runners, discovered with a DC 12 Investigation check. This entrance leads into a servant's work room that connects to the Kitchen and Study.
+	* **6. Library**. The castle’s library is filled with dusty tomes and ancient maps, many detailing the history of Thronehold and its connection to planar forces. A secret panel here leads to the hidden archives in the Undercroft below. Investigation check (DC 16) is needed to find the secret panel. Intelligence checks can be made to find any information related to the Silver Flame or couatl, magical artifacts, Galifar/Khorvaire history
+	* **7. Study**. 
+	* **8. Toilet**. 
+	* **9. Hall of Judgement**. The Tribunal of Thronehold is a war crimes tribunal created by the Treaty of Thronehold that ended the Last War. Believed to have been an idea of King Boranel of Breland during the treaty negotiations, it holds court in the Hall of Judgement in a wing of Thronehold Castle in Thronehold. The Tribunal represents a multilateral effort by the nations of Khorvaire to bring to justice war criminals and prosecute the worst offense of the Last War, but this power is largely symbolic. In practice, the tribunal often finds itself dependent on nations cooperating with it and with limited personnel and funding to carry its out its task.
+	* **10. Master Bedroom**. A cracked stained-glass window near the northwest tower provides a direct way to access the upper floors of the castle. Reaching this point requires scaling the walls (DC 15 Athletics/Acrobatics) or flying. Inside is a beautifully apportioned yet caked in dust bedroom that was clearly once designed for a king.
+	* **11. Bathrooms**. 
+	* **12. Upper Floor Hallway**. 
+	* **13. Silver Flame Shrine**. 
+	* **14. War Room**. 
+	* **15. Guest Bedrooms**. 
+	* **16. Basement Hallway**. A hidden tunnel (revealed with a DC 17 Investigation check) in the back of the castle leads into the castle’s basement level. The other end of the entrance is concealed behind a false wall in halllway. The tunnel is rigged with a simple trap — disabling it requires a successful Thieves' Tools check (DC 15) to avoid a collapsing ceiling trap (or take `dice:3d6` bludgeoning damage).
+	* **17. Dungeon**. 
+	* **18. Undercroft**. 
+	* **19. Armory**. Rows of steel weapons and suits of armor are displayed neatly, with several racks ready for the Throne Wardens to grab at a moment’s notice. An enchanted suit of armor stands guard near the rear wall. The animated armor will attack intruders unless its activation rune is disabled (Arcana DC 16).
+		* `encounter: 1: Animated Armor`
+	* **20. Ice House**. 
+	* **21. Pantry**. 
+	* **22. Catacombs**. 
+	* **23. Excavation Site**. 
 
 ### Secrets and Clues
 Check off as information is received. Some items may have more details throughout the page.
