@@ -67,8 +67,8 @@
               "state": {
                 "file": "canvas_maps/Thronehold.canvas",
                 "viewState": {
-                  "x": -46.79155275150785,
-                  "y": 52.46539081688388,
+                  "x": -30.52770183433867,
+                  "y": 468.8199742964142,
                   "zoom": -0.116706395149231
                 }
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "topaz",
+                "query": "dragonborn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
