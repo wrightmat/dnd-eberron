@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "e05116d4c4bab8a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5c83a1c30157cc93",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,6 +131,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 33.68055555555556,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-09-12.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2024-09-12.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,24 +207,28 @@
                 "useHierarchy": true
               }
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "597ae1b6bd18eefe",
+        "type": "tabs",
+        "dimension": 66.31944444444444,
+        "children": [
           {
-            "id": "5f0a1eb2e3271d5e",
+            "id": "66973bd1513e2ef2",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "sessions/2024-09-12.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "initiative-tracker-creature-view",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 472.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,17 +248,50 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "44bdcd3ae1844915",
+  "floating": {
+    "id": "81c217c08c76343b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4c01a976623bfb1d",
+        "type": "window",
+        "children": [
+          {
+            "id": "d4786b4485fcf320",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a83ced3c2787b4f8",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 176,
+        "width": 902,
+        "height": 473,
+        "maximize": false,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "de76a06521b063a6",
   "lastOpenFiles": [
-    "sessions/2024-10-03.md",
-    "sessions/2024-09-12.md",
     "locations/Throneport.md",
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "sessions/2024-09-12.md",
+    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "sessions/2024-10-03.md",
     "creatures/Void Knight.md",
     "other/Draconic Factions.md",
     "characters/Spindelaryx.md",
     "canvas_maps/Thronehold.canvas",
-    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
-    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
     "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
