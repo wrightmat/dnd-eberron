@@ -244,7 +244,7 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -260,11 +260,13 @@
         "currentAC": 18,
         "path": "creatures/Void Knight.md",
         "id": "ID_1a4b39fa3b5a",
-        "currentHP": 27,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "18d8 + 72",
@@ -273,7 +275,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 3,
+    "round": 4,
     "logFile": "",
     "rollHP": false
   },
