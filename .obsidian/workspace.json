@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-09-12.md",
+                "file": "sessions/2024-10-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
+                "file": "locations/Adar.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+                "file": "locations/Adar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,10 +248,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5c83a1c30157cc93",
+  "active": "6b5287b8d8244a71",
   "lastOpenFiles": [
-    "locations/Adar.md",
+    "sessions/2024-10-03.md",
+    "sessions/2024-09-12.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "locations/Adar.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "locations/Lhazaar Principalities.md",
     "locations/Throneport.md",
@@ -259,8 +261,6 @@
     "other/Trinkets of the Planes.md",
     "_srd/Planes.md",
     "locations/Barrakas (Irian).md",
-    "sessions/2024-09-12.md",
-    "sessions/2024-10-03.md",
     "creatures/Void Knight.md",
     "other/Draconic Factions.md",
     "characters/Spindelaryx.md",
