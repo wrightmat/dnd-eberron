@@ -141,11 +141,12 @@ The Opening Ceremony of the Unity Games always takes place on the first day befo
 - Participants must carry a "lightning orb" that intermittently discharges small bolts of electricity. This 4x400 meter (1300 feet) event is run in teams of four, with each member running an equal leg.
 - Participants run their normal speed (no dashing), multiplied by ten to determine how far they travel in one minute. They then make a Constitution saving throw (DC 10) every minute to maintain their grip on the charged orb. On a failed save, they drop the orb and must spend extra time (6 seconds) to pick it up again.
 - Participants must pass the orb to a team member in a relay format, requiring a successful Sleight of Hand check (DC 10 plus however many times they've been shocked) to ensure a smooth handoff. On a failed save, they drop the orb and the new runner must spend extra time (6 seconds) to pick it up again.
+- Two teams compete, with the winners getting 2 points, and the runners-up getting 1 point.
 
 ##### 3. The Wind Sprint
 - Competitors race across a series of platforms suspended high in the air, utilizing their agility and balance to navigate swiftly and safely to the finish line.
 - Participants make a series of Dexterity (Acrobatics) checks to navigate from one platform to another. The DC for these checks starts at 10 and increases by 2 for each platform, maxing out at 20 (so six platforms).
-- A failed check results in the participant slipping, which requires a DC 10 Dexterity saving throw to catch themselves on the edge of the platform. Failing this saving throw means they fall and gain no points.
+- A failed check results in the participant slipping, which requires a DC 10 Dexterity saving throw to catch themselves on the edge of the platform. Failing this saving throw means they fall 60 feet (taking `dice:6d6` bludgeoning damage) and gain no points.
 - The number of points is based on the number of successful checks (2+ is 1 point, and 4+ is 2 points).
 
 ##### 4. The Elemental Relay
@@ -166,43 +167,49 @@ The Opening Ceremony of the Unity Games always takes place on the first day befo
 	- A series of two Dexterity (Acrobatics) checks (DC 16) is required to hop between stones without slipping into the water. Failure results in the player losing their footing, taking 6 seconds to recover.
 	- Participants may use water manipulation spells or abilities to calm the stream temporarily, making checks easier (DC reduction by 3 for one turn).
 - For each leg, participants must pass the orb to a team member in a relay format, requiring a successful Sleight of Hand check (DC 10) to ensure a smooth handoff. On a failed save, they drop the orb and the new runner must spend extra time (6 seconds) to pick it up again.
+- Two teams compete, with the winners getting 2 points, and the runners-up getting 1 point.
 
 ##### 5. The Staff Duel
 - Participants face off in a martial arts contest using staffs, emphasizing defensive maneuvers and the ability to disarm or outmaneuver their opponent without causing injury.
-- This is basically a combat encounter, but each side can only use a staff. Use the Githzerai Monk as the base for the monk competitor - 38 (7d8 + 7) HP, AC 14, two attacks with Multiattack.
+- This is basically a combat encounter, but each side can only use a bo staff. Use the Githzerai Monk as the base for the monk competitor - 38 (7d8 + 7) HP, AC 14, two attacks with Multiattack.
 - Staff Damage: 1d6 (1d8) Bludgeoning (Versatile).
+- The first to best their challenger, by reducing them to 0 hit points, wins a point. Either party then has the option to ask for one additional match.
 
 ##### 6. The Psychic Archery
 - Archers must hit targets that are only visible through psychic perception, challenging their mental focus and archery skills simultaneously.
 - Participants must succeed on a Wisdom (Perception) check (DC 15) to visualize each target. If they fail, the target remains invisible to them, increasing the difficulty of hitting it.
-- Once a target is perceived, contestants must make an attack roll to hit the target with a bow and arrow. Normal archery mechanics apply, but hitting an invisible target (if the perception check was failed) imposes disadvantage on the attack roll. For visible targets (successful perception check), contestants make a regular ranged attack roll against a target AC of 12.
+- Once a target is perceived, contestants must make an attack roll to hit the target with a bow and arrow. Normal archery mechanics apply, but hitting an invisible target (if the Perception check was failed) imposes disadvantage on the attack roll. For visible targets (successful Perception check), contestants make a regular ranged attack roll against a target AC of 12.
 - Participants can use abilities or magical enhancements to improve their accuracy or gain bonuses on their attack rolls or Perception check to see the target.
+- Each participant has four arrows in their quiver, and gets one point for each successful target hit.
 
 ##### 7. The Chanting Choir
 - Teams compete in a chanting competition where they must harmonize not only their voices but their psychic energies, creating a mesmerizing auditory and mental experience.
 - Participants make a Charisma (Performance) check (DC 12) to effectively sing and harmonize with their group. Teams with members who have musical backgrounds (+2) or proficiencies receive that benefit on this check.
 - Teams must also synchronize their psychic energies to enhance the emotional impact of their chant. Following the vocal performance, the team makes a group Wisdom (Insight) check with a DC of 15 to align their psychic energies, adding depth and power to their performance. Teams that include characters with psychic abilities or spells that aid in emotional or mental connection can lower this DC by 2.
+- The team with the higher combined Performance and Insight checks wins a point. If that team is more than 5 better than the other team, they gain 2 points instead.
 
 ##### 8. The Ascetic's Climb
 - Competitors climb a steep path while carrying weights that symbolize spiritual burdens, shedding them as they answer riddles based on Adaran philosophy to lighten their load and reach the summit.
 - Participants begin the climb carrying a weighted pack that symbolizes their spiritual burdens. The heavy pack adds a penalty of -5 (disadvantage) to all their physical checks (Athletics, Acrobatics).
 - The path features physical obstacles such as steep inclines, slippery rocks, and narrow ledges. Participants must make a series of Strength (Athletics) checks to overcome physical obstacles. Each obstacle has a set DC (ranging from 12 to 18), depending on its difficulty. Successful navigation of an obstacle allows participants to shed a portion of their burden, reducing the penalty by 1 for each success.
-- Interspersed along the climb are riddle stations where participants must solve philosophical riddles to lighten their spiritual load. At each riddle station, participants make an Intelligence (Investigation) or Wisdom (Insight) check (DC 15) to solve the riddle, reducing their penalty by 1 for each success.
-- The last segment of the climb is the steepest and requires participants to draw upon their remaining strength and insight. This segment requires a final Strength (Athletics) check (DC 17). Participants who have successfully lightened their load significantly (reduced their penalty to -1 or less) receive advantage on this check.
+- Interspersed along the climb are riddle stations where participants must solve philosophical quandaries to lighten their spiritual load. At each question station, participants make an Intelligence (Investigation) or Wisdom (Insight) check (DC 15) to solve the quandaries, reducing their penalty by 1 for each success.
+- The last segment of the climb is the steepest and requires participants to draw upon their remaining strength and insight. This segment requires a final Strength (Athletics) check (DC 16). Participants who have successfully lightened their load significantly (reduced their penalty to -1 or less) receive advantage on this check.
 - Upon reaching the summit, participants undergo a moment of spiritual revelation, reflecting on their journey. A final Wisdom (Insight) check (DC 14) at the summit determines the depth of their spiritual insight gained from the climb. Success results in a temporary boon, such as advantage on Wisdom checks or saving throws for the next 24 hours, symbolizing their enlightened state.
+- The climb is performed by three individuals at the same time. Whoever reaches the summit first gains 2 points, the runner-up gains 1 point, and the loser gains no points.
 
 ##### 9. The Aerial Race
 - Participants use wind gliders to navigate a course set high in the sky, requiring skillful control of air currents and precise maneuvering.
 - Contestants make a single Dexterity (Acrobatics) check (DC 15) to steer their glider through the course. Participants can attempt to use the wind to their advantage. A successful Wisdom (Nature) check (DC 12) allows them to catch a favorable gust, granting a +2 bonus to their Acrobatics check.
-- Optionally, participants can glide through aerial rings placed at strategic points along the course to gain extra points. For each ring successfully navigated, up to three, participants perform a Dexterity (Acrobatics) check (DC 13). Success results in bonus points added to their final score. Missing a ring adds a time penalty, reducing overall score.
-- The final test is to execute a perfect landing at the end of the course, which is marked by a narrow landing strip. A final Dexterity (Acrobatics) check (DC 14) is required for a smooth landing. A successful landing boosts the final score, while a poor landing can result in a penalty.
+- Optionally, participants can glide through aerial rings placed at strategic points along the course to gain extra points. For each ring successfully navigated, up to three, participants perform a Dexterity (Acrobatics) check (DC 13). Success results in bonus points added to their final score. Missing a ring adds a time penalty (6 seconds), decreasing their chances of winning the race.
+- The final test is to execute a perfect landing at the end of the course, which is marked by a narrow landing strip. A final Dexterity (Acrobatics) check (DC 14) is required for a smooth landing. The first to finish the race gets a point, and an additional point can be awarded by the judges if the final check is successful by 5 or more.
 
 ##### 10. The Healing Hands
-- A timed event where healers must correctly diagnose and treat ailments using a combination of herbal medicine, psychic healing, and traditional remedies.
+- A high-stakes event where healers must correctly diagnose and treat ailments using a combination of herbal medicine, psychic healing, and traditional remedies.
 - First, diagnose a set of symptoms presented on a volunteer or a magical simulation. Participants make a Wisdom (Medicine) check to identify the ailment. Each ailment has a set difficulty class, generally ranging from DC 12 for common conditions to DC 18 for rare or complex diseases. Successful diagnosis within the first attempt grants maximum points, while additional attempts reduce the score.
 - Once the diagnosis is confirmed, participants must choose an appropriate treatment from a range of options. For correct treatment application, a second Wisdom (Medicine) check is required, with the DC dependent on the complexity of the treatment (similar to the diagnostic DC). Participants may use spells, herbal remedies, or surgical techniques, each with specific benefits and risks. For example, using a healing spell like *[[cure wounds]]* could provide a bonus to the treatment check.
-- Participants face a sudden, critical situation where they must stabilize a condition that rapidly deteriorates. This requires a quick Constitution saving throw (DC 15) to maintain composure, followed by an urgent Wisdom (Medicine) check (DC 17) to stabilize the condition.
+- Participants face a sudden, critical situation where they must stabilize a condition that rapidly deteriorates. This requires a quick Constitution saving throw (DC 15) to maintain composure, followed by an urgent Wisdom (Medicine) check (DC 16) to stabilize the condition.
 - Last, evaluate and address the patient's overall well-being, not just the immediate symptoms, to promote complete recovery. Participants make a Charisma (Persuasion) check to effectively communicate with the patient, ensuring their comfort and cooperation, which is crucial for holistic care (DC 14).
+- For every successful check (diagnosis, treatment, stabilization, bedside manner), the competitor gains one point.
 
 | dice: 1d10 | Ailment/Disease      | Symptoms                                                       | Diagnosis DC | Treatment                                                                                      | Treatment DC |
 | ---------- | -------------------- | -------------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------- | ------------ |
@@ -216,31 +223,43 @@ The Opening Ceremony of the Unity Games always takes place on the first day befo
 | 8          | Soldier's Shake      | Trembling hands, flashbacks, sudden bouts of fear              | 12           | Therapeutic counseling sessions combined with calming elixirs                                  | 12           |
 | 9          | Dream Lily Addiction | Hallucinations, severe withdrawal symptoms, disorientation     | 15           | Gradual weaning off the drug combined with magic-assisted detoxification                       | 16           |
 | 10         | Demon Fever          | Nightmares, bouts of rage, an unnatural chill in the body      | 18           | Exorcism or a cleansing ritual followed by administration of holy water and blessed herbs      | 20           |
-
-##### 11. The Pilgrim's Journey
-- A long-distance race where participants must make strategic choices about paths and manage limited resources to reach distant checkpoints, reflecting the spiritual journey of a pilgrim.
-
-##### 12. The Meditative Balance
-- Contestants must maintain balance in a challenging yoga pose on a raised beam, while also completing complex meditation sequences to demonstrate focus and physical control.
-
-##### 13. The Luminous Journey
+##### Final. The Luminous Journey
 - "The Luminous Journey" is designed to simulate the spiritual path of a soul as taught by the Path of Light, focusing on the themes of life's experiences, trials, and ultimate return to the universal life force. This event combines physical challenges, puzzle-solving, and role-playing elements to test participants' resilience, wisdom, and alignment with spiritual harmony.
 - **Station of Awakening** (Birth and Innocence)
 	- Participants find themselves in a maze filled with mirrors and soft fog, symbolizing the confusion and innocence of early life.
-	- Participants make Wisdom (Perception) checks (DC 12) to find their way out. Failure by 5 or more means they become "lost" and need assistance from event guides (representing parental guidance) to exit.
+	- Participants make Wisdom (Perception) checks (DC 12) to find their way out. Failure by 5 or more means they become "lost" and need assistance from event guides (representing parental guidance) to exit, losing a minute of time in the process.
 - **Trials of Strength** (Youth and Challenges)
 	- A series of physical obstacles including climbing walls (to represent overcoming personal barriers) and balancing beams (to symbolize life balance).
-	- Participants must succeed on a series of Athletics checks (climbing DC 15, balancing DC 13). Each failure results in a "setback story" they must role-play, reflecting on a personal challenge or failure.
+	- Participants must succeed on two Athletics checks (climbing DC 15, balancing DC 13). Each failure results in a "setback story" they must role-play, reflecting on a personal challenge or failure.
 - **Pool of Visions** (Midlife and Reflection)
 	- Participants meditate beside a tranquil pool, receiving visions of potential futures.
-	- Participants engage in a Meditation Challenge where they must succeed on a DC 15 Wisdom (Insight) check to gain a clear vision; a successful check grants them a "Visionary Bonus" (advantage on the next skill check). Failure results in confusing, mixed messages.
+	- Participants engage in a Meditation Challenge where they must succeed on a DC 15 Wisdom (Insight) check to gain a clear vision; a successful check grants them a "Visionary Bonus" (advantage on the next skill check). Failure results in confusing, mixed messages (see Confusing Visions table below).
 - **Path of the Elders** (Wisdom and Age)
 	- Navigate a path where they encounter NPCs who present ethical dilemmas or philosophical questions.
-	- Participants must make Charisma (Persuasion) or Intelligence (Religion) checks (DC 14) to appropriately address the dilemmas. Success grants points toward their final score.
+	- Participants must make Charisma (Persuasion) or Intelligence (Religion) checks (DC 14) to appropriately address the dilemmas. Success grants one point toward their final score. Each participant must answer at least one question, but may be asked and answer as many as they choose, with each taking one minute and requiring a new check.
+		- Does the end always justify the means, even at the cost of innocence?
+		- Is it better to seek truth, even if it brings pain, or to live in ignorance for peace?
+		- Can true order be maintained without suppressing some form of chaos?
+		- Is mercy a weakness or a strength in the face of opposition?
+		- Should personal freedom ever be sacrificed for the greater good?
+		- Is it more virtuous to act with compassion or to uphold justice?
+		- Can loyalty to family or nation justify morally questionable actions?
+		- Should one prioritize the wellbeing of the present or invest in an uncertain future?
+		- Can a person’s inherent nature ever truly change, or is destiny fixed?
+		- Is it ethical to preserve life at all costs, even if it leads to suffering?
 - **The Final Release** (Death and Reunion)
 	- Participants perform a symbolic ritual where they release a crafted biodegradable item into a flowing river, representing their soul’s return to the universal life force.
-	- This ritual involves a final DC 16 Constitution (Survival) check to properly perform the release under varying natural conditions. Success in this task symbolizes a peaceful transition and grants points toward their final score.
-- Points are awarded based on successful checks, with additional points for creativity in solving puzzles and role-playing interactions. The winner is the participant who best demonstrates balance, wisdom, and spiritual insight throughout the journey.
+	- This ritual involves a final DC 16 Intelligence (Performance) check to properly perform the release. Success in this task symbolizes a peaceful transition and grants a point toward their final score.
+- Points are awarded based on successful checks, with additional points for creativity in solving puzzles and role-playing interactions. The winner is the participant who best demonstrates balance, wisdom, and spiritual insight throughout the journey. Judges hold up cards with scores at the end of the series of challenges.
+
+| d6  | Confusing Vision (Pool of Visions)                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Shifting Skies**: The participant sees the sky torn between night and day, with stars that briefly turn into dragons, then vanish. This vision suggests cosmic forces at play but leaves the participant unsure whether these dragons are protectors or destroyers.                                                                                                                                                                                                       |
+| 2   | **A Dimming Sun**: A radiant sun slowly dims, casting long shadows that take the shape of a large and very old red dragon. The participant hears whispered promises of power but can't tell if these whispers come from the dragons or something more sinister, like Tiamat’s influence.                                                                                                                                                                                    |
+| 3   | **The Splintering Tree**: A majestic tree, representing balance and growth, splits down the middle, with one half blooming in gold and the other in green. Inside the freshly split tree is a baby with strange features.                                                                                                                                                                                                                                                   |
+| 4   | **Voices in the Flame**: A bright silver flame flickers before the participant, but the voices within the flame argue in circles, speaking of unity and betrayal. This leaves the participant uncertain whether the dragons' connection to the Church of the Silver Flame is a blessing or a curse.                                                                                                                                                                         |
+| 5   | **A Thousand Eyes**: A vision of an endless field of eyes watching from the darkness, none blinking or moving. The participant feels an overwhelming sense of being watched, but they cannot discern whether the eyes belong to benevolent forces or the manipulations of the dragons and their plans for Tiamat.                                                                                                                                                           |
+| 6   | **The Shifting Scale**: The participant sees a dragon in the distance, its scales gleaming metallic. As it approaches, the scales shift and change color, flickering between steel-gray and various vibrant hues. Just as the dragon’s eyes meet the participant’s, its form blurs, becoming indistinct, humanoid, and then draconic again. The participant feels an overwhelming sense of familiarity and trust toward the figure but cannot reconcile the shifting forms. |
 
 ### References
 

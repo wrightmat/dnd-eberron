@@ -66,7 +66,7 @@
               "type": "markdown",
               "state": {
                 "file": "locations/Adar.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -250,10 +250,11 @@
   },
   "active": "6b5287b8d8244a71",
   "lastOpenFiles": [
-    "sessions/2024-10-03.md",
-    "sessions/2024-09-12.md",
-    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "other/Draconic Factions.md",
     "locations/Adar.md",
+    "sessions/2024-10-03.md",
+    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "sessions/2024-09-12.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "locations/Lhazaar Principalities.md",
     "locations/Throneport.md",
@@ -262,7 +263,6 @@
     "_srd/Planes.md",
     "locations/Barrakas (Irian).md",
     "creatures/Void Knight.md",
-    "other/Draconic Factions.md",
     "characters/Spindelaryx.md",
     "canvas_maps/Thronehold.canvas",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
