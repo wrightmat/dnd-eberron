@@ -58,21 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ae038f61120be231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/Throneport.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "heavenly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
               }
             }
           },
@@ -149,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "597ae1b6bd18eefe",
@@ -248,44 +237,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "81c217c08c76343b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4c01a976623bfb1d",
-        "type": "window",
-        "children": [
-          {
-            "id": "d4786b4485fcf320",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a83ced3c2787b4f8",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 176,
-        "width": 902,
-        "height": 473,
-        "maximize": false,
-        "zoom": 2
-      }
-    ]
-  },
-  "active": "e05116d4c4bab8a4",
+  "active": "5c83a1c30157cc93",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "locations/Lhazaar Principalities.md",
     "locations/Throneport.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "adventures/C01. What Dreams May Come/3-08. Barrakas, the Lantern.md",
+    "other/Trinkets of the Planes.md",
+    "_srd/Planes.md",
+    "locations/Barrakas (Irian).md",
     "sessions/2024-09-12.md",
     "sessions/2024-10-03.md",
     "creatures/Void Knight.md",
@@ -305,11 +266,6 @@
     "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
     "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
     "characters/Arstyvrax.md",
-    "locations/Barrakas (Irian).md",
-    "_srd/Situational Rules.md",
-    "DM Screen.md",
-    "characters/Dawn Empress.md",
-    "other/Celeste Noir.md",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "public/_img/zarantyr.png",
