@@ -207,6 +207,18 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "d9d4bed7ab83313f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "locations/Adar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 1
