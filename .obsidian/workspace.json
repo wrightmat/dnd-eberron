@@ -70,21 +70,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "63db6203468ad183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/Enchanter.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enchanter",
+                "query": "lukt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/Enchanter.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
               }
             }
           },
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/Enchanter.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/Enchanter.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,13 +244,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "63db6203468ad183",
+  "active": "5c83a1c30157cc93",
   "lastOpenFiles": [
-    "adventures/C01. What Dreams May Come/2-01. Exploring the Mournland.md",
-    "characters/Belwyn.md",
+    "locations/Adar.md",
+    "characters/Lukt.md",
+    "characters/Gunnora.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "sessions/C01/2023-02-23.md",
-    "locations/Adar.md",
+    "adventures/C03. Riddles of the Third Age/1-06. Valenar and Valgutanu.md",
+    "sessions/2024-10-10.md",
+    "sessions/2024-10-03.md",
+    "characters/Enchanter.md",
+    "adventures/C02. Curse of Strahd (Abridged).md",
+    "adventures/C01. What Dreams May Come/2-01. Exploring the Mournland.md",
+    "characters/Belwyn.md",
     "characters/Jutkarr Flintfingers.md",
     "characters/Victory Graves.md",
     "characters/Avarice.md",
@@ -277,13 +272,6 @@
     "characters/Selena.md",
     "characters/Pierce.md",
     "characters/Meretsega.md",
-    "characters/Melysse Miron.md",
-    "characters/Mazzia d'Lyrandar.md",
-    "characters/Lysse Alysse Lonadar.md",
-    "characters/Luna Rose.md",
-    "characters/Lukt.md",
-    "characters/Logo d'Tharashk.md",
-    "characters/Ihan de Rhaan.md",
     "canvas_maps/Thronehold.canvas",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",

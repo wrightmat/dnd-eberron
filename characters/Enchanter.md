@@ -22,7 +22,7 @@ attitude: Indifferent
 > ###### Comments
 > `=this.comments`
 
-Enchanter is a warforged who used to work for House Cannith, who took up shelter near a secret lab in Making after the Day of Mourning. He’s unclear on what work he actually did at the lab, but knows details of how Project Siberys led to The Mourning.
+Enchanter is a warforged who used to work for House Cannith, and took up shelter near a secret lab in Making after the Day of Mourning. He’s unclear on what work he actually did at the lab, but knows details of how Project Siberys led to The Mourning.
 
 He is now incredibly depressed after spending years doing nothing much but sitting around.
 
