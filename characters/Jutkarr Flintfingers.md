@@ -27,7 +27,7 @@ languages: Common, Dwarvish, Thieves’ Cant, Telepathy
 
 >Thieves? No. Thieves dream of doing one big, easy job. If they pull it off, they go into hiding and retire. We are not thieves. We’re architects
 
-Though Jutkarr Flintfingers is a devotee of Kol Korran, the Sovereign venerated by thieves and assassins, he doesn’t consider himself a scoundrel. In fact, the grandfatherly dwarf actively dislikes most thieves, calling them lazy cheats and cocky liars. Jutkarr instead considers himself a “problem solver” and believes that any true follower of Kol Korran is the same. To him, there’s little difference between solving the daily word puzzle in the city broadsheet and “solving” a guarded mansion, a warded treasure vault, or the social complexities of a street gang war. Each is merely a pleasant distraction and chance to keep his wits sharp.
+Though Jutkarr Flintfingers is a devotee of Kol Korran, the Sovereign venerated by thieves and assassins, he doesn’t consider himself a scoundrel. In fact, the grandfatherly dwarf actively dislikes most thieves, calling them lazy cheats and cocky liars. Jutkarr instead considers himself a 'problem solver' and believes that any true follower of Kol Korran is the same. To him, there’s little difference between solving the daily word puzzle in the city broadsheet and 'solving' a guarded mansion, a warded treasure vault, or the social complexities of a street gang war. Each is merely a pleasant distraction and chance to keep his wits sharp.
 
 >[!info] **Amethyst Die**
 >*Wondrous Item, Rare (Requires Attunement)*

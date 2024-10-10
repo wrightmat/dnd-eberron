@@ -70,9 +70,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63db6203468ad183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Enchanter.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "enchanter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +130,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +144,6 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 33.68055555555556,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/Adar.md"
+                "file": "characters/Enchanter.md"
               }
             }
           },
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/Adar.md",
+                "file": "characters/Enchanter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,26 +226,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locations/Adar.md",
+                "file": "characters/Enchanter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "597ae1b6bd18eefe",
-        "type": "tabs",
-        "dimension": 66.31944444444444,
-        "children": [
-          {
-            "id": "66973bd1513e2ef2",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
             }
           }
         ]
@@ -260,10 +256,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6b5287b8d8244a71",
+  "active": "63db6203468ad183",
   "lastOpenFiles": [
+    "adventures/C01. What Dreams May Come/2-01. Exploring the Mournland.md",
+    "characters/Belwyn.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "sessions/C01/2023-02-23.md",
     "locations/Adar.md",
+    "characters/Jutkarr Flintfingers.md",
+    "characters/Victory Graves.md",
+    "characters/Avarice.md",
     "characters/Zorlan d'Cannith.md",
     "characters/Ythana Morr.md",
     "characters/Ystravnil.md",
@@ -282,12 +284,6 @@
     "characters/Lukt.md",
     "characters/Logo d'Tharashk.md",
     "characters/Ihan de Rhaan.md",
-    "characters/Gwendalyn.md",
-    "characters/Gunnora.md",
-    "characters/Escher Belasco.md",
-    "characters/Enchanter.md",
-    "characters/Empress of Shadows.md",
-    "characters/Elyon Winslow.md",
     "canvas_maps/Thronehold.canvas",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
