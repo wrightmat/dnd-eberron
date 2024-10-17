@@ -29,19 +29,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-10-03.md",
+                "file": "sessions/2024-10-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e05116d4c4bab8a4",
+            "id": "9e596a3e971fd2ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,13 +201,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -227,11 +228,17 @@
       "obsidian-kanban:Create new board": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "997c0103c1cde4bf",
+  "active": "9e596a3e971fd2ea",
   "lastOpenFiles": [
+    "sessions/2024-10-17.md",
+    "sessions/2024-10-03.md",
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "locations/Adar.md",
+    "DM Screen.md",
     "adventures/C01. What Dreams May Come/3-07. Lharvion, the Eye.md",
     "characters/Mother Void.md",
     "adventures/C01. What Dreams May Come/3-12.5. Into the Night.md",
@@ -246,18 +253,13 @@
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "locations/Shardspace.md",
     "other/The Endless.md",
-    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
-    "locations/Adar.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "characters/Lukt.md",
     "characters/Gunnora.md",
     "sessions/C01/2023-02-23.md",
     "adventures/C03. Riddles of the Third Age/1-06. Valenar and Valgutanu.md",
-    "sessions/2024-10-10.md",
-    "sessions/2024-10-03.md",
     "characters/Enchanter.md",
     "adventures/C02. Curse of Strahd (Abridged).md",
-    "adventures/C01. What Dreams May Come/2-01. Exploring the Mournland.md",
     "canvas_maps/Thronehold.canvas",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
