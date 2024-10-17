@@ -48,18 +48,6 @@
             }
           },
           {
-            "id": "5c83a1c30157cc93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6b5287b8d8244a71",
             "type": "leaf",
             "state": {
@@ -101,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lukt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -149,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+                "file": "DM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,12 +227,26 @@
       "obsidian-kanban:Create new board": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5c83a1c30157cc93",
+  "active": "997c0103c1cde4bf",
   "lastOpenFiles": [
+    "adventures/C01. What Dreams May Come/3-07. Lharvion, the Eye.md",
+    "characters/Mother Void.md",
+    "adventures/C01. What Dreams May Come/3-12.5. Into the Night.md",
+    "adventures/C01. What Dreams May Come/3-13. Crya, the Lonely Dreamer.md",
+    "other/Astral Elves.md",
+    "sessions/C01/2023-08-10.md",
+    "characters/Adara Bristalfyr.md",
+    "characters/Arstyvrax.md",
+    "adventures/C03. Riddles of the Third Age.md",
+    "adventures/C01. What Dreams May Come.md",
+    "locations/Crya (Dal Quor).md",
+    "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
+    "locations/Shardspace.md",
+    "other/The Endless.md",
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "locations/Adar.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "characters/Lukt.md",
@@ -257,21 +258,6 @@
     "characters/Enchanter.md",
     "adventures/C02. Curse of Strahd (Abridged).md",
     "adventures/C01. What Dreams May Come/2-01. Exploring the Mournland.md",
-    "characters/Belwyn.md",
-    "characters/Jutkarr Flintfingers.md",
-    "characters/Victory Graves.md",
-    "characters/Avarice.md",
-    "characters/Zorlan d'Cannith.md",
-    "characters/Ythana Morr.md",
-    "characters/Ystravnil.md",
-    "characters/Yllosavax.md",
-    "characters/Velgram.md",
-    "characters/Vecna.md",
-    "characters/Tower.md",
-    "characters/Tavick Thantorme.md",
-    "characters/Selena.md",
-    "characters/Pierce.md",
-    "characters/Meretsega.md",
     "canvas_maps/Thronehold.canvas",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",

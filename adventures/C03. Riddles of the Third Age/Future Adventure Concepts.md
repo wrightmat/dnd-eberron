@@ -48,7 +48,7 @@ This item from Fizban's should be the ultimate weapon that they get from defeati
 
 * If the players return to Shae Mordai, use the Haugbui (ToB1) as a boss monster.
 * Slow Storm (ToB1) is a fun chaos-themed monster that should be used somewhere.
-* Void Knight (ToB3) appears at some point as a herald of Mother Night? She sees that the players are amassing power, and taking on the dragons, and isn't happy about it.
+* Void Knight (ToB3) appears at some point as a herald of Mother Void? She sees that the players are amassing power, and taking on the dragons, and isn't happy about it.
 
 ### References
 

@@ -34,7 +34,7 @@ The only planet located in Shardspace is Eberron, but that planet rotates around
 
 The moons are separated in to "inner moons", those first six overseen by the Sovereign Host and Dark Six, and "outer moons", those last seven (plus the Outer Darkness) ruled by The Endless. While there is little practical difference between the moons/planes (unlike the inner and outer planes of the Forgotten Realms), these moons' rulers are different. The Sovereign Host are considered gods because they generally require worship in order to remain relevant. But the Endless are truly eternal and don't require worship at all - they will continue to rule the realms given to them by their mother regardless of what mortals think of them (although their realms can also continue to function without their presence).
 
-The 12 moons are separated from the 13th by an expansive void called “The Outer Darkness” (see “In To The Void” adventure), which is the realm of a powerful celestial known as Entropy (or Mother Night).
+The 12 moons are separated from the 13th by an expansive void called “The Outer Darkness” (see “In To The Void” adventure), which is the realm of a powerful celestial known as Entropy (or Mother Void).
 
 Continuing through The Outer Darkness, and past Dal Quor, will eventually lead to another silvery-grey void-like space that serves as the edge of Shardspace. Traveling all the way through this silvery-grey space, and piercing a rainbow-y wall of color (Ethereal curtain) leads to the Astral Plane, right at the Rock of Bral.
 

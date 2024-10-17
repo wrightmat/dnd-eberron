@@ -30,15 +30,16 @@ image: "![https://static.wikia.nocookie.net/sandman/images/2/2f/Mother_of_the_en
 
 >Your attempts to comprehend the incomprehensible are endearing, truly. But know this, I owe you no explanations, no justifications. My existence transcends your understanding.
 
-Mother Night, also known as Entropy, is a cosmic being and the embodiment of the absolute emptiness that predates creation. She is the mother of The Endless.
+Mother Void, also known as Mother Night or Entropy, is a cosmic being and the embodiment of the absolute emptiness that predates creation. She is the mother of The Endless.
 
-Night's physical form is a portly woman with long black hair who strongly resembles her daughter Despair. Her skin is night blue and contains the night sky. She wears a lavender dress with black and blue embroidery.
+Mother's physical form is a portly woman with long black hair who strongly resembles her daughter Despair. Her skin is night blue and contains the night sky. She wears a lavender dress with black and blue embroidery.
 
-Night is disconnected from all things in reality, is utterly self-centered, and lacks empathy. Night rarely leaves her own realm and enjoys her own privacy, having not had any contact with her children for quite some time.
+Mother is disconnected from all things in reality, is utterly self-centered, and lacks empathy. She rarely leaves her own realm and enjoys her own privacy, having not had any contact with her children for quite some time.
 
-Mother Night is the personification of the primordial chaos, prior to the dragons’ arrival. Her entire domain was condensed down to the current Outer Darkness, and so she created her children in order to rule over the outer planes that the dragons had created, as an act of defiance. She despises the concept of the dragons and their creation - after all, what's so great about creation and order? Are things really going all that well on Eberron?
+Mother Void is the personification of the primordial chaos, prior to the dragons’ arrival. Her entire domain was condensed down to the current Outer Darkness, and so she created her children in order to rule over the outer planes that the dragons had created, as an act of defiance. She despises the concept of the dragons and their creation - after all, what's so great about creation and order? Are things really going all that well on Eberron?
 
 ### References
 
 * https://sandman.fandom.com/wiki/Night
 * Also inspired by the Greek goddess Nyx and god Chaos (a similar personification of primordial chaos), as well as Demise from Zelda
+* Name changed to Mother Void, from Dimension 20: StarStruck Odyssey
