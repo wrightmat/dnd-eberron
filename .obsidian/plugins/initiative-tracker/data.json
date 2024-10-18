@@ -184,7 +184,7 @@
     "creatures": [
       {
         "name": "Verity",
-        "initiative": 20,
+        "initiative": 13,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -206,7 +206,7 @@
       },
       {
         "name": "Thana",
-        "initiative": 5,
+        "initiative": 1,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -228,7 +228,7 @@
       },
       {
         "name": "Aither",
-        "initiative": 6,
+        "initiative": 18,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -244,7 +244,7 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -260,7 +260,7 @@
         "currentAC": 17,
         "path": "creatures/Young Wind Dragon.md",
         "id": "ID_ca292b09183b",
-        "currentHP": 150,
+        "currentHP": 141,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -271,7 +271,7 @@
         "rollHP": false
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
     "round": 1,
     "logFile": "",

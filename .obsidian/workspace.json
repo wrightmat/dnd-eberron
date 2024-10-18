@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -58,21 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a422d56b6111389d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/Avarice.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,6 +119,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 34.11458333333333,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/Adar.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
               }
             }
           },
@@ -148,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/Adar.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locations/Adar.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,10 +210,25 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "cc85aaf7e7344812",
+        "type": "tabs",
+        "dimension": 65.88541666666666,
+        "children": [
+          {
+            "id": "e48578b4162a72c7",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 472.5
+    "width": 513.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,17 +248,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6b5287b8d8244a71",
+  "active": "9e596a3e971fd2ea",
   "lastOpenFiles": [
-    "sessions/2024-10-17.md",
     "locations/Adar.md",
+    "sessions/2024-10-17.md",
+    "DM Screen.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "characters/Avarice.md",
     "characters/Enchanter.md",
     "sessions/2024-10-03.md",
     "sessions/2024-09-12.md",
     "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
-    "DM Screen.md",
     "adventures/C01. What Dreams May Come/3-07. Lharvion, the Eye.md",
     "characters/Mother Void.md",
     "adventures/C01. What Dreams May Come/3-12.5. Into the Night.md",
