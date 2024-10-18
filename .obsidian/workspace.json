@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
+                "file": "locations/Adar.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+                "file": "locations/Adar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+                "file": "locations/Adar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,12 +232,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9e596a3e971fd2ea",
+  "active": "6b5287b8d8244a71",
   "lastOpenFiles": [
     "sessions/2024-10-17.md",
-    "sessions/2024-10-03.md",
-    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
+    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "locations/Adar.md",
+    "sessions/2024-10-03.md",
+    "sessions/2024-09-12.md",
+    "adventures/C03. Riddles of the Third Age/2-08. An Irian Adventure.md",
     "DM Screen.md",
     "adventures/C01. What Dreams May Come/3-07. Lharvion, the Eye.md",
     "characters/Mother Void.md",
@@ -253,13 +255,11 @@
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
     "locations/Shardspace.md",
     "other/The Endless.md",
-    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "characters/Lukt.md",
     "characters/Gunnora.md",
     "sessions/C01/2023-02-23.md",
     "adventures/C03. Riddles of the Third Age/1-06. Valenar and Valgutanu.md",
     "characters/Enchanter.md",
-    "adventures/C02. Curse of Strahd (Abridged).md",
     "canvas_maps/Thronehold.canvas",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
