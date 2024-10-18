@@ -20,7 +20,9 @@
                   "list-collapse": []
                 }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "DM Screen"
             }
           },
           {
@@ -32,7 +34,9 @@
                 "file": "sessions/2024-10-17.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-17"
             }
           },
           {
@@ -44,7 +48,9 @@
                 "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2-09. Through the Crystal Library"
             }
           },
           {
@@ -56,11 +62,27 @@
                 "file": "locations/Adar.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Adar"
+            }
+          },
+          {
+            "id": "d271923b8c983103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "creatures/Young Wind Dragon.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Young Wind Dragon"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -80,7 +102,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -95,7 +119,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -103,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -119,7 +147,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 34.11458333333333,
+        "dimension": 34.114583333333336,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -127,8 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md"
-              }
+                "file": "creatures/Young Wind Dragon.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Young Wind Dragon"
             }
           },
           {
@@ -137,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+                "file": "creatures/Young Wind Dragon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +175,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Young Wind Dragon"
             }
           },
           {
@@ -166,7 +198,9 @@
                   "displayMoons": true
                 },
                 "id": "ID_29aaf8780b09"
-              }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -174,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -182,7 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -193,7 +231,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -202,10 +242,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+                "file": "creatures/Young Wind Dragon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Young Wind Dragon"
             }
           }
         ],
@@ -214,14 +256,16 @@
       {
         "id": "cc85aaf7e7344812",
         "type": "tabs",
-        "dimension": 65.88541666666666,
+        "dimension": 65.88541666666667,
         "children": [
           {
             "id": "e48578b4162a72c7",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
@@ -232,8 +276,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -248,12 +290,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9e596a3e971fd2ea",
+  "active": "d271923b8c983103",
   "lastOpenFiles": [
-    "locations/Adar.md",
     "sessions/2024-10-17.md",
-    "DM Screen.md",
+    "locations/Adar.md",
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "DM Screen.md",
     "characters/Avarice.md",
     "characters/Enchanter.md",
     "sessions/2024-10-03.md",
