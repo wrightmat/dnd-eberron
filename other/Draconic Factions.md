@@ -57,7 +57,7 @@ The tracts below are listed in the general order that the PCs are expected to en
 	 - [x]  Valmoc and/or silver dragons arrive in Arcanix, hoping to create an alliance with the humans there to protect their pursuit of arcane research.
 	 - [x]  The silver dragons begin recruiting promising arcane individuals (wizards, sorcerers, magewrights, etc.) to come to both Arcanix and the Silvered Spire in Sharn. +1 Force
 	 - [x]  The Silver Scales are seen delving into forgotten tombs, deciphering ancient texts, and confronting magical challenges, looking for arcane secrets.
-	 - [ ]  The Silver Scales actively intervene in conflicts between dragon tribes, employing diplomatic measures and, when necessary, covert operations to prevent escalation. Their goal is to redirect the dragons' focus from chaotic pursuits to the principles of order and protection.
+	 - [x]  The Silver Scales actively intervene in conflicts between dragon tribes, employing diplomatic measures and, when necessary, covert operations to prevent escalation. Their goal is to redirect the dragons' focus from chaotic pursuits to the principles of order and protection.
 	 - [ ]  Arcanix, Sharn, and any other locations scoped out by the silver dragonborn are declared as Arcane Sanctuaries under the protection of the Silver Scales, where both dragons and mortals can safely study and harness magical energies without interference by the other dragons.
 	 - [ ]  One of the Arcane Sanctuaries discovers an artifact that they believe may be what Yllosavax has been searching for - an arcane means to draconic immortality.
 	 - [ ]  
@@ -86,15 +86,15 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Cunning**: 2
 - **Force**: 3
 - **Magic**: 0
-- **Wealth**: 1
+- **Wealth**: 2 (1)
 - **Assets**:
 	- Bronze Shipyard (Headquarters)
-- **Morale**: +7
+- **Morale**: +8
 - **Goal**: Build up a navy strong enough to protect Argonnessen from outsiders while the other dragons release Tiamat.
 - **Objectives**:
 	 - [x]  A single ship of bronze dragonborn lands in Pylas Maradal, and begin working with House Lyrandar to build more ships.
 	 - [x]  The bronze dragonborn open their own port and ship building business, called the Bronze Shipyard, to compete with House Lyrandar. Add "Bronze Shipyard (headquarters)" to Assets.
-	 - [ ]  The Bronze Shipyard outcompetes House Lyrandar, putting them out of business and pushing them out of Pylas Maradal completely. +1 to Wealth.
+	 - [x]  The Bronze Shipyard outcompetes House Lyrandar, putting them out of business and pushing them out of Pylas Maradal completely. +1 to Wealth.
 	 - [ ]  The bronze dragonborn send two ships, keeping a dozen behind, to Taer Valaestas where they establish a new shipyard and airship dock called the Bronze Spire. Add "Bronze Spire" to Assets.
 	 - [ ]  The Bronze Spire outcompetes House Lyrandar, putting them out of business and pushing them out of Taer Valaestas entirely. +1 to Wealth.
 	 - [ ]  The Bronze Navy is officially created, with their base on the Dragonwatch Isles off the coast of Aerie. Add "Dragonwatch Isles (headquarters)" to Assets.
@@ -104,13 +104,14 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Brass (Zilargo)
 - **Cunning**: 7 (4)
-- **Force**: 1
+- **Force**: 2 (1)
 - **Magic**: 0
 - **Wealth**: 1
 - **Assets**:
 	- Zolanberg Council of Nine
 	- Trolanport Council of Nine
-- **Morale**: +11
+	- Korranberg Council of Nine
+- **Morale**: +13
 - **Goal**: Establish a spy network to get information back to Argonnessen, destroying The Trust in the process. "Information is power".
 - **Objectives**:
 	 - [x]  A traveling comedy troupe of brass dragonborn, known as the Brass Bards, begins to perform at any Copper Dragon Inns that exist in Khorvaire.
@@ -119,8 +120,8 @@ The tracts below are listed in the general order that the PCs are expected to en
 	 - [x]  A stationary Brass Bards troupe starts up in the city of Korranberg. +1 to Cunning.
 	 - [x]  The leader of the Brass Bards ot Zolanberg is appointed to the Council of Nine that leads the city. Add "Zolanberg Council of Nine" as an Asset.
 	 - [x]  The leader of the Brass Bards ot Trolanport is appointed to the Council of Nine that leads the city. Add "Trolanport Council of Nine" as an Asset.
-	 - [ ]  The leader of the Brass Bards ot Korranberg is appointed to the Council of Nine that leads the city. Add "Korranberg Council of Nine" as an Asset.
-	 - [ ]  They start employing Alehouse Drakes (ToB1) within Copper Dragon Inns of cities they control to gather information. +1 to Force.
+	 - [x]  The leader of the Brass Bards ot Korranberg is appointed to the Council of Nine that leads the city. Add "Korranberg Council of Nine" as an Asset.
+	 - [x]  They start employing Alehouse Drakes (ToB1) within Copper Dragon Inns of cities they control to gather information. +1 to Force.
 	 - [ ]  Each of the three Brass Bard leaders is selected for the Triumvirate, causing the brass dragons to effectively control Zilargo. Add "Zilargo Triumvirate" as an Asset.
 	 - [ ]  The Triumvirate starts sending most of The Trust operatives out of Zilargo to spy for the dragons across Khorvaire. +1 to Wealth.
 	 - [ ]  The leaders of the brass dragons replaces The Proctor of The Trust, accomplishing their goal. +1 Wealth.
@@ -132,7 +133,8 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Wealth**: 1
 - **Assets**:
 	- 30 people from an island of Lhazaar taken by the Infernal Engine
-- **Morale**: +10
+	- 125 people from Valendar taken by the Infernal Engine
+- **Morale**: +11
 - **Goal**: To sow chaos, as a necessary precursor to the rise of draconic supremacy (mechanically this will probably involve adding to particular rolls/checks based on how many of these are checked off).
 - **Objectives**:
 	 - [x]  The Order of the Sapphire Scale, a group of random people of all races (mostly humans and changelings), begin their efforts in Lhazaar. The Infernal Enginer appears during a play at the Grand Thuranni Theater and takes several people.
@@ -140,13 +142,13 @@ The tracts below are listed in the general order that the PCs are expected to en
 	 - [x]  Chaos spreads across eastern Khorvaire (east of the Mournland) - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast in the area. +1 to Magic.
 	 - [x]  The Infernal Engine randomly appears on one of the islands of Lhazaar, disappearing `dice:1d6` days later, and taking `dice:1d8*10` people with it. Add those people to Assets.
 	 - [x]  Chaos spreads across ALL Khorvaire - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast on the continent. +1 to Magic.
-	 - [ ]  The Infernal Engine randomly appears somewhere on Khorvaire, disappearing `dice:1d6` days later, and taking `dice:1d10*25` people with it. Add those people to Assets.
+	 - [x]  The Infernal Engine randomly appears somewhere on Khorvaire, disappearing `dice:1d6` days later, and taking `dice:1d10*25` people with it. Add those people to Assets.
 	 - [ ]  Chaos spreads across all of Eberron - strange unexplainable occurrences are reported across the region. Wild Magic Surge effects in place for any magic cast. +1 to Magic.
 	 - [ ]  The Infernal Engine randomly appears somewhere on Sarlona, disappearing `dice:1d6` days later, and taking `dice:1d12*50` people with it. Add those people to Assets.
 	 - [ ]  The Infernal Engine randomly appears somewhere on Eberron, disappearing `dice:1d6` days later, and taking `dice:1d20*100` people with it. Add those people to Assets.
 
 ##### Black (Shadow Marches)
-- **Cunning**: 1
+- **Cunning**: 2 (1)
 - **Force**: 4
 - **Magic**: 1
 - **Wealth**: 1
@@ -154,13 +156,13 @@ The tracts below are listed in the general order that the PCs are expected to en
 	- 
 - **Setbacks**:
 	- Gharzaak, the leader of the Order of the Onyx Scale was killed by Verity (-1)
-- **Morale**: +6
+- **Morale**: +7
 - **Goal**: To descend into the depths of Khyber in order to gain access to Tiamat herself directly.
 - **Objectives**:
 	 - [x]  Order of the Onyx Scale begins excavation of what's believed to be Vvaraak's Cave in the Shadow Marches.
 	 - [x]  Dragon Orcs find their way to the upper levels of Khyber and begin exploring. +1 to Wealth.
-	 - [ ]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Droaam.
-	 - [ ]  Order of the Onyx Scale travels south via the Khyber tunnels. Dragon Orcs become a common sight in the depths of Sharn (Khyber's Gate). +1 to Cunning.
+	 - [x]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Droaam.
+	 - [x]  Order of the Onyx Scale travels south via the Khyber tunnels. Dragon Orcs become a common sight in the depths of Sharn (Khyber's Gate). +1 to Cunning.
 	 - [ ]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Darguun.
 	 - [ ]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Q'barra. +1 to Wealth.
 	 - [ ]  Order of the Onyx Scale travels south via the Khyber tunnels. Dragon Orcs become a common sight in Aerenal.
@@ -171,16 +173,16 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Cunning**: 1
 - **Force**: 1
 - **Magic**: 0
-- **Wealth**: 5 (4)
+- **Wealth**: 6 (4)
 - **Assets**:
 	- 
-- **Morale**: +7
+- **Morale**: +8
 - **Goal**: Convert all existing inns into "Copper Dragon Inns", destroying House Ghallanda in the process.
 - **Objectives**:
 	 - [x]  All inns in Valenar are now Copper Dragon Inns.
 	 - [x]  All inns in Talenta Plains and Q'barra are now Copper Dragon Inns. +1 to Wealth.
 	 - [x]  All inns in Zilargo and Darguun are now Copper Dragon Inns.
-	 - [ ]  All inns in Karrnath are now Copper Dragon Inns. +1 to Wealth.
+	 - [x]  All inns in Karrnath are now Copper Dragon Inns. +1 to Wealth.
 	 - [ ]  All inns in Mror Holds and Lhazaar Principalities are now Copper Dragon Inns.
 	 - [ ]  All inns in Thrane are now Copper Dragon Inns. +1 to Wealth.
 	 - [ ]  All inns in Aundair are now Copper Dragon Inns.
@@ -192,18 +194,18 @@ The tracts below are listed in the general order that the PCs are expected to en
 
 ##### Red (Mror Holds)
 - **Cunning**: 2
-- **Force**: 3 (1)
+- **Force**: 4 (1)
 - **Magic**: 1
 - **Wealth**: 2
 - **Assets**:
 	- 
-- **Morale**: +8
+- **Morale**: +9
 - **Goal**: To spread the religion of the dragons, known as Thir, throughout Eberron but especially through the Sovereign Host. The intent is to channel the energy of faithful believers (their Force) to help release Tiamat.
 - **Objectives**:
 	 - [x]  The Order of the Ruby Scale, a group of dwarves, begin their ministries in the Mror Holds spreading Thir.
 	 - [x]  Temples of the Sovereign Host throughout eastern Khorvaire (east of the Mournland) begin teaching Thir beliefs, that the first Sovereigns were dragons of great or ill renown who ascended to godhood during the Age of Demons. +1 to Force.
 	 - [x]  Temples of the Sovereign Host throughout ALL of Khorvaire are teaching Thir beliefs. +1 to Force.
-	 - [ ]  Half of the Khorvaire believers of the Sovereign Host have adopted the Thir beliefs. Sovereign Host temples all over Khorvaire start adopting more draconic symbology. +1 to Force.
+	 - [x]  Half of the Khorvaire believers of the Sovereign Host have adopted the Thir beliefs. Sovereign Host temples all over Khorvaire start adopting more draconic symbology. +1 to Force.
 	 - [ ]  Temples of the Sovereign Host throughout Sarlona (and anywhere else in Eberron) begin teaching Thir beliefs. +1 to Force.
 	 - [ ]  Three-quarters of Khorvaire believers, and half of all Eberron believers of the Sovereign Host have adopted Thir beliefs. Sovereign Host temples all over Eberron have fully adopted draconic symbology. +1 to Force.
 	 - [ ]  All Khorvaire believers of the Sovereign Host subscribe to the Thir beliefs. Add "Sovereign Host" as an Asset.
@@ -216,12 +218,13 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Assets**:
 	- Tanila
 	- Ashaya
-- **Morale**: +8
+	- Archpriestess Valeria Dantos
+- **Morale**: +9
 - **Goal**: To create a new extremely powerful half-dragon, similar to Erandis Vol, referred to as "Project Emerald".
 - **Objectives**:
 	 - [x]  Kidnap (or persuade to help) a renowned scholar specializing in draconic history, a librarian named Tanila who lives at Arcanix University. Add as an Asset.
 	 - [x]  Kidnap a young heir from House Lyrandar, Ashaya, known for her strong affinity for elemental powers, to serve as the dragonmarked heir mother. Add as an Asset. Strange weather patterns begin to plague the area of Stormhome where she was kidnapped.
-	 - [ ]  Kidnap a high ranking member of the Blood of Vol, Archpriestess Valeria Dantos, who can contribute expertise in necromancy. Add as an Asset.
+	 - [x]  Kidnap a high ranking member of the Blood of Vol, Archpriestess Valeria Dantos, who can contribute expertise in necromancy. Add as an Asset.
 	 - [ ]  Capture and study various species of dragonkin, such as wyverns and drakes, along with select humanoid subjects, to understand the compatibility of draconic essence with humanoid forms. +1 to Magic.
 	 - [ ]  Build or locate a site of significant magical power, such as a confluence of ley lines or a place steeped in ancient dragon lore, to serve as the focal point for the creation ritual. Possibly Arcanix. +1 to Magic.
 	 - [ ]  Successfully complete the ritual, causing a pregnancy in Ashaya in the process. +1 to Magic.
@@ -234,11 +237,16 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Wealth**: 0
 - **Assets**:
 	- Shae Mordai souls
-- **Morale**: +7
+	- Adar souls (Unity Day)
+- **Morale**: +8
 - **Goal**: Release Khyber
 - **Objectives**:
-	 - [ ]  Ally with House Phiarlan to maintain a presence of spies in Khorvaire. The Five Demesnes are located at Fairhaven in Aundair (Memory), Wroat in Breland (Motion), Flamekeep in Thrane (Music), Thaliost in Thrane (Shape), and Sharn in Breland (Shadow).
+	 - [x]  Ally with House Phiarlan to maintain a presence of spies in Khorvaire. The Five Demesnes are located at Fairhaven in Aundair (Memory), Wroat in Breland (Motion), Flamekeep in Thrane (Music), Thaliost in Thrane (Shape), and Sharn in Breland (Shadow).
 	 - [ ]  Secretly ally with the Demesnes of Memory in Fairhaven, Aundair. +1 to Wealth.
+	 - [ ]  Secretly ally with the Demesnes of Motion in Breland. +1 to Wealth.
+	 - [ ]  Secretly ally with the Demesnes of Music in Flamekeep. +1 to Wealth.
+	 - [ ]  Secretly ally with the Demesnes of Shape in Thaliost. +1 to Wealth.
+	 - [ ]  Secretly ally with the Demesnes of Shadow in Sharn. +1 to Wealth.
 	 - [ ]  
 
 ### DM Notes and Random Tables

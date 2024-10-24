@@ -183,32 +183,8 @@
   "state": {
     "creatures": [
       {
-        "name": "Young Wind Dragon",
-        "initiative": 18,
-        "static": false,
-        "modifier": 4,
-        "hp": 150,
-        "currentMaxHP": 150,
-        "cr": 6,
-        "ac": 17,
-        "currentAC": 17,
-        "path": "creatures/Young Wind Dragon.md",
-        "id": "ID_ca292b09183b",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "16d10 + 62",
-        "rollHP": false
-      },
-      {
         "name": "Aither",
-        "initiative": 18,
+        "initiative": 23,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -217,20 +193,20 @@
         "currentAC": 16,
         "note": "Aither Calobra Lightwood",
         "path": "characters/Aither Calobra Lightwood.md",
-        "id": "ID_78b939ab392b",
+        "id": "ID_1828f98beafb",
         "currentHP": 33,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Verity",
-        "initiative": 13,
+        "initiative": 16,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -239,7 +215,7 @@
         "currentAC": 15,
         "note": "Verity",
         "path": "characters/Verity.md",
-        "id": "ID_4a38db5b3a98",
+        "id": "ID_9a59890b2bf9",
         "currentHP": 33,
         "tempHP": 0,
         "status": [],
@@ -252,7 +228,7 @@
       },
       {
         "name": "Thana",
-        "initiative": 1,
+        "initiative": 6,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -261,7 +237,7 @@
         "currentAC": 17,
         "note": "Thana Winslow",
         "path": "characters/Thana Winslow.md",
-        "id": "ID_7928ab8a79e8",
+        "id": "ID_38daca384b0a",
         "currentHP": 46,
         "tempHP": 0,
         "status": [],
@@ -273,9 +249,9 @@
         "friendly": false
       }
     ],
-    "state": true,
+    "state": false,
     "name": null,
-    "round": 3,
+    "round": 1,
     "logFile": "",
     "rollHP": false
   },
