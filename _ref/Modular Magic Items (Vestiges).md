@@ -28,7 +28,7 @@ Slot 1 is unlocked when a weapon is awakened (critical hit scored with the weapo
 
 Each ability has three levels, designed for different tiers of play. Level 1 abilities are designed for character level 5-9, Level 2 abilities are for character level 10-14, and Level 3 abilities are for level 15-20. These can vary depending on your players and your campaign, but serve as a rough guideline.
 
-To unlock Level 2 of an ability, the wielder must meet the minimum level threshold, and make a special DC 40 check (which can be attempted only once per Long Rest). This check is performed by making an attack roll with the weapon, adding the number of dots in the ability track of that ability. To unlock Level 3 of an ability, the wielder must meet the minimum level threshold, and make the same special check, but at DC 50. Players can use any buffs that would be applicable to a normal attack roll to aid in the check. This should encourage your players to work together to level up their abilities.
+To unlock Level 2 of an ability, the wielder must meet the minimum level threshold, and make a special DC 30 check (which can be attempted only once per Long Rest). This check is performed by making an attack roll with the weapon, adding the number of dots in the ability track of that ability. To unlock Level 3 of an ability, the wielder must meet the minimum level threshold, and make the same special check, but at DC 40. Players can use any buffs that would be applicable to a normal attack roll to aid in the check. This should encourage your players to work together to level up their abilities.
 
 #### Optional: Alternate Abilities
 
