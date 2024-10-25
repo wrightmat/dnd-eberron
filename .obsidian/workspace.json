@@ -119,7 +119,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 32.8125,
+        "dimension": 38.88888888888889,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -226,12 +226,12 @@
         "currentTab": 3
       },
       {
-        "id": "9b5c19de7d3a8096",
+        "id": "17df5f5c2d6c55ae",
         "type": "tabs",
-        "dimension": 67.1875,
+        "dimension": 61.111111111111114,
         "children": [
           {
-            "id": "f1afb89a6fa868be",
+            "id": "ffad44fff7f98c8c",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -262,16 +262,51 @@
       "calendarium:Open Calendarium": false
     }
   },
+  "floating": {
+    "id": "ec942ec7820e4d0e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "835c2c9d333ef802",
+        "type": "window",
+        "children": [
+          {
+            "id": "4d35ec643ad13ab1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "729eaf1100ab2119",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 176,
+        "width": 806,
+        "height": 485,
+        "maximize": false,
+        "zoom": 2
+      }
+    ]
+  },
   "active": "9e596a3e971fd2ea",
   "lastOpenFiles": [
-    "_srd/spells/Planar Ally.md",
-    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "sessions/2024-10-24.md",
+    "sessions/2024-10-17.md",
+    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
+    "_srd/spells/Planar Ally.md",
     "DM Screen.md",
     "other/Draconic Factions.md",
     "_ref/Factions.md",
     "_srd/spells/Glyph of Warding.md",
-    "sessions/2024-10-17.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "adventures/C03. Riddles of the Third Age/2-03. Mystic Glade and Vvaraak's Cave.md",
     "other/Spellshard.md",
