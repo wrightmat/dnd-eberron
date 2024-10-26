@@ -45,16 +45,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
-                "mode": "preview",
+                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-09. Through the Crystal Library"
+              "title": "2-10. Traversing Argonnessen"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,6 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 38.88888888888889,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -127,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-10-24.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-24"
+              "title": "Outline of 2-10. Traversing Argonnessen"
             }
           },
           {
@@ -224,23 +223,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "17df5f5c2d6c55ae",
-        "type": "tabs",
-        "dimension": 61.111111111111114,
-        "children": [
-          {
-            "id": "ffad44fff7f98c8c",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -262,7 +244,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "44bdcd3ae1844915",
+  "active": "9e596a3e971fd2ea",
   "lastOpenFiles": [
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "sessions/2024-10-24.md",

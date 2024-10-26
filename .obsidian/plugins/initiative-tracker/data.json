@@ -184,7 +184,7 @@
     "creatures": [
       {
         "name": "Aither",
-        "initiative": 14,
+        "initiative": 20,
         "static": false,
         "modifier": 4,
         "hp": 33,
@@ -200,13 +200,13 @@
         "enabled": true,
         "level": 5,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Verity",
-        "initiative": 9,
+        "initiative": 17,
         "static": false,
         "modifier": 3,
         "hp": 33,
@@ -228,7 +228,7 @@
       },
       {
         "name": "Thana",
-        "initiative": 15,
+        "initiative": 11,
         "static": false,
         "modifier": 1,
         "hp": 46,
@@ -247,83 +247,11 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Repository",
-        "initiative": 3,
-        "static": false,
-        "modifier": 0,
-        "hp": 110,
-        "currentMaxHP": 110,
-        "cr": 7,
-        "ac": 15,
-        "currentAC": 15,
-        "path": "creatures/Repository.md",
-        "id": "ID_d8ba88fa3939",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "13d8 + 52",
-        "rollHP": false
-      },
-      {
-        "name": "Library Automaton",
-        "initiative": 14,
-        "static": false,
-        "modifier": 1,
-        "hp": 7,
-        "currentMaxHP": 7,
-        "cr": "1/2",
-        "ac": 13,
-        "currentAC": 13,
-        "path": "creatures/Library Automaton.md",
-        "id": "ID_a829c93bbbb8",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "2d6",
-        "rollHP": false
-      },
-      {
-        "name": "Library Automaton",
-        "initiative": 16,
-        "static": false,
-        "modifier": 1,
-        "hp": 7,
-        "currentMaxHP": 7,
-        "cr": "1/2",
-        "ac": 13,
-        "currentAC": 13,
-        "path": "creatures/Library Automaton.md",
-        "id": "ID_6b2a5a1a798a",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "2d6",
-        "rollHP": false
       }
     ],
-    "state": true,
+    "state": false,
     "name": null,
-    "round": 3,
+    "round": 1,
     "logFile": "",
     "rollHP": false
   },
