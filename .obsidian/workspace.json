@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-10. Traversing Argonnessen"
+              "title": "Outline of 2-11. The Final Battle"
             }
           },
           {
@@ -275,12 +275,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9e596a3e971fd2ea",
+  "active": "1c22030826873af1",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "adventures/C04. The Nature of Magic/2-03. Illusion.md",
     "characters/Arstyvrax.md",
-    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "adventures/C04. The Nature of Magic/2-11. Psionics.md",
     "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
     "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
