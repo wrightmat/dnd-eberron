@@ -59,16 +59,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-11. Psionics.md",
-                "mode": "source",
+                "file": "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-11. Psionics"
+              "title": "2-11. The Final Battle"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,6 +133,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 24.65277777777778,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -140,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/2-11. Psionics.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-11. Psionics"
+              "title": "Outline of 2-10. Traversing Argonnessen"
             }
           },
           {
@@ -236,6 +237,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "38df5567669c41c8",
+        "type": "tabs",
+        "dimension": 75.34722222222221,
+        "children": [
+          {
+            "id": "330388a4e25162bc",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,8 +275,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1c22030826873af1",
+  "active": "9e596a3e971fd2ea",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
+    "adventures/C04. The Nature of Magic/2-03. Illusion.md",
+    "characters/Arstyvrax.md",
+    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+    "adventures/C04. The Nature of Magic/2-11. Psionics.md",
+    "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
+    "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
     "adventures/C04. The Nature of Magic/2-10. Artifice.md",
     "adventures/C04. The Nature of Magic/2-09. Conjuration.md",
     "adventures/C04. The Nature of Magic/2-08. Divination.md",
@@ -266,9 +291,7 @@
     "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
     "adventures/C04. The Nature of Magic/2-05. Evocation.md",
     "adventures/C04. The Nature of Magic/2-04. Abjuration.md",
-    "adventures/C04. The Nature of Magic/2-03. Illusion.md",
     "adventures/C04. The Nature of Magic/1-00. Session One Intros.md",
-    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "sessions/2024-10-24.md",
     "DM Screen.md",
     "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
@@ -280,11 +303,6 @@
     "sessions/2024-10-17.md",
     "_srd/spells/Planar Ally.md",
     "_ref/Factions.md",
-    "_srd/spells/Glyph of Warding.md",
-    "adventures/C03. Riddles of the Third Age/2-03. Mystic Glade and Vvaraak's Cave.md",
-    "other/Spellshard.md",
-    "creatures/Ink Devil.md",
-    "adventures/C05. The Heart of Khyber.md",
     "adventures/C05. The Heart of Khyber",
     "canvas_maps/Thronehold.canvas",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
