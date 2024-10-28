@@ -60,7 +60,7 @@
               "type": "markdown",
               "state": {
                 "file": "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -133,7 +133,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 24.65277777777778,
+        "dimension": 35.85069444444444,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -241,7 +241,7 @@
       {
         "id": "38df5567669c41c8",
         "type": "tabs",
-        "dimension": 75.34722222222221,
+        "dimension": 64.14930555555556,
         "children": [
           {
             "id": "330388a4e25162bc",
@@ -277,8 +277,9 @@
   },
   "active": "1c22030826873af1",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+    "other/Draconic Factions.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
+    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "adventures/C04. The Nature of Magic/2-03. Illusion.md",
     "characters/Arstyvrax.md",
     "adventures/C04. The Nature of Magic/2-11. Psionics.md",
@@ -298,7 +299,6 @@
     "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
     "other/Platinum Scarf (Vestige).md",
     "_ref/Modular Magic Items (Vestiges).md",
-    "other/Draconic Factions.md",
     "other/Lantern of Seeking.md",
     "sessions/2024-10-17.md",
     "_srd/spells/Planar Ally.md",
