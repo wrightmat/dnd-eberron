@@ -68,13 +68,13 @@
             }
           },
           {
-            "id": "21ce7dde2f380d95",
+            "id": "8e031d62b061f421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -289,11 +289,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "21ce7dde2f380d95",
+  "active": "8e031d62b061f421",
   "lastOpenFiles": [
-    "adventures/C04. The Nature of Magic/2-05. Evocation.md",
-    "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
+    "adventures/C04. The Nature of Magic/2-05. Evocation.md",
+    "adventures/C05. The Heart of Khyber/1-06. Return to Tzocar's Lair.md",
+    "adventures/C05. The Heart of Khyber/1-06. Khyber Shadow Demiplanes.md",
+    "adventures/C05. The Heart of Khyber/1-03. Depths of Khyber.md",
+    "adventures/C05. The Heart of Khyber/1-01. The Surface Dungeon.md",
+    "adventures/C05. The Heart of Khyber/1-02. The Archive.md",
+    "adventures/C05. The Heart of Khyber.md",
+    "adventures/C04. The Nature of Magic.md",
+    "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
     "other/Draconic Factions.md",
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "adventures/C04. The Nature of Magic/2-03. Illusion.md",
@@ -310,13 +317,6 @@
     "sessions/2024-10-24.md",
     "DM Screen.md",
     "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
-    "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
-    "other/Platinum Scarf (Vestige).md",
-    "_ref/Modular Magic Items (Vestiges).md",
-    "other/Lantern of Seeking.md",
-    "sessions/2024-10-17.md",
-    "_srd/spells/Planar Ally.md",
-    "_ref/Factions.md",
     "adventures/C05. The Heart of Khyber",
     "canvas_maps/Thronehold.canvas",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
