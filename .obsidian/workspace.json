@@ -54,21 +54,35 @@
             }
           },
           {
-            "id": "3a8cc17488d26869",
+            "id": "049bf6b99cdcde6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
+                "file": "locations/Throneport.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Throneport"
+            }
+          },
+          {
+            "id": "bc616ff57339f5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/Hezcalipa’s Heart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-11. The Final Battle"
+              "title": "Hezcalipa’s Heart"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +147,6 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 51.64930555555556,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -141,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md"
+                "file": "other/Hezcalipa’s Heart.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-11. The Final Battle"
+              "title": "Outline of Hezcalipa’s Heart"
             }
           },
           {
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
+                "file": "other/Hezcalipa’s Heart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2-11. The Final Battle"
+              "title": "Backlinks for Hezcalipa’s Heart"
             }
           },
           {
@@ -237,23 +250,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "38df5567669c41c8",
-        "type": "tabs",
-        "dimension": 48.35069444444444,
-        "children": [
-          {
-            "id": "330388a4e25162bc",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -275,14 +271,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3a8cc17488d26869",
+  "active": "bc616ff57339f5d0",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+    "locations/Throneport.md",
+    "other/Hezcalipa’s Heart.md",
+    "other/Driftglobe.md",
+    "other/Drink Wand.md",
+    "other/Elixir of Health.md",
+    "other/Goodberry Wine.md",
     "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
+    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "other/Orb of Dragonkind.md",
     "other/Sovereign Host.md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
-    "locations/Throneport.md",
     "canvas_maps/Thronehold.canvas",
     "locations/Vorel’Arux.md",
     "locations/Argonnessen.md",
@@ -299,11 +300,6 @@
     "adventures/C05. The Heart of Khyber/1-03. Depths of Khyber.md",
     "adventures/C05. The Heart of Khyber/1-01. The Surface Dungeon.md",
     "adventures/C05. The Heart of Khyber/1-02. The Archive.md",
-    "adventures/C05. The Heart of Khyber.md",
-    "adventures/C04. The Nature of Magic.md",
-    "adventures/C04. The Nature of Magic/2-03. Illusion.md",
-    "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
-    "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
     "adventures/C05. The Heart of Khyber",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
