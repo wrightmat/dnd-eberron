@@ -111,9 +111,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "Thronehold"
             }
+          },
+          {
+            "id": "c4565e0b01daa40a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_srd/Conditions.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conditions"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,6 +192,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 35.59027777777778,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -185,10 +200,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/Throneport.md"
+                "file": "_srd/Conditions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Throneport"
+              "title": "Outline of Conditions"
             }
           },
           {
@@ -197,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/Throneport.md",
+                "file": "_srd/Conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +222,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Throneport"
+              "title": "Backlinks for Conditions"
             }
           },
           {
@@ -280,11 +295,29 @@
               "title": "Outgoing links from 2-09. Through the Crystal Library"
             }
           }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "71f2478d7ab3e474",
+        "type": "tabs",
+        "dimension": 64.40972222222221,
+        "children": [
+          {
+            "id": "3085d9d98e767fc7",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 523.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,13 +335,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "049bf6b99cdcde6c",
+  "active": "c4565e0b01daa40a",
   "lastOpenFiles": [
-    "canvas_maps/Thronehold.canvas",
     "locations/Throneport.md",
+    "canvas_maps/Thronehold.canvas",
+    "characters/Spindelaryx.md",
+    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "sessions/2024-10-24.md",
     "sessions/2024-11-07.md",
-    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "locations/Vorel’Arux.md",
     "characters/Serelath.md",
     "other/The Chamber.md",
@@ -329,7 +363,6 @@
     "adventures/C04. The Nature of Magic/2-04. Abjuration.md",
     "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
     "adventures/C04. The Nature of Magic/2-05. Evocation.md",
-    "adventures/C05. The Heart of Khyber/1-06. Return to Tzocar's Lair.md",
     "adventures/C05. The Heart of Khyber",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
