@@ -59,12 +59,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-10. Traversing Argonnessen"
+              "title": "2-11. Investigating the Dragons"
+            }
+          },
+          {
+            "id": "0eb423812c65c13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/Celeste Noir.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Celeste Noir"
             }
           }
         ],
@@ -140,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-10. Traversing Argonnessen"
+              "title": "Outline of 2-11. Investigating the Dragons"
             }
           },
           {
@@ -152,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2-10. Traversing Argonnessen"
+              "title": "Backlinks for 2-11. Investigating the Dragons"
             }
           },
           {
@@ -260,14 +274,17 @@
   },
   "active": "9e596a3e971fd2ea",
   "lastOpenFiles": [
-    "locations/Vorel’Arux.md",
+    "other/Celeste Noir.md",
+    "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
     "locations/Throneport.md",
+    "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
+    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+    "locations/Vorel’Arux.md",
     "sessions/2024-11-07.md",
     "_srd/Conditions.md",
     "_srd/items/Potion of Healing.md",
     "canvas_maps/Thronehold.canvas",
     "characters/Spindelaryx.md",
-    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "sessions/2024-10-24.md",
     "characters/Serelath.md",
     "other/The Chamber.md",
@@ -276,7 +293,6 @@
     "other/Drink Wand.md",
     "other/Elixir of Health.md",
     "other/Goodberry Wine.md",
-    "adventures/C03. Riddles of the Third Age/2-11. The Final Battle.md",
     "other/Orb of Dragonkind.md",
     "other/Sovereign Host.md",
     "adventures/C03. Riddles of the Third Age/Future Adventure Concepts.md",
@@ -285,8 +301,6 @@
     "other/Draconic Factions.md",
     "creatures/Adult Topaz Dragon.md",
     "adventures/C04. The Nature of Magic/2-11. Psionics.md",
-    "adventures/C04. The Nature of Magic/2-04. Abjuration.md",
-    "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
     "adventures/C05. The Heart of Khyber",
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
