@@ -211,24 +211,23 @@ The tracts below are listed in the general order that the PCs are expected to en
 	 - [ ]  All Khorvaire believers of the Sovereign Host subscribe to the Thir beliefs. Add "Sovereign Host" as an Asset.
 
 ##### Green (Eldeen Reaches)
-- **Cunning**: 1
+- **Cunning**: 3 (1)
 - **Force**: 2
 - **Magic**: 1
 - **Wealth**: 2
 - **Assets**:
 	- Aundair
-	- Eldeen Reaches
 	- 
 - **Morale**: +9
 - **Goal**: "Project Emerald": to create a vast land (covering Aundair, Thrane, and the Eldeen Reaches) under Corrine’s rule where nature — and the dragonkind’s influence — are paramount.
 - **Objectives**:
 	 - [x]  Corrine ascends to the throne of Aundair at Fairhold, declaring herself as Empress. Add Aundair as Asset.
-	 - [x]  The eastern cities of the Eldeen Reaches are taken under control by Empress Corrine. Add Eldeen Reaches as Asset.
-	 - [x]  All cities of Trane
-	 - [ ]  Capture and study various species of dragonkin, such as wyverns and drakes, along with select humanoid subjects, to understand the compatibility of draconic essence with humanoid forms. +1 to Magic.
-	 - [ ]  Build or locate a site of significant magical power, such as a confluence of ley lines or a place steeped in ancient dragon lore, to serve as the focal point for the creation ritual. Possibly Arcanix. +1 to Magic.
-	 - [ ]  Successfully complete the ritual, causing a pregnancy in Ashaya in the process. +1 to Magic.
-	 - [ ]  Ashaya gives birth of a half-dragon baby, completing their goal. Add as an Asset.
+	 - [x]  The eastern cities of the Eldeen Reaches are taken under control by Empress Corrine. +1 to Cunning.
+	 - [x]  All cities of Thrane, except for Flamekeep, fall under Corrine's control. +1 to Cunning.
+	 - [ ]  Flamekeep captured, and gold dragons are all pushed to Thronehold. Add Thrane as an Asset.
+	 - [ ]  Corrine uses her connections at Arcanix to declare herself Headmistress of Arcanix. Add Arcanix as an Asset.
+	 - [ ]  Kaereth takes control of Greenheart by poisoning Oalian, and declares himself as ruler of the Eldeen Reaches from there. Add Eldeen Reaches as an Asset.
+	 - [ ]  Corrine and Kaereth declare the creation of the Verdant Dominion, encompassing Aundair, Thrane, and the Eldeen Reaches. +1 to Force.
 
 ##### Topaz (Argonnessen)
 - **Cunning**: 2
