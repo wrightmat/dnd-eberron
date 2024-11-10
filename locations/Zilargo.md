@@ -30,6 +30,10 @@ Zilargo is a Gnomish nation in the South of Khorvaire. It is best known for its 
 
 ### Locations
 
-- 
+- [[locations/Zolanberg|Zolanberg]]
+- [[locations/Trolanport|Trolanport]]
+- [[locations/Korranberg|Korranberg]]
 
 ### References
+
+- https://eberron.fandom.com/wiki/Zilargo
