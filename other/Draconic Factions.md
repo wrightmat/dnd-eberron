@@ -216,15 +216,15 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Magic**: 1
 - **Wealth**: 2
 - **Assets**:
-	- Tanila
-	- Ashaya
-	- Archpriestess Valeria Dantos
+	- Aundair
+	- Eldeen Reaches
+	- 
 - **Morale**: +9
-- **Goal**: To create a new extremely powerful half-dragon, similar to Erandis Vol, referred to as "Project Emerald".
+- **Goal**: "Project Emerald": to create a vast land (covering Aundair, Thrane, and the Eldeen Reaches) under Corrine’s rule where nature — and the dragonkind’s influence — are paramount.
 - **Objectives**:
-	 - [x]  Kidnap (or persuade to help) a renowned scholar specializing in draconic history, a librarian named Tanila who lives at Arcanix University. Add as an Asset.
-	 - [x]  Kidnap a young heir from House Lyrandar, Ashaya, known for her strong affinity for elemental powers, to serve as the dragonmarked heir mother. Add as an Asset. Strange weather patterns begin to plague the area of Stormhome where she was kidnapped.
-	 - [x]  Kidnap a high ranking member of the Blood of Vol, Archpriestess Valeria Dantos, who can contribute expertise in necromancy. Add as an Asset.
+	 - [x]  Corrine ascends to the throne of Aundair at Fairhold, declaring herself as Empress. Add Aundair as Asset.
+	 - [x]  The eastern cities of the Eldeen Reaches are taken under control by Empress Corrine. Add Eldeen Reaches as Asset.
+	 - [x]  All cities of Trane
 	 - [ ]  Capture and study various species of dragonkin, such as wyverns and drakes, along with select humanoid subjects, to understand the compatibility of draconic essence with humanoid forms. +1 to Magic.
 	 - [ ]  Build or locate a site of significant magical power, such as a confluence of ley lines or a place steeped in ancient dragon lore, to serve as the focal point for the creation ritual. Possibly Arcanix. +1 to Magic.
 	 - [ ]  Successfully complete the ritual, causing a pregnancy in Ashaya in the process. +1 to Magic.
