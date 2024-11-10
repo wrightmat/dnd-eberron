@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/Draconic Factions.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Draconic Factions"
+              "title": "Outline of 2-11. Investigating the Dragons"
             }
           },
           {
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/Draconic Factions.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Draconic Factions"
+              "title": "Backlinks for 2-11. Investigating the Dragons"
             }
           },
           {
@@ -235,39 +235,12 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "e23402bfb9e69ab3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "d9d4bed7ab83313f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-09. Through the Crystal Library.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2-09. Through the Crystal Library"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,12 +258,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7ea2760709176d3a",
+  "active": "97f22b5c9e620780",
   "lastOpenFiles": [
+    "other/Draconic Factions.md",
     "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
     "locations/Fairhaven.md",
     "characters/Corrine ir'Wyrnarn.md",
-    "other/Draconic Factions.md",
     "dnd-eberron/adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
     "locations/Arcanix.md",
     "dnd-eberron/players/Kerrie Heath.md",
