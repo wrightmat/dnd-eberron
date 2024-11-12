@@ -1,8 +1,8 @@
 ---
-level: 5
-hp: 33
-ac: 16
-modifier: 4
+level: 10
+hp: 63
+ac: 17
+modifier: 5
 gender: Female
 pronouns: she/her
 race: Genasi

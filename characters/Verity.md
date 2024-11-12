@@ -1,8 +1,8 @@
 ---
-level: 5
-hp: 33
-ac: 15
-modifier: 3
+level: 10
+hp: 63
+ac: 17
+modifier: 5
 gender: Non-Binary
 pronouns: she/they
 race: Aasimar (Fallen)

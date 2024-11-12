@@ -1,5 +1,5 @@
 ---
-level: 5
+level: 10
 hp: 46
 ac: 17
 modifier: 1

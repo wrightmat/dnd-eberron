@@ -3,6 +3,8 @@ type: Capital
 region: "[[Aundair]]"
 location: "[30.647364, -25.686035]"
 image: "![https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg|250](https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg)"
+government: 
+ruler: Empress [[dnd-eberron/characters/Corrine ir'Wyrnarn|Corrine ir'Wyrnarn]]
 ---
  #location #capital [[Aundair]]
 
@@ -28,10 +30,15 @@ image: "![https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg|25
 
 Fairhaven is the capital city of Aundair. It is the largest city in the nation and is home to Queen Aurala ir'Wynarn and her royal family. The city is a major commercial and cultural center for Aundair. It is divided into twelve wards by the city planning district in an effort to better manage the resources of the city.
 
+Before the Last War, the city had a complex reputation as a place of knowledge, magic, secrets, riches, and trade. Named for the brilliant crystalline lamps which line its glittering streets, the City of Lights was the first to introduce these innovations and other magical wonders dreamed up by the mages at Arcanix. Today, this reputation for inquisitiveness and trade has been twisted into a reputation for secrets and smuggling, but there are many who remember the place Fairhaven once held for the people of Khorvaire and, now that peace has arrived, the place it may hold again.
+
+Fairhaven is divided into twelve wards, roughly equal in size and population, as well as the dark tunnels of Brickenhall and the bright towers of Fairhold.
+
 ### Characters
 
 * **Empress Corrine ir'Wyrnarn**. 
 * **Castellan Adele Fulirno**. It falls to Castellen Adele Fulirno to interview and vet those who have business for the empress or any of the senior ministers. Fulirno works closely with the empress and has a strong, but not infallible sense of her priorities.
+* **Lord Governor Aurad ir'Wynarn**. The daily head of the city, cousin to the former queen, and the head of the city's bureaucracy. From his residence in Nealford he takes care of the day-to-day activities of the city, oversees taxation and civic works, and oversees the Fairhaven Watch in their duties.
 * **Lord Adal**. First Warlord of the Realm and Minister of Magic, as well as the former Queen's brother.
 * **Lord Darro**. Second Warlord.
 * **Thuel Racannoch**. Spymaster and leader of the Royal Eyes of Aundair.
@@ -39,6 +46,19 @@ Fairhaven is the capital city of Aundair. It is the largest city in the nation a
 
 ### Locations
 
+* **Besalle's Ward**. Once the home of the enormous marketplace of Besalle, the market was torched by saboteurs during the Last War. Though the market is gone, the ward retains the name and the business districts are even larger than they were at the start of the conflict. It stands to the east of the Chalice Center, against the northern wall.
+* **Chequers Ward**. Dominated by bankers and clerks, this ward is also the location of the Distant Exchange. Unlike the clerks of Besalle’s Ward, these businesses cater to the aristocrats of the other central neighborhoods.
+* **Eastway Ward**. The heavily-trafficked boulevard heading northeast out of the city through the Eastway Ward is still an important trade route and the neighborhoods around it include many of the warehouse districts and trade houses of the city. The residential areas of the ward have many foreigner neighborhoods, but are not entirely free of the criminal element from nearby Marble Halls.
+* **Five Domes**. This ward, immediately to the west of the Knowledge Ward, is named after the five large, domed structure which dominate its streets. All of these buildings are cultural centers which contribute to the cosmopolitan feel of the ward. Five Domes is renowned as a center for the arts and also for dissident groups from both the university and the Grangehall Ward.
+* **Grangehall Ward**. Almost an extension of the farm fields which surround the walls, the Grangehall Ward is attached to the southwest corner of the city. The ideological counterpart to Nealford Ward, this is the home to many shifters, half-orcs, and even a few notable druids.
+* **Knowledge Ward**. This southern centered around the University of Wynarn is the seat of academia in Fairhaven. The surrounding neighborhoods cater to students and to the arcane elite who work in and around the university. Specialty shops which provide high-end services can also be found here.
+* **Marble Halls**. This ward was once a business district but is now a collection of working-class neighborhoods. Not every area of the ward is dangerous, but most citizens of Fairhaven view the entire ward as a collection of seedy neighborhoods and criminal dens. 
+* **Nealford Ward**. The most wealthy and fashionable districts of Fairhaven can be found in the Nealford Ward, many of them walled apart from the rest of the city. A rivalry exists between wealthy neighborhoods here and in the Sovereign Ward.
+* **Pine Hill**. The highest part of the city, aside from Fairhold, is Pine Hill which rears itself up against the north wall to the east of the main boulevard. The area is a popular tavern spot among middle-class citizens of Besalle’s Ward and the Eastway Ward.
+* **Rordan's Gate**. This ward is found against the west wall of the city surrounding the lightning rail station and the Chalice Center. It is named after a long-dead heir to the Galifar throne who renovated the then-aging business district and petitioned House Orien for one of the first lightning rails in western Khorvaire.
+* **Sovereign Ward**. The Sovereign Ward is named for the impressive cathedrals found along its main avenues. It is also a fairly affluent ward and is home to many of the city’s aristocracy, as well as the most common destination for visitors.
+* **Whiteroof Ward**. Long a district of laborers and warehouses, this ward is none-the-less clean and friendly. Despite its lower-class population, the Whiteroof Ward has the atmosphere of a business district.
+* **Brickenhall**. Many adventurers are disappointed by their first foray into Brickenhall. Some are from Sharn, or at least have heard enough stories, and are expecting something like Undersharn. The vaulted cavern and buried ruins under the City of Towers are like an entire city in themselves. The sprawling tunnels of Brickenhall, however, are more modern structures that were built as part of Fairhaven as it grew from a human colony to a Galifarn metropolis. Centuries of sewers and abandoned basements hardly make an impressive space but one would be foolish to ignore Brickenhall’s influence on the city. Like many things in Aundair, its calm exterior holds many secrets.
 * **Royal Court of Fairhold**. Sometimes called "the City within the City," Fairhold is an impressive estate comprising dozens of large towers and buildings, any of which would be breathtakingly beautiful on it's own. Taken together, the palace is a shining centerpiece around which the rest of the city's bustling livelihood seems to orbit like the constellations around the polestar.
 	* **Courts of Justice**. The military court of Aundair has been busy ever since the Last War ended, trying war criminals and deserters for their actions during the war. This is the only semi-public part of Fairhold (though visitors are thoroughly screened, of course) and it tends to encompass the popular image of Fairhold as a result. Wide chambers, powerful columns, throngs of nobles… All of it contributes to what the average citizen of Fairhaven pictures when they think of the royal residence. In truth, the Courts are built much more for the landed nobles who have special seats for every trial than for any member of the royal household. The exception, of course, is Lord Adal, First Warlord of the Realm and Minister of Magic. He and the Second Warlord, Lord Darro, are common sights around the Courts of Justice and both of them have allies among the military garrison in the Courts. The split between the three members of the Aundairian Triumvirate is always threatening to cause trouble for the crown but there's always a chance of it.
 	* **Crown's Hall**. The audience chamber of Queen Aurala is as impressive as one might imagine. The massive Dragonhawk Throne is really a stylized sculpture in silver of a dragonhawk with its wings outstretched and curving around the monarch in their midst. The sapphire eyes of the dragonhawk glare out from over the head of Queen Aurala to stare down any coming before her. In contrast, the rest of the room is designed to be more magical and enchanting than imposing. Visitors reach the room by a series of confusing hallways such that when they reach Crown's Hall they are usually surprised by the sudden, bright expanse. A domed skylight overhead provides beams of sunlight (really an enchantment as the audience chamber is in the center of Fairhold) and the columns around are decorated with banners of Aundairian blue and silver. The combination of royal power and charm, as well as the clever queen herself, has undone many foreign emissaries.
@@ -49,5 +69,5 @@ Fairhaven is the capital city of Aundair. It is the largest city in the nation a
 
 ### References
 
-- http://mephitjames.wikidot.com/fairhold
+- http://mephitjames.wikidot.com/fairhaven
 - https://terra-mortem.fandom.com/wiki/Fairhold
