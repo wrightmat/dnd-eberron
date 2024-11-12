@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-11. Investigating the Dragons"
+              "title": "2-12. The Final Battle"
             }
           }
         ],
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-11. Investigating the Dragons"
+              "title": "Outline of 2-12. The Final Battle"
             }
           },
           {
@@ -208,42 +208,12 @@
               "icon": "links-going-out",
               "title": "Outgoing links from 2-11. Investigating the Dragons"
             }
-          },
-          {
-            "id": "1f84cb29a51033b8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "32106d86d7adf86f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37baafd7fa7d0482",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 419.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,10 +233,11 @@
   },
   "active": "b7e22a1e954dbf23",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
+    "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
     "sessions/2024-11-07.md",
     "dnd-eberron/sessions/2024-11-07.md",
     "locations/Fairhaven.md",
-    "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
     "characters/Verity.md",
     "characters/Thana Winslow.md",
     "characters/Aither Calobra Lightwood.md",
@@ -288,7 +259,6 @@
     "dnd-eberron/players/Kerrie Heath.md",
     "dnd-eberron/players/Sara Edwards.md",
     "dnd-eberron/players/Jolene Harper.md",
-    "dnd-eberron/players/Claire Elrod.md",
     "dnd-eberron/players",
     "dnd-eberron/other",
     "dnd-eberron/locations",
