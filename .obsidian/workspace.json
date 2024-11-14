@@ -208,6 +208,19 @@
               "icon": "links-going-out",
               "title": "Outgoing links from 2-11. Investigating the Dragons"
             }
+          },
+          {
+            "id": "4ee3e9b6fd89a54d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ]
       }
