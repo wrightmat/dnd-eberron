@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/Celeste Noir.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Celeste Noir"
+              "title": "Outline of 2-11. Investigating the Dragons"
             }
           },
           {
@@ -276,10 +276,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1e733f85c085bc31",
+  "active": "b7e22a1e954dbf23",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
     "other/Celeste Noir.md",
+    "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
     "locations/Throneport.md",
     "canvas_maps/Thronehold.canvas",
     "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
