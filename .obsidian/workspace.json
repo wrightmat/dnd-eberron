@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-11-14.md",
+                "file": "sessions/2024-11-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-14"
+              "title": "2024-11-21"
             }
           },
           {
@@ -60,7 +60,7 @@
               "type": "markdown",
               "state": {
                 "file": "other/Draconic Factions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/Draconic Factions.md"
+                "file": "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Draconic Factions"
+              "title": "Outline of 2-12. The Final Battle"
             }
           },
           {
@@ -277,13 +277,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bb7729d3c0eef738",
+  "active": "b7e22a1e954dbf23",
   "lastOpenFiles": [
-    "other/Hezcalipa’s Heart.md",
-    "sessions/2024-11-14.md",
-    "DM Screen.md",
     "other/Draconic Factions.md",
     "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
+    "_ref/Factions.md",
+    "sessions/2024-11-21.md",
+    "sessions/2024-11-14.md",
+    "sessions/2024-11-07.md",
+    "sessions/2024-10-24.md",
+    "sessions/2024-10-17.md",
+    "sessions/2024-10-03.md",
+    "sessions/2024-09-12.md",
+    "other/Hezcalipa’s Heart.md",
+    "DM Screen.md",
     "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
     "_srd/items/Potion of Healing.md",
     "locations/Fairhaven.md",
@@ -291,7 +298,6 @@
     "Greenheart.md",
     "locations/Arcanix.md",
     "dnd-eberron/adventures/C03. Riddles of the Third Age/2-04. Echoes of the Celestial Realm.md",
-    "sessions/2024-11-07.md",
     "_ref/Modular Magic Items (Vestiges).md",
     "other/Moonblade (Vestige).md",
     "other/Celeste Noir.md",
@@ -300,12 +306,6 @@
     "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
     "dnd-eberron/sessions/2024-11-07.md",
     "characters/Verity.md",
-    "characters/Thana Winslow.md",
-    "characters/Aither Calobra Lightwood.md",
-    "_ref/Magic.md",
-    "adventures/C04. The Nature of Magic.md",
-    "dnd-eberron/adventures/C04. The Nature of Magic/2-11. Psionics.md",
-    "characters/Corrine ir'Wyrnarn.md",
     "dnd-eberron/players",
     "dnd-eberron/other",
     "dnd-eberron/locations",

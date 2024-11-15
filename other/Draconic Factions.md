@@ -67,10 +67,12 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Cunning**: 2
 - **Force**: 2 (1)
 - **Magic**: 0
-- **Wealth**: 4
+- **Wealth**: 4 (3)
 - **Assets**:
 	- 
-- **Morale**: +7
+- **Setbacks**:
+	- Players took back Hezcalipa's Heart (-2)
+- **Morale**: +6
 - **Goal**: Take over both the Church of the Silver Flame and Thronehold, in order to get an ancient couatl artifact (hidden under Thronehold and protected by the Church, known as "Hezcalipa's Heart") that will help release Khyber.
 - **Objectives**:
 	 - [x]  Onme Donverou, a childhood friend of Spindelaryx, is appointed as Keeper of the Flame.
@@ -111,7 +113,11 @@ The tracts below are listed in the general order that the PCs are expected to en
 	- Zolanberg Council of Nine
 	- Trolanport Council of Nine
 	- Korranberg Council of Nine
-- **Morale**: +13
+- **Setbacks**:
+	- Players prevented Rannik from being voted onto the Triumvirate (-2)
+	- Players poisoned and killed Vashel and convinced Nimira to leave the Brass Bards (-2)
+	- Players set their boat full of charmed instruments on fire (-1)
+- **Morale**: +8
 - **Goal**: Establish a spy network to get information back to Argonnessen, destroying The Trust in the process. "Information is power".
 - **Objectives**:
 	 - [x]  A traveling comedy troupe of brass dragonborn, known as the Brass Bards, begins to perform at any Copper Dragon Inns that exist in Khorvaire.
@@ -134,7 +140,9 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Assets**:
 	- 30 people from an island of Lhazaar taken by the Infernal Engine
 	- 125 people from Valendar taken by the Infernal Engine
-- **Morale**: +11
+- **Setbacks**:
+	- Players set the Mosaic Commission on the blue dragons, halting any further advancement (-2)
+- **Morale**: +9
 - **Goal**: To sow chaos, as a necessary precursor to the rise of draconic supremacy (mechanically this will probably involve adding to particular rolls/checks based on how many of these are checked off).
 - **Objectives**:
 	 - [x]  The Order of the Sapphire Scale, a group of random people of all races (mostly humans and changelings), begin their efforts in Lhazaar. The Infernal Enginer appears during a play at the Grand Thuranni Theater and takes several people.
@@ -151,11 +159,11 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Cunning**: 2 (1)
 - **Force**: 4
 - **Magic**: 1
-- **Wealth**: 1
+- **Wealth**: 2 (1)
 - **Assets**:
 	- 
 - **Setbacks**:
-	- Gharzaak, the leader of the Order of the Onyx Scale was killed by Verity (-1)
+	- Gharzaak, the leader of the Order of the Onyx Scale was killed by Verity (-2)
 - **Morale**: +7
 - **Goal**: To descend into the depths of Khyber in order to gain access to Tiamat herself directly.
 - **Objectives**:
@@ -163,8 +171,8 @@ The tracts below are listed in the general order that the PCs are expected to en
 	 - [x]  Dragon Orcs find their way to the upper levels of Khyber and begin exploring. +1 to Wealth.
 	 - [x]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Droaam.
 	 - [x]  Order of the Onyx Scale travels south via the Khyber tunnels. Dragon Orcs become a common sight in the depths of Sharn (Khyber's Gate). +1 to Cunning.
-	 - [ ]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Darguun.
-	 - [ ]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Q'barra. +1 to Wealth.
+	 - [x]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Darguun.
+	 - [x]  Order of the Onyx Scale travels east via the Khyber tunnels. Dragon Orcs become a common sight in Q'barra. +1 to Wealth.
 	 - [ ]  Order of the Onyx Scale travels south via the Khyber tunnels. Dragon Orcs become a common sight in Aerenal.
 	 - [ ]  Order of the Onyx Scale continues traveling south via the Khyber tunnels, reaching the tunnels in Argonnessen. +1 to Cunning.
 	 - [ ]  Dragon Orcs tunnel deeper under Argonnessen, eventually discovering Tiamat's prison, completing their goal. Add "Access to Tiamat's Prison" as an Asset.
@@ -217,8 +225,9 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Wealth**: 2
 - **Assets**:
 	- Aundair
-	- 
-- **Morale**: +9
+- **Setbacks**:
+	- Players initiated a smear campaign (led by Windsor) at Arcanix to try and discredit Corrine - which led directly to her not being selected as headmistress (-2).
+- **Morale**: +7
 - **Goal**: "Project Emerald": to create a vast land (covering Aundair, Thrane, and the Eldeen Reaches) under Corrine’s rule where nature — and the dragonkind’s influence — are paramount.
 - **Objectives**:
 	 - [x]  Corrine ascends to the throne of Aundair at Fairhold, declaring herself as Empress. Add Aundair as Asset.
@@ -246,7 +255,6 @@ The tracts below are listed in the general order that the PCs are expected to en
 	 - [ ]  Secretly ally with the Demesnes of Music in Flamekeep. +1 to Wealth.
 	 - [ ]  Secretly ally with the Demesnes of Shape in Thaliost. +1 to Wealth.
 	 - [ ]  Secretly ally with the Demesnes of Shadow in Sharn. +1 to Wealth.
-	 - [ ]  
 
 ### DM Notes and Random Tables
 
