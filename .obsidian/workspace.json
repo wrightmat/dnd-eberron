@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2024-11-14.md"
+                "file": "other/Draconic Factions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-14"
+              "title": "Outline of Draconic Factions"
             }
           },
           {
@@ -277,10 +277,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bc616ff57339f5d0",
+  "active": "bb7729d3c0eef738",
   "lastOpenFiles": [
-    "DM Screen.md",
+    "other/Hezcalipa’s Heart.md",
     "sessions/2024-11-14.md",
+    "DM Screen.md",
     "other/Draconic Factions.md",
     "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
     "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
@@ -293,7 +294,6 @@
     "sessions/2024-11-07.md",
     "_ref/Modular Magic Items (Vestiges).md",
     "other/Moonblade (Vestige).md",
-    "other/Hezcalipa’s Heart.md",
     "other/Celeste Noir.md",
     "locations/Throneport.md",
     "canvas_maps/Thronehold.canvas",
