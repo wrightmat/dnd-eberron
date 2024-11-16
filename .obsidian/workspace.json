@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Arstyvrax.md",
-                "mode": "preview",
+                "file": "creatures/Topaz Dragon Wyrmling.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arstyvrax"
+              "title": "Topaz Dragon Wyrmling"
             }
           }
         ],
@@ -293,9 +293,11 @@
   },
   "active": "b7e22a1e954dbf23",
   "lastOpenFiles": [
-    "other/Draconic Factions.md",
+    "creatures/Topaz Dragon Wyrmling.md",
+    "creatures/Young Topaz Dragon.md",
     "characters/Arstyvrax.md",
     "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
+    "other/Draconic Factions.md",
     "_ref/Factions.md",
     "sessions/2024-11-21.md",
     "sessions/2024-11-14.md",
@@ -318,8 +320,6 @@
     "other/Celeste Noir.md",
     "locations/Throneport.md",
     "canvas_maps/Thronehold.canvas",
-    "adventures/C03. Riddles of the Third Age/2-10. Traversing Argonnessen.md",
-    "dnd-eberron/sessions/2024-11-07.md",
     "dnd-eberron/players",
     "dnd-eberron/other",
     "dnd-eberron/locations",
