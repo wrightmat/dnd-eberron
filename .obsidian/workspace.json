@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-11-21.md",
+                "file": "sessions/2024-12-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-21"
+              "title": "2024-12-05"
             }
           },
           {
@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-00. Session One Intros.md",
+                "file": "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-00. Session One Intros"
+              "title": "2-12. The Final Battle"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mosaic",
+                "query": "tanila",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -265,8 +265,12 @@
   },
   "active": "997c0103c1cde4bf",
   "lastOpenFiles": [
-    "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
+    "dnd-eberron/locations/Arcanix.md",
+    "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
+    "sessions/2024-12-05.md",
+    "sessions/2024-11-21.md",
     "adventures/C04. The Nature of Magic/1-00. Session One Intros.md",
+    "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
     "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
     "adventures/C04. The Nature of Magic/2-14. Hemomancy (Finale).md",
     "adventures/C04. The Nature of Magic/2-15. Strixhaven Epilogue.md",
@@ -287,10 +291,6 @@
     "adventures/C04. The Nature of Magic/1-04. Strixhaven Year 2, Term 2.md",
     "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
     "adventures/C04. The Nature of Magic/1-02. Strixhaven Year 1, Term 2.md",
-    "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
-    "sessions/2024-11-21.md",
-    "sessions/2024-12-05.md",
-    "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
     "canvas_maps/Thronehold.canvas",
     "dnd-eberron/players",
     "dnd-eberron/other",
