@@ -54,15 +54,17 @@
             }
           },
           {
-            "id": "69cde46e0469fae1",
+            "id": "4da5af0b53ee6d8f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "other/Draconic Factions.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Draconic Factions"
             }
           }
         ],
@@ -275,10 +277,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "69cde46e0469fae1",
+  "active": "4da5af0b53ee6d8f",
   "lastOpenFiles": [
-    "dnd-eberron/locations/Arcanix.md",
     "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
+    "other/Draconic Factions.md",
+    "dnd-eberron/locations/Arcanix.md",
     "sessions/2024-12-05.md",
     "sessions/2024-11-21.md",
     "adventures/C04. The Nature of Magic/1-00. Session One Intros.md",
@@ -302,7 +305,6 @@
     "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
     "adventures/C04. The Nature of Magic/1-04. Strixhaven Year 2, Term 2.md",
     "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
-    "adventures/C04. The Nature of Magic/1-02. Strixhaven Year 1, Term 2.md",
     "canvas_maps/Thronehold.canvas",
     "dnd-eberron/players",
     "dnd-eberron/other",

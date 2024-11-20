@@ -246,7 +246,9 @@ The tracts below are listed in the general order that the PCs are expected to en
 - **Assets**:
 	- Shae Mordai souls
 	- Adar souls (Unity Day)
-- **Morale**: +8
+- **Setbacks**:
+	- Arstyvrax's soulshard destroyed by the Mosaic Commission
+- **Morale**: +7
 - **Goal**: Release Khyber
 - **Objectives**:
 	 - [x]  Ally with House Phiarlan to maintain a presence of spies in Khorvaire. The Five Demesnes are located at Fairhaven in Aundair (Memory), Wroat in Breland (Motion), Flamekeep in Thrane (Music), Thaliost in Thrane (Shape), and Sharn in Breland (Shadow).
