@@ -52,9 +52,21 @@
               "icon": "lucide-file",
               "title": "2-12. The Final Battle"
             }
+          },
+          {
+            "id": "69cde46e0469fae1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,7 +275,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "997c0103c1cde4bf",
+  "active": "69cde46e0469fae1",
   "lastOpenFiles": [
     "dnd-eberron/locations/Arcanix.md",
     "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
