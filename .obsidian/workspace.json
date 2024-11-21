@@ -59,16 +59,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-12-05.md",
+                "file": "sessions/2024-11-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-05"
+              "title": "2024-11-21"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 37.41319444444444,
+        "dimension": 33.59375,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -243,7 +243,7 @@
       {
         "id": "1d95604b14ef0f70",
         "type": "tabs",
-        "dimension": 62.58680555555556,
+        "dimension": 66.40625,
         "children": [
           {
             "id": "9b8f86537af1c416",
@@ -277,13 +277,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4da5af0b53ee6d8f",
+  "active": "b7e22a1e954dbf23",
   "lastOpenFiles": [
-    "sessions/2024-11-14.md",
     "sessions/2024-11-21.md",
-    "sessions/2024-12-05.md",
-    "other/Draconic Factions.md",
+    "adventures/C05. The Heart of Khyber/1-06. Khyber Shadow Demiplanes.md",
+    "adventures/C05. The Heart of Khyber/1-06. Return to Tzocar's Lair.md",
+    "adventures/C05. The Heart of Khyber/1-05. Khyber Prison Demiplanes.md",
+    "adventures/C05. The Heart of Khyber/1-03. Depths of Khyber.md",
+    "adventures/C05. The Heart of Khyber/1-04. Khyber Heart Demiplanes.md",
     "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
+    "adventures/C05. The Heart of Khyber/1-02. The Archive.md",
+    "sessions/2024-12-05.md",
+    "sessions/2024-11-14.md",
+    "other/Draconic Factions.md",
     "dnd-eberron/locations/Arcanix.md",
     "adventures/C04. The Nature of Magic/1-00. Session One Intros.md",
     "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
@@ -299,12 +305,6 @@
     "adventures/C04. The Nature of Magic/2-07. Enchantment.md",
     "adventures/C04. The Nature of Magic/2-05. Evocation.md",
     "adventures/C04. The Nature of Magic/2-04. Abjuration.md",
-    "adventures/C04. The Nature of Magic/2-03. Illusion.md",
-    "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
-    "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
-    "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
-    "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
-    "adventures/C04. The Nature of Magic/1-04. Strixhaven Year 2, Term 2.md",
     "canvas_maps/Thronehold.canvas",
     "dnd-eberron/players",
     "dnd-eberron/other",
