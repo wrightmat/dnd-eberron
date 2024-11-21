@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other/Draconic Factions.md",
-                "mode": "preview",
+                "file": "sessions/2024-12-05.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draconic Factions"
+              "title": "2024-12-05"
             }
           }
         ],
@@ -124,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 293.5
   },
   "right": {
     "id": "c37e5cd9d654d368",
@@ -279,11 +279,12 @@
   },
   "active": "4da5af0b53ee6d8f",
   "lastOpenFiles": [
-    "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
-    "other/Draconic Factions.md",
-    "dnd-eberron/locations/Arcanix.md",
-    "sessions/2024-12-05.md",
+    "sessions/2024-11-14.md",
     "sessions/2024-11-21.md",
+    "sessions/2024-12-05.md",
+    "other/Draconic Factions.md",
+    "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
+    "dnd-eberron/locations/Arcanix.md",
     "adventures/C04. The Nature of Magic/1-00. Session One Intros.md",
     "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
     "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
@@ -304,7 +305,6 @@
     "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
     "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
     "adventures/C04. The Nature of Magic/1-04. Strixhaven Year 2, Term 2.md",
-    "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
     "canvas_maps/Thronehold.canvas",
     "dnd-eberron/players",
     "dnd-eberron/other",
