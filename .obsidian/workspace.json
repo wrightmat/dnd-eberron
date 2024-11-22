@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2024-11-21.md",
+                "file": "adventures/C03. Riddles of the Third Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-21"
+              "title": "C03. Riddles of the Third Age"
             }
           }
         ],
@@ -265,9 +265,11 @@
   },
   "active": "4da5af0b53ee6d8f",
   "lastOpenFiles": [
+    "adventures/C02. Curse of Strahd (Abridged).md",
+    "adventures/C01. What Dreams May Come.md",
+    "sessions/2024-11-21.md",
     "DM Screen.md",
     "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
-    "sessions/2024-11-21.md",
     "other/Draconic Factions.md",
     "sessions/2024-12-05.md",
     "sessions/2024-11-14.md",
@@ -289,8 +291,6 @@
     "adventures/C04. The Nature of Magic/2-10. Artifice.md",
     "adventures/C04. The Nature of Magic/2-08. Divination.md",
     "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
-    "adventures/C04. The Nature of Magic/2-07. Enchantment.md",
-    "adventures/C04. The Nature of Magic/2-05. Evocation.md",
     "canvas_maps/Thronehold.canvas",
     "dnd-eberron/players",
     "dnd-eberron/other",
