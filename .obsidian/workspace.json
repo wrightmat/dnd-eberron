@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,19 +273,18 @@
       "obsidian-kanban:Create new board": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b7e22a1e954dbf23",
+  "active": "4da5af0b53ee6d8f",
   "lastOpenFiles": [
+    "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
     "sessions/2024-11-21.md",
     "adventures/C05. The Heart of Khyber/1-06. Khyber Shadow Demiplanes.md",
     "adventures/C05. The Heart of Khyber/1-06. Return to Tzocar's Lair.md",
     "adventures/C05. The Heart of Khyber/1-05. Khyber Prison Demiplanes.md",
     "adventures/C05. The Heart of Khyber/1-03. Depths of Khyber.md",
     "adventures/C05. The Heart of Khyber/1-04. Khyber Heart Demiplanes.md",
-    "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
     "adventures/C05. The Heart of Khyber/1-02. The Archive.md",
     "sessions/2024-12-05.md",
     "sessions/2024-11-14.md",
