@@ -119,7 +119,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 33.59375,
+        "dimension": 43.40277777777778,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -127,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md"
+                "file": "adventures/C03. Riddles of the Third Age.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-12. The Final Battle"
+              "title": "Outline of C03. Riddles of the Third Age"
             }
           },
           {
@@ -223,13 +223,12 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "1d95604b14ef0f70",
         "type": "tabs",
-        "dimension": 66.40625,
+        "dimension": 56.59722222222222,
         "children": [
           {
             "id": "9b8f86537af1c416",
@@ -265,6 +264,8 @@
   },
   "active": "4da5af0b53ee6d8f",
   "lastOpenFiles": [
+    "_ref/Magic.md",
+    "adventures/C03. Riddles of the Third Age.md",
     "adventures/C02. Curse of Strahd (Abridged).md",
     "adventures/C01. What Dreams May Come.md",
     "sessions/2024-11-21.md",
@@ -289,8 +290,6 @@
     "adventures/C04. The Nature of Magic/2-11. Psionics.md",
     "adventures/C04. The Nature of Magic/2-09. Conjuration.md",
     "adventures/C04. The Nature of Magic/2-10. Artifice.md",
-    "adventures/C04. The Nature of Magic/2-08. Divination.md",
-    "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
     "canvas_maps/Thronehold.canvas",
     "dnd-eberron/players",
     "dnd-eberron/other",
