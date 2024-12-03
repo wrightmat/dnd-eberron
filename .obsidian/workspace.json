@@ -133,7 +133,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 46.35416666666667,
+        "dimension": 46.354166666666664,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -242,7 +242,7 @@
       {
         "id": "1d95604b14ef0f70",
         "type": "tabs",
-        "dimension": 53.645833333333336,
+        "dimension": 53.64583333333333,
         "children": [
           {
             "id": "9b8f86537af1c416",
@@ -272,8 +272,7 @@
       "obsidian-kanban:Create new board": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "8a096da3eafd0cd4",
