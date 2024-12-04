@@ -68,17 +68,17 @@
             }
           },
           {
-            "id": "11b74be6460a96bb",
+            "id": "cfff4208c6b7a073",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
+                "file": "adventures/C04. The Nature of Magic/2-15. Strixhaven Epilogue.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-07. Strixhaven Year Four"
+              "title": "2-15. Strixhaven Epilogue"
             }
           }
         ],
@@ -292,11 +292,22 @@
   },
   "active": "8a096da3eafd0cd4",
   "lastOpenFiles": [
-    "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
+    "adventures/C04. The Nature of Magic/2-15. Strixhaven Epilogue.md",
     "adventures/C04. The Nature of Magic.md",
+    "_ref/Magic.md",
     "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
-    "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
+    "adventures/C04. The Nature of Magic/2-11. Psionics.md",
+    "adventures/C04. The Nature of Magic/2-10. Artifice.md",
+    "adventures/C04. The Nature of Magic/2-08. Divination.md",
+    "adventures/C04. The Nature of Magic/2-07. Enchantment.md",
+    "adventures/C04. The Nature of Magic/2-06. Necromancy.md",
+    "adventures/C04. The Nature of Magic/2-05. Evocation.md",
+    "adventures/C04. The Nature of Magic/2-04. Abjuration.md",
+    "adventures/C04. The Nature of Magic/2-03. Illusion.md",
+    "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
     "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
+    "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
+    "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
     "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
     "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
     "adventures/C04. The Nature of Magic/1-04. Strixhaven Year 2, Term 2.md",
@@ -307,17 +318,6 @@
     "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
     "characters/Arstyvrax.md",
     "characters/Mother Void.md",
-    "adventures/C03. Riddles of the Third Age.md",
-    "_ref/Magic.md",
-    "adventures/C02. Curse of Strahd (Abridged).md",
-    "adventures/C01. What Dreams May Come.md",
-    "sessions/2024-11-21.md",
-    "DM Screen.md",
-    "other/Draconic Factions.md",
-    "sessions/2024-12-05.md",
-    "sessions/2024-11-14.md",
-    "adventures/C05. The Heart of Khyber/1-06. Khyber Shadow Demiplanes.md",
-    "adventures/C05. The Heart of Khyber/1-06. Return to Tzocar's Lair.md",
     "canvas_maps/Thronehold.canvas",
     "dnd-eberron/players",
     "dnd-eberron/other",
