@@ -52,37 +52,9 @@
               "icon": "lucide-file",
               "title": "Arstyvrax"
             }
-          },
-          {
-            "id": "8a096da3eafd0cd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C04. The Nature of Magic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C04. The Nature of Magic"
-            }
-          },
-          {
-            "id": "cfff4208c6b7a073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C04. The Nature of Magic/2-15. Strixhaven Epilogue.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2-15. Strixhaven Epilogue"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04. The Nature of Magic.md"
+                "file": "characters/Arstyvrax.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of C04. The Nature of Magic"
+              "title": "Outline of Arstyvrax"
             }
           },
           {
@@ -256,7 +228,7 @@
       {
         "id": "1d95604b14ef0f70",
         "type": "tabs",
-        "dimension": 53.64583333333333,
+        "dimension": 53.645833333333336,
         "children": [
           {
             "id": "9b8f86537af1c416",
@@ -286,14 +258,21 @@
       "obsidian-kanban:Create new board": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8a096da3eafd0cd4",
+  "active": "4da5af0b53ee6d8f",
   "lastOpenFiles": [
-    "adventures/C04. The Nature of Magic/2-15. Strixhaven Epilogue.md",
     "adventures/C04. The Nature of Magic.md",
+    "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
+    "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
+    "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
+    "adventures/C04. The Nature of Magic/1-04. Strixhaven Year 2, Term 2.md",
+    "adventures/C04. The Nature of Magic/1-02. Strixhaven Year 1, Term 2.md",
+    "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
+    "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
+    "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
+    "adventures/C04. The Nature of Magic/2-15. Strixhaven Epilogue.md",
     "_ref/Magic.md",
     "adventures/C04. The Nature of Magic/2-12. Entropomancy.md",
     "adventures/C04. The Nature of Magic/2-11. Psionics.md",
@@ -305,16 +284,8 @@
     "adventures/C04. The Nature of Magic/2-04. Abjuration.md",
     "adventures/C04. The Nature of Magic/2-03. Illusion.md",
     "adventures/C04. The Nature of Magic/2-02. Transmutation.md",
-    "adventures/C04. The Nature of Magic/2-01. Khorvaire Opening.md",
-    "adventures/C04. The Nature of Magic/1-07. Strixhaven Year Four.md",
     "adventures/C04. The Nature of Magic/2-13. Dunamancy.md",
-    "adventures/C04. The Nature of Magic/1-06. Strixhaven Year 3, Term 2.md",
-    "adventures/C04. The Nature of Magic/1-05. Strixhaven Year 3, Term 1.md",
-    "adventures/C04. The Nature of Magic/1-04. Strixhaven Year 2, Term 2.md",
-    "adventures/C04. The Nature of Magic/1-03. Strixhaven Year 2, Term 1.md",
-    "adventures/C04. The Nature of Magic/1-02. Strixhaven Year 1, Term 2.md",
     "adventures/C04. The Nature of Magic/1-00. Session One Intros.md",
-    "adventures/C04. The Nature of Magic/1-01. Strixhaven Year 1, Term 1.md",
     "adventures/C03. Riddles of the Third Age/2-12. The Final Battle.md",
     "characters/Arstyvrax.md",
     "characters/Mother Void.md",
