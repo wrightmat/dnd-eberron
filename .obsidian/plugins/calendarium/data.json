@@ -869,6 +869,9 @@
           "windUnits": "Imperial",
           "primaryWindDirection": "E"
         }
+      },
+      "locations": {
+        "locations": []
       }
     }
   ],
