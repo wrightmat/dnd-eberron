@@ -200,7 +200,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -222,7 +222,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -260,7 +260,7 @@
         "currentAC": 20,
         "path": "characters/Arstyvrax.md",
         "id": "ID_39bbd99be8a9",
-        "currentHP": 56,
+        "currentHP": 26,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -273,7 +273,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 14,
+    "round": 18,
     "logFile": "",
     "rollHP": false
   },
