@@ -119,7 +119,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 50.78125,
+        "dimension": 40.19097222222222,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -223,12 +223,13 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "1d95604b14ef0f70",
         "type": "tabs",
-        "dimension": 49.21875,
+        "dimension": 59.80902777777778,
         "children": [
           {
             "id": "9b8f86537af1c416",
@@ -262,7 +263,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b7e22a1e954dbf23",
+  "floating": {
+    "id": "685f8ebdd427e1f9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f152e0661f3a62b1",
+        "type": "window",
+        "children": [
+          {
+            "id": "7068f270b7b119c0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fa2eb79ddc08816f",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 686,
+        "y": 309,
+        "width": 1141,
+        "height": 517,
+        "maximize": false,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "de76a06521b063a6",
   "lastOpenFiles": [
     "sessions/2024-11-21.md",
     "sessions/2024-12-05.md",
