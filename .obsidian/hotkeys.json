@@ -23,5 +23,23 @@
       ],
       "key": "G"
     }
+  ],
+  "initiative-tracker:next-combatant": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "initiative-tracker:prev-combatant": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
   ]
 }
