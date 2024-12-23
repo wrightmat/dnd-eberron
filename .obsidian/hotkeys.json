@@ -41,5 +41,14 @@
       ],
       "key": "ArrowLeft"
     }
+  ],
+  "initiative-tracker:open-tracker": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
   ]
 }
