@@ -21,8 +21,8 @@
                 }
               },
               "pinned": true,
-              "icon": "lucide-trello",
-              "title": "DM Screen"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -158,8 +158,8 @@
                 },
                 "id": "ID_29aaf8780b09"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -178,8 +178,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -207,6 +207,26 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "1f377919347b225d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "c75ed302b7ec3fa8",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
