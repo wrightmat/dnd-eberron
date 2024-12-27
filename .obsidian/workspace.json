@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1d95604b14ef0f70",
@@ -245,11 +245,10 @@
       "obsidian-kanban:Create new board": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "348554a198d07f9c",
+  "active": "c3725aeb9bff6115",
   "lastOpenFiles": [
     "sessions/C03/2024-12-05.md",
     "other/Space Race.md",

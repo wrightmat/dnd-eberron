@@ -50,5 +50,14 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "initiative-tracker:toggle-encounter": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
   ]
 }
