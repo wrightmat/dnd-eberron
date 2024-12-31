@@ -3,6 +3,8 @@
 > You descend upon a vista that's largely arboreal, but there are beautiful valleys, glittering lakes, and a vast mountain in addition to forests that stretch as far as the eye can see. It’s always night here, and a pale blue moon hanging in the sky radiates bright light, always seeming to hang just above you.
 > A large tower occupies the center of the moon, built into the trunks of four vast trees, each one reflecting the influence of a particular season. The central tower is encircled by numerous spires, each of which having a vastly different appearance. The whole area is covered in a light dusting of snow that glitters on the ground, and beasts who are sleek and graceful, and have unusual colors and patterns, are grazing on the grass beneath.
 
+### Background and Hook(s)
+
 When the party first lands, they're approached by an Autumn Eladrin named Pax, who has a voice like honey in warm tea. The party might remember them from Bystan’s stories, and they ask the party for help in a situation that has arisen at the Moonlit Vale.
 
  * In the distance, as they speak, the party sees a hooded figure with a large book chained to him - Destiny. If Pax is asked about him, they can give his name and suggest the party leave him to his machinations. Even though Astra can't see his face, they feel like they're being stared down by him.
@@ -13,6 +15,10 @@ When the party first lands, they're approached by an Autumn Eladrin named Pax, w
 Archfey are each telling stories (over and over again), with them fulfilling the archetype. For example, the Lady in Shadow is the old witch in the woods. “In stories the Queen of Dusk will provide boons to heroes, but they always have a terrible price.” This is much like the poisoned apple story from Sleeping Beauty. Another archfey may be the Prince Charming character, who’s jumping from story to story playing a similar character (basically a rake, or maybe something more sinister like an abuser).
 
 This is the domain of Destiny, the bearer of the Book of Destiny, who directs all of the stories that happen here to their required outcome. If a story goes off the rails, Destiny simply appears and resets the story. If anyone were to anger Destiny, they might find their stories reset randomly just for fun.
+
+### Characters and Locations
+
+- 
 
 ### The Moonlit Vale
 

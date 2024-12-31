@@ -12,13 +12,9 @@ Onme dreams while sleeping:
 - The girl in the throne is Jaela Daran, the current Keeper of the Flame (DC 15 History).
 - The Shadow in the Flame (Bel Shalor), is an Overlord of corruption and shadows (DC 20 Arcana).
 
-The Church of the Silver Flame has sent out word to all Paladins in Khorvaire that the Tarnished have recently become more organized under the leadership of someone known as the Tarnished Templar. The church is concerned about their numbers growing so quickly. By time the party gets to Flamekeep, the Templar has already attacked the Cathedral. Follow the rooms in the Cathedral of the Silver Flame location, down to the catacombs. From here, the party could use the hidden escape tunnel, or just backtrack out of the Cathedral and make their way to the area north of Flamekeep on Scions Sound where the Tarnished Templar is working on building a lightning rail track (just the underwater portion at this time).
-
-The Tarnished Templar is working as an avatar of Bel Shalor, the Shadow of the Flame, who is trying to create his own Crimson Flame (the antithesis of the Silver Flame) and free himself from his prison. In order to do this, many people will need to be sacrificed. This will be like a re-creation of the Year of Blood and Fire, 299 YK, where a pillar of crimson fire erupted on the shore of Scions Sound and dark and vile creatures crawled from the ground.
-
-She's gathering workers to connect the countries of Aundair/Thrane and Karrnath by building a new, hidden, lightning rail line below the water of Scions Sound to Tanar Rath (in place of the old White Arch Bridge). This may not be an easy task because The Aundairan, Thranish, and Karrnathi navies all patrol the area. Little do these workers know that they'll be sacrificed in bulk (to bring on the Crimson Flame) upon their completion of the job.
-
-[[1-04  Cathedral of the Silver Flame]]
+- The Church of the Silver Flame has sent out word to all Paladins in Khorvaire that the Tarnished have recently become more organized under the leadership of someone known as the Tarnished Templar. The church is concerned about their numbers growing so quickly. By time the party gets to Flamekeep, the Templar has already attacked the Cathedral. Follow the rooms in the Cathedral of the Silver Flame location, down to the catacombs. From here, the party could use the hidden escape tunnel, or just backtrack out of the Cathedral and make their way to the area north of Flamekeep on Scions Sound where the Tarnished Templar is working on building a lightning rail track (just the underwater portion at this time).
+- The Tarnished Templar is working as an avatar of Bel Shalor, the Shadow of the Flame, who is trying to create his own Crimson Flame (the antithesis of the Silver Flame) and free himself from his prison. In order to do this, many people will need to be sacrificed. This will be like a re-creation of the Year of Blood and Fire, 299 YK, where a pillar of crimson fire erupted on the shore of Scions Sound and dark and vile creatures crawled from the ground.
+- She's gathering workers to connect the countries of Aundair/Thrane and Karrnath by building a new, hidden, lightning rail line below the water of Scions Sound to Tanar Rath (in place of the old White Arch Bridge). This may not be an easy task because The Aundairan, Thranish, and Karrnathi navies all patrol the area. Little do these workers know that they'll be sacrificed in bulk (to bring on the Crimson Flame) upon their completion of the job.
 
 ### Characters and Locations
 
@@ -57,3 +53,6 @@ When the party reports back to Knight Commander Defender or Keeper Jaela, Onme i
 > Jaela places a circular Rondel, with the Silver Flame arrowhead emblem, made of beautiful Blue Bronze metal, on Onme’s breastplate - replacing a Rose Copper one that was there before.
 
 > “Knight Lieutenant, go forth and continue the good work of the Church, while enjoying your additional prestige. Your deeds will be remembered throughout Thrane, and especially Flamekeep, where you might find yourself recognized by shopkeepers and others who wish to repay your service. You will also have free room-and-board at any Temple of the Silver Flame across Khorvaire, to assist in your travels. Should you need anything further, never hesitate to return to Flamekeep.”
+
+[[1-04  Cathedral of the Silver Flame]]
+

@@ -2,6 +2,8 @@
 
 >Everything about this place is gray and gloomy. Even the brightest spot in the sky, a once orange-red moon, seems faded and dull. A heavy weight of ennui settles on you the moment you arrive, making even the simplest tasks feel challenging. And there’s a constant pull, tugging on memory and emotion, a desire to just sit down and let it all go.
 
+### Background and Hook(s)
+
 Dolurrh, also known as the Realm of the Dead (or the Sunless Lands, although usually only by Death herself), is the plane where the souls of most mortals go when they die, neither as a reward nor as a punishment, but simply a place.
 
 The players are dead, and have to navigate this plane as shades in order to retrieve their bodies. Any player who may have died on a previous adventure will be found here already as a shade. Otherwise, a Xag-yi follows them from the previous moon of Sypheros and attacks just before they arrive at Aryth (with a DC 18 Perception check revealing its presence earlier). The creature's Death Burst ability should be enough to take out the party (with any dead members appearing on the moon as a shade), but anyone who doesn’t die in the battle can land on the planet as their mortal selves.
@@ -20,6 +22,10 @@ Aryth is the domain of Death - a friendly character who approaches the PCs immed
 * Nalfeshnee: appear as large humanoids whose features are shrouded in gray mist, and they delight in crushing mortals and pulling the shades from their corpses.
 * Marut: a type of inevitable (intelligent construct) whose purpose is to enforce the inevitability of death.
 * Shadar-kai: look like withered, almost corpse-like elves, with wrinkled skin, swollen joints, pale hair, and skin of a deathly pallor.
+
+### Characters and Locations
+
+- 
 
 ### Finding the Ship
 

@@ -1,12 +1,9 @@
  #adventure [[Shardspace]] [[Serezka]] [[Vlaakith]]
 
-### Background
+### Background and Hook(s)
 
-Susurrus, the headquarters of Serezka’s sect known as The Whisperers, is located in the far side of Eberron from Tu’narath. Serezka and her followers only occupy the superficial areas of the ground floor of the palace, because they’re new occupants. The palace depths hides Vlaakith, the lich queen, and the palace becomes more and more dangerous (and the whispers heard more intense) as the party gets deeper into the expansive city.
-
-Killing Serezka will cause Vlaakith to come out of her hiding and re-take control of both Susurrus and the githyanki followers. This will result in a much more capable githyanki force that will likely pursue the characters more readily, not to mention a much more powerful leader to take on, should they choose. The idea of this adventure is that the party may be able to complete part of it, but will need to return over time in order to be powerful enough to progress and eventually get to Vlaakith (which would be a god-level encounter).
-
-### Hook(s)
+- Susurrus, the headquarters of Serezka’s sect known as The Whisperers, is located in the far side of Eberron from Tu’narath. Serezka and her followers only occupy the superficial areas of the ground floor of the palace, because they’re new occupants. The palace depths hides Vlaakith, the lich queen, and the palace becomes more and more dangerous (and the whispers heard more intense) as the party gets deeper into the expansive city.
+- Killing Serezka will cause Vlaakith to come out of her hiding and re-take control of both Susurrus and the githyanki followers. This will result in a much more capable githyanki force that will likely pursue the characters more readily, not to mention a much more powerful leader to take on, should they choose. The idea of this adventure is that the party may be able to complete part of it, but will need to return over time in order to be powerful enough to progress and eventually get to Vlaakith (which would be a god-level encounter).
 
 * The Palace may be found by random encounter anytime the party is traveling in Eberron's Wildspace.
 
@@ -16,6 +13,10 @@ Killing Serezka will cause Vlaakith to come out of her hiding and re-take contro
 * The ground floor is primarily held by Serezka. The party will first encounter her within the Throne Room she has claimed, but she will move deeper into the palace before they can truly challenge her. The party can move deeper into the palace via a secret door that Serezka exposes during her escape.
 * Difficulty of encounters in the palace will ramp up as the party moves deeper, culminating with an actual battle with Serezka in the center of the ground floor area. At this point the party learns that Serezka was only a pawn reporting to a much more powerful entity - a lich queen known as Vlaakith.
 * The party can choose to explore deeper into the palace, optionally going to a second floor, the depths of a cave-like environment, and a secret hatchery that's actually located on Eberron.
+
+### Characters and Locations
+
+- 
 
 ### Scene 1: Introduction
 

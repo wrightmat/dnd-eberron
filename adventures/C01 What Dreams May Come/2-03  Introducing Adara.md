@@ -1,4 +1,4 @@
- #adventure #completed [[Dragonroost]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 

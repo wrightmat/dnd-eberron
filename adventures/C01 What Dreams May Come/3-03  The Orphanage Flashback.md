@@ -1,8 +1,8 @@
- #adventure #completed [[Daskaran]]
+ #adventure #completed 
 
-### Background
+### Background and Hook(s)
 
-When Onme meets the Throne of Life, she tells her that she is the descendant of one of her former followers, who was banished to Eberron. This prompts Onme's memory and we flash back to when she was dropped off at the Orphanage in Daskaran, and then faced an exciting adventure where she helped save one of her fellow orphans.
+- When Onme meets the Throne of Life, she tells her that she is the descendant of one of her former followers, who was banished to Eberron. This prompts Onme's memory and we flash back to when she was dropped off at the Orphanage in Daskaran, and then faced an exciting adventure where she helped save one of her fellow orphans.
 
 ### Synopsis
 
@@ -11,7 +11,13 @@ When Onme meets the Throne of Life, she tells her that she is the descendant of 
 - When they get to the hideout, there is a Tiger guarding the cell that Onme's friend is being held in. When they open the cell and get near her, Onme's hands start glowing and the girl wakes up!
 - Finally we see the best friend being taken by the Church at age 16 to train as a Templar, which Onme eventually does as well.
 
-### Scene 1: The Beginning
+### Characters and Locations
+
+- [[Daskaran]]
+
+### Scenes and Situations
+
+#### The Beginning
 
 The flashback begins when Onme is dropped off at the orphanage. We can explore who it was (mother or grandmother) and any details such as appearance if the players would like. Describe Keeper Vatalya - an elderly human woman with grey hair and a persistent flat expression - who picks up Onme's carrier off the front step and carries her in to the orphanage. She places the baby into a crib, next to another crib holding a small dragon-like creature.
 
@@ -32,7 +38,7 @@ We flash forward another year, where several members of the Church of the Silver
 
 After setting up this background, we flash forward to when Onme was about 14, before the adventure starts. Onme is outside of the orphanage at the Statue of Tira Miron in the center of town - ask what she's doing while there, and then move on to the rest of the players to create their orphan characters.
 
-### Scene 2: The Orphanage
+#### The Orphanage
 
 Each of the players will create their own orphan character, who will be Onme's friends at the Orphanage. These characters could use whatever appearance they want, but players should use their regular character sheet with the following changes - take a -2 to any checks, cut HP in half, and remove any and all equipment. On this first day, give time for the characters to explore the orphanage or do whatever they'd like.
 
@@ -57,7 +63,7 @@ The only private bedroom in the Orphanage belongs to the Keeper, but it also not
 
 A DC 12 Investigation check of the room will reveal a book about the binding of Bel Shalor by Tira Miron, and a small replica of a sword (Kloinjer) on her bookcase.
 
-### Scene 2: The Hideout
+#### The Hideout
 
 The statue of Tira Miron in central Daskaran leads to the local hideout of the Tarnished. A deep red gem on the sword's (Kloinjer) pommel is a button that can be pressed to cause the statue to move and reveal the hideout. As they explore the hideout, it should be made clear that this is the Tarnished at work.
 
@@ -69,6 +75,8 @@ The kidnapped girl is passed out in the cell. When Onme approaches her, her hand
 
 They should be able to slip out without being detected, but if they decide to do crazy things then Keeper Vatayla will appear and bring them back to the Orphanage.
 
-### Conclusion
+#### Conclusion
 
 After Onme and her best friend re-unite, we flash forward again another year. Representatives from the Church have arrived yet again, but this time they're here to take the young Dragonborn. They will take her to Flamekeep regardless, but Onme can decide what she wants to do - possibly convince the Church members to take her as well, or to stick around the Orphanage (in which case she is taken by the church the next year). Regardless of which direction Onme decides to take it, the flashback ends and Onme finds herself back in Syrania.
+
+### References

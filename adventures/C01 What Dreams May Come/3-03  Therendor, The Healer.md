@@ -1,5 +1,8 @@
  #adventure #completed [[Therendor (Syrania)]] [[Throne of Life]] [[Vyrael]] [[Castiel]]
 
+### Background and Hook(s)
+
+
 > Your ship flies through an endless expanse of perfect blue skies, stretching off into the horizon. There’s no sign of the sun, but the sky is clear and bright, and floating crystal towers gleam as if caught in a sunbeam. A warm, gentle breeze brushes over you, and there’s a faint sound of distant chimes. You feel absolutely calm; in this moment, all anger melts away.
 > Large floating towers dot the skyline, with winged creatures clearly seen flying between them. But the distant cities are much less interesting than what’s right below you - the largest market you’ve ever seen in your life. As your ship slowly descents to land on a designated cloud, you see a golden pedestal is the only prominent feature in the immediate area.
 
@@ -13,6 +16,10 @@ The golden pedestal has on top of it a nine-cornered gold coin which is blank on
 | 2-10       | Heads, Gold Octogram (Kol Korran)   | Players have advantage on Persuasion checks against haggling in the Commerce District of the Immeasurable Market, and disadvantage in other districts  |
 | 11-19      | Tails, Purple Dagger (The Keeper)   | Players have advantage on Persuasion checks against haggling in the Invention District of the Immeasurable Market, and disadvantage in other district      |
 ^syrania-golden-pedestal
+
+### Characters and Locations
+
+- 
 
 ### The Open Sky
 

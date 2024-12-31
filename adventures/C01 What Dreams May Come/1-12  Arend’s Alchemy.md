@@ -1,10 +1,18 @@
- #adventure #completed [[Lakeside]] [[Mercerik d’Sivis]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
 The front door of the shop is locked, and there’s no answer if knocked or called. The lock will need to be picked (DC 12) or the door knocked down (DC 15 Strength) to get inside.
 
-**L1. Potion Shop**
+### Characters and Locations
+
+- [[Mercerik d’Sivis]]
+
+- [[Lakeside]]
+
+### Scenes and Situations
+
+###### L1. Potion Shop
 
 > You enter the shop, and a foyer where customers would normally be served greats you. No one is here though, and the rooms you can see are lit only dimly with wall lanterns, or a fireplace in the distance. Beyond the entry is a larger area with multiple shelves and bins full of random and probably rare magical ingredients. A single closed door exits this room to the west.
 
@@ -12,7 +20,7 @@ The entry area of the building is the storefront for the potion and magic shop t
 
 **Treasure**: Potion of Greater Healing (DC 12 Investigation), Potion of Heroism (DC 20 Investigation)
 
-**L2. Dining Room and Study**
+###### L2. Dining Room and Study
 
 A large desk in the corner of the room is covered in paper illustrating his plan to get Karrnath back on track. The largest piece is the map that the players have, but with more details. Pages on each aspect of the plan can reveal any details that the players didn’t get earlier. Stacks of paper outline food production, water supply, and shelter statistics over the last few years across Karrnath - and they paint the picture of an entire country in distress. Make it clear to the players that Arend has clearly fabricated a plan to turn Karrnath’s troubles around, and he’s been using the people they’ve fought to execute on it.
 
@@ -22,7 +30,7 @@ Also on this map (found with a DC 12 Perception check) is another marking the pl
 
 > Various other pages include barely-organized notes about various experiments and attempts at a prototype device. It seems that no matter what they tried, there was insufficient power to launch more than a few hundred feet off the ground. If they were to develop a successful prototype, it would require exponentially more power.
 
-**L3. Master Bedroom**
+###### L3. Master Bedroom
 
 The players could safely do a long rest here. If searched (DC 12 Investigation), the room also contains Arend’s personal diary in a nightstand. Note that the diary looks very old, and if read the diary contains the following snippets:
 
@@ -48,11 +56,11 @@ In the margins is marked over and over again a strange symbol. A DC 12 History c
 
 > 14 Therendor, 870 YK: Happy Birthday to me. How am I forced to celebrate my 18th year of life? To trod off to mandatory military training and service. To become a cog in the same wheel of Rekkenmark Academy that every other poor Karrnathi soul has. I can’t help but think I am made for better things.
 
-**L4. Guest Bedroom**
+###### L4. Guest Bedroom
 
 The players could safely do a long rest here.
 
-**L5. Enchanting Room**
+###### L5. Enchanting Room
 
 Tools, weapons, and armor racks, as well as various magical components dot the room. Several barrels with the Triangles symbol the players will recognize from their map are here as well. A runic circle can be seen marked on the ground, but it appears to be inactive. A rectangular table in the center of the room has four symbols etched into it (alchemical symbols for earth, fire, air, and water, in that order), with a circular indentation beneath each of them. Four colored gemstones (blue, red, green, white) can be found on a nearby table, and a there’s a large purple book on a stand in the corner. If opened and read, it says on the first page:
 
@@ -93,27 +101,27 @@ Pouring anything incorrectly will cause a Living Spell to emerge, which they mus
 
 Completing all of these will cause the bookcase to move, revealing an entrance into area L6.
 
-**L6. Animation Chamber**
+###### L6. Animation Chamber
 
 A morbid room full of body parts, various tools, and spell components. This is the place where Arend animated the first wight that he sent to Delethorn. A half-emaciated wight is piled in the corner of the room, if the players interact with it then it attacks.
 
-**L7. Kitchen**
+###### L7. Kitchen
 
 A large empty kitchen leads to a pantry to the north and a workshop to the west. A service entrance is on the east wall, down a small stone staircase, which leads outside.
 
-**L8. Workshop**
+###### L8. Workshop
 
 This small room contains various tools, scrolls, orbs, and a messaging station, all used to keep an eye on his minions across Khorvaire. A gnome named Mercerik d’Sivis is working here, frantically trying to send out messages and clearly not getting responses.
 
-**L9. Pantry**
+###### L9. Pantry
 
 Crates of food in this room are marked with the same Apple and Waterdrop symbols the players will recall from their map. A Swarm of Poisonous Snakes is hiding amongst the crates, and if the players come near they attack.
 
-**L10. Basement Landing**
+###### L10. Basement Landing
 
 The only way to access the basement is from the other teleportation circle in area L5. This small room just leads to the large basement lab where Arend is found.
 
-**L11. Arend’s Lab**
+###### L11. Arend’s Lab
 
 > You enter a large chamber with tables around the periphery. Glass vials and various pieces of equipment scatter the tables, with some broken glass on the tables and floor. At the center table, a man with his back to you is muttering to himself.
 > ”So much to do…. but everyone has gone… no reinforcements yet… 

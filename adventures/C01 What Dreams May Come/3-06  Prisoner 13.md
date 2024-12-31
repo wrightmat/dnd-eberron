@@ -1,21 +1,17 @@
  #adventure #completed [[Nymm (Daanvi)]]
 
-### Background
+### Background and Hook(s)
 
-Prisoner 13 is a dwarf named Korda Soldorak. Prior to her incarceration years ago, Korda was an ally and agent of Clan Soldorak, a wealthy dwarf clan headquartered in Soldorakhold, located around the volcano known as the Fist of Onatar at the southern end of the Ironroot Mountains. Korda built a network of informants and agents, ostensibly all to the benefit of Clan Soldorak. With each success, she paid tattooists to inscribe a memorial of her triumph onto her skin. Using ancient rituals, Korda infused many of these artful etchings with the magic of the Fist of Onatar's forges, granting her wondrous gifts.
-
-Korda grew too ambitious for her role as an agent, so she devised a plan to take power for herself. Over five years she took careful stock of Clan Soldorak's wealth and, in one fell swoop, used her network of lieutenants to steal away most of the clan’s gold, leaving only a pittance. Little did she know that amongst this haul was the Hammer and Tongs of Onatar, that had been passed down in the clan since Onatar was forcibly brought back to Daanvi, inadvertently leaving them behind.
+- Prisoner 13 is a dwarf named Korda Soldorak. Prior to her incarceration years ago, Korda was an ally and agent of Clan Soldorak, a wealthy dwarf clan headquartered in Soldorakhold, located around the volcano known as the Fist of Onatar at the southern end of the Ironroot Mountains. Korda built a network of informants and agents, ostensibly all to the benefit of Clan Soldorak. With each success, she paid tattooists to inscribe a memorial of her triumph onto her skin. Using ancient rituals, Korda infused many of these artful etchings with the magic of the Fist of Onatar's forges, granting her wondrous gifts.
+- Korda grew too ambitious for her role as an agent, so she devised a plan to take power for herself. Over five years she took careful stock of Clan Soldorak's wealth and, in one fell swoop, used her network of lieutenants to steal away most of the clan’s gold, leaving only a pittance. Little did she know that amongst this haul was the Hammer and Tongs of Onatar, that had been passed down in the clan since Onatar was forcibly brought back to Daanvi, inadvertently leaving them behind.
 
 >[!info]- Hammer and Tongs of Onatar
 > Hundreds of thousands of years ago, Onatar traveled to Eberron as a brass dragon and gave fire to the mortals to help them through the cold winters, defying the laws of Daanvi that forbid interference with mortals races. He was removed from the rotation of rulers (which is why rule now alternates between Aureon and The Shadow) and thrown in to the Inescapable Prison.
 
-The Soldorak dwarves discovered her almost immediately. They rounded up her agents, who either fought to the death or were executed. They captured Korda and interrogated her, but she never revealed the location of the stolen fortune, even under magical compulsion. The Soldorak dwarves used their influence to have her sentenced to life in prison at Dreadhold. There, Clan Soldorak was hopeful Korda would eventually break and reveal the location of the stolen wealth. This played right into Korda’s hands, since she had made copious enemies who can’t move against her while she’s incarcerated.
+- The Soldorak dwarves discovered her almost immediately. They rounded up her agents, who either fought to the death or were executed. They captured Korda and interrogated her, but she never revealed the location of the stolen fortune, even under magical compulsion. The Soldorak dwarves used their influence to have her sentenced to life in prison at Dreadhold. There, Clan Soldorak was hopeful Korda would eventually break and reveal the location of the stolen wealth. This played right into Korda’s hands, since she had made copious enemies who can’t move against her while she’s incarcerated.
+- Korda, now known as Prisoner 13, prepared for her imprisonment by laying the groundwork for a new spy and criminal network, which cost her much of her stolen fortune. She now runs her operations from the prison. Using her magical tattoos, she telepathically coordinates agents throughout the Mror Holds and beyond, none of whom know the identity of their employer. As for what remains of the stolen Soldorak wealth, it rests in an unmarked vault in the depths of Soldorakhold, sealed by a magical lock that only the runic sequence tattooed on Korda’s right hand can open.
 
-Korda, now known as Prisoner 13, prepared for her imprisonment by laying the groundwork for a new spy and criminal network, which cost her much of her stolen fortune. She now runs her operations from the prison. Using her magical tattoos, she telepathically coordinates agents throughout the Mror Holds and beyond, none of whom know the identity of their employer. As for what remains of the stolen Soldorak wealth, it rests in an unmarked vault in the depths of Soldorakhold, sealed by a magical lock that only the runic sequence tattooed on Korda’s right hand can open.
-
-### Hook(s)
-
-When the players enter the Inescapable Prison, they are met by a monodrone, who explains Onatar's plight and implores them to seek out his Hammer and Tongs and return them. They have been in communication with a representative from the dwarven Clan Soldorak who have found the vault that they believe houses the Hammer and Tongs of Onatar, but aren't able to access it.
+- When the players enter the Inescapable Prison, they are met by a monodrone, who explains Onatar's plight and implores them to seek out his Hammer and Tongs and return them. They have been in communication with a representative from the dwarven Clan Soldorak who have found the vault that they believe houses the Hammer and Tongs of Onatar, but aren't able to access it.
 
 ### Synopsis
 
@@ -23,6 +19,10 @@ When the players enter the Inescapable Prison, they are met by a monodrone, who 
 - The players will need to seek out Prisoner 13, who holds the key to a treasure vault under Soldorakhold. In order to get the information they need, they'll need to sneak in or enter under cover and maintain their cover throughout their time there to avoid suspicion.
 - Once they find her, they'll discover that the key is actually one of her many tattoos. They will need to copy or mimic it in some way, or kill Korda and get her body (or at least arm) out of the prison.
 - When the job is complete, the players can signal for extraction, and be picked up by a ship and returned to Soldorakhold. They receive a cut of the treasure and the artifact they've been searching for.
+
+### Characters and Locations
+
+- 
 
 ### Scene 1: The Inescapable Prison
 

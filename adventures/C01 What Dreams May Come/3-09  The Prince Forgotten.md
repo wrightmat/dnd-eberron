@@ -1,14 +1,10 @@
  #adventure #completed 
 
-### Background
+### Background and Hook(s)
 
-This story follows the Prince of Forgotten Things' past, mostly from his perspective, but also from the eyes of the mermaid's sisters (who the players embody). Unbeknownst to him, this point in the Prince's life has been shaped by a monstrous Kraken Priest named Ursula - who has disguised herself as the Princess Vanessa who he thinks rescued him from drowning.
-
-In the past, Ursula was a resident of King Triton's palace, before being banished and exiled by order of the king. Scorned, she has since vowed to exact vengeance by sowing general chaos and scheming to install herself as ruler of all the ocean.
-
-The Little Mermaid (both the original Hans Christian Andersen and the Disney retelling) is Alex's favorite fairy tale.
-
-### Hook(s)
+- This story follows the Prince of Forgotten Things' past, mostly from his perspective, but also from the eyes of the mermaid's sisters (who the players embody). Unbeknownst to him, this point in the Prince's life has been shaped by a monstrous Kraken Priest named Ursula - who has disguised herself as the Princess Vanessa who he thinks rescued him from drowning.
+- In the past, Ursula was a resident of King Triton's palace, before being banished and exiled by order of the king. Scorned, she has since vowed to exact vengeance by sowing general chaos and scheming to install herself as ruler of all the ocean.
+- The Little Mermaid (both the original Hans Christian Andersen and the Disney retelling) is Alex's favorite fairy tale.
 
 * The party is hired by a wealthy merchant to retrieve a valuable painting that was stolen by the Forgotten Prince. When they arrive at the castle, they discover that the painting is a portrait of the Prince's past, a scene of the Prince passed out on the beach being embraced by a beautiful princess. The party may decide to return the painting to the merchant or help the Prince reunite with his lost past.
 
@@ -19,6 +15,10 @@ The Little Mermaid (both the original Hans Christian Andersen and the Disney ret
 - We flash forward to the day that the Prince found Ariel washed up on the castle steps. Then forward again to the Prince speaking to Ariel about sailing to a neighboring kingdom in order to meet a princess that his parents have arranged marriage to. When he arrives, he sees that the princess is the same one that supposedly saved his life, and decides to go forward with the marriage after all.
 - The Prince marries Princess Vanessa, who then sneaks away in the night, leaving him alone. Princess Vanessa was actually Ursula in disguise, who sought only to sow chaos and increase her power by keeping the Prince away from the seas.
 - The players may choose to interfere with the story and change the outcome in some way so that the Prince ends up with Ariel (or some other desired result).
+
+### Characters and Locations
+
+- 
 
 ### Scene 1: The Castle of Forgotten Things
 

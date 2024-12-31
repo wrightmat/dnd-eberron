@@ -5,6 +5,10 @@
 
 The ship sets down on a dock jutting out into lava at the edge of the city. If they go north, they can get to the City of Brass and the castle at its center. If they go any other direction, they can explore the islands in the Sea of Fire. Either way, be sure they meet Phlain as early as possible.
 
+### Characters and Locations
+
+- 
+
 ### The City of Brass
 
 > You arrive at a metropolitan city, a place of marvels.  Here, a towering statue of an efreeti holds a sphere of continual flame the size of an airship. A variety of mansions dot the city, and fiery salamanders and dwarf-like creatures can be seen entering and exiting. The streets are filled with mephits, salamanders, and the occasional elemental, but there’s not another humanoid in sight. Circles made of flame and inscribed with Ignan symbols ring the city, and north of the city is the great castle seen from the skies.

@@ -1,6 +1,14 @@
- #adventure #completed [[Urthhold]]
+ #adventure #completed 
 
 ### Background and Hook(s)
+
+- 
+
+### Characters and Locations
+
+- [[Urthhold]]
+
+### Scenes and Situations
 
 >[!abstract] Area Features
 >A series of chambers and tunnels at ground level form ancient catacombs near the Gatekeeper Seal itself. They reek of damp earth and stale, deathly air.
@@ -19,39 +27,39 @@
 
 At night, the will-o-wisps in area D2 emerge from the hill using their Incorporeal Movement and float above the barrow, hoping to attract prey with their lights. If they detect characters nearby, the will-o-wisps turn invisible and withdraw into the barrow.
 
-**D1. Secret Entrance**
+###### D1. Secret Entrance
 
 One of the white rocks atop the hill acts as a stone plug embedded in the earth. Characters searching the hilltop can spot an opening beneath the base of the rock with a successful DC 10 Wisdom (Perception) check. By lashing ropes around the top of the rock, the characters can topple it with a successful DC 19 Strength (Athletics) check. A *knock* spell also causes it to topple over. The opening beneath the rock reveals a 2-foot-wide spiral staircase with flagstone steps, descending 30 feet to area D2.
 
-**D2. Will-O-Wisps**
+###### D2. Will-O-Wisps
 
 The tunnels around the spiral staircase are haunted by three **will-o-wisps** (CR 2). The wisps are invisible until they hear intruders coming down the stairs, whereupon they illuminate and move to the far side of the three concealed pit traps (area D3), hoping to lure intruders to their doom. Each wisp has its own pit and attacks any character who falls into it. A wisp that is reduced to 7 hit point or fewer turns invisible on its next turn and flees to hide until the characters leave the barrow.
 
-**D3. Concealed Pit Traps**
+###### D3. Concealed Pit Traps
 
 Each of these pits is 5 feet wide, 10 feet deep, and dug out of the earth. Rows of rusty swords are embedded into the floor of each pit, whose tops are covered by rotted wooden planks hidden under a thin layer of earth. A creature using a pole or similar tool to prod ahead detects the pit with a successful DC 10 Wisdom (Perception) check. A general check for traps will reveal the pits with a successful DC 15 Perception check.
 
 Any creature that steps one a pit falls into it, taking 1d6 bludgeoning damage and impaling itself on 1d4 swords, each of which deals 1d6 piercing damage.
 
-**D4. Skeletal Surprise**
+###### D4. Skeletal Surprise
 
 The bones and rotting saddle of a horse lie in the southern niche of this cavern. When a creature approaches within 5 feet of the bones, they knit together and rise as a skeletal horse. This steed has the statistics of a **riding horse**, except that it’s undead. It bonds with any character who wants to ride it.
 
-**D5. Narrow Tunnel**
+###### D5. Narrow Tunnel
 
 This tunnel is only 2 feet wide. At the halfway point, a 5-foot-long pressure plate is hidden under a 2-inch-thick layer of earth. A character prodding ahead with a pole or similar tool can detect the plate with a successful DC 10 Wisdom (Perception) check. The first character to step on the plate causes the walls of the tunnel to collapse inward, burying all creatures in the tunnel. A buried creature is blinded and restrained, has total cover against attacks, and begins to suffocate when it runs out of breath. Only a creature that is not trapped in the tunnel can clear away the collapse, using an action to open up the 5-foot-deep section of tunnel closest to it. A creature in that space is no longer buried.
 
-**D6. False Tomb**
+###### D6. False Tomb
 
 Two sealed stone sarcophagi rest in alcoves dug into the south wall here. Each sarcophagus releases a cloud of corrosive dust when opened, filling the 10-foot-by-10-foot area north of the sarcophagus. Any creature in that area must make a DC 15 Dexterity saving throw, taking 14 (4d6) acid damage on a failed save, or half as much on a success. The cloud then disappears. The sarcophagus contains nothing of interest.
 
-**D7. Workers’ Wing**
+###### D7. Workers’ Wing
 
 Four sarcophagi in alcoves contain the moldy bones of orcish druid workers.
 
 **Treasure**. Three sarcophagi contain 1d6 x 10 gp. One sarcophagus contains a *Potion of Healing (Greater).*
 
-**D8. Druid’s Den**
+###### D8. Druid’s Den
 
 Two sarcophagi in alcoves contain the moldy bones of two once intricately-dressed orc druid Gatekeepers. One of the sarcophagi contains a *Staff of the Gatekeeper,* which is found with a DC 12 Investigation check.
 

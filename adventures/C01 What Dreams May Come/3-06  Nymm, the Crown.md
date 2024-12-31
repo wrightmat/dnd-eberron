@@ -2,7 +2,13 @@
 
 > Imagine Terminus Station in Sharn, but instead of skycoaches and rail tickets, portals lead to different locations. Hundreds of mechanical creatures mill about, standing in orderly queues as they wait to pass through a portal. The streets may be crowded, but everyone walks at the same pace, every foot striking the ground at the exact same moment.
 
-This moon alternates between rule by Aureon and his own Shadow, an agreement made long ago when The Shadow was first created as the price Aureon paid for arcane knowledge. Nymm is currently ruled by Aureon, the Sovereign of Law and Lore of the Sovereign Host, but The Shadow has been busy since he last stepped down as ruler. He has been using a combination of pacts to bind souls to service and blackmail of individuals using information on them from the Infinite Archive in order to gain power, hoping to take control of the realm back sooner than his time.
+### Background and Hook(s)
+
+- This moon alternates between rule by Aureon and his own Shadow, an agreement made long ago when The Shadow was first created as the price Aureon paid for arcane knowledge. Nymm is currently ruled by Aureon, the Sovereign of Law and Lore of the Sovereign Host, but The Shadow has been busy since he last stepped down as ruler. He has been using a combination of pacts to bind souls to service and blackmail of individuals using information on them from the Infinite Archive in order to gain power, hoping to take control of the realm back sooner than his time.
+
+### Characters and Locations
+
+- 
 
 ### The Prime Gate
 

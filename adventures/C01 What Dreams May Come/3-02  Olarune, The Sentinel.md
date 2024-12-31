@@ -1,12 +1,20 @@
- #adventure #completed  [[Olarune (Lamannia)]]
+ #adventure #completed 
 
 > The air is pure and clean, the water fresh and clear. Colors are impossibly vivid. Vegetation is nearly always in bloom and beasts are almost always in the peak of health. The entire moon is suffused with life — a realm in which any stone could be an earth elemental, where any tree could be awakened.
 > While you can barely make out a few beasts trotting off in the distance, there are no real signs of civilization here. Although a stone circle carved with ancient runes, crackling with elemental power, serves as an ideal location to land this ship. A separate stone marker is engraved with what appears to be a warning of some sort.
 > Not far from where you land the ship are three small buildings. The first building is constructed of wood, and covered in furs and greenery - it has what appears to be a shimmering portal in the doorway. The second is built of wood and roofed with leafy branches atop a latticed framework. adorned with stalks of grain and growing vines.  The third is built of wood covered in rotting seaweed, but is roofless and clearly wet inside from a recent rain. In front of each building is a symbol scrawled in the dirt, each of which is glowing faintly.
 
-The sign is engraved with runes that can be deciphered with a DC 15 Arcana check. It warns of Lamannia’s “Indomitable Beasts” property, and how that magic has been nullified in this ring so elemental bound ships can safely land. Any ship leaving this area will be subject to the property, and bound elementals can leave the ship (unless prevented by other magic, including elemental binding/stonesinging).
+### Background and Hook(s)
 
-### The Shrines
+- The sign is engraved with runes that can be deciphered with a DC 15 Arcana check. It warns of Lamannia’s “Indomitable Beasts” property, and how that magic has been nullified in this ring so elemental bound ships can safely land. Any ship leaving this area will be subject to the property, and bound elementals can leave the ship (unless prevented by other magic, including elemental binding/stonesinging).
+
+### Characters and Locations
+
+- [[Olarune (Lamannia)]]
+
+### Scenes and Situations
+
+#### The Shrines
 
 The first building is a shrine to Balinor and will send the party to the “Vision of the Old Hunter”. The symbol in front is a set of antlers, which will stop glowing if the Hunt sign is eliminated. Once this vision is completed, shimmering portals appear in the other appropriate building doorway (the one not eliminated).
 
@@ -74,7 +82,7 @@ Once the medallion has been claimed, the three buildings sink in to the ground, 
 
 *Based on the Trials from Scene 1 in the Convergence Manifesto Adventure AE01-08: March of Madness*
 
-### The Twilight Forest
+#### The Twilight Forest
 
 > The sky is hidden by the dense canopy of this vast rainforest, leaving the forest floor in an endless twilight. The trees are over a hundred feet in height, and some come together, forming twisted wooden canyons. Looking down, you see a soft ground covered in delicate leaves, and strewn with various animal tracks. At the far end of the forest are two warped and twisted trees, and between them a circular stone arch carved with ancient runes, crackling with elemental power and deep magic.
 
@@ -89,13 +97,13 @@ Roll once on the random encounters table when the players arrive. Any of these c
 >[!info]- Lycanthropes
 >Over a century ago, during the Silver Crusade, there were many lycanthropes who fled to Lamannia. As long as they remain on this plane, a lycanthrope can’t spread the curse to anyone other than their offspring, and the unnatural impulses of the curse—the drive to prey on innocents, the bloodlust that can cause a victim of lycanthropy to lose control of their actions— are suspended. Meanwhile, primal instincts are amplified; Lamannian werewolves remain predators and take joy in the hunt, but they aren’t driven to evil, and remain in full control.
 
-#### The Gate
+##### The Gate
 
 The gate is inactive, and any sort of check will reveal that it can’t be activated from this side - it must be a gate to somewhere else where it can be activated from the other side (this is an allusion to *Convergence Manifesto 7: The Silvered Edge of Twilight*, in case that’s run at a later time, otherwise it could be connected to the Gate of Xabra at Arcanix, or it’s just flavor).
 
 ![https://wrightmat.github.io/dnd-eberron/_img/twilight-gate.png|400](https://wrightmat.github.io/dnd-eberron/_img/twilight-gate.png)
 
-### The Broken Land
+#### The Broken Land
 
 > You find yourself in a volcanically active region filled with high mountains and lava plains. You are shaken by near constant eruptions, and you can make out fire and earth elementals dancing in the distance, among other creatures. The area is constantly in dusk or dawn due to a large sun and smaller pale orange moon on opposite ends of the horizon, hovering there and turning the sky a reddish hue.
 
@@ -105,7 +113,7 @@ Roll once on the random encounters table when the players arrive, and again for 
 
 `dice: [[2. Olarune, The Sentinel#^random-broken-land]]`
 
-### The Endless Ocean
+#### The Endless Ocean
 
 > You stand on the sandy coast of what appears to be an endless ocean. The water teems with life, from a vast array of fish and aquatic beasts (some of which you recognize but many of which you don’t) to water itself that appears to move by magical means. A variety of small islands dot the horizon, but it’s difficult to tell whether they’re real or a figment of your imagination. Above you is a clear night sky full of wandering stars and a pale orange moon, all reflected in the expansive waters.
 
@@ -134,7 +142,7 @@ If the players don’t have their ship, they’ll need to swim to get to any isl
 
 `dice: [[2. Olarune, The Sentinel#^random-encounter-endless-ocean]]`
 
-### The First Storm
+#### The First Storm
 
 > You approach a plain with low, rolling hills. The region is lashed by hurricane winds and endless storms. In the distance, beasts huddle in caves and limited shelter, while all manner of elementals clash in the storm-lashed plains. A massive Elder Tempest drives the heart of the storm, blotting out the sky entirely.
 
@@ -146,7 +154,7 @@ For each hour they spend searching for food, have them roll a Survival (Wisdom) 
 
 https://www.dndbeyond.com/monsters/2560805-elder-tempest
 
-### The Rot
+#### The Rot
 
 > You come upon a region that is swamplike, filled with fallen, rotting trees. There are corpses of gargantuan beasts scattered about, and giant insects and other massive scavengers prey on their remains. While other areas of this moon have been pristine and free from disease, disease is itself part of nature; and it takes refuge here.
 
@@ -154,7 +162,7 @@ Roll once on the random encounter table when the players arrive, and again for e
 
 `dice: [[2. Olarune, The Sentinel#^random-the-rot]]`
 
-### Titan’s Folly
+#### Titan’s Folly
 
 > You approach an area of ruin, a scene of nature-reclaiming-civilization. Vines and moss cover shattered walls, and the bones of giants are scattered throughout the remnants of this garrison.
 
@@ -162,7 +170,7 @@ This area is a small dungeon, a research station and mining camp that the Cul’
 
 [[3-02  Titan’s Folly]]
 
-### Conclusion
+#### Conclusion
 
 As the players leave the moon, a disembodied voice should address the entire ship. The voice and its statement will depend on the Sign the party received at the start of their adventure here. If the players hadn’t previous discovered the full benefits of their Sign, those should be explained as well. The players also notice their patron's totem representative (Ursix, Strigix, or Brix respetively) near the landing site outside as they ascend.
 
@@ -172,16 +180,16 @@ As the players leave the moon, a disembodied voice should address the entire shi
 
 > Shargon, the Sovereign of Wave and Whelm, has saved you this day. If you return to my realm, this favor will return as well, but it is of no use elsewhere. May the waves of the astral sea spare you.
 
-### Random Encounters
+### Random Tables
 
-| dice: 1d6  | Twilight Forest Encounter  |
-| --- | -------------------------- |
-| 1   | `encounter: 1d4: Werebat`  |
-| 2   | `encounter: 1: Werebear`   |
-| 3   | `encounter: 1: Wereboar`   |
-| 4   | `encounter: 1d4: Wererat`  |
-| 5   | `encounter: 1: Weretiger`  |
-| 6   | `encounter: 1d3: Werewolf` |
+| dice: 1d6 | Twilight Forest Encounter  |
+| --------- | -------------------------- |
+| 1         | `encounter: 1d4: Werebat`  |
+| 2         | `encounter: 1: Werebear`   |
+| 3         | `encounter: 1: Wereboar`   |
+| 4         | `encounter: 1d4: Wererat`  |
+| 5         | `encounter: 1: Weretiger`  |
+| 6         | `encounter: 1d3: Werewolf` |
 ^random-twilight-forest
 
 | dice: 1d8  | Broken Land Encounter           |
@@ -227,3 +235,6 @@ As the players leave the moon, a disembodied voice should address the entire shi
 | 7   | `encounter: 1d4: Myconid Sovereign` |
 | 8   | `encounter: 1: Tree Blight`         |
 ^random-the-rot
+
+### References
+

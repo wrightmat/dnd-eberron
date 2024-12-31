@@ -1,15 +1,17 @@
  #adventure #completed  [[Sypheros (Mabar)]] [[The Queen of All Tears]]
 
-### Background
+### Background and Hook(s)
 
-At the center of the Last Desert lies a massive tomb-palace. Its style suggests the architecture of Aerenal, but it’s grander than even the City of the Dead. This is the fortress of the Queen of All Tears, the Dark Power of this domain.
-
-### Hook(s)
+- At the center of the Last Desert lies a massive tomb-palace. Its style suggests the architecture of Aerenal, but it’s grander than even the City of the Dead. This is the fortress of the Queen of All Tears, the Dark Power of this domain.
 
 ### Synopsis
 
 - The players can explore various areas of the upper level of the Necropolis, until such point that they enter the Tower of Necromancy. Here, the servants of the Queen of All Tears are attempting to unearth her mummy.
 - If the players decide to follow the Queen, she leads them deeper into the Necropolis, where they can learn more about her or anger her and face wave after wave of undead creatures.
+
+### Characters and Locations
+
+- 
 
 ### Scene 1: Exploring the Necropolis
 

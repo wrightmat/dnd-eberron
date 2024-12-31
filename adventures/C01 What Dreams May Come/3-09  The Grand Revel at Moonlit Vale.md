@@ -1,20 +1,15 @@
  #adventure #completed  [[Rhaan (Thelanis)]] [[Selene de Rhaan]] [[Ihan de Rhaan]] [[Phoebe de Rhaan]] [[Esmeray]] [[Mahsa]]
 
-### Background
+### Background and Hook(s)
 
-[[3-09  Rhaan, the Book]]
-
-Baron Selene de Rhaan is the newest ruler of the Moonlit Vale from the Winter Eladrin, but is already under threat from an unknown assassin. If she died, all of the Vale would be thrown into chaos. The primary suspects are her cousins Grand Duke Ihan de Rhaan and Grand Duchess Phoebe de Rhaan (of the Summer Court) or her former lover, Ambassador Esmeray (of the Spring Court).
-
-The largest palace on the plane, the Moonlit Vale, is a constant exercise in palace intrigue. At the apex of each season, the fey of the ruling season host a grand revel, which draws archfey from all throughout the plane; this is a moment when intrigues bloom and stories are shaped, a time for duels and grand declarations. Destiny has little interest in directing the events here, save for the progression of rulership that must be maintained - from Autumn to Summer to Spring to Winter - any other order is unacceptable (so Selene's usurping of the Barony from the Summer Court is against Destiny's plan).
-
-Court Approval will be tracked throughout this adventure, using a Threat Pool. When something is done that would lower Court Approval (such as insulting a noble), or the party spends too much time away from the grand revel (add 1d6 for every ten minutes game time, so full round of actions per player), then add a die to the pool. When something is done that would increase Court Approval (such as dancing with a noble for information, playing “the game”, etc.) then remove one die from the pool. When the pool is full with six dice, then an appropriate encounter happens - usually this is guards (use the Conclave Dryad stat block) appearing to escort the party back to the ballroom, but it may be something else depending on the situation.
+- [[3-09  Rhaan, the Book]]
+- Baron Selene de Rhaan is the newest ruler of the Moonlit Vale from the Winter Eladrin, but is already under threat from an unknown assassin. If she died, all of the Vale would be thrown into chaos. The primary suspects are her cousins Grand Duke Ihan de Rhaan and Grand Duchess Phoebe de Rhaan (of the Summer Court) or her former lover, Ambassador Esmeray (of the Spring Court).
+- The largest palace on the plane, the Moonlit Vale, is a constant exercise in palace intrigue. At the apex of each season, the fey of the ruling season host a grand revel, which draws archfey from all throughout the plane; this is a moment when intrigues bloom and stories are shaped, a time for duels and grand declarations. Destiny has little interest in directing the events here, save for the progression of rulership that must be maintained - from Autumn to Summer to Spring to Winter - any other order is unacceptable (so Selene's usurping of the Barony from the Summer Court is against Destiny's plan).
+- Court Approval will be tracked throughout this adventure, using a Threat Pool. When something is done that would lower Court Approval (such as insulting a noble), or the party spends too much time away from the grand revel (add 1d6 for every ten minutes game time, so full round of actions per player), then add a die to the pool. When something is done that would increase Court Approval (such as dancing with a noble for information, playing “the game”, etc.) then remove one die from the pool. When the pool is full with six dice, then an appropriate encounter happens - usually this is guards (use the Conclave Dryad stat block) appearing to escort the party back to the ballroom, but it may be something else depending on the situation.
 
 `encounter: 2: Conclave Dryad`
 
-### Hook(s)
-
-Liege Pax (of the Autumn Court) should serve as a guide for the players, and inform them of the rumors of danger to Baron Selene’s life (and the impact that would have). The party should run in to them shortly after they land on the moon. They have a voice like honey in warm tea, and the party might remember them from Bystan’s stories.
+- Liege Pax (of the Autumn Court) should serve as a guide for the players, and inform them of the rumors of danger to Baron Selene’s life (and the impact that would have). The party should run in to them shortly after they land on the moon. They have a voice like honey in warm tea, and the party might remember them from Bystan’s stories.
 
 ### Synopsis
 
@@ -29,6 +24,10 @@ Liege Pax (of the Autumn Court) should serve as a guide for the players, and inf
 - The next phase begins when the party re-enters the ballroom (Scene 4) and meets Mahsa. She warns them against Duke Ihan and the Summer Court, saying that she killed (only after he attacked her) one of his agents she found snooping around the Autumn Tree. She then gives them a gem she found on the body, which opens up the Spring Tree (and Servants’ Wing), where they find the dead servants and meet Esmeray (Scene 5). They then return to the ballroom (Scene 6) where they have the opportunity to dance with Phoebe and learn that she doesn’t trust her brother either, that an attack is likely to come soon, and they should visit the Guest Wing of the Winter Tree.
     - At this point all evidence seems to be pointing to the Summer Court. But if the players were to speak to Ihan himself, who is available at any time in the ballroom, they would learn quickly that he doesn’t even want the job. He’d rather retire and live with the gnomes (at Pylas Pyrial, the Gate of Joy). He would also deny any of the actions that have been attributed to his agents (which is true, as he’s being framed).
 - The last phase starts with a visit to the Winter Tree, where they find a servant being attacked by an Autumn Eladrin (Scene 7). They then discover Mahsa herself opening a teleportation circle, so she monologues evilly for a bit (about the coming Prince of Frost), calls forth some monsters as a distraction, and steps through. When the party returns to the ballroom for the final time, they can either save Selene or let her be killed, but either way Mahsa will get away (Scene 8). The final fight with her happens in the garden, and afterward the party can help determine the fate of the Palace Court (Scene 9 and Conclusion).
+
+### Characters and Locations
+
+- 
 
 ### Scene 1: Palace of the Moon (Purple)
 

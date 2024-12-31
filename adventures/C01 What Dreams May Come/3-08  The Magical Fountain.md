@@ -1,12 +1,10 @@
  #adventure #completed  [[Barrakas (Irian)]]
 
-### Background
+### Background and Hook(s)
 
-[[3-08  Barrakas, the Lantern]]
+- [[3-08  Barrakas, the Lantern]]
+- The party learns of a magical fountain deep in the heart of Irian, which is said to grant power to those who drink from its waters. But the fountain is guarded by powerful creatures and hidden in a remote corner of the plane, and the journey to reach it is perilous. Once there, the party must face a series of trials and tests in order to prove themselves worthy of the fountain's power.
 
-The party learns of a magical fountain deep in the heart of Irian, which is said to grant power to those who drink from its waters. But the fountain is guarded by powerful creatures and hidden in a remote corner of the plane, and the journey to reach it is perilous. Once there, the party must face a series of trials and tests in order to prove themselves worthy of the fountain's power.
-
-### Hook(s)
 * The Gardener can pass along the rumor of the magical fountain, that's accessed through the dark corners of The Garden.
 * Otherwise, Araam in The Refuge could pass on the information as well, direction the PCs to The Garden.
 
@@ -15,6 +13,10 @@ The party learns of a magical fountain deep in the heart of Irian, which is said
 - After answering a series of riddles from a wise unicorn, the party travels deeper into the plane of Irian (possibly accompanied by that unicorn), learning more about the plane as they move through a radiant garden.
 - Additional challenges force them to face themselves, including a trial of selflessness where they're encouraged to help a group of innocents at their own peril, and crystal cavern that reflects their own desires and fears back at them.
 - During their travels they'll also encounter a healing pool, and in the end they'll come upon the fabled Magical Fountain, which grants them one spell scroll.
+
+### Characters and Locations
+
+- 
 
 ### Scene 1: The Riddles of Enlightenment
 

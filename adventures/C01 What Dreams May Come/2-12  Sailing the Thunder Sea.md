@@ -1,10 +1,22 @@
- #adventure #completed [[Thunder Sea]] [[Miall]] [[Alistair d'Lyrandar]] [[Mazzia d'Lyrandar]] [[Velgram]] [[Lei d'Cannith]] [[Daine Halar Deneith]] [[Pierce]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
 The Thunder Sea is a dangerous place, where brutal races such as the sahuagin, sea elves, and locathah, fight with each other and the violent forces of nature. While standard routes have been established (by the Eternal Dominion) between Sharn and Stormreach that are relatively safe, any who deviate from these paths could face immense danger. In addition, some who sleep while on the Thunder Sea are said to share visions of planes so vivid that some remember them clearly even upon waking.
 
 Any legitimate ship traveling the sea carries a beacon of passage (which looks like a giant pearl), protecting them from sahuagin attack. This could include a number of ships, but the most common are Lyrandar galleons, including the *Golden Dragon*, as described below.
+
+### Characters and Locations
+
+- [[Miall]]
+- [[Alistair d'Lyrandar]]
+- [[Mazzia d'Lyrandar]]
+- [[Velgram]]
+- [[Lei d'Cannith]]
+- [[Daine Halar Deneith]]
+- [[Pierce]]
+
+- [[Thunder Sea]]
 
 ### **The Golden Dragon**
 

@@ -7,7 +7,7 @@ So if the party were to continue through The Void, and past Dal Quor, they'd eve
 - Some who had seen ethereal curtains described them as looking something like the northern lights found on some worlds.
 - Could treat exiting as a challenge, where the curtain acts as a *prismatic wall* spell and each layer need to be destroyed. [[Prismatic Wall]]
 
-### Monsters
+### Characters and Locations
 
 - Shadow Sea Serpent
 - Void Skivvers

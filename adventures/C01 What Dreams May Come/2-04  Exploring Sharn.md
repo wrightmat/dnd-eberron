@@ -1,4 +1,4 @@
- #adventure #completed [[Sharn]] [[Merrix d'Cannith]] [[Vernon Stone]] [[Tourmaline Stone]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 

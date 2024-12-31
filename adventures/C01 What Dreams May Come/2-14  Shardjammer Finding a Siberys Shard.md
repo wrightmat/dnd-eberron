@@ -1,9 +1,8 @@
- #adventure #completed [[Xen’drik]] [[Stormreach]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
 - The party has been searching out components for their spelljamming ship, based on the Project Siberys notebook they found in Making, and the only known location for Siberys dragonshards (needed for the control device) is Xen’drik. Stormreach is the only real port town that’s accessible to outsiders, and luckily rumors have been circulating about strange lights and sounds eminating from what’s rumored to be a former Giant city called Throne Gate Ruins.
-
 - Any of the following hooks can be peppered in to Xen’drik as the players explore or stock up.
 	- A rival explorer has been loudly proclaiming that she has uncovered a map to a buried treasure. According to the author's scribbles, it could drown Stormreach in gold. You must race to find it first!
 	- A drow prisoner warns of a great power hidden in a pyramid known as Grendu'ul - it must be destroyed before the prophesied return!
@@ -19,13 +18,19 @@
 - The players will need to get inside the colossus in order to stop it, first by grabbing a hand or foot, then by climbing an arm or leg, and finally by climbing the body (and avoiding some defenses) in order to find their way inside. All of this happens while the colossus is actively performing actions against the party.
 - Inside, hazards and automated repair drones threaten the party if they’re not careful. But eventually they will find their way to the Giant’s Chamber where they will need to kill the giant controlling the colossus in order to obtain the Siberys shard controlling it.
 
-### Scene 1: Awakening
+### Characters and Locations
+
+- [[Stormreach]]
+
+### Scenes and Situations
+
+#### Awakening
 
 > Finally, after weeks of struggle and difficult travel through harsh jungle, you stand among the ruins of the lost ziggurat of Grendu'ul. But the pyramid itself is surrounded by archaeological treasures. On the opposite side of a forum, swallowed by trees and vines, a great obelisk reaches 30 feet into the sky. Toppled walls and broken columns frame the edge of the forum, defining the boundary of this ancient site, and a gentle waterfall cascades down the south side of the pyramid.
 
 The ruins provide a few opportunities to foreshadow the danger of the colossus, and a little of its history. Allow the players to explore its surface features until interest begins to wane, then kick-down-the-door with a combat encounter.
 
-#### Exploring the Ruins
+##### Exploring the Ruins
 
 There are four main features for the players to investigate: the ziggurat, the forum, the obelisk, and the waterfall:
 
@@ -37,7 +42,7 @@ There are four main features for the players to investigate: the ziggurat, the f
 
 **Waterfall**. A waterfall has formed on the south side of the ziggurat, falling from a gap on the upper level and down to jungle-level as it cascades down the Giant-sized steps. Excepting magical means, the source of the waterfall is the most likely point of entry into the heart of the colossus. The gap is about 3 feet tall and is blocked by vines and crumbled rock. It is inaccessible without spending time to clear the debris. However, the awakening of the colossus will partially clear it for direct entry.
 
-#### Attack of the Titans
+##### Attack of the Titans
 
 Once the players have had a chance to explore the ruins, read or paraphrase the following:
 
@@ -65,7 +70,7 @@ Before any characters have a chance to free themselves, set the stakes by readin
 
 > The obelisk eye, now crowning the colossus, scans the horizon. Fixed in the direction of the city of Stormreach, the collosus begins to march.
 
-### Scene 2: Ascent
+#### Ascent
 
 During Scene 2: Ascent and Scene 3: Ingress, the colossus can take up to two actions every round as detailed in the "Colossus Actions" below.
 
@@ -107,7 +112,7 @@ The colossus' quake step action can cause creatures to fall prone while they are
 
 A prone creature that is climbing is considered to be clinging tightly to the wall, caught in their climbing gear, or otherwise restricted. A climbing creature cannot crawl while climbing, but can "stand up" by finding more secure hand or footholds, or untangling their climbing gear
 
-### Scene 3: Ingress
+#### Ingress
 
 When the player characters have stable footing, they must find a way inside the colossus if they are to shut it down. With the obelisk revealed as one of the colossus' most powerful weapons, only the ziggurat has yet to reveal its secrets. Some player characters may have magic means of entry, but if not they can find their way via the ziggurat's waterfall, which emerges at the very top step. Several methods are discussed below:
 
@@ -147,14 +152,14 @@ When the player characters have defeated all the repair drones, they can keep fo
 
 This adventure contains three or four combat encounters with increasing difficulty. It is possible to run through the full expedition without a break. However, if your player characters are running low on resources after defeating the colossus' more formidable internal defenses, they might suggest stopping to rest. Because the colossus can swat or blast creatures on its outer surfaces, the only suitable place to rest is inside the tunnels. Allowing a brief respite before the characters encounter the primordial giant at the colossus' core can lead to a more fun and satisfying final battle, but it may dampen any sense of urgency.
 
-### Scene 4: Disruption
+#### Disruption
 
 When the players have completed Scene 3: Ingress and followed the tunnel as far as it will go, read the following:
 
 > The tunnel opens into a vast chamber. The water beneath your feet cascades as a waterfall into a plunge pool, and beyond the water's edge, the guts of the colossus are lit dimly by glowing runes. Four ten foot tall stone cylinders are situated about the room: two emerge from the ground, and two emerge from opposite walls. Though three rotate, grinding stone on stone, the cylinder on the left wall is still.
 > In the center of the room, atop a stone platform with an embedded golden crystal, and bathing the whole chamber in a golden glow, is a 20 foot diameter bubble with a chaotic pattern of swirls dancing on its surface. Inside, frozen with arms wide, is the shadow of a woman at least four times the height of a grown human.
 
-#### The Giant's Chamber
+##### The Giant's Chamber
 
 This chamber once served as the control point for the colossus. Its pilot was a Giant born of a civilization now lost to time. During its last awakening, the colossus marched on the city of Stormreach to clear the corruption that had festered there. Legends say the inhabitants of Stormreach had fallen to nightmare. Others say that the city's Giants and their elf slaves were inspired by some benevolent dream.
 
@@ -166,7 +171,7 @@ Destroying a control cylinder causes the colossus to lose control of one of its 
 
 **Binding Bubble**. The Giant's prison is extremely fragile. The bubble with break if any spell of 3rd level of higher is cast in the Giant's chamber, or if one of the control cylinders is attacked, or even if it is physically touched. When that happens, move on to "Dreamscape", below. If a character uses detect magic or other spells to divine the bubble's origin or purpose, they can discover that it radiates overwhelming abjuration magic of otherworldly origin.
 
-#### Dreamscape
+##### Dreamscape
 
 When the binding bubble is broken, read or paraphrase the following:
 
@@ -182,7 +187,7 @@ Kenucha will be particularly hostile to elves of all varieties. Although she con
 
 When it becomes clear the player characters have not specifically come to free her, she will lash out with all her power. She is quite prepared to fight to the death - it is, after all, a final release from her dream prison.
 
-#### Primordial Giant
+##### Primordial Giant
 
 Kenucha can summon vast elemental powers even within the dreamscape. However, when she is reduced to less than 50% of her maximum hit point total (115/230 HP), the magic that has bound her in her timeless prison finally fails. Kenucha and the player characters are then thrown back into the real world, in the colossus' control chamber. At that point, her available lair actions change.
 
@@ -197,7 +202,7 @@ Kenucha can summon vast elemental powers even within the dreamscape. However, wh
 - **Colossal Shift**. Kenucha directs the colossus to quickly shift its stance, throwing creatures across the room. Each creature in the control chamber that is touching the ground must succeed on a DC 18 Strength saving throw or be pushed 15 feet and knocked prone. Kenucha loses this ability when one or more of control cylinders for the colossus' legs are destroyed.
 - **Self Strike**. Kenucha directs the colossus to strike itself, shaking rock from its crumbling walls. Creatures in the chamber must succeed on a DC 18 Dexterity saving throw or become restrained by debris. As an action, a creature can free themselves with a DC 18 Strength (Athletics) check. Kenucha loses this ability when the control cylinder for the colossus' remaining arm is destroyed.
 
-### Conclusion
+#### Conclusion
 
 When Kenucha is defeated, the last mote of her power keeping the colossus moving evaporates. The construct collapses, scattering stone across the jungle floor.
 

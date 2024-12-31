@@ -2,6 +2,8 @@
 
 > This moon doesn’t have distinct areas like the others. Instead, it's a vast ocean, but made of shifting sands. You watch as iridescent outlines of mortal creatures fall into the ocean and create “islands”, seemingly shaped by their memories and desires. The islands blip out of existence as each creature awakes. The ocean appears to contain millions of islands, but none last for long. A small fortress can be seen not too far away, and a huge castle takes up the horizon. Two gates, one of polished ivory and the other of translucent horn, frame an open atrium that serves as your landing site.
 
+### Background and Hook(s)
+
 Crya is the moon furthest from Eberron, thrown out of its orbit by magical forces long ago, it no longer orbits and remains completely stationary. Due to its distance, lack of movement, and dark color, the moon is completely invisible from Eberron. Once up close though, the moon can be observed as completely covered in deep, dark liquid (which is actually shifting sands, when observed up close).
 
 **Inhabitants of the plane include** (think of each type of quori as the demons in Dragon Age, representing a powerful negative emotion):
@@ -14,6 +16,10 @@ Crya is the moon furthest from Eberron, thrown out of its orbit by magical force
  - Kalaraq quori: specialize in pride
  - Tsoreva quori: specialize in envy
  - Usvapna quori: specialize in sloth/hunger
+
+### Characters and Locations
+
+- 
 
 ### Gates of Horn and Ivory
 

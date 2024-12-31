@@ -2,6 +2,8 @@
 
 > You descent upon a vision of life triumphant, and a strong feeling of hope washes over you. Nearby you see the gleaming capital of a new empire, where cheering throngs celebrate in the streets, and a group of settlers work together to raise their first home. In the distance, birds sing in a fertile valley. It’s always morning here, the skies are clear and the sun is fixed in the sky.
 
+### Background and Hook(s)
+
 In his Planar Codex, Dorius Alyre ir’Korran calls Irian the Plane of Light, and indeed, its light is so prevalent that there’s no full darkness within Irian. But it’s also the plane of life, the source of positive energy, the force that sustains life and underlies most healing magic.
 
 **Inhabitants of the plane include:**
@@ -11,6 +13,10 @@ In his Planar Codex, Dorius Alyre ir’Korran calls Irian the Plane of Light, an
 * Angels: primarily devas (embodying the general principles of hope and compassion), but also planetars and a few solars (one for each Architect). All have wings of light, which they can conceal if they wish.
 * Ki-rin: either stag-like (covered in golden or velvety blue fur or golden scales instead of fur) or dragon-like (with golden scales) bodies, with thick manes of golden hair, and the appearance of being ablaze in magical light when in flight.
 * Xag-ya (Positive Energon): formed packets of pure positive light that reach out with whiplike tendrils of energy.
+
+### Characters and Locations
+
+- 
 
 ### Amaranthine City
 

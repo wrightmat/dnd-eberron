@@ -1,16 +1,21 @@
- #adventure #completed [[Central Plateau]] [[Ythana Morr]]
+ #adventure #completed 
 
-### **Background**
+### Background and Hook(s)
 
-The Archierophant, Ythana Morr of the Cathedral of the Cleansing Flame, is the leader of the Church of the Silver Flame in Breland. This arm of the church considers itself separate from the church in Thrane, and in fact they have a bit of a rivalry. At the same time, Ythana is secretly working with the rakshasa Zathara and Bel Shalor, the Shadow in the Flame.
+- The Archierophant, Ythana Morr of the Cathedral of the Cleansing Flame, is the leader of the Church of the Silver Flame in Breland. This arm of the church considers itself separate from the church in Thrane, and in fact they have a bit of a rivalry. At the same time, Ythana is secretly working with the rakshasa Zathara and Bel Shalor, the Shadow in the Flame.
+- The Tarnished Templar that the party encountered in Flamekeep was working for Ythana long before she started helping out Arrendorn. The Archierophant employs a few other Tarnished Templars that spend most of their time in Sharn’s underworld or outside of Sharn rather than in the Cathedral itself. If they do need to come to the Cathedral, they trade their crimson armor for silver armor so as not to be suspected.
 
-The Tarnished Templar that the party encountered in Flamekeep was working for Ythana long before she started helping out Arrendorn. The Archierophant employs a few other Tarnished Templars that spend most of their time in Sharn’s underworld or outside of Sharn rather than in the Cathedral itself. If they do need to come to the Cathedral, they trade their crimson armor for silver armor so as not to be suspected.
+- **Hook: Another Tarnished Templar.** If the party returns to the Cathedral of the Cleansing Flame, the Archierophant is accompanied by a Templar now, whereas before she was alone. The Templar does not speak, and Ythana speaks on her behalf, explaining that she’s come to the Cathedral to rest before returning to her pilgrimage. Any investigation of the Cathedral (DC 12 Investigation) will reveal a set of crimson armor, seemingly in the Templar’s size, stowed away in a small side bedroom.
 
-### **Hook**
+### Characters and Locations
 
-**Another Tarnished Templar.** If the party returns to the Cathedral of the Cleansing Flame, the Archierophant is accompanied by a Templar now, whereas before she was alone. The Templar does not speak, and Ythana speaks on her behalf, explaining that she’s come to the Cathedral to rest before returning to her pilgrimage. Any investigation of the Cathedral (DC 12 Investigation) will reveal a set of crimson armor, seemingly in the Templar’s size, stowed away in a small side bedroom.
+- [[Ythana Morr]]
 
-### Scene 1: The Templar and the Cathedral
+- [[Central Plateau]]
+
+### Scenes and Situations
+
+#### Scene 1: The Templar and the Cathedral
 
 After allowing a few minutes for conversation, the Templar leaves, walking toward the bedroom. A DC 15 Perception check will allow the characters to see a Templar dressed in crimson armor slipping out the back of the Cathedral a few minutes later.
 
@@ -40,7 +45,7 @@ The third successful check leads the party to The Workshop of Tyrial Dashar.
 
 > Amongst the tiny houses carved into the tunnel walls sits a larger stone workshop. It is said that a mighty conjurer created this underground workshop in order to carry out his experiments without placing the city at risk.
 
-### Scene 2: The Workshop of Tyrial Dashar
+#### Scene 2: The Workshop of Tyrial Dashar
 
 A mighty conjurer created this underground workshop in order to carry out his experiments without placing the city at risk. He was eventually killed by a rakshasa that escaped its bonds, and ever since then his workshop has been a fortress of the Lords of Dust. Currently, the rakshasa (sorcerer) Zathara and rakshasa zakya (warrior) Nethatar reside in this dungeon keep. Ythana Morr is working with Zathara in an attempt to free the Shadow in the Flame, Bel Shalor.
 
@@ -60,7 +65,7 @@ The top floor of the workshop operates as a cover for the operations below, with
 
 A hidden staircase can be found in the back of the Clothier’s Closet if fully Investigated (DC 18). Otherwise, the party may convince Cavallah to help them and she can reveal the location of the staircase.
 
-### Scene 3: The Heist
+#### Scene 3: The Heist
 
 The lower level of the workshop is a maze of stone tunnels eventually leading to the dungeon keep serving as the headquarters of Zathara and Nethatar.
 
@@ -87,11 +92,11 @@ For each ten minutes (major action in-game) that’s spent in this area, add a d
 - The safe can be opened with a DC 20 Dexterity (Thieves’ Tools) check. Inside is the papers needed to prove the Archierophant’s association with the Shadow in the Flame.
 - The players will have to escape the area once they have the information they need, without being detected or stopped.
 
-### Scene 4: The Escape
+#### Scene 4: The Escape
 
 Have every player roll a Stealth check with a DC of 13 (the passive Perception of the Tarnished). For every player that fails, add a die to the threat pool. Repeat this if the safe dropped down below the office, as the route back is longer. After the Stealth checks, roll any dice in the pool, and every rolled 6 results in 1 Tarnished Templar attacking them on exit. If the pool fills up with six dice, then the party is attacked by Nethatar on exit (or Zathara the Rakshasa if they’ve already fought Nethatar).
 
-### Conclusion
+#### Conclusion
 
 Zathara works for Durastoran the Wyrmbreaker, Bel Shalor’s *prakhutu* (chosen speaker) who resides in Ashtakala in the Demon Wastes and sits on the Bleak Council of the Lords of Dust. Durastoran the Wyrmbreaker is an ak'chazar rakshasa, a powerful tiger-headed fiend with backwards hands and the coloration of a white tiger.
 

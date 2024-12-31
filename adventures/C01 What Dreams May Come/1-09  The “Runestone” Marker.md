@@ -1,4 +1,4 @@
- #adventure #completed [[Urthhold]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 

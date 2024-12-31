@@ -1,12 +1,10 @@
- #adventure #completed  [[Olarune (Lamannia)]]
+ #adventure #completed 
 
-### Background
+### Background and Hook(s)
 
-[[3-02  Olarune, The Sentinel]]
-
-This is a research and mining station built during the Age of Giants by a faction called the Group of Eleven that is known to have fought the Quori during the invasion. The station has been overwhelmed, abandoned and reclaimed by the plane. In the past, the giants used the facility to mine and research the prismatic geodes, shards, and golems that are native to Lamannia.
-
-Magical crystalline devices can be found throughout the facility that utilize giant magitech to revert the facility back to its former glory (think Timeshift Stones from Skyward Sword). The players are not able to directly interact with things, but can observe their surroundings (which could be helpful for solving puzzles and getting hints).
+- [[3-02  Olarune, The Sentinel]]
+- This is a research and mining station built during the Age of Giants by a faction called the Group of Eleven that is known to have fought the Quori during the invasion. The station has been overwhelmed, abandoned and reclaimed by the plane. In the past, the giants used the facility to mine and research the prismatic geodes, shards, and golems that are native to Lamannia.
+- Magical crystalline devices can be found throughout the facility that utilize giant magitech to revert the facility back to its former glory (think Timeshift Stones from Skyward Sword). The players are not able to directly interact with things, but can observe their surroundings (which could be helpful for solving puzzles and getting hints).
 
 ### Synopsis
 
@@ -16,7 +14,13 @@ Magical crystalline devices can be found throughout the facility that utilize gi
 - Hidden treasure and dangerous shifting sands can be found in what was once a processing chamber for the mine.
 - The central mining chamber itself houses one of the prismatic beings, a golem which has been buried in rock for unknown millennia. If the players can defeat its prismatic shards, then they can escape with a powerful prismatic geode, and even re-activate the doors in the facility in order to make their escape easier.
 
-### Scene 1: Entryway and Titan’s Trap
+### Characters and Locations
+
+- [[Olarune (Lamannia)]]
+
+### Scenes and Situations
+
+#### Entryway and Titan’s Trap
 
 > There’s a shadow looming over you as you enter this space, its source the absolutely towering statue of an armored giant standing nearly 50 ft. high. In one hand it carries a greatclub and in the other a flaming torch. Its eyes, staring out from beneath an open helm, seem transfixed on the doorway, but as you move you get the sense that they are tracking your movement. Beyond this statue, on the opposite wall, is what appears to be an exit.
 
@@ -46,7 +50,7 @@ The device is present here as well, but it’s glowing a dim red (instead of blu
 | 4 | …stares with its stunning gaze. A creature targeted by the titan’s gaze must succeed on a DC 15 Wisdom saving throw or is stunned for one minute. The creature can repeat this saving throw at the end of each of their turns, ending the effect on a success. This save takes place before any relevant roll on the Titan’s Trap table for that creature. A stunned creature returns to consciousness if they take damage. |
 ^titan-trap
 
-### Scene 2: Central Hallway
+#### Central Hallway
 
 A track (for a minecart) can be seen running through this central hallway, which is north of the entry with the Titan’s Trap (Scene 1), between the Mining Chamber (to the north, Scene 5) and the Processing Chamber (to the east, Scene 4). There is no minecart in sight though, and both doors to the east and north are closed. There is one open door to the west that leads to the Research Library (Scene 3).
 

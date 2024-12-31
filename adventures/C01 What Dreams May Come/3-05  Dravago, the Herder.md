@@ -2,11 +2,10 @@
 
 > You look down over a rocky moon that’s frozen solid. Ranges of mountains formed of solid ice, oceans frozen with waves mid-crest, and blizzards that never end are all you can see. But before you can take in too many details, you immediately notice that something isn’t right, as the ship lurches and starts plummeting toward the ice!
 
-### Background
+### Background and Hook(s)
 
-The Group of Eleven was an alliance of empyreans of tremendous skill and power. Each studied a different plane (leaving Fernia to the Sulat League and Dal Quor to the Cul’sir). The archarcanist Il’Ara (female giant) was devoted to Risia, and she magebred her own lineage of frost giants over millennia. When the forces of Argonnessen began to lay waste to Xen’drik, Il’Ara gathered her faithful children and passed through to Risia, certain that they could find sanctuary in the isolation of the Plain of Ice. Il’Ara’s children have since established themselves across the layers of Risia.
-
-At first glance, Risia appears to be barren and empty. But some travelers have described a presence, a sense of being watched, and most feel this presence is malign. On the surface, the concept of Risia seems entirely neutral; there’s nothing inherently evil about ice. But there’s a hunger to Risia— an innate desire to consume warmth and to bury living things in ice. In the Planar Codex, Dorius Alyre ir’Korran calls this force the Killing Cold. This greatest power of the plane of isolation is uninterested in being known, and has never interacted directly with outsiders, but its presence can be felt through its manifestations.
+- The Group of Eleven was an alliance of empyreans of tremendous skill and power. Each studied a different plane (leaving Fernia to the Sulat League and Dal Quor to the Cul’sir). The archarcanist Il’Ara (female giant) was devoted to Risia, and she magebred her own lineage of frost giants over millennia. When the forces of Argonnessen began to lay waste to Xen’drik, Il’Ara gathered her faithful children and passed through to Risia, certain that they could find sanctuary in the isolation of the Plain of Ice. Il’Ara’s children have since established themselves across the layers of Risia.
+- At first glance, Risia appears to be barren and empty. But some travelers have described a presence, a sense of being watched, and most feel this presence is malign. On the surface, the concept of Risia seems entirely neutral; there’s nothing inherently evil about ice. But there’s a hunger to Risia— an innate desire to consume warmth and to bury living things in ice. In the Planar Codex, Dorius Alyre ir’Korran calls this force the Killing Cold. This greatest power of the plane of isolation is uninterested in being known, and has never interacted directly with outsiders, but its presence can be felt through its manifestations.
 
 ### Synopsis
 
@@ -14,6 +13,10 @@ At first glance, Risia appears to be barren and empty. But some travelers have d
 - They must brave an endless blizzard in order to find the frost giant’s home, a tower called Freeheart. From there, they can take a zipline to the tower of Remorse, and take the door out to the Frozen Sea.
 - Just as they find the parts they need, another frost giant, named Garagai, rebukes them for taking things from “his sea”. He offers to let them make up for it by retrieving a magical book from a third tower called Winter.
 - They return the book to Garagai who helps them get back to Freehearth with their needed parts. Lindvuf then helps them repair their ship and get off the moon.
+
+### Characters and Locations
+
+- 
 
 ### Crash Landing
 

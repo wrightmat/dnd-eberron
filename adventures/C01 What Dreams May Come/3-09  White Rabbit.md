@@ -1,19 +1,14 @@
  #adventure #completed  [[Rhaan (Thelanis)]]
 
-### Background
+### Background and Hook(s)
 
-White Rabbit is a criminal organization, that's intent on taking down the Red Casino, and has been sending members in to cheat money out of the casino for years. Recently, the "Face Cards" (leaders of the casino) have been on to White Rabbit's schemes, and have been stopping suspected members from entering the casino. As the organization has become more desperate, they've been sending in more senior members and pivoting to a plan to get in to the casino's main vault.
-
-White Rabbit is led by a female herengon named Celeste, whose right hand is a human man known as Hatter, collectively sometimes referred to as "The Hare and the Hatter". Senior members of the organization include Mr. Dee, Mr. Dum, ..... and others? Celeste led one of the last missions to the casino, along with her girlfriend Alice, but they never returned. Even after Celeste's personality resurfaced within Prism, her memories of the events leading up to her death were hazy. Turns out that even though she made it in to the vault, the final trap was a machine that captures souls and sends them directly to Dolurrh (which she took the brunt of, protecting Alice in the process).
-
-The Red Casino is a comprehensive entertainment venue specially designed by the "Face Cards" to take everyone's money. After all, the house always wins in the end! The casino is themed after playing cards, with each type of staff having attire modeled after a playing card suit, and each individual having only a number to identify them (no names, save the senior staff who use face cards as names).
-
- * Game staff, including dealers and slot attendants, are Diamonds. The Cashier is the Ace of Diamonds.
- * Service staff, including bartenders and kitchen servers, are Hearts. The Concierge is the Queen of Hearts.
- * Security staff, such as those that guard the vault, are Spades. The Pit Boss is the Jack of Spades.
- * Entertainment staff, such as singers employed by the club, are Clubs. The Casino Manager is the King of Clubs. In addition, he will also attend any major emergency to oversee the event and then calm the public.
-
-### Hook(s)
+- White Rabbit is a criminal organization, that's intent on taking down the Red Casino, and has been sending members in to cheat money out of the casino for years. Recently, the "Face Cards" (leaders of the casino) have been on to White Rabbit's schemes, and have been stopping suspected members from entering the casino. As the organization has become more desperate, they've been sending in more senior members and pivoting to a plan to get in to the casino's main vault.
+- White Rabbit is led by a female herengon named Celeste, whose right hand is a human man known as Hatter, collectively sometimes referred to as "The Hare and the Hatter". Senior members of the organization include Mr. Dee, Mr. Dum, ..... and others? Celeste led one of the last missions to the casino, along with her girlfriend Alice, but they never returned. Even after Celeste's personality resurfaced within Prism, her memories of the events leading up to her death were hazy. Turns out that even though she made it in to the vault, the final trap was a machine that captures souls and sends them directly to Dolurrh (which she took the brunt of, protecting Alice in the process).
+- The Red Casino is a comprehensive entertainment venue specially designed by the "Face Cards" to take everyone's money. After all, the house always wins in the end! The casino is themed after playing cards, with each type of staff having attire modeled after a playing card suit, and each individual having only a number to identify them (no names, save the senior staff who use face cards as names).
+	 * Game staff, including dealers and slot attendants, are Diamonds. The Cashier is the Ace of Diamonds.
+	 * Service staff, including bartenders and kitchen servers, are Hearts. The Concierge is the Queen of Hearts.
+	 * Security staff, such as those that guard the vault, are Spades. The Pit Boss is the Jack of Spades.
+	 * Entertainment staff, such as singers employed by the club, are Clubs. The Casino Manager is the King of Clubs. In addition, he will also attend any major emergency to oversee the event and then calm the public.
 
 * Destiny can approach the party at some point and chastise them for being here, as it's "against the story". He opens his book, then says that Prism isn't the person she should be here, and that Astra shouldn't be here at all. Then he slams the book closed, and Celeste appears in place of Prism and Astra disappears (becoming Alice, who is trapped in the Casino vault). The whole party can also be transported to the Fields of Fable where they see a single house (which Celeste/Prism would recognize) at the front of expansive fields, and a large red casino in the distance.
 	* Astra/Alice can also hear in their head (in Destiny's voice): "And I know you sat in my chair".
@@ -24,7 +19,7 @@ The Red Casino is a comprehensive entertainment venue specially designed by the 
 - Within the casino, the players can choose to play any games they'd like, or partake in entertainment, food, or drink.
 - Unbeknownst to Celeste, the vault is heavily locked and trapped, and the last trap is an eldritch machine pointed at the vault door that's designed to immediately kill and transfer the soul of any individual entering it to Dolurrh.
 
-### Characters
+### Characters and Locations
 
 * **Jack of Spades** (he/him) - Pit Boss. He's a no-nonsense type who speaks as little as possible, and as tersely as possible when he does.
 * **Queen of Hearts** (she/her) - Concierge. Essentially the opposite of the Jack, the Queen is in her element while talking to patrons. She makes the rounds and will speak to anyone who is spending money, but is very careful about not giving out information.

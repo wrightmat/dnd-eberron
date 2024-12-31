@@ -1,4 +1,4 @@
- #adventure #completed [[The Cogs]] [[Dolom]] [[Elaydren d’Vown]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
@@ -8,11 +8,20 @@ This adventure takes place in Sharn, the City of Towers. It begins, as many inci
 
 Along the way, if the adventurers are successful, they recover a lost schema— a part of a pattern used by artificers to craft magic items. They also learn that many different agencies are interested in this relic, including those loyal to the various House Cannith elders and agents of the infamous Lord of Blades.
 
-### Scene 1: Death in the Upper City
+### Characters and Locations
+
+- [[Dolom]] 
+- [[Elaydren d’Vown]]
+
+- [[The Cogs]]
+
+### Scenes and Situations
+
+#### Death in the Upper City
 
 This adventure begins as the PCs wander the skybridges and tower balconies of Sharn’s upper city after dark. They could be purposely on their way to a specific location, or they can be exploring the high towers with no distinct destination in mind. Then, as so often happens to adventurers in Sharn, they stumble across a dead body.
 
-#### The Bloody Bridge
+##### The Bloody Bridge
 
 A stroll across the platforms, balconies, and sky bridges of Sharn on a stormy evening leads to a disturbing discovery. 
 
@@ -49,7 +58,7 @@ When the warforged berserker falls, the PCs have a moment to more fully examine 
 
 The journal is extremely resistant to damage, including fire, and any attempts to write in the journal using ordinary means fail. Ink, charcoal, chalk, and other normal writing mediums simply slide off the blank sheets. The journal radiates a strong aura of universal magic. A DC 15 History check allows a PC to recognize the icon on the cover as a primitive version of the House Cannith seal, showing a stylized anvil and hammer inside a circle.
 
-#### The City Watch
+##### The City Watch
 
 The City Watch shows up, a bit late, and demands to know what’s going on. This encounter isn’t meant to lead to battle. The officers of the City Watch may give the adventurers a hard time, but it becomes even harder if the PCs decide to fight the law. Neither their character levels nor their reputations can help them if they wind up on the wrong side of the Watch, but if they cooperate, the PCs might earn a friend or two in high places.
 
@@ -68,7 +77,7 @@ If the PCs cooperate and politely answer Dolom’s questions, they have a good c
 
 At the end of this encounter, provided the PCs convince Dolom that they were trying to help and weren’t involved in the attack on the university provost, Dolom tells the party to go about its business.
 
-#### The Broken Anvil
+##### The Broken Anvil
 
 After the encounter on the skybridge, the Watch either sends the PCs on their way, or they wind up in a Watch holding cell somewhere in Sharn. If they were arrested (because they refused to stand down when Dolom ordered them to), they spend about an hour in a locked cell before Dolom opens the gate and lets them out. “You must have friends in high places,” Dolom tells them as he returns their equipment and turns them out.
 
@@ -98,12 +107,12 @@ The PCs might have a few questions. Here are some of the possible questions and 
 - *How do we reach the lower levels?* “This map shows the way to reach the sewers of the Dorasharn Tower. Somewhere beyond the E-213 Valve Cluster you’ll find a sealed door with the same mark as the one on Bonal’s journal. Open the seal, and the tunnel beyond will take you to the long-forgotten level far below, where the foundry resides.”
 - *Are there any dangers we should be aware of?* “Other than the Lord of Blades, who may have other agents seeking the schema, who knows what lurks in the hidden places beneath the city? Now that I think about it, Bonal did say that he would definitely need to bring fire on the expedition. I wonder what he meant? Anyway, I urge caution, but I am completely confident that you can handle anything you may encounter in your search.” (If the PCs tell her about the final messenger, she looks troubled, then says that the Lord of Blades most definitely is aware of the situation.)
 
-### Scene 2: Into the Depths
+#### Into the Depths
 
 The adventurers can easily follow Elaydren’s map to the sewer level of the Dorasharn Tower. The tower, one of the more ancient spires of the city, is inhabited from its middle levels on up. A complex sewer system separates the inhabited levels from the lower levels that have been closed and sealed for more than a thousand years.
 The PCs need help finding the E-213 Valve Cluster, and the best place to find such assistance is at the Rat’s Market. From there, they must defeat another agent of the Lord of Blades to reach the sealed door to the abandoned lower levels of the tower.
 
-#### The Rat’s Market
+##### The Rat’s Market
 
 Elaydren’s map leads the PCs to the lowest inhabited level of the Dorasharn Tower. Now they have to find a way to enter the sewer level that runs beneath their feet.
 
@@ -122,7 +131,7 @@ Once the PCs and Skakan agree to terms, he folds up his merchandise and leads th
 
 **Development**: While the PCs negotiate with Skakan, any character not directly involved in the conversation can make a DC 12 Perception check to notice that one of the shifters in the crowd is paying a lot of attention to the heroes. The shifter is across the large chamber, and if any of the PCs notice him, he immediately fades into the crowd and disappears.
 
-#### Sharn Sewer
+##### Sharn Sewer
 
 Read or paraphrase the following text when the PCs proceed into the entrance to the E-213 Valve Cluster.
 
@@ -138,7 +147,7 @@ On initiative 20, roll 1d12 to determine which valve cycles open. Any character 
 
 **Development**: If the warforged is disabled, his final messenger dislodges and flies up the stairs the PCs descended into this sewer tunnel. The messenger provides the leader of this warforged mission to Sharn with the information it needs to track the PCs into the ruins of Dorasharn.
 
-#### The Door to Yesterday
+##### The Door to Yesterday
 
 With the warforged and his hired shifters defeated, the adventurers can continue through the tunnel. When they reach the spot marked “C” on the map, they come upon the sealed passage that leads to the ancient depths of Dorasharn Tower.
 
@@ -148,7 +157,7 @@ The door radiates magic. If the PCs attempt to open it by normal means, they tri
 
 **Trap**: An acid splash trap protects the hatch, which can be discovered with a DC 20 Investigation check. If someone tries to force open the door or unlock it by magical or mundane means (other than by using the journal), three orbs of acid shoot from the hatch to strike random targets within 10 feet of the sealed doorway (1d3 acid damage). The trap resets automatically. If it is disabled, it resets itself after 10 minutes have passed. Even if the trap is disabled, only Bonal’s journal can open the door.
 
-### Scene 3: The Ruins of Dorasharn
+#### The Ruins of Dorasharn
 
 The circular hatch opens onto a vertical shaft 5 feet wide and cloaked in pitch blackness. Wind rushes from the depths to find release somewhere higher in the tower, demonstrating that fresh air continues to circulate even in the forgotten sections of the tower. If the PCs have ropes and other climbing gear, the descent isn’t that difficult. Eventually, the shaft begins to level out and becomes an almost horizontal tunnel just before it opens onto a ruined section of ancient Dorasharn.
 
@@ -163,7 +172,7 @@ This large chamber rises to a height of 30 feet, and the remains of a number of 
 4. Horrid Rats: Another threat, composed of inhabitants of the ruins, tries to make a meal out of the PCs.
 5. House Cannith Foundry: The goal of the adventure, the schema, waits within this ancient structure.
 
-#### Beetle Swarm
+##### Beetle Swarm
 
 As the PCs drop down into the large chamber and enter the area marked “1” on the map, they hear a disturbing sound. A constant background noise rises from walls and ruins around you. It takes a moment to recognize, but eventually the sounds of chittering and buzzing can be picked out from among the cacophony. It’s not unlike the sound of insects in the King’s Forest, except that the chamber seems to amplify and echo the noise in disturbing ways.
 Have the PCs make DC 15 Perception checks. Anyone who succeeds hears the angry chittering and clacking of carapaces suddenly grow louder as a swarm of black beetles rushes toward them (use Swarm of Hoard Scarabs monster stat block). Anyone who fails the check can’t act in the surprise round.
@@ -175,26 +184,26 @@ Have the PCs make DC 15 Perception checks. Anyone who succeeds hears the angry c
 **Tactics**: The beetle swarm is hungry and cunning, but it isn’t intelligent. It rushes toward the nearest possible food source and is content to swarm over that target for as long as it remains alive and in the space. Fire attacks and alchemical weapons work best against the swarm. A torch can be used as an improvised weapon, dealing 1d3 points of fire damage with each successful hit. A lantern can be used as a thrown weapon, dealing 1d4 points of fire damage to all creatures in squares adjacent to where it breaks, and +50% more damage against the swarm.
 If the PCs can avoid the beetle swarm for 3 consecutive rounds, the swarm breaks up and the beetles go off to do beetle things. (Of course, if the heroes run into another encounter area, they may have to deal with that threat at the same time as the swarm.) If a PC wants to retreat back into the tunnel by which he or she arrived, he or she must succeed on a DC 13 Athletics/Acrobatics check.
 
-#### Ruined Temple
+##### Ruined Temple
 
 The outer walls of this building suggest that it was once a temple. If any PC succeeds on a DC 12 Religion check, he or she recognizes the ancient symbols of Onatar, god of artifice and the forge, built into the columns and supports. If the PCs enter the ruined structure, they notice that the place has a quiet, serene feel about it. Indeed, none of the creatures roaming the chamber will enter this location, and the PCs can rest and recuperate here if they so choose.
 If the PCs do spend 8 hours or more to recover hit points and spells, the Lord of Blades lieutenant charged with recovering the schema sneaks into the large chamber. Saber, one of the trusted followers of the Lord of Blades, won’t attack the PCs until after they have entered and emerged from the foundry. Until then, he remains in hiding, watching and waiting and determining the extent of their skills and abilities.
 If the PCs examine the ruined temple’s interior (DC 15 Investigation check), they discover a partially buried font in the northwest corner (marked “B” on the map). The clear liquid in the font is the equivalent of a potion of cure wounds. There’s enough liquid for three doses of the healing potion.
 
-#### Saber’s Ambush
+##### Saber’s Ambush
 
 Until the PCs have entered the foundry, Saber remains hidden. The warforged who leads the team that was sent to Sharn to find Bonal Geldem and recover the schema is now on his own. The PCs have defeated his assistants, but thanks to their final messengers, he has been able to catch up with and follow the PCs to the ruins far beneath Dorasharn Tower.
 If the PCs examine the piles of rubble behind the column of stone, they don’t find anything of interest other than two narrow passages that lead to other parts of the lower tower. After the PCs emerge from the foundry (hopefully with the schema), Saber ambushes them from the cover provided by the column and the surrounding piles of rubble. See Scene 4: Endgame for details of the final encounter.
 
-#### Horrid Rats
+##### Horrid Rats
 
 When the PCs first enter this section of the ruins, they attract the attention of a pair of horrid rats (use the Wererat monster stat block). The horrid rats are fearless hunters, moving to flank the weakest-looking member of the party. 
 
-#### House Cannith Foundry
+##### House Cannith Foundry
 
 The PCs eventually reach the goal of this expedition. The challenge presented by the House Cannith foundry consists of three missions: finding a way in, defeating the iron defenders that guard the interior, and accessing the vault that holds the schema.
 
-#### Getting In
+##### Getting In
 
 The House Cannith foundry is the only intact building in this section of the tower. If the PCs walk around the foundry, they see solid walls and a double door on the western side of the building.
 The double door appears to be made of adamantine. The same icon as on the cover of Bonal’s journal spans both sides of the double door, but the same technique that opened the sealed hatch won’t work here. The adamantine layer of the door has hardness 20 and 20 hit points. This is followed by three inches of steel with hardness 10 and 90 hit points. In addition, an arcane lock spell and an amazing lock (DC 30) seal the door.
@@ -202,7 +211,7 @@ The stone walls of the building have hardness 8 and 360 hit points. If the PCs u
 The easiest way into the building is through the gaping hole in the roof. The walls are 20 feet high and easy to scale (Athletics DC 10).
 However they accomplish it, go to the next encounter when the PCs enter the foundry.
 
-#### Iron Defenders
+##### Iron Defenders
 
 House Cannith established this foundry around the time of the War of the Mark. Kedran d’Cannith ran the place when he wasn’t seeking ancient secrets or exploring new ways to improve his Making techniques. Legends insist that he created a powerful pattern using texts he found when he explored what is now known as Xen’drik. Only Baron Merrix d’Cannith, Elaydren’s secret patron, has the faintest idea what the pattern can create, and he wants the schema for himself. The schema is only one part of the four-part pattern. The other parts and whether or not Merrix acquires them are left for future adventures.
 
@@ -214,7 +223,7 @@ House Cannith established this foundry around the time of the War of the Mark. K
 
 **Treasure**: The shelves along the southern wall are mostly empty, though there are a number of objects wrapped in ancient oilcloth. The following items can be found if the PCs spend 20 minutes making a careful examination of all the shelves: 1 suit of scale mail, 1 small chain shirt, 3 small steel shields, 1 heavy mace, 1 longsword, 1 rapier.
 
-#### The Vault
+##### The Vault
 
 The huge forge and furnace combination looks like a primitive version of the same components found in any House Cannith shop or enclave. The forge and furnace fill the easternmost 10 feet of the room, and metal tiles cover the floor 10 feet in front of the heroes. Three depressions, evenly spaced atop the forge, show a pentagon, a triangle, and a square. The rods fit into their respective depressions.
 
@@ -227,11 +236,11 @@ The huge forge and furnace combination looks like a primitive version of the sam
 If the PCs find a collector, they can sell the silver pieces and gold pieces for twice what they are worth. The old map shows a number of cryptic symbols spread throughout what appears to be ancient depictions of the territory now divided between the Mournland and Darguun. These can be used as hooks for future adventures of your own design; the meanings of the symbols are revealed in the Eberron adventure Shadows of the Last War.
 The schema appears as an adamantine plate shaped into a seven-pointed star. It is slightly more than six inches long from point to point, and is covered with strange engraved patterns. It radiates a strong aura of transmutation magic, but it has no magical abilities of its own. An identify spell reveals that it is a piece of a larger relic designed to make a greater whole.
 
-### Scene 4: Endgame
+#### Endgame
 
 As the PCs leave the foundry to return to the upper levels of the city, they encounter the Lord of Blades’ last agent in Sharn — Saber.
 
-#### Saber
+##### Saber
 
 Saber waits within the rubble across from the foundry (area 3 on the Ruins of Dorasharn map). He has a crossbow with two flaming bolts. He fires once when the PCs emerge from the foundry, surprising them. While under cover, he fires the second bolt. Then he leaps out to engage the PCs in melee combat (use the **Archer** (CR 3) monster stat block).
 
@@ -241,7 +250,7 @@ Saber has no intention of allowing the PCs to remain alive after all the trouble
 
 Saber fights fiercely until he is reduced to 10 hit points. Then he tries to escape. If the PCs let him flee into one of the passages, he can return in the future as a recurring villain. Otherwise, he fights to the death or until he can escape with the schema.
 
-### Conclusion
+#### Conclusion
 
 If Saber escapes with the schema, the PCs have failed Lady Elaydren and don’t get the rest of their reward. If they return the schema to her, she gives them the remaining gold. She meets the PCs in the Broken Anvil, dressed in a shimmering blue glamerweave gown and with a powerful House Cannith bodyguard at her side.
 

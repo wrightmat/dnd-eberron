@@ -1,4 +1,4 @@
- #adventure #completed [[Mordain’s Hall]] [[Frederic]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
@@ -15,10 +15,7 @@
 - **Hook: Madness and Night Align**. You still struggle to understand the nature of the Draconic Prophecy. Moons, planes, dragonmarks—for those with eyes to see, the Prophecy has the power to shape the future. Your patron (Professor Frederic of Arcanix) believes that a fragment of prophecy from the Talash Siberys— an ancient codex held by the dragons of Argonnessen— is about to come to pass. As such, he has tasked you with finding a relic known as the Coat of Eyes, sending you to the tiny village of Blackroot in the Shadow Marches. There, you are to speak with Doria Veledaar, a former resident of the village and House Tharashk inquisitive who claims to have information regarding the Coat.
 - This hook works best for PCs who have a connection to an academic or arcane institute, including Morgrave University, Arcanix, the Library of Korranberg, or the Twelve. Define the patron based on this connection, and read the excerpt from the Talash Siberys at the start of the adventure. The patron believes that Doria’s information relates to the imminent convergence of Mabar and Xoriat in the region of Blackroot, and he wants the PCs to investigate.
 
-**What Do You Know?**
-
-Before starting the adventure, set the scene by telling the players what they know about the Shadow Marches. A PC knows the following information with a successful skill check.
-
+**What Do You Know?** Before starting the adventure, set the scene by telling the players what they know about the Shadow Marches. A PC knows the following information with a successful skill check.
 - **History DC 8**: The Shadow Marches are not a recognized nation. Rather, the Marches are an independent territory whose established relationships with its neighbors and the outside world come largely from the presence of House Tharashk. The folk of the Shadow Marches have a reputation for xenophobia, and outsiders are rarely welcomed here.
 - **History DC 12**: Orcs make up more than half the population of the Marches, though humans, half-orcs, and other races also dwell here. The Shadow Marches are composed of two distinct cultures—the orc tribes that first settled these lands and the clans formed by later human migrants.
 
@@ -27,7 +24,15 @@ in the central Marches see few visitors.
 Closer to the outer edges of the Marches, mixed clans of humans and half-orcs are more accepting of the outside
 world, mostly through their association with House Tharashk. The clans have more in common with the folk of “civilized” Khorvaire than do their kin in the orc tribes, and they demonstrate a greater level of trust toward outsiders.
 
-### **Scene 0: Arriving in Blackroot**
+### Characters and Locations
+
+- [[Mordain the Fleshweaver]]
+
+- [[Mordain’s Hall]]
+
+### Scenes and Situations
+
+#### Arriving in Blackroot
 
 > Your journey through the Shadow Marches has left your cloaks and armor covered in mud, your clothes soaked with sweat. Hungry insects buzz about you, and the air is warm and wet. Your destination is Blackroot, a village tied to the Dorrm and Veledaar clans. The sun is beginning to set when the settlement finally comes into view. Like most villages in the Marches, this small community offers few amenities and no dragonmarked house services. There is no central authority in the Shadow Marches, and the village reeve is responsible for administering justice in the local region.
 > Blackroot draws its name from the darkwood trees that thrive in this region, their tangled roots rising up from the soil to all sides. The ground here is relatively solid for the Marches, and the village sits atop a rocky rise. Its huts sit directly upon the ground instead of being raised on stilts above marshland, as is common elsewhere in the region. Orcs, humans, and half-orcs work together in the nearby orchards or pass along the main street. None of them seem particularly pleased to see you.
@@ -38,7 +43,7 @@ Given that the cottage is empty, Toraash won’t stop the PCs from visiting it o
 While the PCs are investigating in Scene 1, Toraash slips away to the caves (see Scene 2). His absence from the village during the skill challenge can be easily noted by the PCs.
 On the off chance that the PCs decide to immediately attack Toraash, the reeve flees the scene, running for the cavern entrance (Scene 2). An orc war chief (CR 4) and three cultist fanatics (CR 2) move to engage the PCs, buying Toraash time to escape.
 
-### **Scene 1: Where’s Doria?**
+#### Where’s Doria?
 
 This skill challenge represents the player characters’ search for clues regarding the disappearance of Doria and her family. By talking to the people of Blackroot and investigating the Veledaar dwelling, they learn that Doria and her family were kidnapped. The party can then trail the cultists to their lair.
 
@@ -84,7 +89,7 @@ This check does not earn a success or failure in the challenge, but the PCs are 
 
 The PCs can choose to attack the villagers, but any such fight is a one-sided affair (treat the villagers as minions; +4 vs. AC; 3 damage). Moreover, while the villagers are uniformly fearful of the cult, they are not active cultists. All the ranking members of the cult have already gone to the caverns in preparation for the Harvest about to begin
 
-### Scene 2: Cavern Entrance
+#### Cavern Entrance
 
 Four champions of Belashyrra guard the entrance to the cult’s subterranean shrine.
 
@@ -131,7 +136,7 @@ Once battle is started, the orc wardens close quickly. They use Belashyrra’s e
 >
 >Additionally, if the cultists in this or any later encounter are taken alive and interrogated, they reveal the story of the Harvest. Paraphrase the information given in the “Background” section. Within hours, Doria Veledaar and a number of other villagers taken for the rites will be claimed by the Lord of Eyes.
 
-### Scene 3: The Hall of Living Words
+#### The Hall of Living Words
 
 This area holds neither a battle nor a skill challenge, but the PCs can use this encounter to improve their odds in upcoming encounters. There are no creatures in this long corridor. It simply sets the mood of what is to come, and might help or hinder the characters in Scenes 4 and 5.
 
@@ -153,7 +158,7 @@ Any PC can attempt to decipher the living words of the cavern walls. It is not a
 
 A character who tries to read the words and fails takes 1d6+4 psychic damage as the spiritual energy imbued within the symbols corrupts his soul. PCs who attempt this check also gain advantage or penalty as the party proceeds through the caverns. See the next two scenes for more information.
 
-### Scene 4: Glyphs of Madness
+#### Glyphs of Madness
 
 There are no monsters in this area, but a magical trap can set the cult’s enemies against each other.
 
@@ -194,7 +199,7 @@ A swirling mass of burning crimson lines covers the floor. The pattern slithers 
 - A character who attempted to read the walls in Scene 3 and failed takes a –2 penalty to checks to disable the trap and to saving throws against the dominate effect.
 - A character can jump over the glyph.
 
-### Scene 5: The Baleful Eye
+#### The Baleful Eye
 
 A dolgaunt servant of Belashyrra has come up from Khyber for the Harvest, and is currently leading the cultists in prayer. Drawing on the power of Xoriat, a massive eye is embedded in the wall of this chamber — a mystical warden guarding the passage to Khyber.
 
@@ -258,7 +263,7 @@ After the cultists are defeated, the PCs can proceed through the deep gate (see 
 >
 >**History DC 20**: Descended from hobgoblins tortured by the daelkyr, the cunning dolgaunts often serve as officers in the terrifying armies of the lords of madness. They speak to one another silently using a kind of tendril sign language, and can sense messages from up to 30 feet away.
 
-### Scene 6: The Blood of Khyber
+#### The Blood of Khyber
 
 Until this point, the cultists’ secret shrine has been set within natural caverns. Now, the party descends into the underworld of Khyber — a place twisted by the madness of Xoriat and the darkness of Mabar. The passage down is narrow, and the PCs must walk single file.
 
@@ -300,7 +305,7 @@ While fighting, the dolgrims shout out continuously in Deep Speech, typically cr
 >
 >**History DC 20**: The daelkyr first created the repulsive dolgrims by combining two tortured goblins into a single body. The two brains of the dolgrim allow it to act with astonishing speed and to resist charm effects, though its shattered consciousness leaves it vulnerable to psychic damage.
 
-### Scene 7: The Well of Darkness
+#### The Well of Darkness
 
 This area is the nexus of Mabar’s influence in these caverns— a zone of shadow patrolled by living darkness.
 
@@ -321,9 +326,7 @@ The living darkness uses Stealth to hide within the shadow of the well of darkne
 
 [https://www.dndbeyond.com/monsters/3024306-living-darkness](https://www.dndbeyond.com/monsters/3024306-living-darkness)
 
-**Tactics**
-
-After some time since the moment PCs enter the room, the living darkness engulfs the character closest to the center:
+**Tactics**. After some time since the moment PCs enter the room, the living darkness engulfs the character closest to the center:
 
 > The cavern is bathed in a gloom which no light can penetrate. Suddenly, the darkness becomes solid around you.
 
@@ -337,7 +340,7 @@ If the living darkness takes radiant damage from a PC’s attack, it flies into 
 
 At the DM’s discretion, the living darkness can release engulfed creatures to go after the enemy if it’s struck with radiant damage.
 
-### Scene 8: The Hungry Room
+#### The Hungry Room
 
 The servants of the daelkyr stand watch over the path to the prisoners, and the floor itself is set to devour unwary intruders. Unlike their fellows in Scene 6, these guards are alert at all times.
 
@@ -370,7 +373,7 @@ As you make your way across the treacherous floor, a fanged maw opens up below y
 
 - This hazard cannot be disabled or delayed — just avoided. A character who makes a DC 10 Athletics check (DC 5 with a running start) can jump over a mouth. However, the living floor makes it difficult to get a running start (see “Features of the Area”).
 
-### Scene 9: Toraash’s Last Stand
+#### Toraash’s Last Stand
 
 The Coat of Eyes occasionally shares visions with its wearer, and the cult leader Toraash is aware of the PCs’ approach. He has chosen this place to make a stand and face them — and he has Doria Veledaar as a hostage. The PCs cannot gain surprise without approaching unheard and unseen, but Toraash’s passive Perception of 17 makes that a challenge. As soon as he catches sight of a PC in the hall, the cult leader hails them.
 
@@ -396,7 +399,7 @@ Starting in the second round of combat and every two rounds thereafter, two more
 
 The cult forces fight to the death. When Toraash falls, he cries out “His eye! His eye will be upon you!” As he collapses, the Coat of Eyes releases from his corpse and crawls a few feet away of its own accord. The PCs can see where it was bound to Toraash’s bare flesh, the orc’s skin shredded as the symbiont’s tendrils pulled free.
 
-### Scene 10: Soul Prison
+#### Soul Prison
 
 The final challenge of the adventure is to disable the soul prison—a horrid eldritch machine transforming the villagers of Blackroot into servants of the daelkyr.
 
@@ -437,17 +440,14 @@ The characters must disrupt the eldritch energy of the soul prison.
 
 **Failure**: The prison is shut down, but doing so unleashes a final blast of eldritch energy that deals 4d6 force damage to each PC in the chamber.
 
-### Conclusion
+#### Conclusion
 
 With Toraash defeated and the survivors freed, the threat to Blackroot is ended. When the conjunction between Mabar and Xoriat ends in a few hours, the deep gate (see Scene 5) will close and stay sealed for decades. Any surviving cultists are freed from the influence of Khyber and can return to their lives. A concealed staircase leads to a well-concealed secret entrance outside, on the back side of the cave.
 
-**What’s Next?**
-
-Whether the PCs were sent to find the Coat of Eyes or not, they need to decide if they want to take it in the aftermath of the adventure. Regardless, the Coat of Eyes remains tied to the daelkyr Belashyrra. Consider the following possibilities.
-
+**What’s Next?** Whether the PCs were sent to find the Coat of Eyes or not, they need to decide if they want to take it in the aftermath of the adventure. Regardless, the Coat of Eyes remains tied to the daelkyr Belashyrra. Consider the following possibilities.
 - The daelkyr have no desire to see the world fall to the Dreaming Dark or the Lords of Dust. Though Belashyrra remains as rapacious as all of his kind, he might offer guidance through the Coat to help the PCs defeat other forces of evil.
 - The Coat might give its bearer visions of wonders deep within Khyber, suggesting places the PCs could explore. This could be a source of adventure, but what motivates the artifact?
-- The Coat and its wearer have roles to play in the Prophecy. Both the dragons of the Chamber and the Lords of Dust might try to gain the PCs’ favor—or to control them.
+- The Coat and its wearer have roles to play in the Prophecy. Both the dragons of the Chamber and the Lords of Dust might try to gain the PCs’ favor — or to control them.
 
 [[Coat of Eyes]]
 
@@ -462,4 +462,4 @@ Whether the PCs were sent to find the Coat of Eyes or not, they need to decide i
 
 ### References
 
-* Based on *Khyber’s Harvest* by Keith Baker.
+* Based on *Khyber’s Harvest* by Keith Baker

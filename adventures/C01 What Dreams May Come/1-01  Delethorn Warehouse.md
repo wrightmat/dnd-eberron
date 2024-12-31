@@ -22,7 +22,9 @@
 
 * **[[Delethorn]]**
 
-### Scene 1: Access Warehouse (via Sewers)
+### Scenes and Situations
+
+###### Access Warehouse (via Sewers)
 
 If the players seek out and speak to Boraz, he will direct them to the sewer opening outside, and warn them of some of the dangers he's encountered. It will not be a simple matter to get through the sewers, and a number of natural dangers have grown up in there such as the Violet Fungus.
 
@@ -37,7 +39,7 @@ The Sewers are completely dark. Since sewers are often filled with volatile gase
 5. The west branch of the sewer has another rung ladder that leads out of the Sewers to a forest west of the city, on the edge of The Gloaming. A oily pool is on the floor at the end of the hall before the ladder, which if interacted with will reveal itself as a Gray Ooze (CR 1/2).
 6. The east branch of the Sewer has a flooded floor that drops down 5'. This is the end that eventually drains into Lake Galifar, and there's nothing else of interest here.
 
-### Scene 2: Access Warehouse (via Lake)
+######  Access Warehouse (via Lake)
 
 Players will need to talk to Ditan and convince him to let them use the galleon to access the Warehouse (DC 15 Persuasion). The galleon has a speed of 10 miles per hour.
 
@@ -45,7 +47,7 @@ When they get far enough away from the dock, a thick fog rolls in. A DC 15 Perce
 
 When the players reach the dock of the Warehouse, there are three Zombie workers moving crates. They will ignore the players unless attacked, but will fight if provoked. The player can choose to dock the ship on the far side of the building (requiring a more difficult DC 20 Intelligence check to steer) and sneak into the building without being anywhere near the zombies, or dock directly at the end of the dock (DC 10 Intelligence) and have to walk right past them.
 
-### Scene 3: Explore Warehouse
+######  Explore Warehouse
 
 All the windows of the Warehouse are boarded up, since the Wight foreman is sunlight sensitive. There is dim light throughout, so no darkvision necessary.
 
@@ -62,7 +64,7 @@ The party enters either in a small bathroom in the southwest corner (0, from the
 	- DC 15 Arcana / DC 20 Investigation: A single Speaking Stone is found in a drawer of the Foreman's desk
 7. (Balcony): This simply serves as another way for the players to safely observe the working Zombies below.
 
-### Conclusion
+###### Conclusion
 
 If the players engage and attack the Foreman, he may participate in a few rounds of combat (in which he should use Life Drain once), but should command four of his Zombie workers to attack instead. Once the Zombies have engaged the party, the foreman should slip away to the sewers and exit west on his way to The Gloaming (he's going after a Mabar Crystal he planned to get to build a Mabaran Resonator, and the plan has to be sped up now that he's discovered). After defeating the Zombies, the players should find a map of The Gloaming with a diagram of a Mabaran Resonator nearby.
 

@@ -2,9 +2,15 @@
 
 > There are masses of swirling colors, hues never seen on Eberron. There are ripples in space that disrupt time in their wake. There are bursts of powerful emotion that drift across the plane. These may well be alive in some way — but there’s no way to communicate with them. An endlessly expansive maze covers the entire area of the moon you can see as you descend, but a clear landing spot can be seen.
 
+### Background and Hook(s)
+
 The entire sky of Lharvion can be described as a synesthetic experience of a discordant symphony — a swirl of colors that stir up emotions and evoke the conception of music in the mind. A symphony that's discordant in the best possible and most pleasant way, but could never be fully understood by the mortal mind, and may drive someone mad if they dwell on it too long. Some areas of the moon have additional features, such as the many eyes in the Unseen Citadel, and the Draconic Prophesy inscribed walls of the Maze of Reality, but the swirling sky can still be seen everywhere. The ground is a similar but more subtle pattern of colored sand, similar to childrens' sand art in slowly shifting swirls.
 
 The maze is the only thing that can be seen when the players near the moon. There is a clear landing spot in a large room at the front of the maze, but it stretches off far enough that the players can’t ascertain where to go in the maze from the sky. The maze itself has several dead-ends that end in portals to various different locations in the plane (below). The very center of the maze leads to Delirium’s Dollhouse.
+
+### Characters and Locations
+
+- 
 
 ### The Maze of Reality
 

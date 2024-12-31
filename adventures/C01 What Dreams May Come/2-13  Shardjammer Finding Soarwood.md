@@ -1,4 +1,4 @@
- #adventure #completed [[Aerenal]] [[Pylas Talaear]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 

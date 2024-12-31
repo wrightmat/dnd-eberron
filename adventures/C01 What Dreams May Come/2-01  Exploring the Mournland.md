@@ -1,4 +1,4 @@
- #adventure #completed [[Mournland (Cyre)]] [[Ikar the Black]] [[Daneel Thornwaist]] [[Enchanter]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
@@ -33,7 +33,13 @@ Certain numbered points of interest exist on the map. Upon reaching one of those
 
 Upon each entry to any new hex that isn’t a POI as described above, roll a d20. On 18 - 20, a random encounter occurs based on the terrain type - roll on the appropriate random encounter table. On a 1, in any location except for the Dead-Grey Mists, an encounter with Ikar’s Salvage occurs (see end of encounters list) - or this can be replaced by an encounter with the Lord of Blades (after he’s learned about in the Warforged Enclave, Warforged Wanderers, or Lord of Blades Enclave encounters) if you prefer.
 
-### Locations
+### Characters and Locations
+
+- [[Ikar the Black]] 
+- [[Daneel Thornwaist]]
+- [[Enchanter]]
+
+- [[Mournland (Cyre)]] 
 
 #### 0. The Dead-Grey Mists
 

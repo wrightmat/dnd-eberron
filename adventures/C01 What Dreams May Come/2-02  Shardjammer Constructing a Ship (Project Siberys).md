@@ -1,4 +1,4 @@
- #adventure #completed [[Mournland (Cyre)]] [[Lei d'Cannith]] [[Daine Halar Deneith]] [[Pierce]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 

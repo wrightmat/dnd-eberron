@@ -1,4 +1,4 @@
- #adventure #completed [[Dabbledob]] [[Hareth and Halekosh]] [[Talon]] [[Oaken Mace]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
@@ -22,7 +22,7 @@ The goal is to discover who murdered M. Raclette before the train arrives at Sha
 
 ### Scenes and Situations
 
-#### Scene 1: All Aboard
+#### All Aboard
 
 > The majestic Orien Express shoots across the landscape, open plains and sparse dots of forest are all that populate the eye. The distinct sound of crackling carries the lightning rail effortlessly over the conductor stones.
 > As you nod off to sleep in your compartment, you recall the evening’s events. After boarding the train, which was not as full as you expected, you entered the dining car. Looking around, only two men sat at a table enjoying a drink, one in a uniform denoting lightning rail security. The uniformed man walked away, and you joined the gentleman (who you learned was named Samuel Raclette) at the table for a light dinner. After an hour or so, you retired to Samuel’s compartment in the first-class car for a nightcap.
@@ -30,7 +30,7 @@ The goal is to discover who murdered M. Raclette before the train arrives at Sha
 
 Prior to even the sun coming up, the Orc pilot, Tomph, comes trudging down the hall of the Passenger Car. One of the passengers (Vanuath) reported to Roscoe, the Halfling helper, a strange sound from a neighboring cabin. The Halfling checked on the sound, and found Samuel Raclette dead, which he immediately reported to Tomph.
 
-#### Scene 2: The Orien Express
+#### The Orien Express
 
 The party is traveling on the Orien Express, a lightning rail with elemental cars at the front and back of the train, and six other cars in between them. The scene begins in the Passenger Car where Tomph has just delivered the news, and the party can easily get to the Dining Car or Lounge Car by moving one over.
 
@@ -82,7 +82,7 @@ The cargo car is the same size as every other car, except that instead of tables
 - DC 17 Investigation: You find the body of Vanuath, the real one.
 - DC 22 Investigation: Dabriel stashed his mace amidst the mess, and it is found behind a stack of boxes.
 
-#### Scene 3: The Passengers
+#### The Passengers
 
 In addition to the suspects listed below, the two characters who work on the train are Tomph and Roscoe.
 
@@ -149,7 +149,7 @@ A radiant dark-skinned elf, beautiful and beguiling. Light elven armor adorns he
 - Knowledge: She did see Raclette after dinner, and she is somewhat ashamed to admit it. But she maintains that she left his compartment by midnight.
 - Truth: Vanuath is actually a Radiant Idol named Dabriel - using the Disguise Self spell. He is the murderer. (If questioned repeatedly, the observant player might notice that Vanuath claims that they are from a different line of Tairnadal elves each time. Once Draleus Tairn, the next Silaes Tairn, then maybe Valaes Tairn).
 
-#### Scene 4: Conclusion
+#### Conclusion
 
 Depending on how and when the players discover Dabriel’s true identity, and that he murdered Raclette, the Radiant Idol will escape to the Cargo car. Unless it was found earlier, Dabriel will recover his mace from its hiding place. He will fight until half health - and then attempt to climb to the outside roof of the rail to escape.
 
@@ -161,4 +161,4 @@ With the murderer subdued and ideally captured, Tomph is happy to pilot the Orie
 
 ### References
 
-* Murder on the Orien Express
+* Murder on the Orient Express

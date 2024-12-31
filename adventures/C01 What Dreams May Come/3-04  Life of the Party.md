@@ -1,12 +1,9 @@
  #adventure #completed [[Eyre (Fernia)]]
 
-### Background
+### Background and Hook(s)
 
-[[3-04  Eyre, the Anvil]]
-
-Phlain has a plan to unseat the Sultan Azhalar with his next gala. And what’s in fashion at the moment? Adventurers. Will the party help him, with a promise to reward them well if they make the gala a success? Can the characters shine at a party of efreet and dao? Do they know which fork to use, especially when one of them is on fire? What happens when Azhalar’s salamander general challenges a party member to a duel?
-
-### Hook(s)
+- [[3-04  Eyre, the Anvil]]
+- Phlain has a plan to unseat the Sultan Azhalar with his next gala. And what’s in fashion at the moment? Adventurers. Will the party help him, with a promise to reward them well if they make the gala a success? Can the characters shine at a party of efreet and dao? Do they know which fork to use, especially when one of them is on fire? What happens when Azhalar’s salamander general challenges a party member to a duel?
 
 * When the players meet Phlain, and anytime thereafter if they refuse initially, he tries to convince them to help with his plan. Bystan can also plead for their help.
 
@@ -14,6 +11,10 @@ Phlain has a plan to unseat the Sultan Azhalar with his next gala. And what’s 
 
 - The characters wander the party at their leisure, using their time to schmooze the attendees and convincing them to support Phlain as Sultan. Some activities will give them bonuses to their rolls when trying to chat someone up.
 - Once enough people have been convinced to tip the scales, Phlain challenges the existing Sultan to a duel, as is tradition. The party will fight for him in battle, and success will mean that Phlain takes the throne.
+
+### Characters and Locations
+
+- 
 
 ### Scene 1: The Party
 

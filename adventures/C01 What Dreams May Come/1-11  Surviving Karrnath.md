@@ -1,4 +1,4 @@
- #adventure #completed [[Karrnath]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 

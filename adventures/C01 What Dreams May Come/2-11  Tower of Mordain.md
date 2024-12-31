@@ -1,8 +1,16 @@
- #adventure #completed [[Mordain’s Hall]] [[Mordain the Fleshweaver]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
 The Coat of Eyes, if listened to by the party, will lead them toward the center of the Forest of Flesh, where a large tower made out of the flesh of a black dragon can be found. This is where Mordain the Fleshweaver resides, who seeks the power of the Coat of Eyes.
+
+### Characters and Locations
+
+- [[Mordain the Fleshweaver]]
+
+- [[Mordain’s Hall]]
+
+### Scenes and Situations
 
 >[!abstract] Area Features
 >**Illumination**: Fleshy bioluminescent orbs function as lanterns that hang in various locations on the walls.
@@ -11,7 +19,7 @@ The Coat of Eyes, if listened to by the party, will lead them toward the center 
 >
 >**Walls and Floors**: The walls appear to be made of flesh, and the floors are carpet made of fur/hair. There are no windows.
 
-### Scene 1: Mordain Appears
+#### Mordain Appears
 
 The tower door is locked, requiring a DC 18 Sleight of Hand check (adding proficiency if done with Thieves’ Tools).
 
@@ -21,9 +29,9 @@ The mage rushes at each of the party members, requiring a DC 20 Dexterity saving
 
 Immediately after this, Mordain rushes out of the room through the only other door, which closes much like a sphincter. The players may force open the door (DC 20 Strength), use some sort of magical spell, or another method to open or get past the door (AC 18, 20 HP). When they do so, a stairwell is found on the other side, leading further up the tower.
 
-### Scene 2: Ascending the Tower
+#### Ascending the Tower
 
-#### Floor 2: Pet Mimics
+##### Floor 2: Pet Mimics
 
 This room contains three chest mimics (made of flesh) being pet shamed - named bitey (no arms or legs, just big teeth and an even bigger tongue), punchy (only big strong muscular arms), and kicky (only long feminine legs). The signs for the pet shaming say "I like to switch around signs." (bitey), "I like to hide daddy's keys." (punchy), and “I always lie.” (kicky). The only door leading out of the room is locked, and requires a key they presumably know the location of to unlock. The trick is that each of them will give a different location for the keys, and at least one of them is always lying (and the party won’t know which one, since the signs have been switched).
 
@@ -35,34 +43,34 @@ Punchy is the one who switches around signs, and so can be convinced to to give 
 
 Unlocking the door with the key reveals another staircase leading up.
 
-#### Floor 3: Gelatinous Roombas
+##### Floor 3: Gelatinous Roombas
 
 This appears to be a study of some sort, and there is little of interest here save for a fireplace (which looks like a mouth, complete with teeth) and some bookshelves (made of flesh instead of wood). Two small gelatinous cubes scoot around the room, picking up any dirt or debris into their body. One is orange and smells of citrus, and the other is green and smells of pine.
 
 A spiral staircase can be seen here out in the open.
 
-#### Floor 4: Living Quarters
+##### Floor 4: Living Quarters
 
 You enter what appears to be an open living area. What looks like a bed is positioned in the corner - but wait - is that bed actually a giant tongue?! A large rectangular blue Gelatinous Cube sits in another corner of the room, filled with what appears to be various food stuffs, and flanked by kitchen-like items and another mouth fireplace. A third corner holds a large leather wingback chair with a fleshy bioluminescent orb floor lantern next to it.
 
 The only doorway out of the room appears to have teeth. If the players get too close to the door (within 10 feet), it chomps down, effectively closing. It will open back up if the players move 10 or more feet away. In order to get past, the players will need to succeed in a DC 15 Dexterity check to dash at their full speed, hold open the door in some way, or use magic or some other clever technique to get to the other side. Past the door is another staircase leading up.
 
-### Scene 3: Mordain and the Simulacra
+#### Mordain and the Simulacra
 
 When the players enter the room, they will see Mordain on an elevated platform (20 feet up) behind several tanks containing simulacra. Any party members who had skin taken in Scene 1 breaks out from the tanks and start attacking.
 
 **Tactics: Mordain**
 
-| d8 | Action | Comments |
-| --- | --- | --- |
-| 1 | Detect Thoughts / Encode Thoughts | 1 target, determined by d6 roll, in initiative order |
-| 2 | Cause Fear | 2 targets, determined by d6 rolls, in initiative order |
-| 3 | Crown of Madness | 1 target, determined by d6 roll, in initiative order |
-| 4 | Hold Person | 1 target, determined by d6 roll, in initiative order |
-| 5 | Mind Thrust | 1 target, determined by d6 roll, in initiative order |
-| 6 | Wither and Bloom | 1 target, determined by d6 roll, in initiative order; heal simulacrum with least HP |
-| 7 | Puppet | 1 target, determined by d6 roll, in initiative order; force that player to move toward the exit |
-| 8 | Teleport | 1 simulacrum is teleported to the platform with Mordain; 1 turn later, an elevator in the floor moves the simulacrum down out of sight (which takes another full turn to complete) |
+| d8  | Action                            | Comments                                                                                                                                                                           |
+| --- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Detect Thoughts / Encode Thoughts | 1 target, determined by d6 roll, in initiative order                                                                                                                               |
+| 2   | Cause Fear                        | 2 targets, determined by d6 rolls, in initiative order                                                                                                                             |
+| 3   | Crown of Madness                  | 1 target, determined by d6 roll, in initiative order                                                                                                                               |
+| 4   | Hold Person                       | 1 target, determined by d6 roll, in initiative order                                                                                                                               |
+| 5   | Mind Thrust                       | 1 target, determined by d6 roll, in initiative order                                                                                                                               |
+| 6   | Wither and Bloom                  | 1 target, determined by d6 roll, in initiative order; heal simulacrum with least HP                                                                                                |
+| 7   | Puppet                            | 1 target, determined by d6 roll, in initiative order; force that player to move toward the exit                                                                                    |
+| 8   | Teleport                          | 1 simulacrum is teleported to the platform with Mordain; 1 turn later, an elevator in the floor moves the simulacrum down out of sight (which takes another full turn to complete) |
 
 Mordain will not leave the platform, and will instead cast a number of spells in an attempt to draw information from the player characters, or force them to leave. He should focus on any party members who AREN’T represented as a simulacrum (if there are any) as these PCs can be used as doppelgangers later in the adventure, which could be fun.
 
@@ -112,24 +120,20 @@ Mordain will not leave the platform, and will instead cast a number of spells in
 **Tactics: Simulacra**
 
 The simulacra have half the HP, but same AC and other stats, and are able to use the same actions, bonus actions, and reactions (except weapons, where they use Claw or their Symbiont ability instead) as the player characters. They are constructs rather than humanoids, and also have a few additional abilities - as a result of Mordain’s use of both troll blood and symbionts.
-
 - **Regeneration**. The simulacrum regains 10 hit points at the end of its turn. If the simulacrum takes acid or fire damage, this trait doesn't function at the end of that turn. The simulacrum dies only if it end its turn with 0 hit points and doesn't regenerate.
 - **Claw**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 - **Symbiont**. Roll on the table below to determine which symbiont the simulacrum is attuned to.
 
-| d6 | Symbiont |
-| --- | --- |
-| 1 | None |
-| 2 | Tangler |
-| 3 | Tongueworm |
-| 4 | Stormstalk |
-| 5 | Wintercyst |
-| 6 | Spellwurm |
+| d6  | Symbiont   |
+| --- | ---------- |
+| 1   | None       |
+| 2   | Tangler    |
+| 3   | Tongueworm |
+| 4   | Stormstalk |
+| 5   | Wintercyst |
+| 6   | Spellwurm  |
 
-**Development**
-
-The players are able to leave the tower at any time, as the door they came in from is wide open. If taken previously, the Coat of Eyes is also sitting in front of Mordain on the elevated platform, so if a party member is able to get near it and succeed in a DC 15 Sleight of Hand check, they could grab it. Failure causes Mordain to see them, and he casts Puppet on them (with disadvantage on the save). If they manage to take out the simulacra, Mordain casts Hold Person on all of them (with disadvantage on the save), and then Teleport to whisk them outside of the tower, back to the Forest of Flesh.
-
+**Development** The players are able to leave the tower at any time, as the door they came in from is wide open. If taken previously, the Coat of Eyes is also sitting in front of Mordain on the elevated platform, so if a party member is able to get near it and succeed in a DC 15 Sleight of Hand check, they could grab it. Failure causes Mordain to see them, and he casts Puppet on them (with disadvantage on the save). If they manage to take out the simulacra, Mordain casts Hold Person on all of them (with disadvantage on the save), and then Teleport to whisk them outside of the tower, back to the Forest of Flesh.
 Any simulacra that either weren’t seen or weren’t killed, could be used later as doppelgangers of the party members, to wreak havoc on some area of Khorvaire.
 
 ### References

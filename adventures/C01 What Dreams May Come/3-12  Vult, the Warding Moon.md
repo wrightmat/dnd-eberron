@@ -2,6 +2,8 @@
 
 > This moon has countless battlefields, each one reflecting a different struggle. There’s a vicious guerilla war in a shadowy forest. There's a mighty fortress that’s always under siege; occasionally, the attackers tear it away from the defenders, at which point the former defenders begin the siege anew. Various legions appear to have command centers or headquarters dotted around the moon, on the land, in the water, and in the sky.
 
+### Background and Hook(s)
+
 In Shavarath, angels and devils are locked in endless conflict. Radiant blades spill burning blood, and bolts of force smash angels from the sky. The war began at the moment of creation, and it will continue to the end of time. Its primary combatants are immortal, and fallen soldiers return within a day or so. The forces are so evenly matched that a decisive victory is impossible. To outsiders, this war seems pointless. Over the last four hundred years of conflict in Nullius Terram, the Legion of Justice has advanced its front line by perhaps 20 feet. Mortals may look at this and ask, “Why continue to fight? Why not just leave the struggle and do something — anything — else?” In particular, it’s common for mortals to see the vast resources the celestials devote to the war and protest, “Why don’t you help us? You claim to be the Legion of Justice, but innocent people are dying in Thaliost while you fight this meaningless war!” The angel isn’t fighting for a single nation, and this war isn’t driven by gold or politics. The immortals of Shavarath believe that their war is reflected across every reality. Justice. Freedom. Tyranny. Cruelty. The war in Shavarath is a visible symbol of the balance of power between these forces, and when it shifts in Shavarath, the immortals believe it shifts everywhere.
 
 There's no good place to land the ship, and so it's forced to land in the center of the battlefield of Nullius Terram. When the players arrive, they are immediately caught up in the midst of the war. They are approached by scouts from two different factions, who are looking for aid or reinforcements - the Legion of Freedom (Archons) and the Legion of Tyranny (Devils). The devils may offer riches and power in exchange for their aid, while the archons may offer them assistance to get away from the plane safely. Each carries a battle flag of a different color (Green and Yellow respectively in this case) that bears the symbol of the plane of Shavarath.
@@ -19,6 +21,10 @@ It is also possible that some factions may not be entirely honest with the playe
 | 3   | Legion of Tyranny | Devils    | Lord Commander Astaralax | Yellow     | Offer riches and power                                                    | 0             |
 | 4   | Legion of Cruelty | Demons    | Lord Commander Eltab     | Red        | Appeal to baser instincts, promising pleasure and carnage                 | 0             |
 ^shavarath-legions
+
+### Characters and Locations
+
+- 
 
 ### Nullius Terram
 

@@ -45,26 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C01 What Dreams May Come/2-14  Shardjammer Finding a Siberys Shard.md",
+                "file": "adventures/C01 What Dreams May Come/3-02  Titan’s Folly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-14  Shardjammer Finding a Siberys Shard"
-            }
-          },
-          {
-            "id": "aba6d864af3550ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adventures/C01 What Dreams May Come/1-02  Beyond Delethorn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-02  Beyond Delethorn"
+              "title": "3-02  Titan’s Folly"
             }
           },
           {
@@ -138,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 298.5
   },
   "right": {
     "id": "c37e5cd9d654d368",
@@ -154,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C01 What Dreams May Come/2-14  Shardjammer Finding a Siberys Shard.md"
+                "file": "adventures/C01 What Dreams May Come/3-02  Titan’s Folly.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-14  Shardjammer Finding a Siberys Shard"
+              "title": "Outline of 3-02  Titan’s Folly"
             }
           },
           {
@@ -247,32 +233,32 @@
   },
   "active": "1d4c6cc08a5b82a1",
   "lastOpenFiles": [
-    "adventures/C01 What Dreams May Come/2-13  Shardjammer Finding Soarwood.md",
-    "adventures/C01 What Dreams May Come/2-12  Sailing the Thunder Sea.md",
-    "adventures/C01 What Dreams May Come/2-11  Tower of Mordain.md",
-    "adventures/C01 What Dreams May Come/2-10  Dolurrh’s Dawn.md",
-    "adventures/C01 What Dreams May Come/2-09  The Forest of Flesh.md",
-    "adventures/C01 What Dreams May Come/2-08  Shardjammer Finding Khyber Shards.md",
-    "adventures/C01 What Dreams May Come/2-07  Shardjammer Finding Elementals.md",
-    "adventures/C01 What Dreams May Come/2-06  A Keye Without a Locke.md",
-    "adventures/C01 What Dreams May Come/2-05  The Forgotten Forge.md",
-    "adventures/C01 What Dreams May Come/2-04  Exploring Sharn.md",
-    "adventures/C01 What Dreams May Come/2-03  Introducing Adara.md",
-    "adventures/C01 What Dreams May Come/2-02  Shardjammer Constructing a Ship (Project Siberys).md",
-    "adventures/C01 What Dreams May Come/2-01  Exploring the Mournland.md",
-    "adventures/C01 What Dreams May Come/1-13  Murder on the Orien Express.md",
-    "adventures/C01 What Dreams May Come/1-12  Arend’s Alchemy.md",
-    "adventures/C01 What Dreams May Come/1-11  Surviving Karrnath.md",
-    "adventures/C01 What Dreams May Come/1-10  Gatekeeper Seal.md",
-    "adventures/C01 What Dreams May Come/1-09  The “Runestone” Marker.md",
-    "adventures/C01 What Dreams May Come/1-08  Eberron Dragonshard Mines.md",
-    "adventures/C01 What Dreams May Come/1-07  The “Triangles” Marker.md",
-    "adventures/C01 What Dreams May Come/1-06  Tower of Storms.md",
-    "adventures/C01 What Dreams May Come/1-05  The “Water” Marker.md",
-    "adventures/C01 What Dreams May Come/1-04  Cathedral of the Silver Flame.md",
-    "adventures/C01 What Dreams May Come/1-03  The “Flame” Marker.md",
-    "adventures/C01 What Dreams May Come/1-02  Beyond Delethorn.md",
-    "adventures/C04 The Nature of Magic.md",
+    "adventures/C01 What Dreams May Come/3-03  The Orphanage Flashback.md",
+    "adventures/C01 What Dreams May Come/3-00  Trial By Fire.md",
+    "adventures/C01 What Dreams May Come/3-01  Zarantyr, the Storm Moon.md",
+    "adventures/C01 What Dreams May Come/3-02  Olarune, The Sentinel.md",
+    "adventures/C01 What Dreams May Come/3-00  The Ring of Siberys.md",
+    "adventures/C01 What Dreams May Come/4-00  Leaving Shardspace for the Astral.md",
+    "adventures/C01 What Dreams May Come/3-14  Susurrus, Palace of Whispers.md",
+    "adventures/C01 What Dreams May Come/3-13  Crya, the Lonely Dreamer.md",
+    "adventures/C01 What Dreams May Come/3-12  Vult, the Warding Moon.md",
+    "adventures/C01 What Dreams May Come/3-12  Into the Night.md",
+    "adventures/C01 What Dreams May Come/3-12  Break the Siege.md",
+    "adventures/C01 What Dreams May Come/3-11  Aryth, the Gateway.md",
+    "adventures/C01 What Dreams May Come/3-10  The Necropolis.md",
+    "adventures/C01 What Dreams May Come/3-10  Sypheros, the Shadow.md",
+    "adventures/C01 What Dreams May Come/3-09  White Rabbit.md",
+    "adventures/C01 What Dreams May Come/3-09  The Prince Forgotten.md",
+    "adventures/C01 What Dreams May Come/3-09  The Grand Revel at Moonlit Vale.md",
+    "adventures/C01 What Dreams May Come/3-09  Rhaan, the Book.md",
+    "adventures/C01 What Dreams May Come/3-08  The Magical Fountain.md",
+    "adventures/C01 What Dreams May Come/3-08  Barrakas, the Lantern.md",
+    "adventures/C01 What Dreams May Come/3-07  Lharvion, the Eye.md",
+    "adventures/C01 What Dreams May Come/3-06  Prisoner 13.md",
+    "adventures/C01 What Dreams May Come/3-06  Nymm, the Crown.md",
+    "adventures/C01 What Dreams May Come/3-05  Dravago, the Herder.md",
+    "adventures/C01 What Dreams May Come/3-04  Life of the Party.md",
+    "adventures/C01 What Dreams May Come/3-04  Eyre, the Anvil.md",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",
     "dnd-eberron/players",

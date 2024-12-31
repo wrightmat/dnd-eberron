@@ -1,4 +1,4 @@
- #adventure #completed [[Mordain’s Hall]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 

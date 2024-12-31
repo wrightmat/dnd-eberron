@@ -2,6 +2,8 @@
 
 >You approach an expanse of wildspace that has no stars, no moons, no nothing. As you drift deeper in, you become totally engulfed in the darkness. With no way to navigate and no way to be sure how much time has passed, you settle in for an uncertain journey.
 
+### Background and Hook(s)
+
 The Outer Darkness is a large expanse without any visible stars or other material. The party will struggle against their own minds in order to survive the ordeal of a totally dark, featureless void.
 
 Each player adds together their INT, WIS, and CHA scores in order to obtain their combined Mental Capacity (MC) for this challenge. Their derived Mind (MND) stat is (MC - 10)  / 2. If a PC loses more than 2 Mental Capacity at once, they need to make a Mind save, where the result must be *less than or equal to* their Mind stat (calculated after the MC is removed - but if MND is 20 or more, then don't have them roll). On a failure, the player succumbs to a Bout of Madness (which can stack).
@@ -21,6 +23,10 @@ If any player loses all of their Mental Capacity, they take on a permanent flaw 
 
 > [!info]- Curing Madness
 > A *calm emotions* spell can suppress the effects of madness, while a *lesser restoration* spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, *remove curse* or *dispel evil* might also prove effective. A *greater restoration* spell or more powerful magic is required to rid a character of indefinite madness.
+
+### Characters and Locations
+
+- 
 
 ### Mother Void
 

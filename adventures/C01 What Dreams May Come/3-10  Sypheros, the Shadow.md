@@ -2,6 +2,8 @@
 
 > A sea of liquid shadows laps against black sands and basalt cliffs. A skull lies half-buried in the sand, empty sockets gazing into the roiling mist. The bone isn’t sun-bleached, for there is no sun here; only a faint glimmer from Wildspace above. A great drifting citadel floats above a large city in decline, a kingdom of bones, and an expansive desert of black sand. On the horizon, beyond a great dark forest, what appears to be pieces of other planes are being absorbed into the unending darkness.
 
+### Background and Hook(s)
+
 Early scholars studying reports of Mabar concluded that it was the Plane of Darkness — that this physical property is its defining concept. However, the plane’s eternal gloom is just a symptom of its true nature. Even the brightest day eventually ends in darkness, and Mabar embodies this idea. It’s the shadow that surrounds every island of light, patiently waiting to consume it. It’s entropy, despair, and loss. This isn’t the place where the souls of the living go after death, but rather, it’s the plane of death itself — the hunger that consumes both light and life.
 
 This is the home of Despair, and the antithesis plane to Irian (there's a reason, after all, that Desire and Despair are the closest of the Endless) - a realm of darkness and negativity to that of light and positivity.
@@ -19,6 +21,10 @@ The mightiest and most malevolent beings in Mabar (besides Despair, of course) a
 	* Ultroloth: Cruel officers of the yugoloths.
 * Barghests: a kind of evil shapechanging fiend found in the plane of Mabar. They superficially resemble lupine goblinoids. In its normal form, it resembles a goblin–wolf hybrid with monstrous jaws and razor-sharp claws. A full-grown barghest is about 6 feet (180 centimeters) long and weighs 180 pounds (82 kilograms). A barghest's eyes glow orange when the creature becomes excited.
 * Xag-yi (Negative Energon): formed packets of pure negative darkness that reach out with whip-like tendrils of energy.
+
+### Characters and Locations
+
+- 
 
 ### The Drifting Citadel
 

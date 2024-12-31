@@ -1,4 +1,6 @@
- #adventure #completed [[Upper Dura]] [[Cecilia McNab]] [[Keye]]
+ #adventure #completed 
+
+### Background and Hook(s)
 
 **Ceremony Location**: Upper Dura, Hope's Peak, The Citadel of the Sun
 **Reception Location**: Olladra’s Arms (next door to the temple)
@@ -14,7 +16,16 @@
 > 
 > Reception to follow at Olladra’s Arms. Offerings to Olladra encouraged but not required.
 
-### Ceremony
+### Characters and Locations
+
+- [[Cecilia McNab]]
+- [[Keye]]
+
+- [[Dura]]
+
+### Scenes and Situations
+
+#### Ceremony
 
 The couple processes down the aisle while the crowd stands. They approach and stand in front of an alter with the symbols of the nine Sovereigns. A priest walks down the aisle and first addresses the crowd:
 

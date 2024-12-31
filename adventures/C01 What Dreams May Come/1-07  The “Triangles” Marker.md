@@ -1,4 +1,4 @@
- #adventure #completed [[New Cyre]] [[Oargev ir’Wynarn]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
