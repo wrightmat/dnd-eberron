@@ -107,7 +107,7 @@ If anyone gets near enough to the star they take 24d10 radiant damage per round.
 | 81-82 | `encounter: 1: Asteroid Spider`                                                                                                              | `dice:2d6-3` |
 | 83-84 | `encounter: 1: Living Star`                                                                                                                  | `dice:2d6`   |
 | 85-90 | The Gorgon, the ship built by Houses Cannith and Lyrandar and captained by Lei d'Cannith (as outlined in the Eberron Space Race section of [[Shardjammer]]) |              |
-| 91-96 | [[3-14. Susurrus, Palace of Whispers]], the headquarters of the rogue githyanki sect known as The Whisperers                                   |              |
+| 91-96 | [[3-14  Susurrus, Palace of Whispers]], the headquarters of the rogue githyanki sect known as The Whisperers                                   |              |
 | 97-98 | Sarcophagus surrounded by permanent black tentacles (as per the spell), with `encounter: 1: Eldritch Lich` inside                            | `dice:2d6-8` |
 | 99-00 | `encounter: 1: Mind Flayer Arcanist, 1: Intellect Devourer` both in magical stasis bound in a giant Khyber dragonshard. They reactivate if the shard is damaged in any way. | `dice:2d6-8` |
 ^shardspace-random-encounters

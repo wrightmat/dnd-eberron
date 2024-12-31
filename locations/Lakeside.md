@@ -32,7 +32,7 @@ Lakeside is a small town in eastern Karrnath between the Icetop Mountains a
 ### Characters
 
 * **Trevon** (halfling male). Runs the inn and tavern at the Assembly Hall.
-* **Arend**. Alchemist and midpoint BBEG of [[C01. What Dreams May Come]].
+* **Arend**. Alchemist and midpoint BBEG of [[C01 What Dreams May Come]].
 
 ### Locations
 

@@ -12,7 +12,7 @@ languages: Common, Draconic, Dwarvish, Giant, Goblin, Infernal, Ogre
 background: Sage
 pronouns: she/her
 comments: Only about 3 feet tall naturally.
-campaign: "[[C03. Riddles of the Third Age]]"
+campaign: "[[C03 Riddles of the Third Age]]"
 image: "![https://www.dndbeyond.com/avatars/39057/781/1581111423-115909399.jpeg|250](https://www.dndbeyond.com/avatars/39057/781/1581111423-115909399.jpeg)"
 ---
  #pc [[Jolene Harper]]

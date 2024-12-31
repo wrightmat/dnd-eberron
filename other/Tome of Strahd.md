@@ -1,4 +1,4 @@
-#item [[C02. Curse of Strahd (Abridged)]]
+#item [[C02 Curse of Strahd (Abridged)]]
 
 The Tome of Strahd is a magical item that helps save against Strahd's charm. Additionally, the players can make an investigation check to learn random knowledge about Barovia or Castle Ravenloft.
 

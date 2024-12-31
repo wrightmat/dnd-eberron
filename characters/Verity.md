@@ -11,7 +11,7 @@ subclass: Arcane Trickster
 alignment: Chaotic Neutral
 languages: Celestial, Common, Thieves’ Cant
 background: Charlatan
-campaign: "[[C03. Riddles of the Third Age]]"
+campaign: "[[C03 Riddles of the Third Age]]"
 image: "![https://www.dndbeyond.com/avatars/39526/908/1581111423-116417392.jpeg|250](https://www.dndbeyond.com/avatars/39526/908/1581111423-116417392.jpeg)"
 ---
  #pc [[Kerrie Heath]]

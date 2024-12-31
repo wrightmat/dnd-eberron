@@ -12,7 +12,7 @@ pronouns: she/her
 ideal: People. I'm committed to the people I care about, not ideals.
 bond: I will do anything to protect nature.
 flaw: I am suspicious of strangers and expect the worst of them.
-campaign: "[[C02. Curse of Strahd (Abridged)]]"
+campaign: "[[C02 Curse of Strahd (Abridged)]]"
 image: "![https://www.dndbeyond.com/avatars/25837/112/637883860583922242.jpeg|250](https://www.dndbeyond.com/avatars/25837/112/637883860583922242.jpeg)"
 ---
  #pc [[Jolene Harper]]

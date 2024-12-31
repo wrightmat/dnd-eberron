@@ -9,7 +9,7 @@ race: Elf
 class: Cleric
 subclass: Grave Domain
 alignment: Lawful Good
-campaign: "[[C03. Riddles of the Third Age]]"
+campaign: "[[C03 Riddles of the Third Age]]"
 ---
  #pc [[Alex Kelsch]]
 

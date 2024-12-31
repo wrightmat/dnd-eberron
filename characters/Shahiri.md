@@ -11,7 +11,7 @@ alignment: Neutral Good
 languages: Common, Infernal
 background: Soldier
 pronouns: she/her
-campaign: "[[C03. Riddles of the Third Age]]"
+campaign: "[[C03 Riddles of the Third Age]]"
 ---
  #pc [[Claire Elrod]]
 

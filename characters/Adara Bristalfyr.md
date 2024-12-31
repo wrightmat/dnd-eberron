@@ -11,7 +11,7 @@ subclass: College of Eloquence / Celestial
 alignment: Chaotic Neutral
 background: Astral Drifter
 languages: Common, Elvish, Gith, Sylvan
-campaign: "[[C01. What Dreams May Come]]"
+campaign: "[[C01 What Dreams May Come]]"
 image: "![https://www.dndbeyond.com/avatars/29397/531/1581111423-83677373.jpeg|250](https://www.dndbeyond.com/avatars/29397/531/1581111423-83677373.jpeg)"
 ---
  #pc [[Jolene Harper]] [[Rhaan (Thelanis)]] [[Lharvion (Xoriat)]]

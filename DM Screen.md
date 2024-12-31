@@ -25,7 +25,7 @@ kanban-plugin: board
 
 ## Current Active Campaign
 
-- [ ] [[C03. Riddles of the Third Age]]
+- [ ] [[C03 Riddles of the Third Age]]
 - [ ] [[Timeline of Eberron]]
 - [ ] [[Follow-up]]
 - [ ] --

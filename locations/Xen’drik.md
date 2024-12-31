@@ -23,7 +23,7 @@ marker: default, -46.093757727380044, -72.6081576072931, , Fangs of Argarak
 ### Locations
 
 * **[[Stormreach]]**. The only major city that’s accessible to outsiders, and represents all of the dragonmarked houses.
-* **Throne Gate Ruins**. Rumored to be the remains of an ancient Giant city (see [[2-14. Shardjammer Finding a Siberys Shard]] adventure).
+* **Throne Gate Ruins**. Rumored to be the remains of an ancient Giant city (see [[2-14  Shardjammer Finding a Siberys Shard]] adventure).
 * **Fangs of Argarak**. The location for the White Plume Mountain adventure, should the adventurers choose to travel that far south.
 * **Obsidian City**. A legendary ruined city of the giants in the jungles of Xen'drik, now housing a small population of Sulatar drow. It is located on the Skyfall Peninsula, midway between the city of Stormreach and the Titan's Teeth. Legends speak of a nearby cave which is said to house an ancient necromantic wyrm - rumored to be a remnant of the extinct Qabalrin faction of elves.
 

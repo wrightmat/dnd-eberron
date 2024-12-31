@@ -12,7 +12,7 @@ subclass: Way of Mercy
 alignment: Neutral
 languages: Common, Draconic
 background: Street Urchin
-campaign: "[[C03. Riddles of the Third Age]]"
+campaign: "[[C03 Riddles of the Third Age]]"
 image: "![https://www.dndbeyond.com/avatars/39208/881/1581111423-115630616.jpeg|250](https://www.dndbeyond.com/avatars/39208/881/1581111423-115630616.jpeg)"
 ---
  #pc [[Sara Edwards]]

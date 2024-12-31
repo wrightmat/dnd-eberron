@@ -1,4 +1,4 @@
- #item #poison [[2-06. A Keye Without a Locke]]
+ #item #poison [[2-06  A Keye Without a Locke]]
 
 Price:: 1500 gp
 

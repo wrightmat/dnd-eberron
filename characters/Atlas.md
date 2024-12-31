@@ -14,7 +14,7 @@ background: Hermit
 ideal: Responsibility and burden of a researcher is to learn the most difficult of truths.
 bond: My compass is my only means of continuing my adventures and returning home.
 flaw: I am slowly losing myself in ways I fear I can't get back due my endless search for knowledge.
-campaign: "[[C02. Curse of Strahd (Abridged)]]"
+campaign: "[[C02 Curse of Strahd (Abridged)]]"
 image: "![https://www.dndbeyond.com/avatars/37274/171/1581111423-110122875.jpeg|250](https://www.dndbeyond.com/avatars/37274/171/1581111423-110122875.jpeg)"
 ---
  #pc [[Kerrie Heath]]

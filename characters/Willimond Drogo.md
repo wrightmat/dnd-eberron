@@ -11,7 +11,7 @@ alignment: Lawful Good
 ideal: Love (a hopeless romantic), Belonging, Superstition
 bond: Deeply loves and cares for the dearly departed Kavya and is looking for a way to bring her back.
 flaw: Fearful and insecure (struggles to be assertive and establish boundaries, especially toward the spirits who haunt him), Freezes under stress.
-campaign: "[[C02. Curse of Strahd (Abridged)]]"
+campaign: "[[C02 Curse of Strahd (Abridged)]]"
 image: "![https://www.dndbeyond.com/avatars/30004/437/1581111423-87163956.jpeg|250](https://www.dndbeyond.com/avatars/30004/437/1581111423-87163956.jpeg)"
 ---
  #pc [[Alex Kelsch]]

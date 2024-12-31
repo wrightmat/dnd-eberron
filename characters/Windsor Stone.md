@@ -9,7 +9,7 @@ race: Human
 class: Barbarian
 subclass: Storm Herald
 alignment: Lawful Good
-campaign: "[[C01. What Dreams May Come]]"
+campaign: "[[C01 What Dreams May Come]]"
 image: "![https://www.dndbeyond.com/avatars/37864/354/1581111423-75316650.jpeg|250](https://www.dndbeyond.com/avatars/37864/354/1581111423-75316650.jpeg)"
 ---
  #pc [[Kerrie Heath]] [[Zarantryr (Kythri)]] [[Therendor (Syrania)]]

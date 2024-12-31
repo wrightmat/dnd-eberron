@@ -27,7 +27,7 @@ location: "[27.780772, -36.848145]"
 
 > The quiet town of Delethorn sits nestled on the shores of Lake Galifar. The town’s main road connects the docks and stables in the east of town to the main north-south thoroughfare out of town. At the crossroads sits the Delethorn Town Hall and the office of the mayor, as well as the Delethorn branch of the Gold Dragon Inn. Other smaller shops and houses dot other positions along the roads.
 
-Delethorn is a small town in the central Eldeen Reaches, on the shores of Lake Galifar. House Vadalis has an enclave in the town, and is a major influence. The town is a regular source of commerce with the other nations of Khorvaire. This is the town the party started their adventures in during [[C01. What Dreams May Come]].
+Delethorn is a small town in the central Eldeen Reaches, on the shores of Lake Galifar. House Vadalis has an enclave in the town, and is a major influence. The town is a regular source of commerce with the other nations of Khorvaire. This is the town the party started their adventures in during [[C01 What Dreams May Come]].
 
 ### Characters
 
@@ -47,7 +47,7 @@ Delethorn is a small town in the central Eldeen Reaches, on the shores of Lake G
 * **Gold Dragon Inn** (4). Mark of Hospitality and Mark of Healing over the door. This is a smaller branch location that has only a few beds, a small restaurant with a limited menu, and an ancillary store licensed by House Jorasco that sells potions. The whole operation is run by a single halfling with the blessing of both houses, Kelyra Ambereyes.
 	* [[Gold Dragon Inn]]
 * **Warehouse** (5). A newly opened Warehouse/Factory that has the Mayor concerned.
-	* [[1-01. Delethorn Warehouse]]
+	* [[1-01  Delethorn Warehouse]]
 * **Boraz’s Bounty** (6). A local half-orc has claimed the sewers in the name of the Finders Guild, so he can explore them for any treasures. He hasn't fully explored them yet, but has set up shop near the opening of the sewers on the edge of town.
 * **Hydra Theater** (7). Mark of Shadow and Mark of Detection over the door. A sizeable theater composed of a lobby, a stage with seating, a locked back room, and an amphitheater outside. The lobby has a merchant selling various items, such as tools and kits. There's a wall of books on the other side of the lobby. The main stage room has a number of chairs, stands, musical instruments, etc. There's a locked door next to the stage, that if picked, could lead to the sewers or another location as needed.
 

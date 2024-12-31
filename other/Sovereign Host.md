@@ -72,7 +72,7 @@ Strigix, the owl totem, resides in the Twilight Forest and protects all creature
 
 Ursix, the bear totem, resides in the First Storm and protects all creatures who roam the land. He is the representative of Balinor in the Three Faces of the Wild and embodies nature, and taking what is needed from the bounty of nature.
 
-[[3-02. Olarune, The Sentinel]]
+[[3-02  Olarune, The Sentinel]]
 
 #### Three Faces of War
 
@@ -84,7 +84,7 @@ The Three Faces of War is a faith for soldiers. The followers of the Three consi
 
 The Three Faces of War was first established in Karrnath, and Karrn the Conqueror can be counted among the founders of this warrior cult. It spread to the other Five Nations during the Last War. Today, the Three Faces of War is considered a fraternal organization that has become widespread among soldiers and officers of the armies of Khorvaire. Several officers in the armies of Khorvaire who follow the faith may be acting on behalf of the Shadowsword and his master, the Rage of War.
 
-[[3-04. Eyre, the Anvil]]
+[[3-04  Eyre, the Anvil]]
 
 ### References
 

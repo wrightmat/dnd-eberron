@@ -15,6 +15,6 @@
 
 ### Campaigns
 
-* [[C01. What Dreams May Come]]
-* [[C02. Curse of Strahd (Abridged)]] (quick campaign done during the "spooky season", as the full campaign abridged into about six sessions)
-* [[C03. Riddles of the Third Age]]
+* [[C01 What Dreams May Come]]
+* [[C02 Curse of Strahd (Abridged)]] (quick campaign done during the "spooky season", as the full campaign abridged into about six sessions)
+* [[C03 Riddles of the Third Age]]

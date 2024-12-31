@@ -11,7 +11,7 @@ subclass: Aberrant Mind
 alignment: Chaotic Good
 languages: Common, Quori, Riedran
 background: Entertainer
-campaign: "[[C01. What Dreams May Come]]"
+campaign: "[[C01 What Dreams May Come]]"
 image: "![https://www.dndbeyond.com/avatars/30792/357/1581111423-75240969.jpeg|250](https://www.dndbeyond.com/avatars/30792/357/1581111423-75240969.jpeg)"
 ---
  #pc [[Alex Kelsch]] [[Crya (Dal Quor)]] [[Barrakas (Irian)]]

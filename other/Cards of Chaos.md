@@ -1,4 +1,4 @@
- #item [[3-01. Zarantyr, the Storm Moon]]
+ #item [[3-01  Zarantyr, the Storm Moon]]
 
 Mechanically this is a Deck of Several things (weakened version of the Deck of Many Things), flavored for Eberron.
 

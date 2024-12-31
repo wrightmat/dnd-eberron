@@ -4,7 +4,7 @@ Events in *italics* are canon events, while non-italicized events are things tha
 
 **1051 YK**
 * **2 Zarantyr**: Jaela Daran, Keeper of the Flame, passes away (on the day of a new moon of Daanvi during the month of Kythri - the height of chaos over order).
-* [[C03. Riddles of the Third Age]] begins!
+* [[C03 Riddles of the Third Age]] begins!
 
 **1002 YK**
 * "The Quiet Year" of Sarlona, beginning in the Spring after the Long Winter that killed much of the population.
@@ -19,7 +19,7 @@ Events in *italics* are canon events, while non-italicized events are things tha
 * **12 Aryth**: The first spelljamming ship, the New Dawn, launches (mostly discretely) from Trolanport, Zilargo.
 
 **998 YK**
-* [[C01. What Dreams May Come]] begins!
+* [[C01 What Dreams May Come]] begins!
 
 **996 YK**
 * *The Treaty of Thronehold officially ends the Last War. The treaty officially recognizes the nations of Aundair, Breland, Thrane, Karrnath, the Talenta Plains, Zilargo, Q'barra, the Lhazaar Principalities, the Mror Holds, the Eldeen Reaches, Darguun, and Valenar.*
