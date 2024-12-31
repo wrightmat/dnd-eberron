@@ -105,7 +105,6 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 36.28472222222222,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -113,10 +112,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/C03/2024-12-05.md"
+                "file": "adventures/C04. The Nature of Magic.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-05"
+              "title": "Outline of C04. The Nature of Magic"
             }
           },
           {
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
+                "file": "adventures/C04. The Nature of Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2-11. Investigating the Dragons"
+              "title": "Backlinks for C04. The Nature of Magic"
             }
           },
           {
@@ -158,8 +157,8 @@
                 },
                 "id": "ID_29aaf8780b09"
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -178,26 +177,26 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
-            "id": "11b08aebe03b1861",
+            "id": "edbb3e8a994a0514",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C03. Riddles of the Third Age/2-11. Investigating the Dragons.md",
+                "file": "adventures/C04. The Nature of Magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2-11. Investigating the Dragons"
+              "title": "Outgoing links from C04. The Nature of Magic"
             }
           },
           {
-            "id": "4ee3e9b6fd89a54d",
+            "id": "6e5158f9668c776b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -208,50 +207,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "1f377919347b225d",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "c75ed302b7ec3fa8",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "1d95604b14ef0f70",
-        "type": "tabs",
-        "dimension": 63.715277777777786,
-        "children": [
-          {
-            "id": "9b8f86537af1c416",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 455.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,7 +231,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c3725aeb9bff6115",
+  "active": "de76a06521b063a6",
   "lastOpenFiles": [
     "players/Alex Kelsch.md",
     "players/Claire Elrod.md",
