@@ -1,4 +1,4 @@
- #adventure #completed [[Stormhome]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
@@ -25,3 +25,5 @@ Stormhome has basic shops as needed, but not much else. House Lyrandar runs all 
 The Storm Mage came here to steal a boat from House Lyrandar to bring to the Iceflow River delta at Karrn Bay so that Detlev has access to water shipments. He has taken this boat to the Tower of Storms to hide out and lay low.
 
 [[1-06  Tower of Storms]]
+
+### References

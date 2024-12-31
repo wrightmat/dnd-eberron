@@ -5,8 +5,6 @@
 - The characters are run through a simulation that covers the basics of spelljamming and space travel, whether by force (if they crash landed in the Military District or angered someone there) or by choice (if recommended by the Commissar, Supreme Commander, or the Caretaker).
 - If The Ring of Siberys adventures results in the players crash landing in the Military District, then they are required to complete this adventure. Otherwise, the Commissar, Supreme Commander, or Caretaker may suggest they take the training course.
 
-### Synopsis
-
 - The characters are to take charge of their own spelljamming ship, plying a magical simulation of Wildspace on a mission to seek out the wreckage of a ship lost in an asteroid cluster.
 - The party’s ship is attacked by githyanki pirates hiding amongst the wreckage.
 - While attempting the return journey, the party find their rival group’s ship stranded - will they help?

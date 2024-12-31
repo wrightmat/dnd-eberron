@@ -1,4 +1,4 @@
- #adventure [[Nymm (Daanvi)]]
+ #adventure 
 
 > Imagine Terminus Station in Sharn, but instead of skycoaches and rail tickets, portals lead to different locations. Hundreds of mechanical creatures mill about, standing in orderly queues as they wait to pass through a portal. The streets may be crowded, but everyone walks at the same pace, every foot striking the ground at the exact same moment.
 
@@ -8,9 +8,13 @@
 
 ### Characters and Locations
 
-- 
+- Demansiq
 
-### The Prime Gate
+- [[Nymm (Daanvi)]]
+
+### Scenes and Situations
+
+#### The Prime Gate
 
 The party will land at the space dock which is immediately outside of The Prime Gate. The Gate contains portals to all other areas of Daanvi (marked with the locations below), but extraplanar visitors must acquire travel passes from the Passage Authority in order to use them. The players will also be handed an impossibly large book titled “Laws of the Prime Gate” with a button at the bottom that says “I Agree” - and they will be required to press the button, causing the book to disappear, in order to continue (think Terms of Service). A similar book appears with the "Laws of (Location)" any time the players attempt to enter a portal, and it must be agreed to before entry is allowed.
 
@@ -23,25 +27,25 @@ When the players arrive, roll a die to determine which group is currently workin
 | 3   | Oppressive  | Devils         |
 ^daanvi-society
 
-#### 1. Just Society
+##### 1. Just Society
 
 Lines kept moving quickly and smoothly; as long as you truly have a valid reason for your travel, you should be able to pass.
 
 In a Just society, the players are approached by an Angel who is a servant of Aureon. He asks the party to retrieve a particular item, a *crystal ball*, from The Panopticon. Aureon requires the object to scry on the former ruler of the plane, The Shadow, as he’s heard that there’s a coup afoot. Time is of the essence, and watch out for devils!
 
-#### 2. Even-Handed
+##### 2. Even-Handed
 
 It’s possible to get through, but there are immense lines and a lot of redundant paperwork. In addition to having a clearly stated reason for travel, Modrons might only provide access to specific layers, or impose restrictions — “You’ll have to drink that potion now or throw it away.”
 
 In an Even-Handed society, the players are approached by a pentadrone. He asks the party to retrieve a particular item, a *crystal ball*, from The Panopticon. He’s learned that both the Angels and Devils are after it for some reason, and he must maintain order. The pentadrone gives everyone in a group a temporary travel pass that can be used for only the next 24 hours, and only within the Panopticon. Time is of the essence, and watch out for angels and devils!
 
-#### 3. Oppressive
+##### 3. Oppressive
 
 The devils on duty make it a living hell; the question is whether they’re more interested in extortion or tormenting travelers with bureaucratic burdens. Do they want a bribe? Do you need to perform a service for them? This is an archetypal abuse of power; what makes a good story?
 
 In an Oppressive society, the players are approached by a Devil who is a servant of The Shadow. He asks the party to retrieve a particular item, a *crystal ball*, from The Panopticon. The Shadow requires the object to scry on the people of the plane in order to keep them in line. Although this is a lie (DC 15 Insight check), and he’s really going to use it to blackmail people, continue to gather power, and ascend back to the throne. Time is of the essence, and watch out for angels!
 
-### The Panopticon - Entry
+#### The Panopticon - Entry
 
 > You enter the grand tower of the Panopticon, where you see strange creatures bustling about - simple automatons shaped like circles, cubes, and pyramids with arms and legs. They pay you no mind, intent upon their own tasks. There is a thirteen-sided metallic dais in the exact center of the room. Its surface appears to be the face of an unusual clock, 13 arms sweeping it at precise intervals. Each arm is a different length, and they’re all moving at different speeds, as if tracking different phenomena. In the center of the clock rests a transparent sphere about as wide as a human hand.
 > Suddenly, a (angel/devil) rushes toward the dais, climbs over the arms of the clock, and attempts to pry the crystal ball out of its location. In the process, the ball cracks. At this, some of the strange constructs, their bodies comprised of two blocks stacked atop each other, swarm the dais. Some immediately begin to remove the damaged ball and bring a new one in its place, while others attempt to escort the (angel/devil) off the dais.
@@ -64,7 +68,7 @@ The intent is to signal to the party that they can obtain a crystal ball by maki
 
 > This crystal ball no longer meets the modron’s exacting standards. Once again, they rush in, quickly removing the disorderly object. A multi-layered, automated voice resonates in the chamber, once again speaking in another tongue you nonetheless understand, “Object designated for Reconstruction. Replacement time: Undetermined.” Meanwhile, the modrons bearing the ball move to a small glowing platform, and after a moment, they vanish, apparently teleported away.
 
-### The Panopticon - Requisitions Department
+#### The Panopticon - Requisitions Department
 
 > As you enter the room labeled Requisitions Department, you see 13 long lines, filled with all manner of creatures. Bland peaceful music plays from an unseen source overhead. On the far right side of the room, you see a (angel/devil) waiting halfway through one of the lines, dozens of creatures already queuing behind him.
 
@@ -174,13 +178,13 @@ In the final encounter of this adventure, the crystal ball has been deposited in
 
 If the dead body or the Deconstruction Zone is searched, a [[Clockwork Amulet]] is found. The crystal ball can be returned to either the quadrone from the Panopticon, or the pentadrone from the Prime Gate. Either way, the ball is returned to the dais and the party are given upgraded travel passes that allow full reign of Daanvi.
 
-### The Panopticon - Upper Levels (Restricted)
+#### The Panopticon - Upper Levels (Restricted)
 
 In the grand tower of the Panopticon, a host of immortals monitor events occurring across Eberron’s planes. Countless modrons observe *crystal balls*. There are chambers in which angels and devils stand around wide scrying pools, replaying recent events. And in the highest chamber of the Panopticon, twelve solars — with one seat empty — contemplate the events occurring in the planes they are bound to and wait to be summoned by the authorities of those planes.
 
 The Panopticon is larger than the entire city of Sharn. Different sections are devoted to each of the planes, and some immortals have spent countless years monitoring a particular location or creature. It holds the most powerful and sophisticated scrying network in existence, dwarfing the capabilities of even the dragons of Argonnessen. However, this system is not intended to benefit mortals. Adventurers must have an exceptional reason to secure a travel pass allowing admittance to the Panopticon, and the immortals who work there are not inclined to answer questions.
 
-### The Hall of Justice
+#### The Hall of Justice
 
 > You enter an immense complex containing an impossible number of courts and chambers of inquiry. In smaller chambers, immortals debate the actions of the beings observed in the Panopticon. A large mechanical humanoid, wearing elaborate golden-hued banded-mail armor and a flowing red robe, is seating in the center of the chamber.
 
@@ -198,7 +202,7 @@ Another common punishment is the judgment tattoo, a complex marking placed acros
 
 Other magical punishments could be imposed. The offender could experience the effects of bestow curse for a year or a lifetime. A liar could be unable to tell a lie for a year (though they can be evasive in their answers). A convict could be stripped of a particular talent, taking disadvantage on a specific skill check during their the sentence. They could be stripped of fame, and no one will give the victim credit for positive actions, though they can still receive blame for misdeeds. There are few limits on what an inevitable tribunal can do, and undoing such a judgment requires the power of a wish.
 
-### The Infinite Archive
+#### The Infinite Archive
 
 Daanvi’s Infinite Archive contains records on every being that’s ever existed. Here, the data gathered by the Panopticon and the rulings of the Hall of Justice are recorded and efficiently preserved. Records focus on each individual’s deeds, whether they’ve adhered to or violated countless codes of legal and moral standards. Daanvi doesn’t generally do anything with this data; they have no jurisdiction to act on it. So through your life, the immortals of Daanvi have watched and judged your every action. You aren’t rewarded or punished for your deeds, but they know what you’ve done, and it’s forever preserved on your permanent record.
 
@@ -208,7 +212,7 @@ If the players come here, they can choose to randomly wander the Archive halls a
 
 `dice: [[6. Nymm, the Crown#^daanvi-infinite-archive]]`
 
-### The Iron Ward
+#### The Iron Ward
 
 This city of gray stone embodies the worst aspects of oppressive law. Councilor Alashta, a cruel amnizu, wields absolute power and can’t be questioned or challenged. Most of the subjects of the ward are indentured servants, trapped in inescapable contracts; visitors must be careful not to accept any offers of work in the ward, lest they be similarly trapped. There are regular displays of brutal “justice” in the grand plaza. Imps scurry in the shadows, watching outsiders and carrying news of their actions to the chain devils and erinyes that serve as the brutal police force. While they can’t punish adventurers “unjustly,” they can tempt visitors into misconduct; fiendish merchants and patrons have many appealing offers for adventurers, but almost all would surely lead to breaking a law of the ward, obscure and ridiculous as it may be.
 
@@ -224,7 +228,7 @@ While the Iron Ward symbolizes the evils of oppressive order, it is driven by or
 
 ![https://static.wikia.nocookie.net/forgottenrealms/images/e/e3/Amnizu-5e.png/revision/latest?cb=20180526171944|300](https://static.wikia.nocookie.net/forgottenrealms/images/e/e3/Amnizu-5e.png/revision/latest?cb=20180526171944)
 
-### The Inescapable Prison
+#### The Inescapable Prison
 
 Maintained by devils, this oppressive layer is the embodiment of prison — the inevitable consequence of challenging the law. With the full power of Daanvi behind it, the Inescapable Prison makes Dreadhold look like a cell in the local sheriff’s office. It’s designed to hold celestials, elementals, and other beings with vast power; there are convicts here from a half-dozen planes of existence (all shackles in the prison are [[Dimensional Shackles]]). Mortals can also be imprisoned here; their biological processes are put in suspension, so they don’t need to eat or drink, and they don’t age.
 
@@ -232,20 +236,21 @@ Hundreds of thousands of years ago, Onatar traveled to Eberron as a brass dragon
 
 [[3-06  Prisoner 13]]
 
-### The Perfect Grange
+#### The Perfect Grange
 
 The Perfect Grange is a vast, precisely maintained farm, displaying the virtues of agricultural discipline. This is a well-ordered area with pristine crops, orchards, and farming villages all laid out in regular geometric shapes. Properly shaped and arranged flowerbeds of every color are always in bloom and never need a gardener. The trees grow in straight orchard rows or tidy forests, with perfect leaves that never fall to the ground.
 
 Underneath the perfect fields is a formian settlement (called Klictrik by the Formians but known colloquially by others as "Mandible") where immortal ant-like spirits care for their queen. The main trade post of the Perfect Grange is the district of Mercantus, the portion of the city of Mandible that is above ground. It welcomes traders and travelers to its markets and inns.
 
-#### Mercantus, the Trading Post
+##### Mercantus, the Trading Post
 
 The trade post of Mercantus is composed of perfectly geometrical tents, each of which normally housing a different kind of shop. But currently all of them are abandoned except for a single shop known as the Frugal Formian. It looks as though there's normally an inn of some sort, possibly a bar, and another shop of some kind.
 
 ##### The Frugal Formian
+
 This small shop is run by a formian named Ryt'thkril, who normally lives in the main city-nest of Klictrik, but who is now sleeping in his shop (due to the recent flooding). The players would notice that Ryt'thkril looks like he hasn't slept well in days, and he speak with a slow quiet form of Common in order to portray this. If asked, he'll reluctantly tell the players about the recent issues in Klictrik (and direct them to the nearby tunnel access, should they decide they want to investigate).
 
-#### Klictrik (aka Mandible), the Formian City
+##### Klictrik (aka Mandible), the Formian City
 
 The Formians are struggling since an unexpected flood drowned half of their underground city and killed their Queen (Hvix'mnac). Now, a myrmarch named Demansiq has claimed the Mantelavian scepter (which would secure his place as Regent and ruler until a new Queen arrives) and is working to recharge it. Can he be trusted?
 
@@ -258,63 +263,70 @@ To keep the city safe from a nearby underground stream, an ancient group of form
 
 A tunnel can be seen extending deep into the rock away from the trading post of Mercantus, the damp passage quickly turning out of sight. Once the PCs pass through the doorway and into the cavern, they'll notice that the air is very damp. In the distance, the sound of running water makes its presence known.
 
-##### Locations
+###### K0. Entry
 
-**0. Entry**
-The air grows noticeably more damp as the party moves down the passage toward this area. Suddenly, the passage opens wider, and water rushes through most of its width. A shelf-like upper area allows an explorer to travel alongside the rapid underground stream.
-Until recently, the ledge alongside the “river” was just a raised area near the main passage, 3-5 feet below. Now, water fills the lower portion of the passage, flowing with a fast and powerful current. Many remnants of the formian city float and bob in the rushing water filling the tunnel. The formians use a variety of things for their tools and equipment — stone, metal (particularly bronze), a hardened secretion that they produce and shape from their bodies, and even the carapaces of dead formians (and the chitin of other large insects as well). The PCs can see all manner of goods rushing by — broken furnishings, building materials, artwork, tools, weapons, and more — almost all were broken or damaged in the flood. Worse, every now and again, you'll see a dead formian floating in the water, whisked away quickly by the raging currents. A careful observation of the walls reveals that they obviously are not eroded by water. That and the detritus floating on the surface should tell the PCs that the flood has been recent.
+- The air grows noticeably more damp as the party moves down the passage toward this area. Suddenly, the passage opens wider, and water rushes through most of its width. A shelf-like upper area allows an explorer to travel alongside the rapid underground stream.
+- Until recently, the ledge alongside the “river” was just a raised area near the main passage, 3-5 feet below. Now, water fills the lower portion of the passage, flowing with a fast and powerful current. Many remnants of the formian city float and bob in the rushing water filling the tunnel. The formians use a variety of things for their tools and equipment — stone, metal (particularly bronze), a hardened secretion that they produce and shape from their bodies, and even the carapaces of dead formians (and the chitin of other large insects as well). The PCs can see all manner of goods rushing by — broken furnishings, building materials, artwork, tools, weapons, and more — almost all were broken or damaged in the flood. Worse, every now and again, you'll see a dead formian floating in the water, whisked away quickly by the raging currents. A careful observation of the walls reveals that they obviously are not eroded by water. That and the detritus floating on the surface should tell the PCs that the flood has been recent.
 
-**1. Floating Formians**
-While the characters look at the newly formed river or make their way along the ledge, a small band of formians floats by on a raft. They made the raft hastily out of the carapaces of a few large insects (they kept a species of giant beetle like cattle) lashed together. These three formian workers want nothing to do with the PCs. They simply float on by, carried by the rapid current. Shouts or pleas engender no response beyond a bug-eyed glare (as they only speak Formian).
+###### K1. Floating Formians
 
-**2. The Raft**
-At the end of the ledge lies a small cavern, which once served the formians as a Storehouse. It still contains bundles of grains and plants (soggy and covered in black mildew from the dampness) as well as some chitinous beetle shells and other parts that were meant to be used as tools or furnishings.
-An almost-finished raft like the one mentioned above waits near the edge of the river. Someone has partially lashed two thin but tough shells together. A successful DC 12 Wisdom check allows a character to realize how to go about finishing the task, if desired. Near the raft, however, its builder lies dead. A formian worker corpse rests near the construction, a bronze-headed (secretion-shafted) spear protruding from its chest. This poor creature was slain by the servants of Demansiq as they passed by looking for the Mantelavian scepter. The worker has been dead for at least a day.
+- While the characters look at the newly formed river or make their way along the ledge, a small band of formians floats by on a raft. They made the raft hastily out of the carapaces of a few large insects (they kept a species of giant beetle like cattle) lashed together. These three formian workers want nothing to do with the PCs. They simply float on by, carried by the rapid current. Shouts or pleas engender no response beyond a bug-eyed glare (as they only speak Formian).
 
-Characters using the raft find it fairly sturdy and waterproof. Those with navigation or vehicle proficiency can handle it with ease, and those without such training quickly get the knack of it. Going with the current requires a check only on the sharp turns and the small falls (see area 6). Anyone controlling the craft may attempt a DC 15 Intelligence check (with proficiency if applicable). Failure means that the craft tips. All on board must make successful DC 12 Dexterity checks to keep from falling off. A second Intelligence check by the navigator is immediately required. If it results in failure, the raft overturns and all on board fall off.
-At the falls (area 6), the raft automatically tips: only one check is required and that’s to keep the raft from overturning. Those who fall off must make another Dexterity check if the water is less than 10 feet deep (see the notations on the DM map) to avoid striking something solid — those who fail suffer 1d6 bludgeoning damage. In any case, characters in the water must attempt to swim until they can leave the river by some means. When fighting on board the raft, each time a combatant suffers damage, a DC 12 Dexterity check is required to stay on board.
-Characters not using the raft either need to supply their own boat, fly, or swim to get anywhere. Swimming against the rapid current found in the river requires a swimming check each round, Only a successful check allows a PC to gain any distance (at half normal movement rate), and two failures indicate that the character has actually lost ground (1d6x5 feet).
+###### K2. The Raft
 
-**3. On The River**
-Later, when the PCs are on their own raft or still on the ledge, more formians pass by on a raft. Unlike the formians encountered previously on the river, the creatures attack anyone they come upon immediately. They are larger, warrior formians. They show signs of previous fights and have a look of utter desperation on their insectile countenances.
-These warriors serve a myrmarch named Demansiq, who seeks to be the new ruler of the formians left in the area. To accomplish this, these formians have stolen the Mantelavian scepter from the myrmarchs serving Hvix'mnac, the old queen. This scepter signifies to any formian that the myrmarch holding it currently serves as the ruler of Klictrik. The warriors truly believe that what they do is for the best and good of their people — and thus harbor a willingness to slay anyone who gets in the way of the completion of their mission.
+- At the end of the ledge lies a small cavern, which once served the formians as a Storehouse. It still contains bundles of grains and plants (soggy and covered in black mildew from the dampness) as well as some chitinous beetle shells and other parts that were meant to be used as tools or furnishings.
+- An almost-finished raft like the one mentioned above waits near the edge of the river. Someone has partially lashed two thin but tough shells together. A successful DC 12 Wisdom check allows a character to realize how to go about finishing the task, if desired. Near the raft, however, its builder lies dead. A formian worker corpse rests near the construction, a bronze-headed (secretion-shafted) spear protruding from its chest. This poor creature was slain by the servants of Demansiq as they passed by looking for the Mantelavian scepter. The worker has been dead for at least a day.
+- Characters using the raft find it fairly sturdy and waterproof. Those with navigation or vehicle proficiency can handle it with ease, and those without such training quickly get the knack of it. Going with the current requires a check only on the sharp turns and the small falls (see area 6). Anyone controlling the craft may attempt a DC 15 Intelligence check (with proficiency if applicable). Failure means that the craft tips. All on board must make successful DC 12 Dexterity checks to keep from falling off. A second Intelligence check by the navigator is immediately required. If it results in failure, the raft overturns and all on board fall off.
+- At the falls (area 6), the raft automatically tips: only one check is required and that’s to keep the raft from overturning. Those who fall off must make another Dexterity check if the water is less than 10 feet deep (see the notations on the DM map) to avoid striking something solid — those who fail suffer 1d6 bludgeoning damage. In any case, characters in the water must attempt to swim until they can leave the river by some means. When fighting on board the raft, each time a combatant suffers damage, a DC 12 Dexterity check is required to stay on board.
+- Characters not using the raft either need to supply their own boat, fly, or swim to get anywhere. Swimming against the rapid current found in the river requires a swimming check each round, Only a successful check allows a PC to gain any distance (at half normal movement rate), and two failures indicate that the character has actually lost ground (1d6x5 feet).
+
+###### K3. On The River
+
+- Later, when the PCs are on their own raft or still on the ledge, more formians pass by on a raft. Unlike the formians encountered previously on the river, the creatures attack anyone they come upon immediately. They are larger, warrior formians. They show signs of previous fights and have a look of utter desperation on their insectile countenances.
+- These warriors serve a myrmarch named Demansiq, who seeks to be the new ruler of the formians left in the area. To accomplish this, these formians have stolen the Mantelavian scepter from the myrmarchs serving Hvix'mnac, the old queen. This scepter signifies to any formian that the myrmarch holding it currently serves as the ruler of Klictrik. The warriors truly believe that what they do is for the best and good of their people — and thus harbor a willingness to slay anyone who gets in the way of the completion of their mission.
 
 `encounter: 4: Formian Warrior`
 
-The desperate and nearly dead formians attack the PCs immediately, assuming that they are foes. Both carry bronzeded spears for ranged combat and wear bronze claw tips that improve their claw damage by +1 (and act as magical weapons in regard to creatures they can affect). One warrior carries the Mantelavian scepter, a dented *rod of rulership* of tarnished bronze with no charges. Their job is to take it to the Chamber of Deep Magic (area 11), recharge the scepter, and return it to Demansiq. The passage from the nest-mound chamber (area 13) was flooded and they hoped to get to the Chamber of Deep Magic by the longer route.
-The formians fight to the death, but the PCs should have little trouble defending themselves. If they take the tarnished rod (not knowing its worth, most likely), later in the adventure certain NPCs can recognize it for what it is.
+- The desperate and nearly dead formians attack the PCs immediately, assuming that they are foes. Both carry bronzeded spears for ranged combat and wear bronze claw tips that improve their claw damage by +1 (and act as magical weapons in regard to creatures they can affect). One warrior carries the Mantelavian scepter, a dented *rod of rulership* of tarnished bronze with no charges. Their job is to take it to the Chamber of Deep Magic (area 11), recharge the scepter, and return it to Demansiq. The passage from the nest-mound chamber (area 13) was flooded and they hoped to get to the Chamber of Deep Magic by the longer route.
+- The formians fight to the death, but the PCs should have little trouble defending themselves. If they take the tarnished rod (not knowing its worth, most likely), later in the adventure certain NPCs can recognize it for what it is.
 
 [[Mantelavian Scepter]]
 
-**4. The Broken Dike**
-This chamber once held the valve system and the dike that held back the water of the underground river known as the Darkflow. Now, only vestiges of the pipes and valves remain, as well the copper pipes which run along the wall and into the main city nest. A DC 15 Investigation check would be enough to ascertain that the dike was sabotaged, and that likely caused the flood. The water here is not deep, but it pours from the hole in the dike with great force. If characters can get past the rushing water (this requires a successful DC 12 Strength check — the water's too shallow to swim and the force is too strong to navigate a raft), they find a door made of plates of chitin held together with the hardened secretion made by the formians. The portion of the chamber near the door is high enough so that the water doesn't run this way at all. The door is locked with a bronze key lock (the key lies lost somewhere in the flood, but the lock can be picked with a successful DC 18 Sleight of Hand check). Behind the door stand two chambers once used by the centaur ant workers who maintained and watched the valves and the dike.
-The outer chamber has a few soft earthen mounds (the preferred “bed” of a formian), a stone table with a half-eaten loaf of bread, some discarded fruit rinds, and a jar of nectar. The formians used the rear chamber to house their pets, the giant crayfish. Most of the chamber is a freshwater pool fed by a pipe from the river. Only one of the creatures remains, the rest having fled when the formians did as the dike broke (they can be found now in Area 7), Like the others, this crayfish has designs etched into its shell and piercings of bronze rings and studs. It will attack anything that gets into the pool except a formian, since it hasn't been fed in quite some time.
+###### K4. The Broken Dike
+
+- This chamber once held the valve system and the dike that held back the water of the underground river known as the Darkflow. Now, only vestiges of the pipes and valves remain, as well the copper pipes which run along the wall and into the main city nest. A DC 15 Investigation check would be enough to ascertain that the dike was sabotaged, and that likely caused the flood. The water here is not deep, but it pours from the hole in the dike with great force. If characters can get past the rushing water (this requires a successful DC 12 Strength check — the water's too shallow to swim and the force is too strong to navigate a raft), they find a door made of plates of chitin held together with the hardened secretion made by the formians. The portion of the chamber near the door is high enough so that the water doesn't run this way at all. The door is locked with a bronze key lock (the key lies lost somewhere in the flood, but the lock can be picked with a successful DC 18 Sleight of Hand check). Behind the door stand two chambers once used by the centaur ant workers who maintained and watched the valves and the dike.
+- The outer chamber has a few soft earthen mounds (the preferred “bed” of a formian), a stone table with a half-eaten loaf of bread, some discarded fruit rinds, and a jar of nectar. The formians used the rear chamber to house their pets, the giant crayfish. Most of the chamber is a freshwater pool fed by a pipe from the river. Only one of the creatures remains, the rest having fled when the formians did as the dike broke (they can be found now in Area 7), Like the others, this crayfish has designs etched into its shell and piercings of bronze rings and studs. It will attack anything that gets into the pool except a formian, since it hasn't been fed in quite some time.
 
 `encounter: 1: Giant Crayfish`
 
-**5. Hidden Rocks**
-There is a 1-in-6 chance that any raft passing by these barely submerged rocks strikes them. If this happens, an Intelligence check (as described in area 2), is required to keep the boat from capsizing. Whether or not it overturns, the rocks tear a hole in the carapace rafts used here (or similar craft), meaning that the vessel sinks in 3d4 rounds unless someone is able to repair it (unless fixed by spell, this requires stopping and using materials that the PCs most likely do not have).
+###### K5. Hidden Rocks
 
-**6. The Small Falls**
-These two areas are sharp drop-offs where the river plummets 4-8 feet. As noted in the description for area 2, the character responsible for directing the raft must make the appropriate rolls or the raft overturns.
-Just below the first set of falls, the water has forced apart a fissure in the rock, creating a passage to the Chamber of Deep Magic (area 11). Characters bold enough to swim below the falls and into the sinkhole beneath find themselves carried into the chamber, borne by the current. Only man-sized or smaller creatures can fit in the hole.
-None of Klictrik’s residents know about the passage (it was just an inconsequential crack in the wall before the flood), and most of them are too big to fit through it anyhow.
+- There is a 1-in-6 chance that any raft passing by these barely submerged rocks strikes them. If this happens, an Intelligence check (as described in area 2), is required to keep the boat from capsizing. Whether or not it overturns, the rocks tear a hole in the carapace rafts used here (or similar craft), meaning that the vessel sinks in 3d4 rounds unless someone is able to repair it (unless fixed by spell, this requires stopping and using materials that the PCs most likely do not have).
 
-**7. Giant Crayfish**
-This chamber is home to some pets of the formians. The centaur ants discovered these beasts in the river and domesticated them. Because it struck their fancy, the formians inscribed delicate designs into their shells and studded them with bronze rings and semiprecious stones.
-On the shell of one of the beasts, the formians inscribed the lineage of the queens of Klictrik, and how 378 years ago, the greatest of the Regent Myrmarchs wielded power by right of the Mantelavian scepter, an object that drew its power from the Chamber of Deep Magic. Unless the PCs can read formian, however, a *comprehend languages* or similar magic is required to decipher the writing. And, of course, the crayfish has to hold still long enough to be read, which probably won't happen while it’s alive (DC 20 Animal Handling).
-The crayfish won't attack formians, but virtually anything else is fair game. Overturning a raft is easy work for them, requiring only a successful attack roll against AC 9. When their victims are in the water, they attack in earnest. Once they have slain their desired prey, the crayfish drag it down into their new lair, the completely submerged chamber beyond.
+###### K6. The Small Falls
+
+- These two areas are sharp drop-offs where the river plummets 4-8 feet. As noted in the description for area 2, the character responsible for directing the raft must make the appropriate rolls or the raft overturns.
+- Just below the first set of falls, the water has forced apart a fissure in the rock, creating a passage to the Chamber of Deep Magic (area 11). Characters bold enough to swim below the falls and into the sinkhole beneath find themselves carried into the chamber, borne by the current. Only man-sized or smaller creatures can fit in the hole.
+- None of Klictrik’s residents know about the passage (it was just an inconsequential crack in the wall before the flood), and most of them are too big to fit through it anyhow.
+
+###### K7. Giant Crayfish
+
+- This chamber is home to some pets of the formians. The centaur ants discovered these beasts in the river and domesticated them. Because it struck their fancy, the formians inscribed delicate designs into their shells and studded them with bronze rings and semiprecious stones.
+- On the shell of one of the beasts, the formians inscribed the lineage of the queens of Klictrik, and how 378 years ago, the greatest of the Regent Myrmarchs wielded power by right of the Mantelavian scepter, an object that drew its power from the Chamber of Deep Magic. Unless the PCs can read formian, however, a *comprehend languages* or similar magic is required to decipher the writing. And, of course, the crayfish has to hold still long enough to be read, which probably won't happen while it’s alive (DC 20 Animal Handling).
+- The crayfish won't attack formians, but virtually anything else is fair game. Overturning a raft is easy work for them, requiring only a successful attack roll against AC 9. When their victims are in the water, they attack in earnest. Once they have slain their desired prey, the crayfish drag it down into their new lair, the completely submerged chamber beyond.
 
 `encounter: 1: Giant Crayfish`
 
-**8. The Tridrone**
-This modron with three sides was once a merchant who traded with the formians, who eventually took up fairly permanent residence among them as a liaison and ambassador. When the dike broke, he was on his way down this passage toward the city-nest but the water trapped him here with no means of escape. Only luck allowed him to get out of harm's way when the water initially rushed down this passage. Modrons can't swim.
-Having been privy to much of the formians’ rather simplistic politics, the modron can recognize the Mantelavian scepter with ease. He knows where the Chamber of Deep Magic lies, although he doesn’t know how to go about recharging the scepter, or even that the item needs recharging. He also knows about the uncharacteristically ambitious Demansiq and does not trust the myrmarch, possibly even suspecting he'd stoop to sabotage if it furthered his goals. The modron knows much about the formians' city and society, but nothing about what's happened since the dike broke.
+###### K8. The Tridrone
+
+- This modron with three sides was once a merchant who traded with the formians, who eventually took up fairly permanent residence among them as a liaison and ambassador. When the dike broke, he was on his way down this passage toward the city-nest but the water trapped him here with no means of escape. Only luck allowed him to get out of harm's way when the water initially rushed down this passage. Modrons can't swim.
+- Having been privy to much of the formians’ rather simplistic politics, the modron can recognize the Mantelavian scepter with ease. He knows where the Chamber of Deep Magic lies, although he doesn’t know how to go about recharging the scepter, or even that the item needs recharging. He also knows about the uncharacteristically ambitious Demansiq and does not trust the myrmarch, possibly even suspecting he'd stoop to sabotage if it furthered his goals. The modron knows much about the formians' city and society, but nothing about what's happened since the dike broke.
 
 (Area 9 removed)
 
-**10. The Guardian**
-The formians placed a beast to guard the Chamber of Deep Magic long ago. The beast seemed a natural choice, for it was drawn to the chamber all by itself. The guardian is a very young bronze dragon — but no ordinary bronze dragon. A series of unfortunate events (detailed below) led Talleax from Argonnesson to this magical chamber deep in Daanvi.
+###### K10. The Guardian
+
+- The formians placed a beast to guard the Chamber of Deep Magic long ago. The beast seemed a natural choice, for it was drawn to the chamber all by itself. The guardian is a very young bronze dragon — but no ordinary bronze dragon. A series of unfortunate events (detailed below) led Talleax from Argonnesson to this magical chamber deep in Daanvi.
 
 >[!info]- Talleax
 > When this creature was hatched on Argonnesson, it had birth defects. The shape of its head shows that it didn’t develop entirely right. Its mother knew that it would never become a fully functional dragon. Dragon law decreed that the mother should slay any such rare, deformed specimen, but the mother dragon couldn't find it within her soul to kill her child, who she named Talleax. While handicapped, he seemed to have some sort of affinity toward magic — not in its use, which was far beyond him, but in its very presence.
@@ -325,72 +337,77 @@ The formians placed a beast to guard the Chamber of Deep Magic long ago. The bea
 >
 > Talleax yearns to get into the Chamber of Deep Magic again, but is sad rather than angry that his friends tricked him. The dragon can communicate with any intelligent creature, but only on a very rudimentary level using the simple words of his limited vocabulary. The formians hope that his mere presence will drive off most intruders — and so far, that assumption’s been correct.
 
-Those that don’t immediately run from the dragon's presence must face his repulsion breath weapon, which he uses when someone threatening comes near. If someone is able to withstand that attack, Talleax gives them a pathetic stare, although with his misshapen head, it's likely to be taken for a threat. He responds to threats and bravado with a blast of his lightning breath, but any attempt at speaking with him with civility gains his confidence rather quickly (a flaw in their guardian that the formians haven't yet realized). As best he can, Talleax explains that he “just likes the warm, sparkly room," meaning that he wants to get back to the Chamber of Deep Magic.
-What makes him a good guardian still is his jealousy over anyone going into the Chamber of Deep Magic without him. The myrmarch formians who used the chamber approached from the other direction, for since their ploy to put him under restraint, Talleax reacts badly to them as well. If anyone tries to get by the dragon, he slaps his tail near the exit as a warning. “Nobody go there without Talleax,” he bellows. “Just like the warm, sparkly room,” he says again. If anyone ignores this proclamation, he attacks as the intruder attempts to pass.
-His recent betrayal by the formians (from his point of view) taught him that no friend is completely trustworthy. Thus, even if the PCs have been very kind to him, he’s likely to be watching out for them to turn on him. Talleax uses his repulsion breath at the first sign of anger, violence, or derision from the party. If anyone's ever so foolish as to attack him, he'll fight to the best of his ability. He's obviously no tactician, but his bite, claws, and lightning breath are weapons of quick destruction,
-To free Talleax, his bronze chain must be broken. The chains are objects with 54 (10d10) HP, AC 19, and DC 20. Once freed, Talleax immediately goes into the chamber beyond. He pauses only momentarily at the presence of water in the chamber, and then dives in, a natural swimmer.
-The modron (from area 9) knows the recent history of Talleax, although his knowledge comes from the myrmarchs — he's never spoken to the dragon directly and is most likely terrified of the beast.
+- Those that don’t immediately run from the dragon's presence must face his repulsion breath weapon, which he uses when someone threatening comes near. If someone is able to withstand that attack, Talleax gives them a pathetic stare, although with his misshapen head, it's likely to be taken for a threat. He responds to threats and bravado with a blast of his lightning breath, but any attempt at speaking with him with civility gains his confidence rather quickly (a flaw in their guardian that the formians haven't yet realized). As best he can, Talleax explains that he “just likes the warm, sparkly room," meaning that he wants to get back to the Chamber of Deep Magic.
+- What makes him a good guardian still is his jealousy over anyone going into the Chamber of Deep Magic without him. The myrmarch formians who used the chamber approached from the other direction, for since their ploy to put him under restraint, Talleax reacts badly to them as well. If anyone tries to get by the dragon, he slaps his tail near the exit as a warning. “Nobody go there without Talleax,” he bellows. “Just like the warm, sparkly room,” he says again. If anyone ignores this proclamation, he attacks as the intruder attempts to pass.
+- His recent betrayal by the formians (from his point of view) taught him that no friend is completely trustworthy. Thus, even if the PCs have been very kind to him, he’s likely to be watching out for them to turn on him. Talleax uses his repulsion breath at the first sign of anger, violence, or derision from the party. If anyone's ever so foolish as to attack him, he'll fight to the best of his ability. He's obviously no tactician, but his bite, claws, and lightning breath are weapons of quick destruction,
+- To free Talleax, his bronze chain must be broken. The chains are objects with 54 (10d10) HP, AC 19, and DC 20. Once freed, Talleax immediately goes into the chamber beyond. He pauses only momentarily at the presence of water in the chamber, and then dives in, a natural swimmer.
+- The modron (from area 9) knows the recent history of Talleax, although his knowledge comes from the myrmarchs — he's never spoken to the dragon directly and is most likely terrified of the beast.
 
 `encounter: 1: Young Bronze Dragon`
 
-**11. Chamber of Deep Magic**
-The formians built Klicurik where they did, despite the dangers posed by the underground river, for two reasons: the proximity of the site to the copper and tin mines below, and the nearness of the mysterious Chamber of Deep Magic. This place is a natural node of magical power, which is particularly rare on the moons.
-Filled with natural crystals, the chamber seems to have faint light of its own that plays off the facets of the crystals. As Talleax described, the room also possesses a warmth within it not found in the other caverns in the area. Characters do not need *detect magic* or similar aid to discern that this place contains great power.
-The room quickly overwhelms spelleasters of any type with its abundance of power. Any attempt to cast a spell draws in too much of the ambient energy and renders them unconscious for 1d6 turns. Those not casting spells can stay within the room, though the experience can be a heady one. The magic of the room causes a body's skin to tingle and produces a giddiness in those who remain for more than a round or two.
-If a character focuses all of their will into a magical item in the Chamber of Deep Magic, they can direct the surrounding power into the object. Magical items with charges gain an additional charge per round, up to their normal maximums. The natural danger in this process is that too much power can overload an item. There exists a cumulative 1% chance per charge given an item that the object becomes overloaded with power and shatters. The item is ruined, and the character focusing their attention upon the recharging item suffers 1d10 force damage. Artifacts cannot be recharged in this manner. The Mantelavian scepter cannot be overloaded, and — what's more — as it is recharged the dents and tarnish vanish, transforming it into a beautiful object.
-Now that that Chamber of Deep Magic lies underwater, the challenge facing would-be rechargers is greater than ever. The Warrior servants of Demansiq hoped that the chamber wasn't entirely submerged as they made their way here to recharge the Mantelavian scepter. They were wrong. To use its power, the PCs may need to dive down from the nearby cave to the Chamber for as long as they can hold their breaths.
-Further, Talleax’s presence in the room makes it difficult to concentrate when recharging an item, because the dragon is prone to fidgeting and moving about (distracting enough), as well as bothering the recharger with questions about what they're doing, why they're doing it, how they like the warm, sparkly cave, and so on. Every third round, a recharger must attempt a DC 15 Wisdom saving throw; if the attempt fails, the charger loses their concentration. The item gains no charge, but the recharger still must roll for overload as the flow of power goes awry (unless recharging the Mantelavian scepter). Talleax can breathe underwater and remains there for good.
+###### K11. Chamber of Deep Magic
 
-**12. Mines**
-The river eventually plummets down into the mines below the city. Although the formians could climb up and down the side of the shaft, a pulley-driven elevator existed for non-formians and for carrying ore. The ropes and pulley still hang from the ceiling above the shaft, but the platform of the elevator is long gone. Anyone taking the fall on a raft suffers 5d6 bludgeoning damage from the 100-foot drop (the damage is halved due to the presence of the water to help cushion the fall).
-The water is particularly dirty in the mines, filled with the waste and detritus caused by the mining process. Further, the debris and dead bodies from the upper city collect in the mines, So they are filled with even more broken materials and dead formians than the tunnels above.
-No map shows the layout of the mines, as they extend for miles in all directions. Many are completely submerged, but a few tunnels are only flooded (a few are high enough to be dry).
+- The formians built Klicurik where they did, despite the dangers posed by the underground river, for two reasons: the proximity of the site to the copper and tin mines below, and the nearness of the mysterious Chamber of Deep Magic. This place is a natural node of magical power, which is particularly rare on the moons.
+- Filled with natural crystals, the chamber seems to have faint light of its own that plays off the facets of the crystals. As Talleax described, the room also possesses a warmth within it not found in the other caverns in the area. Characters do not need *detect magic* or similar aid to discern that this place contains great power.
+- The room quickly overwhelms spelleasters of any type with its abundance of power. Any attempt to cast a spell draws in too much of the ambient energy and renders them unconscious for 1d6 turns. Those not casting spells can stay within the room, though the experience can be a heady one. The magic of the room causes a body's skin to tingle and produces a giddiness in those who remain for more than a round or two.
+- If a character focuses all of their will into a magical item in the Chamber of Deep Magic, they can direct the surrounding power into the object. Magical items with charges gain an additional charge per round, up to their normal maximums. The natural danger in this process is that too much power can overload an item. There exists a cumulative 1% chance per charge given an item that the object becomes overloaded with power and shatters. The item is ruined, and the character focusing their attention upon the recharging item suffers 1d10 force damage. Artifacts cannot be recharged in this manner. The Mantelavian scepter cannot be overloaded, and — what's more — as it is recharged the dents and tarnish vanish, transforming it into a beautiful object.
+- Now that that Chamber of Deep Magic lies underwater, the challenge facing would-be rechargers is greater than ever. The Warrior servants of Demansiq hoped that the chamber wasn't entirely submerged as they made their way here to recharge the Mantelavian scepter. They were wrong. To use its power, the PCs may need to dive down from the nearby cave to the Chamber for as long as they can hold their breaths.
+- Further, Talleax’s presence in the room makes it difficult to concentrate when recharging an item, because the dragon is prone to fidgeting and moving about (distracting enough), as well as bothering the recharger with questions about what they're doing, why they're doing it, how they like the warm, sparkly cave, and so on. Every third round, a recharger must attempt a DC 15 Wisdom saving throw; if the attempt fails, the charger loses their concentration. The item gains no charge, but the recharger still must roll for overload as the flow of power goes awry (unless recharging the Mantelavian scepter). Talleax can breathe underwater and remains there for good.
 
-**13. Mound-Nest Chamber**
-The entrances to this, the “old city,” lie in a tall, narrow cavern with piles built up within it. At the top of each pile is a hole with a shaft leading down. The mound-nests lie within the spires. Chambers within the mound nests come in a few basic types — sleeping chambers, storage chambers (food, tools, other supplies), and common areas. Each chamber is dug out of the rock and furnished with items of stone, metal, and hardened insect secretions.
-When the flood came, this deep cavern filled with water but the mounds themselves saved those within by keeping the entrances above the water level. The mound-nests now house all the surviving formians of Klictrik — those who hid in the mounds and those able to escape from the main city-nest before it was completely flooded. The population of the nest now stands at 224 workers, 137 warriors, 24 myrmarchs (including Demansiq who is located in a separate chamber), and a single "princess formian".
-The "princess" is a young female named Iv'canik who was born soon after the death of the previous Queen. The population of the mound-nests have taken to serving her, as she will become the next Queen. Demansiq is currently unaware of her birth (as he'd been busy with his plan), but a few of his Warriors have become aware and will eventually tell him.
+###### K12. Mines
 
-**14. Main City-Nest**
-Like the mound-nests, this area comprises sleeping chambers, storage rooms, and common areas hewn out of rock — enough for hundreds of formians to live within comfortably. Now, however, all of these chambers have filled with water from the flood. Bodies and debris also float in the nest chambers, forming hazards and obstacles throughout the city.
+- The river eventually plummets down into the mines below the city. Although the formians could climb up and down the side of the shaft, a pulley-driven elevator existed for non-formians and for carrying ore. The ropes and pulley still hang from the ceiling above the shaft, but the platform of the elevator is long gone. Anyone taking the fall on a raft suffers 5d6 bludgeoning damage from the 100-foot drop (the damage is halved due to the presence of the water to help cushion the fall).
+- The water is particularly dirty in the mines, filled with the waste and detritus caused by the mining process. Further, the debris and dead bodies from the upper city collect in the mines, So they are filled with even more broken materials and dead formians than the tunnels above.
+- No map shows the layout of the mines, as they extend for miles in all directions. Many are completely submerged, but a few tunnels are only flooded (a few are high enough to be dry).
+
+###### K13. Mound-Nest Chamber
+
+- The entrances to this, the “old city,” lie in a tall, narrow cavern with piles built up within it. At the top of each pile is a hole with a shaft leading down. The mound-nests lie within the spires. Chambers within the mound nests come in a few basic types — sleeping chambers, storage chambers (food, tools, other supplies), and common areas. Each chamber is dug out of the rock and furnished with items of stone, metal, and hardened insect secretions.
+- When the flood came, this deep cavern filled with water but the mounds themselves saved those within by keeping the entrances above the water level. The mound-nests now house all the surviving formians of Klictrik — those who hid in the mounds and those able to escape from the main city-nest before it was completely flooded. The population of the nest now stands at 224 workers, 137 warriors, 24 myrmarchs (including Demansiq who is located in a separate chamber), and a single "princess formian".
+- The "princess" is a young female named Iv'canik who was born soon after the death of the previous Queen. The population of the mound-nests have taken to serving her, as she will become the next Queen. Demansiq is currently unaware of her birth (as he'd been busy with his plan), but a few of his Warriors have become aware and will eventually tell him.
+
+###### K14. Main City-Nest
+
+- Like the mound-nests, this area comprises sleeping chambers, storage rooms, and common areas hewn out of rock — enough for hundreds of formians to live within comfortably. Now, however, all of these chambers have filled with water from the flood. Bodies and debris also float in the nest chambers, forming hazards and obstacles throughout the city.
 
 >[!info]- The City-Nest
 > The main portion of Klictrik has two parts: the main city-nest, and the mound-nests. Although the formians built the mound-nests first, the city-nest grew to be much larger, providing homes for most of the city’s inhabitants, Most of these formians, however, died in the flood. The rushing water trapped and drowned them. A few managed to get to the mound-nests, and a few others escaped to the surface.
 
-**15. Demansiq's Chamber**
-When the myrmarchs moved the dragon Talleax out of the Chamber of Deep Magic, he guarded only one access to the chamber, Demansiq volunteered to guard the other path himself, and thus he used this tiny chamber as his own.
-While Demansiq distracted the other myrmarchs, his servants stole the Mantelavian scepter and attempted to recharge it in the Chamber of Deep Magic. Demansiq knew that their chances of getting past the dragon were slim, but he had to rely on luck at this point. Unfortunately, his luck was even worse than he thought, for his warriors were seen (formians make poor thieves) and attacked. Although they fought their way out and slew most of those who had seen the theft, their numbers were decreased and those that remained alive were wounded. Then, the PCs (presumably) came along and obtained the scepter (although he doesn’t know that), spoiling his plans further.
-If Demansiq learns of the PCs’ actions, he will do anything he can to get the scepter away from them — including outright violence. Using spells, he can still reach the Chamber of Deep Magic and recharge the scepter. He's also willing to use his influence to persuade the formians to attack the outsiders.
-Thus, if the PCs obtain the scepter, they're sure to be attacked eventually by Demansiq or by formians manipulated by him. The Tridrone would be a useful ally in calming attacking formians, since they know and trust this modron. If the PCs recharge the Mantelavian scepter they can force any formian of Klictrik to cease attacking and even obey limited commands, but this ability is limited by the number of charges in the scepter (which won't automatically recharge under the possession of the party).
+###### K15. Demansiq's Chamber
+
+- When the myrmarchs moved the dragon Talleax out of the Chamber of Deep Magic, he guarded only one access to the chamber, Demansiq volunteered to guard the other path himself, and thus he used this tiny chamber as his own.
+- While Demansiq distracted the other myrmarchs, his servants stole the Mantelavian scepter and attempted to recharge it in the Chamber of Deep Magic. Demansiq knew that their chances of getting past the dragon were slim, but he had to rely on luck at this point. Unfortunately, his luck was even worse than he thought, for his warriors were seen (formians make poor thieves) and attacked. Although they fought their way out and slew most of those who had seen the theft, their numbers were decreased and those that remained alive were wounded. Then, the PCs (presumably) came along and obtained the scepter (although he doesn’t know that), spoiling his plans further.
+- If Demansiq learns of the PCs’ actions, he will do anything he can to get the scepter away from them — including outright violence. Using spells, he can still reach the Chamber of Deep Magic and recharge the scepter. He's also willing to use his influence to persuade the formians to attack the outsiders.
+- Thus, if the PCs obtain the scepter, they're sure to be attacked eventually by Demansiq or by formians manipulated by him. The Tridrone would be a useful ally in calming attacking formians, since they know and trust this modron. If the PCs recharge the Mantelavian scepter they can force any formian of Klictrik to cease attacking and even obey limited commands, but this ability is limited by the number of charges in the scepter (which won't automatically recharge under the possession of the party).
 
 `encounter: 1: Formian Myrmarch`
 
-If the party decides to capture Demansiq instead, he can be sent to the Iron Ward for breaking the order of the formian city (he's not important enough to go to the Inescapable Prison). If they do defeat or capture and send of Demansiq, then the "princess formian" Iv'canik will enter the chamber and ask for the Mantelavian Scepter back. She can reward the team if that was negotiated previously or asked for now, with precious metals from the mine, weapons crafted by the formians, or something else appropriate or present in the city. She will also direct them safely out of the city via secret tunnels.
+- If the party decides to capture Demansiq instead, he can be sent to the Iron Ward for breaking the order of the formian city (he's not important enough to go to the Inescapable Prison). If they do defeat or capture and send of Demansiq, then the "princess formian" Iv'canik will enter the chamber and ask for the Mantelavian Scepter back. She can reward the team if that was negotiated previously or asked for now, with precious metals from the mine, weapons crafted by the formians, or something else appropriate or present in the city. She will also direct them safely out of the city via secret tunnels.
 
 ### Random Tables
 
 | dice: 1d20 | Modron Name |
-| --- | ----------- |
-| 1   | 43-NRY      |
-| 2   | 05-CAR      |
-| 3   | M3-GAN      |
-| 4   | 808-13      |
-| 5   | CAR-13      |
-| 6   | DOT-13      |
-| 7   | EVE-13      |
-| 8   | KAT-13      |
-| 9   | ROS-13      |
-| 10  | WIL-13      |
-| 11  | CHR-15      |
-| 12  | DEN-15      |
-| 13  | DOR-15      |
-| 14  | JAM-35      |
-| 15  | MAR-60      |
-| 16  | AN-63-L     |
-| 17  | BR-1-AN     |
-| 18  | JA-1-ME     |
-| 19  | JA-5-ON     |
-| 20  | S-1-MON     |
+| ---------- | ----------- |
+| 1          | 43-NRY      |
+| 2          | 05-CAR      |
+| 3          | M3-GAN      |
+| 4          | 808-13      |
+| 5          | CAR-13      |
+| 6          | DOT-13      |
+| 7          | EVE-13      |
+| 8          | KAT-13      |
+| 9          | ROS-13      |
+| 10         | WIL-13      |
+| 11         | CHR-15      |
+| 12         | DEN-15      |
+| 13         | DOR-15      |
+| 14         | JAM-35      |
+| 15         | MAR-60      |
+| 16         | AN-63-L     |
+| 17         | BR-1-AN     |
+| 18         | JA-1-ME     |
+| 19         | JA-5-ON     |
+| 20         | S-1-MON     |
 ^random-modron-names
 
 | dice: 3d6 | Being                                |

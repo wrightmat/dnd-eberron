@@ -1,24 +1,21 @@
- #adventure [[Shardspace]] [[Serezka]] [[Vlaakith]]
+ #adventure 
 
 ### Background and Hook(s)
 
 - Susurrus, the headquarters of Serezka’s sect known as The Whisperers, is located in the far side of Eberron from Tu’narath. Serezka and her followers only occupy the superficial areas of the ground floor of the palace, because they’re new occupants. The palace depths hides Vlaakith, the lich queen, and the palace becomes more and more dangerous (and the whispers heard more intense) as the party gets deeper into the expansive city.
 - Killing Serezka will cause Vlaakith to come out of her hiding and re-take control of both Susurrus and the githyanki followers. This will result in a much more capable githyanki force that will likely pursue the characters more readily, not to mention a much more powerful leader to take on, should they choose. The idea of this adventure is that the party may be able to complete part of it, but will need to return over time in order to be powerful enough to progress and eventually get to Vlaakith (which would be a god-level encounter).
-
 * The Palace may be found by random encounter anytime the party is traveling in Eberron's Wildspace.
-
-### Synopsis
-
-* Upon finding the Palace, the players encounter no doors and only a large statue of githyanki woman, and will need to ascertain how to gain access.
-* The ground floor is primarily held by Serezka. The party will first encounter her within the Throne Room she has claimed, but she will move deeper into the palace before they can truly challenge her. The party can move deeper into the palace via a secret door that Serezka exposes during her escape.
-* Difficulty of encounters in the palace will ramp up as the party moves deeper, culminating with an actual battle with Serezka in the center of the ground floor area. At this point the party learns that Serezka was only a pawn reporting to a much more powerful entity - a lich queen known as Vlaakith.
-* The party can choose to explore deeper into the palace, optionally going to a second floor, the depths of a cave-like environment, and a secret hatchery that's actually located on Eberron.
 
 ### Characters and Locations
 
-- 
+- [[Serezka]]
+- [[Vlaakith]]
 
-### Scene 1: Introduction
+- [[Shardspace]]
+
+### Scenes and Situations
+
+#### Introduction
 
 >The palace's polished obsidian walls are supported by flying buttresses and carved with narrow windows set with opaque panes of crimson glass. Entrance is gained through a 100-foot-tall statue of a githyanki woman that “guards” the palace. A vast necropolis surrounds the palace on all sides, the graves and mausoleums of fallen githyanki heroes eerily silent. As you near the palace, the whispers of the dead trapped within its walls can be heard.
 
@@ -66,7 +63,7 @@ The statue depicts Gith, the legendary liberator of the githyanki (and githzerai
 
 The tir'su symbols throughout the palace would be familiar to the party, and reminiscent of the one they found in the military district of Tu'na'rath after their simulation blew up (Trial By Fire).
 
-### Scene 2: Ground Floor
+#### Ground Floor
 
 **S2. Arrival Point**
 
@@ -351,7 +348,7 @@ The juvenile bronze dragon barely fits inside the cage in her draconic form, so 
 
 **Treasure**. The dead cleric's heavy mace is actually a +*1 heavy mace of disruption*. The bejeweied crown has the same properties as a *ring of major spell storing*. Currently, it contains a *heal* spell.
 
-### Scene 3: Second Floor
+#### Second Floor
 
 **S31. Queen’s Defenders**
 
@@ -464,7 +461,7 @@ As a free action, Vlaakith can silently command the dragon bones on the floor to
 **Development**. If Vlaakith is destroyed, her body turns to dust while her spirit is instantaneously transported to her phylactery in area 58. Thanks to a carefully phrased wish spell, Vlaakith's items (including her crown and scepter) vanish as well, teleported into the black sarcophagus that holds her phylactery (see area 49 for details).
 If the mirror of life trapping is destroyed, all of the prisoners contained within are released in an explosion of reflective glass shards. In addition to any trapped PCs, the mirror contains the following creatures: a nalfeshnee demon named Eekrex and two of his succubi concubines, an astral deva named Gethan, three maelephants deliberately placed in the mirror as guardians, and an astral elven arcane archer named Vakiton Stormbow. The demons seek to leave the palace as quickly as possible but stick around long enough to assault the astral deva, which they abhor. Despite being weaponless, Gethan shows the devils no quarter, and if he survives, he joins the PCs against Vlaakith. The maelephants are loyal to the lich-queen and attack the other mirror escapees at random. Vakiton, an arrogant arcane archer hailing from a world unknown to the PCs, knows that Vlaakith tortured and killed his former comrades (they are among the corpses impaled on the walls of the lich-queen's tormentory, in area 29). Bereft of equipment, he grabs whatever weapon is convenient before turning his attention to slaying the lich-queen and her minions, siding with the PCs if they share similar purpose.
 
-### Scene 4: Heart of the Dead God
+#### Heart of the Dead God
 
 This network of caves was once the still-beating heart of the One in the Void, the long-dead god upon which Susurrus is now built. The dread whispers that echo through the halls of the lich-queen’s palace are not present here, nor is the *unhallow* effect. In fact, the entire cave network radiates a faint, residual aura of good when a detect good spell is cast.
 Unknown to all githyanki except Vlaakith herself, the One in the Void was once a powerful good-aligned deity, and despite being dead, divine remnants of its goodness still linger within these caves. Although Vlaakith finds the caves abhorrent, she believes that she can capture the dead god’s “divine spark" to attain godhood, and that the secret to capturing this divine spark lies within the dead god’s heart. She also knows that her evil rivals would never think to look for her phylactery here.
@@ -567,7 +564,7 @@ If Vlaakith's corporeal form has been destroyed, the sarcophagus holds all of th
 
 **Development.** If anyone other than Vlaakith touches her phylactery, a silent alarm spell alerts Dessakrul, the two-head dragon in area 46. Fearing the destruction of his dark mistress, Dessakrul hurriedly emerges from his lair and makes his way down the tunnel connecting his lair to this cave. He brings fiery death (and the duthka’giths in area 48, if they're still alive) to anyone who would dare violate Vlaakith’s tomb.
 
-### Scene 5: Duthka’gith Hatchery
+#### Duthka’gith Hatchery
 
 One of the portals in Vlaakith’s reliquary (area 38) leads to a small fortress somewhere on the Material Plane, where time proceeds apace and the lich-queen's duthka'gith soldiers are born and raised. This stronghold may be located anywhere, including somewhere on the PCs homeworld. Whatever the location, it should be secluded. Like Susurrus, the duthka'gith hatchery is carved from obsidian; however, no whispers emanate from its walls and it has no magic wards to speak of. Since the stronghold does not reside on the Astral Plane, its occupants can’t fly by mental thought or cast quickened spells.
 The duthka’gith hatchery has no exits to the outside world except a few narrow arrow slits barely wide enough for a Small creature to squeeze through. The interior is unpleasantly warm, thanks mainly to the presence of an elder blackfire elemental named Synfernal (see area 51).
@@ -634,22 +631,22 @@ Despite their draconic ancestry, the duthka’giths harbor no lust for treasure 
 Each pod (AC 5; HP 15; DC 12) radiates strong Transmutation magic and is designed to accelerate the growth of the duthka’gith hatchling placed within it A dull hum keeps the pod's inhabitant asleep as it is fed nutrients that stimulate the growth of muscles, tissues, and bone. Touching a crystalline pod causes part of its oblong shell to retract, exposing the sleeping duthka’gith within. The pods' magic cannot be dispelled, but a *disjunction* spell cast on the pods destroys their magic, turning them into inert crystal coffins.
 The sleeping duthka’giths can be killed with coup de grace attacks and are worth no experience points. A live duthka’gith removed from its pod awakens in 1d6 rounds (or sooner if deliberately aroused from its deep slumber). It has no martial training and has statistics similar to a nonclassed githyanki with the halfdragon (red) template applied. Once a duthka’gith has matured, the Whisperers remove it from the hatchery and take it to another stronghold on the Material Plane, where it is trained to fight.
 
-### Vlaakith the Lich-Queen
+#### Vlaakith the Lich-Queen
 
 Commanding vast armies in citadels across the Astral Plane is Vlaakith, the thousand-year-old Iich-queen to whom all githyanki owe fealty (or at least pretend to). She rarely ventures beyond her obsidian Palace of Whispers, but her eyes, ears, and mind-probing instruments are everywhere. Vlaakith is also the reason why there are no githyanki clerics. A would-be goddess herself, Vlaakith cannot abide the notion of a githyanki worshiping anyone else. In githyanki society, offering a prayer to anyone other than Vlaakith is a capital crime. Vlaakith is described below with the items she’s never without, including the crown of corruption and the scepter of Ephelomon.
 
-#### Tactics
+##### Tactics
 
 Vlaakith begins the adventure in her throne room (area 7) and senses whenever living creatures enter her palace. At that point, she begins using the clairaudience/clairvoyance ability granted by the magic of her palace to spy on the interlopers. If she detects the arrival of githyanki, she sends Xam’kras and his lieutenants (see area 10) to confront them and determine their intentions. If she detects the arrival of non-githyanki intruders or discovers that the newly arrived githyanki seek to destroy her, she sends any nearby rfa ikiths to annihilate them. If the t’la’ikiths are destroyed, she sends Xam’kras, his subordinates, and any nearby duthka’giths to finish the job.
 
-#### Death to Vlaakith!
+##### Death to Vlaakith!
 
 Assuming the PCs don’t abandon their quest to destroy the lich-queen, the adventure can end in one of two ways: Either they succeed in destroying Vlaakith forever, or they perish heroically in the attempt. If the PCs destroy Vlaakith and her phylactery, the lich-queen is destroyed forever. Her demise triggers several events:
 
 - The Palace of Whispers releases all of its trapped souls. These souls burst from the walls of Susurrus and depart for Dolurrh. The obsidian turns brittle and, ten rounds later, the palace collapses in on itself dealing 4d6 bludgeoning damage to any creature trapped within (Dexterity save DC 20 for half damage). Only the great statue of Gith (see area 1) remains standing.
 - Zetch’r’r and his supporters on Tu’narath are even more empowered, and attract more githyanki to their cause.
 
-#### Vlaakith Lives!
+##### Vlaakith Lives!
 
 If the PCs fail to destroy the lich-queen and her phylactery, she will eventually achieve godhood by capturing the divine spark of the One in the Void. From that point forward, githyanki may become clerics of Vlaakith. The lich-queen bequeaths spells to her loyal worshipers from the domains of Chaos, Destruction, and Evil.
 

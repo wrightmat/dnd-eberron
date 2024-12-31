@@ -1,12 +1,11 @@
- #adventure #completed [[Therendor (Syrania)]] [[Throne of Life]] [[Vyrael]] [[Castiel]]
-
-### Background and Hook(s)
-
+ #adventure #completed 
 
 > Your ship flies through an endless expanse of perfect blue skies, stretching off into the horizon. There’s no sign of the sun, but the sky is clear and bright, and floating crystal towers gleam as if caught in a sunbeam. A warm, gentle breeze brushes over you, and there’s a faint sound of distant chimes. You feel absolutely calm; in this moment, all anger melts away.
 > Large floating towers dot the skyline, with winged creatures clearly seen flying between them. But the distant cities are much less interesting than what’s right below you - the largest market you’ve ever seen in your life. As your ship slowly descents to land on a designated cloud, you see a golden pedestal is the only prominent feature in the immediate area.
 
-The golden pedestal has on top of it a nine-cornered gold coin which is blank on both sides. Engravings on the pedestal, written in Celestial, clearly instruct visitors to flip the coin, and given the “Universal Understanding” principle of the plane, all players know they can somehow read it. If they flip it, then have them roll a straight d20 (luck roll), with the result determining how the coin lands, along with the symbol on and power of the coin.
+### Background and Hook(s)
+
+- The golden pedestal has on top of it a nine-cornered gold coin which is blank on both sides. Engravings on the pedestal, written in Celestial, clearly instruct visitors to flip the coin, and given the “Universal Understanding” principle of the plane, all players know they can somehow read it. If they flip it, then have them roll a straight d20 (luck roll), with the result determining how the coin lands, along with the symbol on and power of the coin.
 
 `dice: [[3. Therendor, The Healer#^syrania-golden-pedestal]]`
 
@@ -19,13 +18,19 @@ The golden pedestal has on top of it a nine-cornered gold coin which is blank on
 
 ### Characters and Locations
 
-- 
+- [[Throne of Life]]
+- [[Castiel]]
+- Vyrael
 
-### The Open Sky
+- [[Therendor (Syrania)]]
+
+### Scenes and Situations
+
+#### The Open Sky
 
 The Open Sky is the vast blue expanse from which the Azure Sky takes its name. The clear, bright, sunless sky shows no signs of passing time; the moon Therendor can be seen, but it doesn’t move or have phases. Despite the Open Sky’s seemingly infinite space, it wraps around on itself, effectively making it a 300-mile sphere. So while it takes a significant time to travel between the farthest points, it is possible. There are no native threats in the Open Sky, and all visitors to Syrania have the ability to fly; the catch is knowing where to go, as there are hundreds of spires.
 
-### The Immeasurable Market
+#### The Immeasurable Market
 
 > You look out across a market that appears to never end, with stalls composed of everything from temporary stands and tents to permanent stone structures. You can see customers and merchants from across the planes, including the Material Plane. To one side, a slaadi haggles with a modron over the price of hippogriff eggs; to the other, a sly dao shows a Shavaran balor a selection of Fernia-forged blades. It’s said that anything you can imagine— and many things you can’t— can be found in the Immeasurable Market.
 
@@ -67,7 +72,7 @@ To determine the stock at a particular shop, roll on the tables in the [[Trinket
 
 Some shop is also selling [[Armor of Vulnerability]], which is a magical cursed item (that would be great for Onme).
 
-### The University
+#### The University
 
 > A group of various multi-colored crystal spires make up what’s known on Syrania simply as The University. Each spire seems clearly decorated in accordance with a domain of study, from a beautiful hanging garden to a vast open library.
 
@@ -75,7 +80,7 @@ When the players first arrive at The University, they are approached by a 9 foot
 
 [[Therendor (Syrania)#The University]]
 
-### Solar City
+#### Solar City
 
 > The city of the angels is composed of floating towers which have comparatively few inhabitants — not so few that they feel desolate or barren, just enough so that it always feels slow and peaceful. Crystal spires serving as homes can be seen bobbing around an enormous central fountain. A floating portal can barely be seen in the distance of the city, guarded by an angel.
 
@@ -85,7 +90,7 @@ A permanent gate to Sharn is present in Solar City as well, and it’s guarded b
 
 * When angels of Syrania become corrupted, they are cast out by their brethren, ripped of their wings and sent to the Material Plane. These angels are now Radiant Idols, and often serve the cause of evil.
 
-### Windmount
+#### Windmount
 
 > A large mountain can be seen rising from a misty cloud, where the bottom of the mountain can't actually be seen. It rises to a misty peak obscured by swirling clouds, and you can see bird-like creatures flying all around it. This entire view is almost obscured by an impossibly large brewing storm that appears to be engulfing the entire area.
 
@@ -130,7 +135,7 @@ If the players make it to the mountain at the end of the board, the game ends an
 | 20  | **Wind Shift.** The wind changes to a random direction. You move at regular speed with it, but at half speed against it. This is a global wind that effects everyone on the board.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Ongoing           |
 ^therendor-windmount-lair-actions
 
-#### Church of Akadi
+##### Church of Akadi
 
 The teachings of the Church of Akadi stress finding one's own enlightenment. The faithful are encouraged to explore their interests as well as the world to pursue their dreams. The church is confident that any resistance to their doctrines will be eroded over time. It is considered a grave crime to fetter or otherwise imprison one faithful to Akadi.
 

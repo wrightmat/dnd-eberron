@@ -1,29 +1,30 @@
- #adventure #completed  [[Sypheros (Mabar)]] [[The Queen of All Tears]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
 - At the center of the Last Desert lies a massive tomb-palace. Its style suggests the architecture of Aerenal, but it’s grander than even the City of the Dead. This is the fortress of the Queen of All Tears, the Dark Power of this domain.
-
-### Synopsis
-
 - The players can explore various areas of the upper level of the Necropolis, until such point that they enter the Tower of Necromancy. Here, the servants of the Queen of All Tears are attempting to unearth her mummy.
 - If the players decide to follow the Queen, she leads them deeper into the Necropolis, where they can learn more about her or anger her and face wave after wave of undead creatures.
 
 ### Characters and Locations
 
-- 
+- [[The Queen of All Tears]]
 
-### Scene 1: Exploring the Necropolis
+- [[Sypheros (Mabar)]]
 
-#### N1. Entry Spires
+### Scenes and Situations
+
+#### Exploring the Necropolis
+
+###### N1. Entry Spires
 > A stone walkway leads to a tower that claws upward and inward, its pointed roof leaning menacingly overhead. Narrow windows pierce its walls, gargoyles cling to its eaves, and a doorway at the tower’s base gapes open.
 
 There is a 20 percent chance (encounter on 17+) that `dice:1d3 + 1` living gargoyles cling to the outside of the entry (other gargoyles clinging to the tower are inanimate statues). Living gargoyles swoop down to attack anyone who crosses the gantry approaching the tower.
 
-#### N2. Foyer
+###### N2. Foyer
 A large entry room branches off in five different directions, with the north leading to the Tower of Necromancy (N7) and the other four hallways (two to the east and two to the west) leading to areas N3 to N6.
 
-#### N3. Bazaar of the Bizarre
+###### N3. Bazaar of the Bizarre
 > A large market hall sits at one end of this plaza, its four broken towers leaning inward. Faded pennants hang above the entrance, frozen stiff. A loud clatter resounds from within the hall.
 
 This market hall once sold relics of arcane wonder. Now, its interior is a warren of mangled shop fronts crushed by chunks of stone. Most of the wares have become worthless, and everything else has been destroyed by a headless iron golem that is presently rampaging around inside the building. Without its head, the golem has the following changes to its statistics:
@@ -33,12 +34,12 @@ This market hall once sold relics of arcane wonder. Now, its interior is a warre
 
 `encounter: 1: Iron Golem`
 
-#### N4. Observatory
+###### N4. Observatory
 > This conical tower is held relatively upright by a ring of arched buttresses. A large telescope dominates a thirty-foot-diameter circular chamber at the top of the tower. The roof has a large, ragged hole in it where something large smashed through.
 
 Looking into the telescope will reveal all nine (9) of the moons the party has already visited. Shifting the telescope slightly will show an orange-red moon (Aryth), a grey pockmarked moon (Vult) and then an endless expanse of darkness (The Void).
 
-#### N5. Theater
+###### N5. Theater
 > The roof of this domed building is wrecked and open to the elements. Inside is a theater with a large stage, seating for more than one hundred, and a backstage area.
 
 A wooden writing desk sits in a backstage room, wrapped in chains and padlocked. A character using Thieves’ Tools can try to pick the lock as an action, doing so with a successful DC 15 Dexterity check. In a leather-bound folder in one of the desk drawers are five scripts for a play called A Blasphemy of Kings. The play tells the story of five siblings, each expecting to claim the throne of their late father. As the protagonists try to prove their worth, it is revealed that they’re all in fact dead, having perished alongside their father in the cataclysmic event that destroyed their kingdom.
@@ -51,7 +52,7 @@ A wooden writing desk sits in a backstage room, wrapped in chains and padlocked.
 - **Haunted’s Script**. A shadowy fiend plagues the cursed character’s dreams (or trances in the case of an elf), denying that character the benefits of a long rest.
 - **Fool’s Script**. The cursed character has disadvantage on all ability checks.
 
-#### N6. Music Hall
+###### N6. Music Hall
 > This grand music hall is aglitter with ice, and the floor underfoot is strewn with the crystal shards of fallen chandeliers. The frozen corpses of the audience lie strewn among the tiered seats, their expressions frozen in rapturous adulation. On the stage, cadaverous musicians slump over their shattered instruments. Old posters are plastered on the walls.
 
 Old posters are plastered to the outer walls of this music hall. Anyone who can read the Draconic script can translate the poster closest to the entrance: “Experience the Esoteric Orchestra’s masterwork, The Dark Between the Stars!” A character who succeeds on a DC 15 Intelligence (History) check knows this legendary piece of music, as does any bard in the party.
@@ -60,7 +61,7 @@ A conductor’s baton rests on a lectern at the front of the stage. If a charact
 
 **Conducting the Orchestra**. To conduct the orchestra through the end of their final symphony, a character must succeed on three consecutive DC 15 Charisma (Performance) checks made 1 minute apart. A character who knows The Dark Between the Stars gains advantage on each check. On the first successful check, the orchestra launches into a hauntingly beautiful performance. If the next check succeeds, listeners experience a falling sensation in the pits of their stomachs, as the music reaches a crescendo. If the third and final check succeeds, the conductor brings the piece to a satisfying close as the sound of ghostly applause rises from the audience and phantasmal black roses rain down on the musicians, who face the audience and bow before fading into the afterlife. A character who successfully conducts the orchestra gains inspiration.
 
-#### N7. Tower of Necromancy
+###### N7. Tower of Necromancy
 > The remains of a toppled tower lie scattered around you. Its fractured base, protruding from the ground like a broken tooth, is teeming with crawling gray hands.
 
 A *detect magic* spell cast here reveals an aura of necromantic magic. Two hundred crawling claws are tirelessly but ineffectively trying to excavate the tower's ruins, brick by brick. Anyone who disrupts this effort is attacked by `dice: 2d6` claws (each doing `dice: 2d4` slashing damage). Deep under the rubble, a mummified corpse (of The Queen of All Tears) lies crushed, and a spectral image of a beautiful elf woman floats above it. Characters who linger in the area of the tower witness this spirit staring glumly down at the debris. The spectrum can’t speak.
@@ -73,7 +74,7 @@ If the players attempt to stop the Queen or especially if they attack her, she s
 
 **Treasure**. Buried under the stone with the Queen's mummy is an [[Amulet of the Black Skull]].
 
-### Scene 2: Facing The Queen of All Tears
+#### Facing The Queen of All Tears
 
 This scene is entirely optional, but the players may choose to help unbury the Queen and then follow her into her chambers. If so, then they can talk with her to get information, or she may send wave after wave of undead creatures after them if they anger her. If the players choose to speak to the Queen respectfully, then she may reveal any of the information below during a conversation:
 
@@ -94,9 +95,9 @@ If the players anger the Queen at any time, or especially if they attack her, th
 | 4    | `encounter: 1d6: Wight`              |
 | 5    | `encounter: 1d3: Wraith`             |
 
-### Conclusion
+#### Conclusion
 
-If the players don't anger the Queen, then they're free to leave at any time - she won't stop them. If they do anger her, then they will likely die in one of the encounters - at which point they can be found again when the party gets to Dolurrh.
+- If the players don't anger the Queen, then they're free to leave at any time - she won't stop them. If they do anger her, then they will likely die in one of the encounters - at which point they can be found again when the party gets to Dolurrh.
 
 ### References
 

@@ -1,4 +1,4 @@
- #adventure [[Barrakas (Irian)]] [[Desire]] [[Dawn Empress]] [[The Gardener]] [[Araam]]
+ #adventure 
 
 > You descent upon a vision of life triumphant, and a strong feeling of hope washes over you. Nearby you see the gleaming capital of a new empire, where cheering throngs celebrate in the streets, and a group of settlers work together to raise their first home. In the distance, birds sing in a fertile valley. It’s always morning here, the skies are clear and the sun is fixed in the sky.
 
@@ -16,9 +16,16 @@ In his Planar Codex, Dorius Alyre ir’Korran calls Irian the Plane of Light, an
 
 ### Characters and Locations
 
-- 
+- [[Desire]]
+- [[Dawn Empress]]
+- [[The Gardener]]
+- [[Araam]]
 
-### Amaranthine City
+- [[Barrakas (Irian)]]
+
+### Scenes and Situations
+
+#### Amaranthine City
 
 The Amaranthine City is the capital of an empire in its first bloom of glory. Gilded banners catch the wind. Armored angels and pegasi patrols pass overhead. People laugh in the streets, healthy and happy. Artisans create a mosaic depicting glorious victories. While this is an empire, the message isn’t about oppression, but one of potential. This is an empire where all the citizens are prosperous and all have equal opportunities. People are proud, the city is full of wonders, and the future is bright. The Amaranthine City is widely seen as the heart of Irian. Its Dawn Empress is the first and greatest of the Architects.
 
@@ -26,7 +33,7 @@ The largest city in the realm is largely populated by embers, manifestations lin
 
 The city contains a variety of buildings, but some of the most famous are Club Starlight, Desire’s Den, and Rhea’s Resort (below). There’s also a frozen yogurt shop called “Icicles Frozen Yogurt Shop” run by an Ice Djinn, a clothing store called “Everything Fits”, and food shops called “Chocolate Everything”, “Chai There!” and “The Good Plates”.
 
-### Club Starlight
+#### Club Starlight
 
 A rave-inspired dance club that’s run by a Lumi, who also serves as the bouncer (who glows with positive energy and gives off light for 5 feet). If any player isn’t feeling positively about visiting the club, they’ll either need to change their outlook for real, or succeed on a DC 18 Deception check in order to get in to the club - the Lumi can’t abide negativity in his club!
 
@@ -59,7 +66,7 @@ The DJ at the far end of the dance floor (30 feet across) is a Radiant Idol (who
 * On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature has a speed of 0 and must continue to dance in place.
 * The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
-### Desire’s Den
+#### Desire’s Den
 
 This club/bathhouse/bar is entirely sex-positive and run by Desire, the most powerful creature on Irian (above the Architects), and member of the Endless. All sexuality is welcome and openly embraced here, and the den also represents the concept of fertility. The symbol of the club is a heart made of cut glass. Desire's Den has smooth, red, curvilinear walls and floors throughout, made of something similar to epoxy.
 
@@ -80,7 +87,7 @@ The outside of the club is situated right on the coast of a beach with crystal b
 
 A special drink is available only here, given out by Desire to those who seem interested, but not given a name. The bottle is red glass in the shape of a heart, and comes in two parts. When two persons consume the drink within 5 minutes of one another, their minds are swapped for 1 hour.
 
-### Rhea’s Resort
+#### Rhea’s Resort
 
 A Ki-rin ranch can be found just outside of the Amaranthine City, between Desire's Den and The Garden. The ki-rin here aren’t contained in any way and actually run the place themselves, but they freely choose to give visitors and angels rides around the plane. The leader is a Ki-rin female (said to be exceptionally rare), named named Rhea, who has gathered all the others males as a sort of harem.
 
@@ -88,7 +95,7 @@ Females are velvety blue, while the men are gold.
 
 ![https://static.wikia.nocookie.net/forgottenrealms/images/1/1e/Ki-rin-5e.jpg|300](https://static.wikia.nocookie.net/forgottenrealms/images/1/1e/Ki-rin-5e.jpg)
 
-### The Garden
+#### The Garden
 
 The Garden lives up to its name; it’s a vast zoological garden filled with foliage. It contains every plant that can be found in the Material Plane, along with many that can’t. There are winding paths, peaceful pools, wondrous topiaries, and complicated hedge mazes. In contrast to the wilds of Lamannia, this is very carefully cultivated. The Garden is suffused with a sense of peace, beauty, and the wondrous things life can create. The many layers of the Garden showcase various elements of fertility and the triumph of life. There are a few layers that are slightly darker than the rest of Irian, though still suffused with dim light in their darkest corners — these reflect the principle that life overcomes hardship.
 
@@ -96,7 +103,7 @@ The Garden is the realm of [[The Gardener]], an Architect whose principle is lif
 
 [[3-08  The Magical Fountain]]
 
-#### The Spider Librarians
+##### The Spider Librarians
 
 A spider librarian hangs from the ceiling behind a circulation desk, wearing four sets of glasses over all of her eyes. She works to catalog all the written information about all of the foliage that is or ever has been in The Garden, and if approached, she asks the party for their help.
 
@@ -125,7 +132,7 @@ If they wake the spider by failing a Stealth check, then she wakes and addresses
 	 * If they attack her outright, then when she's reduced to 0 hit points she's just incapacitated.
  * When the battle is over, the party can return to the other sister and report that she's okay now.
 
-### The Refuge
+#### The Refuge
 
 The Refuge is a vast fortress-monastery, though it has aspects of a spa as well. It’s filled with tranquil groves, soothing baths, and places to rest and reflect. The fortress walls don’t represent potential conflict, but rather speak to the absolute security of the place — within its walls, you are safe from all threats. The Refuge holds healers who can treat your injuries, mediators who can talk through problems, and sages who may not know the answers you need, but can point you in the right direction.
 

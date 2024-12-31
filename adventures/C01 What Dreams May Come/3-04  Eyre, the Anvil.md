@@ -1,23 +1,26 @@
- #adventure #completed [[Eyre (Fernia)]]
+ #adventure #completed 
 
 > A massive shard of basalt rises out of a vast ocean of magma. A castle sprawls atop the peak, a glittered fortress sculpted from brass. Firefalls of lava tumble down the edge of the spire. A flight of red dragons takes to the air, circling the castle and creating a dazzling spectacle of synchronized flames.
 > While the castle is most prominent as you look over the Sea of Flames, it’s far from the only thing you see. Smaller estates dot islands around the largest city just south of the castle. Various other islands dotting the Sea include large industrial machines, flaming forests, and even a pleasant looking inn.
 
-The ship sets down on a dock jutting out into lava at the edge of the city. If they go north, they can get to the City of Brass and the castle at its center. If they go any other direction, they can explore the islands in the Sea of Fire. Either way, be sure they meet Phlain as early as possible.
+### Background and Hook(s)
+
+- The ship sets down on a dock jutting out into lava at the edge of the city. If they go north, they can get to the City of Brass and the castle at its center. If they go any other direction, they can explore the islands in the Sea of Fire. Either way, be sure they meet Phlain as early as possible.
 
 ### Characters and Locations
 
-- 
+- [[Eyre (Fernia)]]
+- [[Eyre (Fernia)#The City of Brass|The City of Brass]]
 
-### The City of Brass
+### Scenes and Situations
+
+#### The City of Brass
 
 > You arrive at a metropolitan city, a place of marvels.  Here, a towering statue of an efreeti holds a sphere of continual flame the size of an airship. A variety of mansions dot the city, and fiery salamanders and dwarf-like creatures can be seen entering and exiting. The streets are filled with mephits, salamanders, and the occasional elemental, but there’s not another humanoid in sight. Circles made of flame and inscribed with Ignan symbols ring the city, and north of the city is the great castle seen from the skies.
 
 As the players arrive in the City of Brass, introduce either Phlain ("Meeting Phlain") or the escaped half-orc Rone ("Brass Collar Blues").
 
-[[Eyre (Fernia)#The City of Brass|The City of Brass]]
-
-### Brass Collar Blues
+#### Brass Collar Blues
 
 As characters being to travel through the City of Brass, they pass by a darkened alley. Shrouded in crimson shadows between two plain basalt buildings with brass domed roofs, the alley is nondescript except for the sound of scuffling and a tortured voice calling for help.
 
@@ -51,7 +54,7 @@ Rone is incredibly grateful to the characters and promises to pay them back some
 
 Vakees has no current need for the characters, but he believes in being prepared – and having a party of adventurers in his debt makes him pretty prepared.
 
-### Meeting Phlain
+#### Meeting Phlain
 
 > Close to you, a voice comes quickly into focus. A deep, rolling voice that sounds like a burning bonfire. You turn around, and come face to face with a muscular man made of fire. A smile spreads across his face and a smaller creature with blue skin and fiery red hair steps out from behind him. “Hello old friends. Welcome to my home.”
 
@@ -63,47 +66,47 @@ Phlain has a plan to unseat the Sultan Azhalar with his next gala. And what’s 
 
 [[3-04  Life of the Party]]
 
-### The Sea of Fire
+#### The Sea of Fire
 
-#### Efreeti Estates
+##### Efreeti Estates
 
 Each of the noble efreet have a sprawling palace or mansion on an island in the Sea of Fire. While not so grand as the City of Brass, these estates are studies in opulence, filled with dao-crafted wonders and sculptures of metal and flame.
 
 If the players arrive at the Efreeti Estates and haven’t met Phlain, have him appear first.
 
-#### Foundries
+##### Foundries
 
 Foundry islands are models of industry, and the domain of the azer. Some are focused primarily on physical engineering, with vast gears and wheels slowly turning, and chains rising and falling. Others reflect arcane industry, with blazing glyphs and fields of shimmering energy. Some islands are forests of metallic-trees - instead of wood and bark they are made out of pure metals like silver and gold - which the azer harvest for the metals to be worked.
 
-#### Deep Halls
+##### Deep Halls
 
 Under the foundries, tunnels extend down below the Sea of Fire into the earth below. These are the domains of the dao. Like the foundries above them, each has a distinct style tied to the sensibilities of the dao who dwells there. Streams of lava and pools of fire run through the halls, along with veins of metal and minerals. While not as luxurious as the estates of the efreeti, these often showcase the wondrous creations of the dao in residence; adventurers could find a hall whose walls are decorated with a thousand swords, or a brass garden filled with cunning construct songbirds. But some dao are paranoid, and deep halls can also contain a host of powerful and deadly traps.
 
-#### The Charred City
+##### The Charred City
 
 > This inferno is a burning city, where devils direct bombardment and demons dance about, spreading the flames within.
 
 Many of the random islands dotted throughout the Sea of Fire don’t have much of interest on them, like this one.
 
-#### The Flaming Forest
+##### The Flaming Forest
 
 > This inferno contains a lone balor overseeing the devastation of an ancient forest. These fires never end; parts of the layer are rebuilt even as others are consumed, and the inferno continues forever.
 
 Many of the random islands dotted throughout the Sea of Fire don’t have much of interest on them, like this one.
 
-#### Field of Firepeppers
+##### Field of Firepeppers
 
 An island off of The Flaming Forest houses a manifest zone to the The Volcanic Fields of Xen'drik, and a large number of Fernian Firepepper plants.
 
 Firepepper is a rare plant found in Xen'drik. It is native only to the burning plains linked to the plane of Fernia. Coveted by chefs and gourmands across Khorvaire, firepeppers are sought for their intense flavor and heat. Just one firepepper could be sold for up to 10 gp in Sharn.
 
-#### The Lonely Campfire
+##### The Lonely Campfire
 
 > This island in the Sea of Fire is a forested clearing with a single campfire, a lonely light out in the darkest wilderness.
 
 Many of the random islands dotted throughout the Sea of Fire don’t have much of interest on them, like this one.
 
-#### The First Hearth
+##### The First Hearth
 
 This campfire island is an inn called the First Hearth, where the angelic barkeep Ashe offers warm drinks around the fireplace from which the inn takes its name. Campfire layers are safe havens, and a perfect place for travelers to rest.
 
@@ -115,25 +118,30 @@ If the players arrive at the First Hearth and haven’t met Phlain, have him app
 > - The Phoenix - A peppery drink that burns on the way down, and then again on the way out. It is often used as a prank on drunk companions, who have a nasty surprise waiting for them the next time they go to relieve themselves.
 > - Firepepper Gin - an herbal drink made from Firepeppers that has a lingering burn which doesn't kick in until several minutes after drinking.
 
-### The Sultan's Palace (High Hearth)
+#### The Sultan's Palace (High Hearth)
 
 Hight Hearth serves as the seat of power for the Great Sultan of the Efreet. The current inhabitant is Great Sultan Phlain.
 
 Dark basalt was used to construct most of the structure of the palace. The basalt is so dark that it appears to drain light from the flames surrounding the city. Gold, brass, and copper were used to cover many of the towers and domes of the palace.
 
 ##### Throne Room
+
 Where the Sultan governs Fernia from day to day. In the center point is a large throne shaped like a red dragon, above which is a symbol of a stylized sun (Dol Arrah).
 
 ##### Training Room
+
 This room is a training and exercise room for those who fight for the Sultan in any capacity. Duels and other traditional forms of fighting are most respected in Fernia. The symbol of a shield and crossed sword (Dol Dorn) adorns the walls.
 
 ##### Dragon Courtyard
+
 An open courtyard situated behind the throne room is the space dedicated to training and otherwise interacting with the Sultan's red dragon brood. The symbol of sharp weapons arranged in a hexagram pattern (Dol Azure) dot the floor tiles, and the entire space is open to the air, where the dragons often fly off and circle the palace.
 
 ##### Sultan's Bedchamber
+
 The Sultan's private room is opulent, with beautiful brass fixtures, an unnecessarily large four-poster bed, and everything the Sultan could possibly need or want. A private bathroom, dressing room, and dining room surround the bedchamber itself.
 
 ##### Master Bedroom (Bystan's)
+
 The master bedroom is where Bystan sleeps. While less opulent than the Sultan's bedchamber, it is still incredibly well adorned, contains a large bed, and connects to a separate private bathroom and dressing room.
 
 ### References

@@ -1,4 +1,4 @@
- #adventure #completed  [[Rhaan (Thelanis)]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
@@ -9,15 +9,8 @@
 	 * Service staff, including bartenders and kitchen servers, are Hearts. The Concierge is the Queen of Hearts.
 	 * Security staff, such as those that guard the vault, are Spades. The Pit Boss is the Jack of Spades.
 	 * Entertainment staff, such as singers employed by the club, are Clubs. The Casino Manager is the King of Clubs. In addition, he will also attend any major emergency to oversee the event and then calm the public.
-
 * Destiny can approach the party at some point and chastise them for being here, as it's "against the story". He opens his book, then says that Prism isn't the person she should be here, and that Astra shouldn't be here at all. Then he slams the book closed, and Celeste appears in place of Prism and Astra disappears (becoming Alice, who is trapped in the Casino vault). The whole party can also be transported to the Fields of Fable where they see a single house (which Celeste/Prism would recognize) at the front of expansive fields, and a large red casino in the distance.
 	* Astra/Alice can also hear in their head (in Destiny's voice): "And I know you sat in my chair".
-
-### Synopsis
-
-- Celeste and Hatter use the rough map drawn up by Mr. Dee and Mr. Dum to put together a plan to pull off a heist of the Red Casino. Maybe they can accomplish it with the help of a party of adventurers that the Face Cards have never seen?
-- Within the casino, the players can choose to play any games they'd like, or partake in entertainment, food, or drink.
-- Unbeknownst to Celeste, the vault is heavily locked and trapped, and the last trap is an eldritch machine pointed at the vault door that's designed to immediately kill and transfer the soul of any individual entering it to Dolurrh.
 
 ### Characters and Locations
 
@@ -28,7 +21,11 @@
 * **Mogor the Half-Ogre** (he/him): Normally a happy-go-lucky half-ogre, Mogor is a mean drunk and even sorer loser. To the surprise of the other guests he was allowed into the casino, armed. The guards checking him decided that they'd rather not fight him 2-on-1 and hoped that he would leave quickly and without a fuss. This doesn't end up being the case. In the first part of the night, Mogor throws a massive tantrum at the loss of his last bet and is knocked unconscious and carefully escorted to the holding cells. When Mogor wakes up he will be looking for a way out of his cell to get back his shiny pieces.
 * **Dhaem** (he/him): the leader of a group of Satyr bandits known as the Satyrical Bastards, who only speak in satire. They show up in the second part of the evening and may attempt an amateur robbery of their own.
 
-### Scene 1: The Plan
+- [[Rhaan (Thelanis)]]
+
+### Scenes and Situations
+
+#### The Plan
 
 Two other members of White Rabbit, Mr. Dee and Mr. Dum, have led the charge to learn and map the layout of the Red Casino over the last several months. But during their last trip, where they hoped to get the final information about the main vault, they were captured by the Jack of Clubs, and presumably killed.
 
@@ -60,7 +57,7 @@ Players should brainstorm ways to achieve the following goals (since The Stakeou
 2. Breaking into the vault (The Execution)
 3. Leaving undetected (The Getaway)
 
-### Scene 2: The Heist
+#### The Heist
 
 To help facilitate the heist there are some events which can be used as time markers, and that divide the evening into three sections (each lasting 2 hours):
 
@@ -167,7 +164,7 @@ The final trap, if the party manages to open the door without alerting everyone,
 
 Inside the vault is a boatload of gold - `dice:10d100*100` gp.
 
-### Conclusion
+#### Conclusion
 
 Even after rescuing Alice from the vault and potentially looting it for massive gold, the party still needs to come up with a way to get out of the casino without being detected.
 

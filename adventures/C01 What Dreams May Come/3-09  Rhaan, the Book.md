@@ -1,26 +1,25 @@
- #adventure [[Rhaan (Thelanis)]] [[Destiny]]
+ #adventure 
 
 > You descend upon a vista that's largely arboreal, but there are beautiful valleys, glittering lakes, and a vast mountain in addition to forests that stretch as far as the eye can see. It’s always night here, and a pale blue moon hanging in the sky radiates bright light, always seeming to hang just above you.
 > A large tower occupies the center of the moon, built into the trunks of four vast trees, each one reflecting the influence of a particular season. The central tower is encircled by numerous spires, each of which having a vastly different appearance. The whole area is covered in a light dusting of snow that glitters on the ground, and beasts who are sleek and graceful, and have unusual colors and patterns, are grazing on the grass beneath.
 
 ### Background and Hook(s)
 
-When the party first lands, they're approached by an Autumn Eladrin named Pax, who has a voice like honey in warm tea. The party might remember them from Bystan’s stories, and they ask the party for help in a situation that has arisen at the Moonlit Vale.
-
- * In the distance, as they speak, the party sees a hooded figure with a large book chained to him - Destiny. If Pax is asked about him, they can give his name and suggest the party leave him to his machinations. Even though Astra can't see his face, they feel like they're being stared down by him.
- * On the way to the Palace of the Moon, Pax can explain that a Grand Revel has been called in honor of the ascension of a new Baron - Selene of the Winter Court. But rumors have spread around the courts, as they often do, about threats to the new Baron's life, and everyone is pointing fingers. If she were to be killed, the entire Vale might be thrown into chaos, but there are also larger forces at work (such as those of Destiny himself).
-
-[[3-09  The Grand Revel at Moonlit Vale]]
-
-Archfey are each telling stories (over and over again), with them fulfilling the archetype. For example, the Lady in Shadow is the old witch in the woods. “In stories the Queen of Dusk will provide boons to heroes, but they always have a terrible price.” This is much like the poisoned apple story from Sleeping Beauty. Another archfey may be the Prince Charming character, who’s jumping from story to story playing a similar character (basically a rake, or maybe something more sinister like an abuser).
-
-This is the domain of Destiny, the bearer of the Book of Destiny, who directs all of the stories that happen here to their required outcome. If a story goes off the rails, Destiny simply appears and resets the story. If anyone were to anger Destiny, they might find their stories reset randomly just for fun.
+- When the party first lands, they're approached by an Autumn Eladrin named Pax, who has a voice like honey in warm tea. The party might remember them from Bystan’s stories, and they ask the party for help in a situation that has arisen at the Moonlit Vale.
+	 * In the distance, as they speak, the party sees a hooded figure with a large book chained to him - Destiny. If Pax is asked about him, they can give his name and suggest the party leave him to his machinations. Even though Astra can't see his face, they feel like they're being stared down by him.
+	 * On the way to the Palace of the Moon, Pax can explain that a Grand Revel has been called in honor of the ascension of a new Baron - Selene of the Winter Court. But rumors have spread around the courts, as they often do, about threats to the new Baron's life, and everyone is pointing fingers. If she were to be killed, the entire Vale might be thrown into chaos, but there are also larger forces at work (such as those of Destiny himself).
+- Archfey are each telling stories (over and over again), with them fulfilling the archetype. For example, the Lady in Shadow is the old witch in the woods. “In stories the Queen of Dusk will provide boons to heroes, but they always have a terrible price.” This is much like the poisoned apple story from Sleeping Beauty. Another archfey may be the Prince Charming character, who’s jumping from story to story playing a similar character (basically a rake, or maybe something more sinister like an abuser).
+- This is the domain of Destiny, the bearer of the Book of Destiny, who directs all of the stories that happen here to their required outcome. If a story goes off the rails, Destiny simply appears and resets the story. If anyone were to anger Destiny, they might find their stories reset randomly just for fun.
 
 ### Characters and Locations
 
-- 
+- [[Destiny]]
 
-### The Moonlit Vale
+- [[Rhaan (Thelanis)]]
+
+### Scenes and Situations
+
+#### The Moonlit Vale
 
 The Moonlit Vale is essentially a country, with the feyspires spread across it as cities; it’s possible to spend days traveling from spire to spire. While it’s largely arboreal, there are beautiful valleys, glittering lakes, and a vast mountain. It’s always night here, and the moon Rhaan radiates bright light, always seeming to hang just above the viewer. While the moon doesn’t move or change, the seasons do; in winter, the court is covered in snow, while in spring, it’s in brilliant flower. This has nothing to do with the passage of time, and everything to do with the intrigues of the Palace of the Moon; the current season indicates which seasonal court is currently dominant. This is a crucial aspect of the Moonlit Vale: things change. The baronies are fixed in their stories, but the intrigues of the four seasons are the story Thelanis tells itself.
 
@@ -28,39 +27,39 @@ The Moonlit Vale embodies the general idea of the fey — otherworldy beauty and
 
 The feyspires are the cities of the Moonlit Vale. Each is home to a single archfey whose personal story is reflected by the spire, along with a few greater fey and a host of eladrin and other mortals. The grandest city in the Moonlit Vale is the Palace of the Moon.
 
-#### Pylas Pyrial
+##### Pylas Pyrial
 >You come upon a glittering tower of alabaster and gold, where a large sun hangs in the sky and warms the surrounding lands. Gnomes and Summer Eladrin mingle casually, and the sounds of music and poetry fill the streets.
 
 Pylas Pyrial is the Gate of Joy, celebrated for its bards and revels. Tied to Zilargo, it has a significant gnome population. It's allied with the summer fey of the Moon Court, and is ruled over by an archfey known as Shan Pyrial.
 
-#### Shae Joridal
+##### Shae Joridal
 >You come upon a grand emerald spire, impressively tall, and surrounded at the top by three orbiting spheres that glow with emerald light. Goblinoids and Autumn Eladrin roam the streets in what appears to be an uneasy peace at best.
 
 Shae Joridal is the City of Emerald Lights; its illusionists are legendary. It appears in what is now Darguun. It's allied with the autumn fey of the Moon Court, and is ruled over by an archfey known as Shan Jora (or the Grim Poet).
 
-#### Shae Loralyndar
+##### Shae Loralyndar
 >You come upon an arboreal spire within a dense forest, where peak-roofed houses are connected by slender bridges, with beautiful rose gardens spreading between them. Autumn Eladrin and humanoid druids can be seen working together here.
 
 Shae Loralyndar is the City of Rose and Thorn, an arboreal spire frequently found in the Twilight Demesne of the Eldeen Reaches. Many Greensingers have close ties to this city. It's allied with the spring fey of the Moon Court, and it's ruled over by an archfey known as Shan Lora.
 
-#### Shae Tirias Tolai
+##### Shae Tirias Tolai
 >You come upon a gothic citadel that blends beauty and luxury with morbid reminders of death. The spire itself and city around it were built using bones as its base, blended with marble and silver, and with pools of fresh blood in place of fountains. Glamerweave tapestries display the tales of forgotten heroes, but the cloth is torn and tattered. The sounds of battle can still be heard as echoes, as there's no one else here to make other sounds.
 
 Shae Tirias Tolai is the City of Silver and Bone. Tied to Xen’drik, it was sacked by the giants of the Cul’sir Dominion and never reclaimed; some believe the elves of Eberron are descended from the eladrin of Shae Tirias Tolai. Today, it’s a haunted ruin, shunned by the fey.
 
-#### Shaelas Tiraleth
+##### Shaelas Tiraleth
 >You come upon a golden geometric spire, more opulent and ornate than any other structure on the moon, with a huge silver tree in front of it. Humans and elves wearing brightly-colored glamerweave clothing wander peacefully through the streets. There's music in the air and lights in the sky.
 
 Shaelas Tiraleth is the Court of the Silver Tree, largest of the feyspires. Its ruler, Shan Tira (or the Lady of the Silver Tree), is a master diviner and gifted oracle. All archfey respect her words, and she serves as a mediator between the seasons of the Moon Court. The spire is tied to Cyre, and there are stories that suggest the first Princess Cyre herself may have been a student of Shan Tira.
 
-#### Taer Syraen
+##### Taer Syraen
 >You come upon slender towers of blue-white stone with delicate minarets sparkling in the light. Fragile bridges span the gaps between, giving the place the appearance of a crystalline web formed from ice. A steep ice wall surrounds the spire, protected by helmeted guards, their faces hidden behind grim visors, watching for enemies and intruders alike.
 
 Taer Syraen is the Winter Citadel, seat of the Prince of Frost. This martial spire appears in a barren region of Karrnath. It’s closely allied with the winter fey of the Moon Court.
 
 `encounter: 1: Prince of Frost`
 
-### The Endless Weald (The Forest Queen)
+#### The Endless Weald (The Forest Queen)
 
 [[The Forest Queen]] rules the Endless Weald within Thelanis, an arboreal realm inhabited by dire beasts and wild fey. The Weald often leaks into the wood through manifest zones found in deep forests; in such places, dryads lurk in the trees and beasts may possess unusual cunning.
 
@@ -70,7 +69,7 @@ When the players enter the Endless Weald, there’s a split in the path with a s
 
 If the players choose to go left, they arrive at The Forest Queen’s Hut (Scene 1). If they choose to go right, they end up at the Sleeping Prince’s meadow (Scene 2). If the players exit the marked path at any time, see The Forest Queen’s Rebuke.
 
-##### Scene 1: The Forest Queen’s Hut
+##### The Forest Queen’s Hut
 
 If the players arrive having broken any of the rules, the Forest Queen will chastise them and force them out of the forest (see The Forest Queen’s Rebuke). If they follow the rules, she tells them the story about how the rules came about.
 
@@ -82,7 +81,7 @@ If the players arrive having broken any of the rules, the Forest Queen will chas
 
 The Forest Queen can answer any questions the party have about the story, but she only knows her side of it. She can direct the party to the Sleeping Prince’s Meadow location. A DC 12 Perception check will reveal the physical storybook on a pedestal behind the witch. A successful DC 15 Sleight of Hand check could be used to “re-write” any part of the story so things go differently next time they’re rebuked. If they can prevent the prince from breaking the rules (maybe by not entering the wood at all), then the Forest Queen will be happy (see Conclusion).
 
-##### Scene 2: The Sleeping Prince’s Meadow
+##### The Sleeping Prince’s Meadow
 
 When the players arrive in the open meadow, they can clearly see a stone slab surrounded by flowers with a young man asleep atop it. Next to him, another young man kneels, head bowed, with a stone axe on the ground next to him. The young man is the Woodsman, and he can present the Prince’s side of the story.
 
@@ -98,7 +97,7 @@ The Woodsman cares deeply for the Prince, and the party can even pick up hints t
 
 If the players have heard the witch’s side of the story, they may try to convince The Woodsman to attempt true love’s kiss to wake up Prince Aurum. This will work, but if done inside of the Endless Weald, the Forest Queen will appear, and rebuke them (see The Forest Queen’s Rebuke). One solution could be to move the prince’s body outside of the Weald, even back to the feyspire, and wake him there (see Conclusion). 
 
-##### Scene 3: The Forest Queen’s Rebuke
+##### The Forest Queen’s Rebuke
 
 If the players anger the witch, either by failing to follow her rules or not following her story as she prefers, she appears (out of nowhere, in a puff of leaves, if she’s not already there) and forces them out of the Endless Weald. The party finds themselves on the edge of the wood, and can re-enter where they will be at the fork in the path with the rules sign. Any NPCs encountered won’t recall any previous conversations though - it’s as if the day reset ala Groundhog Day.
 
@@ -108,13 +107,13 @@ The Forest Queen just wants her rules followed in her story. If the party can co
 
 If the party manages to wake Prince Aurum without the Forest Queen’s rebuke, either the Woodsman (if done outside of the wood) or the King (if done at the Feyspire) will reward them with a [[Cloak of Elvenkind]].
 
-### Folly (The Trickster Cat / Puss in Boots)
+#### Folly (The Trickster Cat / Puss in Boots)
 
 Location of the Trickster Cat (aka [[Fortune’s Fool]]) and where the story of Puss in Boots is re-lived by the players.
 
 Folly is the barony of Fortune’s Fool. Here, great misfortunes regularly occur, but invariably lead to unlikely success. In this layer, d20 rolls of 5 or below are always considered a 1, and rolls of 16 or above are always considered a 20. Folly contains a charming village and a number of threats — a dragon, a giant — that can’t be defeated with weapons alone. However, skill checks can be used to achieve things that might seem impossible in reality. For example, each Persuasion or Deception check could be used to convince the dragon to eat its own hoard, with each successful check reducing its hit points until it bursts. This is a place where wits are more important than brawn, though it may take time for the adventurers to discover this.
 
-##### Scene 1: The First Eight Lives
+##### The First Eight Lives
 
 As the players approach Folly, they see 8 crystals arranged in a semi-circle around the front of the castle, each of which having a number below it. The castle door is magically sealed and cannot be opened by any physical or magical means by the players.
 
@@ -129,11 +128,11 @@ If anyone focuses on a crystal, then they see the Trickster Cat in the appropria
 7. Anansi the spider?
 8. Puss approaches a castle owned by an ogre. Says he's heard that the ogre can turn into any animal. The ogre says yes, and turns into a lion - but Puss isn't impressed so the ogre eats him. On the second try, Puss quickly acts shocked and impressed after the ogre turns into a lion. Then he says that if he could turn into the smallest possible animal, he would be even more impressed. So the ogre turns into a mouse, and Puss promptly eats him, and takes over the castle.
 
-##### Scene 2: The Last Wish
+##### The Last Wish
 
 If the players don't manage to save enough (or any) of the Trickster Cat's lives, then he could ask the players' help with a contingency plan. An adventure where the Trickster Cat goes to get his wish granted to get his lives back (quest to some place like Star Hill from Mario RPG).
 
-### Castle of Forgotten Things (The Forgotten Prince / Little Mermaid)
+#### Castle of Forgotten Things (The Forgotten Prince / Little Mermaid)
 
 Barony of [[The Forgotten Prince]].
 
@@ -141,13 +140,13 @@ The party is hired by a wealthy merchant to retrieve a valuable painting that wa
 
 [[3-09  The Prince Forgotten]]
 
-### The Assembly (Adara's Prison / Cinderella?)
+#### The Assembly (Adara's Prison / Cinderella?)
 
 Barony of the [[The Mother of Invention]], also known as the Forge Maiden. Here, innovation is celebrated, and any artificer spell cast in this layer is treated as if it were cast at a level one higher than the spell slot that was expended. But while there are a few stories of how things go well, there are many where inventions go terribly wrong: the construct dragon that has claimed the workshop and gathered a hoard; the labyrinth the Maiden designed so well that she became lost in it; the time stop spell that can’t be undone. Wondrous (and impossible) artifacts can be found here, but so can many dangers.
 
 There's a small prison here that held Adara back when she was on Thelanis.
 
-### The Shadow (The Shadow by HCA)
+#### The Shadow (The Shadow by HCA)
 
 Barony of [[The Lady in Shadow]]. The secret garden of the Lady is walled and protected by dangerous plant creatures, but holds imaginary flowers that an alchemist could use to do amazing things. The Lady’s tower is hidden within a maze of thorns, which also leads to the Garden of Forking Ways (as all mazes on Rhaan do).
 
@@ -165,12 +164,12 @@ Do something with Onme's chosen fairy tale of The Shadow by Hans Christian Ander
 | 5   | **Sleep Pollen**: The current player falls asleep, skipping their next two turns. As an Action, another PC can wake the player early. |
 | 6   | Walls open up, leading to the Garden of Forking Ways (see below)                                                                      |
 
-| d6  | Monster Encounter                                                                                     |
-| --- | ----------------------------------------------------------------------------------------------------- |
+| d6  | Monster Encounter                                                                                       |
+| --- | ------------------------------------------------------------------------------------------------------- |
 | 1-3 | `encounter: 1d3: Assassin Vine` (flavored as thorny vines, with piercing damage instead of bludgeoning) |
 | 4-6 | `encounter: 1d3: Aartuk Elder`                                                                          |
 
-### Fields of Fable (The White Rabbit / Red Casino / Alice in Wonderland)
+#### Fields of Fable (The White Rabbit / Red Casino / Alice in Wonderland)
 
 Barony of [[The Harvest Monarch]].
 
@@ -178,7 +177,7 @@ The Harvest Monarch is tied to the land they govern. When their people suffer, t
 
 We'll pigeonhole the [[3-09  White Rabbit]] adventure here, as there's no better place to put it. So it probably won't really play into The Harvest Monarch at all.
 
-### Garden of Forking Ways (Destiny's Home)
+#### Garden of Forking Ways (Destiny's Home)
 
 The Garden of Forking Ways is Destiny's realm. He continually walks its maze-like paths, his Book forever chained to his wrist. The garden has many forking paths, and it can be entered through any maze or labyrinth. Another prominent feature of the garden is a set of giant statues of the Endless, which change to reflect their prototypes' current state.
 

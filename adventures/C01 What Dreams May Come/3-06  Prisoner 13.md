@@ -1,4 +1,4 @@
- #adventure #completed [[Nymm (Daanvi)]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
@@ -10,10 +10,7 @@
 
 - The Soldorak dwarves discovered her almost immediately. They rounded up her agents, who either fought to the death or were executed. They captured Korda and interrogated her, but she never revealed the location of the stolen fortune, even under magical compulsion. The Soldorak dwarves used their influence to have her sentenced to life in prison at Dreadhold. There, Clan Soldorak was hopeful Korda would eventually break and reveal the location of the stolen wealth. This played right into Korda’s hands, since she had made copious enemies who can’t move against her while she’s incarcerated.
 - Korda, now known as Prisoner 13, prepared for her imprisonment by laying the groundwork for a new spy and criminal network, which cost her much of her stolen fortune. She now runs her operations from the prison. Using her magical tattoos, she telepathically coordinates agents throughout the Mror Holds and beyond, none of whom know the identity of their employer. As for what remains of the stolen Soldorak wealth, it rests in an unmarked vault in the depths of Soldorakhold, sealed by a magical lock that only the runic sequence tattooed on Korda’s right hand can open.
-
 - When the players enter the Inescapable Prison, they are met by a monodrone, who explains Onatar's plight and implores them to seek out his Hammer and Tongs and return them. They have been in communication with a representative from the dwarven Clan Soldorak who have found the vault that they believe houses the Hammer and Tongs of Onatar, but aren't able to access it.
-
-### Synopsis
 
 - The players meet with an agent of Onatar in the Inescapable Prison, who implores them to help recover an artifact known as the Hanmer and Tongs of Onatar. He has been working with a dwarven clan who are attempting to recover their own treasure, and will help the players get in to the most secure prison in Eberron - Dreadhold.
 - The players will need to seek out Prisoner 13, who holds the key to a treasure vault under Soldorakhold. In order to get the information they need, they'll need to sneak in or enter under cover and maintain their cover throughout their time there to avoid suspicion.
@@ -22,15 +19,17 @@
 
 ### Characters and Locations
 
-- 
+- [[Nymm (Daanvi)]]
 
-### Scene 1: The Inescapable Prison
+### Scenes and Situations
+
+#### The Inescapable Prison
 
 Within the prison, the players can speak with Onatar himself in his cell, but he is very tired and will only be open to answering a few questions before going back to sleep. Any additional questions and background can be provided by the agent (representative of whichever group is not in power, or a modron).
 
 If the players decide to take on the job, then the agent will open a portal at the end of the hall that connects the Inescapable Prison to the island of Farwatch.
 
-### Scene 2: Farwatch
+#### Farwatch
 
 After years of financial hardship due to their stolen fortune, the mountain dwarves of Clan Soldorak have located the lost treasure but have been unable to access it. A representative of the clan, Varrin Soldorak, wishes to hire the characters to learn how to access the treasure. He has been in communication with the agent at the Inescapable Prison for some time, awaiting an opportunity to get her clan's fortune back, as well as the Hammer and Tongs of Onatar.
 
@@ -46,7 +45,7 @@ Give the players a copy of The Breaker’s Map, then read the following text:
 
 The gem’s magic lasts until five days after the characters reach Dreadhold, or until they return to Daanvi.
 
-#### The Breaker’s Map
+##### The Breaker’s Map
 
 Each character can now cause a magical image of the map to appear in the air before them while they aren’t incapacitated (no action required). A breaker’s map isn’t visible to others while a character is viewing it. Varrin explains each of the features the characters can see on their maps:
 
@@ -58,7 +57,7 @@ Each character can now cause a magical image of the map to appear in the air bef
 
 ![https://media.dndbeyond.com/compendium-images/p13/kroSKsC6Krw4Ea0F/p13-003.players-map.jpg|800](https://media.dndbeyond.com/compendium-images/p13/kroSKsC6Krw4Ea0F/p13-003.players-map.jpg)
 
-#### Information
+##### Information
 
 In the likely event that the characters want more information, Varrin answers their questions succinctly and honestly. He has spent the last of his personal fortune gathering information on the prison and making the arrangements for a team to confront Korda. These are the details he can provide:
 
@@ -72,7 +71,7 @@ In the likely event that the characters want more information, Varrin answers th
 
 When the characters are ready to depart from their meeting with Varrin, he provides them each with the choice to pose as a guard or a cook. Guards must wear splint armor, and kitchen staff must wear simple uniforms. Cooks can hide light armor under their uniforms. Small characters also have the option to stow away inside a crate of supplies.
 
-#### Trek to the Prison
+##### Trek to the Prison
 
 Varrin has sent word to the other clans, and Bethra (chaotic good, female dwarf spy) meets the characters when she arrives on her ship. She provides the uniforms for their chosen cover and directs them to report to the ship when they're ready. The ship regularly delivers a fresh rotation of prison staff to Dreadhold and returns the relieved shift to the Mror Holds. The journey to Dreadhold by sea is only 75 miles, which a sailing ship can cover in about 8 hours under normal conditions.
 
@@ -80,7 +79,7 @@ Twenty-five guards and six cooks are bound for the prison, including any charact
 
 The players can make up whatever names they like for their cover. Those are the names of the guards or cooks they’ve replaced.
 
-### Scene 3: Dreadhold
+#### Dreadhold
 
 Dreadhold is a panopticon, a prison configured in such a way that the activities of the prisoners can be closely monitored from a central location. Situated on the frigid, misty coast of the Sea of Moving Ice, the prison is a single-story structure topped with battlements. Rising from the core of the panopticon is a tower that holds the prison’s administrative offices and guard barracks.
 
@@ -101,7 +100,7 @@ Each member of the Iron Council assigns one representative to Dreadhold, and tog
 >
 > **Prisoners.** All prisoners in Dreadhold are identified by a number. This simple protocol keeps prisoners on an equal footing. Prison personnel commit these numbers to memory, and the records of all prisoners— past and present— are stored in area R22. Each inmate wears a uniform that consists of a hoodless robe without pockets, leather slippers without laces, and cloth undergarments. While outside their cells, prisoners wear manacles on their wrists and ankles. While manacled, a prisoner’s walking speed can’t exceed 10 feet.
 
-#### Approaching the Prison
+##### Approaching the Prison
 
 > Perched on a high cliff overlooking the Lhazaar Sea is a bleak stone fortress carved from a gigantic, blade-shaped rock. A central tower looms above the rest of the fortress, and light leaks from its arrow slits. Four smaller towers rise from the outermost corners of the fortress, and guards can be seen atop them.
 
@@ -123,7 +122,7 @@ After relinquishing their weapons and securing their animals, the characters are
 
 The warden only accepts the characters’ presence if they are seeking shelter. In that case, she grants them temporary accommodations (in area R7) for up to two days and two nights, and the characters receive three meals a day during their stay. If the characters fail to provide a satisfactory reason for their visit, the warden has their weapons and animals returned to them before throwing them out.
 
-#### Suspicion
+##### Suspicion
 
 Activities outside the daily routine of the prison draw attention from the guards and what few other staff members there are. Suspicion is measured in levels from 1 to 6. When the characters arrive at the prison, the suspicion level is 1. Suspicion can increase when prison staff members witness or find evidence of behavior outside the norm. Circumstances that increase the suspicion level include the following:
 
@@ -163,7 +162,7 @@ By speaking the command word, “maristo,” the warden — and only the warden 
 * **Prison Deployment.** The guards in area R19 don their armor, arm themselves, and move to area R18. The warden does the same and commands the garrison from there. Members of the Council of Dreadhold retreat to area R20.
 * **See Invisibility.** The warden and all prison guards gain the benefit of a [[see invisibility]] spell.
 
-#### Patrol Routes
+##### Patrol Routes
 
 Guards regularly patrol in pairs from the guard rooms (area R3, alternating which room for each patrol) around the hexagon (area R15), with short checks into the courtyard (area R11) and the armory (area R10). The route is marked in yellow on the players’ map of Dreadhold. It normally takes 4 minutes for a patrol to make its round and return to its post.
 
@@ -173,35 +172,35 @@ If the characters try to talk their way past a patrol, have one of the character
 
 Once the characters encounter a patrol, don’t check for another patrol when the characters enter the route until 20 minutes have passed.
 
-#### Locations
+##### Locations
 
 ![https://media.dndbeyond.com/compendium-images/p13/kroSKsC6Krw4Ea0F/map-p13-dms-map.jpg|800](https://media.dndbeyond.com/compendium-images/p13/kroSKsC6Krw4Ea0F/map-p13-dms-map.jpg)
 
-**R1: Dock**
+###### R1. Dock
 Ships dock here to offload prisoners and supplies.
 
-**R2: Elevator**
+###### R2. Elevator
 A sturdy wooden scaffold clings to the 160-foot-high cliff separating the prison from the dock. Looming above the scaffolding is a wooden crane that is controlled from area R3. The crane raises and lowers an elevator car that has a retractable wooden gate on the side opposite the crane. The elevator car is a hollow wooden cube measuring 10 feet on each side. It takes 1 minute for the car to travel all the way up or down the scaffold.
 
-**R3: Guard Rooms**
+###### R3. Guard Rooms
 > This room contains a table with four chairs, and a cabinet holding whetstones and other simple supplies for repairing armor and weapons.
 
 Three guards (veterans) are stationed in each of these two rooms. The guards pass the time by playing cards, sharpening their weapons, and complaining about the weather. Embedded in the north wall of the northern guard room is an iron lever that raises and lowers the elevator in area R2. During a patrol, two of the guards leave the room to make their rounds for 4 minutes.
 
-**R4: Hospital**
+###### R4. Hospital
 > This chamber contains a dozen simple beds. Cabinets along the north wall hold medical supplies.
 
 The cabinets hold enough supplies to assemble twenty healer’s kits, five vials of antitoxin, and various other medicines and tinctures.
 
 Some of these substances are poisonous if ingested in the wrong proportion. A character proficient with alchemist’s supplies, a poisoner’s kit, an herbalist’s kit, or the Medicine skill can identify the tinctures and combine them into an ingested poison. A creature that ingests the poison must make a DC 13 Constitution saving throw. On a failed saving throw, it takes 10 (3d6) poison damage and becomes poisoned for 1 hour. On a successful saving throw, it takes half as much damage and isn’t poisoned. In either case, the creature has painful stomach cramps until it finishes a short rest, drinks a vial of antitoxin, or is targeted by an effect that ends the poisoned condition. If a prisoner suffers these cramps, the guards bring the prisoner to the hospital to be examined and treated. Characters disguised as guards can volunteer for or be assigned that duty.
 
-**R5: Stables**
+###### R5. Stables
 Visitors who bring mounts, sled dogs, pack animals, or pets to Revel’s End can keep their animals here. The prison doesn’t supply food for animals, however.
 
-**R6: Mess Hall**
+###### R6. Mess Hall
 Prison personnel dine here. Tables and benches fill the room, and dishes and dulled cutlery are stored in cabinets along the south wall. The mess hall serves breakfast, lunch, and dinner. The characters can meet here without arousing any suspicion.
 
-**R7: Councilors’ Quarters**
+###### R7. Councilors’ Quarters
 These ten rooms are furnished identically. Each contains a bed, a desk with matching chair, a claw-footed chest, and wall hooks for hanging clothes. The continual flame spell that illuminates each room can be suppressed or returned to its normal light level by uttering the command word, “lights.”
 
 These rooms are set aside for the ten members of the Council of Dreadhold, though only three rooms are currently in use. The other seven members of the council are absent, so the warden lets visitors use the spare rooms.
@@ -212,15 +211,15 @@ Council Members. These three members of the Council are currently at Dreadhold:
 * **Councilor Jil Kolkarun.** Jil represents the clan of Kolkarun. She is a neutral noncombatant who loathes her job. She has no sense of humor and sighs deeply when her patience is tested. She likes giving others the benefit of the doubt, however— perhaps as an act of dissent— and votes yes on commutations more often than not.
 * **Councilor Kriv Narathun.** Kriv represents the clan of Narathun. He is a lawful good noncombatant. He has no tolerance for unrepentant criminals and often votes no on commutations.
 
-**R8: Kitchen and Side Rooms**
+###### R8. Kitchen and Side Rooms
 Six cooks (neutral, dwarf commoners) take shifts here, working in pairs to produce meals for the prisoners and staff. The kitchen contains everything one would expect to see, as well as an iron stove and a pump that draws water from a magically heated cistern on the roof.
 
 Off-duty cooks sleep in the largest of the three rooms west of the kitchen. This side room is lit by continual flame spells that can be suppressed or activated by uttering the command word, “lights.” The middle side room — not heated, unlike the rest of the prison — is used for cold storage. The smallest side room is a well-stocked pantry.
 
-**R9: Guard Towers**
+###### R9. Guard Towers
 Each of these four triangular towers is two stories tall. A tower’s interior chamber is empty except for a wooden ladder that climbs to an iron hatch held shut by an *arcane lock* spell (see the “Prison Features” section for more details). This hatch leads to the tower’s flat rooftop, which is lined with battlements. Three guards (veterans) are stationed on the roof of each tower.
 
-**R10: Armory**
+###### R10. Armory
 > This room contains wooden racks and chests filled with weaponry. Floating in the middle of the room is a spherical creature with a large central eye and four writhing eyestalks.
 
 The inventory is nonmagical and includes twenty halberds, fifteen longswords, fifteen shortswords, ten pikes, ten heavy crossbows, five light crossbows, and hundreds of crossbow bolts. The armory is guarded by a spectator that treats the weapons as treasure. It knows every member of the prison staff on sight. It won’t leave the room and attacks anyone it doesn’t recognize.
@@ -229,29 +228,29 @@ The inventory is nonmagical and includes twenty halberds, fifteen longswords, fi
 
 **Hatch.** A wooden ladder leads to an iron hatch in the ceiling. An *arcane lock* spell seals the hatch (see the “Prison Features” section for more details), which opens onto the roof.
 
-**R11: Courtyard**
+###### R11. Courtyard
 This courtyard is paved with flagstones. Prisoners are brought here — individually or in small groups — for fresh air and exercise. They are watched closely by guards on the ground as well as the guards on the corner tower. Characters can speak quietly with a prisoner without being noticed from the tower.
 
-**R12: Meeting Room**
+###### R12. Meeting Room
 This room holds a large, rectangular table with a single chair on one long side and three similar chairs on the opposite side. The room is used for meetings with prisoners or the warden.
 
 **Hatch.** A wooden ladder leads to an iron hatch in the ceiling that opens onto the roof. An *arcane lock* spell seals the hatch (see the “Prison Features” section for more details).
 
-**R13: Storeroom**
+###### R13. Storeroom
 Supplies are stored here in crates and other containers. At present, the prison has stockpiled enough necessities to continue operations for six months.
 
-**R14: Privy**
+###### R14. Privy
 This room contains a dozen wooden waste buckets. Once per day, usually in the morning, manacled prisoners carry the buckets outside the prison and dispose of the waste while watched by guards.
 
-**R15: Hexagon**
+###### R15. Hexagon
 This corridor allows guards and visitors to access the outermost rooms of the prison while avoiding the panopticon (area R16) and its prison cells (area R17). The guards refer to this corridor as “the hexagon” because of its shape.
 
-**R16: Panopticon**
+###### R16. Panopticon
 > This hexagonal chamber is a large open space at the center of the prison. Cells line the chamber walls, and a smaller hexagonal room occupies the center of the space.
 
 The continual flame spells that light this area can be dimmed from the surveillance hub (area R18). The hall is dimly lit at night.
 
-**R17: Cells**
+###### R17. Cells
 > Each cell is enclosed by formidable steel bars. Bolted to the back wall are iron bunk beds, each with a thin mattress. A waste bucket sits near the beds.
 
 The prisoners are kept in these unlit cells (effectively illuminated by the lights in R16) behind barred gates that can be opened only from area R18. The gates are too secure to be forced open using brute strength or weapons, and magical attempts to open or bypass them are thwarted by permanent antimagic fields. Each field encompasses one cell and its gate. Spells and other magical effects, except those created by an artifact or a deity, are suppressed in an antimagic field and can’t protrude into it. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
@@ -271,7 +270,7 @@ To add detail to other inmates, roll on the Prisoners table or choose entries yo
 | 5   | Ishar (chaotic evil elf), convicted of conspiracy to murder members of a noble family, has served `dice:1d20` years of a life sentence.         |
 | 6   | Grix (neutral goblin), convicted of espionage, has served `dice:1d6` years of a 10-year sentence.                                               |
 
-**R18: Surveillance Hub**
+###### R18. Surveillance Hub
 > This hexagonal room is the base of the prison’s central tower. A spiral staircase rises to the tower’s upper levels. Several guards watch through the arrow slits, observing the cells, while one sits at a metal desk and console with a myriad of switches and dials and a brass tube with a funnel-like flare.
 
 The stairs lead to areas R19 through area R23. Seven guards (veterans) are stationed in this surveillance hub. One sits at a console south of the staircase. The other guards watch the prisoners through 4-foot-tall, 1-foot-wide arrow slits in the walls. Hanging on the walls between the arrow slits are fifty sets of iron manacles guards use to bind prisoners’ wrists and ankles.
@@ -282,21 +281,21 @@ The stairs lead to areas R19 through area R23. Seven guards (veterans) are stati
 * **Light Control.** A brass dial on the console controls the light level in area R16. Turning the dial requires an action or a bonus action.
 * **Loudspeaker.** As an action, a creature can use this device, which resembles the bell of a trumpet, to broadcast its voice throughout the prison.
 
-**R19: Barracks**
+###### R19. Barracks
 > A door in the spiral staircase leads into a large room filled with wooden bunk beds. There are arrow slits in the north, west, and south walls. Footlockers and armor racks accompany each bed. The spiral stairs continue up past the door.
 
 Characters who climb the spiral staircase come to a door 100 feet above the prison roof. The staircase continues beyond this door to the tower’s higher levels. The door opens into a room filled with wooden bunk beds. Areas to the north, west, and south can be viewed through 4-foot-tall, 1-foot-wide arrow slits. The continual flame spells that light the room can be dimmed or brightened by uttering the command word, “lights.”
 
 When the prison isn’t on high alert, fifty guards (veterans without armor or weapons) sleep in the bunks. The guards keep their armor and weapons within easy reach. They keep other belongings in unlocked footlockers tucked under their bunk beds. The guards need 10 minutes to don their armor. If the prison is put on high alert, the guards take the time to put on their armor before making their way down to area R18.
 
-**R20: Council Hall**
+###### R20. Council Hall
 The floor of this room is 120 feet above the prison roof. A spiral staircase connects the room to the other levels of the tower (area R18 is 140 feet down, area R19 is 20 feet down, and area R23 is 20 feet up). Narrow windows line the outer walls.
 
 A long, slightly curved table with eleven chairs takes up much of the room. The middle chair has no special adornments, while the others have banners hanging over their high backs, each one emblazoned with the crest of an Iron Council member.
 
 **Council Meetings.** Members of the Council of Dreadhold gather here to weigh the merits of releasing prisoners whom one or more council members have recommended for parole. No prisoner can receive such consideration more than once a year. Prisoners up for parole are brought to this room in manacles and given a chance to sway the council members before votes are cast. The warden (see area R21), who always attends such meetings, sits in the middle chair and casts the tiebreaking vote, if necessary.
 
-**R21: Warden’s Quarters**
+###### R21. Warden’s Quarters
 The *arcane lock* on this door can be opened only by the warden. Beyond the door is a comfortable bedchamber lit by a continual flame spell that can be dimmed or brightened by uttering the command word, “vaudra.”
 
 **Prison Warden.** The calm and unflappable warden of Dreadhold is Marta Kundarak (she/her), a lawful good dwarf mage who speaks Common, Draconic, Dwarvish, and Orc. She wears a red robe with gold trim and keeps a ring with seven tiny keys hanging from it in one pocket. One key unlocks the warden’s chest (see “Treasure” below); the others unlock the desk drawer and the cabinets in the warden’s office (area R22).
@@ -309,7 +308,7 @@ Warden Kundarak knows that to rid herself of Vlax’s spirit, she must visit the
 
 **Treasure.** Among the chamber’s furnishings is a locked wooden chest, for which the warden carries the only key. A character using thieves’ tools can use an action to try to pick the lock, doing so with a successful DC 20 Dexterity check. The chest holds a set of calligrapher’s supplies, a sack containing 750 gp (money that’s used mainly to pay ship captains who drop off prisoners and cargo), and a silver cloak pin (25 gp) bearing the symbol of Onatar: a pair of crossed hammer and tongs Any character who searches the chest for secret compartments finds one in the lid. It holds a [[Wand of Binding]] that the warden keeps for emergencies.
 
-**R22: Office**
+###### R22. Office
 >A heavy desk stands in the middle of the room with parchment, quills, and ink at the ready. Five heavy wood cabinets line the east wall.
 
 Prison records are stored here in the locked cabinets. The cabinets also contain ship cargo manifests and records of past deliveries, as well as prisoner transfer orders and a ledger documenting the names, crimes, sentences, and commutations of every prisoner who has been incarcerated at Dreadhold. The records include death certificates for prisoners who died while incarcerated. The cause of death is always given as “natural,” “accidental,” or “unnatural,” with no details.
@@ -364,7 +363,7 @@ In response to a verbal threat, Prisoner 13 shakes her head and says, “I could
 
 ***Last Resort.*** A gruesome but effective option is killing Prisoner 13 and taking her body back, or just her right hand.
 
-### Conclusion
+#### Conclusion
 
 When the characters successfully deliver the key (Prisoner 13’s keystone tattoo), Varrin’s joy and relief crack his usually reserved exterior, and he sends his agents to open the vault and reveal the lost treasure (he won’t allow the characters to be present for the vault opening). While much of the clan’s stolen wealth has been spent, there’s still a great fortune remaining. As a result of their success, the characters have advantage whenever one of them attempts a Charisma check that would influence Soldorak dwarves. Varrin makes good on his bargain and gives a fair share to the characters as promised. The reward includes the following coins and gems (use the amounts in brackets if the characters negotiated a 3 percent fee):
 

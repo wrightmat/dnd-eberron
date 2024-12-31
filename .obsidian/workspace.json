@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C01 What Dreams May Come/3-02  Titan’s Folly.md",
+                "file": "adventures/C01 What Dreams May Come/1-02  Beyond Delethorn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-02  Titan’s Folly"
+              "title": "1-02  Beyond Delethorn"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C01 What Dreams May Come/3-02  Titan’s Folly.md"
+                "file": "adventures/C01 What Dreams May Come/1-02  Beyond Delethorn.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3-02  Titan’s Folly"
+              "title": "Outline of 1-02  Beyond Delethorn"
             }
           },
           {
@@ -233,11 +233,13 @@
   },
   "active": "1d4c6cc08a5b82a1",
   "lastOpenFiles": [
-    "adventures/C01 What Dreams May Come/3-03  The Orphanage Flashback.md",
-    "adventures/C01 What Dreams May Come/3-00  Trial By Fire.md",
-    "adventures/C01 What Dreams May Come/3-01  Zarantyr, the Storm Moon.md",
-    "adventures/C01 What Dreams May Come/3-02  Olarune, The Sentinel.md",
-    "adventures/C01 What Dreams May Come/3-00  The Ring of Siberys.md",
+    "adventures/C01 What Dreams May Come/1-01  Delethorn Warehouse.md",
+    "adventures/C01 What Dreams May Come/1-05  The “Water” Marker.md",
+    "adventures/C01 What Dreams May Come/1-07  The “Triangles” Marker.md",
+    "adventures/C01 What Dreams May Come/1-06  Tower of Storms.md",
+    "adventures/C01 What Dreams May Come/1-04  Cathedral of the Silver Flame.md",
+    "adventures/C01 What Dreams May Come/1-02  Beyond Delethorn.md",
+    "adventures/C01 What Dreams May Come/1-03  The “Flame” Marker.md",
     "adventures/C01 What Dreams May Come/4-00  Leaving Shardspace for the Astral.md",
     "adventures/C01 What Dreams May Come/3-14  Susurrus, Palace of Whispers.md",
     "adventures/C01 What Dreams May Come/3-13  Crya, the Lonely Dreamer.md",
@@ -257,8 +259,6 @@
     "adventures/C01 What Dreams May Come/3-06  Prisoner 13.md",
     "adventures/C01 What Dreams May Come/3-06  Nymm, the Crown.md",
     "adventures/C01 What Dreams May Come/3-05  Dravago, the Herder.md",
-    "adventures/C01 What Dreams May Come/3-04  Life of the Party.md",
-    "adventures/C01 What Dreams May Come/3-04  Eyre, the Anvil.md",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",
     "dnd-eberron/players",

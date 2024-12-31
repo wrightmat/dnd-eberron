@@ -1,32 +1,34 @@
- #adventure #completed  [[Sypheros (Mabar)]] [[Despair]] [[The Bone King]] [[Empress of Shadows]]
+ #adventure #completed 
 
 > A sea of liquid shadows laps against black sands and basalt cliffs. A skull lies half-buried in the sand, empty sockets gazing into the roiling mist. The bone isn’t sun-bleached, for there is no sun here; only a faint glimmer from Wildspace above. A great drifting citadel floats above a large city in decline, a kingdom of bones, and an expansive desert of black sand. On the horizon, beyond a great dark forest, what appears to be pieces of other planes are being absorbed into the unending darkness.
 
 ### Background and Hook(s)
 
-Early scholars studying reports of Mabar concluded that it was the Plane of Darkness — that this physical property is its defining concept. However, the plane’s eternal gloom is just a symptom of its true nature. Even the brightest day eventually ends in darkness, and Mabar embodies this idea. It’s the shadow that surrounds every island of light, patiently waiting to consume it. It’s entropy, despair, and loss. This isn’t the place where the souls of the living go after death, but rather, it’s the plane of death itself — the hunger that consumes both light and life.
-
-This is the home of Despair, and the antithesis plane to Irian (there's a reason, after all, that Desire and Despair are the closest of the Endless) - a realm of darkness and negativity to that of light and positivity.
-
-The mightiest and most malevolent beings in Mabar (besides Despair, of course) are known as the Dark Powers. Each embodies a particular aspect of Mabar and rules a domain. Some have been part of Mabar since the beginning of time, while others have risen from the fragments consumed by the Endless Night. Most of the Dark Powers are equivalent in power to archfey or archfiends, though they’re even stronger in the area they’re bound to, their seat of power.
-
-**Inhabitants of the plane include:**
-
-* Shadows: manifestations, not living creatures, linked to a tiny echo of a soul, each one tied to a living creature.
-* Yugoloths: a kind of neutral evil extraplanar outsider, and the most prominent inhabitants, who speak Abyssal, Draconic, and Infernal (and use telepathy).
-	* Arcanaloth: Jackal-headed scribes, record-keepers, negotiators, and deal-makers of the yugoloths.
-	* Canoloth: Dog-like scouts and skirmishers.
-	* Mezzoloth: Insectile footsoldiers of the yugoloth.
-	* Nycaloth: Green, gargoyle-like elite cavalry of the yugoloths.
-	* Ultroloth: Cruel officers of the yugoloths.
-* Barghests: a kind of evil shapechanging fiend found in the plane of Mabar. They superficially resemble lupine goblinoids. In its normal form, it resembles a goblin–wolf hybrid with monstrous jaws and razor-sharp claws. A full-grown barghest is about 6 feet (180 centimeters) long and weighs 180 pounds (82 kilograms). A barghest's eyes glow orange when the creature becomes excited.
-* Xag-yi (Negative Energon): formed packets of pure negative darkness that reach out with whip-like tendrils of energy.
+- Early scholars studying reports of Mabar concluded that it was the Plane of Darkness — that this physical property is its defining concept. However, the plane’s eternal gloom is just a symptom of its true nature. Even the brightest day eventually ends in darkness, and Mabar embodies this idea. It’s the shadow that surrounds every island of light, patiently waiting to consume it. It’s entropy, despair, and loss. This isn’t the place where the souls of the living go after death, but rather, it’s the plane of death itself — the hunger that consumes both light and life.
+- This is the home of Despair, and the antithesis plane to Irian (there's a reason, after all, that Desire and Despair are the closest of the Endless) - a realm of darkness and negativity to that of light and positivity.
+- The mightiest and most malevolent beings in Mabar (besides Despair, of course) are known as the Dark Powers. Each embodies a particular aspect of Mabar and rules a domain. Some have been part of Mabar since the beginning of time, while others have risen from the fragments consumed by the Endless Night. Most of the Dark Powers are equivalent in power to archfey or archfiends, though they’re even stronger in the area they’re bound to, their seat of power.
+- **Inhabitants of the plane include:**
+	* Shadows: manifestations, not living creatures, linked to a tiny echo of a soul, each one tied to a living creature.
+	* Yugoloths: a kind of neutral evil extraplanar outsider, and the most prominent inhabitants, who speak Abyssal, Draconic, and Infernal (and use telepathy).
+		* Arcanaloth: Jackal-headed scribes, record-keepers, negotiators, and deal-makers of the yugoloths.
+		* Canoloth: Dog-like scouts and skirmishers.
+		* Mezzoloth: Insectile footsoldiers of the yugoloth.
+		* Nycaloth: Green, gargoyle-like elite cavalry of the yugoloths.
+		* Ultroloth: Cruel officers of the yugoloths.
+	* Barghests: a kind of evil shapechanging fiend found in the plane of Mabar. They superficially resemble lupine goblinoids. In its normal form, it resembles a goblin–wolf hybrid with monstrous jaws and razor-sharp claws. A full-grown barghest is about 6 feet (180 centimeters) long and weighs 180 pounds (82 kilograms). A barghest's eyes glow orange when the creature becomes excited.
+	* Xag-yi (Negative Energon): formed packets of pure negative darkness that reach out with whip-like tendrils of energy.
 
 ### Characters and Locations
 
-- 
+- [[Despair]]
+- [[The Bone King]]
+- [[Empress of Shadows]]
 
-### The Drifting Citadel
+- [[Sypheros (Mabar)]]
+
+### Scenes and Situations
+
+#### The Drifting Citadel
 
 This floating tower was once a library; a former part of Syrania. Now it drifts through an icy void, grand windows shattered and books fallen from their shelves. Shadows of sages clutch at books with insubstantial fingers, never able to turn a page. The angelic librarians are now tormented spirits who hunger for knowledge, draining the memories from any creature unfortunate enough to fall into their grasp.
 
@@ -46,7 +48,7 @@ In the course of conversation, Despair can impart any of the following informati
 * She doesn't leave the Drifting Citadel and leaves the day-to-day of Mabar to the Dark Powers - the Empress of Shadows (Amaranthine City), the Bone King (Kingdom of Bones), and the Queen of All Tears (Last Desert).
 * But she does observe the sorrow of the plane through her various mirrors, with one linked to each of the areas below.
 
-### Amaranthine City
+#### Amaranthine City
 
 If the Endless Night has a heart, it would be the Amaranthine City… a metropolis that fills an entire layer, and is the antithesis of the city of the same name in Irian. Nothing flourishes in this plane; banners are tattered and gardens are withered. But it is still wondrous in the scope of its cyclopean towers and grand fortifications. It is the capital of an empire in decline, and yet the hint of what it was at the height of its glory makes it wondrous even when faded. And it is no empty shell; it is a city alive with activity. This is the domain of the Empress of Shadows.
 
@@ -66,7 +68,7 @@ This is a drug den that's run by an Ultroloth named Opiamuth. He sells a powerfu
 
 This is an outdoor pen full of barghests, and serves as the analog to Rhea's Ranch on Irian.
 
-### The Kingdom of Bones
+#### The Kingdom of Bones
 
 Where the domain of the Amaranthine City feels like an empire in its last days, the Kingdom of Bones is one that’s already fallen. If a layer contains a fortress, it’s not preparing for a final battle; it’s what remained after the battle. The gates are shattered, and bloodstains and broken weapons are scattered across the floors. The people of this domain fought a dreadful war and lost... but this being Mabar, their bones remain. The skeletons of peasants continue their menial labors, seemingly oblivious to the futility of their actions. Even in death, these commoners are oppressed by their cruel lords. Wights, deathlocks, and vampire spawn might serve as the soldiers of the tyrants, while the overlords themselves may be vampires or mummy lords, still ruling from their ruined keeps.
 
@@ -74,7 +76,7 @@ All of the kingdom’s cursed nobles bow before the Bone King, who embodies the 
 
 If any PC were to anger the Bone King, he'd cast the *blight* spell on them requiring a DC 20 CON save or take 8d8 necrotic damage.
 
-### The Last Desert
+#### The Last Desert
 
 > You come upon a desert of black sand under a starless sky. There are remnants of glorious monuments: the half-buried head of a grand statue, its eye cracked; a fragment of a memorial wall, engraved with names that can no longer be read; ruins so worn that it’s impossible to guess what purpose the building once served. In the distance is a number of grouped towers, all dark as night.
 
@@ -84,7 +86,7 @@ At the center lies a massive tomb-palace. Its style suggests the architecture of
 
 [[3-10  The Necropolis]]
 
-### The Gloaming
+#### The Gloaming
 
 This dark forest leads to the manifest zone of the same name in Eberron's Eldeen Reaches region. Roll once for an encounter when the party enters this area, and once for every hour that they remain. If the party doesn't make the connection with the Gloaming from their original adventure, they hear a low hum coming from their bag of holding, which if checked, reveals the Mabar Crystal they gathered glowing dimly.
 
@@ -94,7 +96,7 @@ Any time a tree or shrub is interacted with in any way, it's actually determined
 `encounter: 1d6: Awakened Shrub`
 `encounter: 1d6: Awakened Tree`
 
-### The Hinterlands
+#### The Hinterlands
 
 The Hinterlands are the outer edge of Mabar, the collection of planar fragments that are currently being consumed and integrated into the Endless Night. Here, the Hunger of Mabar property has not yet taken hold, which generally makes them safer to visit than other layers of Mabar. The Mabaran properties a fragment reflects vary depending on its nature and how close it is to complete integration with Mabar.
 

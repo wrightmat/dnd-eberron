@@ -4,8 +4,6 @@
 
 - When Onme meets the Throne of Life, she tells her that she is the descendant of one of her former followers, who was banished to Eberron. This prompts Onme's memory and we flash back to when she was dropped off at the Orphanage in Daskaran, and then faced an exciting adventure where she helped save one of her fellow orphans.
 
-### Synopsis
-
 - We start with Onme being dropped off at the orphanage, and after establishing Keeper Vatalya and several background events, we flash forward to when Onme was about 14.
 - We introduce several other orphans, played by the other players, and the situation where a few orphans have gone missing. The players may investigate the orphanage to get clues and information that will eventually lead them to the hideout of a local group of Tarnished.
 - When they get to the hideout, there is a Tiger guarding the cell that Onme's friend is being held in. When they open the cell and get near her, Onme's hands start glowing and the girl wakes up!

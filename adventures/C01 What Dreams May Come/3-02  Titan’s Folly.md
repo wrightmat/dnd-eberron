@@ -6,8 +6,6 @@
 - This is a research and mining station built during the Age of Giants by a faction called the Group of Eleven that is known to have fought the Quori during the invasion. The station has been overwhelmed, abandoned and reclaimed by the plane. In the past, the giants used the facility to mine and research the prismatic geodes, shards, and golems that are native to Lamannia.
 - Magical crystalline devices can be found throughout the facility that utilize giant magitech to revert the facility back to its former glory (think Timeshift Stones from Skyward Sword). The players are not able to directly interact with things, but can observe their surroundings (which could be helpful for solving puzzles and getting hints).
 
-### Synopsis
-
 - The players enter an ancient mining facility that was clearly once run by giants, as indicated by the giant bones and the giant statue guarding the entryway chamber.
 - They will soon discover that they can use arcane devices from the giants to shift the environment around then to reflect the past instead of the present. They can’t interact with things here, but can gather information in this form, as long as they’re not spotted.
 - A research library includes some information about the operations here in the past, including the source of elemental binding from “prismatic beings”.
@@ -58,7 +56,7 @@ The trick here is to return to the entryway (Scene 1) and use the device to retu
 
 **The Past**. In their incorporeal form, any player(s) returning to the past can see a minecart inscribed with arcane runes and glowing blue floating over the tracks on its own. It automatically moves along the tracks between the Mining and Processing Chambers, and the door to each opens automatically when it gets near. The players will need to slip in with the minecart, succeeding in a DC 15 Dexterity check, in order to enter either of these chambers.
 
-### Scene 3: Research Library
+#### Research Library
 
 The Research Library from the old facility is very run down, but a few of the books can still be read. Some additional information can be gathered by returning to the past. An Investigation check while in the present can reveal a few things:
 
@@ -77,7 +75,7 @@ The Research Library from the old facility is very run down, but a few of the bo
 - DC 15: Several giants are seen reading books, too engrossed to notice any wandering spirits. One giant can be seen furiously scribbling in a journal.
 - DC 18: In the other room, a minecart can be seen floating along the tracks, then disappearing through a door that opened automatically when it got near.
 
-### Scene 4: Processing Chamber
+#### Processing Chamber
 
 Right inside the Processing Chamber is a device that will allow any players to return to their time.
 
@@ -92,7 +90,7 @@ This room is filled with shifting sand, and contains several scattered platforms
 **Treasure**. If the party can come up with a way to get to the chamber on the north wall in the present, then they find the hoard of gems. Use a CR 11-16 Treasure Hoard generator and re-roll anything that’s not gems. Also include a single Prismatic Shard item on a successful DC 18 Investigation check.
 * [https://dungeonmastertools.github.io/treasure.html#hoard16](https://dungeonmastertools.github.io/treasure.html#hoard16)
 
-### Scene 5: Mining Chamber
+#### Mining Chamber
 
 Right inside the Mining Chamber is a device that will allow any players to return to their time.
 
@@ -105,11 +103,11 @@ The center of the dungeon houses a partially excavated prismatic golem that’s 
 
 **Treasure**. If the party manages to take out its prismatic shards, the prismatic golem completely inactivates and opens up to reveal a [[Prismatic Geode]] for the taking.
 
-### Conclusion
+#### Conclusion
 
 After the prismatic shards are defeated, and the prismatic geode is retrieved, a secondary device can be found in this room near the golem. This device appears similar to the other “timeshift” devices, but is glowing faint red, and has a slot which would perfectly house a prismatic shard (DC 12 Investigation). If one is added (killed from the previous battle or found elsewhere like in the processing chamber treasure room) then the device activates, which returns power to the facility and opens all the doors.
 
-### Random Encounters
+### Random Tables
 
 These encounters are optional if the players dilly-dally too much in this area, then animals can attack.
 

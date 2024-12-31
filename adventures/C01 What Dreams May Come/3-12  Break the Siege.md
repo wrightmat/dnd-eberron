@@ -12,9 +12,11 @@
 
 ### Characters and Locations
 
-- 
+- [[Vult (Shavarath)]]
 
-### Scene 1: Close the Gate
+### Scenes and Situations
+
+#### Scene 1: Close the Gate
 
 The Legion of Tyranny have sent their fastest units ahead of the main force and are making for the gates. The guard have moved quickly to close the mighty doors to keep them out, but spies and infiltrators have attacked them and thwarted their efforts. A number of guards lay dead on the ground, one of their number now revealed to be a spy having slain them. Two more such spies have closed themselves inside the tower where the gate locking mechanism is, and are braced against the door to prevent anyone else from getting in. To prevent the enemy army from gaining easy access to the city, the party must get past the attacker on the ground and close the gates by hand. They must then find their way into the room with the locking mechanism and seal it shut before it is too late.
 
@@ -37,7 +39,7 @@ As it falls, a contingent of the Legion of Freedom can be seen making their way 
 ##### Failure (+1 to Legion of Tyranny, -1 to Legion of Freedom)
 Failure at the gates spells doom for the city. Through the open gateway an entire army can march into the city with ease, and once fortified it will never be retaken. If the invader cavalry arrives and is able to enter the gates before they are locked, then the approaching reinforcements can be easily overwhelmed. The party will likely have to retreat, and any further encounters are upgraded with increased troop numbers. Escape from the city may be the only option now.
 
-### Scene 2: Hooks and Ladders
+#### Scene 2: Hooks and Ladders
 
 The Legion of Tyranny have set ladders and hurled grappling hooks against the wall, creating a way for their forces to scale the sheer surface and reach the parapets. Once at the top, they have quickly dispatched the few guards standing against them and have established an important beachhead into the city. The party come to the scene as the invaders have already claimed the top of one section of wall, and more invaders are climbing the side to start swarming into the streets.
 
@@ -62,7 +64,7 @@ Defeating the invaders here by destroying the ladders and ropes gives the city a
 ##### Failure (+1 Legion of Cruelty, -1 Legion of Freedom)
 Failing to stem the flow of invaders climbing the wall, the party may find themselves killed, captured, or forced back into the city. Failure here would be just as bad as at the city gates, costing the city a major defense and allowing the enemy a way to spread unimpeded. Further defense may be possible at inner walls, or amongst the city streets, but the party will more than likely face increased enemy numbers now.
 
-### Scene 3: Defend the Shelter
+#### Scene 3: Defend the Shelter
 
 Some Legion of Cruelty demons have already made it inside the city by secret ways, and are causing havoc. As the defense is mounted, civilians panic and rush to find shelter in underground areas where they can seal themselves away and hope that the battle passes them by. The party come to the entrance of one such shelter, a large metal set of doors at the bottom of a few steps, and a stair beyond that door leading down into sealed catacombs where civilians can be safe. Looking up and down the street, the party catch sight of civilians running toward the open door, but behind them and from other side streets Legion of Cruelty infiltrators come to stop them. The party need to defend the entrance to the shelter until the coming civilians have time to get inside and seal the doors from the inside.
 
@@ -81,7 +83,7 @@ Success in this mission is highly subjective, but given the circumstances the pa
 ##### Failure (+1 Legion of Cruelty, -1 Legion of Freedom)
 Should any invaders get through the doors and make their way down the stairs, then they will start killing civilians they find there. The shelter being breached is a death sentence for those civilians and for anyone who thought reaching it would be their best chance for safety. Any guards or other civilians who pass by afterwards may well find the slaughter, and become deeply demoralized.
 
-### Scene 4: Put Out Fires
+#### Scene 4: Put Out Fires
 
 Civilians can be seen running from a warehouse district that's clearly on fire. A celestial from the Legion of Freedom approaches the party and asks them to address the fires while his forces regroup from the last attack. He offers a Wand of Tidal Wave (Xanathar’s Guide To Everything, pg 168) to the party if they need something to put out the fires.
 
@@ -97,7 +99,7 @@ Putting out the fires (and possibly putting an end to whoever or whatever might 
 ##### Failure (+2 Legion of Cruelty)
 If the fires are allowed to spread and grow rampant, they will eventually cover the entire building and consume it entirely. Parts of the walls and ceiling will start to collapse, and some larger pieces will fall toward other nearby buildings, and spread into the city. Slowly, piece by piece, the fire will keep spreading and destroying more homes, places of business and administrative areas. As the siege goes on, this will only make defending the city much, much harder.
 
-### Scene 5: Destroy the Siege Engine
+#### Scene 5: Destroy the Siege Engine
 
 The Legion of Tyranny are bringing a large construction up to the exterior wall. Though some of them have already found ways into the city, this sheltered battering ram has the strength to bring down a section of wall and leave a big enough opening for an entire army to move in. The guards at the wall call out for help, as they are already being overwhelmed by invaders who are on top of the wall and by the large force surrounding and defending the siege engine itself.
 
@@ -116,7 +118,7 @@ Destroying the siege engine secures this area of the wall, and coming reinforcem
 ##### Failure (+2 Legion of Tyranny)
 Failure causes the section of wall to come crashing down, giving the invaders a large opening through which to pour their full force into the city. If the party fail to stop the siege engine in time, move from this encounter to Hold The Breach.
 
-### Scene 6: Hold The Breach
+#### Scene 6: Hold The Breach
 
 A large hole has been made in the city walls, and now the invading enemy are moving into the city directly. Defender reinforcements are coming, but the breach has to be held until a large enough force reaches the wall to hold the enemy back. The only ones there to hold that line are the party.
 
@@ -132,7 +134,7 @@ accompanies these reinforcements, and is happy to provide some healing if the pa
 ##### Failure (+2 Legion of Tyranny)
 If invaders push through the party in decent numbers, then the section is lost and this area of the city will soon be reinforced as a beachhead for the enemy army. Such a beachhead may cost the city, as it will be extremely difficulty to remove the enemy once they strengthen their hold on the breach.
 
-### Scene 7: The Infiltrator
+#### Scene 7: The Infiltrator
 
 Making their way down a street, the party hears shouts from a nearby alleyway. Investigating, they find a local guardsman holding five civilians at spearpoint. He is aggressively shouting at them, demanding they obey him, but all five civilians are fearfully holding their arms in the air. As the party arrive, the guardsman thanks the gods that they’ve arrived to help him. He claims that he witnessed a civilian killing other guards, but hadn’t seen their face. He’s convinced that it was a traitor helping the enemy, and chased them to this alley where the traitor has hidden amongst a group of other civilians. Things were so confusing that he can’t say for sure which of the five civilians was the one he was chasing, so he’s trapped them all and has been desperately trying to keep them from leaving and continuing to sabotage the defense of the city. The party must help to solve this puzzle and identify the traitor.
 
@@ -145,7 +147,7 @@ When the party identify the correct infiltrator, they attempt to escape. They kn
 ##### Failure (+1 Legion of Cruelty)
 If the party let the civilians go or identify the wrong one of them as the infiltrator, then the guardsman is convinced and the traitor escapes to wreck further havoc in the city.
 
-### Scene 8: Shoot Down the Air Support
+#### Scene 8: Shoot Down the Air Support
 
 The Legion of Tyranny have sent new forces into the city, soldiers on the backs of large flying beasts transporting troops over the wall and firing at the defenders with bows and crossbows. They dive and swoop across the city now, picking off defenders and civilians alike and are now descending onto the party. Luckily, the adventurers have come close to a ballista emplacement atop a short tower in amongst a central square, giving them an opportunity to do something about the winged menaces threatening them.
 
@@ -158,7 +160,7 @@ Shooting down the invader air support hampers their ability to spread their infl
 ##### Failure (+1 Legion of Tyranny)
 If the party are unable to deal with the flyers, then they will continue to harass the defenders from above. They can get assassins right into command structures, and get invader troops anywhere in the city. It will drastically increase the number of invaders within the city. With this advantage, the invaders may be able to kill the leaders of the defending force and continue scouting key targets and directing their forces at any point.
 
-### Scene 9: Open the Secret Way
+#### Scene 9: Open the Secret Way
 
 A young warrior stumbles into view, weary and in shock, but on mission. Behind him a small crowd of civilians gather, hiding around the corners of buildings until the warrior gestures for them to come forward. As the warrior catches sight of the party, he raises his sword toward them and shouts a challenge. He poses no threat and can be defeated easily, but if approached as a friend he will happily accept them and tell them his mission.
 
@@ -181,7 +183,7 @@ The route leads to the Destroyed Depths, as outlined in the main Vult adventure.
 ##### Failure (-1 Legion of Freedom)
 If at least half of the civilians are killed, the others will panic and scatter into the city where it is likely that they will be picked off one by one. The young warrior is likely to try to chase some of them down to save them, but will not have much hope of surviving himself. If left alone, there is a chance that the party can follow what clues the warrior gave them to find the secret passage, but they do so knowing that the civilians they were escorting will die.
 
-### Scene 10: Incoming!
+#### Scene 10: Incoming!
 
 The party make their way through the city’s streets, when a dark shadow forms overhead. Perhaps at first they think more aerial invaders are approaching, but as they look they realize its something worse - artillery! Perhaps the party see a hail of arrows blotting out the sky, or a rock hurled by a catapult or trebuchet, or perhaps a flaming rock, hurtling directly towards them. They have scant moments to find cover before the artillery hits.
 
@@ -202,7 +204,7 @@ Surviving the artillery hit allows the party to move on and continue their curre
 ##### Failure
 Taking serious damage could result in the party being unable to continue fighting, and forcing hem to withdraw to a place of safety. As such, their current mission may be failed giving the invaders an opportunity to spread further into the city. They might even feel the need to get out of the city at this point, in which this might be a good time for them to encounter the Open The Secret Way event.
 
-### Scene 11: Kill the Commander
+#### Scene 11: Kill the Commander
 
 A tremendous opportunity presents itself for the party to deal a deadly blow to the invader’s assault. The Commander of the Legion of Cruelty, who has been secretly controlling the city from the inside, has a command post set up in a nearby market square, and the party are in a prime position to attack them. If they can kill the Commander, they limit the impact of the Legion of Cruelty inside the city, and can slow the progress of the invasion. Making their way to the edge of the square, they see that the Commander is well defended, and will take some effort to combat.
 
@@ -221,7 +223,7 @@ Defeating the Commander and their command group should be enough to cause seriou
 ##### Failure (+3 Legion of Cruelty, -3 Legion of Freedom)
 Being defeated by the Commander will result in a sore loss for the party and the city. Successful defending themselves gives the Commander a boost in confidence, and so they call forward more troops to press their advantage and surge further into the city. Though they may be killed, the Commander may take the attempt on their life as a grave insult and instead choose to take the party captive. Their gear will be taken and the party will be restrained somewhere in the city where they can have a good view of the invaders taking over entirely. This might mean stakes or posts in a square, or high on the city wall.
 
-### Conclusion
+#### Conclusion
 
 The Legion Standing of the City of Knives should be tracked after each Scene in order to determine the balance of power in the city. At the end, the Legion holding the city will be the one with the largest Legion Standing.
 

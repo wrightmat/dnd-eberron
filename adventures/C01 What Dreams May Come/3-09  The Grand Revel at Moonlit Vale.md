@@ -1,4 +1,4 @@
- #adventure #completed  [[Rhaan (Thelanis)]] [[Selene de Rhaan]] [[Ihan de Rhaan]] [[Phoebe de Rhaan]] [[Esmeray]] [[Mahsa]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
@@ -11,25 +11,19 @@
 
 - Liege Pax (of the Autumn Court) should serve as a guide for the players, and inform them of the rumors of danger to Baron Selene’s life (and the impact that would have). The party should run in to them shortly after they land on the moon. They have a voice like honey in warm tea, and the party might remember them from Bystan’s stories.
 
-### Synopsis
-
-- The first phase (Scene 1) of the adventure involves the party learning about the Palace of the Moon Court and the four Eladrin Courts, as well as following information:
-    - That Duke Ihan suspects the Spring Court of interference with the evening’s proceedings.
-    - That Baron Selene and Duke Ihan seem to have a standoff-ish relationship, and she doesn’t seem to trust him.
-    - That a new arcane advisor from the Autumn Court has wriggled her way into Selene’s Court, and Pax doesn’t seem to trust her.
-- The second phase (Scenes 2 through 3) involves exploring the Palace (via the Moon Pool elevator, by finding the missing gems) and gathering information on each of these factions. By the end of the phase, the following information should be clear (which should cause even more confusion about who to trust):
-    - Selene clearly trusts “Lady M” (Mahsa), but expects “her cousin” (the Duke or Duchess) to employ force against her.
-    - Servants have been disappearing from the Servants’ Wing, and someone is asking for Esmeray’s help.
-    - Duke Ihan doesn’t trust Esmeray and has warned Selene against her. Also Esmeray and Selene had some sort of previous relationship.
-- The next phase begins when the party re-enters the ballroom (Scene 4) and meets Mahsa. She warns them against Duke Ihan and the Summer Court, saying that she killed (only after he attacked her) one of his agents she found snooping around the Autumn Tree. She then gives them a gem she found on the body, which opens up the Spring Tree (and Servants’ Wing), where they find the dead servants and meet Esmeray (Scene 5). They then return to the ballroom (Scene 6) where they have the opportunity to dance with Phoebe and learn that she doesn’t trust her brother either, that an attack is likely to come soon, and they should visit the Guest Wing of the Winter Tree.
-    - At this point all evidence seems to be pointing to the Summer Court. But if the players were to speak to Ihan himself, who is available at any time in the ballroom, they would learn quickly that he doesn’t even want the job. He’d rather retire and live with the gnomes (at Pylas Pyrial, the Gate of Joy). He would also deny any of the actions that have been attributed to his agents (which is true, as he’s being framed).
-- The last phase starts with a visit to the Winter Tree, where they find a servant being attacked by an Autumn Eladrin (Scene 7). They then discover Mahsa herself opening a teleportation circle, so she monologues evilly for a bit (about the coming Prince of Frost), calls forth some monsters as a distraction, and steps through. When the party returns to the ballroom for the final time, they can either save Selene or let her be killed, but either way Mahsa will get away (Scene 8). The final fight with her happens in the garden, and afterward the party can help determine the fate of the Palace Court (Scene 9 and Conclusion).
-
 ### Characters and Locations
 
-- 
+- [[Selene de Rhaan]]
+- [[Ihan de Rhaan]]
+- [[Phoebe de Rhaan]]
+- Esmeray
+- Mahsa
 
-### Scene 1: Palace of the Moon (Purple)
+- [[Rhaan (Thelanis)]]
+
+### Scenes and Situations
+
+#### Palace of the Moon (Purple)
 
 > The towers of a great Palace are built into the trunks of four vast trees, each one reflecting the influence of a particular season. The Summer Tree is in full bloom, while the Winter Tree is withered and bare, the Autumn Tree has lost the majority of its leaves, while the Spring Tree is just growing them back. A light snow is just starting the pepper the ground as you see a steady stream of people entering the Palace’s main archway.
 
@@ -90,7 +84,7 @@ Any time a creature moves within this chamber (and the white lever is in the for
 
 The room will only move when the circle of water is bathed in concentrated moonlight. In order to do so, the mirrors must be moved in a way that directs the beam from the wall into the pool. The mirrors can be moved with a successful DC 15 Strength (Athletics) check.
 
-### Scene 2: Autumn Tree (Orange)
+#### Autumn Tree (Orange)
 
 > You step off the elevator and into a grand hallway, lined with orange plaques bearing the symbol of a leaf. Closed doors line one side of the hallway while the other side opens to a grand library.
 
@@ -117,7 +111,7 @@ One of the apartments belongs to Lady Mahsa. Investigating the room (DC 14) will
 
 Another apartment has a blood stain on the ground (DC 12 Investigation). This refers to the Summer Court agent that Lady Mahsa killed and will tell the party about in Scene 6.
 
-### Scene 3: Summer Tree (Yellow)
+#### Summer Tree (Yellow)
 
 > You step off the elevator and into a stoic hallway, lined with yellow plaques bearing the symbol of a sun. Closed doors line one side of the hallway while the other side opens to a museum-like room filled with busts.
 
@@ -138,7 +132,7 @@ There are a number of small rooms here, clearly designed for soldiers. One much 
 > We can discuss this like adults, can't we? We both know Esmeray’s machinations among the Spring Court intend to bring all of the other Courts down, not just you. She is now a greater threat to us than anything else, save for Destiny himself. If you and I work together, we can wrest control away from her. Do not deceive yourself that she will be open to negotiation or diplomacy. You know her better than anyone — you know that's impossible.
 > - Ihan
 
-### Scene 4: First Return to the Ballroom (Purple)
+#### First Return to the Ballroom (Purple)
 
 The party can use the Moon Pool to return to the ballroom, using the purple gemstone already present on the lever. When they arrive, they are approached by a new character - an Autumn eladrin who introduces herself as Lady Mahsa:
 
@@ -150,7 +144,7 @@ Give the players a chance to respond, and comment on it if they’re coy in any 
 
 Mahsa gives the players a green gem, which allows access to the Servents’ Wing in the Spring Tree.
 
-### Scene 5: Spring Tree (Green)
+#### Spring Tree (Green)
 
 > You step off the elevator into a simple hallway lined with green plaques bearing the symbol of a flower. Closed doors line one side of the hallway while the other side opens to a beautiful garden.
 
@@ -170,7 +164,7 @@ Esmeray says she came here to investigate the disappearance of her people (the s
 
 If pressed, she could also communicate to the party that she has no intention of stopping Duke Ihan’s actions. She is working as an agent of Destiny, who needs Selene off the throne so the rightful rulers of the Summer Court can ascend. Plus, if Selene remains then all of Thelanis is in danger from the Prince of Frost. She’s guessing that Ihan has the same ends, and so she’s staying out of his way, and might even help. She just doesn’t want her servants killed in the process.
 
-### Scene 6: Second Return to the Ballroom (Purple)
+#### Second Return to the Ballroom (Purple)
 
 The party returns to the ballroom and are approached by Duchess Phoebe who asks one of them to the dance floor.
 
@@ -184,7 +178,7 @@ Whichever party member agrees to dance should have a casual conversation with th
 
 Phoebe will give whoever danced with her a blue gem that will allow them to get to the Winter Tree. Give the party a chance to consult with Pax to gather their information and discuss. Pax tells them that warning Selene will be useless - as she has too much invested in this gala and will never flee and admit defeat. She tells them that what the Vale needs is stability, and that may not necessarily come from Selene. The group may need to eventually decide who to support on the throne: Selene (Winter), Ihan (Summer), or Esmeray (Spring).
 
-### Scene 7: Winter Tree (Blue)
+#### Winter Tree (Blue)
 
 > You step off the elevator and into a homey hallway, lined with blue plaques bearing the symbol of a snowflake. Closed doors line both sides of the hallway.
 
@@ -202,13 +196,13 @@ If they proceed to the Royal Wing of the Winter Tree, Mahsa can be found there a
 
 `dice: [[9. The Grand Revel at Moonlit Vale#^rhaan-dusk-hag-prophesies]]`
 
-### Scene 8: Final Visit to the Ballroom (Purple)
+#### Final Visit to the Ballroom (Purple)
 
 When the party gets back to the ballroom, Mahsa, Ihan, and Selene are all there. Pax approaches the party to ask what they found out and what they should do. The Baron will speak soon - do you wait for Mahsa to attack, or expose her publicly and prevent further bloodshed?
 
 The Baron gives a rousing speech to the court about how the Age of Winter will bring a period of reflection and peace to the whole of Thelanis, and how it's our great honor to transition from one season to another. She then gestures to Mahsa, as a representative of the Autumn Court, and invites her to come stand next to her. If the party chose to expose Mahsa, then Pax steps forward and lays out all the facts in front of the court, and Mahsa jumps from the balcony to escape. If the party chose to wait for Mahsa to attack, then she stabs the Baron, and gets away by jumping from the balcony.
 
-### Scene 9: The Fight in the Garden
+#### The Fight in the Garden
 
 Mahsa's jump from the balcony lands her on the garden below, where she should fight to the death.
 
@@ -218,7 +212,7 @@ Her primary tactic is to keep distance and use her Longbow exclusively - this ca
 
 At half hit points and below, Mahsa should use one of her Multiattack actions to cast *cure wounds* on herself in order to restore 5d8+4 (`dice: 5d8+4`) hit points.
 
-### Conclusion
+#### Conclusion
 
 After the fight, if Selene was killed, then the party will need to determine who to support for ascension to the throne - either the Summer Court with Ihan (which is what Destiny demands, but Ihan doesn't want it, which could lead to further instability in the court), or the Spring Court with Esmeray (who would likely stabilize the court but might anger Destiny). It's also possible they could convince Pax to cast *revivify* on the Baron and return her to the throne.
 
@@ -245,6 +239,20 @@ If the party were to return to the Palace, a battle with the Prince of Frost sho
 | 9          | "If winter comes against Destiny's wishes, then beware the Prince of Frost."   | [[3-09  Rhaan, the Book]]                         |
 | 10         | "Sibling squabbles befall even those who rule over moons."                     | All 7 of the Endless                           |
 ^rhaan-dusk-hag-prophesies
+
+### DM Notes
+
+- The first phase (Scene 1) of the adventure involves the party learning about the Palace of the Moon Court and the four Eladrin Courts, as well as following information:
+    - That Duke Ihan suspects the Spring Court of interference with the evening’s proceedings.
+    - That Baron Selene and Duke Ihan seem to have a standoff-ish relationship, and she doesn’t seem to trust him.
+    - That a new arcane advisor from the Autumn Court has wriggled her way into Selene’s Court, and Pax doesn’t seem to trust her.
+- The second phase (Scenes 2 through 3) involves exploring the Palace (via the Moon Pool elevator, by finding the missing gems) and gathering information on each of these factions. By the end of the phase, the following information should be clear (which should cause even more confusion about who to trust):
+    - Selene clearly trusts “Lady M” (Mahsa), but expects “her cousin” (the Duke or Duchess) to employ force against her.
+    - Servants have been disappearing from the Servants’ Wing, and someone is asking for Esmeray’s help.
+    - Duke Ihan doesn’t trust Esmeray and has warned Selene against her. Also Esmeray and Selene had some sort of previous relationship.
+- The next phase begins when the party re-enters the ballroom (Scene 4) and meets Mahsa. She warns them against Duke Ihan and the Summer Court, saying that she killed (only after he attacked her) one of his agents she found snooping around the Autumn Tree. She then gives them a gem she found on the body, which opens up the Spring Tree (and Servants’ Wing), where they find the dead servants and meet Esmeray (Scene 5). They then return to the ballroom (Scene 6) where they have the opportunity to dance with Phoebe and learn that she doesn’t trust her brother either, that an attack is likely to come soon, and they should visit the Guest Wing of the Winter Tree.
+    - At this point all evidence seems to be pointing to the Summer Court. But if the players were to speak to Ihan himself, who is available at any time in the ballroom, they would learn quickly that he doesn’t even want the job. He’d rather retire and live with the gnomes (at Pylas Pyrial, the Gate of Joy). He would also deny any of the actions that have been attributed to his agents (which is true, as he’s being framed).
+- The last phase starts with a visit to the Winter Tree, where they find a servant being attacked by an Autumn Eladrin (Scene 7). They then discover Mahsa herself opening a teleportation circle, so she monologues evilly for a bit (about the coming Prince of Frost), calls forth some monsters as a distraction, and steps through. When the party returns to the ballroom for the final time, they can either save Selene or let her be killed, but either way Mahsa will get away (Scene 8). The final fight with her happens in the garden, and afterward the party can help determine the fate of the Palace Court (Scene 9 and Conclusion).
 
 ### References
 

@@ -1,18 +1,24 @@
- #adventure #completed  [[Lharvion (Xoriat)]] [[Delirium]] [[Belashyrra|Belashyrra]] [[Kyrzin (Prince of Slime)|Kyrzin (Prince of Slime)]] [[characters/Dyrrn|Dyrrn]]
+ #adventure #completed 
 
 > There are masses of swirling colors, hues never seen on Eberron. There are ripples in space that disrupt time in their wake. There are bursts of powerful emotion that drift across the plane. These may well be alive in some way — but there’s no way to communicate with them. An endlessly expansive maze covers the entire area of the moon you can see as you descend, but a clear landing spot can be seen.
 
 ### Background and Hook(s)
 
-The entire sky of Lharvion can be described as a synesthetic experience of a discordant symphony — a swirl of colors that stir up emotions and evoke the conception of music in the mind. A symphony that's discordant in the best possible and most pleasant way, but could never be fully understood by the mortal mind, and may drive someone mad if they dwell on it too long. Some areas of the moon have additional features, such as the many eyes in the Unseen Citadel, and the Draconic Prophesy inscribed walls of the Maze of Reality, but the swirling sky can still be seen everywhere. The ground is a similar but more subtle pattern of colored sand, similar to childrens' sand art in slowly shifting swirls.
-
-The maze is the only thing that can be seen when the players near the moon. There is a clear landing spot in a large room at the front of the maze, but it stretches off far enough that the players can’t ascertain where to go in the maze from the sky. The maze itself has several dead-ends that end in portals to various different locations in the plane (below). The very center of the maze leads to Delirium’s Dollhouse.
+- The entire sky of Lharvion can be described as a synesthetic experience of a discordant symphony — a swirl of colors that stir up emotions and evoke the conception of music in the mind. A symphony that's discordant in the best possible and most pleasant way, but could never be fully understood by the mortal mind, and may drive someone mad if they dwell on it too long. Some areas of the moon have additional features, such as the many eyes in the Unseen Citadel, and the Draconic Prophesy inscribed walls of the Maze of Reality, but the swirling sky can still be seen everywhere. The ground is a similar but more subtle pattern of colored sand, similar to childrens' sand art in slowly shifting swirls.
+- The maze is the only thing that can be seen when the players near the moon. There is a clear landing spot in a large room at the front of the maze, but it stretches off far enough that the players can’t ascertain where to go in the maze from the sky. The maze itself has several dead-ends that end in portals to various different locations in the plane (below). The very center of the maze leads to Delirium’s Dollhouse.
 
 ### Characters and Locations
 
-- 
+- [[Delirium]]
+- [[Dyrrn]]
+- [[Kyrzin (Prince of Slime)]]
+- [[Belashyrra]]
 
-### The Maze of Reality
+- [[Lharvion (Xoriat)]]
+
+### Scenes and Situations
+
+#### The Maze of Reality
 
 Imagine time as a maze and the Material Plane as a rat moving through it, with the other planes worn as a crown. This is how the Draconic Prophecy works. It doesn’t tell you what will happen, because that hasn’t been decided yet — it’s a roadmap to the maze. Any player who has studied the Dragonic Prophecy in some way would recognize the same symbols from the prophesy as being etched in to the maze itself — this knowledge would also grant a +2 bonus to Survival checks to navigate the maze as outlined below.
 
@@ -57,7 +63,7 @@ At the same time the players make their roll, roll a d20 to determine if a psych
 | 10  | Lines start appearing on the ground, leading you the correct direction in the maze                                             |
 ^xoriat-maze-success
 
-### The Unseen Citadel
+#### The Unseen Citadel
 
 >Tiny floating eyes buzz about like insects. Millipede-like creatures have rows of eyes running down their backs. Some true beholders seem to be focused on deep contemplation of specific things, and don’t pay attention to you. Some study strange paintings, others watch scrying pools reflecting images of Eberron or other planes, and some examine seemingly mundane objects, such as a rusty iron key, a dead rabbit, or an expensive hat. However, there are a few that patrol a nearby iridescent Citadel, watchful for intruders.
 
@@ -69,7 +75,7 @@ After a few moments in this area, anyone with a passive perception of 15 (or suc
 
 `encounter: 1d8: Gibbering Mouther`
 
-### The Fields of Thought
+#### The Fields of Thought
 
 >Purple fields are bathed in ultraviolet light, and fluorescent sculptures shed eerie dim light. Halfling-like farmers dance as they tend the fields, but what they cultivate aren't crops - they're thoughts and memories. Each field has a brine-filled pool containing a large brain, with a bright line of thought transmitting to a huge tower at the heart of the area.
 
@@ -86,7 +92,7 @@ For every hour spent in this area (or more often if desired), each player must m
 * On a regular success, the player feels a powerful memory washing over them — have them describe it and then say that they see a thought strand emerge from their head and move toward Dyrnn's Tower in the distance (much like when they encountered Mordain). They still have the memory, but they expect someone else may have it now too.
 * On a failure, the player experiences a mental projection from Dyrrn's Tower, attempting to corrupt them. If Dyrrn had previously taken a memory, he uses that memory against the player. They must make a new DC 15 Wisdom saving throw. On a failure, they must turn against their allies and attack whoever is closest to them.
 
-### The Orchard of Ooze
+#### The Orchard of Ooze
 
 >Rivers and ponds here are made of living protoplasm, which reaches out toward you as you pass by. Large gelatinous trees prominently dot the area, bearing big gooey fruits, just begging to be plucked.
 
@@ -112,7 +118,7 @@ The large gelatinous trees here grow secrets, instead of fruit. Some of them may
 | 12         | With the cessation of the war after the Day of Mourning, Q'barra saw a significant increase in its population. Refugees, weary soldiers, and criminals were all drawn to a region that came to be known as Hope, believing they could strike it rich. Recently, prospectors in the jungles identified two new types of unusually magically potent Eberron shards, named dawn and dusk shards for their colors. The recovery of these new shards has upset the scales of the region, who consider these shards to be of great significance, bringing the threat of war to the doorstep of those who had tried to escape it.                                                                                                                                                                                                                                            |
 ^xoriat-secrets-eberron
 
-### The Emocean
+#### The Emocean
 
 The Emocean is a tide of surging thoughts and emotions, deeper and more primal than Dal Quor’s Ocean of Dreams. Flumph cloisters drift along streams of consciousness, drawing sustenance from the pure psychic emanations surrounding them. This is a blissful experience, and most flumphs have no interest in leaving. It is also the realm of The Master of Silence, who lords over monsters of telepathy.
 
@@ -127,17 +133,15 @@ For every hour spend in this area (or more often if desired), each player must m
 
 `encounter: 1d12: Flumph`
 
-### Delirium’s Dollhouse
+#### Delirium’s Dollhouse
 
 This is the home of Delirium, and can only be accessed from a portal in the center of the Maze of Reality. Outside there is a broken sundial reading "Tempus Frangit" ("time breaks," a Latin pun on the phrase "Tempus Fugit"), which can be read with a DC 12 Investigation check. A well filled with fresh water is present on the side of the house, and functions as Delirium's scrying pool. A small front porch leads to a front door, the only access to the dollhouse.
 
 At various times, a Sanity roll will be called for. This is an unmodified d100 roll, which is compared to the player's Intelligence score (not modifier). Any roll equal to or less than their Intelligence score is considered a failure, where the player comprehends the full extent of what transpired, and goes partially insane. Roll on the Bouts of Madness table to determine the result. Any roll greater than the player's Intelligence score is a success, and they fail to understand what's happening, preventing any insanity in the process.
 
-#### Locations
-
 ![https://wrightmat.github.io/dnd-eberron/_img/delirium_dollhouse.png](https://wrightmat.github.io/dnd-eberron/_img/delirium_dollhouse.png)
 
-**D1. Entryway**
+###### D1. Entryway
 When the players enter the house, Delirium will appear and have a short conversation before disappearing again, somewhere deeper into the house.
 
 >Welcome to my Dollhouse! It's the safest place in all of Xoriat. You know why? Because it's not real. None of this is real. Not really, anyway.
@@ -163,18 +167,18 @@ As Delirium converses with the party, the colors of the walls change based on th
 
 This color changing can continue throughout the dollhouse, even if Delirium isn't seen, if the players do something that Delirium would react to.
 
-**D2. Main Hall**
+###### D2. Main Hall
 A wide hall runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. Mounted on the wall above the fireplace is a painting of a portly woman in a lavender dress with black and blue embroidery, with skin of deep blue and containing the night sky (this is Delirium's mother, Mother Void, or Entropy). If the painting is investigated, it has a small plaque below it that says "Mother".
 
-**D3. Sitting Room**
+###### D3. Sitting Room
 This minimally adorned sitting room contains a small fireplace, several chairs, and two cabinets. The cabinets are locked (DC 15 Sleight of Hand) and contain random treasure (CR 0-4 Hoard of art or gems). Sitting in one of the chairs is a human man, non-reactive, with pure black unblinking eyes. He doesn't respond when the characters enter or if spoken to, but if a character touches him then they must make a Sanity roll.
 
-**D4. Kitchen and Pantry**
+###### D4. Kitchen and Pantry
 The kitchen (4A) is tidy, with dishware, cookware, and utensils neatly placed on shelves. A worktable has a cutting board and rolling pin atop it. A stone, dome shaped oven stands near the east wall, its bent iron stovepipe connecting to a hole in the ceiling. Behind the stove and to the left is a thin door leading to a well stocked pantry. All the food in the pantry (4B) appears fresh but is actually made of plaster.
 
 **Dumbwaiter**: Behind a small door in the southwest corner of the kitchen is a dumbwaiter — a 2-foot-wide stone shaft containing a wooden elevator box attached to a simple rope-and-pulley mechanism that must be operated manually. The shaft connects to the servants’ quarters the master bedroom. Hanging on the wall next to the dumbwaiter is a tiny brass bell attached by wires to buttons in those other areas. A Small character can squeeze into the elevator box with a successful DC 10 Dexterity (Acrobatics) check. The dumbwaiter’s rope-and-pulley mechanism can support 200 pounds of weight before breaking.
 
-**D5. Dining Room**
+###### D5. Dining Room
 The centerpiece of this wood-paneled dining room is a carved mahogany table surrounded by eight highbacked chairs with sculpted armrests and cushioned seats. A crystal chandelier hangs above the table, which is covered with resplendent silverware and crystalware polished to a dazzling shine. Plates of food are set at each seat, but the food is actually made of plaster, and can't be removed from the plates.
 
 Eight place settings exist for each of the Endless (and their Mother). If the players investigate and roll well, could reveal the sculpting of the armrests to have symbols of each Endless:
@@ -183,16 +187,15 @@ Eight place settings exist for each of the Endless (and their Mother). If the pl
 
 If any players (at least two) sit in any of the chairs, they switch minds for as long as they're seated.
 
-**D6. Upper Hall**
+###### D6. Upper Hall
 A wide hall runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. Mounted on the wall above the fireplace is another painting, but this one is completely blank. If investigated, the painting has a small plaque which says "Expanse".
 
-**D7. Bedroom**
-This is nothing but a small bedroom (7A), decorated in a variety of colors that swirl together.
-A small bathroom (7B) is connected to the bedroom. None of the plumbing in this bathroom works, though there are some unseemly red stains in the bathtub and on the mirror. If one looks into the mirror, or at the bathtub, they must make a Sanity roll.
+###### D7. Bedroom
+This is nothing but a small bedroom (7A), decorated in a variety of colors that swirl together. A small bathroom (7B) is connected to the bedroom. None of the plumbing in this bathroom works, though there are some unseemly red stains in the bathtub and on the mirror. If one looks into the mirror, or at the bathtub, they must make a Sanity roll.
 
 **Dumbwaiter**: A dumbwaiter in the corner of the west wall has a button on the wall next to it. Pressing the button rings the tiny bell in the Kitchen.
 
-**D8. Tea Party and Play Room**
+###### D8. Tea Party and Play Room
 > Close to the door is a toy chest with windmills painted on its sides and a dollhouse that’s a perfect replica of the building in which you stand. Several colorful bookcases line the room. A small table in the center of the room has several doll-like figures sitting around it, each one a new and horrifying visage.
 
 A tea party is staged on the table, with the same plaster food as in the kitchen. Each of the dolls around the table is a representation of one of the Daelkyr, and has a nametag with a special name that Delirium calls them:
@@ -218,11 +221,12 @@ If the players manage to leave the table (such as by flight) while small, they c
 
 **Secret Door**: A secret door behind one bookshelf can be unlocked and swung open by pulling on a switch disguised to look like a red-covered book with a blank spine. A character inspecting the bookshelves spots the fake book with a successful DC 13 Wisdom (Perception) check. Unless the secret door is propped open, springs in the hinges cause it to close on its own. Beyond the secret door lies area D9.
 
-**D9. Secret Diary Room**
+###### D9. Secret Diary Room
 Inside this small room are several short bookcases with diaries stacked on the shelves, each one sporting a different color or design. Any player choosing to read a diary will gain a random piece of information, but must also make a Sanity check. This can be done as many times as a player desires.`dice: [[7. Lharvion, the Eye#^xoriat-journal-entries]]`
+
 **Treasure**. On top of one of the bookcases, found with a successful DC 13 Investigation check, is a [[Shadowfell Brand Tattoo]].
 
-**D10. Music Room**
+###### D10. Music Room
 This room contains a couch, two arm chairs, several bookcases, a cabinet, a harpsichord with a bench, and a large standing harp. When players enter the room, have them roll a DC 16 Wisdom save against [[Dominate Person]] (at 6th level, so up to 10 minutes), with anyone failing hearing the command "Play Rough with your Friends" (from Delirium, in their heads), requiring them to fight any ally. The suggestion is emanating from a magic music box in the locked cabinet (AC 10, HP 10, DC 15 Thieves tools) and the music can only be heard by those who failed their saves.
 Sitting in the two arm chairs are two humans (a male and a female), non-reactive, with pure black unblinking eyes. They don't respond when the characters enter or if spoken to, but if a character touches them then they must make a Sanity roll.
 
@@ -265,13 +269,13 @@ Sitting in the two arm chairs are two humans (a male and a female), non-reactive
 | 7-20       | No haunt                                                                                                                                                                                                                            |
 ^xoriat-psychic-haunt
 
-| d6  | Native Aberration                                                                                                                                                                                                                                                                                                                                                                     |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| d6  | Native Aberration                                                                                                                                                                                                                                                                                                                                                                       |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | The Varr are kind, generous, telepathic halflings. But they’re not quite like their Eberron cousins — they have compound eyes, barbed tongues, and they spit acid on food to digest it.                                                                                                                                                                                                 |
-| 2   | The Craiss are tiny insectoid creatures that inherently know the language of creatures they speak to. They’ve always had a really bad day and they won’t stop complaining about it.                                                                                                                                                                                                   |
-| 3   | The [scent of onions] is a sentient ooze that can assume a humanoid shape. It can produce sounds, but communicates with its own kind using smell, touch, and taste.                                                                                                                                                                                                                   |
-| 4   | The Cya are invisible, incorporeal beings who are only able to communicate by animating the reflections of other creatures.                                                                                                                                                                                                                                                           |
-| 5   | The [pleasure of seeing a familiar friend] are a race of empathic plants. They communicate not through speech, but through projecting emotions.                                                                                                                                                                                                                                    |
+| 2   | The Craiss are tiny insectoid creatures that inherently know the language of creatures they speak to. They’ve always had a really bad day and they won’t stop complaining about it.                                                                                                                                                                                                     |
+| 3   | The [scent of onions] is a sentient ooze that can assume a humanoid shape. It can produce sounds, but communicates with its own kind using smell, touch, and taste.                                                                                                                                                                                                                     |
+| 4   | The Cya are invisible, incorporeal beings who are only able to communicate by animating the reflections of other creatures.                                                                                                                                                                                                                                                             |
+| 5   | The [pleasure of seeing a familiar friend] are a race of empathic plants. They communicate not through speech, but through projecting emotions.                                                                                                                                                                                                                                         |
 | 6   | The Xaelin appear identical to humans, except for their smooth, featureless faces without eyes, ears, or nose. They possess truesight with a range of 60 feet, but can’t see, hear, or otherwise perceive anything beyond that range. The Xaelin claim to know nothing about Eberron — but despite this, their customs and fashions emulate cultures from throughout Eberron’s history. |
 ^xoriat-native-aberrations
 

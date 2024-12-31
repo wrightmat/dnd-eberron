@@ -8,12 +8,6 @@
 - He encourages the party to be careful, and if they encounter anything that may be over their head, to report back to him immediately.
 - The party meets up at the Gold Dragon Inn in Delethorn, after waking up from a night’s stay there following their own disparate travels. The town’s mayor wanders in to the inn and asks for help with a situation that’s been on his job board for quite some time, offering a reward to this first group of adventurers he sees.
 
-### **Synopsis**
-
-- The party gets the background on a new warehouse popping up from the mayor - it’s especially suspicious because no one’s been seen entering or leaving, even through they’re shipping product in and out.
-- The party can choose how to get to the warehouse, since it’s boarded up - either via the Sewers (asssisted by Boraz) or via the Lake to get to the warehouse’s dock (assisted by Ditan).
-- The warehouse itself is swarming with zombies, and the foreman is a wight. If confronted, the wight will flee to a forest to the east.
-
 ### Characters and Locations
 
 * **Gelel Embertree**. Mayor of Delethorn.

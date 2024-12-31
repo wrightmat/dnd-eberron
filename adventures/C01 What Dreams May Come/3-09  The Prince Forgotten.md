@@ -5,22 +5,17 @@
 - This story follows the Prince of Forgotten Things' past, mostly from his perspective, but also from the eyes of the mermaid's sisters (who the players embody). Unbeknownst to him, this point in the Prince's life has been shaped by a monstrous Kraken Priest named Ursula - who has disguised herself as the Princess Vanessa who he thinks rescued him from drowning.
 - In the past, Ursula was a resident of King Triton's palace, before being banished and exiled by order of the king. Scorned, she has since vowed to exact vengeance by sowing general chaos and scheming to install herself as ruler of all the ocean.
 - The Little Mermaid (both the original Hans Christian Andersen and the Disney retelling) is Alex's favorite fairy tale.
-
 * The party is hired by a wealthy merchant to retrieve a valuable painting that was stolen by the Forgotten Prince. When they arrive at the castle, they discover that the painting is a portrait of the Prince's past, a scene of the Prince passed out on the beach being embraced by a beautiful princess. The party may decide to return the painting to the merchant or help the Prince reunite with his lost past.
-
-### Synopsis
-
-- When anyone in the party initially touches the painting, they are all transported to the story of the Prince's past, to the point where he's celebrating his birthday on his ship. Suddenly a storm breaks out, and lightning strikes the ship, throwing the Prince overboard.
-- The Prince opens his eyes right as a princess has discovered him laying on the shore, so he mistakenly thinks that she rescued him. From another perspective on the story, Ariel looks on from behind a rock.
-- We flash forward to the day that the Prince found Ariel washed up on the castle steps. Then forward again to the Prince speaking to Ariel about sailing to a neighboring kingdom in order to meet a princess that his parents have arranged marriage to. When he arrives, he sees that the princess is the same one that supposedly saved his life, and decides to go forward with the marriage after all.
-- The Prince marries Princess Vanessa, who then sneaks away in the night, leaving him alone. Princess Vanessa was actually Ursula in disguise, who sought only to sow chaos and increase her power by keeping the Prince away from the seas.
-- The players may choose to interfere with the story and change the outcome in some way so that the Prince ends up with Ariel (or some other desired result).
 
 ### Characters and Locations
 
-- 
+- Prince of Forgotten Things
+- King Triton
+- Ursula
 
-### Scene 1: The Castle of Forgotten Things
+### Scenes and Situations
+
+#### The Castle of Forgotten Things
 
 >This tall stone tower is scattered with random objects, seemingly from all over the planes. As you ascend multiple stone staircases you look around and see piles of trinkets, sacks of various goods, and all manner of other things either forgotten or unappreciated. When you crest the final staircase, your eyes land on a large painting depicting a young man passed out on a beach being embraced by a beautiful princess. A sullen, broken-looking man sits slumped on the floor next to the painting.
 
@@ -28,7 +23,7 @@ When the players arrive at the Castle of Forgotten things, the Prince is there, 
 
 >"I once knew someone who collected gadgets and gizmos and thingamabobs, and I suppose I have taken on that same mantle in my advanced years. After everything I've lost, it gives my life some semblance of... meaning."
 
-### Scene 2: The Prince's Past
+#### The Prince's Past
 
 Based on the Hans Christian Andersen version of the story, and told only as a flashback of what happened in the Prince's life, from his perspective.
 
@@ -44,7 +39,7 @@ At this point the players are back in the castle with the Prince. They can ask a
 * The only clue he ever found to Princess Vanessa's disappearance was eight trails of slime on the ship's deck, leading off the edge. His deck hands cleaned it up the next day, thinking it unimportant.
 * He never saw the woman again either, and was left with so many unanswered questions about this woman who was unable to speak.
 
-### Scene 3: The Mermaids
+#### The Mermaids
 
 Based on a mix of the Hans Christian Andersen and Disney versions of the story, from the perspective of Ariel's sisters. The party, who play as the sisters, have the opportunity to change the Prince's story so he ends up with Ariel, leading to a more Disney outcome.
 * Sister names: Aquata, Andrina, Arista, Attina, Adella, Alana, and of course Ariel (who they can't be).
@@ -74,7 +69,7 @@ At this point the players can decide how they want the story to advance and what
 * After the wedding party, the Prince and Princess fall asleep. The players can see the Princess return to her true Ursula form as she slips off the ship in the night.
 * At the conclusion of these events, everything fades to black and the party finds themselves back in the Castle.
 
-### Conclusion
+#### Conclusion
 
 If the PCs decide to change things so the Prince ends up with Ariel, then she will be there in the Castle with him (which looks significantly less dreary and unhappy, but still scattered with trinkets) and the painting will be hanging on the wall depicting Prince Eric (as he's now known) and Ariel instead. If events aren't changed, then everything looks the same and the painting is still glowing - the players can return to the story as many times as they like by touching it (at which point they'll restart Scene 3).
 
@@ -84,6 +79,14 @@ If at any point the party decides to fight Ursula, use the Kraken Priest stat bl
 If Ursula were to manage to obtain King Triton's trident, then she would be transformed into a full Kraken (CR 23), making outright combat nearly impossible (although she'd only get her Lair Actions if she could draw them back to her den lair under the sea). This would only happen if the players decide to ignore her and anger the sea somehow - doesn't seem worth pursuing otherwise.
 
 `encounter: 1: Kraken Priest`
+
+### DM Notes
+
+- When anyone in the party initially touches the painting, they are all transported to the story of the Prince's past, to the point where he's celebrating his birthday on his ship. Suddenly a storm breaks out, and lightning strikes the ship, throwing the Prince overboard.
+- The Prince opens his eyes right as a princess has discovered him laying on the shore, so he mistakenly thinks that she rescued him. From another perspective on the story, Ariel looks on from behind a rock.
+- We flash forward to the day that the Prince found Ariel washed up on the castle steps. Then forward again to the Prince speaking to Ariel about sailing to a neighboring kingdom in order to meet a princess that his parents have arranged marriage to. When he arrives, he sees that the princess is the same one that supposedly saved his life, and decides to go forward with the marriage after all.
+- The Prince marries Princess Vanessa, who then sneaks away in the night, leaving him alone. Princess Vanessa was actually Ursula in disguise, who sought only to sow chaos and increase her power by keeping the Prince away from the seas.
+- The players may choose to interfere with the story and change the outcome in some way so that the Prince ends up with Ariel (or some other desired result).
 
 ### References
 

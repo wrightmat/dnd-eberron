@@ -1,27 +1,32 @@
- #adventure [[Crya (Dal Quor)]] [[characters/Dream]] [[The Archivist]] [[The Devourer]] [[Ashana]]
+ #adventure 
 
 > This moon doesn’t have distinct areas like the others. Instead, it's a vast ocean, but made of shifting sands. You watch as iridescent outlines of mortal creatures fall into the ocean and create “islands”, seemingly shaped by their memories and desires. The islands blip out of existence as each creature awakes. The ocean appears to contain millions of islands, but none last for long. A small fortress can be seen not too far away, and a huge castle takes up the horizon. Two gates, one of polished ivory and the other of translucent horn, frame an open atrium that serves as your landing site.
 
 ### Background and Hook(s)
 
-Crya is the moon furthest from Eberron, thrown out of its orbit by magical forces long ago, it no longer orbits and remains completely stationary. Due to its distance, lack of movement, and dark color, the moon is completely invisible from Eberron. Once up close though, the moon can be observed as completely covered in deep, dark liquid (which is actually shifting sands, when observed up close).
-
-**Inhabitants of the plane include** (think of each type of quori as the demons in Dragon Age, representing a powerful negative emotion):
-
- - Figments: manifestations from the void by Dal Quor, created in order to fill a role within a dream.
- - Drifters: a remarkable figment that has developed the ability to persist beyond the dream that created it — becoming a truly sentient spirit instead of a simple manifestation.
- - Tsucora quori: specialize in fear
- - Du’ulora quori: specialize in rage
- - Hashalaq quoti: specialize in pleasure/pain
- - Kalaraq quori: specialize in pride
- - Tsoreva quori: specialize in envy
- - Usvapna quori: specialize in sloth/hunger
+- Crya is the moon furthest from Eberron, thrown out of its orbit by magical forces long ago, it no longer orbits and remains completely stationary. Due to its distance, lack of movement, and dark color, the moon is completely invisible from Eberron. Once up close though, the moon can be observed as completely covered in deep, dark liquid (which is actually shifting sands, when observed up close).
+- **Inhabitants of the plane include** (think of each type of quori as the demons in Dragon Age, representing a powerful negative emotion):
+	 - Figments: manifestations from the void by Dal Quor, created in order to fill a role within a dream.
+	 - Drifters: a remarkable figment that has developed the ability to persist beyond the dream that created it — becoming a truly sentient spirit instead of a simple manifestation.
+	 - Tsucora quori: specialize in fear
+	 - Du’ulora quori: specialize in rage
+	 - Hashalaq quoti: specialize in pleasure/pain
+	 - Kalaraq quori: specialize in pride
+	 - Tsoreva quori: specialize in envy
+	 - Usvapna quori: specialize in sloth/hunger
 
 ### Characters and Locations
 
-- 
+- [[characters/Dream|Dream]]
+- [[The Archivist]]
+- [[The Devourer]]
+- [[Ashana]]
 
-### Gates of Horn and Ivory
+- [[Crya (Dal Quor)]]
+
+### Scenes and Situations
+
+#### Gates of Horn and Ivory
 
 This is the landing site for the ship. Here the party will first encounter a "drifter" who could help them navigate the plane and give advice. She takes the form of Alice, Celeste's girlfriend who the party met back on Thelanis. She will not know and it will not be clear what she really is - a dream, a figment of their imagination, or something else entirely. But she's very motivated to help the group out, and is familiar with at least the basics of Dream's plan (portal to 40,000 years ago) so that the group can figure out a counter-plan.
 
@@ -30,7 +35,7 @@ Light blue banners bearing the symbol of the plane of Dal Quor hang from each of
 >[!info]- Drifters
 > Per ExE, “Occasionally, a remarkable figment develops the ability to persist beyond the dream that created it — becoming a truly sentient spirit instead of a simple manifestation… Such free-willed figments are called drifters.” Generally speaking, the Dreaming Dark doesn’t employ drifters and most drifters will do their best to avoid the quori, because DRIFTERS ARE A FLAW IN THE SYSTEM. Why SHOULD a quori deal with a free-willed, unpredictable drifter when it could just use a figment that will do exactly what it’s supposed to do? This is one reason drifters may help adventurers; they themselves aren’t part of the system and have no loyalty to the quori; quori will typically destroy drifters as they ARE flaws in the system (think Moriarty from TNG's holodeck).
 
-### Taer Lian Doresh
+#### Taer Lian Doresh
 
 Thousands of years ago, one of the eladrin’s feyspires, Shae Tirias Tolai, slipped from Thelanis into Xen'drik — but when it appeared, the giants were waiting. They pillaged the feyspire, claiming its treasures and taking its people as slaves. The other eladrin lords responded by improving their defensive magic. However, some among them wanted more — they sought vengeance.
 
@@ -42,7 +47,7 @@ The spire exists in a state of flux, simultaneously on Dal Quor and Eberron (wit
 
 Inside the base floor of the tower is a beautifully adorned casket, bearing the inscription "In Loving Memory of Nada".
 
-### The Ocean of Dreams
+#### The Ocean of Dreams
 
 A vast expanse of psychic space surrounds il-Lashtavar, home to millions of mortal dreams. The islands in the Ocean of Dreams range from the complex dreamscapes of sentient creatures, humans and dragons alike, to the simple dream of a dog that’s imagining chasing a ball. From the outside, these islands appear as glittering bubbles, each with an image of its dreamer within it. They’re loosely arranged based on the physical location of the dreamer, so there’s a stretch of the ocean that contains dreamers near Breland, another for Thrane, and so on — including regions for any dreamers currently on other planes.
 
@@ -52,25 +57,25 @@ One area of the Ocean is clearly being focused upon by a large group of quori. T
 
 `dice: [[13. Crya, the Lonely Dreamer#^random-encounter-quori]]`
 
-#### The Riedran Sea
+##### The Riedran Sea
 
 Over centuries, the Inspired have built a network of monoliths in Riedra, psychic anchors called hanbalani altas. These allow them to control everyone’s dreams over a vast radius. Dreams are typically tailored to the region, including local news and instructions. However, if they choose, the Inspired can broadcast a single dream to all of Sarlona. Within Dal Quor, this manifests as a distinctive region of the Ocean of Dreams — an array of hundreds of thousands of islands, dream-bubbles arranged in perfect symmetrical rows, with identical images in each bubble.
 
-#### The Uul Dhakaan
+##### The Uul Dhakaan
 
 Jhazaal Dhakaan united the dar through an act of epic bardic magic. When the dar dream, they don’t create their own islands in the Ocean. Instead, they are drawn to a vast, ongoing dream — the Uul Dhakaan, as discussed in chapter 4. This is a vision of what the Dhakaani Empire could and should be, and it encompasses many cities and fortresses. In addition to the spirits of dreaming dar, this enormous dream is filled with countless figments — both background soldiers, artisans, and facsimiles of legendary champions whose memories have been preserved. Most dar aren’t lucid dreamers and they don’t fully remember the time they spend in the Uul Dhakaan, but it reinforces Dhakaani values and traditions. If adventurers want to experience what the Dhakaani Empire was at its height — and what it could be again —they can find it here. Chot’uul guardians maintain outposts throughout the dream, along with a great monastery in the capital city. The magic woven into the dream ensures that the throne in the imperial palace remains empty — for now. But when a new emperor is chosen and has the support of the majority of the dar, they’ll hold the throne in the Uul Dhakaan as well as in the Material Plane.
 
-#### Quor Toa
+##### Quor Toa
 
 
-#### Xen'drik
+##### Xen'drik
 
 
-### Il-Lashtavar
+#### Il-Lashtavar
 
 The heart of Dal Quor is a city known as il-Lashtavar. This vast dreamscape, orbited by the Ocean of Dreams, is the source and home of the quori. It’s currently a menagerie of nightmares, a showcase of terrors that haunt the dreams of mortals.
 
-#### Outer Ring
+##### Outer Ring
 
 The outer ring is protected by a perimeter wall, separating it from the Ocean of Dreams. The wall is studded by three large towers, each the realm of a separate type of quori:
 
@@ -80,7 +85,7 @@ The outer ring is protected by a perimeter wall, separating it from the Ocean of
 
 On the edges of il-Lashtavar, corpses dangle from the trees of a haunted orchard. Blood drips from the leaves of a terrifying topiary maze. While the basic form of these nightmares is stable, they feed on the psyches of nearby mortals. Adventurers walking through the orchard see the hanging corpses as the people they most care about, or even as themselves — whatever is most disturbing to each intruder. At any given time, there are hundreds or even thousands of quori here, primarily the tsucora quori who roam the streets. Il-Lashtavar is the most dangerous place in Dal Quor — only the most powerful and prepared adventurers should enter the city.
 
-#### Inner Ring
+##### Inner Ring
 
 Those who press through this outer ring of nightmares find the three great inner fortresses. In the center of the courtyard connecting them are three glowing triangular crystals, each of different color and representing one of the three Ages (see below). The dark blue one in the center represents il-Lashtavar, The Dreaming Dark (with that inscribed in Quori along the length of the crystal). The silvery white one (looking exactly like the symbol for the Path of Light) on the left represents il-Yannah, The Dreaming Light. And a final glittering pink one on the right represents il-Chormeum, The Dreaming Heart.
 
@@ -93,11 +98,11 @@ The Central, or Grand Tower, is the home of Dream (also known as Quor Tarai by t
  - The last turn was known as The Dreaming Heart, where the city was known as il-Chormeum.
  - The next turn is known to be The Dreaming Light, where the city will be known as il-Yannah.
 
-### The Final Showdown
+#### The Final Showdown
 
 The last great challenge for the party involves Dream opening a portal to Eberron as it existed just prior to 40,000 years ago (time in Dal Quor is crazy) - the event that occurred when the quori first crossed into Eberron. il-Lashtavar has just come to power in the recent Turning of the Age, and has gathered an army to invade Eberron. Can the heroes stop Dream's plan? There are a few options outlined below, or the players may come up with their own solution to stop Dream's plan.
 
-#### Fighting with the Giants (from Eberron)
+##### Fighting with the Giants (from Eberron)
 
 Stopping Dream could involve going through the portal and fighting on the side of the Giants to hold back the Quori and prepare Moon Breaker for use. Possibly tie in side quests to help their cause, such as waking up giants in the Ocean of Dreams (so they can join the fight in the real world) or allying with rebels within Dal Quor.
 
@@ -123,7 +128,7 @@ When the checks are all completed, four additional actions, which must be comple
 >"As the planar connection disintegrated, the result was a planetary cataclysm that shook Xen’drik to its core and plunged large chunks of that continent beneath the sea. Mountains collapsed and gaping wounds the size of entire cities were rent open in the earth. The sun’s light was blotted out for a decade as portions of the shattered moon rained down from the sky for years, spreading the unspeakable devastation across the world. The physical connection between Eberron and Dal Quor was severed, perhaps forever."
 >- Excerpt from "The Collapse of a Giant Empire" - Prof. Bertram Iridian, 863 Y.K.
 
-#### Closing the Portal (from Dal Quor)
+##### Closing the Portal (from Dal Quor)
 
 Another option could be to shut down the portal from the Dal Quor side. This can only be done by collecting all thirteen of the relics known as dreamstone shards - which can be connected together to create a harmonic resonance that will close the portal. Dreamstone shards are scattered all around Dal Quor, and at least a few have been entrusted to Dream's family members:
 
@@ -137,7 +142,7 @@ Another option could be to shut down the portal from the Dal Quor side. This can
 8. One shard is held by the hashalaq quori in the Archive of Dreams in the Inner Ring of Il-Lashtavar.
 9. The last five come from the PCs. Each PC will need to manifest a dreamstone shard by seeking out one of their personal dreams in the Ocean of Dreams and explaining it to the party.
 
-### Conclusion
+#### Conclusion
 
 If they manage to fight with the Giants, and the invasion continues as history wrote, then maybe everything is the same if they go back to Eberron. Some players may be adamant that they don't try to change history, and let things play out as they are supposed to happen.
 

@@ -1,22 +1,20 @@
- #adventure #completed [[Eyre (Fernia)]]
+ #adventure #completed 
 
 ### Background and Hook(s)
 
 - [[3-04  Eyre, the Anvil]]
 - Phlain has a plan to unseat the Sultan Azhalar with his next gala. And what’s in fashion at the moment? Adventurers. Will the party help him, with a promise to reward them well if they make the gala a success? Can the characters shine at a party of efreet and dao? Do they know which fork to use, especially when one of them is on fire? What happens when Azhalar’s salamander general challenges a party member to a duel?
-
 * When the players meet Phlain, and anytime thereafter if they refuse initially, he tries to convince them to help with his plan. Bystan can also plead for their help.
-
-### Synopsis
-
 - The characters wander the party at their leisure, using their time to schmooze the attendees and convincing them to support Phlain as Sultan. Some activities will give them bonuses to their rolls when trying to chat someone up.
 - Once enough people have been convinced to tip the scales, Phlain challenges the existing Sultan to a duel, as is tradition. The party will fight for him in battle, and success will mean that Phlain takes the throne.
 
 ### Characters and Locations
 
-- 
+- [[Eyre (Fernia)]]
 
-### Scene 1: The Party
+### Scenes and Situations
+
+#### The Party
 
 Each person at the party will need to support Phlain in his challenge against the sultan, but none do initially. The party will need to convince each with a DC 20 Persuasion check that can be modified with various bonuses obtained by doing activities during the party (see below, any bonuses stack). They will need to do a favor for each party goer before they’ll even be able to convince them. The party goers (the same NPCs from around the plane) and what they know are below:
 
@@ -74,7 +72,7 @@ For every two snacks that are successfully eaten without failing a check (don't 
 | 6   | Fire-roasted vegetables that disappear into a puff of smoke when bitten                            |
 ^party-snacks
 
-### Scene 2: The Challenge
+#### The Challenge
 
 After the other party goers are convinced, the party will want to report their success back to Phlain. At that point he’ll ask them to convince the current sultan, Azhalar, to take his challenge. This requires a DC 30 Persuasion check, so will almost certainly require several bonuses, but the players also gain a +1 bonus for every party goer who has been convinced already (a total of +6, which is basically advantage).
 
@@ -82,6 +80,8 @@ If the party succeeds on the check, then the sultan is convinced and takes on Ph
 
 `encounter: 1: Dao`
 
-### Conclusion
+#### Conclusion
 
 If the party defeats the dao, then Azhalar is seen skulking silently away from the party (DC 15 Perception) as the excitement from the battle is wearing off (so no one else notices). If Phlain offered a reward (which should be no less than 100 gp and no more than 1000 gp) then he hands it over to the group, and also clips a [[Necklace of Fireballs]] around one of the players' neck. He then departs for the Palace.
+
+### References
