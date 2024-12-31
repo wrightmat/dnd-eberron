@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
@@ -56,3 +56,4 @@ When the party reports back to Knight Commander Defender or Keeper Jaela, Onme i
 
 [[1-04  Cathedral of the Silver Flame]]
 
+### References

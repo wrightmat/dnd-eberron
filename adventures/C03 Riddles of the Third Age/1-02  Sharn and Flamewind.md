@@ -1,4 +1,4 @@
- #adventure [[Sharn]]
+ #adventure 
 
 ### Background and Hook(s)
 
@@ -10,6 +10,7 @@
 * **[[Flamewind]]**
 
 * **[[Menthis Plateau#Morgrave University (Upper Menthis)|Morgrave University]]**
+* [[Sharn]]
 
 ### Scenes and Situations
 

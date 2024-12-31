@@ -1,10 +1,9 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
-After the sudden death of M. Raclette aboard the Orien express, the adventurers have a limited amount of time to learn who the murderer was and ensure they are brought to justice by the time the train pulls into the station. Each passenger (suspect) will go about their day until the end of the trip. The culprit will be one among them.
-
-The goal is to discover who murdered M. Raclette before the train arrives at Sharn. The actual murderer is Dabriel the fallen angel, who hopes not to be found guilty for the murder on the Orien Express.
+- After the sudden death of M. Raclette aboard the Orien express, the adventurers have a limited amount of time to learn who the murderer was and ensure they are brought to justice by the time the train pulls into the station. Each passenger (suspect) will go about their day until the end of the trip. The culprit will be one among them.
+- The goal is to discover who murdered M. Raclette before the train arrives at Sharn. The actual murderer is Dabriel the fallen angel, who hopes not to be found guilty for the murder on the Orien Express.
 
 ### Characters and Locations
 

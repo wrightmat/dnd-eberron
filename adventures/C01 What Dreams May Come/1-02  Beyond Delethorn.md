@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 ### **Background and Hook(s)**
 
@@ -9,9 +9,9 @@
 
 ### Characters and Locations
 
-- **Rhak Mohani**. 
-- **Taog Ennisi**. 
-- **Saneri**. 
+- **Rhak Mohani**
+- **Taog Ennisi**
+- **Saneri**
 
 - **[[Delethorn]]**
 - **[[Niern]]**
@@ -75,3 +75,5 @@ Alternatively, the party could go all the way to Zilargo, with the main House Si
 | 4   | Carrion Crawler (CR 2)        |
 | 5   | 1d4 Shadow (CR 1/2)           |
 | 6   | No encounter                  |
+
+### References

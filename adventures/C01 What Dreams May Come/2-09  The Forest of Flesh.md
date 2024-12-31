@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
@@ -29,7 +29,7 @@ Due to the strange nature of the region, PCs can use either Survival or Nature f
 >
 >**Level 4**: The target must make a saving throw at the end of each turn. If the target fails, on its next turn it makes a melee attack against a random creature within 25 feet of it, charging if the target has to do so. If no creatures are within 25 feet, the target does nothing but move in a randomly chosen direction. At this point, the target has completely lost touch with reality and is living in a world of waking nightmares.
 
-### Random Encounters
+### Random Tables
 
 The entire area is considered dangerous, so encounters occur on a 12 or greater (1d20 + hours of time in the forest), rolling every hour that’s spent here. The forest is 10 miles across, resulting in 3 rolls (if no Nature checks are failed) while on foot.
 
@@ -47,3 +47,5 @@ The entire area is considered dangerous, so encounters occur on a 12 or greater 
 | 10  | 1 Troll                                                                                                                                                    |
 | 11  | 1 Hydra                                                                                                                                                    |
 | 12  | 1 Skinweaver Head + 1d4 Skinweaver Hands                                                                                                                   |
+
+### References

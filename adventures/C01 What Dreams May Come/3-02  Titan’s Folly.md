@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 

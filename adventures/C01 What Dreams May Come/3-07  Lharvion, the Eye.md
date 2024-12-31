@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 > There are masses of swirling colors, hues never seen on Eberron. There are ripples in space that disrupt time in their wake. There are bursts of powerful emotion that drift across the plane. These may well be alive in some way — but there’s no way to communicate with them. An endlessly expansive maze covers the entire area of the moon you can see as you descend, but a clear landing spot can be seen.
 

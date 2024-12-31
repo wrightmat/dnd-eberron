@@ -4,12 +4,6 @@
 
 - This tells the story of an assault on a large population center, known as the City of Knives, defended by high walls and panicked guards from the Legion of Freedom. The adventurers find themselves within the walls of a metropolis that has been entirely surrounded by invading forces from the Legion of Tyranny which wants to not only capture the place, but slaughter the people within. There will be no mercy, and no respite, as the Legion of Tyranny send wave after wave of fighters against your party and the Legion of Cruelty is found attacking from within.
 
-### Synopsis
-
-- The players are presenting several scenarios as the siege progresses, each of which effects the balance of power for the area between the four legions. Success or failure for each will change the Legion Standing for the City of Knives as described in the sections below.
-- To start, the party is led to believe that the Legion of Freedom holds the city, as they're the ones protecting it from the Legion of Tyranny in the first few scenarios. But they soon discover that the Legion of Cruelty has the upper hand and is controlling things from within.
-- The Legion Standing of each legion may trigger certain Scenes to happen, or they can be started at DM discretion in a narratively satisfying way.
-
 ### Characters and Locations
 
 - [[Vult (Shavarath)]]
@@ -226,6 +220,12 @@ Being defeated by the Commander will result in a sore loss for the party and the
 #### Conclusion
 
 The Legion Standing of the City of Knives should be tracked after each Scene in order to determine the balance of power in the city. At the end, the Legion holding the city will be the one with the largest Legion Standing.
+
+### DM Notes
+
+- The players are presenting several scenarios as the siege progresses, each of which effects the balance of power for the area between the four legions. Success or failure for each will change the Legion Standing for the City of Knives as described in the sections below.
+- To start, the party is led to believe that the Legion of Freedom holds the city, as they're the ones protecting it from the Legion of Tyranny in the first few scenarios. But they soon discover that the Legion of Cruelty has the upper hand and is controlling things from within.
+- The Legion Standing of each legion may trigger certain Scenes to happen, or they can be started at DM discretion in a narratively satisfying way.
 
 ### References
 

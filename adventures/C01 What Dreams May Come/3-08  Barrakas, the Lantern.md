@@ -4,15 +4,13 @@
 
 ### Background and Hook(s)
 
-In his Planar Codex, Dorius Alyre ir’Korran calls Irian the Plane of Light, and indeed, its light is so prevalent that there’s no full darkness within Irian. But it’s also the plane of life, the source of positive energy, the force that sustains life and underlies most healing magic.
-
-**Inhabitants of the plane include:**
-
-* Embers: manifestations, not living creatures, linked to a spark — a tiny echo of a soul, each one tied to a living creature.
-* Lumi: sentient creatures, each with a unique identity gathered from multiple embers, though their sparks give them fragments of many mortal lives.
-* Angels: primarily devas (embodying the general principles of hope and compassion), but also planetars and a few solars (one for each Architect). All have wings of light, which they can conceal if they wish.
-* Ki-rin: either stag-like (covered in golden or velvety blue fur or golden scales instead of fur) or dragon-like (with golden scales) bodies, with thick manes of golden hair, and the appearance of being ablaze in magical light when in flight.
-* Xag-ya (Positive Energon): formed packets of pure positive light that reach out with whiplike tendrils of energy.
+- In his Planar Codex, Dorius Alyre ir’Korran calls Irian the Plane of Light, and indeed, its light is so prevalent that there’s no full darkness within Irian. But it’s also the plane of life, the source of positive energy, the force that sustains life and underlies most healing magic.
+- **Inhabitants of the plane include:**
+	* Embers: manifestations, not living creatures, linked to a spark — a tiny echo of a soul, each one tied to a living creature.
+	* Lumi: sentient creatures, each with a unique identity gathered from multiple embers, though their sparks give them fragments of many mortal lives.
+	* Angels: primarily devas (embodying the general principles of hope and compassion), but also planetars and a few solars (one for each Architect). All have wings of light, which they can conceal if they wish.
+	* Ki-rin: either stag-like (covered in golden or velvety blue fur or golden scales instead of fur) or dragon-like (with golden scales) bodies, with thick manes of golden hair, and the appearance of being ablaze in magical light when in flight.
+	* Xag-ya (Positive Energon): formed packets of pure positive light that reach out with whiplike tendrils of energy.
 
 ### Characters and Locations
 

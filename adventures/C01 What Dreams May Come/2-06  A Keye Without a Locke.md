@@ -1,10 +1,9 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
 - Cecilia McNab, a Brelish woman and Sharn native, is a magewright in Lower Dura. Her shop is established in the Callestan district a few blocks down from Mirth, a club run by the Boromar Clan. Mirth is a quiet club with access to gambling, a fence, and unique booze from across Eberron. Cecilia is a regular at Mirth because of her penchant for a game called Treason in Galifar, a Boromar variant of Liar’s Dice. After a rough run of luck, Cecilia regrettably bet an engagement ring she was going to propose with and lost.
 - Cecilia is courting a warforged thief named Keye, who has a brother named Locke. Locke and Keye are talented thieves around Lower Sharn and are sought after by major criminal organizations. After Cecilia lost the engagement ring, she went to Locke for advice. He offered to retrieve the ring from the club on her behalf so that Keye would never have to find out. However, Locke never came back after sneaking into Mirth. The Boromar Clan, the criminal organization who owns Mirth, sent a ransom note to Keye. They demanded she come work for them along with her brother, Locke, and the message contained a piece of metal plating from her brother.
-
 - **Hook: Ransom**. The Boromar Clan has been headhunting Locke and Keye for months, trying to recruit them as contracted thieves. The warforged duo has no intention of working with one of the large criminal organizations, so they’ve always declined. The Boromar Clan is threatening Keye to join them or else they’ll kill Locke. The ransom note contained a chunk of metal from Locke’s plating. Cecilia convinced Keye to bring in outside help to save Locke rather than endanger themselves any further.
 
 > Keye,
@@ -180,3 +179,5 @@ A heist has an infinite number of paths, so it’s impossible to account for eve
 - **Locke is Rescued**. Locke returns to his sister, Keye, who is absolutely ecstatic. She offers to pay the adventurers 100 gp and tells them her espionage services are free of charge.
 - **Locke Dies**. The death of Locke ultimately means that the mission was failed. Keye falls into despair and retires from her career as a thief.
 - **Found Engagement Ring**. Cecilia offers the characters 25 gp for returning the engagement ring. If Locke survived, she proposes to Keye on the spot. Otherwise, she tucks away the ring out of sight.
+
+### References

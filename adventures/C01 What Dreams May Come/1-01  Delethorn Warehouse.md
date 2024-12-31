@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 ### **Background and Hook(s)**
 
@@ -11,8 +11,8 @@
 ### Characters and Locations
 
 * **Gelel Embertree**. Mayor of Delethorn.
-* **Ditan Indaze**.
-* **Boraz d'Tharashk**. 
+* **Ditan Indaze**
+* **Boraz d'Tharashk**
 
 * **[[Delethorn]]**
 

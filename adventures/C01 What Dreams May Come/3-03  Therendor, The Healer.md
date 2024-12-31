@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 > Your ship flies through an endless expanse of perfect blue skies, stretching off into the horizon. There’s no sign of the sun, but the sky is clear and bright, and floating crystal towers gleam as if caught in a sunbeam. A warm, gentle breeze brushes over you, and there’s a faint sound of distant chimes. You feel absolutely calm; in this moment, all anger melts away.
 > Large floating towers dot the skyline, with winged creatures clearly seen flying between them. But the distant cities are much less interesting than what’s right below you - the largest market you’ve ever seen in your life. As your ship slowly descents to land on a designated cloud, you see a golden pedestal is the only prominent feature in the immediate area.
@@ -8,13 +8,6 @@
 - The golden pedestal has on top of it a nine-cornered gold coin which is blank on both sides. Engravings on the pedestal, written in Celestial, clearly instruct visitors to flip the coin, and given the “Universal Understanding” principle of the plane, all players know they can somehow read it. If they flip it, then have them roll a straight d20 (luck roll), with the result determining how the coin lands, along with the symbol on and power of the coin.
 
 `dice: [[3. Therendor, The Healer#^syrania-golden-pedestal]]`
-
-| dice: 1d20 | Landing Face and Symbol          | Power                                                                                                                                                  |
-| ---------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1, 20      | Lands on its side, remains blank (Onatar) | Players have advantage on Persuasion checks against haggling in the Forge District of the Immeasurable Market, and disadvantage in other districts |
-| 2-10       | Heads, Gold Octogram (Kol Korran)   | Players have advantage on Persuasion checks against haggling in the Commerce District of the Immeasurable Market, and disadvantage in other districts  |
-| 11-19      | Tails, Purple Dagger (The Keeper)   | Players have advantage on Persuasion checks against haggling in the Invention District of the Immeasurable Market, and disadvantage in other district      |
-^syrania-golden-pedestal
 
 ### Characters and Locations
 
@@ -138,6 +131,15 @@ If the players make it to the mountain at the end of the board, the game ends an
 ##### Church of Akadi
 
 The teachings of the Church of Akadi stress finding one's own enlightenment. The faithful are encouraged to explore their interests as well as the world to pursue their dreams. The church is confident that any resistance to their doctrines will be eroded over time. It is considered a grave crime to fetter or otherwise imprison one faithful to Akadi.
+
+### Random Tables
+
+| dice: 1d20 | Landing Face and Symbol          | Power                                                                                                                                                  |
+| ---------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1, 20      | Lands on its side, remains blank (Onatar) | Players have advantage on Persuasion checks against haggling in the Forge District of the Immeasurable Market, and disadvantage in other districts |
+| 2-10       | Heads, Gold Octogram (Kol Korran)   | Players have advantage on Persuasion checks against haggling in the Commerce District of the Immeasurable Market, and disadvantage in other districts  |
+| 11-19      | Tails, Purple Dagger (The Keeper)   | Players have advantage on Persuasion checks against haggling in the Invention District of the Immeasurable Market, and disadvantage in other district      |
+^syrania-golden-pedestal
 
 ### References
 

@@ -1,4 +1,4 @@
- #adventure [[Thrane]]
+ #adventure 
 
 ### Background and Hook(s)
 
@@ -12,6 +12,7 @@
 
 * **Athandra**
 * **Lair of the Mysterious Guardian**
+* [[Thrane]]
 
 ### Scenes and Situations
 

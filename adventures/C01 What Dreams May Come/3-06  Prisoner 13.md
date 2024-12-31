@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
@@ -11,11 +11,6 @@
 - The Soldorak dwarves discovered her almost immediately. They rounded up her agents, who either fought to the death or were executed. They captured Korda and interrogated her, but she never revealed the location of the stolen fortune, even under magical compulsion. The Soldorak dwarves used their influence to have her sentenced to life in prison at Dreadhold. There, Clan Soldorak was hopeful Korda would eventually break and reveal the location of the stolen wealth. This played right into Korda’s hands, since she had made copious enemies who can’t move against her while she’s incarcerated.
 - Korda, now known as Prisoner 13, prepared for her imprisonment by laying the groundwork for a new spy and criminal network, which cost her much of her stolen fortune. She now runs her operations from the prison. Using her magical tattoos, she telepathically coordinates agents throughout the Mror Holds and beyond, none of whom know the identity of their employer. As for what remains of the stolen Soldorak wealth, it rests in an unmarked vault in the depths of Soldorakhold, sealed by a magical lock that only the runic sequence tattooed on Korda’s right hand can open.
 - When the players enter the Inescapable Prison, they are met by a monodrone, who explains Onatar's plight and implores them to seek out his Hammer and Tongs and return them. They have been in communication with a representative from the dwarven Clan Soldorak who have found the vault that they believe houses the Hammer and Tongs of Onatar, but aren't able to access it.
-
-- The players meet with an agent of Onatar in the Inescapable Prison, who implores them to help recover an artifact known as the Hanmer and Tongs of Onatar. He has been working with a dwarven clan who are attempting to recover their own treasure, and will help the players get in to the most secure prison in Eberron - Dreadhold.
-- The players will need to seek out Prisoner 13, who holds the key to a treasure vault under Soldorakhold. In order to get the information they need, they'll need to sneak in or enter under cover and maintain their cover throughout their time there to avoid suspicion.
-- Once they find her, they'll discover that the key is actually one of her many tattoos. They will need to copy or mimic it in some way, or kill Korda and get her body (or at least arm) out of the prison.
-- When the job is complete, the players can signal for extraction, and be picked up by a ship and returned to Soldorakhold. They receive a cut of the treasure and the artifact they've been searching for.
 
 ### Characters and Locations
 
@@ -373,6 +368,13 @@ When the characters successfully deliver the key (Prisoner 13’s keystone tatto
 * 12 (18) bloodstones worth 50 gp each
 
 The characters also retrieve the Hammer and Tongs of Onatar, which is given to them by Varrin to return to the agent in Daanvi.
+
+### DM Notes
+
+- The players meet with an agent of Onatar in the Inescapable Prison, who implores them to help recover an artifact known as the Hanmer and Tongs of Onatar. He has been working with a dwarven clan who are attempting to recover their own treasure, and will help the players get in to the most secure prison in Eberron - Dreadhold.
+- The players will need to seek out Prisoner 13, who holds the key to a treasure vault under Soldorakhold. In order to get the information they need, they'll need to sneak in or enter under cover and maintain their cover throughout their time there to avoid suspicion.
+- Once they find her, they'll discover that the key is actually one of her many tattoos. They will need to copy or mimic it in some way, or kill Korda and get her body (or at least arm) out of the prison.
+- When the job is complete, the players can signal for extraction, and be picked up by a ship and returned to Soldorakhold. They receive a cut of the treasure and the artifact they've been searching for.
 
 ### References
 

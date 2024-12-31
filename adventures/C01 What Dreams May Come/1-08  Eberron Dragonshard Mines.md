@@ -1,8 +1,8 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
-The Seven Caves are carved into the base of Pargon’s Peak in the Seawell Mountain range south of New Cyre, around a narrow waterfall. A warforged named Echo has claimed these previously abandoned caves in order to mine Eberron dragonshards to be processed into residuum, the powdered form used as spell components, to send off to Karrnath. He is utilizing essentially slave labor from folks he kidnapped from New Cyre, and they’re being supervised by other warforged. Any time they encounter a supervisor warforged, without being sneaky, they’ll need to come up with a reason they’re there (or attack, I guess - use a Warforged Soldier stat block).
+- The Seven Caves are carved into the base of Pargon’s Peak in the Seawell Mountain range south of New Cyre, around a narrow waterfall. A warforged named Echo has claimed these previously abandoned caves in order to mine Eberron dragonshards to be processed into residuum, the powdered form used as spell components, to send off to Karrnath. He is utilizing essentially slave labor from folks he kidnapped from New Cyre, and they’re being supervised by other warforged. Any time they encounter a supervisor warforged, without being sneaky, they’ll need to come up with a reason they’re there (or attack, I guess - use a Warforged Soldier stat block).
 
 ### Characters and Locations
 

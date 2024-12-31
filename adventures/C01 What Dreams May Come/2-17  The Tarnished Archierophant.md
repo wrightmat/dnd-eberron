@@ -1,10 +1,9 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
 - The Archierophant, Ythana Morr of the Cathedral of the Cleansing Flame, is the leader of the Church of the Silver Flame in Breland. This arm of the church considers itself separate from the church in Thrane, and in fact they have a bit of a rivalry. At the same time, Ythana is secretly working with the rakshasa Zathara and Bel Shalor, the Shadow in the Flame.
 - The Tarnished Templar that the party encountered in Flamekeep was working for Ythana long before she started helping out Arrendorn. The Archierophant employs a few other Tarnished Templars that spend most of their time in Sharn’s underworld or outside of Sharn rather than in the Cathedral itself. If they do need to come to the Cathedral, they trade their crimson armor for silver armor so as not to be suspected.
-
 - **Hook: Another Tarnished Templar.** If the party returns to the Cathedral of the Cleansing Flame, the Archierophant is accompanied by a Templar now, whereas before she was alone. The Templar does not speak, and Ythana speaks on her behalf, explaining that she’s come to the Cathedral to rest before returning to her pilgrimage. Any investigation of the Cathedral (DC 12 Investigation) will reveal a set of crimson armor, seemingly in the Templar’s size, stowed away in a small side bedroom.
 
 ### Characters and Locations
@@ -102,7 +101,7 @@ Zathara works for Durastoran the Wyrmbreaker, Bel Shalor’s *prakhutu* (chosen 
 
 It should be made clear that approaching the Demon Wastes or attempting to take on the Lords of Dust would be suicide, but the information about Zathara’s boss should be given, so as to expand the lore of the world and give a next step to the quest to clear corruption from the church. Bel Shalor embodies the concept of corruption in the Church of the Silver Flame.
 
-### Random Encounters
+### Random Tables
 
 Encounters occur on any 6 rolled on a d6 in the “threat pool”.
 
@@ -116,3 +115,4 @@ Encounters occur on any 6 rolled on a d6 in the “threat pool”.
 | 6   | 1 Black Pudding                                    |
 | 7   | 1 Allip                                            |
 | 8   | Nethatar, the Zakya Rakshasa (Zethara’s assistant) |
+### References

@@ -1,37 +1,13 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
-The ruined Shardjammer will be found in The Mourning, in an area that used to be known as Making, surrounded by ruins that used to be a House Cannith lab. A warforged who used to work for House Cannith, named Enchanter, has taken up shelter here, and can give the party details of how Project Siberys led to The Mourning.
-
-But in order to get there, the party will need to explore The Mourning, via a good old fashioned hex crawl! The sections that follow contain information that will help run this part of the adventure smoothly. For each day that the party travels through the wilderness, follow these steps:
-
-- Using the map, identify the hex in which the party is currently located. Don't share this information with the players if the party is lost; otherwise, show the players the party's location by pointing to the appropriate hex on their map.
-- Let the players determine what direction the party wants to go, and whether the party plans to move at a normal pace, a fast pace, or a slow pace (see "Travel Distances" below).
-- Let the players choose a navigator, who makes a Wisdom (Survival) check to determine if the party becomes lost (see "Navigation" below).
-- Check for random encounters at each hex (see “Encounters and Points of Interest” below).
-
-**Travel Distances**
-
-On the map of The Mourning, each hex measures 12 miles across. Characters moving at a normal pace can travel 2 hexes per day on foot (or four hexes on horseback).
-
-If characters move at a fast pace, the easiest way to deal with their progress is to roll a d4. On a roll of 3 or 4, they advance 1 additional hex that day. Characters moving at a fast pace take a -5 penalty to their passive Wisdom (Perception) scores, making them more likely to miss clues and walk into ambushes.
-
-If characters set a slow pace, roll a d4. On a roll of 1 or 2, they advance 1 fewer hex that day. On any other result, their caution is rewarded, and they travel the same distance as a group moving at a normal pace. Characters moving at a slow pace can move stealthily. As long as they're not in the open, they can try to surprise or sneak by other creatures they encounter.
-
-**Navigation**
-
-Have the players designate one party member as the navigator. The navigator might be an NPC, such as a guide, and the party can switch its navigator day to day.
-
-At the start of each new travel day, the navigator makes a Wisdom (Survival) check. The result of the check determines whether or not the party becomes lost over the course of the day. The DC of the check is based on the day's most common terrain: DC 14 (+4 for Mournland travel, per Five Nations) for wastes, hills, wetlands/lakes, and glass plateau, or DC 19 for mists, mountains, or glowing chasm. Apply a +5 bonus to the check if the group sets a slow pace for the day, or a -5 penalty if the group is moving at a fast pace.
-
-If the check succeeds, the navigator knows exactly where the party is on the players' map throughout the day. If the check fails, the party becomes lost. Each hex on the map is surrounded by six other hexes; whenever a lost party moves one hex, roll a d6 to randomly determine which neighboring hex the party enters (1 is north, and counts up clockwise around the hex), and do not divulge the party's location to the players. While the party is lost, players can't pinpoint the group's location on their map. The next time a navigator succeeds on a Wisdom (Survival) check made to navigate, reveal the party's actual location to the players.
-
-**Encounters and Points of Interest**
-
-Certain numbered points of interest exist on the map. Upon reaching one of those hexes, read the appropriate text below and follow any special instructions in that section (without rolling, it just always happens).
-
-Upon each entry to any new hex that isn’t a POI as described above, roll a d20. On 18 - 20, a random encounter occurs based on the terrain type - roll on the appropriate random encounter table. On a 1, in any location except for the Dead-Grey Mists, an encounter with Ikar’s Salvage occurs (see end of encounters list) - or this can be replaced by an encounter with the Lord of Blades (after he’s learned about in the Warforged Enclave, Warforged Wanderers, or Lord of Blades Enclave encounters) if you prefer.
+- The ruined Shardjammer will be found in The Mourning, in an area that used to be known as Making, surrounded by ruins that used to be a House Cannith lab. A warforged who used to work for House Cannith, named Enchanter, has taken up shelter here, and can give the party details of how Project Siberys led to The Mourning.
+- But in order to get there, the party will need to explore The Mourning, via a good old fashioned hex crawl! The sections that follow contain information that will help run this part of the adventure smoothly. For each day that the party travels through the wilderness, follow these steps:
+	- Using the map, identify the hex in which the party is currently located. Don't share this information with the players if the party is lost; otherwise, show the players the party's location by pointing to the appropriate hex on their map.
+	- Let the players determine what direction the party wants to go, and whether the party plans to move at a normal pace, a fast pace, or a slow pace (see "Travel Distances" below).
+	- Let the players choose a navigator, who makes a Wisdom (Survival) check to determine if the party becomes lost (see "Navigation" below).
+	- Check for random encounters at each hex (see “Encounters and Points of Interest” below).
 
 ### Characters and Locations
 
@@ -305,6 +281,25 @@ Some tales assert that the Lord of Blades led the warforged armies of Cyre in th
 | 9    | 1d4 Living Lightning Bolt |
 | 10   | 1d4 Glasswork Golem       |
 ^mournland-glass-plateau-encounter
+
+### DM Notes
+
+###### Travel Distances
+
+- On the map of The Mourning, each hex measures 12 miles across. Characters moving at a normal pace can travel 2 hexes per day on foot (or four hexes on horseback).
+- If characters move at a fast pace, the easiest way to deal with their progress is to roll a d4. On a roll of 3 or 4, they advance 1 additional hex that day. Characters moving at a fast pace take a -5 penalty to their passive Wisdom (Perception) scores, making them more likely to miss clues and walk into ambushes.
+- If characters set a slow pace, roll a d4. On a roll of 1 or 2, they advance 1 fewer hex that day. On any other result, their caution is rewarded, and they travel the same distance as a group moving at a normal pace. Characters moving at a slow pace can move stealthily. As long as they're not in the open, they can try to surprise or sneak by other creatures they encounter.
+
+###### Navigation
+
+- Have the players designate one party member as the navigator. The navigator might be an NPC, such as a guide, and the party can switch its navigator day to day.
+- At the start of each new travel day, the navigator makes a Wisdom (Survival) check. The result of the check determines whether or not the party becomes lost over the course of the day. The DC of the check is based on the day's most common terrain: DC 14 (+4 for Mournland travel, per Five Nations) for wastes, hills, wetlands/lakes, and glass plateau, or DC 19 for mists, mountains, or glowing chasm. Apply a +5 bonus to the check if the group sets a slow pace for the day, or a -5 penalty if the group is moving at a fast pace.
+- If the check succeeds, the navigator knows exactly where the party is on the players' map throughout the day. If the check fails, the party becomes lost. Each hex on the map is surrounded by six other hexes; whenever a lost party moves one hex, roll a d6 to randomly determine which neighboring hex the party enters (1 is north, and counts up clockwise around the hex), and do not divulge the party's location to the players. While the party is lost, players can't pinpoint the group's location on their map. The next time a navigator succeeds on a Wisdom (Survival) check made to navigate, reveal the party's actual location to the players.
+
+###### Encounters and Points of Interest
+
+- Certain numbered points of interest exist on the map. Upon reaching one of those hexes, read the appropriate text below and follow any special instructions in that section (without rolling, it just always happens).
+- Upon each entry to any new hex that isn’t a POI as described above, roll a d20. On 18 - 20, a random encounter occurs based on the terrain type - roll on the appropriate random encounter table. On a 1, in any location except for the Dead-Grey Mists, an encounter with Ikar’s Salvage occurs (see end of encounters list) - or this can be replaced by an encounter with the Lord of Blades (after he’s learned about in the Warforged Enclave, Warforged Wanderers, or Lord of Blades Enclave encounters) if you prefer.
 
 ### References
 

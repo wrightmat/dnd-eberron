@@ -1,8 +1,8 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
-The front door of the shop is locked, and there’s no answer if knocked or called. The lock will need to be picked (DC 12) or the door knocked down (DC 15 Strength) to get inside.
+- The front door of the shop is locked, and there’s no answer if knocked or called. The lock will need to be picked (DC 12) or the door knocked down (DC 15 Strength) to get inside.
 
 ### Characters and Locations
 
@@ -138,3 +138,5 @@ If things start going badly (<35 HP), Arend casts *time stop* and then as many s
 Arend carries a Potion of Superior Healing (8d4+8 HP), Potion of Fire Breath, Potion of Gaseous Form, and Potion of Invulnerability (resistance to all damage types). If things go really badly (<20 HP), he drinks the Potion of Superior Healing first, and then the Potion of Invulnerability on his next turn.
 
 After the fight, a DC 12 Investigation check of the room will reveal an *alchemy jug* on one of the tables. Arend himself is wearing *Boots of the Winterlands*, which would be discovered with a DC 12 Investigation check of the body. Any unused potions he was carrying are also found on the body.
+
+### References

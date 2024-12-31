@@ -1,12 +1,9 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
-### **Synopsis**
-
-This adventure takes place in Sharn, the City of Towers. It begins, as many incidents do, with a corpse. A warforged assassin, a mysterious blank book, and an offer from a House Cannith heir leads the adventurers into the depths of Sharn— eventually to an ancient ruin dating back to before the creation of the Kingdom of Galifar.
-
-Along the way, if the adventurers are successful, they recover a lost schema— a part of a pattern used by artificers to craft magic items. They also learn that many different agencies are interested in this relic, including those loyal to the various House Cannith elders and agents of the infamous Lord of Blades.
+- This adventure takes place in Sharn, the City of Towers. It begins, as many incidents do, with a corpse. A warforged assassin, a mysterious blank book, and an offer from a House Cannith heir leads the adventurers into the depths of Sharn— eventually to an ancient ruin dating back to before the creation of the Kingdom of Galifar.
+- Along the way, if the adventurers are successful, they recover a lost schema— a part of a pattern used by artificers to craft magic items. They also learn that many different agencies are interested in this relic, including those loyal to the various House Cannith elders and agents of the infamous Lord of Blades.
 
 ### Characters and Locations
 
@@ -257,3 +254,5 @@ If Saber escapes with the schema, the PCs have failed Lady Elaydren and don’t 
 > “You have my thanks,” Elaydren tells them, “and the thanks of my house. Periodically, check in with the House Sivis message station at the Barmin Tower. I may leave a message for you if more work becomes available.” Then she and her bodyguard depart.
 
 Now the PCs can spend their reward. But what is the schema? What does it mean to the plans of Baron Merrix and the Lord of Blades? What other secrets might hide in Bonal’s journal? As DM, you can use these plot hooks to develop future adventures, or you can turn to published adventures such as Shadows of the Last War to see how these plots develop.
+
+### References

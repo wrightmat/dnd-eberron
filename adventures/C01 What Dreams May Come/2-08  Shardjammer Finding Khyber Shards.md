@@ -1,6 +1,4 @@
- #adventure #completed 
-
-### Background and Hook(s)
+ #adventure 
 
 > When madness and night align
 > And innocent blood waters the dark tree
@@ -8,10 +6,11 @@
 > And bear this burden for the good of all.
 > —From the Talash Siberys
 
+### Background and Hook(s)
+
 - Thousands of years ago, the fearsome daelkyr came to Eberron from the Far Realm of Xoriat. After a long and bitter struggle, an order of druids known as the Gatekeepers used ancient primal magic to bind the lords of madness in the depths of Khyber, the underworld of Eberron. However, the influence of the daelkyr can still be felt in the world today. Mind flayers, beholders, and lesser aberrant monsters continue to do the bidding of their malevolent daelkyr masters, and in those places where the borders between Xoriat and Eberron are weak, mortals embrace dark dreams and fall prey to the voice of madness.
 - Tucked into the wild frontier of the Shadow Marches, the village of Blackroot is located on a manifest zone—a nexus point between Eberron and the planes of Xoriat and Mabar, the Endless Night. One of the Cults of the Dragon Below has long flourished in this place, its members sworn to the service of Belashyrra, a daelkyr known as the Lord of Eyes. Partaking of Belashyrra’s foul gifts, those who serve him become something less than human.
 - The PCs come to Blackroot at a critical time — a rare alignment with both Mabar and Xoriat. When the powers of night and madness are at their height, a gate opens allowing the cultists to descend into the underworld of Khyber. They call this the Harvest—a time when innocent villagers are kidnapped and taken below, their souls bound to the cult and their bodies branded with the living eyes of Belashyrra. Can the PCs save these unfortunates before they become the newest servants of the Lord of Eyes?
-
 - **Hook: Madness and Night Align**. You still struggle to understand the nature of the Draconic Prophecy. Moons, planes, dragonmarks—for those with eyes to see, the Prophecy has the power to shape the future. Your patron (Professor Frederic of Arcanix) believes that a fragment of prophecy from the Talash Siberys— an ancient codex held by the dragons of Argonnessen— is about to come to pass. As such, he has tasked you with finding a relic known as the Coat of Eyes, sending you to the tiny village of Blackroot in the Shadow Marches. There, you are to speak with Doria Veledaar, a former resident of the village and House Tharashk inquisitive who claims to have information regarding the Coat.
 - This hook works best for PCs who have a connection to an academic or arcane institute, including Morgrave University, Arcanix, the Library of Korranberg, or the Twelve. Define the patron based on this connection, and read the excerpt from the Talash Siberys at the start of the adventure. The patron believes that Doria’s information relates to the imminent convergence of Mabar and Xoriat in the region of Blackroot, and he wants the PCs to investigate.
 
@@ -19,10 +18,8 @@
 - **History DC 8**: The Shadow Marches are not a recognized nation. Rather, the Marches are an independent territory whose established relationships with its neighbors and the outside world come largely from the presence of House Tharashk. The folk of the Shadow Marches have a reputation for xenophobia, and outsiders are rarely welcomed here.
 - **History DC 12**: Orcs make up more than half the population of the Marches, though humans, half-orcs, and other races also dwell here. The Shadow Marches are composed of two distinct cultures—the orc tribes that first settled these lands and the clans formed by later human migrants.
 
-The orc tribes are an insular society, though humans and half-orcs are sometimes accepted into an orc tribe if they can prove themselves. The tribes are territorial, and typically attack trespassers on sight. Thankfully, their territories
-in the central Marches see few visitors.
-Closer to the outer edges of the Marches, mixed clans of humans and half-orcs are more accepting of the outside
-world, mostly through their association with House Tharashk. The clans have more in common with the folk of “civilized” Khorvaire than do their kin in the orc tribes, and they demonstrate a greater level of trust toward outsiders.
+- The orc tribes are an insular society, though humans and half-orcs are sometimes accepted into an orc tribe if they can prove themselves. The tribes are territorial, and typically attack trespassers on sight. Thankfully, their territories in the central Marches see few visitors.
+- Closer to the outer edges of the Marches, mixed clans of humans and half-orcs are more accepting of the outside world, mostly through their association with House Tharashk. The clans have more in common with the folk of “civilized” Khorvaire than do their kin in the orc tribes, and they demonstrate a greater level of trust toward outsiders.
 
 ### Characters and Locations
 

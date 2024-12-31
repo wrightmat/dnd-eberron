@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 > A sea of liquid shadows laps against black sands and basalt cliffs. A skull lies half-buried in the sand, empty sockets gazing into the roiling mist. The bone isn’t sun-bleached, for there is no sun here; only a faint glimmer from Wildspace above. A great drifting citadel floats above a large city in decline, a kingdom of bones, and an expansive desert of black sand. On the horizon, beyond a great dark forest, what appears to be pieces of other planes are being absorbed into the unending darkness.
 

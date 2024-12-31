@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
@@ -10,13 +10,6 @@
 	- A series of earthquakes have been causing damage to a prospector's camp just outside Stormreach. He suspects a beast lurks in the jungles, and asks our heroes to make hunters of themselves.
 	- Four nights ago, a great red beacon lit the skies south of Stormreach. What power might it signal? What wealth?
 	- A small chest recently came up at auction. It belonged to an explorer from about one hundred years ago. Contained are the notes, journals, and maps of an expedition. After heavy losses they were forced to turn back to civilization. They intended to return but the Last War broke out and all the expedition members died in the war. This chest was passed down one explorer's family, but the granddaughter is more interested in a quick payday and auctioned it off rather than go risk her life in a jungle
-
-### **Synopsis**
-
-- Xen’drik is a good sized dock city with a variety of services. If they players ask around, implant one or two of the above adventure hooks. If they don’t, then use the Circle of Visions to show them an image a colossal construct marching toward the city.
-- The players are able to explore an old ruin (ziggurat, obelisk, forum, and waterfall) before being attacked by two titanic dinosaurs. After they’re defeated, the ruins awaken and raise from the ground, beginning a march toward Stormreach.
-- The players will need to get inside the colossus in order to stop it, first by grabbing a hand or foot, then by climbing an arm or leg, and finally by climbing the body (and avoiding some defenses) in order to find their way inside. All of this happens while the colossus is actively performing actions against the party.
-- Inside, hazards and automated repair drones threaten the party if they’re not careful. But eventually they will find their way to the Giant’s Chamber where they will need to kill the giant controlling the colossus in order to obtain the Siberys shard controlling it.
 
 ### Characters and Locations
 
@@ -210,7 +203,14 @@ The player characters are very likely to still be in the giant's control chamber
 
 When the debris settles, the players can take the opportunity to attempt to remove the Siberys dragonshard from the platform the Giant was standing on. This requires a DC 18 Tinker’s Tools check, or a DC 22 Dexterity or Strength check without tools, and takes an hour to complete.
 
-### Random Encounters
+### DM Notes
+
+- Xen’drik is a good sized dock city with a variety of services. If they players ask around, implant one or two of the above adventure hooks. If they don’t, then use the Circle of Visions to show them an image a colossal construct marching toward the city.
+- The players are able to explore an old ruin (ziggurat, obelisk, forum, and waterfall) before being attacked by two titanic dinosaurs. After they’re defeated, the ruins awaken and raise from the ground, beginning a march toward Stormreach.
+- The players will need to get inside the colossus in order to stop it, first by grabbing a hand or foot, then by climbing an arm or leg, and finally by climbing the body (and avoiding some defenses) in order to find their way inside. All of this happens while the colossus is actively performing actions against the party.
+- Inside, hazards and automated repair drones threaten the party if they’re not careful. But eventually they will find their way to the Giant’s Chamber where they will need to kill the giant controlling the colossus in order to obtain the Siberys shard controlling it.
+
+### Random Tables
 
 | d8  | Random Encouner                                                                                                                             |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -222,3 +222,5 @@ When the debris settles, the players can take the opportunity to attempt to remo
 | 6   | `encounter: 1d4: Pterafolk`                                                                                                                 |
 | 7   | `encounter: 1d4: Clawfoot`                                                                                                                  |
 | 8   | `encounter: 1d6: Mud Mephit`                                                                                                                |
+
+### References

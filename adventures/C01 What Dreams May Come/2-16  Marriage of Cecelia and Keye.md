@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
@@ -53,3 +53,5 @@ The priest turns and addresses the crowd.
 > As you present your offerings, I present to you the married couple!
 
 During the ceremony, the guests burn offerings in small ceramic vessels etched with the Celestial Crown (Octogram). Olladra accepts any valuables but looks more favorably on sacrifices of items acquired through luck, such as gambling winnings or “found money.”
+
+### References

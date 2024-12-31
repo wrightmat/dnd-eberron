@@ -1,19 +1,15 @@
- #adventure #completed [[Xen’drik]]
+ #adventure 
 
 ### Background and Hook(s)
 
 - During their invasion of Xen'drik, the quori set up bases to marshal their forces and conduct complex magical research. Few such outposts survived the war, but both the giants and House Cannith have uncovered and claimed the arcane secrets locked in such places in the long centuries since. Though rumors abound. few know that House Cannith’s discovery of such an outpost led to the creation of the modern warforged soldiers used in the last war. Fewer still suspect that the original design of the warforged did not originate with the giants, but with the quori.
 - **Hooks**. When the players emerge from the Colossus (see Finding a Siberys Shard adventure), and have removed the Siberys shard from the wreckage, they see a large ruin nearby that they haven’t seen on their way to the ziggurat. The marching of the colossus has lead them slightly off course to the remains of an ancient quori outpost.
 
-### Synopsis
-
-- A ruined outpost is found in the jungle, including a well of magical water, an inactive runic gateway, and a large spire reminiscent of the hanbalani alta.
-- Inside the spire is an original creation forge from the quori, but it’s long been destroyed. Several quorforged constructs and books outlining information from the time scatter the room as well.
-- The area is used to reveal additional information about the Age of Giants, the quori of the previous age, and their early constructs.
-
 ### Characters and Locations
 
 - [[Xen’drik]]
+
+### Scenes and Situations
 
 #### Quori Outpost
 
@@ -60,3 +56,11 @@
 #### Conclusion
 
 - The only intent of this area is to reveal the lore about the quorforged, and the fact that Prism is clearly the ancient version of the warforged and not actually one of the more modern ones created by Cannith. This area can also be used to give information about the ancient quori and the previous age, including how they’re vastly different from the current age.
+
+### DM Notes
+
+- A ruined outpost is found in the jungle, including a well of magical water, an inactive runic gateway, and a large spire reminiscent of the hanbalani alta.
+- Inside the spire is an original creation forge from the quori, but it’s long been destroyed. Several quorforged constructs and books outlining information from the time scatter the room as well.
+- The area is used to reveal additional information about the Age of Giants, the quori of the previous age, and their early constructs.
+
+### References

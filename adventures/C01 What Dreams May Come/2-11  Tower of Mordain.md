@@ -1,8 +1,8 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
-The Coat of Eyes, if listened to by the party, will lead them toward the center of the Forest of Flesh, where a large tower made out of the flesh of a black dragon can be found. This is where Mordain the Fleshweaver resides, who seeks the power of the Coat of Eyes.
+- The Coat of Eyes, if listened to by the party, will lead them toward the center of the Forest of Flesh, where a large tower made out of the flesh of a black dragon can be found. This is where Mordain the Fleshweaver resides, who seeks the power of the Coat of Eyes.
 
 ### Characters and Locations
 

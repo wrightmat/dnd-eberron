@@ -62,7 +62,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 ###### B1. Main Entrance
  - [ ]  
-- Enchanted marble steps lead up 5 feet to a small plaza at the Biblioplex's entrance. The double door’s vertical handles are each carved in the likeness of a robed scholar. During the day. the doors stand open. At night, the doors are closed, locked, and sealed with an arcane lock spell. A successful DC 25 Dexterity check using thieves’ tools opens the lock (DC 35 while the arcane lock is in effect). Only the Biblioplex’s reference librarians and certain faculty members know the arcane lock's password.
+- Enchanted marble steps lead up 5 feet to a small plaza at the Biblioplex's entrance. The double door’s vertical handles are each carved in the likeness of a robed scholar. During the day, the doors stand open. At night, the doors are closed, locked, and sealed with an *arcane lock* spell. A successful DC 25 Dexterity check using thieves’ tools opens the lock (DC 35 while the arcane lock is in effect). Only the Biblioplex’s reference librarians and certain faculty members know the *arcane lock*'s password.
 
 ###### B2. Biblioplex Lounge
  - [ ]  
@@ -78,7 +78,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 ###### B5. Student Store
  - [ ]  
-- This small shop is stocked with books, equipment, and gear useful as academic supplies. The store’s manager is Groff Lundquist, a friendly Strixhaven staff member known for his ability to fashionably mix and match items of university apparel. Students can buy hats, scarves, tunics, robes, gloves, and other apparel embroidered with the Strixhaven star or with the sigil of any of Strixhaven’s colleges. Costs range from 5 cp to 5 gp or more, at your discretion.
+- This small shop is stocked with books, equipment, and gear useful as academic supplies. The store’s manager is **Groff Lundquist**, a friendly Strixhaven staff member known for his ability to fashionably mix and match items of university apparel. Students can buy hats, scarves, tunics, robes, gloves, and other apparel embroidered with the Strixhaven star or with the sigil of any of Strixhaven’s colleges. Costs range from 5 cp to 5 gp or more, at your discretion.
 - Once a character chooses a college at the start of second year, they receive a set of college robes, a knit hat, a scarf, a tunic, and gloves free of charge. (This set normally costs 5 gp.)
 - In addition to nonmagical gear and clothing, the store also contains the magic items from the “Magic Items’’ section of chapter 2.
 
@@ -105,12 +105,12 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ###### B8. Study Area
  - [ ]  
 - These open study areas feature simple wooden tables and chairs. During the day, up to thirty students can typically be found here.
-- If the characters pass by the western study area before orientation, members of the Live-Action Roleplaying Guild are pulling costumes and props from a half dozen old trunks. The guild is preparing for an event later on the Biblioplex’s lawn: a game they call Beholders versus Behirs. Rosie Wuzfeddlims (CG female gnome first-year student) is directing students as they cobble together beholder and behir costumes, as well as visual effects made from sheets, blankets, wooden frames, tin plates, and illusion magic.
+- If the characters pass by the western study area before orientation, members of the Live-Action Roleplaying Guild are pulling costumes and props from a half dozen old trunks. The guild is preparing for an event later on the Biblioplex’s lawn: a game they call Beholders versus Behirs. **Rosie Wuzfeddlims** (CG female gnome first-year student) is directing students as they cobble together beholder and behir costumes, as well as visual effects made from sheets, blankets, wooden frames, tin plates, and illusion magic.
 
 ###### B9. Book Garden
  - [ ]  
 - In these quiet areas, students sit on the grass and study among lush foliage. Sometime last year, three awakened shrubs wandered in here and settled in each garden, and the university has welcomed them to stay. Members of Witherbloom College typically tend this space, and three Witherbloom pledge mages can be found here most days.
-- Members of the Fantastical Horticulture Club often relax in this area and hold meetings here from time to time. If the characters explore this area before or after orientation, Urzmaktok Grojsh (N male orc Witherbloom apprentice) is here, recruiting first-year students to the club.
+- Members of the Fantastical Horticulture Club often relax in this area and hold meetings here from time to time. If the characters explore this area before or after orientation, **Urzmaktok Grojsh** (N male orc Witherbloom apprentice) is here, recruiting first-year students to the club.
 
 ###### B10. Main Stacks
  - [ ]  
@@ -124,12 +124,12 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ###### B12. Student and Alumni Art Gallery
  - [ ]  
 - This crisp-looking room features white walls and columns that stretch from floor to ceiling. Displayed on or within these are art pieces representative of various media. Students from Prismari College typically tend this space, and three Prismari pledge mages can be found here most days, either cleaning the gallery or studying the techniques used in the displayed pieces. A storage area at the back holds supplies and artwork waiting to go on display.
-- The Distinguished Society of Fine Artists often meets and holds discussions here. If the characters explore this area before or after orientation, Cadoras Damellawar (CG elf first-year student) is here recruiting first-year students to the society.
+- The Distinguished Society of Fine Artists often meets and holds discussions here. If the characters explore this area before or after orientation, **Cadoras Damellawar** (CG elf first-year student) is here recruiting first-year students to the society.
 
 ###### B13. Amphitheater
  - [ ]  
 - This impressive stage is used for lectures, for assemblies, and as a gathering place in case of emergencies. Magic steps lead up to the stage from the floor of the library. Members of the Play actors Drama Guild often use this stage to meet and rehearse when the Rose Stage on Silverquill’s campus is unavailable.
-- If the characters pass by this area before or after orientation, Quentillius Antiphiun Melentor III (N human first-year student) is here recruiting new students to the Playactors Drama Guild.
+- If the characters pass by this area before or after orientation, **Quentillius Antiphiun Melentor III** (N human first-year student) is here recruiting new students to the Playactors Drama Guild.
 
 ###### B14. Student Activities Center
  - [ ]  

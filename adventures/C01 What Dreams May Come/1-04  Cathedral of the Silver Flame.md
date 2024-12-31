@@ -1,14 +1,14 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
-The Cathedral was very recently attacked by the Tarnished Templar, who had mobilized his forces to attempt to get to the Silver Flame. The Templars were able to stop him, and the ministers and friars who weren’t killed snuck away to the Catacombs below the Cathedral. The Templar got away, and was seen running toward Scions Sound in the north.
+- The Cathedral was very recently attacked by the Tarnished Templar, who had mobilized his forces to attempt to get to the Silver Flame. The Templars were able to stop him, and the ministers and friars who weren’t killed snuck away to the Catacombs below the Cathedral. The Templar got away, and was seen running toward Scions Sound in the north.
 
 ### Characters and Locations
 
-- **[[Jaela Daran]]**. 
-- **[[Defender]]**. 
-- **Seltern Obranch**. 
+- **[[Jaela Daran]]**
+- **[[Defender]]**
+- **Seltern Obranch**
 
 - **[[Flamekeep]]**
 - **Cathedral of the Silver Flame**

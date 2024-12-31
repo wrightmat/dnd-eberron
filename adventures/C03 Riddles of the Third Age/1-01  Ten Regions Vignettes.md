@@ -1,4 +1,4 @@
- #adventure [[locations/Sarlona]]
+ #adventure 
 
 ### Background and Hook(s)
 
@@ -8,7 +8,7 @@
 
 ### Characters and Locations
 
-* 
+* [[locations/Sarlona|Sarlona]]
 
 ### Scenes and Situations
 

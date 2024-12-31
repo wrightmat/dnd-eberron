@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
@@ -63,3 +63,5 @@ The Gatekeeper Seal has three primary stone pillars, each with an HP of 27 and a
 Once the Inspired Agent is defeated, a **Tsucora Quori** (CR 7, but HP could be nerfed if needed) emerges from his corpse.
 
 After the battle, a DC 12 Perception check reveals a needle for Barrier Tattoo (uncommon) on Malharath. He’s also wearing *Uncommon Glamerweave* clothing (with is an item, not armor, so Astra can use it).
+
+### References

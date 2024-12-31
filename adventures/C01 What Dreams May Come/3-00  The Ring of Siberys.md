@@ -1,4 +1,4 @@
- #adventure #completed 
+ #adventure 
 
 ### Background and Hook(s)
 
@@ -86,3 +86,5 @@ The party may be able to get through by explaining that they have news to delive
 Aleithilithos, also known as the Caretaker, or simply the Amethyst Dragon, resides here. The den is located behind the Will of Gith, and the dragon is protected from most visitors by the Commissary Attendant Snett.
 
 The Dragon should serve as a patron for the party, so make it clear that he’s here to help.
+
+### References
