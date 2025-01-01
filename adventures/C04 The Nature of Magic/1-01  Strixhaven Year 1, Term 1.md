@@ -31,7 +31,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ##### Day 1: Moving In
 
 ###### Introduction
- - [ ]  
+ - [ ] 
 - This adventure begins when students have arrived on Strixhaven’s campus and the term’s classes are about to start. For the characters, the first order of business is to complete the week of orientation events required of first-year students.
 - Players are welcome to explore campus, but are encouraged to find their dorm rooms since it's already late evening.
 
@@ -180,28 +180,28 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - Explain the Biblioplex’s areas in detail before the characters begin this scavenger hunt, so they have an idea of which areas the clues point to. Have the characters begin the scavenger hunt with the first clue, since it points to the room they’re already standing in. The players can then complete the other clues in any order they wish.
 
 ###### Clue 1: Hall of Oracles
-
+ - [ ]  
 - This clue refers the characters to the room they start the orientation in (area B11).
 - If a character touches the pooled energy below the snarl, they momentarily lose track of their body, overwhelmed by the snarl’s magical power. The character automatically disengages from the snarl and discovers that they are holding a [[potion of healing]].
 
 ###### Clue 2: Student Art Gallery
-
+ - [ ]  
 - This clue refers to the Student and Alumni Art Gallery in area B12.
 - When the characters wander through the gallery, they see a portrait of several older alumni wearing Prismari College robes. If a character examines the portrait, they find a plaque that reads: “At Strixhaven we were all inspired.” Below the plaque is a small lever. If a character uses an action to pull the lever, a box pops out of the wall containing a Strixhaven pennant for each character in the party. Once it dispenses the pennants, the box disappears back into the wall and doesn’t work for the characters again.
 
 ###### Clue 3: Biblioplex Café
-
+ - [ ]  
 - This clue refers to the Biblioplex Cafe in area B6.
 - When the characters enter the cafe, they see several students enjoying drinks and snacks. Aisla Fitzbottom, the cafe manager, is a Strixhaven staff member and the only worker behind the counter at present. The characters must present their scavenger hunt list to Aisla. When they do, she tells them to come behind the counter and help her quickly restock the cafe’s sandwiches and baked goods from several modified Howard’s handy haversacks.
 - If a character goes above and beyond in their assistance with a successful DC 15 Dexterity check, Aisla gives that character a random trinket (from the magic items in the campaign book). Many students have ignored her requests for help during the orientation, she says, so she decides to make an exception with a gift from her own pockets. Plus, she likes the new students’ ambition.
 
 ###### Clue 4: Book Garden
-
+ - [ ]  
 - This clue refers to the book gardens of area B9.
 - When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence (Investigation) check reveals that three of the shrubs are not ordinary greenery, but are instead awakened shrubs, each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a cuddly Strixhaven mascot, representing a random mascot. This magic works only once per character.
 
 ###### Clue 5: Amphitheater
-
+ - [ ]  
 - This clue refers to the amphitheater in area B13.
 - When the characters reach the amphitheater, they see an impressively lavish stage, with the curtains drawn back as if to reveal performers on the opening night of a major production. If a character recites, sings, hums, belches, or otherwise emits any line or tune while standing on the stage, bright floodlights snap on around the stage’s perimeter — a number of lights equal to the number of characters in the group. Approaching any of the lights reveals a recess in which lies a hooded lantern filled with oil.
 

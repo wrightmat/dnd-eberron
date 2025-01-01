@@ -19,13 +19,13 @@
 
 #### Week 1: Welcome Back!
 
- - [ ]  **College Selection**
-
+###### College Selection
+ - [ ] 
 - Before this adventure begins, the characters must choose one of Strixhaven’s five colleges to join: Silverquill, Prismari, Witherbloom, Lorehold, or Quandrix. This choice can happen “off screen” or as part of the preparation for this adventure.
 - Have an interesting scene with each of the players at their selected college. Give them something interesting such as a feat or magic item (possibly the Primer items), in addition to their clothing. Have a little ceremony or dinner or something, and make each unique to the chosen college.
 
- - [ ]  **Course Selection**
-
+###### Course Selection
+ - [ ] 
 - Before the adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses or by rolling on the Second-Year Courses table. Inform them that the characters are also enrolled in a required course, Scrivening and Symbology.
 
 | d10 | Course                        | Offered By  |
@@ -41,8 +41,8 @@
 | 9   | Quantitative Arcano-physics   | Quandrix    |
 | 10  | Verbal Components and the Law | Silverquill |
 
- - [ ]  **Back in Session**
-
+###### Back in Session
+ - [ ] 
 - Once the characters have chosen their colleges and cemented their other second-year decisions, it’s time to kick off this adventure.
 - The academic year has barely dawned when the characters wrap up a day of their new courses and head toward Bow’s End Tavern on the central campus for some socializing.
 - In this scene, the characters learn about the Battle of Strixhaven, a Mage Tower game. Another student is part of this scene — ideally a student the characters have interacted with, or another student. When you’re ready to begin, read or paraphrase the following, altering the text to incorporate the student’s name or other details:
@@ -64,15 +64,15 @@
 	- Questionable use of magic can be called as a foul by the game’s referee. A faculty member fills that post during official games.
 	- Participants who accumulate three fouls are ejected from the game. Teams may not replace participants who foul out.
 
- - [ ]  **Forming a Team**
-
+###### Forming a Team
+ - [ ] 
 - Once the characters decide to form one of the two Mage Tower teams for the Battle of Strixhaven, they must register the team with Professor Mavinda Sharpbeak. Their team includes all the characters; the characters might recruit student NPCs to join their team, although filling their roster up to five participants isn’t required. The opposing team has an equal number of participants. Multiple teams may register for the tournament; the faculty choose two to compete in the Battle of Strixhaven. The characters’ team is chosen to compete along with a team that consists of their Rivals and other NPCs.
 - More information about the Battle of Strixhaven and the opposing team is provided later in the next adventure. The Mage Tower game isn’t until the end of the academic year, but preparing for it plays a key role in this adventure.
 - If you wish, roleplay the scene in which the characters register their team with Professor Sharpbeak. The owlin counselor can be found in the Biblioplex near the Hall of Oracles. There, she’s helping direct new first-year students to vital places on campus.
 - If characters don’t immediately leap at the chance to form a Mage Tower team for the Battle of Strixhaven, emphasize that every peer they speak with wants to see them participate. In addition to social rewards, the characters learn that participating in the Battle of Strixhaven earns them a permanent commendation on their student record, as well as a monetary prize of half of their tuition for this academic year waived. Effectively, this means each character receives 400 gp if their team wins.
 
- - [ ]  **Mascots Everywhere!**
-
+###### Mascots Everywhere!
+ - [ ] 
 - When the characters register their team name with Professor Sharpbeak, the owlin counselor’s eyes briefly dart about with trepidation. She asks the characters to walk with her outside the Biblioplex to discuss an important matter. She says the following in a confiding voice:
 >“It’s fortunate that you’ve found me now. This Mage Tower game is my event to organize, but everything is already going wrong.
 >“You see, I need to tag the college mascots on campus — those little magical creatures that roam the grounds. We use them as mascots for our Mage Tower games. If the deans find out that some of the mascots aren’t cataloged, my reputation will be ruined!
@@ -84,34 +84,38 @@
 
 - Encourage the characters to take on Professor Sharpbeak’s favor within the first few days of this adventure. For ease of running this adventure, it’s best that the characters complete this event before the “Practice Makes Perfect” section. If the characters are reluctant, reinforce that the mascots are bound to disperse eventually and that fulfilling Professor Sharpbeak’s request will become more difficult the longer they wait.
 
- - [ ]  **Choosing a Mage Tower Mascot**
-
+###### Choosing a Mage Tower Mascot
+ - [ ] 
 - As mentioned in “The Game of Mage Tower,” each team in a Mage Tower game chooses a mascot creature to represent them and to serve as a focal point of the game’s scoring. If the characters discuss finding a mascot to represent their team, Professor Sharpbeak assures them that any mascot they find at Wiltroot Hall could serve as their team mascot. If the characters don’t ask about mascots now, you can prompt them to choose a mascot later in the academic year, when the game approaches. Mascots don’t confer benefits in the game, although Mage Tower participants are often sentimental about their mascots.
 
- - [ ]  **The Cultivarium**
-
+###### The Cultivarium
+ - [ ] 
 - The Cultivarium is an eye-popping, sun-drenched garden of spiraling, cyclical plants and fractalized animals. Quandrix faculty members have repeatedly taught growth spells in this part of campus, and over the centuries, the area has come to intensify any growth magic cast within it. The Cultivarium is a sprawling complex designed like a nautilus shell, with a central hub leading outwards into spiraling arms. Each arm houses different ecosystems and experimental areas, fostering a diverse range of magical and natural studies.
 - **Cataloging**. Affixing one of Professor Sharpbeak’s bands onto a mascot typically requires an action and a successful DC 14 Strength (Athletics) or Dexterity (Sleight of Hand) check, though you may allow other types of ability checks. For example, a character who tries to trick a mascot into approaching can make a Charisma (Deception) check, or a character who uses gestures and a calm voice to convince a mascot to wear the band can make a Charisma (Persuasion) check.
 
 **Central Hub**
 
- - [ ]  **C1. Entrance Foyer**
+###### C1. Entrance Foyer
+ - [ ] 
 >The entrance foyer of The Cultivarium greets you with its grandeur, featuring high ceilings and creeping vines that adjust their growth as you watch. The atmosphere is one of constant, subtle change, mirroring the dynamic nature of Quandrix magic.
 
 - A grand entryway filled with floating geometric sculptures and vines that move subtly as if solving equations
 
- - [ ]  **C2. Fractal Forest**
+###### C2. Fractal Forest
+ - [ ] 
 >Stepping into a fractal forest, you're immediately enveloped by an intricate network of paths and trees that repeat in mesmerizing patterns. One particular pattern near the center appears slightly more vibrant and complex, as if part of the forest itself is watching you.
 
 - A magical indoor forest where paths and trees follow fractal patterns, creating a complex maze-like environment
 - **Mascot**. A fractal mascot can be found here. The fractal is one of the mascots the characters must catalog for Professor Sharpbeak, as mentioned in the “Mascot Hunting” section earlier.
 
- - [ ]  **C3. Main Lecture Hall**
+###### C3. Main Lecture Hall
+ - [ ] 
 >In the Main Lecture Hall, tiered seats circle a central stage where magical demonstrations are performed. The hall is silent now, expectant, as if waiting for the next great discovery to be unveiled.
 
 - An amphitheater with seating that can morph to accommodate various species and sizes.
 
- - [ ]  **C4. Genetics Workshop**
+###### C4. Genetics Workshop
+ - [ ] 
 >This workshop is alive with the buzz of magical energy and the vivid colors of enhanced plants. Near a cluster of particularly vibrant flowers, the air shimmers with a subtle luminescence that seems to dance, suggesting the presence of something magical and artistic melding with the surroundings
 
 - Filled with advanced magical and scientific equipment for genetic modification of plants.
@@ -119,24 +123,28 @@
 
 **Aquatic and Aerobic Ecosystems**
 
- - [ ]  **C5. Hydroponics Laboratory**
+###### C5. Hydroponics Laboratory
+ - [ ] 
 >Large, clear tanks line the walls of the this laboratory, each filled with a variety of aquatic plants swirling in gentle currents. The water casts rippling light across the room, creating a serene, otherworldly atmosphere.
 
 - Contains large, transparent tanks with aquatic plants and creatures.
 
- - [ ]  **C6. Aviary Dome**
+###### C6. Aviary Dome
+ - [ ] 
 >A transparent dome structure rises high above you, filled with the calls of exotic birds and the rustle of wings. Sunlight filters through the leaves of towering trees, casting playful shadows on the ground.
 
 - A glass-domed room filled with flying creatures and tall trees.
 
 **Desert and Mountain Ecosystems**
 
- - [ ]  **C7. Cacti Conservatory**
+###### C7. Cacti Conservatory
+ - [ ] 
 >Rows of spiky cacti and rugged rock formations dominate this arid conservatory. The air is dry and warm, and the sound of a distant sand echoes through the stillness.
 
 - Home to various desert plants and rock formations.
 
- - [ ]  **C8. Mineral Cave**
+###### C8. Mineral Cave
+ - [ ] 
 >This cool, dimly lit mineral cave sparkles with a myriad of colors from countless embedded crystals. As you gaze around, the light seems to shift unnaturally in one corner, as if some of the shadows are flowing together, pooling into a darker, undulating form.
 
 - A room simulating mountainous environments with sparkling mineral deposits. Gray and amorphous, a creature skulks along the stone floor. Its body appears wet and oily, though an unusual crystalline pattern decorates the surface.
@@ -146,7 +154,8 @@
 
 **Forest and Grassland Ecosystems**
 
- - [ ]  **C9. Arboretum**
+###### C9. Arboretum
+ - [ ] 
 >As you enter a lush arboretum, the air is rich with the scent of fresh earth and leafy greens. A symphony of chirps and rustles fills the space, but amidst the natural sounds, a mischievous giggle briefly echoes from somewhere within the thick foliage, suggesting something small and lively hiding nearby.
 
 - Dense with various tree species, offering plenty of hiding spots.
@@ -154,20 +163,23 @@
 
 `encounter: 1: Awakened Tree`
 
- - [ ]  **C10. Meadow Field**
+###### C10. Meadow Field
+ - [ ] 
 >A meadow stretches out under a simulated open sky, with wildflowers swaying in a gentle breeze. The scent of fresh grass and the sound of buzzing insects create a tranquil, pastoral scene.
 
 - An open indoor field with tall grasses and flowers.
 
 **Arctic and Subterranean Ecosystems**
 
- - [ ]  **C11. Frost Garden**
+###### C11. Frost Garden
+ - [ ] 
 >Upon entering a frosted garden, a chill sweeps over you, and the air is filled with the soft shimmering of ice. Amongst the frost-covered plants and elegant ice sculptures, one figure stands out, slightly blurred at the edges, almost as if it is not entirely there.
 
 - A chilly room with ice sculptures and frost-covered plants.
 - **Mascot**. The characters can see a spirit statue mascot. The statue chuckles and says, “I’m quite bored of behaving as Professor Sharpbeak says. From now on, it’s nothing but mischief! I’m a free spirit!” Convincing the statue that its work on campus is important and it should wear the band requires an action and a successful DC 14 Charisma (Persuasion) check. The statue is one of the mascots the characters must catalog for Profession Sharpbeak, as mentioned in the “Mascot Hunting” section earlier.
 
- - [ ]  **C12. Root Network Lab**
+###### C12. Root Network Lab
+ - [ ] 
 >You descend below ground, where a laboratory showcases an intricate web of plant roots visible through transparent panels in the floor and walls. The area hums with the quiet power of life unseen above the surface.
 
 - Underground lab showcasing the root systems of plants.
@@ -179,8 +191,8 @@
 
 - The mascot-stacking competition takes place in area R3 of the Rose Stage.
 
- - [ ]  **Stack ’Em High**
-
+###### Stack ’Em High
+ - [ ] 
 - When the characters arrive at the Rose Stage, read or paraphrase the following:
 >You hear the party before you see it. Laughter, whooping, and shouting waft from the stage as a chaotic scene comes into sight.
 >On the main Rose Stage, a dozen students playfully dart away from several pests while other mascots watch nearby. The scurrying students hold goopy substances in their hands that look like honey mixed with mushroom pieces. Off to the side, more students stand, laughing and holding curious-looking wands.
@@ -193,8 +205,8 @@
 - The students standing beside the stage hold wands that are ordinary spellcasting focuses imbued with a limited telekinesis-like effect. When pointed at a mascot within 5 feet, a wand magically lifts the mascot, places it atop another adjacent mascot, and stabilizes the stacked mascots. The mascots might still topple over afterward, but the wands allow the students to stack the mascots without having to physically manipulate them.
 - In this game, the other mascots jovially participate in the stacking contest. The spirit statues offer to serve as each stack’s base. The art elementals, fractals, and inklings gleefully wait to be piled on the stacks while the pests snack away, oblivious to the game.
 
- - [ ]  **The Contest**
-
+###### The Contest
+ - [ ] 
 - Stacking mascots without the creatures toppling over is a major bragging right, and the characters have the opportunity of earning that now.
 - Further, Greta Gorunn has offered a belt of dwarvenkind as the prize for this contest. Her parents sent her the belt as a gift, but she thinks it’s more fun to offer the belt as a trophy.
 - In this contest, up to four teams of two students apiece race to create the highest stack of gathered mascots. At least one team should consist of NPC students, and you should make rolls for them. If the characters have Rivals, two of them form this opposing team. If not, choose students randomly.
@@ -205,8 +217,8 @@
 - For example, if one member of a team gets a total of 16 on their Dexterity (Sleight of Hand) check to expertly point their wand and the other member gets a total of 20 on their Wisdom (Animal Handling) check to stack the mascots comfortably, their combined total is 36 — and they win the game if no other team has a higher total.
 - If there’s a tie, add a tiebreaker round or use your discretion to determine the winner.
 
- - [ ]  **It’s Got Three Heads!**
-
+###### It’s Got Three Heads!
+ - [ ] 
 - As the winning team is declared, the pests in the mascot stacks suddenly transform into a hostile creature. Read or paraphrase the following:
 >The cheering from the students on the Rose Stage suddenly turns to panicked shouts. The normal croaking, chirruping, and screeching of pests turns into guttural groans. The pests amalgamate, their bodies fusing into a multiheaded whole, while the other mascots scatter. The fused creature roars, spewing spittle from one of its heads. Everyone on stage is in danger!
 
@@ -217,8 +229,8 @@
 
 - Pests don’t normally amalgamate and turn hostile, then transform back into harmless pests. If the characters examine the pests after the amalgamation is defeated, a successful DC 16 Intelligence (Investigation) check reveals little pools of regurgitated bait on the floor near the pests. Mixed in the pools are small, sharp pieces of same chitin found in area W5 near Wiltroot Hall. The pests ingested this chitin, leading to their strange transformation.
 
- - [ ]  **Practice Time**
-
+###### Practice Time
+ - [ ] 
 - Once the characters resolve the altercation with the amalgamated mascots, the party on the Rose Stage resumes. Before the characters leave the area, Rosie Wuzfeddlims approaches them. The gnome announces that Aerojaunt Field is reserved for the characters’ Mage Tower team to practice.
 - The characters’ designated practice slot is in six weeks. As a student referee, Rosie is tasked with helping the characters learn the rules of Mage Tower and the game’s basic techniques. Further, as long as the entire party has not made a Rival of Rosie, she promises to gift their team a **stone of good luck** after they practice that can be used at the game later in the year.
 
@@ -227,13 +239,13 @@
 - During their second year at Strixhaven, the characters are enrolled together in a course called Scrivening and Symbology, which is held in a lecture hall in the Biblioplex (one of the areas marked B7). The course covers the basics of recognizing, deciphering, and understanding the magic behind arcane scripts and symbols. Over the course of the term, students learn how to tell scribbles and doodles from magically imbued symbols, and they study popular accounts of adventurers who’ve come across magic-based writing in their travels. They also learn about common spells that incorporate writing and symbology in their casting. The course’s professor is Brenneth Blackstone, a rising star in scriptology whose dynamic lectures are practically performance art.
 - This course’s first Exam takes place a few weeks after the events of “Party at the Rose Stage” and tests students on their knowledge of scrivening and symbology, as expressed in glyph of warding spells.
 
- - [ ]  **Studying Phase**
-
+##### Studying Phase
+ - [ ] 
 - The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.
 - Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 15 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.
 
- - [ ]  **Testing Phase**
-
+##### Testing Phase
+ - [ ] 
 - On the day of the Exam, each character makes two ability checks related to parts of the test:
 	- Glyph of Warding Shapes. Identifying the shapes commonly used when a mage casts a glyph of warding requires a successful DC 15 Intelligence (Investigation) check.
 	- Common Glyph Effects. Writing an essay on common magical effects and triggers associated with glyph of warding spells requires a successful DC 15 Intelligence (Arcana) check.
@@ -241,8 +253,8 @@
 
 #### Week 10: Practice Makes Perfect
 
- - [ ]  **Aerojaunt Field**
-
+###### Aerojaunt Field
+ - [ ] 
 - Aerojaunt Field was once the university’s primary sports field. Now, years after the construction of Strixhaven Stadium, the field sees far less use. Its official purpose is as a dedicated practice field for Strixhaven’s high-profile student teams, whose official matches take place in newer facilities elsewhere on campus.
 - However, less competitive teams hold their matches on this field, most notably the Intramural Silkball Club. The elevated ramps used in silkball matches were permanently built into Aerojaunt Field, whose name evokes a popular silkball move that involves using magic to hop through the air.
 
@@ -255,7 +267,8 @@
 
 - During this event, the characters split into two teams and practice moving dummy mascots from one side of the field to another. If there are an uneven number of characters, Rosie joins a team to even the competition.
 
- - [ ]  **A1. Southwestern Outbuilding**
+###### A1. Southwestern Outbuilding
+ - [ ] 
 >This gray metal storage shed consists of three short silos topped with flat roofs. Weathered wooden doors that were once painted bright yellow lead inside, and a short fence protects the building from impacts from gear sent flying from the field.
 
 - The doors to these sheds are locked, but Rosie has the key, as do several faculty members. A character using thieves’ tools can open either lock with a successful DC 25 Dexterity check.
@@ -263,28 +276,29 @@
 
 **Treasure**. In the main silo’s northeast corner are two unlocked chests. Both contain stacks of outdated gymnastics uniforms. However, a cloak of displacement lies forgotten at the bottom of one chest. If the characters try to find the cloak’s owner, Rosie or any faculty member learns the cloak is unclaimed, so the characters are welcome to keep it.
 
- - [ ]  **A2. Southeastern Outbuilding**
-
+###### A2. Southeastern Outbuilding
+ - [ ] 
 - The doors to these sheds are locked, but Rosie has a key. A successful DC 25 Dexterity check using thieves’ tools opens each lock.
 - This shed’s central silo holds old silkball and Mage Tower equipment: bins of deflated silkballs, wooden dummy mascots, and dented field rakes.
 
 **Treasure**. In the main silo’s northwest corner are two unlocked chests that both contain stacks of outdated silkball uniforms. However, a cloak of elvenkind lies forgotten at the bottom of one chest. If the characters try to find the cloak’s owner, Rosie or any faculty member learns the cloak is unclaimed, so the characters are welcome to keep it.
 
- - [ ]  **A3. Practice Field**
+###### A3. Practice Field
+ - [ ] 
 >The hexagonal shape of this old practice field is outlined in glowing magical chalk. Several dirt ramps, each at least ten feet wide, slope and crisscross dizzyingly.
 
 - The straight central lengths of each ramp are elevated to the heights indicated on the map.
 
- - [ ]  **A4. Dugout**
-
+###### A4. Dugout
+ - [ ] 
 - In each dugout, a small vial was accidentally left behind. In the west dugout, the vial contains oil of slipperiness. In the east dugout, it’s a potion of climbing. A character who searches a dugout finds the relevant vial tucked underneath a back bench.
 
- - [ ]  **A5. Bleachers**
-
+###### A5. Bleachers
+ - [ ] 
 - These bleachers rise 30 feet in the air at the back.
 
- - [ ]  **Mage Tower Practice**
-
+###### Mage Tower Practice
+ - [ ] 
 - After the characters arrive at the field, Rosie explains that the Mage Tower game the characters are practicing for will take place in nearby Strixhaven Stadium. The stadium doesn’t have ramps built into the field. “But practicing with them is fun!” she explains. “Plus, you’ll get better at the game! What’s not to love?”
 
 - When the characters are ready to start practice, Rosie retrieves two bright blue wooden dummy mascots from area A2. She explains that the characters need to split into two teams for the purposes of scrimmaging; if there is an odd number of characters, Rosie joins in as a participant.
@@ -301,8 +315,8 @@
 
 - The stone is a stone of good luck, and the characters are welcome to keep it indefinitely.
 
- - [ ]  **An Unwelcome Visitor**
-
+###### An Unwelcome Visitor
+ - [ ] 
 - At the end of practice, after Rosie gives the characters her gift, read or paraphrase the following:
 >Without warning, the joyous look on Rosie’s face changes into terror. Flinging an arm toward the field’s eastern dugout, she stammers wildly.
 “Wh- wh- monster!” she shouts, then runs for cover.
@@ -320,13 +334,13 @@
 - The characters’ second Exam in Scrivening and Symbology takes place a short while after their practice scrimmage at Aerojaunt Field. Students are tested on their knowledge of scrivening and symbology as expressed in the *[[symbol]]* spell.
 - The multiple choice portion of the Exam focuses on identifying common surfaces used for inscribing symbol glyphs. The essay portion then requires students to reason out how best to avoid the effects of a symbol spell.
 
- - [ ]  **Studying Phase**
-
+##### Studying Phase
+ - [ ] 
 - The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.
 - Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 16 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.
 
- - [ ]  **Testing Phase**
-
+##### Testing Phase
+ - [ ] 
 - On the day of the Exam, each character makes two ability checks related to parts of the test:
 	- **Symbol Surfaces**. Identifying the most suitable surfaces to scribe a symbol on requires a successful DC 16 Intelligence (Investigation) check.
 	- **Avoiding Symbol Effects**. Writing up the details of common methods to avoid triggering symbols, plus physical and mental techniques for resisting their effects once they have been triggered, requires a successful DC 16 Charisma (Persuasion) check.

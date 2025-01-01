@@ -14,16 +14,16 @@
 
  - [ ]  **Acceptance Letter**
 
-Dear <Student’s Name>,
-
-Congratulations! It is our pleasure to welcome you to Strixhaven University, Eberron’s foremost institution for arcane studies. Located on the continent of Argonnessen, just east of the Great Barrier, our campus is home to an inspiring community of scholars and students united by their passion for magic and discovery. Your talents and dedication have distinguished you, and we eagerly await the contributions you will bring to our halls.
-
-At Strixhaven, you will embark on a journey of growth and exploration. Here, you will learn from renowned professors, access rare archives, and gain hands-on experience that will expand your mastery of the arcane arts. Our curriculum is designed to empower and challenge, preparing you for a future filled with boundless magical potential.
-
-We look forward to welcoming you to our campus, where you will be part of a legacy that has shaped Eberron’s brightest minds. The enclosed spell will teleport you to Argonnessen whenever you've prepared.
-
-Warm regards,
-Tedric Taiva, Voice of the Founders
+> [!note] Dear <Student’s Name>,
+>
+>Congratulations! It is our pleasure to welcome you to Strixhaven University, Eberron’s foremost institution for arcane studies. Located on the continent of Argonnessen, just east of the Great Barrier, our campus is home to an inspiring community of scholars and students united by their passion for magic and discovery. Your talents and dedication have distinguished you, and we eagerly await the contributions you will bring to our halls.
+>
+>At Strixhaven, you will embark on a journey of growth and exploration. Here, you will learn from renowned professors, access rare archives, and gain hands-on experience that will expand your mastery of the arcane arts. Our curriculum is designed to empower and challenge, preparing you for a future filled with boundless magical potential.
+>
+>We look forward to welcoming you to our campus, where you will be part of a legacy that has shaped Eberron’s brightest minds. The enclosed spell will teleport you to Argonnessen whenever you've prepared.
+>
+>Warm regards,
+>Tedric Taiva, Voice of the Founders
 
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.

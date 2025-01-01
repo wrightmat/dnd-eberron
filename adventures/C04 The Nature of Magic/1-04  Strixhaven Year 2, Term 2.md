@@ -21,8 +21,8 @@
 - Some time after returning from midterm break, the characters notice a commotion near Bow’s End Tavern in the late afternoon. Another student is part of this scene, in which the characters are invited to participate in a magical skating contest. Ideally, it’s a student the characters have interacted with. The characters notice that the front of Bow’s End Tavern is oddly deserted, but then they see a familiar face. The student says:
 >“Hey, friends! Tulk’s drained the retention pool behind the tavern for cleaning tomorrow. For a few hours, we’ve got a perfectly smooth, empty pool. You know what that means — mage’s skate park, baby! Come on, let’s see who’ll pull the wildest moves and win the prize purse!”
 
- - [ ]  **Magical Skate-Off**
-
+###### Magical Skate-Off
+ - [ ] 
 - If the characters follow the student who invited them, that student leads them behind Bow’s End Tavern. Read or paraphrase the following:
 >Behind the tavern, several groups of students cluster around an empty pool, laughing and waving improvised skates made from wooden planks with wheels affixed to the bottom. The empty pool is made of smooth stone and set about thirty feet into the ground. The tavern’s back door is propped open.
 
@@ -37,8 +37,8 @@
 	- **Encourage a Skater**. A character can shout encouragement at another student who’s skating. The student then has advantage on their ability check.
 	- **Heckle a Skater**. A character can jeer at an opposing skater. The heckled participant has disadvantage on their ability check.
 
- - [ ]  **That’s Not Supposed to Happen!**
-
+###### That’s Not Supposed to Happen!
+ - [ ] 
 - At the end of the skate-off, after the purse is given to the winner or distributed among multiple winners, one of the wands used during the skate-off accidentally summons a monster. Read or paraphrase the following:
 >The crowd roars as the winner is announced. A student waves their wand in celebration, and shockingly, a thunderous clap echoes from it.
 >Your fellow students quiet in confusion. Suddenly, a creature erupts from the ground, causing nearby students to scream and scatter.
@@ -55,20 +55,20 @@
 
 - The characters’ third Exam in Scrivening and Symbology takes place a couple of weeks after the previous adventure. It tests students on their knowledge of divining strategies and techniques tied to the augury spell, as well as methods of interpreting the spell’s opaque results.
 
- - [ ]  **Studying Phase**
-
+##### Studying Phase
+ - [ ] 
 - The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.
 - Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 17 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.
 
- - [ ]  **Testing Phase**
-
+##### Testing Phase
+ - [ ] 
 - On the day of the Exam, each character makes two ability checks related to parts of the test:
 	- **Augury Tools and Methods**. Choosing the most effective tools and methods for casting augury requires a successful DC 17 Intelligence (History) check.
 	- **Interpreting Weals and Woes**. Reasoning out meaningful interpretations of cryptic scenarios paired with the results of auguries requires a successful DC 17 Wisdom (Insight) check.
 - Have each player note their character’s Exam results — how many Student Dice they gained and what skills they used during the test — on their copies of the tracking sheet.
 
- - [ ]  **To the Scriptoria Collections**
-
+##### To the Scriptoria Collections
+ - [ ] 
 - Professor Brenneth Blackstone approaches the characters after he’s done proctoring their Exam. Once the other students depart, the professor addresses the characters:
 >“Well, students, you’ve impressed me — or else I wouldn’t be asking you this favor.
 >“I’ve been guest lecturing in Kollema Hall on Lorehold’s campus this term. The administrators love my popular series on scriptology in archaeomancy, but it’s eating into my prep time for my classes.
@@ -83,8 +83,8 @@
 - The Scriptoria Collections lie below the main level of the Biblioplex. The reference librarian (area B4) can point them in the right direction, as can a faculty member or student.
 - Characters can ask anyone in the Biblioplex, including the librarians, about the title Professor Blackstone mentioned — Weale or Woe: An Interpretive Sketch. The librarians confirm that the book is located in the Scriptoria Collections, but they’re unsure exactly how it was cataloged, so the characters need to track it down. If the characters ask the librarians or anyone else about strange chitinous creatures or the magical signature they’ve found all over campus, no one knows anything about either subject.
 
- - [ ]  **Scriptoria Collections**
-
+###### Scriptoria Collections
+ - [ ] 
 - When the characters head down the stairs to the Scriptoria Collections, read or paraphrase the following:
 >As you make your way down the winding staircase, the passage’s gloom gives way to a warm light. The room before you is spacious and comfortable, with gleaming bookcases, wide tables, luxurious chairs, an inviting lounge, and a hearth. Oil paintings of breathtaking landscapes and heroic spellcasters line the walls, and antique spherical astrolabes are proudly displayed along the northern wall.
 
@@ -99,14 +99,14 @@
 	- **Lounge**. The lounge to the northwest includes several plush sofas and comfortable chairs, along with a heavy table covered in tomes and sheets of parchment left by a previous study group. The sharp letter openers on the table can be used as silvered daggers in a fight.
 	- **Tables and Chairs**. The room’s chairs can be moved, but its sturdy tables are bolted to the floor.
 
- - [ ]  **Seeking the Professor’s Tome**
-
+###### Seeking the Professor’s Tome
+ - [ ] 
 - To find Weale or Woe: An Interpretive Sketch for Professor Blackstone or any other text in the room, the characters must take time to search the bookshelves. A character who searches the bookshelves for 1 hour can, at the end of that time, make a DC 13 Intelligence (Investigation) check, finding whatever book they seek on a success.
 - **Mage Hunters**. Among the other books in the collection is a tome about magical creatures, penned by Arick Quenthorne himself. Any character who spends at least 10 minutes studying this tome learns that during his time as an administrator, Director Quenthorne discovered creatures lurking off campus called mage hunters. The tome provides sketches of chitinous plates matching those the characters found. The tome states that pairs of mage hunters break with their allies to hunt specific individuals who catch their attention. With this information, the characters should realize that a pair of mage hunters is after them.
 - **Quenthorne’s History**. A character who spends at least 10 minutes studying either of Director Quenthorne’s tomes discovers information that sheds some light on the current situation. Director Quenthorne wrote about a student who practiced bizarre magic while attending Strixhaven during Quenthorne’s tenure as an administrator 200 years ago. This student used magic to siphon energy and life from creatures. The tome describes the strange magic’s lingering aura, which is identical to the magic the characters have observed. This student was censured repeatedly for breaking the university’s bylaws and was expelled. The tome states that the student was expelled and never returned to campus. The name of the student is blacked out or illegible in all mentions. Attempts at restoring the name (magical or otherwise) are ineffective.
 
- - [ ]  **Is That Astrolabe Breathing?**
-
+###### Is That Astrolabe Breathing?
+ - [ ] 
 - After the characters find the tome for Professor Blackstone and gather any information they wish, or if they closely examine the central astrolabe, the astrolabe reveals itself to be a monster.
 - The mage hunters stalking the characters stumbled across this creature on the outskirts of campus. After imbibing potions of invisibility and feeding one to the creature to sneak it into the Scriptoria Collections, they told it to ambush the characters. Read or paraphrase the following:
 >A groan echoes throughout the quiet room, like metal grinding upon metal. You spot movement from the largest astrolabe along the north wall, as the device’s overlapping copper rings become lashing, barbed tentacles!
@@ -117,14 +117,14 @@
 
 - Once the creature is dealt with, the characters can examine it for more information. A successful DC 16 Wisdom (Perception or Survival) check reveals the presence of chipped chitin embedded in claw wounds on the creature. Characters who notice this realize it’s the same material they found near Wiltroot Hall and on the Rose Stage. They can also conclude that the mage hunters subdued this creature before forcing it to ambush the characters.
 
- - [ ]  **Delivering the Professor’s Tome**
-
+###### Delivering the Professor’s Tome
+ - [ ] 
 - So long as the characters deliver Weale or Woe: An Interpretive Sketch to Professor Blackstone before the Practicum, he lights up with relief. “Oh, the time you’ve saved me!” Professor Blackstone exclaims. “Thank you, students. I won’t forget this — as promised, extra credit on the next exam is yours!”
 
 #### Week 22: Tell Us In Song!
 
- - [ ]  **The Opposing Team**
-
+###### The Opposing Team
+ - [ ] 
 - The next time the characters are in the Biblioplex, they’re challenged to a sing-off. Another student is part of this scene — ideally a student the characters have interacted with. Read or paraphrase the following:
 >You hear enthusiastic chanting and clapping. In the library’s main area, students ring the eastern group of tables. Standing on them are familiar faces, who look like they’re about to burst into song.
 
@@ -134,8 +134,8 @@
 - The opposing Mage Tower team challenges the characters to a singing contest to win over the student body. This event takes place in the easternmost portion of area B8. Though rowdiness isn’t allowed in the library, the librarians are fascinated by the challenge and want to see how the characters handle this situation.
 - The opposing team has as many members are there are player characters. If the characters have Rivals, those students are members of the opposing team. Choose the rest of the opposing team’s members at random.
 
- - [ ]  **It’s a Sing-off!**
-
+###### It’s a Sing-off!
+ - [ ] 
 - When the characters approach the study area where the opposing Mage Tower team waits, a student from the opposing team claps sardonically and challenges them.
 >“Oh, look, everyone — if it isn’t the big kids on campus. They think they’re going to wipe the floor with us at the Battle of Strixhaven, don’t they? Well, we’ve got something to say about that!
 >“We challenge you to a sing-off! We’ll crush you in song before we crush you on the field!”
@@ -150,35 +150,40 @@
 
 #### Week 24: Scrivening and Symbology Practicum
 
- - [ ]  **The Arithmodrome**
-
+###### The Arithmodrome
+ - [ ] 
 - The Quandrix campus is alive with dynamic sculptures made of water behaving in odd ways: cube-shaped fountains, arching aqueducts that flow through the air, towers of solid-seeming water. One water structure holds a secret: a mysterious inner expanse called the Arithmodrome. From the outside, the Arithmodrome looks like a large cube of water, ten feet on each side. The inside is an apparently boundless theory-space that suspends the rules of reality. Mages use this space to explore theoretical numerical possibilities.
 - A mage hunter secretly pursues the players as they navigate the Arithmodrome. For each incorrectly solved puzzle or other significant delay, add one to a d6 clock. On a 6, a mage hunter finds the players and attack.
 
- - [ ]  **A1. The Gateway of Infinity**
+###### A1. The Gateway of Infinity
+ - [ ] 
 >"As you step into the grand entrance hall of the Arithmodrome, your eyes are immediately drawn to a figure seemingly made of shifting, glowing mathematical symbols, hovering near the center of the room. It mutters equations and theorems to itself, its form expanding and contracting with each solved equation.
 
 - The strange figure is Esix, Fractal Bloom, a living theorem created by Quandrix students. Over the years, a few professors have tried to deactivate it, but all their formulas somehow end up dividing by zero and fizzling out. Esix never seems to register these would-be threats, as it remains consumed by its own calculations.
 - Esix challenges the players to add to its ongoing equation without causing it to collapse or reach a mundane solution. Each player can contribute by suggesting a mathematical principle, formula, or even a magical theory that aligns with Quandrix ideologies. Successful contributions impress Esix, which then eagerly shifts aside, revealing pathways to the next areas and even offering hints or advice based on its vast calculations.
 
- - [ ]  **A2. The Constellation Puzzle**
+###### A2. The Constellation Puzzle
+ - [ ] 
 >You enter a circular room under a domed ceiling painted like a night sky, with stars that subtly glow. At the center lies a pedestal holding a map of constellations which can be rotated and adjusted. The walls feature doors, each marked with a different constellation.
 
 - Players need to align the constellation map with the dome's star patterns to reveal the correct door. A correct alignment causes the corresponding door to unlock, while a misalignment sounds a soft tone that could attract mage hunters (add one to the clock).
 - A DC 15 Arcana check, or use of a spell such as *augury*, is required to align the map to the correct door and proceed.
 
- - [ ]  **A3. The Symbological Maze**
+###### A3. The Symbological Maze
+ - [ ] 
 >This expansive library is a maze of bookshelves, each filled with ancient tomes and scrolls. At intervals, large stones engraved with parts of a massive runic circle are found, seemingly disordered. A faintly glowing trail on the floor offers a clue to the stones' proper arrangement.
 
 - The puzzle requires reordering the glyph stones to complete a large protective rune that historically guarded ancient magical knowledge. Players must follow the glowing trail to place the stones correctly. Completing the rune not only clears the magical haze but also reveals hidden writings on the shelves that provide lore and hints for the final puzzle.
 - A DC 15 Arcana check, or use of a spell such as *augury*, is required to align the stones and open the way forward.
 
- - [ ]  **A4. The Chamber of Echoes**
+###### A4. The Chamber of Echoes
+ - [ ] 
 >The chamber you enter is eerily silent, with walls that seem to absorb sound. Engraved tablets are set into each wall, filled with ancient symbology. A lone pedestal in the center holds a quill that seems to await your touch.
 
 - To solve the puzzle, players must use the quill to trace a symbol glyph on one of the tablets, choosing from several options. Each symbol represents a different magical effect; the correct one will unlock the final room. Tracing the wrong symbol can unleash harmful magical effects or summon a spectral guardian.
 
- - [ ]  **A5. The Vault of Secrets**
+###### A5. The Vault of Secrets
+ - [ ] 
 >This small, heavily warded room glows with the light of countless glyphs that cover every surface. In the center, a single plinth holds an ornate chest. The air is thick with the power of the wards, making each step feel heavy and significant.
 
 - The final puzzle requires players to deactivate the glyph of warding protecting the chest. They must decipher the interconnected warding glyphs to find the one keystone glyph that, when dispelled, will neutralize the others without triggering a defensive explosion. Success grants them access to the treasure; failure could mean a devastating magical backlash.
@@ -193,22 +198,22 @@
 - When the characters are ready, usher them into their locker room with their chosen mascot to prepare for the game.
 - Regardless of the results, the characters are expected to play the game and then return to the locker room afterward to await a visit from Professor Sharpbeak, who’s officiating. Remind them that Professor Sharpbeak promised to grant each of the winners half of their tuition for this term. Effectively, the characters will receive 400 gp apiece if they win the game. Even if they don’t win, they’re expected to return to the locker room in a show of good sportsmanship.
 
- - [ ]  **X1. Strixhaven Field**
-
+###### X1. Strixhaven Field
+ - [ ] 
 - Strixhaven Stadium is enormous. The circular, bright-green field is covered with small hills, and forty-foot towers rise up at either end of the field. The surrounding bleachers stretch fifty feet into the air. Five spires each fly the flag of a Strixhaven colleges, and a sixth flies a banner displaying the Strixhaven star.
 - The entire field is difficult terrain owing to the hills built into the playing field. (This encourages flying and other magical means of transportation as the teams each try to ferry their opponents’ mascot back to their own end of the field.) The bleachers are filled with hundreds of students and teachers.
 
- - [ ]  **X2. Locker Room**
-
+###### X2. Locker Room
+ - [ ] 
 - When the characters arrive for the Battle of Strixhaven, they must head to their locker room to dress and wait for the game to begin.
 - There are two stadium locker rooms: one at the north end of the field and another at the south end. The characters are assigned to the southernmost locker room, while their opponents are assigned the northernmost one. Lockers line each room, as do racks of uniforms and field equipment.
 
- - [ ]  **Before the Battle**
-
+###### Before the Battle
+ - [ ] 
 - Before the game, both teams and their mascots are expected to stay in their respective locker rooms. They must wait until they’re called onto the field before they can level sarcastic comments at members of the opposing team. Feel free to roleplay this situation as appropriate. However, if the mood turns hostile, interrupt it with the start of the game.
 
- - [ ]  **The Battle Begins**
-
+###### The Battle Begins
+ - [ ] 
 - When it’s time for the game to begin, the magically enhanced voice of Professor Sharpbeak overwhelms all conversation, even flooding into the locker rooms.
 >“Students and teachers. Staff and friends. Welcome to the Battle of Strixhaven! Today, two teams of Strixhaven’s finest will battle for the right to call themselves champions. They’ve practiced and you’ve waited — now, let the game begin!”
 
@@ -225,8 +230,8 @@
 	- Game 3: Lords of Lore (Rampart Sooviij, Javenesh Stoutclaw, Greta Gorunn, Rhit, Vanxun Pakul)
 	- For each game, the first student listed is the captain, and the number of student players always matches the number of PC players (so the last one or two in the list might not be used).
 
- - [ ]  **Returning to the Locker Room**
-
+###### Returning to the Locker Room
+ - [ ] 
 - When the characters return to their locker room, allow some roleplaying banter to take place.
 - Without warning, two mage hunters emerge from hiding places in the locker room and attack. The mage hunters entered the locker room unnoticed during the Mage Tower game and have been lying in wait for the characters to return.
 - Professor Sharpbeak is nowhere in sight, and it’s up to the characters to save themselves. The mage hunters fight to the death.
@@ -236,8 +241,8 @@
 
 - Examining the mage hunters reveals that these are the creatures that have been stalking the characters throughout this academic year. Their chitin matches the type the characters found near Wiltroot Hall, the Rose Stage, Aerojaunt Field, and the Scriptoria Collections. Characters who read the tome in the Scriptoria Collections, which mentioned that mage hunters work in pairs, should feel reassured that the threat has ended on Strixhaven’s campus.
 
- - [ ]  **End of the Year**
-
+###### End of the Year
+ - [ ] 
 - Once word gets out about what happened in the locker room, the characters are celebrated as heroes on campus. Feel free to add roleplaying scenes that reinforce how the characters’ actions kept calamity away from Strixhaven.
 - If you’re running this adventure as part of a Strixhaven campaign, the characters move toward their third year at Strixhaven as admired students on campus.
 
