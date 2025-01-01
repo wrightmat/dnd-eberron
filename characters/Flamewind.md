@@ -6,25 +6,10 @@ occupation: Researcher
 alignment: Neutral
 goals: To learn as much as possible about the events of the last fifty years, and the dragon involvement in particular.
 attitude: Helpful
-image: "![https://db4sgowjqfwig.cloudfront.net/campaigns/171319/assets/869364/Flamewind2.png|250](https://db4sgowjqfwig.cloudfront.net/campaigns/171319/assets/869364/Flamewind2.png)"
 ---
  #npc [[Sharn]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://db4sgowjqfwig.cloudfront.net/campaigns/171319/assets/869364/Flamewind2.png|ws-med|right](https://db4sgowjqfwig.cloudfront.net/campaigns/171319/assets/869364/Flamewind2.png)
 
 Flamewind is a gynosphinx with amazing oracular powers. Found in Xen'drik in 996 YK, Flamewind resides at Morgrave University in Sharn, where she spends her time in the university's library in trade for her visions of things to come.
 

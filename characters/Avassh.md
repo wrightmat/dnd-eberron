@@ -6,22 +6,6 @@ occupation: Daelkyr Lord
 ---
  #npc  #monster #daelkyr 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
-
 Avassh is the terraformer of the daelkyr. Poisonous blooms unfold at its touch, and fungus spreads in its wake. Dhakaani accounts of the wars against the daelkyr speak of blighted fields where rotting crops rise up to consume the farmers, and jungles where the screaming trees drink goblin blood through barbed roots. The Dhakaani on the western frontier had to burn their dead to ensure the corpses didn’t rise again, overflowing with fungal blooms. Those Dhakaani facing Avassh were ordered to be extraordinarily vigilant.
 
 Terrifying as Dyrrn’s mind flayers may be, when an illithid is slain, the threat is over. Avassh’s minions often scatter spores when they are destroyed; unless preventive measures are taken, a single shambling mound could give birth to a new legion. The Gatekeeper druids helped the Dhakaani to contain Avassh’s influence, but there weren’t enough druids to protect the vast empire; in many regions, fields and forests had to be razed to utterly expunge this alien threat.

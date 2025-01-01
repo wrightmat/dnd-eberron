@@ -6,22 +6,6 @@ occupation:
 ---
  #npc [[Trolanport]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
-
 Daneel is the ghost of a former stationmaster that the party discovered in Metrol during the “Lightning Rail Station” encounter of the Mournland.
 
 The spectre of stationmaster, Daneel Thornwaist (N male gnome ghost), was the only inhabitant of the station. Desperate for more genteel company than a pile of corpses, Daneel eagerly greets anyone who passes through. Before the characters leave, he asks to use his possession power on one of them, so that he might be able to leave the station and say goodbye to his family in Zilargo. If rejected, he may allow them to leave, or may try to forcibly possess one of them,

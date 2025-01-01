@@ -3,25 +3,10 @@ gender: Male
 race: Endless
 occupation: Bookkeeper
 pronouns: he/him
-image: "![https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg|250](https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg)"
 ---
  #npc [[Rhaan (Thelanis)]] [[The Endless]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg|ws-med|right](https://images.nightcafe.studio/jobs/vxPX0IzYo8dKH8xJlLEY/vxPX0IzYo8dKH8xJlLEY--1--vdp5k.jpg)
 
 Destiny, the oldest of the Endless, appears as a man with a hooded cloak of an indeterminate color of brown, gray, and sometimes purple. He's the tallest of the Endless, smells of dust and the libraries of night, leaves no footprints, and casts no shadow.
 

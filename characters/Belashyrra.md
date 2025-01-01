@@ -7,21 +7,7 @@ statblock: inline
 ---
  #npc #monster #daelkyr [[Lharvion (Xoriat)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/8/83/Belashyrra_5e.png|ws-med|right](https://static.wikia.nocookie.net/eberron/images/8/83/Belashyrra_5e.png)
 
 Belashyrra is the Lord of Eyes, and resides in the Unseen Citadel of Xoriat.
 

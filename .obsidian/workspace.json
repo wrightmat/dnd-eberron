@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Aleithilithos.md",
+                "file": "characters/Kauverra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aleithilithos"
+              "title": "Kauverra"
             }
           }
         ],
@@ -126,10 +126,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/Aleithilithos.md"
+                "file": "characters/Kauverra.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Aleithilithos"
+              "title": "Outline of Kauverra"
+            }
+          },
+          {
+            "id": "e1f461eafffe9657",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "characters/Kauverra.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Kauverra"
             }
           },
           {
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04. The Nature of Magic.md",
+                "file": "characters/Alistair d'Lyrandar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C04. The Nature of Magic"
+              "title": "Backlinks for Alistair d'Lyrandar"
             }
           },
           {
@@ -176,16 +188,6 @@
             }
           },
           {
-            "id": "de76a06521b063a6",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "7194ab9bde216a08",
             "type": "leaf",
             "state": {
@@ -206,21 +208,21 @@
             }
           },
           {
-            "id": "f1f51a407d248f57",
+            "id": "19516c810a58d1e5",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "all-properties",
               "state": {
-                "file": "characters/Aleithilithos.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Aleithilithos"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
-            "id": "64e6667c0d89e61d",
+            "id": "e46780752dd774bf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -231,12 +233,27 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "228f34e7c3a9878a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "characters/Alistair d'Lyrandar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Alistair d'Lyrandar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,32 +274,32 @@
   },
   "active": "89db0c423170b195",
   "lastOpenFiles": [
-    "characters/Adara Bristalfyr.md",
-    "adventures/C01 What Dreams May Come.md",
-    "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
-    "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
-    "adventures/C04 The Nature of Magic/2-02  Transmutation.md",
-    "adventures/C04 The Nature of Magic/2-03  Illusion.md",
-    "adventures/C04 The Nature of Magic/2-04  Abjuration.md",
-    "adventures/C04 The Nature of Magic/2-05  Evocation.md",
-    "adventures/C04 The Nature of Magic/2-06  Necromancy.md",
-    "adventures/C04 The Nature of Magic/2-07  Enchantment.md",
-    "adventures/C04 The Nature of Magic/2-08  Divination.md",
-    "adventures/C04 The Nature of Magic/2-09  Conjuration.md",
-    "adventures/C04 The Nature of Magic/2-10  Artifice.md",
-    "adventures/C04 The Nature of Magic/2-11  Psionics.md",
-    "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
-    "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
-    "adventures/C04 The Nature of Magic/2-14  Hemomancy (Finale).md",
-    "adventures/C04 The Nature of Magic/2-15  Strixhaven Epilogue.md",
-    "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
-    "adventures/C04 The Nature of Magic/1-05  Strixhaven Year 3, Term 1.md",
-    "adventures/C04 The Nature of Magic/1-04  Strixhaven Year 2, Term 2.md",
-    "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
-    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
-    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
-    "adventures/C03 Riddles of the Third Age/1-04  Zilargo and Zirael.md",
+    "characters/Kalryni.md",
+    "characters/Jutkarr Flintfingers.md",
+    "characters/Jorlanna d'Cannith.md",
+    "characters/Ihan de Rhaan.md",
+    "characters/Ikar the Black.md",
+    "characters/Jaela Daran.md",
+    "characters/Gwendalyn.md",
+    "characters/Gunnora.md",
+    "characters/Fortune’s Fool.md",
+    "characters/Flamewind.md",
+    "characters/Destruction.md",
+    "characters/Dolom.md",
+    "characters/Dream.md",
+    "characters/Dyrrn.md",
+    "characters/Elaydren d’Vown.md",
+    "characters/Elyon Winslow.md",
+    "characters/Empress of Shadows.md",
+    "characters/Enchanter.md",
+    "characters/Escher Belasco.md",
+    "characters/Destiny.md",
+    "characters/Despair.md",
+    "characters/Desire.md",
+    "characters/Death.md",
+    "characters/Defender.md",
+    "characters/Delirium.md",
+    "characters/Dawn Empress.md",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",
     "dnd-eberron/players",

@@ -7,25 +7,10 @@ occupation: Wizard
 alignment: Neutral
 attitude: Helpful
 languages: Common
-image:
 ---
 #npc 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![http://wizzle.tplinkdns.com:38090/index.php/s/X4eRaiAQoGLjcyi/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/X4eRaiAQoGLjcyi/preview)
 
 Chip is a youthful warforged with a slender, humanoid frame, slightly shorter than an average human teenager. His metal and wooden components are polished but show signs of wear and tear, and his face is expressive, with glowing blue eyes that radiate curiosity and warmth. He grew up in a small village in the Mournland known as Greenland, among a community of warforged, where he started to learn magic as an apprentice wizard. When a party of adventurers happened upon the village and promised to show him the world outside of the Mournland, he quickly and happily agreed.
 

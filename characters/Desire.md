@@ -2,26 +2,11 @@
 gender: Gender-Fluid
 race: Endless
 occupation: Brothelkeeper
-Image: "![https://i.etsystatic.com/33041549/r/il/4693a5/4157203508/il_fullxfull.4157203508_llg9.jpg|250](https://i.etsystatic.com/33041549/r/il/4693a5/4157203508/il_fullxfull.4157203508_llg9.jpg)"
 pronouns: they/them
 ---
  #npc [[Barrakas (Irian)]] [[The Endless]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://i.etsystatic.com/33041549/r/il/4693a5/4157203508/il_fullxfull.4157203508_llg9.jpg|ws-med|right](https://i.etsystatic.com/33041549/r/il/4693a5/4157203508/il_fullxfull.4157203508_llg9.jpg)
 
 >"Can I get you something you desire?"
 

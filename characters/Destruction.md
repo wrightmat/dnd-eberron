@@ -2,26 +2,11 @@
 gender: Male
 race: Endless
 occupation: Peacekeeper
-Image: "![https://www.tvinsider.com/wp-content/uploads/2020/01/Twin-kristofer-hivju.jpg|250](https://www.tvinsider.com/wp-content/uploads/2020/01/Twin-kristofer-hivju.jpg)"
 pronouns: he/him
 ---
  #npc [[Vult (Shavarath)]] [[The Endless]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://www.tvinsider.com/wp-content/uploads/2020/01/Twin-kristofer-hivju.jpg|ws-med|right](https://www.tvinsider.com/wp-content/uploads/2020/01/Twin-kristofer-hivju.jpg)
 
 Destruction is often depicted as a very tall, muscular, red-haired, bearded man. He has taken to wearing his hair in a ponytail.
 

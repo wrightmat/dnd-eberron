@@ -6,22 +6,6 @@ alignment: Lawful Good
 ---
  #npc [[Therendor (Syrania)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
-
 Castiel is the leader of the Solar City in Syrania, essentially the mayor of the city and definitely the most powerful angel in the plane.
 
 Castiel is a strong, determined, impulsive, competitive and kind celestial being. Like most angels, Castiel expresses little to no emotion, which creates flaws and complexities in his persona. His lack of emotion and understanding of human behavior such as sarcasm may lead to humorous situations.

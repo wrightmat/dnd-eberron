@@ -4,26 +4,10 @@ pronouns: he/him
 race: Dwarf
 occupation: Thief
 alignment: Neutral Evil
-attitude: 
+attitude: Hostile
 languages: Common, Dwarvish, Thieves’ Cant, Telepathy
 ---
 #npc 
-
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
 
 >Thieves? No. Thieves dream of doing one big, easy job. If they pull it off, they go into hiding and retire. We are not thieves. We’re architects
 

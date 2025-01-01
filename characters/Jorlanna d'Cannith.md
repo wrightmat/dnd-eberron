@@ -2,25 +2,10 @@
 gender: Female
 race: Human
 occupation: Baron
-image: "![https://static.wikia.nocookie.net/eberron/images/4/40/Jorlanna.jpg|300](https://static.wikia.nocookie.net/eberron/images/4/40/Jorlanna.jpg)"
 ---
  #npc [[Fairhaven]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/4/40/Jorlanna.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/4/40/Jorlanna.jpg)
 
 Jorlanna d'Cannith is a baron of House Cannith. She governs Cannith West, from Fairhaven, Aundair. Jorlanna d'Cannith is a proud and attractive woman in her fifties. She is closer to the age of a matriarch than her rivals. Her claim is stronger than Merrix’s as she is the daughter of the last leader of the house's second wife, Elsabet. However, she is also considered least likely to claim the House's leadership. Though she has a strong passion for uniting the House, allies in the Twelve, and a personal magnetism, people do not trust her judgment because of her past history.
 

@@ -13,29 +13,10 @@ alignment: Neutral
 languages: Common, Draconic
 background: Street Urchin
 campaign: "[[C03 Riddles of the Third Age]]"
-image: "![https://www.dndbeyond.com/avatars/39208/881/1581111423-115630616.jpeg|250](https://www.dndbeyond.com/avatars/39208/881/1581111423-115630616.jpeg)"
 ---
  #pc [[Sara Edwards]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> PC: `=this.campaign`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` (`=this.pronouns`) |
-> | **Race** | `=this.race` |
-> | **Class** | `=this.class` |
-> | **Subclass** | `=this.subclass` |
-> | **Alignment** | `=this.alignment` |
-> | **Languages** | `=this.languages` |
-> | **Background** | `=this.background` |
-> | **Ideal(s)** | `=this.ideal` |
-> | **Bond(s)** | `=this.bond` |
-> | **Flaw(s)** | `=this.flaw` |
-> ###### Comments
-> `=this.comments`
+![https://www.dndbeyond.com/avatars/39208/881/1581111423-115630616.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/39208/881/1581111423-115630616.jpeg)
 
 Aither follows the Path of Light (which is now more dedicated to healing and spreading the light), and is a refugee from the former Unity of Riedra. She now resides in the largest monastery in Kasshta, traveling to other places as needed. She spends her day making rounds through the sick, healing them. Aither considers the monastery her family, as well as all other genasi.
 

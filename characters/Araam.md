@@ -5,25 +5,10 @@ occupation: Architect
 alignment: Lawful Good
 attitude: Friendly
 languages: All
-Image: "![https://regardmag.com/wp-content/uploads/IA-4_0321-r-1-770x550.jpg|300](https://regardmag.com/wp-content/uploads/IA-4_0321-r-1-770x550.jpg)"
 ---
  #npc [[Barrakas (Irian)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://regardmag.com/wp-content/uploads/IA-4_0321-r-1-770x550.jpg|ws-med|right](https://regardmag.com/wp-content/uploads/IA-4_0321-r-1-770x550.jpg)
 
 >Human intuition and instinct are not always right, but they do make life interesting.
 

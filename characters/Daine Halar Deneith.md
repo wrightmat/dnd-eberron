@@ -4,25 +4,10 @@ race: Human
 class: Fighter
 occupation: Soldier, Mercenary, Adventurer
 attitude: Unfriendly
-image: "![https://media1.popsugar-assets.com/files/thumbor/brYrhZQUsqSupSk9nvnHOzdzFEo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/06/28/817/n/1922283/a84dce335b352ae1951c95.61827167_p3/i/Nick-Offerman-Ron-Swanson.jpg|300](https://media1.popsugar-assets.com/files/thumbor/brYrhZQUsqSupSk9nvnHOzdzFEo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/06/28/817/n/1922283/a84dce335b352ae1951c95.61827167_p3/i/Nick-Offerman-Ron-Swanson.jpg)"
 ---
  #npc
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://media1.popsugar-assets.com/files/thumbor/brYrhZQUsqSupSk9nvnHOzdzFEo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/06/28/817/n/1922283/a84dce335b352ae1951c95.61827167_p3/i/Nick-Offerman-Ron-Swanson.jpg|ws-med|right](https://media1.popsugar-assets.com/files/thumbor/brYrhZQUsqSupSk9nvnHOzdzFEo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/06/28/817/n/1922283/a84dce335b352ae1951c95.61827167_p3/i/Nick-Offerman-Ron-Swanson.jpg)
 
 Daine Halar Deneith is the leader of a team of ex-Cyran soldiers turned adventurers.
 

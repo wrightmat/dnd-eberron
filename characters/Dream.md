@@ -1,26 +1,11 @@
 ---
 gender: Male
 race: Endless
-image: "![https://d.newsweek.com/en/full/2088866/sandman.jpg|250](https://d.newsweek.com/en/full/2088866/sandman.jpg)"
 pronouns: he/him
 ---
  #npc [[Crya (Dal Quor)]] [[The Endless]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://d.newsweek.com/en/full/2088866/sandman.jpg|ws-med|right](https://d.newsweek.com/en/full/2088866/sandman.jpg)
 
 >A Nightmare's purpose is to reveal a dreamer's fears, that they may face them
 

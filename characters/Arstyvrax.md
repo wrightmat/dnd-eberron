@@ -6,28 +6,11 @@ occupation: Tribe Leader, Necromancer
 alignment: Chaotic Neutral
 attitude: Hostile
 languages: Abyssal, Common, Draconic
-image: "![https://i.redd.it/62qpj1yvywgb1.jpg|300](https://i.redd.it/62qpj1yvywgb1.jpg)"
 statblock: inline
 ---
  #npc #monster [[Draconic Factions]]
 
-
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
-
+![https://i.redd.it/62qpj1yvywgb1.jpg|ws-med|right](https://i.redd.it/62qpj1yvywgb1.jpg)
 
 >"I am predictable only in my unpredictability."
 

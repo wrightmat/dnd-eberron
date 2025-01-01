@@ -7,22 +7,6 @@ occupation: Druid Elder (Wardens of the Wood)
 ---
  #npc [[Eldeen Reaches]] [[Wardens of the Wood]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
-
 Originally an NPC played by [[Jolene Harper]] during [[3-03  The Orphanage Flashback]]
 
 Gwendalyn was raised in an orphanage in Daskaran with several other orphans, where she had an adventure with a tiger at a young age. This led her to study the natural world, and druidic magic, at every opportunity she had. When she aged out of the system, she had nowhere to go, and decided to set out for the Eldeen Reaches - hoping to further her druidic studies.

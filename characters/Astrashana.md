@@ -12,29 +12,10 @@ alignment: Chaotic Good
 languages: Common, Quori, Riedran
 background: Entertainer
 campaign: "[[C01 What Dreams May Come]]"
-image: "![https://www.dndbeyond.com/avatars/30792/357/1581111423-75240969.jpeg|250](https://www.dndbeyond.com/avatars/30792/357/1581111423-75240969.jpeg)"
 ---
  #pc [[Alex Kelsch]] [[Crya (Dal Quor)]] [[Barrakas (Irian)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> PC: `=this.campaign`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` (`=this.pronouns`) |
-> | **Race** | `=this.race` |
-> | **Class** | `=this.class` |
-> | **Subclass** | `=this.subclass` |
-> | **Alignment** | `=this.alignment` |
-> | **Languages** | `=this.languages` |
-> | **Background** | `=this.background` |
-> | **Ideal(s)** | `=this.ideal` |
-> | **Bond(s)** | `=this.bond` |
-> | **Flaw(s)** | `=this.flaw` |
-> ###### Comments
-> `=this.comments`
+![https://www.dndbeyond.com/avatars/30792/357/1581111423-75240969.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/30792/357/1581111423-75240969.jpeg)
 
 ### Backstory
 

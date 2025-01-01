@@ -8,21 +8,7 @@ image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Kauverra.png|250](htt
 ---
  #npc [[Draconic Factions]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://wrightmat.github.io/dnd-eberron/_img/NPC_Kauverra.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Kauverra.png)
 
 >"I admire how brightly short-lived creatures shine before their lights go out."
 

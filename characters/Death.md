@@ -2,26 +2,11 @@
 gender: Female
 race: Endless
 occupation: Gatekeeper
-image: "![https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf|300](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf)"
 pronouns: she/her
 ---
  #npc [[Aryth (Dolurrh)]] [[The Endless]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf|ws-med|right](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSFWLRWACnr19Xy8x6eH6ULZonyYqoSopG6vpUgveZKLifGIye_JOLGL-kb_0UekHBf42XcIybm2Yjr4yiw2OcvtQgDYHSlb_ZSjW0I78hnctSiM1R1tDI4wjYaW-IngM12dreBDXmUX7M0b6qB9oylZYCk.jpg?r=edf)
 
 >People may not be ready for my gift, but they get it anyway.
 

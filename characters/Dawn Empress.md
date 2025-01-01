@@ -2,25 +2,10 @@
 gender: Female
 race: Celestial
 occupation: Architect
-image: "![https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a|300](https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a)"
 ---
  #npc [[Barrakas (Irian)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a|ws-med|right](https://preview.redd.it/empress-by-me-v0-yzg9nv2cwrw91.jpg?width=640&crop=smart&auto=webp&s=b85c731f08f6b525f8f91593dff45ef25c6def6a)
 
 The Dawn Empress is the leader of the Amaranthine City in Irian.
 

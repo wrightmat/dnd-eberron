@@ -3,26 +3,11 @@ gender: Male
 race: Half-Orc
 occupation: Salvager
 attitude: Indifferent
-image: "![https://www.worldanvil.com/uploads/images/7d436c3bc606537c949ad600846c62e8.jpg|250](https://www.worldanvil.com/uploads/images/7d436c3bc606537c949ad600846c62e8.jpg)"
 statblock: inline
 ---
  #npc [[Mournland (Cyre)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://www.worldanvil.com/uploads/images/7d436c3bc606537c949ad600846c62e8.jpg|ws-med|right](https://www.worldanvil.com/uploads/images/7d436c3bc606537c949ad600846c62e8.jpg)
 
 Ikar the Black is the half-orc leader of Ikar's Salvage, a team of mercenaries and laborers (including warforged and Karrnathi undead). Ikar's Salvage searches the Mournland for lost treasures, selling former Cyran equipment. He was once a decorated Karrnathi officer during the Last War.
 

@@ -5,26 +5,11 @@ class: Sorcerer
 occupation: Empress of Aundair
 alignment: Lawful Evil
 attitude: Indifferent
-image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Corrine.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Corrine.png)"
 languages: Common, Draconic, Elvish, Halfling
 ---
  #npc 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://wrightmat.github.io/dnd-eberron/_img/NPC_Corrine.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Corrine.png)
 
 Corrine ir'Wynarn is the current empress of the Aundair. She is the youngest daughter of the late Aurala ir'Wynarn. When Corrine came into power, she removed the title queen and turned it into empress as a decree. She deemed that their nation was strong and proud enough to be considered an empire. Corrine now resides at the palace in the Royal Court of Fairhold, or simply Fairhold, in the city of Fairhaven in Aundair (although she often returns to the Eldeen Reaches for business).
 

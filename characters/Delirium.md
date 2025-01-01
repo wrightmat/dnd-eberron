@@ -1,26 +1,11 @@
 ---
 gender: Female
 race: Endless
-image: "![https://e0.pxfuel.com/wallpapers/963/7/desktop-wallpaper-delirium-sandman-delirium-icon.jpg|250](https://e0.pxfuel.com/wallpapers/963/7/desktop-wallpaper-delirium-sandman-delirium-icon.jpg)"
 pronouns: she/her
 ---
  #npc [[Lharvion (Xoriat)]] [[The Endless]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://e0.pxfuel.com/wallpapers/963/7/desktop-wallpaper-delirium-sandman-delirium-icon.jpg|ws-med|right](https://e0.pxfuel.com/wallpapers/963/7/desktop-wallpaper-delirium-sandman-delirium-icon.jpg)
 
 >"Have you ever spent days and days making up flavors of ice cream that no one's ever eaten before? Like chicken and telephone ice cream?... Green mouse ice cream was the worst. I didn't like that at all.”
 

@@ -4,26 +4,11 @@ race: Tiefling
 class: Wizard
 occupation: Thief
 alignment: Chaotic Evil
-image: "![https://www.dndbeyond.com/avatars/thumbnails/12734/840/1000/1000/637357081587654273.jpeg|250](https://www.dndbeyond.com/avatars/thumbnails/12734/840/1000/1000/637357081587654273.jpeg)"
 statblock: inline
 ---
  #npc 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://www.dndbeyond.com/avatars/thumbnails/12734/840/1000/1000/637357081587654273.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/thumbnails/12734/840/1000/1000/637357081587654273.jpeg)
 
 Avarice is a cruel and vindictive tiefling trained in the arcane tradition of evocation. She likes using her magic to destroy things, and her hunger for magic items knows no bounds. Her supreme confidence means that she never backs down from a challenge, even when the odds are clearly stacked against her. Seeing other wizards as a threat, paranoia rules her life.
 

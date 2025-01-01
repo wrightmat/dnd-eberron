@@ -4,25 +4,10 @@ race: Dragon
 subrace: Chromatic (Blue)
 occupation: Faction Leader
 alignment: Chaotic Neutral
-image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Kalryni.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Kalryni.png)"
 ---
  #npc [[Draconic Factions]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://wrightmat.github.io/dnd-eberron/_img/NPC_Kalryni.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Kalryni.png)
 
 >"Why waste time and energy murdering weaker creatures when I can make them entertain me instead?"
 
