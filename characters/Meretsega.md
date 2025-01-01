@@ -7,7 +7,7 @@ alignment: Chaotic Evil
 ---
  #npc [[Draconic Factions]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/NPC_Meretsega.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Meretsega.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/kMx92SNBTWJRo9Y/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/kMx92SNBTWJRo9Y/preview)
 
 >"I don't care about the opinions of creatures that are less intelligent than I am. But I'm fascinated by creatures that are significantly more intelligent."
 

@@ -53,8 +53,6 @@
 >
 > **Illumination.** Rooms in Susurrus are dark unless noted otherwise, Githyanki within the palace carry light sources with them when they navigate the various halls and chambers.
 
-![https://wrightmat.github.io/dnd-eberron/_img/susurrus.png](https://wrightmat.github.io/dnd-eberron/_img/susurrus.png)
-
 **S1. Great Statue of Gith**
 
 > A 100-foot-tall statue of polished obsidian stands before the dark palace. The statue depicts a female githyanki knight bedecked in ornate armor clutching a gigantic greatsword, its blade fashioned from gleaming silver. The sword's point hovers 10 feet above the ground, directly over a 10-foot-diameter circular symbol carved Into the statue's base.

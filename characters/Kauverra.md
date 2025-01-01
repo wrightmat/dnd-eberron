@@ -7,7 +7,7 @@ alignment: Chaotic Neutral
 ---
  #npc [[Draconic Factions]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/NPC_Kauverra.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Kauverra.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/8Cqq8r8AJ9Ya6Lq/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/8Cqq8r8AJ9Ya6Lq/preview)
 
 >"I admire how brightly short-lived creatures shine before their lights go out."
 

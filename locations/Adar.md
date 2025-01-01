@@ -4,7 +4,7 @@ region: "[[public/Sarlona|Sarlona]]"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Adar.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Adar.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/ggsMPJKbJkg5skr/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/ggsMPJKbJkg5skr/preview)
 
 Adar is the mountainous region in southeast of Sarlona. It is inhabited mostly by humans (including the kalashtar), though there is a prominent contingent of blue dragons on the uppermost peaks.
 

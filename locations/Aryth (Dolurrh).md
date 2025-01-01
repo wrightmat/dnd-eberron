@@ -15,14 +15,21 @@ region: "[[Shardspace]]"
 ### Locations
 
 #### River of Souls
+A slowly flowing jet black river, that appears to be composed of shades and husks, winds throughout Dolurrh. Anyone who touches the river must make an immediate save against the plane's Inevitable Entrapment trait.
 
 #### The Kennel
+All the mortals born on Eberron are bound to Dolurrh, but like spirits are drawn together. The Catacombs hold the spirits of dead humanoids. The Kennel is similar in appearance, but it contains the shades and husks of beasts and monstrosities. Here you’ll hear the howls of fading wolf spirits, and see flocks of spectral birds flying through grand halls… along with larger and more fierce creatures. Beast spirits rarely linger long in Dolurrh, as most have fewer memories to erase.
 
 #### The Catacombs
+> Endless caverns stretch throughout this area, bleak passages of gray stone. Wherever you go, shadowy figures reach toward you, imploring, but you feel only the faintest chill as their insubstantial fingers pass through you. Mist pools around your feet, and as you press forward you realize this swirling mist is moaning. This is no natural phenomenon; these are the remnants of souls who have long forgotten their original form.
+
+Tunnels are carved into gray stone. In some places they are painfully tight; in others they widen into grand halls, with ceilings lost in the darkness. The dead are everywhere, shades pleading for release and husks keening in the shadows. Some chambers contain vast wells filled with moaning mist; in others, nalfeshnee herd shades into pens or scrape lemures off the walls. There is no particular logic to it, just endless tunnels. The Catacombs may be larger than Khorvaire, or even Eberron. A mortal could wander forever through these winding tunnels, or at least until they are consumed by ennui. However, there are junction points that transcend the logic of distance. If one knows the right symbols to follow, they can cross the vastness of the Catacombs quickly or pass to other layers.
 
 #### The Crucible
+In the Crucible, the immortal spirit known as the **Smith of Souls** refines the essence of faded spirits and creates things out of this husksteel. The Smith forges the armor and weapons of the shadar-kai, and creates the maruts from the husks of brave souls. She also creates smaller and stranger items from husksteel. This is a comparatively small layer, but it is still a grand foundry, tended by shadar-kai and guarded by newly-forged maruts. The Smith wears a mask of black steel and an apron that seems to be made from dragonhide. When forging maruts she is a giant; when crafting tiny trinkets she appears to be a gnome. It’s possible that she collects the memories of mortal artisans, and can replicate their works at her forge.
 
 #### Vault of Memories
+The heart of Dolurrh is the Vault of Memories. It’s a tower carved up through gray stone, larger than any of the great towers of Sharn. The lowest levels are the Library. Here, the spirit known as the Librarian interviews each shade and makes a record of its life. The power of the Librarian is such that an entire life can be confined to a single large page. Every sigil inscribed holds a crucial memory; a character proficient in Arcana can read the symbol to experience that memory. The many floors of the Library hold countless books of preserved lives, carefully tended by shadar-kai scribes. The Librarian himself is a massive hooded figure, and his books are enormous. It’s said that he can be many places at once, which is how he is able to speak to every shade before it fades.
 
 ### Universal Properties
 

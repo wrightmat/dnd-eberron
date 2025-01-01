@@ -75,3 +75,5 @@ The sweltering heat of Fernia can be deadly to unprotected creatures, and it bur
 **Burning Bright**. Whenever a creature makes a death saving throw, it must make an additional saving throw, keeping the results of both rolls. In addition, when a creature gains a level of exhaustion, it gains an extra level; when it reduces a level of exhaustion, it reduces it by an additional level. In Fernia, whether you live or die, it’s going to happen quickly!
 
 **Standard Time**. Time passes at the same pace as on the Material Plane, and is consistent across its layers.
+
+### References

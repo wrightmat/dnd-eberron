@@ -19,19 +19,39 @@ Building a community out of the wreckage of Cyre, New Cyre continues to attract 
 
 ### Locations
 
-- **Prince Oargev’s Manor** (1). The job board outside of the Prince’s Manor contains various job postings, as needed.
-- **[[Gold Dragon Inn]]** (2).
-- **Eston District** (4). Reminiscent of the former seat of House Cannith, this district contains all of the skilled workers and artificers who make New Cyre tick. The district has gone strangely quiet recently, as many of the artificers have gone missing.
-- **Metrol Market**. This memorial to the former splendor of the capital city is now the bustling market of New Cyre. A small Vault holds the valuables of the community, including of Prince Oargev.
-- **Old Town** (5). The original camp of initial Mourning refugees has long since been abandoned. A small stream connects “Lake” New Cyre to the Seawell Mountains.
-- **“Lake” New Cyre** (6). The only natural water source in the area is small and contains barely enough water to support the four thousand residents.
-- **Church of the Silver Flame** (7). A small temple of the Silver Flame is here, run by a human cleric named Darmin.
-- **Northern Tents** (8). Tent cities in the north and south house the majority of the working population of New Cyre. This larger one houses about three thousand residents, uncomfortably.
-- **Boot Hill - Watchtower** (9). New Cyre maintains a cavalry, likely because the Brelish border patrols are too sparse to secure the countryside against bandits and monsters.
-- **The Railyards** (10)
-- **Thamund’s Farm** (11)
-- **Southern Tents** (12). Tent cities in the north and south house the majority of the working population of New Cyre. This smaller one houses about a thousand residents, uncomfortably.
+![http://wizzle.tplinkdns.com:38090/index.php/s/XzGyFe7Zr5jgt4g/preview|wm-tl|right](http://wizzle.tplinkdns.com:38090/index.php/s/XzGyFe7Zr5jgt4g/preview)
 
-![https://wrightmat.github.io/dnd-eberron/_img/new_cyre.jpg|800](https://wrightmat.github.io/dnd-eberron/_img/new_cyre.jpg)
+###### 1. Prince Oargev’s Manor
+The job board outside of the Prince’s Manor contains various job postings, as needed.
+
+###### 2. [[Gold Dragon Inn]]
+
+###### 3. Metrol Market
+This memorial to the former splendor of the capital city is now the bustling market of New Cyre. A small Vault holds the valuables of the community, including of Prince Oargev.
+
+###### 4. Eston District
+Reminiscent of the former seat of House Cannith, this district contains all of the skilled workers and artificers who make New Cyre tick. The district has gone strangely quiet recently, as many of the artificers have gone missing.
+
+###### 5. Old Town
+The original camp of initial Mourning refugees has long since been abandoned. A small stream connects “Lake” New Cyre to the Seawell Mountains.
+
+###### 6. “Lake” New Cyre
+The only natural water source in the area is small and contains barely enough water to support the four thousand residents.
+
+###### 7. Church of the Silver Flame
+A small temple of the Silver Flame is here, run by a human cleric named Darmin.
+
+###### 8. Northern Tents
+Tent cities in the north and south house the majority of the working population of New Cyre. This larger one houses about three thousand residents, uncomfortably.
+
+###### 9. Boot Hill - Watchtower
+New Cyre maintains a cavalry, likely because the Brelish border patrols are too sparse to secure the countryside against bandits and monsters.
+
+###### 10. The Railyards
+
+###### 11. Thamund’s Farm
+
+###### 12. Southern Tents
+Tent cities in the north and south house the majority of the working population of New Cyre. This smaller one houses about a thousand residents, uncomfortably.
 
 ### References

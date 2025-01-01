@@ -14,6 +14,7 @@ Thrane is one of the original Five Nations that formed the Kingdom of Galifar be
 
 ### Locations
 
-- 
+- [[Flamekeep]]
+- [[Daskaran]]
 
 ### References

@@ -7,7 +7,7 @@ alignment: Lawful Good
 ---
  #npc [[Draconic Factions]] [[The Silver Scales]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/NPC_Yllosavax.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Yllosavax.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/xT8FgKKYyQRZfRS/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/xT8FgKKYyQRZfRS/preview)
 
 >"It's my duty as a member of an elder species to protect and guide other peoples."
 

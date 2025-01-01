@@ -7,7 +7,7 @@ alignment: Chaotic Neutral
 ---
  #npc [[Draconic Factions]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/NPC_Kalryni.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Kalryni.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/7qKNRx5XgoG4f57/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/7qKNRx5XgoG4f57/preview)
 
 >"Why waste time and energy murdering weaker creatures when I can make them entertain me instead?"
 

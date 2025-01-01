@@ -7,7 +7,7 @@ alignment: Lawful Neutral
 ---
  #npc [[Draconic Factions]] [[Flamekeep]] [[The Chamber]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/NPC_Spindelaryx.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Spindelaryx.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/b44tnqk7FmgtCo3/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/b44tnqk7FmgtCo3/preview)
 
 >"The future is writ large in the patterns of history. I enjoy conversing with others who think critically about history and society."
 

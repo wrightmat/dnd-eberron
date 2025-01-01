@@ -4,7 +4,7 @@ region: "[[public/Sarlona|Sarlona]]"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/S47NZJaEn4rRkqs/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/S47NZJaEn4rRkqs/preview)
 
 Pyrine is a land of warm plains and forests, welcoming both in its aspect and its aura. Something about Pyrine inspires calm reflection. When standing in a Pyrinean meadow, it's easy to feel a sense of joy and contentment — to know that somehow, all is right in the world.
 

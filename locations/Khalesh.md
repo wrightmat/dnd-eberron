@@ -4,7 +4,7 @@ region: "[[public/Sarlona|Sarlona]]"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Khalesh.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Khalesh.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/7d2GJBpSmBqD844/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/7d2GJBpSmBqD844/preview)
 
 Khalesh is a land of temperate plains and desert — green grassland fading into sunbaked plains and mesas. While it’s more hospitable than neighboring Borunan, at a glance it’s rather barren — endless and empty. And yet, if you wander these plains, you may find yourself enveloped by a sense of well-being, a deep-rooted optimism, and the knowledge that all will be well… with an underlying conviction that you’ll fight to keep it that way.
 

@@ -1,12 +1,8 @@
 ---
-Image: "![https://wrightmat.github.io/dnd-eberron/_img/garrick_quickfinder.png|250](https://wrightmat.github.io/dnd-eberron/_img/garrick_quickfinder.png)"
-Shopkeeper: Garrick Quickfinder
+shopkeeper: Garrick Quickfinder
 ---
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ##### `=this.Shopkeeper`
+![http://wizzle.tplinkdns.com:38090/index.php/s/z9wfLd7osrNiKK2/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/z9wfLd7osrNiKK2/preview)
 
 | Item Name                     | Price    | Rarity   | Type                      | Description                                                   |
 | ----------------------------- | -------- | -------- | ------------------------- | ------------------------------------------------------------- |

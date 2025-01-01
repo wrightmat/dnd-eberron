@@ -7,7 +7,7 @@ alignment: Neutral Evil
 ---
  #npc [[Draconic Factions]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/NPC_Shadewing.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Shadewing.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/Mb3GxTJsYksq8rL/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/Mb3GxTJsYksq8rL/preview)
 
 >"I trust my gut. I'd rather act on incomplete information than be hamstrung by indecision."
 

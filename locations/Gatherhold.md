@@ -46,8 +46,6 @@ Gatherhold is a large town, and the largest settlement, in the Talenta Plains. B
 
 #### Equinoxes and Solstices
 
-[https://open.spotify.com/track/0l4seNH8AyE2kvjxFfpWi1?si=64199088c94f4a6b](https://open.spotify.com/track/0l4seNH8AyE2kvjxFfpWi1?si=64199088c94f4a6b)
-
 The Talenta Halflings have simple holidays at the summer and winter solstices as well as the spring and fall equinoxes. They offer toasts to the elders, eat and drink a great deal, and listen to storytelling all night long. Epic dancing, drumming and singing, as well as other physical activities and more drinking, are part of the celebration. The quarterly festivals are often times of marriage.
 
 The main traditional foods of the halflings include dinosaur meat and eggs, goat, mutton, and milk products, supplemented by found vegetables. Halflings drink the milk of goats, and sheep, as well as tea and wine. Common dishes include dumplings, steamed stuffed buns, and meat pie.
@@ -76,3 +74,4 @@ Suggested Stories and NPCs:
 
 * https://www.reddit.com/r/Eberron/comments/efajy3/fluff_talenta_halfling_culture/
 * https://www.dndbeyond.com/posts/655-encounter-of-the-week-gathering-at-gatherhold
+* Equinox Playlist: [https://open.spotify.com/track/0l4seNH8AyE2kvjxFfpWi1?si=64199088c94f4a6b](https://open.spotify.com/track/0l4seNH8AyE2kvjxFfpWi1?si=64199088c94f4a6b)

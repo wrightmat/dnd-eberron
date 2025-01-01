@@ -5,7 +5,6 @@ location:
 government: 
 ruler:
 ---
-
  #location #castle/fort [[Breland]]
 
 Kennrun is a fortification in northeastern Breland on the border with Darguun.

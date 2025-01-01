@@ -11,4 +11,6 @@ The size and number of guest rooms can vary from inn to inn: a small roadside in
 
 Because travelers often carry valuables with them, each inn has a heavy strongbox secured with an arcane lock spell. To make a traveler's stay more enjoyable, perhaps even memorable, House Ghallanda has arranged with House Thuranni and House Phiarlan to employ guild-licensed entertainers at almost every Gold Dragon Inn.
 
-[[Food and Drink]]
+### References
+
+- [[Food and Drink]]

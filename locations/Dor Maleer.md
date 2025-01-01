@@ -4,7 +4,7 @@ region: "[[public/Sarlona|Sarlona]]"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Dor_Maleer.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Dor_Maleer.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/Rzm6D9ccDZiZGaL/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/Rzm6D9ccDZiZGaL/preview)
 
 Dor Maleer is a region of harsh plains, cold deserts, and mountains. Its barren land is only slightly more hospitable than the Tashana Tundra that lies to the north. In the days before the First Sundering, the northern mountains were the domain of the Doriak dwarves, while the plains were claimed by the Hual Maleer, a loose federation of human and shifter clans.
 

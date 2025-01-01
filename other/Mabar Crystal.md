@@ -1,5 +1,5 @@
  #item [[1-02  Beyond Delethorn]]
 
-This inky black crystal is found throughout the underworld or near Mabar manifest zones. These crystals can be used to channel shadow magic, and are sometimes collected for necromantic spells or eldritch machinery.
+![http://wizzle.tplinkdns.com:38090/index.php/s/wfrJPN2HHsxcB6o/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/wfrJPN2HHsxcB6o/preview)
 
-![https://wrightmat.github.io/dnd-eberron/_img/mabar.png|300](https://wrightmat.github.io/dnd-eberron/_img/mabar.png)
+This inky black crystal is found throughout the underworld or near Mabar manifest zones. These crystals can be used to channel shadow magic, and are sometimes collected for necromantic spells or eldritch machinery.

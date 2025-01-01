@@ -1,6 +1,6 @@
  #organization #guild [[Prism]] [[Velgram]] [[Logo d'Tharashk]]
 
-![https://wrightmat.github.io/dnd-eberron/_img/clifftop.png](https://wrightmat.github.io/dnd-eberron/_img/clifftop.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/f2BE4KgY7RaZ6Tb/preview|right](http://wizzle.tplinkdns.com:38090/index.php/s/f2BE4KgY7RaZ6Tb/preview)
 
 The Clifftop Adventurers' Guild is a guild for explorers and professional adventurers based out of the Clifftop district of Sharn. The Guild has a reputation for reliability and integrity, and has a strong rivalry with the less-reputable Deathsgate Adventurer's Guild.
 
@@ -24,7 +24,7 @@ Joining the Clifftop Guild requires gaining the approval of several current memb
 - **Deathsgate Explorers’ Club**. A fierce rivalry simmers between the Clifftop guild and Sharn’s other local adventurers’ guild. Sometimes the rivalry can be described as almost friendly, but the Deathsgate guild occasionally escalates it with vandalism of the Clifftop guildhall or even physical (but usually nonlethal) attacks on guild members in dark alleys.
 - **The Sharn Watch**. Clifftop is protected of the Daggerwatch Garrison and Watch Commander Lian Halamar. Halamar has no love for adventurers and is happy to catch guild members on the wrong side of the law.
 
-**Guild Benefits**
+#### Guild Benefits
 
 As members of an adventurers’ guild, your group gains the following benefits:
 
@@ -38,7 +38,7 @@ As members of an adventurers’ guild, your group gains the following benefits:
 
 **Storage**. The guild will store items for its members. The Clifftop guild has an account with House Kundarak banks that allow its members to store valuables in secure vaults. Some guilds have access to items such as a bag of holding or a safe that opens into a similar extradimensional space. In the worst case, an item can be hidden in a guildhall’s basement for a time.
 
-**Adventurer's Guild Contacts**
+#### Adventurer's Guild Contacts
 
 Typically, an adventuring group has no particular contact within the larger guild. There’s a local leader or bookkeeper who collects dues, but otherwise you might interact with a variety of different members of the guild in different contexts—when looking for a contract, gathering referrals, staying in the guildhall, and so on. The Guild Contact table provides inspiration for contacts you might encounter during any given encounter with your adventurer’s guild.
 
@@ -53,3 +53,5 @@ Typically, an adventuring group has no particular contact within the larger guil
 8	A grouchy employee who keeps the guildhall clean and cares for its guests while quietly complaining about how adventurers should “grow up,” get a “real job,” and contribute to society
 9	A kindly mentor who loves to tell stories of past exploits in front of the guildhall fireplace
 10	A sad, older adventurer who tells cautionary tales in the vain hope that younger members avoid making the same mistakes
+
+### References
