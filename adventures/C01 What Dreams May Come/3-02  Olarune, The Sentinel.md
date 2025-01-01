@@ -101,7 +101,7 @@ Roll once on the random encounters table when the players arrive. Any of these c
 
 The gate is inactive, and any sort of check will reveal that it can’t be activated from this side - it must be a gate to somewhere else where it can be activated from the other side (this is an allusion to *Convergence Manifesto 7: The Silvered Edge of Twilight*, in case that’s run at a later time, otherwise it could be connected to the Gate of Xabra at Arcanix, or it’s just flavor).
 
-![https://wrightmat.github.io/dnd-eberron/_img/twilight-gate.png|400](https://wrightmat.github.io/dnd-eberron/_img/twilight-gate.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/XQS8QDeZ3cSRE3i/preview|ws-med](http://wizzle.tplinkdns.com:38090/index.php/s/XQS8QDeZ3cSRE3i/preview)
 
 #### The Broken Land
 

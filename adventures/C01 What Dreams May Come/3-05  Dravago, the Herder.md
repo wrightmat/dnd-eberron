@@ -86,7 +86,7 @@ During the fight, the characters will notice that there is a wand (*wand of the 
 
 In the far corner of the foyer, a great pair of icy double doors stands within the wall. The door are engraved with four different symbols - a hearth (Boldrei), a domino (Olladra), a winged serpent (The Fury), and the symbol of the plane of Risia - arranged in four columns, each column comprised of the same symbol repeated four times in rotated orientations. At the bottom of each column is an empty space where a plate can be affixed. To the right and left of the doors are two dwarves (four in total), each holding a plate with a symbol that corresponds to one of the columns on the door. To open the doors, the four plates from the dwarves must be placed in the proper position and orientation on the door. If they are placed incorrectly, the carvings release an icy blast in roughly a 10-foot cone in front of the doors. Anyone in this area must succeed on a DC 14 Constitution saving throw or take 11 (2d10) cold damage, or half on a success. The dwarves speak, but only an ancient dialect of Dwarvish, which can’t be understood by the players.
 
-![https://wrightmat.github.io/dnd-eberron/_img/dravago-freehearth-door-2.png](https://wrightmat.github.io/dnd-eberron/_img/dravago-freehearth-door-2.png)
+![http://wizzle.tplinkdns.com:38090/index.php/s/niZ55ksYrZ9otPA/preview](http://wizzle.tplinkdns.com:38090/index.php/s/niZ55ksYrZ9otPA/preview)
 
 ##### Second Floor
 
@@ -174,8 +174,6 @@ Immediately after a shard is found, a Frost Giant named Garagai approaches the p
 
 ##### First Floor
 
-![https://wrightmat.github.io/dnd-eberron/_img/dravago-winter-1-dm.png|800](https://wrightmat.github.io/dnd-eberron/_img/dravago-winter-1-dm.png)
-
 ###### W1. Entrance
 > The steps end in front of a double door made from slabs of ice with dragon skulls and bones embedded in them. Carved into the lintel is a single word in what appears to be a Dwarvish script.
 
@@ -237,8 +235,6 @@ The creatures perched on the ledges are six ice mephits. They observe intruders 
 `encounter: 6: Ice Mephit`
 
 ##### Second Floor
-
-![https://wrightmat.github.io/dnd-eberron/_img/dravago-winter-2-dm.png|800](https://wrightmat.github.io/dnd-eberron/_img/dravago-winter-2-dm.png)
 
 ###### W8. Ice Rink
 > The staircase ascends into a vaulted chamber. A nine-foot-high railing of sculpted ice hugs the staircase as it ascends to the chamber floor, which, like the stairs, is smooth and gleaming. A walrus as big as an elephant is having a grand old time rolling and sliding on the ice, paying you little heed. Six doors dot the perimeter of the chamber, radiating like the branches of a snowflake.

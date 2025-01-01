@@ -2,7 +2,7 @@
 
 ```leaflet
 id: shardspace-map
-image: https://wrightmat.github.io/dnd-eberron/_img/Shardspace.png
+image: http://wizzle.tplinkdns.com:38090/index.php/s/ZdDjdpTnQTTJ7gk/preview
 height: 500px
 lat: 50
 long: 45

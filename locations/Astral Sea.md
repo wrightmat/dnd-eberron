@@ -2,15 +2,15 @@
 
 ```leaflet
 id: astral-map
-image: https://wrightmat.github.io/dnd-eberron/_img/astral_sea_map.png
+image: http://wizzle.tplinkdns.com:38090/index.php/s/5HjeZqaTk6ZH8t7/preview
 height: 500px
 lat: 50
-long: 85
+long: 75
 minZoom: 1
 maxZoom: 8
 defaultZoom: 6
 unit: miles
-marker: default, -22.453125, 50.203125, [[Shardspace]]
+marker: default, -13.15625, 29.34375, [[Shardspace]]
 ```
 
 The Astral Plane, also known as the Astral Sea, is one of the planes of existence. The Astral Sea can be navigated via a spelljamming ship, as well as magic (such as Astral Projection).

@@ -49,8 +49,6 @@ Areas not yet marked on the players' map are:
 * **VIP Balcony**: the only unmarked room is the VIP storage area, with a staircase that connects to the entryway, where staff can go between.
 * **VIP Balcony**: the office marked belongs to the Queen of Hearts, although the makers of the map weren't aware of that.
 
-![https://wrightmat.github.io/dnd-eberron/_img/rhaan_the_red_casino.png|800](https://wrightmat.github.io/dnd-eberron/_img/rhaan_the_red_casino.png)
-
 Players should brainstorm ways to achieve the following goals (since The Stakeout has already essentially been completed):
 
 1. Entering the casino (The Planning)

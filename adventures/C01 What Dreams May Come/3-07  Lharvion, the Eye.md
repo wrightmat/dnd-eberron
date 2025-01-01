@@ -139,8 +139,6 @@ This is the home of Delirium, and can only be accessed from a portal in the cent
 
 At various times, a Sanity roll will be called for. This is an unmodified d100 roll, which is compared to the player's Intelligence score (not modifier). Any roll equal to or less than their Intelligence score is considered a failure, where the player comprehends the full extent of what transpired, and goes partially insane. Roll on the Bouts of Madness table to determine the result. Any roll greater than the player's Intelligence score is a success, and they fail to understand what's happening, preventing any insanity in the process.
 
-![https://wrightmat.github.io/dnd-eberron/_img/delirium_dollhouse.png](https://wrightmat.github.io/dnd-eberron/_img/delirium_dollhouse.png)
-
 ###### D1. Entryway
 When the players enter the house, Delirium will appear and have a short conversation before disappearing again, somewhere deeper into the house.
 

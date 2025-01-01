@@ -1,5 +1,33 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "astral-map",
+      "lastAccessed": 1735745186469,
+      "markers": [
+        {
+          "id": "ID_7b8908d9ba29",
+          "type": "default",
+          "loc": [
+            -13.15625,
+            29.34375
+          ],
+          "layer": "http%3A%2F%2Fwizzle.tplinkdns.com%3A38090%2Findex.php%2Fs%2F5HjeZqaTk6ZH8t7%2Fpreview",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "locations/Astral Sea.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
