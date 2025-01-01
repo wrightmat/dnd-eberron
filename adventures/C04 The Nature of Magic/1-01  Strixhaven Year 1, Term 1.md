@@ -317,20 +317,27 @@ Chaos erupts in the library as students stream in all directions, their books an
  - [ ]  
 - Students of all ages gather at The Rose Stage for a celebration of the new year at Strixhaven. Each college is already seated in their own section when the first years arrive, where they are seated separately. The colleges are decked out in their colors and accompanied by their mascots.
 - This is just another opportunity to show off the various colleges, and allow players to converse with other students if they choose.
-- **Opening Remarks**. Head Dean Tanazir Quandrix (or another high-ranking figure) on the grand purpose of Strixhaven and the philosophy of interconnection in magic.
-	- “Magic flows through every one of you, binding you to this world and each other. At Strixhaven, you will learn not only to wield it but to understand its place in creation.”
-	- “Whether you follow the path of Prismari’s artistry, Quandrix’s logic, or Witherbloom’s balance, remember this: magic is not a weapon to hoard but a gift to share.”
+- **Opening Remarks**. Dean Augusta Tullus remarks on the grand purpose of Strixhaven and the philosophy of interconnection in magic.
+	- “Magic flows through every one of you, binding you to this world and each other. At Strixhaven, you will learn not only to wield it but to understand its place in life.”
+	- “For example, throughout Strixhaven lie the snarls — tangled nexuses where the threads of magic converge and pulse with the energy of creation itself. They are the remnants of ancient forces, both a gift and a warning, reminding us that great power demands great understanding.”
+	- “Whether you follow the path of Prismari’s artistry, Quandrix’s logic, or Witherbloom’s balance, remember this: magic is not a resource to hoard but a gift to share.”
 - **Mascot Parade**. Each college parades its mascots (e.g., Prismari elementals, Quandrix fractals, etc.) in a colorful display. Players can cheer for their favorite or interact with mascots to learn more about their colleges’ unique magic.
-- Student Remarks. A Current Student Representative (e.g., a Silverquill third-year) presents the student’s perspective and practical advice.
+- **Student Remarks**. A Current Student Representative (e.g., a Silverquill third-year) presents the student’s perspective and practical advice.
 	- “Your first year at Strixhaven will be a whirlwind. Find your people, whether it’s through extracurriculars or late-night study sessions. And don’t forget—the Biblioplex is your best friend.”
 	- “Beware of mage duels. They’re exciting, but they have a way of landing you in detention. Trust me on that.”
-- Student Cheer. The speaker leads a student cheer and invites new students to join in. A group DC 14 Charisma (Performance) check determines how w
-
+- **Student Cheer**. The speaker leads a student cheer and invites new students to join in. A group DC 14 Charisma (Performance) check determines how well the cheer goes for the PC's secion.
+- **Closing Remarks**. Tedric Taiva, Voice of the Founders, makes a rare appearance to give a more pragmatic view on magic and its use.
+	- “Magic is power, and power can protect or corrupt. Here, you will learn the difference — and decide which path you will walk.”
 
 ###### Secret Party
  - [ ]  
-- Any PC who has made enough friends might be invited to a party that happens on the last night of Orientation Week. This party is not sanctioned by the school administration, so it held in secret at The Rose Stage after hours. Have each player roll a d10. If they roll at or under the number of NPCs they've talked to that week, then one of those NPCs (a Friend if they've made one) invites them to the party after the Pep Rally.
-- 
+- Any PC who has made enough friends might be invited to a party that happens on the last night of Orientation Week. This party is not sanctioned by the school administration, so it held in secret at The Rose Stage after hours.
+- Have each player roll a d10. If they roll at or under the number of NPCs they've talked to that week, then one of those NPCs (a Friend if they've made one) invites them to the party after the Pep Rally.
+- There are a number of different activities that PCs can choose to participate in. Each should choose at least one.
+	- **Keep Watch**. One or two people are stationed outside at all times to keep an eye out for administration officials who might try to shut down the party. Roll a series of three Wisdom (Perception) checks contesting Stealth rolls at +4. For any failures, the player may roll a Dexterity (Stealth) check to attempt to conceal any noise and avoid detection. Failure on that results in a member of the administration showing up - at which point the player will need to succeed on a DC 15 Charisma (Persuasion) check to convince them that nothing is going on or they will shut down the party on a failure. Getting the party shut down should have a major social consequence at a later roleplay-convenient time.
+	- **Magical Dance-Off**. Students use harmless cantrips and illusions to enhance their dance moves, creating a spectacular visual display. Players can participate by rolling a series of three Charisma (Performance) checks, optionally using spells to create interest - for each spell cast the player gains a +2 to their Performance checks. Succeeding on all three checks crowns the player as the winner of the dance-off, resulting in a major social benefit at a later roleplay-convenient time.
+	- **Potion Roulette**. A table offers drinks spiked with mild, harmless potions. Effects might include glowing skin, levitation, or temporary minor transformations (like turning blue or growing gills). Players can partake for fun or attempt an Arcana check to identify potion effects in advance. For each potion drank, roll on the Wild Magic table.
+	- **Drinking Games**. Simulate any number of drinking games, such as quarters or beer pong, with checks. Contested Dexterity checks against another player or the DM (for NPCs). Whoever fails has to take a drink, requiring a Constitution saving throw (DC based on the number of drinks), with failure resulting in a level of Exhaustion. Too many levels of exhaustion means the player passes out, missing the rest of the party.
 
 #### Week 4: Frog's the Word
 
@@ -359,7 +366,7 @@ Seeing no faculty nearby, the student beckons to the characters.
 
 ###### F3. Barista Station
  - [ ]  
-- This bustling service counter is the demesne of Ellina Tanglewood, the Strixhaven employee who manages the café and serves as its chief barista. Ellina typically works alongside five older student employees, one from each college, though she sometimes hires younger students who express interest in working for her.
+- This bustling service counter is the demesne of **Ellina Tanglewood** (CG female elf mage), the Strixhaven employee who manages the café and serves as its chief barista. Ellina typically works alongside five older student employees, one from each college, though she sometimes hires younger students who express interest in working for her.
 - The front counter of the barista station is a whirl of chaos while Ellina and the other employees deal with the orders of dozens of students and faculty members. The back of the station is calmer, and includes a small break area for employees as well as shelves for personal belongings and café supplies.
 - The café strictly sells coffee and tea, but Ellina and the other talented baristas can make nearly any form of those drinks on request. A relatively common coffee or tea costs 1 cp, while a more complicated order might cost 2 cp. The café’s signature firejolt latte costs 10 gp; it confers resistance to fire for 1 minute after drinking it, and it can be brewed only by Ellina using her fire magic.
 
@@ -401,7 +408,7 @@ Seeing no faculty nearby, the student beckons to the characters.
 
 ###### Ending the Threat and Examining the Frogs
  - [ ]  
-- If all the characters fall unconscious, café manager Ellina Tanglewood rushes onto the scene and subdues the frogs. She has two potions of healing behind the barista station and can administer them as needed if anyone gets hurt.
+- If all the characters fall unconscious, café manager **Ellina Tanglewood** rushes onto the scene and subdues the frogs. She has two potions of healing behind the barista station and can administer them as needed if anyone gets hurt.
 - Once the frogs are no longer threats, a successful DC 12 Wisdom (Perception) check reveals that the frogs belched out a strange, black oily substance just before they grew in size and attacked. It appears to be the same substance found on the trunk during orientation; indeed, Murgaxor coaxed the frogs to ingest some of the corrupted eldritch balm to cause their transformation. Any character who notices the oily substance also can tell that it smells slightly sweet, which likely encouraged the frogs to ingest it.
 
 #### Week 7: Magical Physiologies Exam: Froghemoth
@@ -459,9 +466,9 @@ Seeing no faculty nearby, the student beckons to the characters.
 ###### E3. Servers’ Station and Bar
  - [ ]  
 - The server’s station stands at the center of Bow’s End Tavern, where up to four older student employees make drinks for the tavern’s patrons and pass orders for food to the kitchen.
-- The food on offer at the tavern includes caster’s stew — a hearty bowl of venison, gravy, and root vegetables, served with mashed potatoes and thick-cut toast. Curtie’s Special is named for Chef Curtie Axechucker (see area E6) and rotates between dishes she calls “garden surprise,” “magister’s delight,” “macaroni and sausages,” and “rat ratatouille.” No one knows the ingredients used in these dishes, though servers always ask patrons about possible allergies. The table below lists the tavern’s menu and prices.
+- The food on offer at the tavern includes caster’s stew — a hearty bowl of venison, gravy, and root vegetables, served with mashed potatoes and thick-cut toast. Curtie’s Special is named for **Chef Curtie Axechucker** (see area E6) and rotates between dishes she calls “garden surprise,” “magister’s delight,” “macaroni and sausages,” and “rat ratatouille.” No one knows the ingredients used in these dishes, though servers always ask patrons about possible allergies. The table below lists the tavern’s menu and prices.
 - The bar surrounding the servers’ station serves a variety of drinks. This area is often rowdy, so student employee Javenesh Stoutclaw remains watchful. From thirty-five to forty-five students are typically found at the bar.
-- The tavern’s manager also keeps an eye on this area. Tulk “The Bulk” Tusktooth is a Strixhaven employee with a kind demeanor but no tolerance for misbehavior. Tulk’s nickname comes from his imposing physical presence at a burly, muscle-bound height of nearly seven feet — though his warm smile gleams as brightly as his signature golden earring. He is a good friend to Javenesh Stoutclaw, and anyone who puts the owlin in danger must answer to Tulk.
+- The tavern’s manager also keeps an eye on this area. **Tulk “The Bulk” Tusktooth** (LG male orc gladiator) is a Strixhaven employee with a kind demeanor but no tolerance for misbehavior. Tulk’s nickname comes from his imposing physical presence at a burly, muscle-bound height of nearly seven feet — though his warm smile gleams as brightly as his signature golden earring. He is a good friend to **Javenesh Stoutclaw**, and anyone who puts the owlin in danger must answer to Tulk.
 
 | Food or Beverage     | Cost |
 |----------------------|------|
@@ -481,7 +488,7 @@ Seeing no faculty nearby, the student beckons to the characters.
 
 ###### E6. Kitchen
  - [ ]  
-- The tavern’s food orders are prepared in this large kitchen, overseen by Curtie Axechucker, a Strixhaven employee and beloved personality on campus. Chef Curtie views cooking as an art, and she teaches the four students who work for her to cook using hunches and passion instead of precision or science.
+- The tavern’s food orders are prepared in this large kitchen, overseen by **Curtie Axechucker**, a Strixhaven employee and beloved personality on campus. Chef Curtie views cooking as an art, and she teaches the four students who work for her to cook using hunches and passion instead of precision or science.
 - Curtie lives by her teachings (and is said to augment her culinary creations with a little bit of magic), so that no two dishes she or her apprentices cook are ever the same. The chef’s signature cries of “Make it spicy!” and “It needs more love!” frequently echo from the kitchen into the overflow seating area. The chef hires all student cooks, so characters who wish to work in the kitchen must approach her directly.
 - The most prominent features in the kitchen are the cooking cauldrons along the north wall, which are always bubbling with strange and wonderful concoctions. A small break room is set in the northwest corner of the kitchen, while a pantry takes up much of the east wall.
 
@@ -499,7 +506,7 @@ Seeing no faculty nearby, the student beckons to the characters.
 	- **Play the Game**. The rules are simple: lob a sphere from the wizard gizzard and have the sphere land inside the bucket on the floor. The game takes 1 minute to play, and the character who lands the most spheres in the bucket during that minute wins the game. To determine how many spheres a character lands in the bucket, have the character make a Dexterity (Arcana) check and divide the total by 3 (round down). If two or more characters land the same number of spheres in the bucket, have those characters repeat the check during a tiebreaker round. Continue to run tiebreaker rounds until one character wins.
 	- **Encourage a Participant**. If a character shouts encouragement to a participant, that participant has advantage on their Dexterity (Arcana) check.
 	- **Heckle a Participant**. If a character jeers at a participant, that participant has disadvantage on their Dexterity (Arcana) check.
-- After setting the scene and explaining the rules, reveal that a bag of tricks (gray) will be awarded to the winner of the next game. The bag belongs to Javenesh Stoutclaw, a second-year Lorehold College student and the tavern’s assistant manager. Javenesh doesn’t need the bag and is entertained by watching first-year students compete to win. He also secretly hopes that sponsoring the game might win him more friends on campus.
+- After setting the scene and explaining the rules, reveal that a bag of tricks (gray) will be awarded to the winner of the next game. The bag belongs to **Javenesh Stoutclaw**, a second-year Lorehold College student and the tavern’s assistant manager. Javenesh doesn’t need the bag and is entertained by watching first-year students compete to win. He also secretly hopes that sponsoring the game might win him more friends on campus.
 
 ###### Chaos in the Kitchen
  - [ ]  
@@ -554,7 +561,7 @@ Seeing no faculty nearby, the student beckons to the characters.
 	- **Black Dragon Prop**. “Someone wants to summon and control a real young black dragon on stage. No way will that work!”
 
 - At this point the players should be allowed to do whatever they'd like on campus during their two week downtime. First year students are not allowed to leave campus though, and must return to their dorms every night.
-- Setting up Sedgemoor. The characters will have heard about Sedgemoor during their first year at Strixhaven, but they have likely had no reason to explore the bayou surrounding the Witherbloom College campus. That changes when Verelda Lang (the characters’ Magical Physiologies professor) asks them to collect material components in Sedgemoor for her spells, offering them extra credit. This encourages the players to explore Sedgemoor prior to the big confrontation with Murgaxor, possibly finding his journal in the process ([[1-02  Strixhaven Year 1, Term 2]], area S7).
+- **Setting up Sedgemoor.** The characters will have heard about Sedgemoor during their first year at Strixhaven, but they have likely had no reason to explore the bayou surrounding the Witherbloom College campus. That changes when Verelda Lang (the characters’ Magical Physiologies professor) asks them to collect material components in Sedgemoor for her spells, offering them extra credit. This encourages the players to explore Sedgemoor prior to the big confrontation with Murgaxor, possibly finding his journal in the process ([[1-02  Strixhaven Year 1, Term 2]], area S7).
 
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.

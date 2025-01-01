@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+                "file": "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-01  Strixhaven Year 1, Term 1"
+              "title": "1-02  Strixhaven Year 1, Term 2"
             }
           }
         ],
@@ -112,10 +112,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md"
+                "file": "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-01  Strixhaven Year 1, Term 1"
+              "title": "Outline of 1-02  Strixhaven Year 1, Term 2"
             }
           },
           {
@@ -124,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md"
+                "file": "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1-01  Strixhaven Year 1, Term 1"
+              "title": "File properties for 1-02  Strixhaven Year 1, Term 2"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+                "file": "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1-01  Strixhaven Year 1, Term 1"
+              "title": "Backlinks for 1-02  Strixhaven Year 1, Term 2"
             }
           },
           {
@@ -208,22 +208,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "9343d9fcb0426e64",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b464737e3a1df43",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -248,8 +232,13 @@
   },
   "active": "b814f7f7d58bb650",
   "lastOpenFiles": [
-    "adventures/C04 The Nature of Magic.md",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "_ref/Homebrew DM Mechanics.md",
+    "_ref/Downtime Activities.md",
+    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
+    "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
+    "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
+    "adventures/C04 The Nature of Magic.md",
     "other/Lorehold Primer.md",
     "other/Strixhaven Pennant.md",
     "other/Witherbloom Primer.md",
@@ -269,11 +258,6 @@
     "characters/Bystan Nimbledigit.md",
     "characters/Belwyn.md",
     "characters/Belashyrra.md",
-    "characters/Zorlan d'Cannith.md",
-    "characters/Ythana Morr.md",
-    "characters/Ystravnil.md",
-    "characters/Yllosavax.md",
-    "characters/Xor'chylic.md",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",

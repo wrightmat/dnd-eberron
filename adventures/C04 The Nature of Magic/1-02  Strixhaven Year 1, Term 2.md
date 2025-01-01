@@ -94,8 +94,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 - The Earl in area C3 sets the table every night before the manor is closed and locked. A character who searches under the table and succeeds on a DC 15 Wisdom (Perception) check finds a small velvet coin purse someone dropped. Inside is 15 gp.
 - The piano is functional and magical. If a character tries to play it, the piano plays an entire jaunty, military-style march. This alerts the Earl in area C3 to the presence of intruders, if the characters have not already encountered the clockwork butler.
-
-**Treasure**. The fireplace has a number of implements for tending the fire set to one side of it. A character who examines these implements and succeeds on a DC 15 Intelligence (Investigation) check discovers a poker with a silvered end that can be easily removed and used as a silvered dagger.
+- **Treasure**. The fireplace has a number of implements for tending the fire set to one side of it. A character who examines these implements and succeeds on a DC 15 Intelligence (Investigation) check discovers a poker with a silvered end that can be easily removed and used as a silvered dagger.
 
 ###### C5. Portrait Salon
  - [ ] 
