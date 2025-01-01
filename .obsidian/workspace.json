@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Zorlan d'Cannith.md",
+                "file": "characters/Adara Bristalfyr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zorlan d'Cannith"
+              "title": "Adara Bristalfyr"
             }
           },
           {
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300.5
   },
   "right": {
     "id": "c37e5cd9d654d368",
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/Zorlan d'Cannith.md"
+                "file": "characters/Adara Bristalfyr.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Zorlan d'Cannith"
+              "title": "Outline of Adara Bristalfyr"
             }
           },
           {
@@ -138,10 +138,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "characters/Zorlan d'Cannith.md"
+                "file": "characters/Adara Bristalfyr.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Zorlan d'Cannith"
+              "title": "File properties for Adara Bristalfyr"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/Zorlan d'Cannith.md",
+                "file": "characters/Adara Bristalfyr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zorlan d'Cannith"
+              "title": "Backlinks for Adara Bristalfyr"
             }
           },
           {
@@ -245,8 +245,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b814f7f7d58bb650",
+  "active": "997c0103c1cde4bf",
   "lastOpenFiles": [
+    "characters/Bystan Nimbledigit.md",
+    "characters/Belwyn.md",
+    "characters/Belashyrra.md",
+    "characters/Zorlan d'Cannith.md",
     "characters/Ythana Morr.md",
     "characters/Ystravnil.md",
     "characters/Yllosavax.md",
@@ -269,10 +273,6 @@
     "characters/The Second Son.md",
     "characters/The Queen of Dusk.md",
     "characters/The Queen of All Tears.md",
-    "characters/The Prince of Frost.md",
-    "characters/The Mother of Invention.md",
-    "characters/The Librarian.md",
-    "characters/The Lady in Shadow.md",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",

@@ -9,7 +9,7 @@ statblock: inline
 
 ![https://static.wikia.nocookie.net/eberron/images/8/83/Belashyrra_5e.png|ws-med|right](https://static.wikia.nocookie.net/eberron/images/8/83/Belashyrra_5e.png)
 
-Belashyrra is the Lord of Eyes, and resides in the Unseen Citadel of Xoriat.
+Belashyrra is the Lord of Eyes, and resides in the Unseen Citadel of [[Lharvion (Xoriat)]].
 
 Unlike most of its foul brethren, Belashyrra wears a human face. However, its disguise is not perfect: anyone looking at its face can tell it is entirely devoid of emotions. In addition, anyone who looks into the eyes of Belashyrra is said to see their own eyes reflected back at them.
 
