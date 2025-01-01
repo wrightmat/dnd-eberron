@@ -2,25 +2,10 @@
 gender: Female
 race: Hadozee
 occupation: Training Officer
-image: "![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png|250](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png)"
 ---
  #npc [[Tu'narath]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png|ws-med|right](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png)
 
 >“Listen to what I tell you; it might just save your life.”
 

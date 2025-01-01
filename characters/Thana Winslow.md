@@ -13,26 +13,6 @@ campaign: "[[C03 Riddles of the Third Age]]"
 ---
  #pc [[Alex Kelsch]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> PC: `=this.campaign`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` (`=this.pronouns`) |
-> | **Race** | `=this.race` |
-> | **Class** | `=this.class` |
-> | **Subclass** | `=this.subclass` |
-> | **Alignment** | `=this.alignment` |
-> | **Languages** | `=this.languages` |
-> | **Background** | `=this.background` |
-> | **Ideal(s)** | `=this.ideal` |
-> | **Bond(s)** | `=this.bond` |
-> | **Flaw(s)** | `=this.flaw` |
-> ###### Comments
-> `=this.comments`
-
 Thana lived in Shae Mordai before it fell, and was present when the attack occured. When she woke up, she had become dhampir, and didn't remember anything that happened.
 
 Now she lives in Dar Ulatesh (the largest city) in Rhiavhaar and does odd funeral jobs (including house calls to pick up bodies and such). She found the posting about Morgrave University on a job board while on her rounds. Then she took an odd job on a ship headed to Khorvaire.

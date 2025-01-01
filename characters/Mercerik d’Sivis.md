@@ -6,22 +6,8 @@ attitude: Helpful
 ---
  #npc [[Korranberg]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
-
 Mercerik d’Sivis is a gnome Speaker who worked with Arend the Alchemist to get his plans into action. After our party defeated Arend, they talked Mercerik into leaving Karrnath and starting over somewhere else. He agreed, and attuned his messenger station to their speaking stone, so he could reach out when needed.
 
 Since, he has returned to Zilargo and is settling in to Korranberg, the pride of his House of Sivis.
+
+### References

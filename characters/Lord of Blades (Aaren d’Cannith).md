@@ -4,25 +4,10 @@ race: Warforged
 occupation: Lord of Blades
 alignment: Lawful Evil
 languages: Common
-image: "![https://static.wikia.nocookie.net/eberron/images/a/a5/Lord_of_Blades.jpg|250](https://static.wikia.nocookie.net/eberron/images/a/a5/Lord_of_Blades.jpg)"
 ---
  #npc [[Mournland (Cyre)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/a/a5/Lord_of_Blades.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/a/a5/Lord_of_Blades.jpg)
 
 >"The Blades shall reign!"
 

@@ -2,25 +2,10 @@
 gender: Male
 race: Autognome
 occupation: Quartermaster
-image: "![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png|250](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png)"
 ---
  #npc [[Tu'narath]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png|ws-med|right](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png)
 
 >“If you’re looking for a quick answer, I’m probably not the best place to find it.”
 

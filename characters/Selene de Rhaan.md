@@ -3,25 +3,11 @@ gender: Female
 race: Eladrin
 subrace: Winter
 occupation: Baron
-image: "![https://static.wikia.nocookie.net/dragonage/images/a/a3/Promotional_Celene.jpg|250](https://static.wikia.nocookie.net/dragonage/images/a/a3/Promotional_Celene.jpg)"
+pronouns: she/her
 ---
  #npc [[Rhaan (Thelanis)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/dragonage/images/a/a3/Promotional_Celene.jpg|ws-med|right](https://static.wikia.nocookie.net/dragonage/images/a/a3/Promotional_Celene.jpg)
 
 Selene, now Baron of the Palace of the Moon, manipulated the Court in order to promote the Winter Court ahead of its time. It should have been the Summer Court that ascended to the throne, but she was able to divide and conquer its two major members, Duke Ihan and Duchesse Phoebe, as well as ally with the Autumn Court (with Lady Mahsa).
 

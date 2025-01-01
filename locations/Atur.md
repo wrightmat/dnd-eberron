@@ -2,29 +2,10 @@
 type: City
 region: "[[Karrnath]]"
 location: "[30.949347, -12.073975]"
-image: "![https://static.wikia.nocookie.net/eberron/images/4/44/Map_Karrnath.jpg|250](https://static.wikia.nocookie.net/eberron/images/4/44/Map_Karrnath.jpg)"
 ---
  #location #city [[Karrnath]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/4/44/Map_Karrnath.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/4/44/Map_Karrnath.jpg)
 
 Atur, also called the City of Night, is a large city in central Karrnath, south of the Karrn River between the Ashen Spires on the east and the Nightwood on the west. Adherents of the Blood of Vol faith make up a significant amount of the population.
 

@@ -5,26 +5,6 @@ location: "[19.508020,-42.176513]"
 ---
  #location #city  [[Droaam]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
-
 Graywall is a small city in the monster nation of Droaam. It lies on a House Orien trade road leading from western Breland, and is usually a visitor's first stop when entering Droaam. It is the second-largest settlement in the region after the Great Crag, which serves as the nation's capital.
 
 ### Characters

@@ -3,31 +3,9 @@ type: Village
 region: "[[Droaam]]"
 government: Monarchy
 ruler: Galifar Wynarn
-image: 
 location:
 ---
-
  #location #village [[Mordain’s Hall]]
-
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
 
 Dolurrh’s Dawn is a village of 104 people. The origin of the village is a mystery even to those who live there. On 11 Dravago, 996 YK, these people awoke in their beds in the village. Each one of them remembered his or her name and the name of the village... and nothing else. Despite this amnesia, each villager found that they could draw upon talents lying beyond conscious memory — skills they couldn’t remember learning. This last year has been a struggle for survival in a very dangerous land. Working together, the people of Dolurrh’s Dawn have crafted weapons, learned to hunt the vicious beasts of the forest, and slowly created a life in this savage land.
 

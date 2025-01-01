@@ -10,22 +10,6 @@ statblock: inline
 ---
 #npc 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
-
 Victory "Vic" Graves grew up in a rough orphanage in Sarlona (probably Rhiavhaar) that forced her onto the streets as soon as the young human could feed and dress herself. Her childhood instilled what she considers life’s most valuable lesson: “The weak think someone will save them. The strong think others will fear them. The clever think everyone beneath them. In the end, it’s the ruthless who survive.”
 
 Vic learned to fight as soon as she could lift a blade, and she honed her skills in vicious backroom fighting pits and bloody alleyway brawls. She delights in luring foes into one-on-one duels with her, where her sharp reflexes and precise strikes prove deadly. Vic always carries a powerful rapier forged from sentira known as *mindrazor*.

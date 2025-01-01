@@ -2,30 +2,11 @@
 type: Town
 region: "[[Talenta Plains]]"
 government: Tribal Council
-image: "![https://static.wikia.nocookie.net/eberron/images/d/d8/Gatherhold.jpg|250](https://static.wikia.nocookie.net/eberron/images/d/d8/Gatherhold.jpg)"
 location: "[20.11784, -8.404541]"
 ---
  #location #town [[Talenta Plains]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/d/d8/Gatherhold.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/d/d8/Gatherhold.jpg)
 
 Gatherhold is a large town, and the largest settlement, in the Talenta Plains. Built into rocky outcroppings on the eastern shore of Lake Cyre, it is shared by all the tribes of halflings as a place to trade, hold celebrations and festivals, and have tribal councils. House Ghallanda has its headquarters there and maintains the town. House Orien maintains a lightning rail line that passes through the town and used to continue on into Metrol, before the Day of Mourning.
 

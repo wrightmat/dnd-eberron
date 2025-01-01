@@ -4,25 +4,10 @@ race: Dragon
 subrace: Metallic (Silver)
 occupation: Faction Leader, Protector of Sharn
 alignment: Lawful Good
-image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Yllosavax.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Yllosavax.png)"
 ---
  #npc [[Draconic Factions]] [[The Silver Scales]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://wrightmat.github.io/dnd-eberron/_img/NPC_Yllosavax.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Yllosavax.png)
 
 >"It's my duty as a member of an elder species to protect and guide other peoples."
 

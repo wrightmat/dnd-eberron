@@ -1,24 +1,10 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
-image: "![https://static.wikia.nocookie.net/eberron/images/2/2d/Eldeen_Reaches.jpg|250](https://static.wikia.nocookie.net/eberron/images/2/2d/Eldeen_Reaches.jpg)"
 ---
  #location #region [[Khorvaire]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/2/2d/Eldeen_Reaches.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/2/2d/Eldeen_Reaches.jpg)
 
 The Eldeen Reaches are a land in northwestern Khorvaire. It is covered by heavy forest, though some cities have formed around the borders of Breland and Aundair.
 

@@ -1,24 +1,10 @@
 ---
 type: Plane
 region: "[[Shardspace]]"
-image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/vdjBLFTc0BUwVlTxkMBiPgDLySJC0aLZqxzKavNd.png|250](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/vdjBLFTc0BUwVlTxkMBiPgDLySJC0aLZqxzKavNd.png)"
 ---
  #location [[Shardspace]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/vdjBLFTc0BUwVlTxkMBiPgDLySJC0aLZqxzKavNd.png|ws-med|right](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/vdjBLFTc0BUwVlTxkMBiPgDLySJC0aLZqxzKavNd.png)
 
 ### Characters
 

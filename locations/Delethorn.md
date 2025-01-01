@@ -5,26 +5,6 @@ location: "[27.780772, -36.848145]"
 ---
  #location #town [[Eldeen Reaches]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
-
 > The quiet town of Delethorn sits nestled on the shores of Lake Galifar. The town’s main road connects the docks and stables in the east of town to the main north-south thoroughfare out of town. At the crossroads sits the Delethorn Town Hall and the office of the mayor, as well as the Delethorn branch of the Gold Dragon Inn. Other smaller shops and houses dot other positions along the roads.
 
 Delethorn is a small town in the central Eldeen Reaches, on the shores of Lake Galifar. House Vadalis has an enclave in the town, and is a major influence. The town is a regular source of commerce with the other nations of Khorvaire. This is the town the party started their adventures in during [[C01 What Dreams May Come]].

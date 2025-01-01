@@ -3,25 +3,10 @@ gender: Male
 race: Dragon
 subrace: Chromatic (White)
 alignment: Chaotic Evil
-image: "![https://static.wikia.nocookie.net/eberron/images/3/35/HazeofDeath.jpg|250](https://static.wikia.nocookie.net/eberron/images/3/35/HazeofDeath.jpg)"
 ---
  #npc [[Draconic Factions]] [[The Chamber]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/3/35/HazeofDeath.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/3/35/HazeofDeath.jpg)
 
 >"I have named the wind that blows through my lair (Gusstrill) and speak to it often. It is my sole companion."
 

@@ -3,25 +3,10 @@ statblock: inline
 gender: Non-Gendered
 race: Daelkyr
 occupation: Daelkyr Lord
-Image: "![https://i.redd.it/4bzemvhajdf61.png|250](https://i.redd.it/4bzemvhajdf61.png)"
 ---
  #monster #daelkyr 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://i.redd.it/4bzemvhajdf61.png|ws-med|right](https://i.redd.it/4bzemvhajdf61.png)
 
 Orlassk is credited with creating the medusas (to their severe objection), basilisks, and other creatures that petrify their victims or manipulate stone. Orlassk is skilled at manipulating flesh and stone, and has knowledge of secret transmutation magic. It is said to travel within a moving citadel, a giant gargoyle prowling Khyber.
 

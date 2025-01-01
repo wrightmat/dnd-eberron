@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Kauverra.md",
+                "file": "locations/Lyrenton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kauverra"
+              "title": "Lyrenton"
             }
           }
         ],
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/Kauverra.md"
+                "file": "locations/Lyrenton.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kauverra"
+              "title": "Outline of Lyrenton"
             }
           },
           {
@@ -138,10 +138,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "characters/Kauverra.md"
+                "file": "locations/Lyrenton.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Kauverra"
+              "title": "File properties for Lyrenton"
             }
           },
           {
@@ -274,32 +274,32 @@
   },
   "active": "89db0c423170b195",
   "lastOpenFiles": [
-    "characters/Kalryni.md",
-    "characters/Jutkarr Flintfingers.md",
-    "characters/Jorlanna d'Cannith.md",
-    "characters/Ihan de Rhaan.md",
-    "characters/Ikar the Black.md",
-    "characters/Jaela Daran.md",
-    "characters/Gwendalyn.md",
-    "characters/Gunnora.md",
-    "characters/Fortune’s Fool.md",
-    "characters/Flamewind.md",
-    "characters/Destruction.md",
-    "characters/Dolom.md",
-    "characters/Dream.md",
-    "characters/Dyrrn.md",
-    "characters/Elaydren d’Vown.md",
-    "characters/Elyon Winslow.md",
-    "characters/Empress of Shadows.md",
-    "characters/Enchanter.md",
-    "characters/Escher Belasco.md",
-    "characters/Destiny.md",
-    "characters/Despair.md",
-    "characters/Desire.md",
-    "characters/Death.md",
-    "characters/Defender.md",
-    "characters/Delirium.md",
-    "characters/Dawn Empress.md",
+    "locations/Lorghalen.md",
+    "locations/Loom Keep.md",
+    "locations/Lhazaar Principalities.md",
+    "locations/Lharvion (Xoriat).md",
+    "locations/Lakeside.md",
+    "locations/Korth.md",
+    "locations/Korranberg.md",
+    "locations/Karrlakton.md",
+    "locations/Karrnath.md",
+    "locations/Kennrun.md",
+    "locations/Khalesh.md",
+    "locations/Khorvaire.md",
+    "locations/Irontown.md",
+    "locations/Io'lokar.md",
+    "locations/Graywall.md",
+    "locations/Gold Dragon Inn.md",
+    "locations/Gatherhold.md",
+    "locations/Frostfell.md",
+    "locations/Fort Bones.md",
+    "locations/Flamekeep.md",
+    "locations/Fairhaven.md",
+    "locations/Eyre (Fernia).md",
+    "locations/Eldeen Reaches.md",
+    "locations/Eberron.md",
+    "locations/Dura.md",
+    "locations/Droaam.md",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",
     "dnd-eberron/players",

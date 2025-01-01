@@ -10,25 +10,10 @@ occupation: Friar
 alignment: Lawful Good
 attitude: Helpful
 goals: To spread the light of the Silver Flame.
-image: "![https://www.dndbeyond.com/avatars/31416/341/1581111423-91521208.jpeg|250](https://www.dndbeyond.com/avatars/31416/341/1581111423-91521208.jpeg)"
 ---
  #npc [[Church of the Silver Flame]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://www.dndbeyond.com/avatars/31416/341/1581111423-91521208.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/31416/341/1581111423-91521208.jpeg)
 
 Tavick Thantorme is a current Friar of the Church of the Silver Flame, and former traumatized soldier and Companion-At-Arms for Onme (now the Keeper of the Flame). His adventures began when he experienced an attack on the Cathedral of the Silver Flame by a Tarnished Templar, and then reluctantly accompanied an adventuring party to take her on. After the battle concluded, Tavick decided to remain with the adventuring party, traveling across Eberron and eventually into wildspace.
 

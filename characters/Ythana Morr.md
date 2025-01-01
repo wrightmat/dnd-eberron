@@ -4,25 +4,10 @@ race: Human
 occupation: Archierophant (Cleric)
 alignment: Lawful Good
 attitude: Indifferent
-image: "![https://db4sgowjqfwig.cloudfront.net/images/5150708/Ythana_Morr.jpg|250](https://db4sgowjqfwig.cloudfront.net/images/5150708/Ythana_Morr.jpg)"
 ---
  #npc [[Sharn]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://db4sgowjqfwig.cloudfront.net/images/5150708/Ythana_Morr.jpg|ws-med|right](https://db4sgowjqfwig.cloudfront.net/images/5150708/Ythana_Morr.jpg)
 
 The priestess is a tall, stern woman who wears full plate armor as part of her mostly ceremonial vestments. Her silvery-gray hair surrounds an unlined face and her eyes still shine bright with the zeal of youth.
 

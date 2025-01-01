@@ -20,3 +20,7 @@ After Strahd was killed by a group of adventurers brought together by fate (see 
 Escher's only true goal was to gain power, and he made great progress when he met King Kaius ir'Wynarn III, who he immediately recognized as a vampire. But King Kaius didn't want his secret to get out, so he agreed to turn Escher into a true vampire in exchange for his silence (and conversion to the one true faith, the Blood of Vol). The King also gave Escher dominion over Loom Keep after he agreed to keep an eye on nearby Karrlakton, which was controlled by House Deneith instead of the Blood of Vol.
 
 Escher can often be found visiting nearby Karrlakton to find new victims, but is careful not to interfere with or anger House Deneith (especially Baron Breven d'Deneith) while also keeping an eye on their activities. When not there, he will often explore The Nightwood, which he says reminds him of his home in Barovia.
+
+### References
+
+- Curse of Strahd

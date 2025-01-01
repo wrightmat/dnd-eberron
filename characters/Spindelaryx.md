@@ -4,25 +4,10 @@ race: Dragon
 subrace: Metallic (Gold)
 occupation: Faction Leader, Prefect of Thrane
 alignment: Lawful Neutral
-image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Spindelaryx.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Spindelaryx.png)"
 ---
  #npc [[Draconic Factions]] [[Flamekeep]] [[The Chamber]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://wrightmat.github.io/dnd-eberron/_img/NPC_Spindelaryx.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Spindelaryx.png)
 
 >"The future is writ large in the patterns of history. I enjoy conversing with others who think critically about history and society."
 

@@ -9,25 +9,10 @@ class: Bard, Druid
 attitude: Helpful
 alignment: Neutral Good
 flaw: There’s no room for caution in a life lived to the fullest.
-image: "![https://www.dndbeyond.com/avatars/31208/123/1581111423-79843866.jpeg|250](https://www.dndbeyond.com/avatars/31208/123/1581111423-79843866.jpeg)"
 ---
  #dmpc
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://www.dndbeyond.com/avatars/31208/123/1581111423-79843866.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/31208/123/1581111423-79843866.jpeg)
 
 Rida is a veteran adventurer and stonesinger from the island of Lorghalen. She was convinced to come along with the party in order to keep the elementals used on their ship in line.
 

@@ -2,25 +2,10 @@
 gender: Female
 race: Endless
 occupation: All-Mother
-image: "![https://static.wikia.nocookie.net/sandman/images/2/2f/Mother_of_the_endless.png|250](https://static.wikia.nocookie.net/sandman/images/2/2f/Mother_of_the_endless.png)"
 ---
  #npc [[The Outer Darkness]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/sandman/images/2/2f/Mother_of_the_endless.png|ws-med|right](https://static.wikia.nocookie.net/sandman/images/2/2f/Mother_of_the_endless.png)
 
 > Before the beginning was the night. And the night was without boundaries and the night was without end. Even now, when the dragons’ blasphemous campfire sets in your sky, what do you see? The night returns as it always should, and always will.
 

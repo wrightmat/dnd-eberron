@@ -3,31 +3,10 @@ type: Castle/Fort
 region: "[[Breland]]"
 government: 
 ruler: 
-image: 
 location:
 ---
 
  #location #castle/fort [[Breland]]
-
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
 
 Kennrun is a fortification in northeastern Breland on the border with Darguun.
 
@@ -47,7 +26,6 @@ Check off as information is received. Some items may have more details throughou
  - [ ] -
 
 ### History
-
 
 
 ### DM Notes

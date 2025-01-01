@@ -3,32 +3,13 @@ type: City
 region: "[[Argonnessen]]"
 government: 
 ruler: The Masters of Io’lokar
-image: "![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVATzdg6HEaeSC_u7Ht4ZJuIFVSR_3LiV1g&s|250](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVATzdg6HEaeSC_u7Ht4ZJuIFVSR_3LiV1g&s)"
 location: 
 demographics: 14% human, 13% dwarf, 12% goblin and hobgoblin, 11% elf and half-elf, 11% changeling, 10% orc and half-orc, 10% halfling, 10% gnome, 8% shifter, 1% other
 ---
 
  #location #city [[Argonnessen]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVATzdg6HEaeSC_u7Ht4ZJuIFVSR_3LiV1g&s|ws-med|right](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVATzdg6HEaeSC_u7Ht4ZJuIFVSR_3LiV1g&s)
 
 >From the moment it appears on the horizon, the city is a beacon against the darkening sky. Walls of white rise and twist against the highest reaches of the black peak, gleaming in the day’s dying light. From one of the great towers that ring those walls, dark shapes shoot up — wyvern riders, from the look of them, winging into flanking position to shadow your approach. Atop the closest tower, dragons are perched, watching you idly. Beside them stand giants armed with mighty greatswords, the nighttime city beyond them blazing with spell-light.
 

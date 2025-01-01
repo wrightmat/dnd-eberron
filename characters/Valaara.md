@@ -6,21 +6,7 @@ statblock: inline
 ---
  #npc #monster #daelkyr [[Lharvion (Xoriat)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/realmsofahlus/images/a/ac/Valaara.jpg|ws-med|right](https://static.wikia.nocookie.net/realmsofahlus/images/a/ac/Valaara.jpg)
 
 Valaara is known as the Crawling Queen, the Watcher in the Walls, and the Keeper of Worms. It’s said that you can hear Valaara’s voice in the rustling of roaches and the keening of locusts. In some tales, Valaara crafts worms that crawl through the ear and consume a creature’s brain; in others, when its maggots devour a corpse, Valaara can recreate the victim in its Deepest Hive. No one knows what Valaara wants, but its minions could be all around you even now, crawling in your walls and moving beneath your feet.
 

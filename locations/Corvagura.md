@@ -1,25 +1,10 @@
 ---
 region: "[[public/Sarlona|Sarlona]]"
 type: Region
-image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Corvagura.png|250](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Corvagura.png)"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
-Public: [[public/Corvagura|Corvagura]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Corvagura.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Corvagura.png)
 
 Corvagura is a tropical region marked by deep jungles and lush fields. It had long been the most densely populated region of Sarlona, and it was one of the most powerful and influential of the ancient kingdoms.
 

@@ -9,25 +9,10 @@ occupation: Adventurer (Veteran)
 alignment: Unaligned
 attitude: Helpful
 languages: Common, Draconic
-image: "![http://wizzle.tplinkdns.com:38090/index.php/s/DAiMZniYE8LBn7d/preview|250](http://wizzle.tplinkdns.com:38090/index.php/s/DAiMZniYE8LBn7d/preview)"
 ---
 #npc 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![http://wizzle.tplinkdns.com:38090/index.php/s/KH3W3MX3jTmMBeb/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/KH3W3MX3jTmMBeb/preview)
 
 Serelath is a steel dragon who took on a human form to explore the world of mortals, driven by his innate curiosity and a dragon's love for collecting treasures and secrets. He ventured into a labyrinth years ago, intrigued by its mysteries and the powerful artifacts rumored to be hidden within. His knowledge of ancient magics and civilizations led him deeper into the maze until he encountered a basilisk statue, which turned him to stone. In his human form, he appears as a rugged adventurer in his mid-forties, with steely gray hair and piercing blue eyes. His attire consists of well-worn leather armor and a faded cloak, hinting at decades of exploration. Mechanically (as much as it matter for spells and such), he is a Knowledge Domain cleric, which is in line with the steel dragon's abilities and mannerisms.
 
@@ -35,7 +20,7 @@ He carries a bag of holding filled with his treasures, including various works o
 
 #### Dragon Form
 
-![http://wizzle.tplinkdns.com:38090/index.php/s/wnjtJ48GkdHSyfN|800](http://wizzle.tplinkdns.com:38090/index.php/s/wnjtJ48GkdHSyfN/preview)
+![http://wizzle.tplinkdns.com:38090/index.php/s/DyjRJSfomwpzkTG/preview|wmed](http://wizzle.tplinkdns.com:38090/index.php/s/DyjRJSfomwpzkTG/preview)
 
 ### References
 

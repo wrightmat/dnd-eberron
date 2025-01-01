@@ -13,29 +13,10 @@ background: Sage
 pronouns: she/her
 comments: Only about 3 feet tall naturally.
 campaign: "[[C03 Riddles of the Third Age]]"
-image: "![https://www.dndbeyond.com/avatars/39057/781/1581111423-115909399.jpeg|250](https://www.dndbeyond.com/avatars/39057/781/1581111423-115909399.jpeg)"
 ---
  #pc [[Jolene Harper]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> PC: `=this.campaign`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` (`=this.pronouns`) |
-> | **Race** | `=this.race` |
-> | **Class** | `=this.class` |
-> | **Subclass** | `=this.subclass` |
-> | **Alignment** | `=this.alignment` |
-> | **Languages** | `=this.languages` |
-> | **Background** | `=this.background` |
-> | **Ideal(s)** | `=this.ideal` |
-> | **Bond(s)** | `=this.bond` |
-> | **Flaw(s)** | `=this.flaw` |
-> ###### Comments
-> `=this.comments`
+![https://www.dndbeyond.com/avatars/39057/781/1581111423-115909399.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/39057/781/1581111423-115909399.jpeg)
 
 Staff (full name Staffanie) works at the arcane university where her parents teach - but she's a clerk (copies scrolls and such). She goes out adventuring in her free time.
 
@@ -50,4 +31,3 @@ Her parents are Wanda (Wand) and Roderick (Rod).
 ### Personal Quests
 
  - [ ]  -
-

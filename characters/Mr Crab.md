@@ -2,25 +2,10 @@
 gender: Male
 race: Giant Crab
 attitude: Helpful
-image: "![https://www.tribality.com/wp-content/uploads/2019/03/email-giant-crab.png|250](https://www.tribality.com/wp-content/uploads/2019/03/email-giant-crab.png)"
 ---
  #npc [[Flamekeep]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://www.tribality.com/wp-content/uploads/2019/03/email-giant-crab.png|ws-med|right](https://www.tribality.com/wp-content/uploads/2019/03/email-giant-crab.png)
 
 Mr. Crab is a giant crab with magically enhanced intelligence, who lived at the Tower of Storms near Stormhome.  A sea elf named Miraal used magic to imbue this creature with an Intelligence of 10 and the ability to speak Common.
 
@@ -29,3 +14,5 @@ The party convinced the crab to leave the tower with them. They brought him to S
 ### Development
 
 * Before departing for the Astral, the party convinced Mr. Crab to move to Flamekeep where he could be kept safe by the church.
+
+### References

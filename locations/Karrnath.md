@@ -1,24 +1,10 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
-image: "![https://preview.redd.it/nu4ajpmqks791.png?width=1080&crop=smart&auto=webp&v=enabled&s=457b52732f0eb656521736deb3b9a5705d099bb0|250](https://preview.redd.it/nu4ajpmqks791.png?width=1080&crop=smart&auto=webp&v=enabled&s=457b52732f0eb656521736deb3b9a5705d099bb0)"
 ---
  #location #region [[Khorvaire]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://preview.redd.it/nu4ajpmqks791.png?width=1080&crop=smart&auto=webp&v=enabled&s=457b52732f0eb656521736deb3b9a5705d099bb0|ws-med|right](https://preview.redd.it/nu4ajpmqks791.png?width=1080&crop=smart&auto=webp&v=enabled&s=457b52732f0eb656521736deb3b9a5705d099bb0)
 
 Karrnath is a nation of Khorvaire. It was founded by Karrn the Conqueror over two thousand years ago, and is known as "the birthplace of kings". It is proud of its martial heritage and being the oldest of the Five Nations. The nation is particularly noted for its widespread use of undead soldiers during the Last War and the ruthless dictatorship of its monarch.
 

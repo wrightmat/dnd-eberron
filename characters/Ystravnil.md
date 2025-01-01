@@ -4,25 +4,10 @@ race: Dragon
 subrace: Chromatic (Green)
 occupation: Faction Leader
 alignment: Neutral Evil
-image: "![https://wrightmat.github.io/dnd-eberron/_img/NPC_Ystravnil.png|250](https://wrightmat.github.io/dnd-eberron/_img/NPC_Ystravnil.png)"
 ---
  #npc [[Draconic Factions]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://wrightmat.github.io/dnd-eberron/_img/NPC_Ystravnil.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/NPC_Ystravnil.png)
 
 >"The wilds are mine and mine alone, and anyone who thinks they can enter my territory had best hope I have other distractions that day."
 

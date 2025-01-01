@@ -5,26 +5,6 @@ location: "[10.595821, -27.015381]"
 ---
  #location #town [[Zilargo]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
-
 Dragonroost is the largest town in the otherwise docile, rolling plains of northern Zilargo. While the occasional Dhakaani ruin dots the countryside, the gnomish resistance prevented them from heavily settling the area. The area was amongst the first to collapse from the Xoriat invasion, with gnomes sweeping in after retreating Dhakaani forces to devour the knowledge left behind.
 
 Boasting the largest human population of any city in Zilargo besides Trolanport, Dragonroost is a cosmopolitan trading hub. The city boasts two critical advantages - it's where the headwaters coming down from the Howling Peaks turn into the Oskilor River down into Glamer Bay, and a local Thelanian manifest zone keeps beautiful and rare flowers blooming all year long. While the Lightning Rail does not pass through the city, Orien maintains plenty of caravans that take a pit stop on their way down to Trolanport.

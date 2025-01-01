@@ -5,22 +5,6 @@ occupation: Anchor Baron
 ---
  #npc [[Rhaan (Thelanis)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
-
 The Queen of Dusk is a powerful entity that rules over the domain of Dusk in Thelanis from her castle. Dusk is a land of perpetual twilight, which contains dazzling colors and magical beauty.
 
 Dusk is a fey queen of Thelanis embodying dusk, the time of day in between dark and light. She goes by many names and many faces, and prefers to be addressed formally.

@@ -2,25 +2,10 @@
 gender: Male
 race: Human
 occupation: Baron
-image: "![https://static.wikia.nocookie.net/eberron/images/5/56/Zorlan.jpg|250](https://static.wikia.nocookie.net/eberron/images/5/56/Zorlan.jpg)"
 ---
  #npc [[Korth]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/5/56/Zorlan.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/5/56/Zorlan.jpg)
 
 Zorlan d'Cannith is a baron of House Cannith. He governs Cannith East from Korth, in Karrnath. His territories include Karrnath, the Mror Holds, Talenta Plains, Lhazaar Principalities, and Q'barra. He is a trusted advisor to the Gorgon, thanks to his financial skill and knack for making a profit.
 

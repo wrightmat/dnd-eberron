@@ -1,3 +1,6 @@
+---
+type: District
+---
  #location #district [[Sharn]]
 
 The dead of Sharn are often cremated these days, but in the city’s youth (and still, to some extent, at least among the wealthy) they were more commonly entombed in mausoleums and crypts in the City of the Dead, high on the cliffs surrounding the city. These districts are nearly deserted in contrast to the bustling streets and towers of Sharn. Buildings are spread apart by hundreds of yards, and the only residents are caretakers, priests (not necessarily clerics) responsible for offering prayers to the ancestors of important families, and more necromancers than anyone would care to admit.

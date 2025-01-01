@@ -2,29 +2,10 @@
 type: City
 region: "[[Zilargo]]"
 location: "[4.171115, -24.543457]"
-image: "![https://i.redd.it/6wyhgbbmg0y21.jpg|250](https://i.redd.it/6wyhgbbmg0y21.jpg)"
 ---
  #location #city [[Zilargo]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://i.redd.it/6wyhgbbmg0y21.jpg|ws-med|right](https://i.redd.it/6wyhgbbmg0y21.jpg)
 
 Korranberg is the city of truth and knowledge, its library the best collection of knowledge outside of Argonessen. House Sivis calls Korranberg home, maintaining its largest enclave in the city. The Korranberg Chronicle is produced here, independently owned by the Jarell clan.
 

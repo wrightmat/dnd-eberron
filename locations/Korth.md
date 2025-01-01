@@ -2,29 +2,10 @@
 type: Capital
 region: "[[Karrnath]]"
 location: "[30.183122, -15.150146]"
-image: "![https://static.wikia.nocookie.net/eberron/images/b/b1/Korth_Map.JPG|250](https://static.wikia.nocookie.net/eberron/images/b/b1/Korth_Map.JPG)"
 ---
  #location #capital [[Karrnath]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/b/b1/Korth_Map.JPG|ws-med](https://static.wikia.nocookie.net/eberron/images/b/b1/Korth_Map.JPG)
 
 Korth is the capital and the largest city of [[Karrnath]]. Nestled between the Karrn River to the north and the Nightwood to the east, Korth has been Karrnath's capital since before the empire of Galifar.
 
@@ -32,10 +13,10 @@ The city is currently ruled by Karrnath's King Kaius III from his palace of Crow
 
 ### Characters
 
-* **[[Lukt]]**.
-* **King Kaius III**.
-* **Hyran ir'Tennet**.
-* **General Thaurum**.
+* **[[Lukt]]**
+* **King Kaius III**
+* **Hyran ir'Tennet**
+* **General Thaurum**
 
 ### Locations
 
@@ -68,3 +49,5 @@ Notable institutions in the city include the Tower of the Twelve, and several ho
 | 4 | Bands of goblins have been harassing citizens of Korth at night, and nearby residents and shopkeepers worry that the goblins are trying to establish a claim to more of the ward. |
 | 5 | A dense, shadowy forest that fills the land between the Karrn and Cyre rivers, the Nightwood is a forest said to have close ties to the plane of Mabar. |
 | 6 |  |
+
+### References

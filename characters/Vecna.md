@@ -6,26 +6,11 @@ subrace: Human (former)
 occupation: God of Secrets
 alignment: Neutral Evil
 attitude: 
-languages: 
-image: "![https://static.wikia.nocookie.net/forgottenrealms/images/2/22/Vecna-Returns_DnD-Beyond-Promo.webp|250](https://static.wikia.nocookie.net/forgottenrealms/images/2/22/Vecna-Returns_DnD-Beyond-Promo.webp)"
+languages:
 ---
 #npc 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/forgottenrealms/images/2/22/Vecna-Returns_DnD-Beyond-Promo.webp|ws-med|right](https://static.wikia.nocookie.net/forgottenrealms/images/2/22/Vecna-Returns_DnD-Beyond-Promo.webp)
 
 >Evil is not an absence of good. […] It is not a choice. […] Evil is one of two forces in the cosmos, an agency locked in eternal struggle against its antithesis. […] Only good and evil exist. And not even a hair's width of space separates them.    — Vecna
 

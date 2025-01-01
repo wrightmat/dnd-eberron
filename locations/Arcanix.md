@@ -5,26 +5,6 @@ location: "[25.065697, -31.300049]"
 ---
  #location #village [[Aundair]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
-
 > As you soar upward, you see four castles, each floating on a rocky island thousands of feet above the verdant fields of Aundair. Each castle is a crazy-quilt of different architectural styles, each more outlandish than the last. Periodic flashes of light illuminate the windows, and every so often a gout of flame or eldritch energy bursts forth from a door or chimney.
 
 Arcanix is a farming village in the nation of Aundair, located on the shores of Lake Galifar. It is also the home to an institute of arcane studies. Many of the greatest wizards of Galifar learned their craft within the Floating Towers of Arcanix. Raulo ir’Trannick is the lord mayor of Arcanix and a member of the Arcane Congress which is the local government responsible for the University and the surrounding village.

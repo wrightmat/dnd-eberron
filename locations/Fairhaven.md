@@ -2,31 +2,12 @@
 type: Capital
 region: "[[Aundair]]"
 location: "[30.647364, -25.686035]"
-image: "![https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg|250](https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg)"
 government: 
-ruler: Empress [[dnd-eberron/characters/Corrine ir'Wyrnarn|Corrine ir'Wyrnarn]]
+ruler: Empress [[characters/Corrine ir'Wyrnarn|Corrine ir'Wyrnarn]]
 ---
  #location #capital [[Aundair]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg)
 
 Fairhaven is the capital city of Aundair. It is the largest city in the nation and is home to Queen Aurala ir'Wynarn and her royal family. The city is a major commercial and cultural center for Aundair. It is divided into twelve wards by the city planning district in an effort to better manage the resources of the city.
 

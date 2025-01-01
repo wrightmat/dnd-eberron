@@ -15,26 +15,6 @@ campaign: "[[C03 Riddles of the Third Age]]"
 ---
  #pc [[Claire Elrod]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> PC: `=this.campaign`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` (`=this.pronouns`) |
-> | **Race** | `=this.race` |
-> | **Class** | `=this.class` |
-> | **Subclass** | `=this.subclass` |
-> | **Alignment** | `=this.alignment` |
-> | **Languages** | `=this.languages` |
-> | **Background** | `=this.background` |
-> | **Ideal(s)** | `=this.ideal` |
-> | **Bond(s)** | `=this.bond` |
-> | **Flaw(s)** | `=this.flaw` |
-> ###### Comments
-> `=this.comments`
-
 Shahiri used to be a guard or soldier and no longer is (because some people died who she was supposed to protect, including her mother). Has been doing mercenary work more recently.
 
 Path of the Beast is from partial lycanthropy that she got from her brother(?). She was hunting it when she accidentally killed her mother.
@@ -47,3 +27,4 @@ Atonement for the things she's done in the past. Possibly re-acceptance into the
 
  - [ ]  -
 
+### References

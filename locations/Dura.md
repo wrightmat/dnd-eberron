@@ -1,3 +1,6 @@
+---
+type: District
+---
  #location #district [[Sharn]]
 
 Dura, one of the largest and oldest quarter of Sharn, rises from the ruins Shaarat and the Old Sharn that fell at the end of the War of the Mark. But as Sharn has grown over the centuries since that terrible conflict, Dura has been left behind. Today, many consider it a blight on the city, riddled as it is with poverty and crime. Dura is home to the majority of the lower classes of Sharn, and Lower Dura is generally considered to be little better than the Cogs.

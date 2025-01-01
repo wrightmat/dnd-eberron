@@ -2,26 +2,11 @@
 gender: Male/Variable
 race: Archfey
 occupation: Anchor Baron
-image: "![https://pbs.twimg.com/media/FOE6yhuXIAcCLr0?format=jpg&name=4096x4096|250](https://pbs.twimg.com/media/FOE6yhuXIAcCLr0?format=jpg&name=4096x4096)"
 statblock: inline
 ---
  #npc [[Rhaan (Thelanis)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` |
-> | **Race** | `=this.race` |
-> | **Subrace** | `=this.subrace` |
-> | **Occupation** | `=this.occupation` |
-> | **Alignment** | `=this.alignment` |
-> | **Attitude** | `=this.attitude` |
-> | **Languages** | `=this.languages` |
-> ###### Comments
-> `=this.comments`
+![https://pbs.twimg.com/media/FOE6yhuXIAcCLr0?format=jpg&name=4096x4096|ws-med|right](https://pbs.twimg.com/media/FOE6yhuXIAcCLr0?format=jpg&name=4096x4096)
 
 The Prince of Frost, also called the Pale Prince and the Lord of the Long Night, was a mighty archfey. He was the mightiest of the fey faction called the Winter fey, although he was not truly their leader.
 

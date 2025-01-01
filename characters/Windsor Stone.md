@@ -10,29 +10,10 @@ class: Barbarian
 subclass: Storm Herald
 alignment: Lawful Good
 campaign: "[[C01 What Dreams May Come]]"
-image: "![https://www.dndbeyond.com/avatars/37864/354/1581111423-75316650.jpeg|250](https://www.dndbeyond.com/avatars/37864/354/1581111423-75316650.jpeg)"
 ---
  #pc [[Kerrie Heath]] [[Zarantryr (Kythri)]] [[Therendor (Syrania)]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> PC: `=this.campaign`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Gender** | `=this.gender` (`=this.pronouns`) |
-> | **Race** | `=this.race` |
-> | **Class** | `=this.class` |
-> | **Subclass** | `=this.subclass` |
-> | **Alignment** | `=this.alignment` |
-> | **Languages** | `=this.languages` |
-> | **Background** | `=this.background` |
-> | **Ideal(s)** | `=this.ideal` |
-> | **Bond(s)** | `=this.bond` |
-> | **Flaw(s)** | `=this.flaw` |
-> ###### Comments
-> `=this.comments`
+![https://www.dndbeyond.com/avatars/37864/354/1581111423-75316650.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/37864/354/1581111423-75316650.jpeg)
 
 Windsor was born in Sharn, and his parents (Tourmaline and Vernon still live in the Oakbridge neighborhood of the Middle Northedge district. They run an art restoration shop in North Towers (Lower Central).
 

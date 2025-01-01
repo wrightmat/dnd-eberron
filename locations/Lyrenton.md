@@ -3,31 +3,10 @@ type: Town
 region: "[[Darguun]]"
 government: 
 ruler: 
-image: 
 location:
 ---
 
  #location
-
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
 
 Lyrenton was a town of the nation of Cyre, now lying in eastern Darguun, close to the dead-gray mist on the border of the Mournland. It lies on an Orien trade road from the Gathering Stone and leading into the Mournland, into the Field of Ruins.
 
