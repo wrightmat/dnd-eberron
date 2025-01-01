@@ -208,6 +208,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "2ded9ce0be948a00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e08b280638189139",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,6 +248,11 @@
   },
   "active": "b814f7f7d58bb650",
   "lastOpenFiles": [
+    "creatures/Murgaxor.md",
+    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
+    "creatures/Brackish Trudge.md",
+    "creatures/Swampgas Shade.md",
+    "creatures/Swamp Naga.md",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "_ref/Homebrew DM Mechanics.md",
     "_ref/Downtime Activities.md",
@@ -253,11 +274,6 @@
     "other/Cards of Chaos.md",
     "other/Strixhaven Trinkets.md",
     "other/Trinkets of the Planes.md",
-    "characters/Adara Bristalfyr.md",
-    "adventures/C01 What Dreams May Come/2-06  A Keye Without a Locke.md",
-    "characters/Bystan Nimbledigit.md",
-    "characters/Belwyn.md",
-    "characters/Belashyrra.md",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",

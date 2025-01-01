@@ -5,6 +5,7 @@ statblock: inline
 
 ```statblock
 source: ToB3
+environment: Swamp
 name: Swampgas Shade
 size: Medium
 type: Undead

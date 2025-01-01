@@ -179,7 +179,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 >Daybeds piled high with pillows stand in the corners of this spacious, comfortable-looking room.
 
 - This is the manor’s quiet room, where faculty go to read or write without being disturbed.
-- **Treasure**. If the characters search this area, a successful DC 15 Wisdom (Perception) check reveals several small hidden drawers in the frame of one of the day beds. Inside one of the drawers is a gem of brightness with 10 charges remaining.
+- **Treasure**. If the characters search this area, a successful DC 15 Wisdom (Perception) check reveals several small hidden drawers in the frame of one of the day beds. Inside one of the drawers is a [[gem of brightness]] with 10 charges remaining.
 
 ###### C17. Grand Lounge
  - [ ] 
@@ -201,7 +201,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 `encounter: 2: Gray Ooze`
 
-- **Treasure**. The paneling in the northwest corner conceals a secret door, which can be found with a search of the area and a successful DC 12 Wisdom (Perception) check. Beyond the door is a secondary storage area that is much better organized, though a thick layer of dust on the boxes and crates here indicates that no one has accessed it in a while. Characters who search this area find two potions of mind reading tucked into a pouch in one of the boxes.
+- **Treasure**. The paneling in the northwest corner conceals a secret door, which can be found with a search of the area and a successful DC 12 Wisdom (Perception) check. Beyond the door is a secondary storage area that is much better organized, though a thick layer of dust on the boxes and crates here indicates that no one has accessed it in a while. Characters who search this area find two [[potion of mind reading|potions of mind reading]] tucked into a pouch in one of the boxes.
 
 ###### C20. Attic
  - [ ] 
@@ -216,20 +216,20 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 	- The Phrases table offers some suggestions, but feel free to come up with additional phrases that you and your players will find fun and amusing.
 - **Treasure**. Sitting underneath Sassy Sally Jane is a doll wearing a suit and adorned with a large white mustache. A purse held in the doll’s hands contains 25 gp.
 
-| d6 | Phrase                                  |
-|----|-----------------------------------------|
-| 1  | “Really? In those robes?”               |
-| 2  | “G-R-O-S-S. Gross.”                     |
-| 3  | “I heard you snack on owlbear pellets.” |
-| 4  | “If you say so.”                        |
-| 5  | “How about ‘Hells, no!’”                |
-| 6  | “No one believes that’s chocolate.”     |
+| d6  | Phrase                                  |
+| --- | --------------------------------------- |
+| 1   | “Really? In those robes?”               |
+| 2   | “G-R-O-S-S. Gross.”                     |
+| 3   | “I heard you snack on owlbear pellets.” |
+| 4   | “If you say so.”                        |
+| 5   | “How about ‘Hells, no!’”                |
+| 6   | “No one believes that’s chocolate.”     |
 
 ###### Post Quest
  - [ ] 
 - If the characters retrieve Sassy Sally Jane, the students waiting outside Captain Dapplewing’s Manor cheer quietly. All the students can easily steal back to their dormitories without getting caught. The characters’ peers are true to their word and pay for the characters’ lunches for a month. Further, the characters can keep Sassy Sally Jane. (However, obvious use of the doll around faculty members results in Sassy Sally Jane being confiscated again!)
 - If all the characters are reduced to 0 hit points inside the manor, they spend the night unconscious and are found by members of the faculty in the morning. The characters are taken to the infirmary in their respective dorms, then formally chastised and made to attend special behavioral courses that prevent them from participating in any Extracurriculars or Jobs for the rest of this academic year. All the characters immediately lose any benefits from these activities.
-- **A Sibling’s Gift**. If a student asked the characters for Sassy Sally Jane for their younger brother and the characters give them the doll, the student gives them the promised driftglobe. If no student approached the characters with this request, a student with whom a character has at least 1 positive Relationship Point asks the characters for the doll to give it as a gift to her younger brother shortly after this quest ends.
+- **A Sibling’s Gift**. If a student asked the characters for Sassy Sally Jane for their younger brother and the characters give them the doll, the student gives them the promised [[Driftglobe]]. If no student approached the characters with this request, a student with whom a character has at least 1 positive Relationship Point asks the characters for the doll to give it as a gift to her younger brother shortly after this quest ends.
 
 #### Week 19: Magical Physiologies Exam: Slaadi
 
@@ -304,7 +304,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ###### R7. Stage Storage Area
  - [ ] 
 - These areas hold props, equipment, and supplies used for the Rose Stage’s productions. Most of what’s here is marked “Property of the Playactors Drama Guild,” though a few items and boxes are unmarked.
-- **Treasure**. A thorough search and a successful DC 15 Wisdom (Perception) check reveals several valuable items in each storage area. An unmarked box in the west storage area holds three [[Potion of Healing]], held in reserve in case performers are accidentally injured while on stage. In the east storage area, lying forgotten under an unmarked crate, is a [[Bag of Holding]] and a Silverquill Primer.
+- **Treasure**. A thorough search and a successful DC 15 Wisdom (Perception) check reveals several valuable items in each storage area. An unmarked box in the west storage area holds three [[Potion of Healing]], held in reserve in case performers are accidentally injured while on stage. In the east storage area, lying forgotten under an unmarked crate, is a [[Bag of Holding]] and a [[Silverquill Primer]].
 
 ###### Rose Stage Festival
  - [ ] 
@@ -318,8 +318,8 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 ###### The Show
  - [ ] 
-- Members of the Playactors Drama Guild hand out lists of random character prompts to anyone who wants to try acting. Anyone who wishes to play a character on stage chooses a prompt, dons a few costume elements from the trunks of costumes provided by the Playactors Drama Guild, and lines up on the east end of the main stage (area R3). There, Quentillius Antiphiun Melentor III instructs a waiting participant to “tag in” to the ongoing performance and “tag out” someone currently on stage. Quentillius keeps the transitions narratively clean, while members of the crowd cheer, jeer, and shout ideas to the improvising actors. Other participants work the random props, set pieces, and sound effects the Playactors Drama Guild has strewn about the stage area to augment the improvised events.
-- Members of the crowd might play kazoos to musically accompany the drama on stage. A number of members of the Strixhaven Show Band Association are handing out kazoos from the orchestra pit (area R2), including student conductor Rubina Larkingdale.
+- Members of the Playactors Drama Guild hand out lists of random character prompts to anyone who wants to try acting. Anyone who wishes to play a character on stage chooses a prompt, dons a few costume elements from the trunks of costumes provided by the Playactors Drama Guild, and lines up on the east end of the main stage (area R3). There, **Quentillius Antiphiun Melentor III** instructs a waiting participant to “tag in” to the ongoing performance and “tag out” someone currently on stage. Quentillius keeps the transitions narratively clean, while members of the crowd cheer, jeer, and shout ideas to the improvising actors. Other participants work the random props, set pieces, and sound effects the Playactors Drama Guild has strewn about the stage area to augment the improvised events.
+- Members of the crowd might play kazoos to musically accompany the drama on stage. A number of members of the Strixhaven Show Band Association are handing out kazoos from the orchestra pit (area R2), including student conductor **Rubina Larkingdale**.
 - The festival’s improvised play continues until all volunteer performers have exhausted their prompts. More frequently, however, a faculty member needs to shut down the festival, which becomes increasingly rowdy later into the night. The following subsections detail the ways in which the characters can join the fun.
 
 ###### Perform on Stage
@@ -436,7 +436,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ###### S5. North Research Shed
  - [ ] 
 - The second of two small research sheds serves as a gathering area for Witherbloom students and faculty when classes take place in the bayou.
-- **Treasure**. Any search of this area turns up two potions of healing.
+- **Treasure**. Any search of this area turns up two [[potion of healing|potions of healing]].
 
 ###### S6. East Islet
  - [ ] 
@@ -455,7 +455,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 `encounter: 1: Giant Scorpion`
 
 - **Clearing the Waters**. With the scorpion defeated, the characters must pour their holy water from Professor Totsky into the spring. When they do, the liquid from Totsky’s flask purifies the spring, ending the threat of corruption.
-- **Murgaxor’s Journal**. A character spots a small, oilskin-wrapped journal sitting atop a small stump. Water damage has rendered much of the journal unreadable, but what remains reveals sinister thoughts. It’s clear that some nefarious personality has been experimenting with life-draining magic in the marsh and has been doing so for some time.
+- **Murgaxor’s Journal**. A character spots a small, oilskin-wrapped journal sitting atop a small stump. The same black eldritch balm seen throughout the year can be found scattered here as well. Water damage has rendered much of the journal unreadable, but what remains reveals sinister thoughts. It’s clear that some nefarious personality has been experimenting with life-draining magic in the marsh and has been doing so for some time.
 - The journal belonged to the evil Murgaxor; it slipped out of his pocket while he practiced the corrupting magic that caused this academic year’s mishaps. The journal notes that Murgaxor’s last step in this scheme involved the Rose Stage Festival. It also contains a crudely drawn sketch of Wiltroot Hall (which a PC would recognize with a DC 12 Intelligence check, or another student/professor would be able to tell them).
 
 #### Week 26: Secrets in Sedgemoor
@@ -483,7 +483,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 >The small hut in this clearing has a heavily thatched roof and a rickety door that swings open to reveal a sparse interior. A few wooden chairs and a heavy table with an attached cabinet make up the hut’s furnishings.
 
 - The clearing outside the hut is uninhabited.
-- **Treasure**. A cracked stone some pests are gnawing on is an Ioun stone (awareness). The stone is malfunctioning and was discarded here. A character who tinkers with the Ioun stone for 1 minute and succeeds on a DC 16 Intelligence (Arcana) check mends the item so it functions as intended.
+- **Treasure**. A cracked stone some pests are gnawing on is an [[Ioun stone]] (awareness). The stone is malfunctioning and was discarded here. A character who tinkers with the Ioun stone for 1 minute and succeeds on a DC 16 Intelligence (Arcana) check mends the item so it functions as intended.
 
 ###### W3. Southwest Clearing
  - [ ] 
@@ -524,11 +524,13 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - If the characters approach the hut, it becomes clear that the leafy canopy is obscuring a giant scorpion. The aggressive creature attacks, as does the ankheg that steps out from the brush behind it. The creatures fight each other — another unusual event in this area. If the characters don't interfere then they will eventually kill each other.
 - **Treasure**. Herbalism supplies cover a heavy table inside this hut — enough to assemble one herbalism kit.
 
+`encounter: 1: Giant Scorpion, 1: Ankheg`
+
 ###### W8. Western Clearing
  - [ ] 
 >You arrive at the clearing to find two of your classmates cautiously eying two large, yellow, viscous puddles oozing out from the underbrush near the west side of this clearing.
 
-- The characters’ classmates Urzmaktok Grojsh and Melwythorne (two Witherbloom apprentices) came here to explore the area. Ever the overachiever, Urzmaktok is taking advantage of the empty grounds to gather plant cuttings. He hopes to study them through the Fantastical Horticulture Club and petition his Witherbloom professors for extra credit if he successfully nurtures them. Timid for a third-year student, Urzmaktok convinced the lonely Melwythorne to accompany him to the grounds, both so Melwythorne might tell stories about his grove and so Melwythorne could protect him from any dangers.
+- The characters’ classmates **Urzmaktok Grojsh** and **Melwythorne** (two Witherbloom apprentices) came here to explore the area. Ever the overachiever, Urzmaktok is taking advantage of the empty grounds to gather plant cuttings. He hopes to study them through the Fantastical Horticulture Club and petition his Witherbloom professors for extra credit if he successfully nurtures them. Timid for a third-year student, Urzmaktok convinced the lonely Melwythorne to accompany him to the grounds, both so Melwythorne might tell stories about his grove and so Melwythorne could protect him from any dangers.
 - The two Witherbloom students had decided to approach the puddles when the characters discover them. When anyone steps toward the puddles, they jiggle and solidify into two ochre jellies. If they see the characters, the jellies climb up onto the walkway in pursuit of prey. An ochre jelly reduced to 5 hit points or fewer tries to flee.
 
 `encounter: 2: Ochre Jelly`
@@ -540,7 +542,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 >This large and well-maintained observation hut has one level above the walkway and another below it.
 
 - When the characters enter this building, they smell the pungent algae within a large fountain bubbling up from the center of the floor of the lower level. This is a naturally occurring spring. A pockmarked stone carving in the shape of a stylized, anthropomorphic wave surrounds and collects the water.
-- Javenesh Stoutclaw stands next to the fountain, tilting his head in confusion and ruffling his feathers while seemingly talking to himself. If the characters approach the fountain, they see that Javenesh is speaking with a water weird submerged inside it. Unlike most water weirds, this creature, named Lothannep, can speak and understand Common.
+- **Javenesh Stoutclaw** (NG male owlin Lorehold apprentice) stands next to the fountain, tilting his head in confusion and ruffling his feathers while seemingly talking to himself. If the characters approach the fountain, they see that Javenesh is speaking with a water weird submerged inside it. Unlike most water weirds, this creature, named Lothannep, can speak and understand Common.
 - Lothannep lives in the fountain when the university isn’t in session. Lothannep was bound generations ago to a pool located in the wilds off Witherbloom’s campus. Lothannep’s mage master released it long ago, and it has been wandering about as it pleases since.
 - Lothannep likes this hut but will be ejected once the Witherbloom faculty discovers the weird’s presence. A character can befriend Lothannep by engaging it in friendly conversation and succeeding on a DC 13 Charisma (Persuasion) check, with advantage if the character is a Witherbloom student. The water weird can be persuaded to relocate to another body of water, but only if a character toward which it is friendly suggests it.
 - **Lorehold Peer**. Javenesh traipsed to this area on an errand for Tulk Tusktooth, the manager of Bow’s End Tavern. Tulk asked Javenesh to collect water from this fountain for use in Chef Curtie Axe­chucker’s special dish. Javenesh is trying and failing to explain to Lothannep why he needs the water when the characters arrive.
@@ -558,18 +560,22 @@ The table in the building holds enough materials to create a set of painter’s 
 
 - When a character ventures toward the north end of this clearing, two giant elk burst out of the foliage. The giant elk are angry and confused, and they attack. If an elk is reduced to 20 hit points or fewer, it regains its senses and tries to flee.
 
+`encounter: 2: Giant Elk`
+
 ###### W12. Northern Clearing
  - [ ] 
 >The wide wooden walkway here runs alongside a small clearing in the bog. A thick bed of mushrooms grows along the clearing’s western edge.
 
 - A character who moves toward the clearing’s western side sees a giant boar munching on the mushrooms. Like the elk in area W11, the boar is angry and confused and initially attacks. If it’s reduced to 10 hit points or fewer, it tries to flee into the bog.
 
+`encounter: 1: Giant Boar`
+
 ###### W13. Northern Outskirts
  - [ ] 
 >The boggy ground here feels firmer than at many of the other clearings, and flowering plants fill the area. It’s a lovely, unexpected landscape within the marsh, as the delicate floral scents mix with those of peat and earth to perfume the air.
 
 - This area is devoid of any creatures.
-- **Treasure**. If the characters search this area, a successful DC 15 Wisdom (Perception) check reveals an emerald-colored glint in the stamen of a large pink flower. This is an elemental gem (emerald), discarded or perhaps lost. If the characters speak to Witherbloom faculty members about it, the characters learn that no one has reported the lost item, so they’re permitted to keep it.
+- **Treasure**. If the characters search this area, a successful DC 15 Wisdom (Perception) check reveals an emerald-colored glint in the stamen of a large pink flower. This is an [[elemental gem]] (emerald), discarded or perhaps lost. If the characters speak to Witherbloom faculty members about it, the characters learn that no one has reported the lost item, so they’re permitted to keep it.
 
 ###### W14. Observation Hut E
  - [ ] 
@@ -577,9 +583,11 @@ The table in the building holds enough materials to create a set of painter’s 
 
 - If a character approaches the southeast corner behind the observation hut, two brackish trudges animate. Like the elk in area W11 and the boar in area W12, the trudges are initially hostile and attack. However, if a trudge is reduced to 20 hit points or fewer, it regains its senses and tries to flee.
 
+`encounter: 2: Brackish Trudge`
+
 ###### Murgaxor Manifests
  - [ ] 
-- Murgaxor surrounds himself with six creatures (giant elk, giant scorpion, worg, ankheg, poisonous snake, brackish trudge) from which he's attempting to drain life using ritual stones. 
+- If the players return to area W1, or attempt to leave the area entirely, they instead find Murgaxor - who has surrounded himself with six creatures (giant elk, giant scorpion, worg, ankheg, poisonous snake, brackish trudge) from which he's attempting to drain life using ritual stones. 
 - **Murgaxor and the Ritual Stones**. Characters can attack Murgaxor and/or the five ritual stones circling him. Each stone is an 8-inch-long cylindrical opal covered with delicate golden runes. It has AC 18, 30 hit points, and immunity to poison and psychic damage. Reducing Murgaxor to 0 hit points or destroying all five ritual stones ends the life draining magic.
 - **Murgaxor’s Lair Actions**. On initiative count 20 (losing initiative ties), Murgaxor can take one of the following lair actions.
 	- **Summon Mephits**. Murgaxor summons two mud mephits that appear in unoccupied spaces within 15 feet of the ritual circle. The mephits obey Murgaxor’s commands, take their turns on initiative count 15 (losing initiative ties), and fight until destroyed.
@@ -588,7 +596,7 @@ The table in the building holds enough materials to create a set of painter’s 
 `encounter: 1: Murgaxor`
 `encounter: 2: Mud Mephit`
 
-- **Clinging to Life**. Murgaxor’s ritual wreaks havoc on the equilibrium of life and death, creating a regional effect in the Wiltroot Hall area, where death saving throws are made with advantage. The effect ends 1d6 days after the ritual ends or is interrupted.
+- **Clinging to Life**. Murgaxor’s ritual wreaks havoc on the equilibrium of life and death, creating a regional effect in the Wiltroot Hall area, where death saving throws are made with advantage. The effect ends `dice:1d6` days after the ritual ends or is interrupted.
 
 ###### End of the Year
  - [ ] 

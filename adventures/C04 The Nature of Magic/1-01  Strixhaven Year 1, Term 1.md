@@ -331,7 +331,7 @@ Chaos erupts in the library as students stream in all directions, their books an
 
 ###### Secret Party
  - [ ]  
-- Any PC who has made enough friends might be invited to a party that happens on the last night of Orientation Week. This party is not sanctioned by the school administration, so it held in secret at The Rose Stage after hours.
+- Any PC who has made enough friends might be invited to a party that happens on the last night of Orientation Week. This party is not sanctioned by the school administration, so it held in secret at The Dramarium on Silverquill Campus after hours.
 - Have each player roll a d10. If they roll at or under the number of NPCs they've talked to that week, then one of those NPCs (a Friend if they've made one) invites them to the party after the Pep Rally.
 - There are a number of different activities that PCs can choose to participate in. Each should choose at least one.
 	- **Keep Watch**. One or two people are stationed outside at all times to keep an eye out for administration officials who might try to shut down the party. Roll a series of three Wisdom (Perception) checks contesting Stealth rolls at +4. For any failures, the player may roll a Dexterity (Stealth) check to attempt to conceal any noise and avoid detection. Failure on that results in a member of the administration showing up - at which point the player will need to succeed on a DC 15 Charisma (Persuasion) check to convince them that nothing is going on or they will shut down the party on a failure. Getting the party shut down should have a major social consequence at a later roleplay-convenient time.
