@@ -4,7 +4,7 @@ gender: Non-Gendered
 race: Daelkyr
 occupation: Daelkyr Lord
 ---
- #npc  #monster #daelkyr 
+ #npc  #monster  #daelkyr 
 
 Avassh is the terraformer of the daelkyr. Poisonous blooms unfold at its touch, and fungus spreads in its wake. Dhakaani accounts of the wars against the daelkyr speak of blighted fields where rotting crops rise up to consume the farmers, and jungles where the screaming trees drink goblin blood through barbed roots. The Dhakaani on the western frontier had to burn their dead to ensure the corpses didn’t rise again, overflowing with fungal blooms. Those Dhakaani facing Avassh were ordered to be extraordinarily vigilant.
 

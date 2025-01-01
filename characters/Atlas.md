@@ -15,8 +15,9 @@ ideal: Responsibility and burden of a researcher is to learn the most difficult 
 bond: My compass is my only means of continuing my adventures and returning home.
 flaw: I am slowly losing myself in ways I fear I can't get back due my endless search for knowledge.
 campaign: "[[C02 Curse of Strahd (Abridged)]]"
+player: "[[Kerrie Heath]]"
 ---
- #pc [[Kerrie Heath]]
+ #pc 
 
 ![https://www.dndbeyond.com/avatars/37274/171/1581111423-110122875.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/37274/171/1581111423-110122875.jpeg)
 

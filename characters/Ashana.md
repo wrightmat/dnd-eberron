@@ -3,7 +3,7 @@ gender: Female
 race: Quori
 occupation: Archivist
 ---
- #npc [[Crya (Dal Quor)]]
+ #npc 
 
 ![https://static.wikia.nocookie.net/eberron/images/6/63/Hashalaq-quori.png|ws-med|right](https://static.wikia.nocookie.net/eberron/images/6/63/Hashalaq-quori.png)
 

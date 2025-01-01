@@ -12,8 +12,9 @@ alignment: Chaotic Neutral
 background: Astral Drifter
 languages: Common, Elvish, Gith, Sylvan
 campaign: "[[C01 What Dreams May Come]]"
+player: "[[Jolene Harper]]"
 ---
- #pc [[Jolene Harper]] [[Rhaan (Thelanis)]] [[Lharvion (Xoriat)]]
+ #pc 
 
  * Born on the Rock of Bral many years ago.
  * Started playing the harp in taverns to earn meals in her teens.

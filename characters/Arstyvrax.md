@@ -8,7 +8,7 @@ attitude: Hostile
 languages: Abyssal, Common, Draconic
 statblock: inline
 ---
- #npc #monster [[Draconic Factions]]
+ #npc  #monster 
 
 ![https://i.redd.it/62qpj1yvywgb1.jpg|ws-med|right](https://i.redd.it/62qpj1yvywgb1.jpg)
 

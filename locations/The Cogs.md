@@ -17,8 +17,7 @@ Few people with any choice live in the Cogs. Those who work in the foundries usu
 ### Locations
 
 #### The Upper Cogs
-
-Character: Cramped and dirty industrial area
+>Cramped and dirty industrial area
 
 The Upper Cogs lie far below the towers of Sharn. While they stretch across the length of the entire city, access to the Cogs is mostly limited to Lower Tavick’s Landing and Lower Dura where deep access shafts are maintained.
 

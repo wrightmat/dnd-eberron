@@ -5,7 +5,6 @@ location:
 government: 
 ruler:
 ---
-
  #location [[Argonnessen]]
 
 The center of the Tapestry is Vorel’arux, the Valley of Beauty. In this haven of intelligence and free thought, dragons of all colors intermix to share their opinions and knowledge. Vorel’arux is aesthetically pleasing, but its true beauty comes from its community of cooperation and tolerance.

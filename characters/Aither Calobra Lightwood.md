@@ -13,8 +13,9 @@ alignment: Neutral
 languages: Common, Draconic
 background: Street Urchin
 campaign: "[[C03 Riddles of the Third Age]]"
+player: "[[Sara Edwards]]"
 ---
- #pc [[Sara Edwards]]
+ #pc 
 
 ![https://www.dndbeyond.com/avatars/39208/881/1581111423-115630616.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/39208/881/1581111423-115630616.jpeg)
 

@@ -10,7 +10,7 @@ Sterngate is a fortress in Breland standing at the entrance to Marguul Pass and 
 ### Characters
 
 - **Captain Toris**. The commanding officer of the fortress, and the effective head of the town.
-- **Mirasandra (Miira) ir'Thavar**. Spends quite a bit of time here, as it’s the most fortified location on the border between Darguun and Breland. She doesn’t get along that well with Captain Toris though.
+- **Miirasandra (Miira) ir'Thavar**. Spends quite a bit of time here, as it’s the most fortified location on the border between Darguun and Breland. She doesn’t get along that well with Captain Toris though.
 
 ### Locations
 

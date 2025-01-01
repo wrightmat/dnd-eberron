@@ -30,17 +30,11 @@ Most of the dragonmarked houses have a limited presence in the country, with the
 
 ### History
 
-#### Pre-Galifar
-About 10,000 years ago, the Aereni elves founded settlements in the plains in central Valenar. These elven colonies engaged in trade with the goblins of the Dhakaani Empire for about a century. Despite the initial success, the colony eventually became embroiled in a war with the goblins, and the elves voluntarily withdrew back to Aerenal.
+**Pre-Galifar**. About 10,000 years ago, the Aereni elves founded settlements in the plains in central Valenar. These elven colonies engaged in trade with the goblins of the Dhakaani Empire for about a century. Despite the initial success, the colony eventually became embroiled in a war with the goblins, and the elves voluntarily withdrew back to Aerenal. The humans of Valenar are believed to have descended from immigrants from the ancient Sarlonan nation of Khunan, which lay in what is now central Syrkarn.
 
-The humans of Valenar are believed to have descended from immigrants from the ancient Sarlonan nation of Khunan, which lay in what is now central Syrkarn.
+**Under Galifar**. By the time of the kingdom of Galifar, the land had become part of Cyre and primarily populated by humans, with a smaller population of hobgoblins and halflings.
 
-#### Under Galifar
-By the time of the kingdom of Galifar, the land had become part of Cyre and primarily populated by humans, with a smaller population of hobgoblins and halflings.
-
-#### The Last War
-During the Last War, a faction of the Tairnadal elves known as the Valaes Tairn were hired by Cyre as mercenaries to fight in the war. These mercenary elves fought tirelessly for Cyre in the war until 956 YK, in which War Leader Shaeras Vadallia shocked his Cyran employers by claiming the land now known as Valenar for himself and his mercenary people. He named himself as high king of this new realm, citing the much earlier Aerenal habitation on that land and the blood that his people had shed in its defense in recent times as his justification. With Cyre beset by enemies on all sides, they were not able to contest this loss of land, and the local population did not resist either, as the Valenar levied fewer taxes than their Cyran rulers.
-
+**The Last War**. During the Last War, a faction of the Tairnadal elves known as the Valaes Tairn were hired by Cyre as mercenaries to fight in the war. These mercenary elves fought tirelessly for Cyre in the war until 956 YK, in which War Leader Shaeras Vadallia shocked his Cyran employers by claiming the land now known as Valenar for himself and his mercenary people. He named himself as high king of this new realm, citing the much earlier Aerenal habitation on that land and the blood that his people had shed in its defense in recent times as his justification. With Cyre beset by enemies on all sides, they were not able to contest this loss of land, and the local population did not resist either, as the Valenar levied fewer taxes than their Cyran rulers.
 Valenar offered elven mercenaries at discounted services to any nation that recognized them, an offer that was accepted by Aundair in 980 YK, and by Breland in 988 YK. The nation was formally recognized across Khorvaire by the Treaty of Thronehold.
 
 ### References

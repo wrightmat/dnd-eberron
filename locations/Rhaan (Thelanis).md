@@ -33,34 +33,34 @@ The feyspires are the cities of the Moonlit Vale. Each is home to a single archf
 The grandest city in the Moonlit Vale is the Palace of the Moon. Its towers are built into the trunks of four vast trees, each one reflecting the influence of a particular season. The Summer Tree is in full bloom, while the Winter Tree is withered and bare. The four seasons are factions among the fey of the Moon Court, and those who dwell within the palace live within the tree of their season. The palace is full of endless intrigues, and envoys negotiate alliances with the feyspires and the anchor barons. To mortals, many of these intrigues would seem trivial and strange, but for the fey, they determine the ruling season, which sets the tone for the layer.
 
 ##### Pylas Pyrial
-Pylas Pyrial is the Gate of Joy, celebrated for its bards and revels. Tied to Zilargo, it has a significant gnome population. It's allied with the summer fey of the Moon Court, and is ruled over by an archfey known as Shan Pyrial.
-
 >You come upon a glittering tower of alabaster and gold, where a large sun hangs in the sky and warms the surrounding lands. Gnomes and Summer Eladrin mingle casually, and the sounds of music and poetry fill the streets.
 
-##### Shae Joridal
-Shae Joridal is the City of Emerald Lights; its illusionists are legendary. It appears in what is now Darguun. It's allied with the autumn fey of the Moon Court, and is ruled over by an archfey known as Shan Jora (or the Grim Poet).
+Pylas Pyrial is the Gate of Joy, celebrated for its bards and revels. Tied to Zilargo, it has a significant gnome population. It's allied with the summer fey of the Moon Court, and is ruled over by an archfey known as Shan Pyrial.
 
+##### Shae Joridal
 >You come upon a grand emerald spire, impressively tall, and surrounded at the top by three orbiting spheres that glow with emerald light. Goblinoids and Autumn Eladrin roam the streets in what appears to be an uneasy peace at best.
 
-##### Shae Loralyndar
-Shae Loralyndar is the City of Rose and Thorn, an arboreal spire frequently found in the Twilight Demesne of the Eldeen Reaches. Many Greensingers have close ties to this city. It's allied with the spring fey of the Moon Court, and it's ruled over by an archfey known as Shan Lora.
+Shae Joridal is the City of Emerald Lights; its illusionists are legendary. It appears in what is now Darguun. It's allied with the autumn fey of the Moon Court, and is ruled over by an archfey known as Shan Jora (or the Grim Poet).
 
+##### Shae Loralyndar
 >You come upon an arboreal spire within a dense forest, where peak-roofed houses are connected by slender bridges, with beautiful rose gardens spreading between them. Autumn Eladrin and humanoid druids can be seen working together here.
 
-##### Shae Tirias Tolai
-Shae Tirias Tolai is the City of Silver and Bone. Tied to Xen’drik, it was sacked by the giants of the Cul’sir Dominion and never reclaimed; some believe the elves of Eberron are descended from the eladrin of Shae Tirias Tolai. Today, it’s a haunted ruin, shunned by the fey.
+Shae Loralyndar is the City of Rose and Thorn, an arboreal spire frequently found in the Twilight Demesne of the Eldeen Reaches. Many Greensingers have close ties to this city. It's allied with the spring fey of the Moon Court, and it's ruled over by an archfey known as Shan Lora.
 
+##### Shae Tirias Tolai
 >You come upon a gothic citadel that blends beauty and luxury with morbid reminders of death. The spire itself and city around it were built using bones as its base, blended with marble and silver, and with pools of fresh blood in place of fountains. Glamerweave tapestries display the tales of forgotten heroes, but the cloth is torn and tattered. The sounds of battle can still be heard as echoes, as there's no one else here to make other sounds.
 
-##### Shaelas Tiraleth
-Shaelas Tiraleth is the Court of the Silver Tree, largest of the feyspires. Its ruler, Shan Tira (or the Lady of the Silver Tree), is a master diviner and gifted oracle. All archfey respect her words, and she serves as a mediator between the seasons of the Moon Court. The spire is tied to Cyre, and there are stories that suggest the first Princess Cyre herself may have been a student of Shan Tira.
+Shae Tirias Tolai is the City of Silver and Bone. Tied to Xen’drik, it was sacked by the giants of the Cul’sir Dominion and never reclaimed; some believe the elves of Eberron are descended from the eladrin of Shae Tirias Tolai. Today, it’s a haunted ruin, shunned by the fey.
 
+##### Shaelas Tiraleth
 >You come upon a golden geometric spire, more opulent and ornate than any other structure on the moon, with a huge silver tree in front of it. Humans and elves wearing brightly-colored glamerweave clothing wander peacefully through the streets. There's music in the air and lights in the sky.
 
-##### Taer Syraen
-Taer Syraen is the Winter Citadel, seat of the Prince of Frost. This martial spire appears in a barren region of Karrnath. It’s closely allied with the winter fey of the Moon Court.
+Shaelas Tiraleth is the Court of the Silver Tree, largest of the feyspires. Its ruler, Shan Tira (or the Lady of the Silver Tree), is a master diviner and gifted oracle. All archfey respect her words, and she serves as a mediator between the seasons of the Moon Court. The spire is tied to Cyre, and there are stories that suggest the first Princess Cyre herself may have been a student of Shan Tira.
 
+##### Taer Syraen
 >You come upon slender towers of blue-white stone with delicate minarets sparkling in the light. Fragile bridges span the gaps between, giving the place the appearance of a crystalline web formed from ice. A steep ice wall surrounds the spire, protected by helmeted guards, their faces hidden behind grim visors, watching for enemies and intruders alike.
+
+Taer Syraen is the Winter Citadel, seat of the Prince of Frost. This martial spire appears in a barren region of Karrnath. It’s closely allied with the winter fey of the Moon Court.
 
 #### The Endless Weald
 The Forest Queen rules the Endless Weald within Thelanis, an arboreal realm inhabited by dire beasts and wild fey. The Weald often leaks into the wood through manifest zones found in deep forests; in such places, dryads lurk in the trees and beasts may possess unusual cunning.

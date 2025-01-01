@@ -4,7 +4,7 @@ race: Ghost (Gnome)
 attitude: Helpful
 occupation:
 ---
- #npc [[Trolanport]]
+ #npc 
 
 Daneel is the ghost of a former stationmaster that the party discovered in Metrol during the “Lightning Rail Station” encounter of the Mournland.
 
@@ -13,7 +13,7 @@ depending on how the characters have treated him and what promises they make.
 
 His ghost is bound to a pocket watch (like a horcrux), which his body was still holding in its bloody hand. If the ghost moves more than 100 feet away from the pocket watch, then he disappears (and he can choose when to appear in the first place when within range of the pocket watch).
 
-Daneel was originally from Trolanport, the capital of Zilargo, and hopes to return there to see his family one last time.
+Daneel was originally from [[Trolanport]], the capital of Zilargo, and hopes to return there to see his family one last time.
 
 ### Development
 

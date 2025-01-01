@@ -12,8 +12,9 @@ alignment: Chaotic Good
 languages: Common, Quori, Riedran
 background: Entertainer
 campaign: "[[C01 What Dreams May Come]]"
+player: "[[Alex Kelsch]]"
 ---
- #pc [[Alex Kelsch]] [[Crya (Dal Quor)]] [[Barrakas (Irian)]]
+ #pc 
 
 ![https://www.dndbeyond.com/avatars/30792/357/1581111423-75240969.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/30792/357/1581111423-75240969.jpeg)
 

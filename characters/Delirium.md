@@ -3,13 +3,13 @@ gender: Female
 race: Endless
 pronouns: she/her
 ---
- #npc [[Lharvion (Xoriat)]] [[The Endless]]
+ #npc 
 
 ![https://e0.pxfuel.com/wallpapers/963/7/desktop-wallpaper-delirium-sandman-delirium-icon.jpg|ws-med|right](https://e0.pxfuel.com/wallpapers/963/7/desktop-wallpaper-delirium-sandman-delirium-icon.jpg)
 
 >"Have you ever spent days and days making up flavors of ice cream that no one's ever eaten before? Like chicken and telephone ice cream?... Green mouse ice cream was the worst. I didn't like that at all.”
 
-Also known as Ysgithyrwyn, Delirium is a celestial who became the first of what is now known as the daelkyr lords. She created the other daelkyr lords and now rules the plane of Xoriat.
+Also known as Ysgithyrwyn, Delirium is a celestial who became the first of what is now known as the daelkyr lords. She created the other daelkyr lords and now rules the plane of [[Lharvion (Xoriat)]].
 
 Delirium appears as a short, thin, young girl whose appearance changes frequently, based on the random fluctuations of her temperament. She often sports wild hair (which is usually rainbow in color) and eccentric, mismatched clothes, which can shift in style from moment to moment. Her only permanent physical characteristic is that one of her eyes is green with silver flecks and the other blue, but even those sometimes switch between left and right. The makeup around her eyes also create a fish over one eye and a butterfly over the other, although these can switch just as her eye colors do. She can adjust her eyes to be the same color and/or remove the patterns, but it's said that this hurts her.
 
@@ -22,3 +22,4 @@ Delirium often has a playful attitude, regarding some events with ecstatic joy. 
 ### References
 
 * Played By: Elsie Fisher
+* [[The Endless]]

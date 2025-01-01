@@ -14,6 +14,6 @@ The Talenta Plains are a vast grassland stretching from the Blade Desert to the 
 
 ### Locations
 
-- 
+- [[Gatherhold]]
 
 ### References

@@ -5,7 +5,6 @@ location:
 government: 
 ruler:
 ---
-
  #location
 
 Thronehold was built by Galifar I as his seat of power within the kingdom, located on an island in the center of the Scions Sound. The island, with the eponymous castle, was established by Galifar I to avoid having the capital within one of his existing realms. It is a place of international intrigue, divided into four districts that are each controlled by one of the surviving Five Nations.
@@ -27,22 +26,22 @@ By 975 YK, the port had developed into a small city, eventually taking its most 
 
 ### Locations
 
-* **Aundairian Quarter**.
+* **Aundairian Quarter**
 	* **The Aurum Sanctum**. A lavish estate run by the Aurum, a cabal of wealthy aristocrats. This location is a hotbed for spies and mercenaries who work for the highest bidder, often facilitating the gold dragons' interests under the radar.
 	* **The Starlight Spire**. An Aundairian embassy and small outpost of Arcanix. Some Aundairian wizards residing here are not fully aware of the gold dragons' plans but may suspect something unusual. A stern mage named Adan Velros (he/him)) oversees the embassy and has a cautious relationship with Throneport’s authorities.
 	* **Raven’s Rest Tavern**. A high-end establishment that caters to diplomats, nobles, and spies. The tavern owner, Lady Kera Thalin (she/her), knows many secrets, including rumors about strange activities involving the Silver Flame temple.
-* **Karrnathi Quarter.**
+* **Karrnathi Quarter**
 	* **The Warden’s Hall**. Seat of Throneport’s authority, housing both the Throne Wardens and Governor Modred Deneith (he/him). This location is under constant surveillance, and rumors abound of unauthorized activities near the castle. A prominent warden, Sir Harald Stoneclaw (he/him), has seen strange deliveries moving in and out of Thronehold Castle.
 	* **Blackbone Barracks**. A militarized district where many of Karrnath’s remaining elite forces are stationed. Some soldiers, like Lieutenant Ilora Hask (she/her), have noticed odd happenings near the borders of the old castle but are hesitant to speak out against the current regime.
 	* **The Dead Man’s Refuge**. A shadowy tavern where mercenaries for hire gather. Many of the mercenaries come from the remnants of Karrnathi’s undead armies, and they may have picked up on movements around the city from the gold dragons.
-* **Breland Quarter**.
+* **Breland Quarter**
 	* **The Rusted Chain** (Lower Market District). The black market hub of Throneport, known for selling all manner of contraband and stolen goods. Jalesta Morgrave (she/her), an information broker, may offer key insights into the gold dragons' search for the couatl artifact in exchange for favors.
 	* **The Shattered Hall.** A dilapidated ruin from the Last War, filled with vagrants and desperate thieves. This area is largely ignored by the authorities but can serve as a base for underground movements. It hides tunnels leading under the city, which could be useful for the players.
 	* **The Burned Quill**. A half-ruined library, once a center of learning, where clues about ancient couatl artifacts are hidden. If the players can gain access to the restricted archives, they may find references to relics once housed in Thronehold Castle.
-* **Thranish Quarter**.
+* **Thranish Quarter**
 	* **The Fallen Flame** (Old Temple District). The ruined temple to the Silver Flame, now under the control of Siril Valdros (he/him). Beneath the temple is a hidden chamber where gold dragons are gathering clues to the artifact.
 	* **The Silver Shield Armory**. A quiet armory where religious soldiers of Thrane’s Silver Flame forces come to replenish their supplies. The armorer, Gera Thornwhistle (she/her), may have overheard discussions between knights and dragon agents about secret excavations under the castle.
-* **Thronehold**.
+* **Thronehold**
 	* This should be run as a raid. The players need to gain access to the castle, learn its layout, navigate while avoiding patrols, and discover the dragons' plans. Then at the end, they'll need to either excavate the artifact before the dragons, or take it from them.
 	* Use a clock to track progress. For every minute of real time (outside of combat), roll a d6 - on a 5 or 6 the dragons make progress on their dig (fill in one segment on a six segment clock). Once that clock is full, the artifact is unearthed and the dragons start to leave the castle. Start a second six-segment clock using the same timer and rolls.
 	* **1. Main Gate**. The primary entrance to the castle, heavily guarded by Throne Wardens. The players may need forged documents, a distraction, or extreme persuasion to pass through without incident.

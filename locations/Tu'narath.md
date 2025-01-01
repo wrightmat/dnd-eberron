@@ -36,7 +36,6 @@ Although set aside for commerce, the Merchant District is also a home. Artisans 
 - **The Winesink (Tavern)**. The more “ragged” of the tavern and inn establishments in the district, this tavern is frequented by the more “dirty” artisans and merchants such as blacksmiths.
 
 #### Dragon District
-
 Directly “north” of the Merchant District, lies the administrative hub of Tu'narath, where both the Commissar and the Amethyst Dragon reside.
 
 - **The Will of Gith (Commissar's Stronghold)**. Zetch’r’r, the current Commissar of the city, resides and works here. The office is run by his assistant, Saarys. Any visitors will need to get by her in order to speak with the Commissar or to get anywhere near the dragon.

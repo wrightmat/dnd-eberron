@@ -38,16 +38,6 @@ Decay is part of nature, and this is reflected in the Rot. This relatively small
 #### Titan’s Folly
 Lamannia is filled with precious natural resources; it’s hardly surprising that an advanced civilization would try to harvest them. During the Age of Giants, the Cul’sir Dominion set up a research station and mining camp in a layer of Lamannia. After a decade struggling against megafauna attacks and elemental-enhanced weather, the outpost was finally overwhelmed and abandoned. It is a testament to the arcane engineering of the giants that anything remains of this structure… although it may be that it remains because the ruin itself has become a symbol of nature-reclaiming-civilization, becoming the theme of the layer. Vines and moss cover shattered walls, and the bones of giants are scattered throughout the remnants of this garrison. Valuable and powerful treasures may well be hidden in the Folly, but explorers will have to contend with aggressive elementals, dangerous beasts, and traps left by the long-dead giants themselves.
 
-### Universal Properties
-
-Lamannia is a reflection of the natural world, intensified and exaggerated. The air is pure and clean, the water fresh and clear. Colors are impossibly vivid. It’s suffused with life — a realm in which any stone could be an earth elemental, where any tree could be awakened. Vegetation is nearly always in bloom, and beasts are almost always in the peak of health. Except for a few layers such as the Rot, Lamannia reflects the ideal state of the natural world. Here are some of the plane’s consistent properties.
-
-**Extended Druidic Magic**. When a creature casts a druid spell with a duration of 1 minute or longer while in Lamannia, the duration is doubled. Spells with a duration of 24 hours or more are unaffected. A DM could decide to extend this effect to other characters that draw on primal sources of magic, such as a Gatekeeper ranger or a Greensinger bard.
-
-**Indomitable Beasts**. Beasts and elementals have a +2 bonus to Constitution and advantage on Wisdom, Intelligence, and Charisma saving throws. Upon its arrival in Lamannia, any elemental or beast that’s charmed or bound in any way is immediately freed from that effect; this can be disastrous for an elemental airship that’s thrown into the plane.
-
-**Elemental Power**. When a creature casts a spell that summons or conjures an elemental, it does so as if the spell were cast at a level one higher than the spell slot that was expended.
-
 ### Beasts
 
 **Mundane** animals are identical to their counterparts in Eberron. Any natural creature can be found in a layer with an appropriate environment. If such beasts are the first things adventurers encounter in a visit to Lamannia, they might not even realize they’ve traveled to another plane.
@@ -57,5 +47,15 @@ Lamannia is a reflection of the natural world, intensified and exaggerated. The 
 **Megafauna** are gargantuan beasts. The roc is an example of Lamannian megafauna; those found in Eberron have been drawn through manifest zones or slipped between planes during coterminous periods. While these creatures are similar in form to beasts, they are typically classified as monstrosities. Between their vast size and their connection to the plane, they’re immune to most effects that target beasts, and you can’t charm a roc with a simple animal friendship spell.
 
 **Totems** are beasts that are beyond the tactical scale — creatures that can be measured in miles. The gnome explorer Tasker tells a tale of an island in the Endless Ocean that turned out to be an enormous turtle; another of his stories features a pack of lycanthropes living in the fur of a massive roaming wolf. Such totems aren’t natural creatures and don’t need to eat. Their origins and purpose are unsolved mysteries, but most sages believe that they are immortal spirits projected by the plane itself. Some claim that the totems are connected to all creatures cast in their image. Others believe that the totems are sources of primal power, and barbarians, shifters, and druids can receive power and guidance from them. All that’s known for sure is that they’re immune to common spells, and there are no accounts of anyone successfully harming or communicating with a totem.
+
+### Universal Properties
+
+Lamannia is a reflection of the natural world, intensified and exaggerated. The air is pure and clean, the water fresh and clear. Colors are impossibly vivid. It’s suffused with life — a realm in which any stone could be an earth elemental, where any tree could be awakened. Vegetation is nearly always in bloom, and beasts are almost always in the peak of health. Except for a few layers such as the Rot, Lamannia reflects the ideal state of the natural world. Here are some of the plane’s consistent properties.
+
+**Extended Druidic Magic**. When a creature casts a druid spell with a duration of 1 minute or longer while in Lamannia, the duration is doubled. Spells with a duration of 24 hours or more are unaffected. A DM could decide to extend this effect to other characters that draw on primal sources of magic, such as a Gatekeeper ranger or a Greensinger bard.
+
+**Indomitable Beasts**. Beasts and elementals have a +2 bonus to Constitution and advantage on Wisdom, Intelligence, and Charisma saving throws. Upon its arrival in Lamannia, any elemental or beast that’s charmed or bound in any way is immediately freed from that effect; this can be disastrous for an elemental airship that’s thrown into the plane.
+
+**Elemental Power**. When a creature casts a spell that summons or conjures an elemental, it does so as if the spell were cast at a level one higher than the spell slot that was expended.
 
 ### References

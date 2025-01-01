@@ -11,8 +11,9 @@ subclass: Armorer
 alignment: Chaotic Good
 pronouns: any/they
 campaign: "[[C01 What Dreams May Come]]"
+player: "[[Jolene Harper]]"
 ---
- #npc #pc [[Jolene Harper]] [[Eyre (Fernia)]]
+ #npc #pc 
 
 ![https://www.dndbeyond.com/avatars/27637/272/1581111423-75581475.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/27637/272/1581111423-75581475.jpeg)
 

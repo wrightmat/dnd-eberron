@@ -27,9 +27,11 @@ Some say that Aeren's journal contained not only the rituals that would come to 
 
 Some scholars believe that the dragons know the ultimate plans of the Undying Court, and that those plans are at odds with the Draconic Prophecy.
 
-### The Sundering of Shae Mordai
+### Sundering and Restoration
 
 On 20 Barrakas 1002, the topaz dragons and their powerful obsidian dragon leader, Arstyvrax, attacked and destroyed the city of Shae Mordai. No one knows their motivation, as no one had ever been successful in attacking this city before, especially with necrotic or other dark powers. Many suspect that the topaz dragons may have had help from an even more powerful outside entity.
+
+Several months later, a group of adventurers were successful in restoring Shae Mordai from its planar seed on the plane of Irian. The seed restored only the natural elements of the area, but rebuilding started immediately by the former residents of the city, led by [[Thana Winslow]].
 
 ### References
 

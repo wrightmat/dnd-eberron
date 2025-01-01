@@ -206,7 +206,7 @@ Other magical punishments could be imposed. The offender could experience the ef
 
 Daanvi’s Infinite Archive contains records on every being that’s ever existed. Here, the data gathered by the Panopticon and the rulings of the Hall of Justice are recorded and efficiently preserved. Records focus on each individual’s deeds, whether they’ve adhered to or violated countless codes of legal and moral standards. Daanvi doesn’t generally do anything with this data; they have no jurisdiction to act on it. So through your life, the immortals of Daanvi have watched and judged your every action. You aren’t rewarded or punished for your deeds, but they know what you’ve done, and it’s forever preserved on your permanent record.
 
-Mortals must present an excellent reason— or bribe a devil— to get access to the Archive. The Infinite Archive lives up to its name, and is unknowably vast. If adventurers have a legitimate inquiry, a deva sage can be quite helpful. Working with modrons is a long and tedious process, while devils make it even more unpleasant.
+Mortals must present an excellent reason — or bribe a devil — to get access to the Archive. The Infinite Archive lives up to its name, and is unknowably vast. If adventurers have a legitimate inquiry, a deva sage can be quite helpful. Working with modrons is a long and tedious process, while devils make it even more unpleasant.
 
 If the players come here, they can choose to randomly wander the Archive halls and see what they find, in which case roll on the Infinite Archive Being table to determine who they learn about. Otherwise they can look for a specific record in the Archive, which requires a successful DC 16 Investigation check. Either way, describe in full the actions of whichever being is selected.
 

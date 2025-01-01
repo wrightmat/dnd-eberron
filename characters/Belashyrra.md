@@ -5,7 +5,7 @@ occupation: Daelkyr Lord
 image: "![https://static.wikia.nocookie.net/eberron/images/8/83/Belashyrra_5e.png|250](https://static.wikia.nocookie.net/eberron/images/8/83/Belashyrra_5e.png)"
 statblock: inline
 ---
- #npc #monster #daelkyr [[Lharvion (Xoriat)]]
+ #npc  #monster  #daelkyr 
 
 ![https://static.wikia.nocookie.net/eberron/images/8/83/Belashyrra_5e.png|ws-med|right](https://static.wikia.nocookie.net/eberron/images/8/83/Belashyrra_5e.png)
 
