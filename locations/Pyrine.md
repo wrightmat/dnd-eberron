@@ -1,25 +1,10 @@
 ---
-region: "[[public/Sarlona|Sarlona]]"
 type: Region
-image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png|300](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png)"
+region: "[[public/Sarlona|Sarlona]]"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
-Public: [[public/Pyrine|Pyrine]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Pyrine.png)
 
 Pyrine is a land of warm plains and forests, welcoming both in its aspect and its aura. Something about Pyrine inspires calm reflection. When standing in a Pyrinean meadow, it's easy to feel a sense of joy and contentment — to know that somehow, all is right in the world.
 

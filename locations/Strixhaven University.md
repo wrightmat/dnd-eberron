@@ -1,32 +1,12 @@
 ---
 type: University
 region: "[[Argonnessen]]"
-image: "![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthmwlrzFo2mU4UV8obpqx9-vjh3pr0QyZzQ&s|250](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthmwlrzFo2mU4UV8obpqx9-vjh3pr0QyZzQ&s)"
 ---
  #location #university [[Argonnessen]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthmwlrzFo2mU4UV8obpqx9-vjh3pr0QyZzQ&s|ws-med|right](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthmwlrzFo2mU4UV8obpqx9-vjh3pr0QyZzQ&s)
 
 >The mission of Strixhaven University is to discover and preserve magical knowledge, to disseminate that knowledge from one generation to the next, to promote free and open study of magic in all its forms, and to enhance the lives of people throughout the world through the use of magic.
- — Strixhaven mission statement
 
 Strixhaven University is located on north end of the continent of Argonnessen, on the east end of the Great Barrier, south of the Wyrmsfang Jungle. The school was founded seven centuries ago by five ancient dragons, and has since strived to attract only the most spectacular students from across Eberron, recruiting entirely in secret.
 

@@ -1,3 +1,6 @@
+---
+region: "[[Karrnath]]"
+---
  #location [[Karrnath]]
 
 In the last three years, settlers hoping to open up Karrnath’s northern coastline have reported a new menace along the outskirts of the lcewood. What at first appear to be lone members of the common races come stumbling along out of the woods, or wandering along their perimeter, But as they draw nearer it becomes apparent that there is something terribly wrong with them. The eyes of these strange apparitions glow with a midnight blue light, and they endlessly mutter nonsense strings of words, often from several languages. Once they draw close enough, they suddenly attack, unleashing waves of psionic power or more often rushing in to bite and tear at the settlers, Large groups report the creature dragged stunned victims back into the woods, never to be seen again. How many smaller groups have been wiped out entirely remains a mystery. Recently a group of timber cutters reported seeing a group of these staggering horrors and fled before they were noticed. Thought to be linked to the fabled Madstone, they have been dubbed “madborn,” and travelers are warned to flee for their lives if they spot them. It is clear that the attacks by the madborn, whether singly or in packs, are steadily increasing.

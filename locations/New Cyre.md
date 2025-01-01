@@ -7,26 +7,6 @@ ruler: Prince Oargev ir’Wynarn
 ---
  #location #village [[Breland]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
-
 Building a community out of the wreckage of Cyre, New Cyre continues to attract survivors of the Day of Mourning and new residents of other lands seeking a home after the war. An empty stretch of grasslands below the northern Seawall Mountains when King Boranel granted the area to Oargev and the Cyran survivors, the town is becoming the economic heart of the region. All the dragonmarked houses have gone out of their way to send representatives to Oargev's court, and with their help he has established the town as a seat of civilization and a fair reminder of the grace and style that was once the birthright of all Cyrans.
 
 > Nestled in the rocky foothills of the Seawall Mountains is the town of New Cyre, which consists of a few more substantial buildings and a large number of tents split between two camps. This former refugee camp still suffers from the poor state of the roads and other infrastructure in Eastern Breland, making it difficult to transport building materials and supplies to construct homes and develop the town. Nevertheless, the Cyrans have already started to build in the style of their homeland and its lost wonders, so it has developed a unique appearance and culture compared to that found in typical Brelish settlements.

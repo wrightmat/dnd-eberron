@@ -1,3 +1,7 @@
+---
+type: Continent
+region: "[[Eberron]]"
+---
  #location #continent 
 
 The Frostfell is a continent on Eberron, a frozen wasteland to the north that is as as enigmatic as it is cold. To date, there has been only one recorded expedition to the Frostfell from Khorvaire and it was little more than a notch in a belt than a true exploratory mission. That expedition was headed by Lord Boroman ir'Dayne, a halfling and the founder of the Wayfinder Foundation.

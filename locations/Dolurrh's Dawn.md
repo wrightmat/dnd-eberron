@@ -1,9 +1,9 @@
 ---
 type: Village
 region: "[[Droaam]]"
+location: 
 government: Monarchy
 ruler: Galifar Wynarn
-location:
 ---
  #location #village [[Mordain’s Hall]]
 

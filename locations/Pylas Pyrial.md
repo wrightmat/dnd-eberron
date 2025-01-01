@@ -5,26 +5,6 @@ location: "[5.889261, -29.838867]"
 ---
  #location #castle/fort [[Rhaan (Thelanis)]] [[Zilargo]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
-
 Pylas Pyrial is the Gate of Joy, celebrated for its bards and revels. Tied to Zilargo, it has a significant gnome population.
 
 Similar to many of the races of Eberron, the origins of the gnomes is shrouded in mythology. Ten thousand years ago, the early Dhakaani record facing off against vicious "jungle rats", masters of deceptive defenses. What happened in the intervening years is unclear - one story tells of a gnomish king who made a pact with a fey lord, the gnomes joining the Summer Council of Pylas Pyrial. If such a king existed, his or her name has been lost to history. Another story says there was no pact and no king - instead, a collective of gnomish heroes tricked their way onto the court, impressing the fey lords with their wit and skill.

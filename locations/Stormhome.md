@@ -2,29 +2,10 @@
 type: City
 region: "[[Aundair]]"
 location: "[37.302305, -19.218465]"
-image: "![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50amwrau7WZ_rkJ2b_IaCdetW4B_jz9cR1A&s|250](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50amwrau7WZ_rkJ2b_IaCdetW4B_jz9cR1A&s)"
 ---
  #location #city [[Aundair]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50amwrau7WZ_rkJ2b_IaCdetW4B_jz9cR1A&s|ws-med|right](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50amwrau7WZ_rkJ2b_IaCdetW4B_jz9cR1A&s)
 
 Stormhome is an island city at the north edge of the Scions Sound in Aundair that serves as the seat of power for House Lyrandar. The mages of Lyrandar use magic to maintain a temperate climate on the island, despite its extreme northern longitude and location on the coast of the Bitter Sea.
 

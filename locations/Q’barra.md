@@ -1,24 +1,10 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
-image: "![https://static.wikia.nocookie.net/eberron/images/d/d7/Qbarra.jpg|250](https://static.wikia.nocookie.net/eberron/images/d/d7/Qbarra.jpg)"
 ---
  #location #region [[Khorvaire]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/d/d7/Qbarra.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/d/d7/Qbarra.jpg)
 
 Q'barra is a dangerous frontier nation in Khorvaire recognized by the Treaty of Thronehold. Originally founded by Duke Ven ir'Kesslan of Cyre, the few human settlements continue to struggle against tribes of lizardfolk, Valenar warbands, Lhazaar raiders, and kobold marauders from the Endworld Mountains, not to mention disease-riddled swamp lands and dire and horrid lizards and dinosaurs. Q'barra is a land for the brave and the tenacious.
 

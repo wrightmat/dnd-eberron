@@ -1,32 +1,13 @@
 ---
 type: City
 region: "[[Zilargo]]"
+location: "[8.450639, -24.719238]"
 government: Council of Nine
 ruler: Zunia Harun
-image: "![https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg|250](https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg)"
-location: "[8.450639, -24.719238]"
 ---
  #location #city [[Zilargo]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/7/75/Zilargo4e.jpg)
 
 The smallest of the the three cities of Zilargo, Zolanberg is best known for its mines. While not as rich as the entire expanse of the Mror Holds, the mines of Zolanberg are a strategic asset to the nation. The mines come with plenty of trouble, not just from the environmental impact of mining but also the native kobolds that live in the Seawall Mountains. Zolanberg ties into Trolanport's Elemental Binding trade by providing the Khyber shards it uses.
 

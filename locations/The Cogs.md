@@ -1,3 +1,7 @@
+---
+type: District
+region: "[[Sharn]]"
+---
  #location #district [[Sharn]]
 
 The towers of Sharn reach up to the sky. But its tunnels also stretch down into the earth. Far below the forgotten ruins of the Depths, the undercity warrens are known as the Cogs. The great furnaces and foundries of the Cogs form the industrial base of Sharn. The borders of the different Cogs “districts” are not as clearly defined as they are on the surface, but there are a few well-known (and often infamous) areas.

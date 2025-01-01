@@ -5,7 +5,7 @@ location: "[30.183122, -15.150146]"
 ---
  #location #capital [[Karrnath]]
 
-![https://static.wikia.nocookie.net/eberron/images/b/b1/Korth_Map.JPG|ws-med](https://static.wikia.nocookie.net/eberron/images/b/b1/Korth_Map.JPG)
+![https://static.wikia.nocookie.net/eberron/images/b/b1/Korth_Map.JPG|ws-med|right](https://static.wikia.nocookie.net/eberron/images/b/b1/Korth_Map.JPG)
 
 Korth is the capital and the largest city of [[Karrnath]]. Nestled between the Karrn River to the north and the Nightwood to the east, Korth has been Karrnath's capital since before the empire of Galifar.
 

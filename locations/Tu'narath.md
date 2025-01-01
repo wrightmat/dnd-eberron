@@ -1,29 +1,10 @@
 ---
 type: City
 region: "[[Ring of Siberys]]"
-image: "![https://daemonsanddeathrays.files.wordpress.com/2021/12/b2798-treasurepl1.jpg|250](https://daemonsanddeathrays.files.wordpress.com/2021/12/b2798-treasurepl1.jpg)"
 ---
  #location [[Ring of Siberys]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://daemonsanddeathrays.files.wordpress.com/2021/12/b2798-treasurepl1.jpg|ws-med|right](https://daemonsanddeathrays.files.wordpress.com/2021/12/b2798-treasurepl1.jpg)
 
 Tu'narath is a gith city in the Astral Plane that was built upon the Ring of Siberys itself. When Aleithilithos the Amethyst Gem Dragon led the original gith away from their Eberron, as it was being remade by the legions of Xoriat, many of them settled the first suitable area they found and remained with their savior dragon in a newly built city.
 

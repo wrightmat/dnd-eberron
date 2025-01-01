@@ -5,26 +5,6 @@ location: "[-12.999586, -8.861735]"
 ---
  #location #capital [[Aerenal]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
-
 Shae Cairdal is the royal capital of Aerenal. From here, the Sibling Kings rule over the day-to-day workings of the living elves of Aerenal, while the Undying Court guides the nation from Shae Mordai (but moved to Shae Cairdal after the destruction of Shae Mordai in 1051).
 
 The city is arranged in a triangular grid, where the central triangle is composed of the Hall of Blades, the Temple of the Deathguard, and the Temple of the Undying Court. The Fortress of the Sibling Kings is in the center of this primary triangle, at the very center of the city, composed of a number of massive trees. A variety of shops, marketplaces, and academic buildings make up an outer triangle, with the Copper Dragon Hotel and Resort as the largest. The majority of residences sit outside of the triangles and are formed from shaped and still-living tree trunks.

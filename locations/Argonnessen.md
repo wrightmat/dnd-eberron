@@ -1,3 +1,7 @@
+---
+type: Continent
+region: "[[Eberron]]"
+---
 
  #location #continent [[Eberron]]
 

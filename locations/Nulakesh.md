@@ -1,25 +1,10 @@
 ---
-region: "[[public/Sarlona|Sarlona]]"
 type: Region
-image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Nulakesh.png|250](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Nulakesh.png)"
+region: "[[public/Sarlona|Sarlona]]"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
-Public: [[locations/Nulakesh|Nulakesh]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Nulakesh.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Nulakesh.png)
 
 Long before anyone had dreamed of the Unity of Riedra, the Empire of Nulakesh was the most powerful force in Sarlona. Beginning as a single city-state, its legions conquered and assimilated the people of the surrounding region, incorporating them into its war machine. At its height, the Empire of Nulakesh dominated much of what's now Pyrine and Dor Maleer. The empire waxed and waned many times; its current borders reflect the lands it held when the Inspired rebellion finally wiped out the Imperial line at the end of the First Sundering.
 

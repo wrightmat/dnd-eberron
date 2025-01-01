@@ -2,31 +2,12 @@
 type: Capital
 region: "[[Shadow Marches]]"
 location: "[22.014361, -54.371338]"
-image: "![https://static.wikia.nocookie.net/eberron/images/9/97/Zarash.jpg|250](https://static.wikia.nocookie.net/eberron/images/9/97/Zarash.jpg)"
 government: Dragonmarked House
 ruler: House Tharashk
 ---
  #location #capital [[Shadow Marches]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/9/97/Zarash.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/9/97/Zarash.jpg)
 
 Because overland travel through Droaam or the Eldeen Reaches can be extremely dangerous, most people who need to do business in the Marches travel by ship to the port city of Zarash'ak, sometimes called the City of Stilts due to the supports that keep it above water. Known for its exotic cuisine and music, Zarash‘ak offers the rare exports of the land without the difficulty of navigating the marshes. House Tharashk oversees the city, but clans and tribes often come here to sell crafts and other goods, or to celebrate religious rituals such as the Great Feast of Baaldra (Boldrei).
 
@@ -46,8 +27,8 @@ Humans, orcs, and half-orcs make up the bulk of the population in Zarash’ak. A
 
 #### Festivals
 
-- **Calling the Light**: On the winter solstice, the shortest day of the day, a circle of twelve druids gather in a square in front of the Tharashk Enclave in the Heart to call back the sun. Eight of the druids are Tharashk heirs and four are Gatekeeper initiates. They mark their faces to indicate the twelve moons and spend the day chanting and meditating together from dawn to dusk. Other citizens of Zarash'ak may spend time during the day meditating, or they may fast to cleanse themselves. Others come to watch the druids and marvel at their decorations and disciplines, but everyone in the city can feel the solemn mood of the day. Some visitors familiar with druidic ritual have commented that the practice resembles a ritual of sealing, but it's unclear what they would be trying to keep sealed.
-- **Rekh'aarvash**: The "Night of Masks" on Lharvion 14 is the most chaotic day to be in Zarash'ak, and that's saying something. The city puts on masks of lacquered wood, carved bone, sunbaked clay, hammered metal, or any of a thousand other materials and celebrates their city with food and drink. The celebration was originally created by House Tharashk as a way for the entire clan to celebrate together, removing the influence of wealth or station by including masks. Even race is obscured, allowing humans, orcs, and half-orcs to celebrate as one extended clan. In modern times, this celebration continues but is not universally appreciated. The masks may disguise the differences between a house-tharashk Tharashk half-orc and a Gatekeeper tribesman, but the other races of Zarash'ak still stick out. Minotaur mercenaries, harpy bodyguards, and goblin laborers all still stand out behind their masks and the racial prejudices which exist normally do not disappear just for Rekh'aarvash.
+- **Calling the Light**. On the winter solstice, the shortest day of the day, a circle of twelve druids gather in a square in front of the Tharashk Enclave in the Heart to call back the sun. Eight of the druids are Tharashk heirs and four are Gatekeeper initiates. They mark their faces to indicate the twelve moons and spend the day chanting and meditating together from dawn to dusk. Other citizens of Zarash'ak may spend time during the day meditating, or they may fast to cleanse themselves. Others come to watch the druids and marvel at their decorations and disciplines, but everyone in the city can feel the solemn mood of the day. Some visitors familiar with druidic ritual have commented that the practice resembles a ritual of sealing, but it's unclear what they would be trying to keep sealed.
+- **Rekh'aarvash**. The "Night of Masks" on Lharvion 14 is the most chaotic day to be in Zarash'ak, and that's saying something. The city puts on masks of lacquered wood, carved bone, sunbaked clay, hammered metal, or any of a thousand other materials and celebrates their city with food and drink. The celebration was originally created by House Tharashk as a way for the entire clan to celebrate together, removing the influence of wealth or station by including masks. Even race is obscured, allowing humans, orcs, and half-orcs to celebrate as one extended clan. In modern times, this celebration continues but is not universally appreciated. The masks may disguise the differences between a house-tharashk Tharashk half-orc and a Gatekeeper tribesman, but the other races of Zarash'ak still stick out. Minotaur mercenaries, harpy bodyguards, and goblin laborers all still stand out behind their masks and the racial prejudices which exist normally do not disappear just for Rekh'aarvash.
 
 ### Characters
 

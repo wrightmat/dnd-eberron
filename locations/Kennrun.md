@@ -1,9 +1,9 @@
 ---
 type: Castle/Fort
 region: "[[Breland]]"
+location: 
 government: 
-ruler: 
-location:
+ruler:
 ---
 
  #location #castle/fort [[Breland]]

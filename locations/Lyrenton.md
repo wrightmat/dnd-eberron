@@ -1,9 +1,9 @@
 ---
 type: Town
 region: "[[Darguun]]"
+location: 
 government: 
-ruler: 
-location:
+ruler:
 ---
 
  #location

@@ -1,6 +1,6 @@
 ---
-region: "[[Khorvaire]]"
 type: Region
+region: "[[Khorvaire]]"
 ---
  #location #region [[Khorvaire]]
 

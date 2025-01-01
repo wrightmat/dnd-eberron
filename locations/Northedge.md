@@ -1,3 +1,7 @@
+---
+type: District
+region: "[[Sharn]]"
+---
  #location #district [[Sharn]]
 
 Northedge, one of the quietest regions within Sharn, is a residential quarter. Most of its inhabitants are crafters and commoners, people who make an honest living within the great city. As a result, it is an uncommon destination for adventurers. However, a variety of tradesfolk and artisans work out of their Northedge homes, and it is possible that a party will be recommended to one of the Northedge specialists.

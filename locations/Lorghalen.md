@@ -8,10 +8,10 @@ Exploring the island, the gnomes found that it was poised on the edge of Lamanni
 
 ### Characters
 
-- **Quinton Delby** (Prince): The Prince of Lorghalen is recognized as the cleverest gnome on the island, and as such someone whose voice should always be heard and opinion considered. But they have no power beyond that. Any Lorghali can claim the title by defeating the current prince in a series of duels of wit and strategy, which Quinton did over a decade ago and has yet to be challenged again. He lives in the Council Hall where the Cornerstone Council gathers the various houses from around Lorghalen.
-- **Ridara** (Guide): Ridara is the most senior stonesinger on Lorghalen, and as she used to be an adventurer herself, she has no problem guiding those who need to venture out into the wilds of the islands. She uses the bard class (College of Lore), but uses the druid spell list instead of the bard spell list. Stonesingers have no particular knack for illusion or enthralling humanoids; they use their songs to charm the elements themselves.
-- **Castar** (Shopkeep):
-- **Loraphina** (Apothecary):
+- **Quinton Delby** (Prince). The Prince of Lorghalen is recognized as the cleverest gnome on the island, and as such someone whose voice should always be heard and opinion considered. But they have no power beyond that. Any Lorghali can claim the title by defeating the current prince in a series of duels of wit and strategy, which Quinton did over a decade ago and has yet to be challenged again. He lives in the Council Hall where the Cornerstone Council gathers the various houses from around Lorghalen.
+- **Ridara** (Guide). Ridara is the most senior stonesinger on Lorghalen, and as she used to be an adventurer herself, she has no problem guiding those who need to venture out into the wilds of the islands. She uses the bard class (College of Lore), but uses the druid spell list instead of the bard spell list. Stonesingers have no particular knack for illusion or enthralling humanoids; they use their songs to charm the elements themselves.
+- **Castar** (Shopkeep)
+- **Loraphina** (Apothecary)
 
 ### Locations
 

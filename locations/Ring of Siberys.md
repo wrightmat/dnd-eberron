@@ -1,24 +1,10 @@
 ---
 type: Region
 region: "[[Shardspace]]"
-image: "![https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c4cf156-3ec7-440a-9353-f49225746d79/d21dx7g-1997fdc0-8295-4979-9b5b-82b2bb826830.jpg/v1/fill/w_1600,h_1000,q_75,strp/eberron_nightscape_by_arcturusa_d21dx7g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzljNGNmMTU2LTNlYzctNDQwYS05MzUzLWY0OTIyNTc0NmQ3OVwvZDIxZHg3Zy0xOTk3ZmRjMC04Mjk1LTQ5NzktOWI1Yi04MmIyYmI4MjY4MzAuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.c5Z5G3LyeiY06Mgh-Z1nqLit-0d04asBKr81qaGlUI8|250](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c4cf156-3ec7-440a-9353-f49225746d79/d21dx7g-1997fdc0-8295-4979-9b5b-82b2bb826830.jpg/v1/fill/w_1600,h_1000,q_75,strp/eberron_nightscape_by_arcturusa_d21dx7g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzljNGNmMTU2LTNlYzctNDQwYS05MzUzLWY0OTIyNTc0NmQ3OVwvZDIxZHg3Zy0xOTk3ZmRjMC04Mjk1LTQ5NzktOWI1Yi04MmIyYmI4MjY4MzAuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.c5Z5G3LyeiY06Mgh-Z1nqLit-0d04asBKr81qaGlUI8)"
 ---
  #location [[Shardspace]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c4cf156-3ec7-440a-9353-f49225746d79/d21dx7g-1997fdc0-8295-4979-9b5b-82b2bb826830.jpg/v1/fill/w_1600,h_1000,q_75,strp/eberron_nightscape_by_arcturusa_d21dx7g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzljNGNmMTU2LTNlYzctNDQwYS05MzUzLWY0OTIyNTc0NmQ3OVwvZDIxZHg3Zy0xOTk3ZmRjMC04Mjk1LTQ5NzktOWI1Yi04MmIyYmI4MjY4MzAuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.c5Z5G3LyeiY06Mgh-Z1nqLit-0d04asBKr81qaGlUI8|ws-med|right](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c4cf156-3ec7-440a-9353-f49225746d79/d21dx7g-1997fdc0-8295-4979-9b5b-82b2bb826830.jpg/v1/fill/w_1600,h_1000,q_75,strp/eberron_nightscape_by_arcturusa_d21dx7g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzljNGNmMTU2LTNlYzctNDQwYS05MzUzLWY0OTIyNTc0NmQ3OVwvZDIxZHg3Zy0xOTk3ZmRjMC04Mjk1LTQ5NzktOWI1Yi04MmIyYmI4MjY4MzAuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.c5Z5G3LyeiY06Mgh-Z1nqLit-0d04asBKr81qaGlUI8)
 
 The closest celestial object is the Ring of Siberys, a brilliant equatorial band of light that dominates the sky. The entire ring isn’t made up of pure dragonshards, but the crystals are embedded in an inert stone-like substrate that is said to be the petrified flesh of an ancient cosmic dragon. The dragonshards glow with a bright golden light that negates the need for artificial light anywhere near the Ring.
 

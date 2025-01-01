@@ -2,29 +2,10 @@
 type: City
 region: "[[Karrnath]]"
 location: "[31.353637, -17.600098]"
-image: "![https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75be2b3c-6c90-4afa-aa81-bb50350c0b65/d86xua8-54a50bdd-01ce-4ad9-aa0d-75d875079c01.jpg/v1/fill/w_922,h_866,q_70,strp/the_royal_city_of_rekkenmark_by_syltorian_d86xua8-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYyIiwicGF0aCI6IlwvZlwvNzViZTJiM2MtNmM5MC00YWZhLWFhODEtYmI1MDM1MGMwYjY1XC9kODZ4dWE4LTU0YTUwYmRkLTAxY2UtNGFkOS1hYTBkLTc1ZDg3NTA3OWMwMS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sS06jRPgrrPs7ykhxAVCWP5u7sHFPjb-NxlHHk4oRrs|250](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75be2b3c-6c90-4afa-aa81-bb50350c0b65/d86xua8-54a50bdd-01ce-4ad9-aa0d-75d875079c01.jpg/v1/fill/w_922,h_866,q_70,strp/the_royal_city_of_rekkenmark_by_syltorian_d86xua8-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYyIiwicGF0aCI6IlwvZlwvNzViZTJiM2MtNmM5MC00YWZhLWFhODEtYmI1MDM1MGMwYjY1XC9kODZ4dWE4LTU0YTUwYmRkLTAxY2UtNGFkOS1hYTBkLTc1ZDg3NTA3OWMwMS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sS06jRPgrrPs7ykhxAVCWP5u7sHFPjb-NxlHHk4oRrs)"
 ---
  #location #city [[Karrnath]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75be2b3c-6c90-4afa-aa81-bb50350c0b65/d86xua8-54a50bdd-01ce-4ad9-aa0d-75d875079c01.jpg/v1/fill/w_922,h_866,q_70,strp/the_royal_city_of_rekkenmark_by_syltorian_d86xua8-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYyIiwicGF0aCI6IlwvZlwvNzViZTJiM2MtNmM5MC00YWZhLWFhODEtYmI1MDM1MGMwYjY1XC9kODZ4dWE4LTU0YTUwYmRkLTAxY2UtNGFkOS1hYTBkLTc1ZDg3NTA3OWMwMS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sS06jRPgrrPs7ykhxAVCWP5u7sHFPjb-NxlHHk4oRrs|ws-med|right](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75be2b3c-6c90-4afa-aa81-bb50350c0b65/d86xua8-54a50bdd-01ce-4ad9-aa0d-75d875079c01.jpg/v1/fill/w_922,h_866,q_70,strp/the_royal_city_of_rekkenmark_by_syltorian_d86xua8-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYyIiwicGF0aCI6IlwvZlwvNzViZTJiM2MtNmM5MC00YWZhLWFhODEtYmI1MDM1MGMwYjY1XC9kODZ4dWE4LTU0YTUwYmRkLTAxY2UtNGFkOS1hYTBkLTc1ZDg3NTA3OWMwMS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sS06jRPgrrPs7ykhxAVCWP5u7sHFPjb-NxlHHk4oRrs)
 
 Rekkenmark is a large city in Karrnath standing on Scions Sound across the water from Thaliost.
 

@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/Lyrenton.md",
-                "mode": "source",
+                "file": "locations/Adar.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lyrenton"
+              "title": "Adar"
             }
           }
         ],
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/Lyrenton.md"
+                "file": "locations/Adar.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lyrenton"
+              "title": "Outline of Adar"
             }
           },
           {
@@ -138,10 +138,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "locations/Lyrenton.md"
+                "file": "locations/Adar.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Lyrenton"
+              "title": "File properties for Adar"
             }
           },
           {
@@ -274,31 +274,31 @@
   },
   "active": "89db0c423170b195",
   "lastOpenFiles": [
-    "locations/Lorghalen.md",
-    "locations/Loom Keep.md",
-    "locations/Lhazaar Principalities.md",
-    "locations/Lharvion (Xoriat).md",
-    "locations/Lakeside.md",
-    "locations/Korth.md",
-    "locations/Korranberg.md",
-    "locations/Karrlakton.md",
-    "locations/Karrnath.md",
-    "locations/Kennrun.md",
-    "locations/Khalesh.md",
-    "locations/Khorvaire.md",
-    "locations/Irontown.md",
-    "locations/Io'lokar.md",
-    "locations/Graywall.md",
-    "locations/Gold Dragon Inn.md",
-    "locations/Gatherhold.md",
-    "locations/Frostfell.md",
-    "locations/Fort Bones.md",
-    "locations/Flamekeep.md",
-    "locations/Fairhaven.md",
-    "locations/Eyre (Fernia).md",
-    "locations/Eldeen Reaches.md",
-    "locations/Eberron.md",
-    "locations/Dura.md",
+    "locations/Aerenal.md",
+    "locations/Arcanix.md",
+    "locations/Argonnessen.md",
+    "locations/Aryth (Dolurrh).md",
+    "locations/Atur.md",
+    "locations/Astral Sea.md",
+    "locations/Aundair.md",
+    "locations/Barrakas (Irian).md",
+    "locations/Barren Sea.md",
+    "locations/Borunan.md",
+    "locations/Breland.md",
+    "locations/Central Plateau.md",
+    "locations/Citadel Mercane.md",
+    "locations/City of the Dead.md",
+    "locations/Cliffside.md",
+    "locations/Corvagura.md",
+    "locations/Crya (Dal Quor).md",
+    "locations/Darguun.md",
+    "locations/Daskaran.md",
+    "locations/Delethorn.md",
+    "locations/Dolurrh's Dawn.md",
+    "locations/Dor Maleer.md",
+    "locations/Dragonroost.md",
+    "locations/Dravago (Risia).md",
+    "locations/Dreadhold.md",
     "locations/Droaam.md",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",

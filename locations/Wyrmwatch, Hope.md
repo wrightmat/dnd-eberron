@@ -1,31 +1,13 @@
 ---
 type: Town
 region: "[[Q’barra]]"
-ruler: Elder Wedon Nevillom
-image: "![https://preview.redd.it/55cp188n06o71.jpg?auto=webp&s=cb7671dec9d0ffd2bfee8b5384745694607722c1|250](https://preview.redd.it/55cp188n06o71.jpg?auto=webp&s=cb7671dec9d0ffd2bfee8b5384745694607722c1)"
 location: "[15.36895, 0.054932]"
+government: 
+ruler: Elder Wedon Nevillom
 ---
  #location #village [[Q’barra]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://preview.redd.it/55cp188n06o71.jpg?auto=webp&s=cb7671dec9d0ffd2bfee8b5384745694607722c1|ws-med|right](https://preview.redd.it/55cp188n06o71.jpg?auto=webp&s=cb7671dec9d0ffd2bfee8b5384745694607722c1)
 
 Refugees of the Last War have found themselves in a region known as Hope located in the southwest of Q'barra. Here, Elder Nevillom, a veteran of the Last War, acts as nominal leader over the community of refugees. Wyrmwatch is the most established city of this area, having existed for about three years.
 

@@ -1,32 +1,13 @@
 ---
 type: Capital
 region: "[[Zilargo]]"
+location: "[5.834616, -31.871338]"
 government: Council of Nine
 ruler: Dora Thornwaist
-Image: "![https://static.wikia.nocookie.net/eberron/images/a/a9/Zilargo.jpg|250](https://static.wikia.nocookie.net/eberron/images/a/a9/Zilargo.jpg)"
-location: "[5.834616, -31.871338]"
 ---
  #location #capital [[Zilargo]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://www.worldanvil.com/uploads/images/b56f6acff6bec00432a333d6696675c8.jpg|ws-med|right](https://www.worldanvil.com/uploads/images/b56f6acff6bec00432a333d6696675c8.jpg)
 
 > You come upon a city of canals, flooded thoroughfares, bridges, and docks. It's clear from the sheer number of partially completed ships lining the docks all along the coast that ship building is a major industry here. There are also a number of gnome businesses, including alchemical shops, dragonshard shops, and other industry centered around elemental binding. Houses Kundarak, Sivis, and Cannith all maintain enclaves here.
 

@@ -2,29 +2,10 @@
 type: Castle/Fort
 region: "[[Droaam]]"
 location: "[24.156778, -49.064941]"
-image: "![https://static.wikia.nocookie.net/eberron/images/e/e0/TheForestofFlesh.jpg|250](https://static.wikia.nocookie.net/eberron/images/e/e0/TheForestofFlesh.jpg)"
 ---
  #location #castle/fort [[Droaam]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/e/e0/TheForestofFlesh.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/e/e0/TheForestofFlesh.jpg)
 
 Home to Mordain the Fleshweaver, Mordain’s Hall lies in the northwest of Droaam, a day’s travel from the border of the Shadow Marches and the Byeshk Mountains. The area includes the Tower of Mordain, the village of Blackroot, the surrounding forest, (called the KhreshtRhyyl, or “Forest of Flesh”), and village of Dolurrh’s Dawn.
 

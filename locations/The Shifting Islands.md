@@ -1,3 +1,6 @@
+---
+region: "[[Zarantryr (Kythri)]]"
+---
  #location [[Zarantryr (Kythri)]]
 
 There are countless islands on the edge of the Sea of Chaos, varying dramatically in size, each with its own environment. These are constantly changing, but they change slowly; it can take anywhere from a day to a week for an island to shift from a barren desert to a verdant jungle. Weather is generally more dynamic, and often at odds with the environment; a vast desert can suddenly face a dramatic blizzard.

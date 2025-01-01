@@ -1,24 +1,10 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
-image: "![https://static.wikia.nocookie.net/eberron/images/2/23/ShadowMarches.jpg|250](https://static.wikia.nocookie.net/eberron/images/2/23/ShadowMarches.jpg)"
 ---
  #location #region [[Khorvaire]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/2/23/ShadowMarches.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/2/23/ShadowMarches.jpg)
 
 The Shadow Marches are little more than fetid backwater swamps where Orcs have lived for thousands of years. Still, a glimmer of civilization lingers here, if one has enough tenacity and endurance to seek it out.
 

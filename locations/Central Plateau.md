@@ -1,5 +1,6 @@
 ---
 type: District
+region: "[[Sharn]]"
 ---
  #location #district [[Sharn]]
 

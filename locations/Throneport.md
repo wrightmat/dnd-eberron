@@ -1,33 +1,12 @@
 ---
 type: Town
 region: "[[Thrane]]"
+location: 
 government: 
-ruler: 
-image: 
-location:
+ruler:
 ---
 
  #location
-
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
 
 Thronehold was built by Galifar I as his seat of power within the kingdom, located on an island in the center of the Scions Sound. The island, with the eponymous castle, was established by Galifar I to avoid having the capital within one of his existing realms. It is a place of international intrigue, divided into four districts that are each controlled by one of the surviving Five Nations.
 

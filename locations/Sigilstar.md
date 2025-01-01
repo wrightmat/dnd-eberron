@@ -1,34 +1,15 @@
 ---
 type: City
 region: "[[Thrane]]"
+location: 
 government: 
 ruler: Lahira ir’Vanaisho
-image: "![https://www.worldanvil.com/uploads/maps/55d5cbab0da3eccab20014aada8b2ca8.jpg|250](https://www.worldanvil.com/uploads/maps/55d5cbab0da3eccab20014aada8b2ca8.jpg)"
-location: 
 comments: Known for tea, commerce, textiles, arcane studies, and weapons manufacture.
 ---
 
  #location #city [[Thrane]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://www.worldanvil.com/uploads/maps/55d5cbab0da3eccab20014aada8b2ca8.jpg|ws-med|right](https://www.worldanvil.com/uploads/maps/55d5cbab0da3eccab20014aada8b2ca8.jpg)
 
 Sigilstar, called the "crossroads of Thrane", is a small city in Thrane. It is named after Eberron's pole star, because the rest of Thrane is centered on the small city just as the skies of Eberron are centered on that star.
 

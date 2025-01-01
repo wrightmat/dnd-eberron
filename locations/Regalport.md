@@ -1,32 +1,13 @@
 ---
 type: Continent
 region: "[[Eberron]]"
+location: "[36.791691,19.072266]"
 government: Principality
 ruler: High Prince Ryger ir'Wynarn
-image: "![https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg|250](https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg)"
-location: "[36.791691,19.072266]"
 ---
  #location #capital [[Lhazaar Principalities]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/1/11/Regalport.jpg)
 
 Regalport is a large town that lies on the eastern shore of Greentarn island in the Lhazaar Principalities. It is the seat of power for the Seadragons and the capital of High Prince Ryger ir'Wynarn's principality and also the largest and most prosperous town of the Principalities.
 

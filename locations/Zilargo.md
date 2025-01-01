@@ -1,24 +1,10 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
-image: "![https://www.worldanvil.com/uploads/images/067d1f0bb26f9b7947c876c106acf2be.jpg|250](https://www.worldanvil.com/uploads/images/067d1f0bb26f9b7947c876c106acf2be.jpg)"
 ---
  #location #region [[Khorvaire]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://www.worldanvil.com/uploads/images/067d1f0bb26f9b7947c876c106acf2be.jpg|ws-med|right](https://www.worldanvil.com/uploads/images/067d1f0bb26f9b7947c876c106acf2be.jpg)
 
 >“Five words can defeat a thousand swords” — Zil proverb
 

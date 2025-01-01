@@ -1,24 +1,10 @@
 ---
 type: Plane
 region: "[[Shardspace]]"
-image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/z6tyuZkINqevpBvMvZsSinMDsW5OnW9QnMT3vQTX.png|250](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/z6tyuZkINqevpBvMvZsSinMDsW5OnW9QnMT3vQTX.png)"
 ---
  #location [[Shardspace]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/z6tyuZkINqevpBvMvZsSinMDsW5OnW9QnMT3vQTX.png|ws-med|right](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/z6tyuZkINqevpBvMvZsSinMDsW5OnW9QnMT3vQTX.png)
 
 Syrania is a curiously empty plane. While the Immeasurable Market is always bustling, most of this traffic is comprised of creatures from other planes. Syrania’s other spires have comparatively few inhabitants — not so few that they feel desolate or barren, just enough so that it always feels slow and peaceful. There’s no need for people to perform menial tasks in Syrania, nor does this plane have manifestations to populate it; damaged structures gradually repair themselves, and litter and debris slowly dissolve.
 

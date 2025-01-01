@@ -1,24 +1,10 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
-image: "![https://static.wikia.nocookie.net/eberron/images/9/91/Mournland_-_Five_Nations.jpg|250](https://static.wikia.nocookie.net/eberron/images/9/91/Mournland_-_Five_Nations.jpg)"
 ---
  #location #region [[Khorvaire]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/9/91/Mournland_-_Five_Nations.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/9/91/Mournland_-_Five_Nations.jpg)
 
 The Mournland is the shattered remnants of the nation of Cyre, lost to a cataclysm in a single day known as the Day of Mourning.
 

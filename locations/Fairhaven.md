@@ -2,8 +2,8 @@
 type: Capital
 region: "[[Aundair]]"
 location: "[30.647364, -25.686035]"
-government: 
-ruler: Empress [[characters/Corrine ir'Wyrnarn|Corrine ir'Wyrnarn]]
+government: Monarchy
+ruler: "[[Corrine ir'Wyrnarn]]"
 ---
  #location #capital [[Aundair]]
 

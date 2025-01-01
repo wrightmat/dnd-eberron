@@ -1,8 +1,9 @@
 ---
 type: Town
 region: "[[Talenta Plains]]"
-government: Tribal Council
 location: "[20.11784, -8.404541]"
+government: Tribal Council
+ruler: Baron Yoren d’Ghallanda
 ---
  #location #town [[Talenta Plains]]
 

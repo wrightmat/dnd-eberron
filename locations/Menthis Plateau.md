@@ -1,3 +1,7 @@
+---
+type: District
+region: "[[Sharn]]"
+---
  #location #district [[Sharn]]
 
 The Menthis Plateau is the hub of Sharn’s entertainment industry, as well as its most diverse ethnic quarter and the seat of Morgrave University. Its districts include Den’iyas (also called Little Zilargo because of its large gnome population), Everbright (the city’s only magic district), and two theater districts, Torchfire and Smoky Towers. Like the Central Plateau, its location allows it to draw visitors from all over the city to sample its entertainment offerings, and it also draws tourists from across the Five Nations.

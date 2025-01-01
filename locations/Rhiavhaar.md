@@ -1,25 +1,10 @@
 ---
-region: "[[public/Sarlona|Sarlona]]"
 type: Region
-image: "![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Rhiavhaar.png|250](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Rhiavhaar.png)"
+region: "[[public/Sarlona|Sarlona]]"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
-Public: [[public/Rhiavhaar|Rhiavhaar]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Rhiavhaar.png|ws-med|right](https://wrightmat.github.io/dnd-eberron/_img/Sarlona_Rhiavhaar.png)
 
 The people of Rhiavhaar have always been the finest shipwrights and sailors of Sarlona; but they weren’t simply merchants or fisherfolk. Long before their descendants settled the Lhazaar Principalities — named after the notorious Rhiavhaarian explorer — they were known for their piracy. In general, Rhiavhaarians were seen as wild, capricious, and dangerous; “Rhiavhaarian luck” was a common curse suggesting that fortune favors a scoundrel.
 

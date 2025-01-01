@@ -1,7 +1,6 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
-image: "![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGd2u6GPosDuaOHHF3J4pqZ39yIZqVf-7VUg&s|250](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGd2u6GPosDuaOHHF3J4pqZ39yIZqVf-7VUg&s)"
 ---
  #location #region [[Khorvaire]]
 

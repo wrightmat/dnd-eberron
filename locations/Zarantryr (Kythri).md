@@ -1,24 +1,10 @@
 ---
 type: Plane
 region: "[[Shardspace]]"
-image: "![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/6VcxN1Cd9S4JCtdNcl2GKkRGXTH6uZQB8tUcAElq.png|250](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/6VcxN1Cd9S4JCtdNcl2GKkRGXTH6uZQB8tUcAElq.png)"
 ---
  #location [[Shardspace]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/6VcxN1Cd9S4JCtdNcl2GKkRGXTH6uZQB8tUcAElq.png|ws-med|right](https://kanka-user-assets.s3.eu-central-1.amazonaws.com/locations/6VcxN1Cd9S4JCtdNcl2GKkRGXTH6uZQB8tUcAElq.png)
 
 ### Characters
 
@@ -71,4 +57,3 @@ All things change in Kythri, even time and the future. The only thing that’s t
 ^kythri-slaad-culture
 
 ### References
-

@@ -1,33 +1,12 @@
 ---
 type: Continent
 region: "[[Argonnessen]]"
+location: 
 government: 
-ruler: 
-image: 
-location:
+ruler:
 ---
 
  #location [[Argonnessen]]
-
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
 
 The center of the Tapestry is Vorel’arux, the Valley of Beauty. In this haven of intelligence and free thought, dragons of all colors intermix to share their opinions and knowledge. Vorel’arux is aesthetically pleasing, but its true beauty comes from its community of cooperation and tolerance.
 

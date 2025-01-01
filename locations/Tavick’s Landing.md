@@ -1,3 +1,7 @@
+---
+type: District
+region: "[[Sharn]]"
+---
  #location #district [[Sharn]]
 
 For most travelers, Tavick’s Landing is the gateway to Sharn. The Orien lightning rail station at Terminus brings in hundreds of travelers each day, and many more arrive via the Old Road at Wroann’s Gate. In many ways, Tavick’s Landing is the most eclectic quarter of Sharn, blending residential areas with commercial and entertainment districts that cater to the traders, travelers, and tourists who pass through the city. During the Last War, foreigners were carefully monitored as they entered the city, and even today the effects of the war can still be felt. An entire district in Lower Tavick’s Landing has been converted to house Cyran refugees and other people dislocated by the war.

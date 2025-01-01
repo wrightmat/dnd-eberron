@@ -2,29 +2,10 @@
 type: City
 region: "[[Aundair]]"
 location: "[27.215556, -29.992676]"
-image: "![https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg|250](https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg)"
 ---
  #location #city [[Aundair]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Politics
-> |  |  |
-> | ---- | ---- |
-> | **Government** | `=this.government` |
-> | **Ruler** | `=this.ruler` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(250 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/d/dd/Fairhaven.jpg)
 
 A center for trade and commerce, the city features a large House Orien enclave named Journey's Home. Almost any trade good in western Aundair passes through Passage. Passage also features a large lightning rail maintenance and repair facility.
 

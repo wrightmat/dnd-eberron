@@ -1,6 +1,6 @@
 ---
-region: "[[public/Sarlona|Sarlona]]"
 type: Region
+region: "[[public/Sarlona|Sarlona]]"
 ---
  #location #region [[locations/Sarlona|Sarlona]]
 

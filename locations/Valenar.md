@@ -1,24 +1,10 @@
 ---
 type: Region
 region: "[[Khorvaire]]"
-image: "![https://static.wikia.nocookie.net/eberron/images/0/0d/D%26D_-_4th_Edition_-_Eberron_Map_Valenar.jpg](https://static.wikia.nocookie.net/eberron/images/0/0d/D%26D_-_4th_Edition_-_Eberron_Map_Valenar.jpg)"
 ---
  #location #region [[Khorvaire]]
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.image`
-> ###### Geography
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.type` |
-> | **Region** | `=this.region` |
-> ###### Travel
-> |  |  |
-> | ---- | ---- |
-> | Destination | 🕓 `VIEW[round(2500 / (({Travel Calculators#MilesPerHour}*{Travel Calculators#HoursPerDay})*{Travel Calculators#SpeedMultiplier}),1)]` days |
-> ###### Comments
-> `=this.comments`
+![https://static.wikia.nocookie.net/eberron/images/0/0d/D%26D_-_4th_Edition_-_Eberron_Map_Valenar.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/0/0d/D%26D_-_4th_Edition_-_Eberron_Map_Valenar.jpg)
 
 Valenar is a nation that broke away from the nation of Cyre during the Last War when the Valaes Tairn mercenary elves annexed the land.
 

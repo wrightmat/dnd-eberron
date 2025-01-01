@@ -1,3 +1,7 @@
+---
+type: District
+region: "[[Sharn]]"
+---
  #location #district [[Sharn]]
 
 Skyway demonstrates the most dramatic manifestation of the magic made possible by Sharn’s manifest zone linked to Syrania. Its towers are built on clouds given substance, hovering above the tops of the buildings below. The residents of Skyway are the impossibly wealthy and privileged, the aristocrats who might hope never to dirty their feet by setting them on a street in the city below, Skycoaches can easily carry passengers to and from Skyway, as can soarsleds and more traditional magical travel. Many residents of Skyway prefer to ride mounts around their ward and, when necessary, down to the city below — griffons, hippogriffs, giant eagles, giant owls, and at least one pegasus.
