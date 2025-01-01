@@ -19,8 +19,8 @@
 
 #### Week 1: Return and Reception
 
- - [ ]  **Student Schedules**
-
+###### Student Schedules
+ - [ ] 
 - Before starting this adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses themselves or by rolling on the Third-Year Courses table. Inform them that the characters are also enrolled in a required course, Advanced Arcane History.
 
 | d10 | Course                               | Offered By  |
@@ -36,8 +36,8 @@
 | 9   | Principles of Warsinging             | Lorehold    |
 | 10  | Turning Inner Fire into Outer Flames | Prismari    |
 
- - [ ]  **Cordially Invited**
-
+###### Cordially Invited
+ - [ ] 
 - Once the characters have decided how they’ve spent their time away from school and chosen their courses for the year, read the following text:
 >Classes haven’t even started at Strixhaven yet, but excitement and magic are already in the air on campus. Amid the bustle of students reuniting after their time away and preparing for the new year, you find your new lodgings. Inside the small, clean room is a bed, a closet, and a desk, and on the desktop is a thick piece of vellum, carefully rolled, sealed, and bearing your name. Nestled next to it is a silver pin shaped like the Strixhaven star, the symbol of the university.
 
@@ -54,8 +54,8 @@
 > [!NOTE] Masquerade History
 > The founding masters of Strixhaven University sought ways to mitigate the clashes common among students of different magical colleges. Magister Kollema of Lorehold College recognized that shared experiences and culture created more unity than merely attending the same classes. In light of this, he proposed the first Magister’s Masquerade, which would rely on students from all five colleges to prepare every aspect of the event and would require students to attend in costume, divesting themselves of any college loyalty. The first event was a grand success, and since then the Magister’s Masquerade has been an annual tradition at Strixhaven. It’s a night of magic and mystery that highlights what students can accomplish together and allows them to see one another in a different light.
 
- - [ ]  **Reception at Bow’s End**
-
+###### Reception at Bow’s End
+ - [ ] 
 - The night the characters return to Strixhaven, there’s a welcoming reception at Bow’s End Tavern. This event gives students the opportunity to socialize with friends and learn more about the Magister’s Masquerade.
 - After the characters have settled into their lodgings, they find their classmates drifting toward Bow’s End Tavern for the reception, including some of the characters’ Friends, Beloveds, or Rivals. When the characters arrive at Bow’s End, read or paraphrase the following text:
 >A crowd of boisterous third-year students fills Bow’s End Tavern, abuzz with conversations about the Magister’s Masquerade and dream outfits for the event. Among the crowds of chatting friends and mingling students are decorated tables; one is surrounded by the masquerade’s student organizers, and the others are covered in outlandish snacks. A wave of shouts rises from the back of the tavern, where high-energy games are underway.
@@ -96,16 +96,16 @@
 | 5   | Pickled black lotus root that turns the tongue of anyone who eats it purple                        |
 | 6   | Chilled vegetable rolls in glass-leaf wrappers that feel like they shatter when bitten             |
 
- - [ ]  **One Too Many?**
-
+###### One Too Many?
+ - [ ] 
 - After the characters catch up with other students and participate in any other activities that they please, read or paraphrase the following text:
 >Out of place amid the laughter and conversation comes an uncomfortable-sounding groan. Two students escort a third sick-looking student toward the tavern doors. As they pass, one of the escorts says, “One too many eel rolls, I guess.”
 
 - The student being escorted out is suffering from the curse caused by the Oriq Orb. At the moment, characters have no way of learning this, and no one lets it dampen the reception’s atmosphere for long.
 - If the characters follow the sick student or check up on them later, they learn the student was delivered to the infirmary, spent a night there with a bad headache, and recovered by the next morning. A character who succeeds on a DC 14 Intelligence (Investigation) check also learns that the sick student was summoned to Dean Tullus’s office earlier in the day, shortly before the reception. During the meeting, Dean Tullus addressed the student’s chronic lateness to class; the student recalls that the conversation was brief and cordial.
 
- - [ ]  **The Challenge**
-
+###### The Challenge
+ - [ ] 
 - After the scene with the sick student, give the characters one last opportunity to do anything else they please at the reception. As they prepare to leave, one or more students approach and challenge them.
 
 - **Who Are the Rivals?** Determine who issues the challenge. If one or more of the characters have Rivals, pick a Rival to be the challenger. The challenger leads a group the same size as the characters’ party, which could include other Rivals. If none of the characters have Rivals, students who were part of the opposing Mage Tower team last year or random students can issue this challenge.
@@ -139,8 +139,8 @@
 	- **Duelist Marks**. Ten X marks mar the floor. A character who succeeds on a DC 14 Intelligence (Arcana) check knows that these marks serve as stations for student duelists, and the scars between them were made by violent magic.
 	- **Secret Storage Chambers**. Two secret doors are located in the northern wall of the structure. Finding either door requires a successful DC 14 Wisdom (Perception) check. The chamber behind each secret door contains various leaking jars and boxes of used alchemical reagents. A character who spends 5 minutes searching either room and succeeds on a DC 12 Wisdom (Perception) check discovers two potions of healing and a packet containing dust of sneezing and choking (the contents of both rooms are the same).
 
- - [ ]  **Duels in the Repository**
-
+###### Duels in the Repository
+ - [ ] 
 - When the characters arrive at the Furygale Repository, they find a warehouse-like structure with walls that slowly change shape and color, as if melting and reforming. Floating warning signs around it read, “Danger: Elemental Forces.” A cavernous opening in the south wall provides access to the interior. When the characters enter, read or paraphrase the following text:
 >The space within the Furygale Repository is a vast, open area filled with discarded magical creations. Elemental forces infuse the structure’s walls and numerous alcoves, the surfaces of which slowly shift, glowing with discordant lights that shimmer, clash, consume one another, and then glow anew.
 
@@ -154,15 +154,15 @@
 	- Any duelist who breaks these rules loses the duel. If a duelist kills an opponent, the killer, if discovered, is expelled from the university and forced to pay for raise dead to be cast on the dead duelist.
 - As mentioned in the “Magic Protections” portion of the “Furygale Repository Features” section, creatures that take damage in this area are healed by Furygale’s magic.
 
- - [ ]  **Dueling Begins**
-
+###### Dueling Begins
+ - [ ] 
 - If the characters go to the repository early, their opponents arrive at midnight. If the characters arrive on time, their opponents are already there waiting at the duelist marks in the center of the structure.
 - Once both parties meet and banter, one-on-one duels commence following the rules outlined in the “Duels in the Repository” section. The Rivals use the pledgemage stat blocks appropriate for their colleges. All their actions are considered permissible magic for the purposes of dueling.
 - Run as many one-on-one duels as the characters want to participate in. During these duels, remember to account for the wild magic effect detailed in “Furygale Repository Features.” The challenge is complete when every character who wants to has dueled. The team with the most victors is deemed the winning team and earns bragging rights.
 - Before the groups go their separate ways, though, things take an unexpected turn.
 
- - [ ]  **Foul Play**
-
+###### Foul Play
+ - [ ] 
 - At the conclusion of the duels but before the characters leave the Furygale Repository, one of their opponents collapses. A moment later, another opponent falls. In seconds, all the opponents but one have collapsed. Although there’s no way for the characters to know this yet, the collapsed opponents have been rendered unconscious by the curse from the Oriq Orb. Dean Tullus spread the curse to several students during the recent reception, and Malakar is now testing his magic’s power.
 - The one remaining opponent reacts as follows:
 >“What… what are you doing?” your opponent stammers, panicking as their friends sprawl across the floor. “Cut it out, cheaters! You can’t do this!”
@@ -181,21 +181,21 @@
 
 - During this year at Strixhaven, the characters are enrolled together in Advanced Arcane History. The course is held in a lecture hall in the Biblioplex (area B7) and taught by Dean Tullus. Several weeks after their encounter at the Furygale Repository, the characters have their first Exam for the course.
 
- - [ ]  **The Relic Lecture**
-
+###### The Relic Lecture
+ - [ ] 
 - During an early Advanced Arcane History course that all the characters are attending, Dean Tullus displays a relic she discovered during a recent expedition. Read or paraphrase the following text to describe part of her lecture:
 >“An historian interrogates the stories we tell ourselves about the past, learning how true they are — or otherwise,” lectures Dean Tullus. “Only by understanding the truth of the past might we learn lessons applicable to our magic in the present. Take this, for example.” The professor reveals a translucent orb. Within it a coil of green mist endlessly knots around itself. “I unearthed this in the Fortress Badlands during my most recent expedition. Its creator and use remain uncertain. But by investigating the reason for its creation, we stand to learn more about those who made it and how their lessons might teach us more about our own magic.”
 
 - Dean Tullus eagerly takes questions on her lecture or the relic she exhibits, but she doesn’t know much about it yet. She suspects it was used as a magical focus by an ancient wizard she has yet to identify. A character who subtly casts detect magic in class learns the object exudes an aura of enchantment.
 - The class ends with a reminder that the first Exam is only a few days away and that it will test students on their knowledge of historical relics and the relics’ use in magic.
 
- - [ ]  **Studying Phase**
-
+###### Studying Phase
+ - [ ] 
 - The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.
 - Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 17 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.
 
- - [ ]  **Testing Phase**
-
+###### Testing Phase
+ - [ ] 
 - On the day of the Exam, each character makes two ability checks related to parts of the test:
 	- **Commonly Used Magic Devices**. Identifying types of magic devices, from battlefield magic items to objects useful as spell foci, requires a successful DC 17 Intelligence (Arcana) check.
 	- **Historical Relics in Magic**. Writing a short essay about historical relics and how they were famously used in ritual magic requires a successful DC 17 Intelligence (History) check.
@@ -208,14 +208,14 @@
 - This year, the Strixhaven faculty has chosen to honor the school’s storied history in the theme for the Magister’s Masquerade.
 - During one of her Advanced Arcane History classes, Dean Tullus explains that the theme for the masquerade is “A Starlit Evening.” Just as the light from stars is visible for thousands of years, so too does the professor want to see the students’ attire shine with the same wondrous history. She then offers extra credit in her course to students who show her costume designs evocative of some aspect of Strixhaven’s history ahead of the ball.
 
- - [ ]  **Historical Research**
-
+###### Historical Research
+ - [ ] 
 - To meet Dean Tullus’s demand for historical authenticity, a character must research Strixhaven fashion through the centuries. This requires spending 6 hours studying at the Biblioplex and succeeding on a DC 14 Intelligence (History) check. Characters who exceed DC 18 on this check also learn the information in the “Records Gap” section.
 - After successfully conducting their research, a character can show their notes to Dean Tullus and receive extra credit on their second Advanced Arcane History Exam, as noted in the “Exam Results” section for that Exam.
 - **Records Gap**. A character who excels at their fashion research notices a gap in the Biblioplex’s records approximately 200 years ago. All information about that year’s masquerade is missing. If a character pursues the missing information, cross-checking other university records reveals an unusually high number of student deaths that same year. While Strixhaven experiences the occasional rare fatality among the student body, that year dozens of students perished. No available record notes how the students died. Characters who, in chapter 4, learned about the student expelled for practicing forbidden magic realize that these deaths occurred in the same year that student was expelled. Beyond this, no other information on the topic is currently available. If the characters mention the records gap to one or more faculty members, it sparks very little interest, since the missing records are so old. These faculty members have neither the time nor the recollection to shed light on the mystery.
 
- - [ ]  **Fashion Show Preparations**
-
+###### Fashion Show Preparations
+ - [ ] 
 - As part of the preparations for the Magister’s Masquerade, many Strixhaven students participate in a fashion show on the Silverquill College campus at the Rose Stage. During this event, student and alumni designers present fashions meant to inspire masquerade attendees and help them prepare for the ball. After the show, some of the outfits are auctioned off to help fund the masquerade. Characters might learn about the event by hearing about it from other students or spotting flyers posted around campus.
 - **Fashion Show Timing**. Events related to the fashion show play out over the course of several weeks. Characters might decide to design their own fashions, model designs at the show, or sell their works at the auction. Other students might get involved in the fashion show as well, coaxing characters into the event. Let the players know the ways in which their characters can participate in the fashion show, and allow them to do so as much as they’re interested, building toward the event at a date you set. These activities can happen in the background as characters focus on other goals or as the events in the “Party Preparations” section take place.
 - **Fashion Design**. Characters with an eye for design might create an outfit and enter it in the fashion show.
@@ -228,8 +228,8 @@
 
 #### Week 9: The Fashion Show
 
- - [ ]  **Arrival**
-
+###### Arrival
+ - [ ] 
 - When the characters arrive at the Rose Stage the night of the fashion show, read or paraphrase the following text:
 >Shimmering lights and soft music drift across the Rose Stage and the surrounding seating as well-dressed students, professors, and alumni guests mingle. Behind the runway, student fashion designers, models, and their assistants buzz to and from backstage dressing rooms, making finishing touches before the show begins.
 
@@ -237,22 +237,22 @@
 - The event includes a preshow period for mingling and light refreshment, the show itself, the fashion auction, and a brief closing reception. Characters can engage in any portion of the event, though models and designers typically spend the period prior to the show preparing in the hectic backstage dressing rooms.
 - **Fashion Show Rumors**. Roll on the Fashion Show Rumors table to determine what students chitchat with characters about during the event. The veracity of these rumors is up to you; use them to add additional drama to the event.
 
-| d6 | Rumor                                                                                                               |
-|----|---------------------------------------------------------------------------------------------------------------------|
-| 1  | Another designer stole the student’s design and is trying to pass it off as their own work!                         |
-| 2  | An alumni designer is here to watch and recruit models for professional work.                                       |
-| 3  | One of the outfits is actually alive.                                                                               |
-| 4  | A student activist group plans to crash the event in protest of wasteful magical decadences.                        |
-| 5  | One of the colleges’ deans wants to buy an outfit and has sent a proxy to bid on it.                                |
-| 6  | A plot is underway to animate an outfit while it’s being worn down the runway, embarrassing the model and designer. |
+| d6  | Rumor                                                                                                               |
+| --- | ------------------------------------------------------------------------------------------------------------------- |
+| 1   | Another designer stole the student’s design and is trying to pass it off as their own work!                         |
+| 2   | An alumni designer is here to watch and recruit models for professional work.                                       |
+| 3   | One of the outfits is actually alive.                                                                               |
+| 4   | A student activist group plans to crash the event in protest of wasteful magical decadences.                        |
+| 5   | One of the colleges’ deans wants to buy an outfit and has sent a proxy to bid on it.                                |
+| 6   | A plot is underway to animate an outfit while it’s being worn down the runway, embarrassing the model and designer. |
 
- - [ ]  **On the Runway**
-
+###### On the Runway
+ - [ ] 
 - After the guests take their seats, one by one an announcer introduces each model and whose outfit they’re wearing, then proceeds to describe the outfit. All the while, the model walks the perimeter of the Rose Stage, doing their best to highlight the virtues of the outfit. The fashion show lasts 1 hour.
 - Besides the characters, numerous students and Strixhaven alumni participate in the fashion show, and all the outfits on the Fashion at Auction table are modeled.
 
- - [ ]  **Fashion Auction**
-
+###### Fashion Auction
+ - [ ] 
 - Following the fashion show, designers can auction their work to help fund the Magister’s Masquerade. The auction takes place at the Rose Stage immediately following the fashion show. Dozens of students attend the show and the auction, including all the student NPCs. Three of these students — Urzmaktok Grojsh, Rubina Larkingdale, and Melwythorne — submitted designs and auction them off.
 - **Determining a Design’s Value**. To determine how much a character’s outfit sells for at auction, add the number the designer recorded when creating the outfit and the number the model recorded when modeling the outfit (if any). Look up this total in the Check Total column of the Fashion Auction table to determine the outfit’s value, along with some comparable outfits also being sold at the auction.
 - **Buying Fashions**. A character can bid on a design being auctioned off, ultimately winning it for the price listed in the Value column of the Fashion at Auction table. If you want to play out the bidding, the opening bid for each design is half of its value. Other students might bid against characters, driving up the outfit’s value to its listed price. If you want to make bidding particularly intense, a rival bidder might drive up an outfit’s price to 50 percent more than its listed value before relenting.
@@ -268,8 +268,8 @@
 | 32–35       | 540 gp   | Kaleidoscopic agbada shifting with geometric patterns         |
 | 36–39       | 720 gp   | Daring assemblage of hovering ink splotches                   |
 | 40+         | 1,000 gp | Gloves that grow to cover the wearer in regal draconic scales |
- - [ ]  **Fashion Montage**
-
+###### Fashion Montage
+ - [ ] 
 - Following the fashion show, characters might still be undecided on what they’re going to wear to the Magister’s Masquerade. If they want ideas, it’s time for a fashion montage.
 - Have each player write two or three ideas for wild magical outfits on pieces of paper and collect them. Then, during an outing with friends or privately using their Masque charms, the characters can try out the proposed outfits. Have players select from the collected ideas at random, then describe their characters trying on the outfit. Allow characters to try out as many outfits as they please. Other students might also be present to offer their advice, support, or criticism.
 
@@ -279,8 +279,8 @@
 	- A trip to Wyrmsfang Jungle to harvest marshwicks (see “Wyrmsfang Harvest” below)
 	- A day of gathering supplies stored at the Biblioplex (see “Biblioplex Supplies” below)
 
- - [ ]  **Wyrmsfang Harvest**
-
+###### Wyrmsfang Harvest
+ - [ ] 
 - In Wyrmsfang grow phosphorescent marshwicks. The masquerade organizing committee has determined that these plants would be perfect for creating starry decorations for the ball’s “A Starlit Evening” theme. A considerable number of marshwicks are needed, and they must be harvested by hand. The characters are part of a group that includes ten other students (apprentices from all five colleges).
 - Harvesting the required number of marshwicks from Wyrmsfang takes 8 hours. A character who succeeds on a DC 16 Intelligence (Nature) or Wisdom (Survival) check can reduce this time for everyone by 1 hour (to a minimum of 4 hours).
 - **Random Encounters in the Jungle**. Wyrmsfang Jungle is full of dangerous creatures. For every hour the characters’ group spends there, roll on the Jungle Encounters table to see what they discover. Assume the characters are off by themselves when an encounter occurs; however, the other students aren’t far away and can frighten away a monster or two if the characters get into serious trouble.
@@ -298,8 +298,8 @@
 | 19    | A green hag who will give the group all the marshwicks they need if one of them invites her to the Magister’s Masquerade |
 | 20    | A dense stand of marshwicks that shaves 1 hour off the expedition if harvested                                           |
 
- - [ ]  **Biblioplex Supplies**
-
+###### Biblioplex Supplies
+ - [ ] 
 - The Magister’s Masquerade is such a Strixhaven institution that an entire section of the Biblioplex’s archives is devoted to it. Along with records about the event, these archives serve as storage for masquerade supplies needed annually. The characters are among those students the masquerade organizing committee tasks with retrieving the hundreds of storage boxes conveying them to Kollema Hall. Ten other students (apprentices from all five colleges) are sent along with the characters.
 - **Transporting the Supplies**. Finding all the supplies related to the Magister’s Masquerade, moving them out of the archives, and then transporting them to Kollema Hall should take the characters and their group 6 hours to complete. That assumes everyone in the group helps the entire time and someone arranges for transportation of the supplies. If one or more characters refuse to help or slip away for part of the time, add 1 hour to the task’s duration. If the characters don’t arrange transportation in advance, the task stalls until they make arrangements.
 - **Masquerade Research**. The records in the Biblioplex archives weren’t available to the characters when they were doing their historical research earlier in the academic year (see “Records Gap”). A character who ignores their manual labor duties for an hour and investigates the archive records can make a DC 14 Intelligence (History) check. If they succeed, they discover a firsthand report from 200 years ago involving a mysterious illness striking campus. Dozens of students fell victim to it, experiencing fatigue and headaches; many of them died, wasting away in a matter of days despite all efforts to cure them.
@@ -308,13 +308,13 @@
 
 - The characters’ second Exam in Advanced Arcane History takes place a few weeks after they complete the errands in preparation for the masquerade. It tests students’ knowledge of famous magical relics and the history behind their creation and use. However, this test is unusual because the characters’ professor, Dean Tullus, doesn’t show up to administer it.
 
- - [ ]  **Studying Phase**
-
+###### Studying Phase
+ - [ ] 
 - The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.
 - Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 18 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.
 
- - [ ]  **Testing Phase**
-
+###### Testing Phase
+ - [ ] 
 - On the day of the Exam, Dean Tullus doesn’t show up for class. After 10 minutes of uncertainty, one of the dean’s teaching assistants steps in to administer the Exam. Each character makes two ability checks related to parts of the test:
 	- **Magical Devices and Their Functions**. Matching a list of magical devices with their functions requires a successful DC 18 Intelligence (History) check.
 	- **History of Magical Devices**. Writing short essays about the origins of different magical devices requires a successful DC 18 Wisdom (Insight) check.
@@ -326,12 +326,12 @@
 	- If the character passed the Exam, they ace it instead.
 	- If the character aced the Exam, they receive three Student Dice, instead of two.
 
- - [ ]  **Following Up on the Dean**
-
+###### Following Up on the Dean
+ - [ ] 
 - After the Exam (even during the midterm break), a character who seeks to learn what happened to Dean Tullus can make a DC 14 Intelligence (Investigation) check. If the check succeeds, the character learns that Dean Tullus just didn’t show up for class, offering no explanation to her teaching assistants. Apparently, the normally fastidious dean was in her office at Archaeo Memorial Hall the whole time.
 
- - [ ]  **Suspicions**
-
+###### Suspicions
+ - [ ] 
 - After Dean Tullus’s unexpected absence, characters might suspect that there’s something off about the dean. A character who spends a day investigating Dean Tullus further and succeeds on a DC 12 Intelligence (Investigation) check learns one of the rumors on the Dean Tullus Rumors table.
 - Even if the characters choose not to investigate the dean, have some of these rumors come to the characters’ attention to increase their suspicion. Characters who bring their misgivings to other faculty members are dismissed, as most professors are inured to students grousing about their teachers.
 - Should the characters try to investigate Dean Tullus’s office, there’s rarely a time she or other faculty aren’t working in the Deans’ Wing of Archaeo Memorial Hall. However, everyone knows the dean will be attending the Magister’s Masquerade. It might serve as a perfect chance to slip into her office while she’s otherwise occupied.

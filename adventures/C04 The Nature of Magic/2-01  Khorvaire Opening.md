@@ -16,22 +16,22 @@
 
 ### Scenes and Situations
 
- - [ ]  **Arcanix** (1)
-
+###### Arcanix (1)
+ - [ ] 
 - The primary point of interest here should be the Floating Towers, where any player landing here could get information about magic.
 - Players landing here could also learn immediately about the troubles with Divination magic in the area, and the recent issues with the Eye of Siberys.
 
- - [ ]  **Sharn** (2)
-
+###### Sharn (2)
+ - [ ] 
 - The primary point of interest should be Morgrave University, where any player landing here could get information about magic and other academic institutions across Khorvaire.
 - Players landing here could also learn immediately about the troubles with Abjuration magic in the area.
 
- - [ ]  **Sigilstar** (3)
-
+###### Sigilstar (3)
+ - [ ] 
 - The primary point of interest should be Sigilstar University, where any player landing here could get information about magic.
 
- - [ ]  **Stormhome** (4)
-
+###### Stormhome (4)
+ - [ ] 
 - Players landing here would immediately notice that storms have racked the island. If asking around, they'd learn that until recently, magic controlled the weather here but that magic is no longer working. The Raincallers Guild Hall would be the place to ask about that.
 
 ### Secrets and Clues

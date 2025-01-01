@@ -14,17 +14,17 @@
 
 ### Scenes and Situations
 
- - [ ]  **Korranberg**
-
+###### Korranberg
+ - [ ] 
 - Adapt Candlekeep, and Candlekeep Mysteries adventures, as needed for this city.
 
- - [ ]  **The Gate of Joy**
-
+###### The Gate of Joy
+ - [ ] 
 - Pylas Pyrial is a feyspire, known as the Gate of Joy. Most of the time it rests in the Moonlit Vale of Thelanis, at certain times it is drawn into Eberron. The players find the feyspire in Eberron, but when they approach it, they're quickly drawn into the plane of Thelanis.
 - The Gate of Joy in Thelanis is a community of gnomes, but ruled by a summer eladrin named Ihan de Rhaan. The Seat of the Summer Court is the only place of warmth on the plane now, as the Prince of Frost has returned and taken over the plane from his seat at the Moonlit Vale.
 
- - [ ]  **The Prince of Frost**
-
+###### The Prince of Frost
+ - [ ] 
 - The players will need to take on the Prince of Frost, likely killing him (or some other means of handling him), in order to return the plane to its former state and return illusion magic to Eberron.
 
 ### Secrets and Clues

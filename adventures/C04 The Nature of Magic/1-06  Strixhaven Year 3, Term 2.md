@@ -27,8 +27,8 @@
 - Several dozen students are already present at the Rose Stage, waiting for the dance lessons to begin. As soon as the characters arrive, a familiar student approaches one of them and points out a large, graceful, blue-skinned individual amid the crowd. “I think that’s Nivall!” the student says, urging the characters to follow. “They’re the greatest dancer ever to graduate from Strixhaven. Come on — I bet they’ll teach us amazing moves!”
 - Dance instructor Nivall is a graceful individual who moves as naturally as a cloud. A recent Strixhaven graduate, Nivall leads the students through 4 hours of dance lessons. First, though, Nivall asks everyone to choose their first dance partner or allow Nivall to pair them off.
 
- - [ ]  **Dance with Me?**
-
+###### Dance with Me?
+ - [ ] 
 - Nivall walks students through a dance routine, then asks dancers to repeat it on their own. After each dance, Nivall encourages students to switch partners. During the dance lesson, at least one student each character dances with stands out. Roll on the Dance Partner Quirks table below to determine how.
 
 | d6  | The Character’s Partner…                                                     |
@@ -43,13 +43,13 @@
 
 - The characters’ final Exam in Advanced Arcane History tests students’ knowledge of theories about lost magical relics and devices.
 
- - [ ]  **Studying Phase**
-
+###### Studying Phase
+ - [ ] 
 - The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.
 - Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 17 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.
 
- - [ ]  **Testing Phase**
-
+###### Testing Phase
+ - [ ] 
 - Once again, Dean Tullus doesn’t appear to administer this Exam, but her assistants are prepared and run the Exam smoothly. On the day of the Exam, each character makes two ability checks related to parts of the test:
 	- **Lost Magic Relics**. Identifying famous missing magical relics requires a successful DC 19 Intelligence (Arcana) or Intelligence (History) check.
 	- **Discovery Hypotheses**. Writing short essays theorizing what magic items scholars have yet to discover requires a successful DC 19 Charisma (Persuasion) check.
@@ -67,36 +67,36 @@
 	- **Magic Steps**. All steps, including the hall’s grand staircase, shift up or down like escalators, or flatten out completely before raising or lowering like lifts to accommodate larger creatures and mobility devices, depending on users’ needs.
 	- **Transport Glyphs**. Runic glyphs (marked as starbursts on map 5.2) are etched on the floor near the hall’s main staircase. Any creature that stands on a glyph and says “up” or “down” is teleported to the transport glyph one floor higher or lower in the hall (depending on the direction spoken), along with anything the creature is wearing or carrying. If the destination glyph is occupied or the command doesn’t make sense (such as saying “down” while on the hall’s lowest floor), the transport glyph doesn’t function.
 
- - [ ]  **K1. Serenity Quadrants**
-
+###### K1. Serenity Quadrants
+ - [ ] 
 - Study areas under the hall’s tiered balconies hold an impressive collection of history books. Sorting the book collection day and night are `encounter: 1d4: Cogwork Archivist`.
 
- - [ ]  **K2. Wise Kollema**
-
+###### K2. Wise Kollema
+ - [ ] 
 - The towering statue of Kollema holds an open book in one hand and a staff in the other and is visible from each of the hall’s floors.
 
- - [ ]  **K3. Demonstration Stage**
-
+###### K3. Demonstration Stage
+ - [ ] 
 - This stage rises 5 feet to be flush with the base of Kollema’s statue. Here, Lorehold professors perform demonstrations of their college’s more physically demanding subjects, such as conjuring the spirits of past scholars and historians. On any given weekday, there is a 50 percent chance that one Lorehold professor of chaos and twelve Lorehold pledgemages (see chapter 7 for both) are taking part in a class here.
 
- - [ ]  **K4. Second-Floor Study**
-
+###### K4. Second-Floor Study
+ - [ ] 
 - The collection of books upon the second floor focuses on historical accounts of mage-explorers and archaeomancers. Attending this collection day and night are 1d4 cogwork archivists (see chapter 7).
 
- - [ ]  **K5. Infirmary Intake**
-
+###### K5. Infirmary Intake
+ - [ ] 
 - This infirmary is staffed by Zertha DeSantos (lawful good human Lorehold professor of order; see chapter 7). Colorful, framed art bears the messages “Keep eating habits healthy!” and “Never practice dangerous magic without a buddy!”
 
- - [ ]  **K6. Infirmary Hall**
-
+###### K6. Infirmary Hall
+ - [ ] 
 - This featureless hall connects the infirmary and the sickroom.
 
- - [ ]  **K7. Sickroom**
-
+###### K7. Sickroom
+ - [ ] 
 - The six stiff-sheeted beds in this rarely used sickroom provide places for ill or injured students to rest.
 
- - [ ]  **Masquerade Preparations**
-
+###### Masquerade Preparations
+ - [ ] 
 - The following tasks must be completed to transform Kollema Hall:
 	- Remove all the tables from the first floor.
 	- Unpack the supplies delivered from the Biblioplex.
@@ -116,30 +116,30 @@
 | 7    | Get Me Down                 |
 | 8    | Look Out                    |
 | 9–10 | Sick Leave                  |
- - [ ]  **Archivist Attack**
-
+###### Archivist Attack
+ - [ ] 
 - In response to a dropped table or minor damage to the library shelves, two cogwork archivists move to attack the offending students. It’s unclear why the archivists react so aggressively.
 
- - [ ]  **Firebreak**
-
+###### Firebreak
+ - [ ] 
 - On the night of the masquerade, the hall will be lit with dozens of magical floating lights that emanate from magical firework-like devices that will be set off soon after the event begins. These tube-like devices are among the decorations being set up during the day’s preparations. Choose a character and have them make a DC 16 Intelligence (Investigation) check. On a successful check, they notice that one of the devices is faulty. On a failed check, the character doesn’t spot anything amiss.
 - If the character fails to notice the damaged device, or notices the problem but elects to do nothing about it, a misfire occurs in the “Welcoming Announcement” section later in this adventure.
 
- - [ ]  **Get Me Down**
-
+###### Get Me Down
+ - [ ] 
 - The demonstration stage (area K3) has been enchanted with magic that will allow dancers to fly above it on the night of the masquerade. However, this magic has somehow activated early, causing a student the characters know to levitate unexpectedly, stranding them 50 feet in the air, out of reach of any solid objects. The student can’t move from their position while out of reach, but if they come in contact with an anchored object, they can move along it as if climbing. The student levitates for 5 minutes before the magic ends and they fall.
 
- - [ ]  **Look Out**
-
+###### Look Out
+ - [ ] 
 - Someone shouts a warning as a box of heavy decorations drops from a balcony several floors up. A random character must succeed on a DC 14 Dexterity saving throw or take 10 (3d6) bludgeoning damage.
 - If no character is in a place where something could fall on them, choose a character and let them notice the box about to fall on a student on the first floor. The character has an instant to try to mitigate the danger — perhaps by casting a spell or using a class feature. If they can’t, the box hits the student and deals damage as described above.
 
- - [ ]  **Sick Leave**
-
+###### Sick Leave
+ - [ ] 
 - During the hall’s preparation, a student complains of having a headache that’s suddenly gotten worse, and they head to the third-floor infirmary. Although the characters have no way of knowing it, this student is cursed by the Oriq Orb. When this happens, increase the number of sick students in the “Waking Nightmares” section by one. If a character escorts the student to the infirmary, Professor DeSantos doesn’t find anything wrong with the student and encourages them to lie down in the sickroom (area K7) until they feel better.
 
- - [ ]  **Waking Nightmares**
-
+###### Waking Nightmares
+ - [ ] 
 - As the work of preparing Kollema Hall winds down, six students complain about headaches and go to the infirmary. All these students are feeling the effects of the curse caused by the Oriq Orb. These students should be a mix of students the characters know and don’t know.
 - If a character goes to the infirmary with the sick students, Professor DeSantos is concerned by the sudden influx of patients but can’t find anything wrong with them. She insists they rest in the sickroom until they feel better.
 - Ten minutes later, these six students — along with any others who came to the infirmary during the “Sick Leave” event — are back on their feet, though something is clearly wrong. The afflicted students are all suffering from the Visions of Terror effect of the Oriq Orb. They’re delirious and hallucinating, shouting things like “No! Stop!” and “Keep away!” Reacting violently to whatever they’re seeing, they attack anyone near them as they try to escape Kollema Hall; use one or more of the college apprentice stat blocks to represent them.
@@ -148,8 +148,8 @@
 - **Ending the Panic**. A character can use an action to try to calm a delirious student, doing so with a successful DC 14 Charisma (Persuasion) check. A character who is a Friend or Beloved of the delirious student has advantage on the check. If the check fails, the student continues to panic. If the check succeeds, the student becomes docile and returns to normal after 10 minutes; the same thing happens if the student is incapacitated. Sick students who escape from Kollema Hall rampage across campus for 10 minutes before being taken into custody by university staff.
 - After this incident, most of the afflicted students are too scared to attend the Magister’s Masquerade.
 
- - [ ]  **Investigating the Panic**
-
+###### Investigating the Panic
+ - [ ] 
 - A character who investigates what led to the students’ mysterious behavior can make a DC 14 Intelligence (Investigation) check. A successful check reveals that the sick students all recently visited Bow’s End Tavern — they met for breakfast before the day’s work started. If the characters miss this clue, a student whom a character is acquainted with shares this observation a day later.
 
 - **Investigating Bow’s End**. A character who visits Bow’s End Tavern can ask around about the students. None of the staff remembers anything remarkable, but one of the tavern’s chefs, Curtie Axechucker, was working when the students originally came in. She’s also there when the characters come to investigate.
@@ -170,8 +170,8 @@
 - If the players don't end up taking the bait, that student disappears the next night, and a Friend or Beloved of a character approaches and begs them to find the missing student.
 - The Fang Crater on Argonnessen was the site of a great planar incursion from Fernia. Now a field of glass and shattered rock, it remains a potent manifest zone. It's known to be inhabited by salamanders and other fiery creatures, as well as some ancient ruins that are sometime explored by brave Lorehold students.
 
- - [ ]  **Traveling to Fang Crater**
-
+###### Traveling to Fang Crater
+ - [ ] 
 - Volcanic activity increases as the awakening of the tlexolotl Izel affects the region. While the characters travel, the earth occasionally shakes anew. During the journey, roll on the Volcanic Awakening table every 12 hours or whenever you desire. You can also have two salamanders ambush the party as these volcanic events take place.
 
 | d4  | Volcanic Threat                                                                                                                                                                           |
@@ -181,8 +181,8 @@
 | 3   | The ground suddenly collapses, creating a 30-foot-deep fissure that’s 120 feet long and 20 feet wide. The gap severs the road ahead of the characters.                                    |
 | 4   | The earth cracks, revealing magma flowing below. A fire snake rises from the crack and attacks the first creature it sees before retreating after 1 round.                                |
 
- - [ ]  **Giant’s Wrath**
-
+###### Giant’s Wrath
+ - [ ] 
 - As the characters enter Fang Crater, a roar comes from behind a fiery mountain. The towering figure of a fire giant pushes toward the characters. “Go back!” he yells in Common. “Abandon your offerings! You know not what you do!”
 - This is the fire giant Marnun. He wields a massive hammer, which deals bludgeoning damage but is otherwise identical to a fire giant’s Greatsword attack. He can speak Common, Giant, and Ignan.
 - Marnun isn’t interested in fighting unless he’s attacked first, but he blocks the characters’ way and tries to frighten them into returning the way they came. Calming the giant and convincing him to talk requires either a successful DC 14 Charisma (Persuasion) check or appropriate roleplaying. If the characters convince Marnun to talk, he shares the distressing information he has recently learned.
@@ -194,8 +194,8 @@
 	- Marnun doesn’t know why the tlexolotl is hoarding offerings, but he has seen salamanders going to volcanoes throughout the region with them.
 - Marnun doesn’t know much more. While he’s happy to fight any salamanders he encounters, he’s too large to slip into the Gate of Illumination and find out what’s happening there. If the characters are willing to do so, Marnun offers to travel with them and defend them along the way.
 
- - [ ]  **Gate of Illumination**
-
+###### Gate of Illumination
+ - [ ] 
 - The Gate of Illumination is a centuries-old shrine consecrated to the gods of nature, fire, and renewal. It’s cut into the slope of a volcano and tunnels to the lake of magma within the caldera. The slopes of the volcano are steep and treacherous to climb, making passage through the shrine the most direct route to the volcano’s interior. Traditionally, offerings of flowers, fruits, and crafts are brought here and to similar shrines to thank the gods for their bounty, as the volcanic pools are viewed as passages to the gods’ realm.
 - As the characters near the Gate of Illumination, read the following text:
 >A well-traveled trail climbs into the mountains, the haze of volcanic smoke hanging overhead. The path ends at the entrance to a cavern carved with images of divine figures and gigantic lizards amid cracking mountains, clouds, and geometric flourishes. Crimson light emanates from within, and the smell of sulfur is thick in the air.
@@ -205,18 +205,20 @@
 	- **Heat and Gas**. The air in the shrine is heavy with smoke and heat. The shrine’s magic keeps the temperature at 90 degrees Fahrenheit, despite its proximity to the volcano’s magma. This same magic prevents volcanic gases from posing a threat, but these gases still lightly obscure every area within the shrine.
 	- **Illumination**. Veins of magma thread the walls and fill magical lanterns throughout the shrine, illuminating each area with dim light.
 
- - [ ]  **I1. Cave Entrance**
-
+###### I1. Cave Entrance
+ - [ ] 
 - A 30-foot-long tunnel leads from the entrance of the shrine to its main chambers. Magical decorations look like veins of magma flowing through the walls, but they’re cool to the touch and don’t seep into the room. A character who has the Stonecunning trait can tell the passage isn’t natural and was constructed using magic (no check required).
 
- - [ ]  **I2. Hall of Histories**
+###### I2. Hall of Histories
+ - [ ] 
 >Bright murals cover the walls of this broad, pillared hall, depicting people through the ages receiving blessings from fiery gods. A stone double door stands at the far end of the room, while stairs rise to the west and another hall opens to the east.
 
 - People who bring their offerings to the gods prepare their prayers in this area, meditating on the blessing they want. A salamander and four fire snakes are in this room. The salamander stands guard before the door to area I5, while each fire snake lingers near one of the room’s pillars. These creatures are hostile and attack any strangers that enter the room.
 - **Door**. A narrow, 10-foot-tall stone double door bars the way to area I5. A character must succeed on a DC 14 Strength (Athletics) check to open the door. As the door opens, it grinds nosily, alerting any creatures in this room and areas I4 and I5.\
 - **Murals**. The murals covering the walls depict a great planar incursion from Fernia, the place of fire, that happened long ago.
 
- - [ ]  **I3. Blessings Memorial**
+###### I3. Blessings Memorial
+ - [ ] 
 >Murals of people making offerings to fiery gods cover this room’s walls. At the chamber’s center stand three statues on short pedestals: one of a tiefling, one of a dwarf, and one of a human, all in poses of supplication. Two of the statues — the tiefling and the human — appear to be missing something.
 
 - This room memorializes some of the greatest offerings made to the gods, as well as legendary figures who made earnest sacrifices and were rewarded. The three statues at the room’s center have inscriptions written in Draconic that include the following details:
@@ -228,7 +230,8 @@
 - If the empty white urn is placed back upon the statue of Leuchis, the urn fills with nonflammable oil. If the empty blue urn is placed back upon the statue of Pattox, the urn fills with water. Both urns magically fill in this way once per week.
 - If the contents of the white and blue urns are poured into the red urn, they create a bright red magical fluid that is equivalent to three potions of resistance (fire).
 
- - [ ]  **I4. Raided Memorial**
+###### I4. Raided Memorial
+ - [ ] 
 >Shelves are carved into this room’s walls, their contents swept onto the floor, reduced to shards of shattered pottery and heaps of ashes. A mural on the north wall depicts erupting volcanoes and smoke in the shape of tiny people drifting into the sky. Beneath the mural, a salamander lies curled in a corner.
 
 - This room held the ashes of priests who sought to be interred near the gods, along with small remembrances for the dead. Salamanders have raided this room and thrown most of the memorial items into the volcano, leaving little behind.
@@ -238,7 +241,8 @@
 - **Treasure**. A character who spends at least 5 minutes sifting through the debris finds a sand-colored pouch embroidered with colorful, geometrically stylized animals. This is a tan [[bag of tricks]]. Any creature created by the bag looks artistically stylized in a manner similar to the embroidery on the bag. This doesn’t affect the creatures’ statistics.
 - An intact white stone urn lies near the mural. This urn is part of one of the statues in area I3.
 
- - [ ]  **I5. Preparation Room**
+###### I5. Preparation Room
+ - [ ] 
 >Crates and heaps of supplies surround a stone altar with a flame burning in a depression at its center. Stone double doors lead to the north and south. The door to the north is carved with the image of a frilled, lizard-like creature amid flames.
 
 - The salamanders serving Izel have brought the stolen offerings here. One salamander is currently organizing the offerings. It attacks any strangers who enter the chamber.
@@ -247,7 +251,8 @@
 - **Offerings**. The offerings consist of foodstuffs and colorful crafts with little monetary value. The edges of the room hold hundreds of pounds of such goods, all of which are flammable. If purposefully set aflame, all of the offerings burn up in less than 10 minutes. A character who succeeds on a DC 14 Wisdom (Perception) check notices a blue stone urn amid the offerings. This urn is part of one of the statues in area I3.
 - **Offering with Intention**. A character who succeeds on a DC 12 Intelligence (Religion) check knows locals value the intention behind the offerings they make more than an offering’s monetary value. A small offering made with an earnest prayer to the gods is considered greater than a valuable offering made while going through the motions of piety. Should the offerings in this room be burned or thrown into the volcano along with a prayer to the gods, every character that participates in making the offering gains advantage on their next saving throw as a minor blessing. Destroying these offerings undermines Izel’s plan, as the offerings are consecrated to the gods and can’t be used to coax forth other tlexolotls.
 
- - [ ]  **I6: Caldera**
+###### I6. Caldera
+ - [ ] 
 >The masonry of the shrine gives way to the natural formation of the volcano’s caldera. A blast of heat and gas billows off the lake of magma roiling here. At the magma’s edge stands a pair of ornate altars carved of obsidian. Nearby, four humans are slumped against the west wall, their arms dangling from rusty manacles. Beyond, sooty rock juts into the molten lake. Something moves amid the lava.
 
 - The magmatic pool at the heart of Fang Crater is the lair of the tlexolotl named Izel. The tlexolotl resents any interruptions to his plans.
@@ -262,8 +267,8 @@
 - **Missing Student**. If a student went missing earlier in the adventure, they're here. The tlexolotl can’t understand them, so it has had them manacled to the western wall. If asked, they explain that the tlexolotl didn’t harm them — it seemed curious about them, not hostile. Their manacles have no locks, as the salamanders melted them closed. Each manacle has AC 19, 10 hit points, and immunity to poison and psychic damage, or can be broken as an action with a successful DC 18 Strength (Athletics) check.
 - **Treasure**. One of the obsidian altars holds the artifact that went missing. There are also four ruby-encrusted torch sconces, two on each altar. The sconces are easily removed, and each is worth 750 gp.
 
- - [ ]  **Conclusion**
-
+###### Conclusion
+ - [ ] 
 - After the characters defeat or placate Izel, the remaining salamanders and fire snakes in the region return to Fernia. Without offerings being made to awaken the region’s other tlexolotls, the volcanic threats cease, and the characters find their travels back to Strixhaven free of volcanic dangers.
 
 #### Week 26: A Starlit Night
@@ -271,8 +276,8 @@
 - The Magister’s Masquerade occurs in the final weeks of the academic year as students’ final exams conclude. The events of the ball precipitate the end of the adventure, so tie up any loose plots characters are involved in prior to starting this section or during its more free-form parts.
 - While the masquerade is the climax of the academic year, the adventure’s final challenges take place at Archaeo Memorial Hall as the characters’ investigation of Dean Tullus comes to a head. During the Masquerade, the dean uses the crowd to spread Murgaxor’s curse, sowing the seeds for the villain’s future magical plots. Use opportunities at the masquerade to fuel the characters’ suspicions and ultimately encourage them to investigate the dean’s office, as detailed in the “Midnight at Lorehold” section.
 
- - [ ]  **Preparing for the Masquerade**
-
+###### Preparing for the Masquerade
+ - [ ] 
 - Many students spend the day of the Magister’s Masquerade preparing for the event by relaxing, putting the finishing touches on their costumes, dressing, and meeting with friends so they can arrive at the event together. Nothing sinister happens to the characters during this time, but it’s still a stressful period, and tensions are apt to be high. The day of the masquerade, have each character roll on the Preparation Accidents table to see how the lead-up to the event goes.
 
 | d10 | Preparation Accident                                                                                                                                                 |
@@ -286,8 +291,8 @@
 | 9   | The masquerade’s organizers require the character to show up to the event 1d4 hours early and work for a portion of the masquerade.                                  |
 | 10  | An accident — such as a chemical spill, animal damage, or a rain of magic pigment — ruins the character’s costume 1d4 hours before the event.                        |
 
- - [ ]  **Arriving at the Masquerade**
-
+###### Arriving at the Masquerade
+ - [ ] 
 - The Magister’s Masquerade starts at dusk. Once characters have completed their preparations (or time has run out), they should head to Kollema Hall. As they arrive at Kollema Hall and step inside, read or paraphrase the following text:
 >Kollema Hall has been transformed. Music, color, and laughter fill the airy space as masked and impeccably dressed students and faculty mingle. Beyond a check-in stand attended by student hosts, tables are arranged with whimsical ice sculptures and ornate refreshments. A band plays energetic music near the demonstration stage, which has been turned into a dance floor. Above it all, banners depicting Strixhaven heroes hang amid drifting lanterns glowing with soft light.
 
@@ -298,14 +303,14 @@
 
 - **Masquerade Events**. The Magister’s Masquerade includes the events below; run them in the order shown. Between the events, allow opportunities for characters to socialize. Moments to mingle or dance can serve as the culmination of some Relationships or as turning points for others. Linger on opportunities to socialize as long as you and the players please, and adjust Relationship Points as necessary.
 
- - [ ]  **Guess Who?**
-
+###### Guess Who?
+ - [ ] 
 - When the characters arrive, they have time to socialize, take in other students’ costumes, and meet up with acquaintances they recognize. While characters easily recognize each other, nearly everyone at the masquerade is wearing a magical disguise. Correctly guessing another student’s identity requires a successful DC 13 Intelligence (Investigation) check, regardless of whether the student wears a mundane or magical costume. A character has advantage on checks made to recognize any students they have a Relationship with.
 - Some characters might look for Dean Tullus during the masquerade, but they don’t immediately see her. Anyone they ask about her believes the dean is present, but no one can readily point her out.
 - During this initial period (and later in the event), mages using the *[[unseen servant]]* spell circulate trays of food and drink throughout the hall.
 
- - [ ]  **Welcoming Announcement**
-
+###### Welcoming Announcement
+ - [ ] 
 - Once all the characters have arrived and had a chance to mingle, Dean Tullus welcomes the attendees to the annual Magister’s Masquerade. Read the following text to begin this event:
 >The music falls silent and a spotlight shines upon a second-floor balcony as Dean Tullus approaches the railing. The dean is unmasked and resplendent in a gown made of golden scrolls. Magic amplifies her voice, carrying it throughout the hall.
 >“Students, faculty, honored guests of Strixhaven: welcome to the Magister’s Masquerade! I know many of you have been looking forward to this night as much as I have, and I promise it will be a night to remember!”
@@ -316,15 +321,15 @@
 - **Misfire**. If a character failed to notice the faulty device in the “Firebreak” event earlier in the chapter, or noticed it but did nothing about it, the device explodes when activated. The explosion happens in the quadrant of Kollema Hall’s first floor with the largest number of characters. Everyone in that quarter of the hall must succeed on a DC 14 Dexterity saving throw or have starry embers burn small holes into their attire. Creatures are otherwise unharmed. Guests are startled, and many are upset about what’s happened to their outfits, but within 10 minutes most attendees calm down.
 - **Dance among the Stars**. As the dean finishes her speech, the magic placed on the Kollema Hall demonstration stage activates. Anyone who enters a space on or above the stage gains a fly speed equal to their walking speed. This allows the guests to literally dance on air. Anyone who leaves the space above the dance floor in midair drifts gently to an unoccupied space in area K1. This magic lasts until the end of the masquerade.
 
- - [ ]  **Further Suspicions**
-
+###### Further Suspicions
+ - [ ] 
 - Use the Magister’s Masquerade as an opportunity to heighten the characters’ suspicions about Dean Tullus. After her welcome announcement, Dean Tullus grows distant. In the course of the evening, a character keeping an eye on the dean can make a DC 12 Wisdom (Insight) check. On a success, the character notices the dean engaged in one of the following strange behaviors:
 	- Dean Tullus moves through the crowd, letting her hand drift across the backs of those she passes.
 	- The dean faces a bookshelf and momentarily examines something she’s holding. Green light from an unseen source illuminates her, then fades.
 	- Dean Tullus ignores and moves away from anyone who tries to engage her in conversation.
 
- - [ ]  **Masquerade Festivities**
-
+###### Masquerade Festivities
+ - [ ] 
 - During the masquerade, characters can interact with every other student present. Roll on the Masquerade Developments table for each character to see which interactions occur.
 
 | d8  | Masquerade Development Event                                                                                                                                                                                                                   |
@@ -338,8 +343,8 @@
 | 7   | If the character put a lot of thought into their costume, multiple attendees compliment their outfit. If they didn’t, the comments are less flattering.                                                                                        |
 | 8   | The character notices Dean Tullus watching them intently several times in the course of the evening.                                                                                                                                           |
 
- - [ ]  **Kollema’s Wisdom**
-
+###### Kollema’s Wisdom
+ - [ ] 
 - Part of the tradition of the Magister’s Masquerade involves a speech made by the spirit of Magister Kollema. The statue of Kollema animates, offering wisdom to the gathered students of Strixhaven, in the final hour of the masquerade:
 >At the anticipated time, the music fades, dancers drift to the floor, and the hall falls silent as lights rise to illuminate the towering statue of Magister Kollema. After a moment’s stillness, the statue speaks.
 >“Students of Strixhaven,” Wise Kollema says in a voice that booms through the hall, yet echoes as if coming from afar. “Always remember the chain of which you are a part. Wisdom is shared, learned, added to, and passed on. Links are added and lost, but the chain of tradition connects us all — those of us who were, who are, and who are yet to come. You are bonded, students of Strixhaven, to one another and to those you’ll never know. Never doubt the wondrousness of what you’ve learned or the remarkable place you hold as the link between the past and the future. This night, we are one community, knowing no boundaries of role, college, or time.”
@@ -348,8 +353,8 @@
 
 - The hall falls into silence as the voice of Kollema fades, followed by muttering and the jarringly jaunty notes of the band playing anew. Questions about Kollema’s pronouncement run through the crowd. Some faculty members report that the magister’s spirit often offers cryptic advice at the event, but they’ve never heard of anything as ominous as this.
 
- - [ ]  **The Masquerade’s Conclusion**
-
+###### The Masquerade’s Conclusion
+ - [ ] 
 - After Kollema’s pronouncement, students begin slipping away. Within the next couple of hours, half the guests funnel out, heading back to their lodgings or to clandestine after-parties. Dean Tullus soon leaves as well. A character who’s been watching the dean and who succeeds on a DC 12 Wisdom (Perception) check notices her slip out, headed in the direction of Archaeo Memorial Hall.
 - Whether the characters follow the dean or go about their business after the masquerade, they soon stumble across an unsettling sight. Read or paraphrase the following text:
 >Even considering the late hour, the walk across campus is unusually quiet. But as you round a corner, a flickering magical lantern illuminates several bewildered students standing in the path.
@@ -371,8 +376,8 @@
 	- **Illumination**. Unless otherwise noted, when visited at night, areas of the Deans’ Wing are unlit.
 	- **Guardian**. An invisible stalker roams the halls of the Deans’ Wing after hours, serving as a guard. Until the invisible stalker is defeated, whenever the characters enter a room, roll a d20. On a roll of 18–20, the invisible stalker is in that room. Otherwise, any significant noise the characters make attracts the invisible stalker. The creature attacks anyone they find who isn’t a member of the Lorehold faculty.
 
- - [ ]  **L1. Main Hall**
-
+###### L1. Main Hall
+ - [ ] 
 - The double door leading into the Deans’ Wing from outside is locked, but it can be opened with a successful DC 25 Dexterity check using thieves’ tools.
 >A double door opens onto a stately, carpeted hall hung with unlit lamps and fine portraits. There are doors to either side of the entrance, a double door in each wall halfway along the hall, and a single door at the far end.
 
@@ -380,34 +385,37 @@
 - If a character proceeds more than 20 feet down the hall without addressing the portraits, the paintings target them with disconcerting magic. Each creature in the hall that can hear the whispers must make a DC 14 Wisdom saving throw. On a failed save, the creature takes 10 (3d6) psychic damage and must immediately use its reaction, if available, to move as far as its speed allows out of the Lorehold Deans’ Wing. If the creature succeeds, it takes half as much damage and doesn’t have to flee the area.
 - If a character addresses any of the portraits, one or more of them reply and insist to know the characters’ business in the Deans’ Wing. The portraits all have the personalities of the deans they depict and are generally stodgy and pedantic. However, characters who succeed on a DC 16 Charisma (Persuasion) check can convince the portraits that the party belongs there. The portraits won’t use their magic on the characters if so convinced.
 
- - [ ]  **L2. Administrative Office**
-
+###### L2. Administrative Office
+ - [ ] 
 - Lorehold administrative personnel use these offices to handle the various day-to-day tasks of keeping the campus running. Each office contains at least one desk and chair, along with stacks of dull paperwork and some personal tchotchkes, like a paperweight bearing the Lorehold emblem or an overdue romance novel from the Biblioplex.
 
- - [ ]  **L3. Porch**
+###### L3. Porch
+ - [ ] 
 >A three-foot-high stone railing surrounds this broad, paved porch, separating the space from the Lorehold campus beyond.
 
 - These porches are used as sitting and meal areas on the rare occasion that social events are held at the Deans’ Wing. The characters can easily hop over the railings here and access the building through one of the side doors. These doors open easily from the inside, but from the outside they’re locked and require a successful DC 25 Dexterity check using thieves tools to open.
 - **Spirit Statues**. Two spirit statue mascots stand on each of these porches. They house the spirits of departed Lorehold faculty, and they politely ask anyone who hops the railing to use the main doors during working hours. If they’re ignored, the statues shout an alarm, calling the characters “trespassers” as they move to attack. This alerts the two cogwork archivists in the nearby Records Room (area L4), which remain in that area, and causes the invisible stalker that guards the wing to arrive in 1d4 rounds.
 
- - [ ]  **L4. Records Room**
+###### L4. Records Room
+ - [ ] 
 >Bound volumes of Lorehold records cram this room’s tall bookshelves and round tables. A double door and numerous plain doors lead from the chamber.
 
 - Two cogwork archivists work in each of these records rooms after hours, sorting and organizing. If they notice the characters, the archivists demand to know why they are in the Deans’ Wing after hours. If they aren’t convinced by the response, they try to grapple the intruders and eject them from the building.
 - **Research**. The bookshelves here contain detailed records of Lorehold’s staff, students, and curriculum going back centuries. A character who spends 10 minutes going through the records and succeeds on a DC 14 Intelligence (Investigation) check discovers a map of the Deans’ Wing. This map clearly marks that there is a hidden space behind a wall of the Deans’ Records Room (area L9).
 
- - [ ]  **L5. Restricted Records Room**
-
+###### L5. Restricted Records Room
+ - [ ] 
 - The doors to these rooms are locked, and each requires a successful DC 25 Dexterity check using thieves’ tools to open. Each room contains shelves and cabinets of Lorehold records that detail the academic progress of current students. A character who spends 10 minutes searching the shelves and succeeds on a DC 16 Intelligence (Investigation) check can find any students’ grades for courses they’re taking in the Biblioplex or on the Lorehold Campus, like Advanced Arcane History. Altering someone’s test results or final grades is a simple matter once their records are discovered. Even the sloppiest alterations aren’t questioned. This doesn’t, however, affect any benefits gained from Exams.
 
- - [ ]  **L6. Deans’ Reception Room**
+###### L6. Deans’ Reception Room
+ - [ ] 
 >A simple desk faces a pair of uncomfortable-looking benches in this sparse, hexagonal reception room. Six polished wooden doors lead from the room, one in each wall.
 
 - During the day, office staff mind this desk and keep track of the deans’ appointments. The desk is filled with unremarkable office supplies.
 - If the party has not already encountered the invisible stalker that serves as the wing’s guardian, it’s currently in this room. It waits until intruders move to leave the room, then attacks from behind.
 
- - [ ]  **L7. Dean Plargg’s Office**
-
+###### L7. Dean Plargg’s Office
+ - [ ] 
 - A bronze nameplate on the door to this room reads “Plargg, Dean of Chaos.”
 >A clean desk and several stiff-looking chairs fill this austere office. Behind the desk, between various framed academic honors, hangs a mace with a spherical head.
 
@@ -415,8 +423,8 @@
 
 - **Treasure**. Hanging behind Plargg’s desk is a mace of smiting with a round head and a grip wrapped in thick red rope. If a character takes this item and any Lorehold faculty member sees them using it, the faculty member confiscates it and returns it to this office.
 
- - [ ]  **L8. Dean Tullus’s Office**
-
+###### L8. Dean Tullus’s Office
+ - [ ] 
 - A bronze nameplate on the door to this room reads “Augusta Tullus, Dean of Order.”
 >The desk in this office is barely visible beneath heaps of books, papers, and knick-knacks. Every shelf and one of the room’s three chairs have similar burdens.
 
@@ -433,7 +441,8 @@
 
 - **Treasure**. The curios decorating the room have historical significance but are of little value. Six of the dusty relics are worth 25 gp each, but the rest are of interest only to scholars. A character who succeeds on DC 18 Wisdom (Perception) check finds a wand of secrets buried under papers on a shelf.
 
- - [ ]  **L9. Deans’ Records Room**
+###### L9. Deans’ Records Room
+ - [ ] 
 >Ancient books and flaking scrolls fill the racks lining the walls of this musty records room. A large case stands along the wall opposite the door.
 
 - This room holds documents detailing the research of Lorehold’s deans, past and present. While some of the work here contains fascinating historical discoveries, there’s little of value to the characters.
@@ -441,8 +450,8 @@
 - **Secret Door**. A bookcase in the north wall disguises a secret door. Characters can find the door by examining the case and succeeding on a DC 18 Wisdom (Perception) check. The door is under the effects of an alarm spell, which alerts Dean Tullus if anyone opens it.
 - **Deans’ Repository**. Anyone who opens the secret door finds a 6-foot-tall, 4-foot-wide, carved wooden frame hanging against the wall inside. Within the frame swirls dense gray fog. This frame is a portal that teleports anyone who enters to the extradimensional space called the Deans’ Repository (detailed in the next section).
 
- - [ ]  **Facing the Dean**
-
+###### Facing the Dean
+ - [ ] 
 - The final encounter with Dean Tullus and the forces manipulating her occurs in the Deans’ Repository. When the character enter the Deans’ Repository, read:
 >The portal opens into a richly decorated library filled with floor-to-ceiling shelves packed with books and archaeological relics. Four long worktables occupy the room’s center, each covered with papers and dirt-encrusted stonework. Stone statues of dragons stare from between the shelves, and at the room’s far end, wing-backed chairs face a crackling fireplace.
 
@@ -460,8 +469,8 @@
 - **Oriq Orb**. Throughout the battle, Tullus clutches the green orb. The wicked Oriq bloodmage Malakar Draksang controls her through this device, but separating her from the orb doesn’t break his control. When Tullus is defeated or rendered unconscious, the orb slips from her hand.
 - **Treasure**. On the worktables lie five nonmagical historical relics from Dean Tullus’s and Dean Plargg’s ongoing research. These dusty objects — mostly mundane stone or jade vessels — are each worth 100 gp. Additionally, a character who spends 10 minutes searching the library and succeeds on a DC 16 Intelligence (Investigation) check discovers a Lorehold primer.
 
- - [ ]  **Aftermath**
-
+###### Aftermath
+ - [ ] 
 - If Dean Tullus survives her confrontation with the characters, she’s free of Oriq influence and grateful to these resourceful students. She covers for the characters when other faculty members ask about any strangeness (or missing possessions) in the Deans’ Wing.
 - If Dean Tullus was killed, the masters of Strixhaven cast raise dead to restore her to life. She quickly realizes what transpired and keeps the characters’ role in her death between her and the characters.
 - The academic year soon draws to a peaceful close. Give the characters an opportunity to wrap up any remaining plans they still have, but in a scant few days classes end, the dormitories close, and the characters have a several-month-long break before the beginning of their fourth and final year at Strixhaven.

@@ -19,8 +19,8 @@
 
 #### Week 1: Final Return
 
- - [ ]  **Student Schedules**
-
+###### Student Schedules
+ - [ ] 
 - Before starting this adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses themselves or by rolling on the Fourth-Year Courses table. Inform them that the characters are also enrolled in a required course, Arcane Herbology.
 
 | d6  | Course                           | Offered By      |
@@ -32,8 +32,8 @@
 | 5   | Eldritch and Arcane Performances | Prismari        |
 | 6   | Extraplanar Cryptozoology        | Witherbloom     |
 
- - [ ]  **A Sinister Shadow**
-
+###### A Sinister Shadow
+ - [ ] 
 - Once the characters have cemented their fourth-year Extracurriculars, Jobs, and Relationships decisions as needed, it’s time to kick off this adventure.
 - When the characters arrive for their final year at Strixhaven, the mood is muted. Social spaces are sparsely populated, students chat in whispered tones, and the campus’s energy is tense. Read or paraphrase the following when you’re ready to begin the adventure:
 >All of your hard work has come down to this — your fourth and final year as a student of magic at Strixhaven University. But as soon as you arrive on campus, it’s clear that something is very wrong.
@@ -42,14 +42,14 @@
 
 - At this point, the characters might be waiting on the faculty to discover more about Oriq plans. However, they also might want to take this investigation into their own hands.
 
- - [ ]  **A Brief Distraction**
-
+###### A Brief Distraction
+ - [ ] 
 - While the characters wait to learn more about the Oriq, they discover some of their fellow students engaged in a game at Firejolt Café on the central campus. One of the characters’ Friends or Rivals is part of this scene, or you may choose another random student. When you’re ready to begin the scene, read or paraphrase the following, altering the text to incorporate the name of the chosen student:
 >The mood on campus might be gloomy, but as you cross the central campus, you see a few of your classmates smiling and gesturing outside Firejolt Café.
 >A familiar face jogs up to you, waving and smiling in relief. “It’s so good to see you! Things have been dire around here lately, but some friends are inside about to start playing a game they call Scufflecup. Apparently, they found a box of animated teacups, and they figured out how to control the little buggers! Come on, let’s go check it out!”
 
- - [ ]  **Scufflecup**
-
+###### Scufflecup
+ - [ ] 
 - Scufflecup is a game students created after finding a box of teacups in a nearby building’s storage room. The students discovered that pouring hot tea into the cups animates them for 10 minutes and causes them to sprout little arms and legs. While animate, a cup uses the Scufflecup teacup stat block and does the bidding of whoever animated it.
 - Characters who enter Firejolt Café find that the fireside lounge (area F5) has been rearranged into a play area for a game of Scufflecup. A student explains the game, which is played on the large table in the lounge’s center. The square tabletop is 5 feet on each side. The student who describes how to play is a character’s Friend, Rival, or Beloved.
 - **Scufflecup Rules**. Each participant fills a teacup with hot tea and places it on the table. The participants then roll initiative. At least one Scufflecup participant is a student who isn’t a player character. On each of their turns, a participant can use a bonus action to mentally command their teacup either to attack another teacup within range or to try to shove another teacup off the table, using the rules for shoving in the Player’s Handbook. A participant loses the game if their teacup drops to 0 hit points or if their teacup falls off the table. The participant with the last cup standing wins. The winner receives a purse of donations from the crowd that totals 1,000 gp.
@@ -62,20 +62,20 @@
 - The first Exam for Arcane Herbology takes place a few weeks after the characters’ Scufflecup game in Firejolt Café. Students must identify unlabeled groupings of different plants, lichens, and fungi. Like the course itself, this Exam is conducted in an outdoor lab located in Sedgemoor.
 - Arcane Herbology covers techniques for using flora in potions, spells, and rituals. The course’s professor is Verelda Lang, an arcano-biologist whom the characters might recall from their first year of instruction.
 
- - [ ]  **Studying Phase**
-
+###### Studying Phase
+ - [ ] 
 - The day before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.
 - Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 20 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.
 
- - [ ]  **Testing Phase**
-
+###### Testing Phase
+ - [ ] 
 - On the day of the Exam, each character makes two ability checks related to parts of the test:
 	- **Flora’s Arcane Properties**. Correctly selecting the properties of samples requires a successful DC 13 Intelligence (Nature) check.
 	- **Specimen Identification**. Recalling the correct names of flora with arcane uses based on sight, smell, and texture requires a successful DC 20 Wisdom (Survival) check.
 - Have each player note their character’s Exam results — how many Student Dice they gained and what skills they used during the test — on their copies of the tracking sheet.
 
- - [ ]  **Moving On**
-
+###### Moving On
+ - [ ] 
 At the end of the characters’ first Exam in Professor Lang’s class, she takes them aside with a grave look on her face. She waits for the other students to leave the room before she addresses the characters:
 >"I've been studying Dean Tullus's strange orb since the events of last year, and while we still don't know everything, we're learning more and more every day and believe it may be tied to a very old group who have been against Strixhaven for some time."
 >“Our best faculty researchers are digging through Strixhaven’s past trying to find anything helpful, but we could use your help searching for clues. I’ve arranged for you to lead an expedition to the Fortress Badlands, where Tullus found the orb. Needless to say, there’s extra credit in it for you if you’ll help us once again.”
@@ -91,8 +91,8 @@ At the end of the characters’ first Exam in Professor Lang’s class, she take
 - Characters approaching from the south get a clear look at the watchtowers. The smaller, central tower has a lone, unmoving sentry. Characters who observe the towers through a spyglass or succeed on a DC 15 Wisdom (Perception) check note that the “sentry” appears to be a mannequin wearing a broad-brimmed sun hat. The kites and sentry are detailed in area T1.
 - **Fortress Badlands Features**. Unless noted otherwise, entryways and ceilings in the caves are 10 feet high, and the caves are lit by continual flame spells cast on wall sconces.
 
- - [ ]  **T1. Watchtowers**
-
+###### T1. Watchtowers
+ - [ ] 
 - Three of these rickety structures stand in a line running west to east, and each is 20 feet tall.
 - **Sentry**. The sentry posted in the smaller, central tower is a spectator perched atop a mannequin. The spectator’s eye stalks are hidden by a sun hat. The blood mage Y’demi summoned the spectator as a guardian after she grew weary of lazy Humanoid lackeys. (For more information about Y’demi, see area U4)
 - When alerted to intruders or danger, the spectator detaches from the mannequin while telepathically warning intruders to leave immediately or face annihilation. Creatures that don’t comply are attacked.
@@ -101,7 +101,8 @@ At the end of the characters’ first Exam in Professor Lang’s class, she take
 `encounter: 1: Spectator`
 `encounter: 3: Peryton`
 
- - [ ]  **T2. Collapsing Cave**
+###### T2. Collapsing Cave
+ - [ ] 
 >Gentle, white light emanates from within the mouth of this cave. The mouth is fifteen feet across and ten feet high, but the cave narrows as it deepens.
 
 - The northeastern alcove of this cave holds old collections of brined and preserved lab specimens from decades researching life and death. If any creature other than an Oriq moves more than 10 feet into the cave, a defensive sigil (written in blood) detonates on the ceiling, causing a cave-in. A character who moves 5 feet into the cave can detect this sigil with a successful DC 17 Perception (Wisdom) check, and they can disable it with a successful DC 17 Intelligence (Arcana) check or a successful DC 17 Dexterity check using thieves’ tools. Failing the check by 5 or more causes the sigil to detonate.
@@ -114,29 +115,33 @@ At the end of the characters’ first Exam in Professor Lang’s class, she take
 **Hall of Wisdom (T3A-T3E)**
 This winding network of tunnels and alcoves holds collections of books, scrolls, and curios, which are heaped on shelves and in niches along the cave walls. This area has four entry points, each with its own collection of items. The shadow demons in area T3E investigate any loud noises coming from the neighboring areas.
 
- - [ ]  **T3A. Southeast Entrance**
+###### T3A. Southeast Entrance
+ - [ ] 
 >The floor of this open cave is strewn with the bones of small birds, reptiles, and wild dogs.
 
 - The animal bones are the remains of Murgaxor’s, Y’demi’s, and Malakar's past meals.
 
- - [ ]  **T3B. Southwest Entrance**
+###### T3B. Southwest Entrance
+ - [ ] 
 >Books and scroll cases are tucked in nooks along the west wall of this open cave. Many of the book spines and scroll cases bear the Strixhaven star.
 
 - Items bearing the Strixhaven star were stolen from the university. A character who succeeds on a DC 12 Intelligence (Investigation) check while searching the collection finds several annotated books about the Caerdoon region, located a few miles from the badlands. The annotations, sloppily written in Common, deal with locating sites of large battles and how best to explore those locations.
 - **Treasure**. Characters who spend at least 10 minutes searching this area find a [[spell scroll]] of *fear* and a [[spell scroll]] of *false life*.
 
- - [ ]  **T3C. Empty Chamber**
-
+###### T3C. Empty Chamber
+ - [ ] 
 - This empty chamber has short tunnels connecting it to area T3B to the south, area T3D to the north, and area T3E to the east.
 
- - [ ]  **T3D. Northwest Entrance**
+###### T3D. Northwest Entrance
+ - [ ] 
 >This open cave and its walls hold racks of weapons and spellcasting foci, including orbs, animal fetishes, carved stones, and the like.
 
 - The spellcasting foci stored here aren’t magical, but one is an obsidian orb cut in the motif of an ancient troll civilization. This orb would fetch 300 gp from a collector.
 - **Secret Door**. A character who searches the east wall and succeeds on a DC 15 Wisdom (Perception) check finds a door disguised to blend in with the surrounding stone. This 5-foot-wide, 10-foot-tall stone door opens into a smaller secret room.
 - **Treasure**. The secret room is unlit and once held the Oriq's most prized arcane texts, most of which have been moved to various places (Ruins of Caerdoon, Wiltroot Hall, etc). The remaining texts — of which there are twelve stacked in two piles of six — are still valuable. The university would pay 500 gp for their safe return.
 
- - [ ]  **T3E. East Entrance**
+###### T3E. East Entrance
+ - [ ] 
 >Ineptly painted portraits hang on the walls of this shadowy cave. Stairs cut into the north wall lead down to a lower level.
 
 - Four shadow demons hide in the shadows of this cave. They attack visitors who aren’t accompanied by an Oriq. Characters who have a passive Wisdom (Perception) score of 17 or higher spot the shadow demons before they attack and aren’t surprised by them.
@@ -145,14 +150,16 @@ This winding network of tunnels and alcoves holds collections of books, scrolls,
 
 `encounter: 4: Shadow Demon`
 
- - [ ]  **T4. Supply Room**
+###### T4. Supply Room
+ - [ ] 
 >A jumbled pile of supplies lies on the floor of this open cave and spills into a narrow hallway beyond.
 
 - This cave holds what remains of the supplies Malakar used to explore the Ruins of Caerdoon, located just a few miles away. A character who spends at least 1 hour sifting through the tools can assemble one set of mason’s tools, two explorer’s packs, one dungeoneer’s pack, and one scholar’s pack.
 - **Secret Door**. A character who searches the northernmost end of the cave and succeeds on a DC 15 Wisdom (Perception) check finds a door disguised to blend with the surrounding stone. This 5-foot-wide, 10-foot-tall stone door swings into a small chamber.
 - **Secret Room**. The Oriq kept alchemical supplies in this unlit secret chamber. Most of the supplies have been removed except for two flasks of acid and three flasks of alchemist’s fire.
 
- - [ ]  **T5. Lab**
+###### T5. Lab
+ - [ ] 
 >The pungent odors of sweet potpourri and chemical preservatives waft from this cave. Carved into the walls are shelves bearing specimen jars, notebooks, and containers of herbs and alchemical reagents. In the middle of the cave rests a smooth stone slab covered in a rusty stain.
 
 - Malakar conducted horrific experiments here. Primarily, he worked on transferring life from one creature to another.
@@ -168,8 +175,8 @@ This winding network of tunnels and alcoves holds collections of books, scrolls,
 - **Secret Door**. A character who searches the northwest wall of the cave and succeeds on a DC 15 Wisdom (Perception) check finds a door disguised to blend with the surrounding stone. This 5-foot-wide, 10-foot-tall stone door opens into a cramped secret chamber.
 - **Treasure**. The secret chamber is unlit and contains a set of alchemist’s supplies along with two potions of healing (greater) and one potion of poison.
 
- - [ ]  **T6. Mushroom Cave**
-
+###### T6. Mushroom Cave
+ - [ ] 
 - Characters who approach this cave without first exploring area T7 attract the attention of the gorgon lairing there, causing the creature to charge out of area T7 and attack them.
 >The stench of decay wafts from this unlit cave. Inside, rows of wooden planters mounted on the walls hold a variety of fungi. A large purple mushroom grows in the northwest corner.
 
@@ -182,8 +189,8 @@ This winding network of tunnels and alcoves holds collections of books, scrolls,
 
 `encounter: 2: Black Pudding`
 
- - [ ]  **T7. Gorgon’s Cave**
-
+###### T7. Gorgon’s Cave
+ - [ ] 
 - A gorgon occupies this otherwise empty cave. Characters who come into view of the grumpy gorgon provoke its anger, causing it to attack them.
 
 `encounter: 1: Gorgon`
@@ -196,24 +203,28 @@ This winding network of tunnels and alcoves holds collections of books, scrolls,
 	- **Light**. All areas are lit by continual flame spells cast on wall sconces.
 	- **Scry-Proof**. Any attempt to magically scry on a creature, object, or location within the underground cave fails automatically.
 
- - [ ]  **U1. Meditation Alcove**
+###### U1. Meditation Alcove
+ - [ ] 
 >Just after a three-way intersection, the tunnel widens into an alcove. Gooey mud covers the alcove’s floor, and the air is oppressively muggy.
 
 - Murgaxor came here to meditate and used magic to transform this alcove into a humid bog suited to his tastes.
 - **Protective Muck**. Any creature that bathes in the mud for 1 minute gains `dice: 1d4 + 1` temporary hit points for 1 hour. If any temporary hit points remain when the effect expires, the affected creature takes 5 necrotic damage.
 
- - [ ]  **U2. Ritual Area**
+###### U2. Ritual Area
+ - [ ] 
 >Ritual circles drawn in fine, chalky powder cover the floor. Notebooks, scrolls, and brass braziers sit on shelves carved into the walls.
 
 - Malakar used this area to perfect his rituals. Characters who spend 5 minutes or more reading the notebooks and who succeed on a DC 14 Intelligence (Investigation) check piece together that Malakar conducted life-draining blood magic rituals here.
 - **Secret Door**. A character who searches the area and succeeds on a DC 15 Wisdom (Perception) check finds a door disguised to blend with the surrounding stone. This 5-foot-wide, 10-foot-tall stone door opens into a hallway that ends at another secret door, beyond which is area U4. From inside the hallway, characters can spot either secret door without having to make a check.
 
- - [ ]  **U3. Guard Chamber**
+###### U3. Guard Chamber
+ - [ ] 
 >Two mud-caked, human-sized creatures stand inert in front of the northern exit to this chamber. Crude, articulated skulls of badlands wolves are attached to their heads. Both guards reek of death.
 
 - Y’demi created these horrifying Undead to guard her sleeping area. Both use the ghast stat block and start combat with 5 temporary hit points, having recently bathed in area U1. The creatures attack without mercy. Combat here alerts Y’demi in area U4, and she investigates.
 
- - [ ]  **U4. Living Area**
+###### U4. Living Area
+ - [ ] 
 >A copper basin on a wrought-iron stand rests on the floor in the middle of this cave. A pool of smelly water fills the cave’s northwest corner.
 
 - Malakar lived here before decamping to the Ruins of Caerdoon. Y’demi (neutral evil human Oriq blood mage) resides here now, waiting for Malakar’s imminent call to join him.
@@ -227,8 +238,8 @@ This winding network of tunnels and alcoves holds collections of books, scrolls,
 - **Secret Door**. A character who searches the southeast wall and succeeds on a DC 15 Wisdom (Perception) check finds a door disguised to blend with the surrounding stone. This 5-foot-wide, 10-foot-tall stone door opens to a hallway that ends at another secret door, beyond which is area U2. From inside the hallway, characters can spot either secret door without having to make a check.
 - **Smelly Pool of Water**. The smelly water in the northwest pool is drinkable.\
 
- - [ ]  **Developments**
-
+###### Developments
+ - [ ] 
 The information in these areas should give a clear picture of the extent of the Oriq threat that still remains, and that the Ruins of Caerdoon should be their next target. However, since they have some time, encourage them to return to campus to make any final preparations — not to mention have one final visit with their Friends, Rivals, and Beloveds — before heading into this adventure’s final areas.
 
 #### This Is Surreal, Isn’t It?
@@ -240,22 +251,23 @@ The information in these areas should give a clear picture of the extent of the 
 
 - In addition to the characters’ Friends, Rivals, and Beloveds, this gathering includes faculty members such as Professor Verelda Lang, Instructor Arkin Minexes, Professor Brenneth Blackstone, Professor Mavinda Sharpbeak, and others at your discretion.
 
- - [ ]  **Relationships: Before We Go**
-
+###### Relationships: Before We Go
+ - [ ] 
 - This scene is the final opportunity for the characters to interact with their fellow students on campus before this adventure’s climax and conclusion. As such, this Relationship encounter is more free-form than others.
 - Since this is the last such encounter before the adventure’s finale, this scene should be of personal importance to each character. If a player wishes to cement a Beloved Relationship when they normally couldn’t or gain a Friend even if they don’t have enough Relationship Points, allow them to do so to reflect the poignant nature of this moment.
 - For example, a character who wishes to have a final moment with a deeply romantic Beloved might sneak up onto the roof of the Biblioplex to have a heart-to-heart under the stars. Another character might want to share a deeply personal story from their childhood with their Friend or Beloved before giving that individual a treasured keepsake.
 
 #### Ruins of Caerdoon
 
- - [ ]  **N1. Haunted Watchtower**
-
+###### N1. Haunted Watchtower
+ - [ ] 
 - The fortress used to have multiple watchtowers covering all approaches but now has only one battered tower near the south road. A wraith — the tormented remnant of a long-dead garrison commander — stands watch. When it detects visitors, the wraith lets out a shriek that puts the ruins on alert and activates the necromantic barrier described in area N2.
 - A character who wants to sneak past the watchtower or climb its ladder undetected must succeed on a DC 13 Dexterity (Stealth) check. If multiple party members attempt the same task, have them make a group check instead.
 
 `encounter: 1: Wraith`
 
- - [ ]  **N2. Wailing Moat**
+###### N2. Wailing Moat
+ - [ ] 
 >Hundreds of voices wail in rage and frustration from a moat of viscid slime that surrounds the crumbling ruins. At the fortress’s southern tip, a shattered bridge droops over the sludge, a ten-foot-wide hole smashed through its center.
 
 - Hundreds of soldiers died in ages past assaulting the walls of Caerdoon, and their moss-covered bones rest at the bottom of the fortress’s moat.
@@ -269,19 +281,22 @@ The information in these areas should give a clear picture of the extent of the 
 - Dealing at least 25 radiant damage to the dome with an attack or a spell creates a 10-foot-diameter hole in it. Appearing at the point where the attack or spell made first contact with the dome, this hole remains open for 1 minute.
 - A character can try to manipulate the dome’s arcane harmonics by using an action to make a DC 15 Intelligence (Arcana) check. If the check succeeds, the character can switch the requisite damage type from radiant to another type chosen from the following list: acid, bludgeoning, cold, fire, force, lightning, piercing, slashing, or thunder. The change in requisite damage type lasts until the end of the character’s next turn.
 
- - [ ]  **N3. Wreckage**
+###### N3. Wreckage
+ - [ ] 
 >The twisted wreckage of siege weapons litters the area. Ballistas, catapults, and even a trebuchet lie together in a tangled pile.
 
 - The broken siege weapons form a 10-foot-high, 40-foot-long barricade.
 - **Catapult Munition**. A character who searches the area and succeeds on a DC 15 Wisdom (Perception) check finds a catapult munition roughly the size and weight of a cannonball amid the wreckage. A successful DC 13 Intelligence (Arcana) check reveals that the munition is powerful enough to damage the Shield of the Fallen in area N2, provided the dome’s magical harmonics are altered so that the dome becomes susceptible to fire damage.
 - The munition can be thrown up to 30 feet and explodes on impact. Any creature within a 15-foot-radius sphere centered on the point of impact must make a DC 14 Dexterity saving throw, taking 35 (10d6) fire damage on a failed save, or half as much damage on a successful one. In addition, each object in that area that isn’t being worn or carried takes 35 (10d6) fire damage.
 
- - [ ]  **N4. Supply Train**
+###### N4. Supply Train
+ - [ ] 
 >The pulverized remains of a military supply train are heaped alongside the trail leading to the fortress.
 
 - The wreckage of a supply train forms a 5-foot-high, 25-foot-long barrier. Climbing atop the wreckage requires a successful DC 10 Strength (Athletics) check.
 
- - [ ]  **N5. Siege Towers**
+###### N5. Siege Towers
+ - [ ] 
 >The remains of two mighty siege towers lie flattened near the moat’s edge. The scorch marks of battle can be seen on the wood and steel even after hundreds of years.
 
 - The area covered by wreckage is difficult terrain.
@@ -297,7 +312,8 @@ The information in these areas should give a clear picture of the extent of the 
 	- What do you know about the ruined fortress? “We died defending it, and we defend it still.”
 	- Will you help defeat Malakar or the Oriq? “No.”
 
- - [ ]  **N6. Fortress**
+###### N6. Fortress
+ - [ ] 
 >Little remains of the once-proud fortress. Only ten feet or so of the walls remain, worn and bleached by time and weather.
 
 - Khelvor the daemogoth patrols the fortress, eager to defend Malakar in exchange for all the sweet suffering that’s about to occur. He is a cunning, self-serving sadist.
@@ -313,8 +329,8 @@ The information in these areas should give a clear picture of the extent of the 
 	- **Undo It with Magic**. A character within 5 feet of the Locus can use an action to try to overload it using an incantation taught in school. The character concludes the incantation by making an Intelligence (Arcana) check. If the check fails, the character takes 5 necrotic damage. If the check succeeds, the Locus takes 22 (4d10) force damage, ignoring its damage threshold.
 Once the Locus is destroyed, the dome vanishes.
 
- - [ ]  **Descending to the Basement**
-
+###### Descending to the Basement
+ - [ ] 
 - **Basement Features**. The Fortress of Caerdoon’s basement has the following features:
 	- **Walls**. The walls are damp and made of smooth, worked stone.
 	- **Ceilings**. The ceilings throughout this level are 10 feet high.
@@ -322,7 +338,8 @@ Once the Locus is destroyed, the dome vanishes.
 	- **Floors**. The floors are worked stone and covered with small puddles of water.
 	- **Illumination**. Sconces hold torches that have continual flame spells cast on them. The sconces are spaced at 20-foot intervals along the walls.
 
- - [ ]  **M1. Central Chamber**
+###### M1. Central Chamber
+ - [ ] 
 >Torches illuminate a spacious chamber that has crates and boxes stashed in its corners. Five stout, wooden doors line the chamber’s south wall. Soggy texts and scrolls lie in puddles on the floor. To the north, you hear an eerie chant made up of guttural croaks.
 
 - Murgaxor is the source of the chant. If the characters make any loud noises here, Murgaxor notices their presence, although he remains in area M6.
@@ -331,39 +348,40 @@ Once the Locus is destroyed, the dome vanishes.
 - **Alchemist’s Doom**. Stored in a flask, this concoction is alchemist’s fire, except it deals 7 (2d6) fire damage at the start of the target’s turns.
 - **Murgaxor’s Elixir of Life**. Whoever drinks this concoction gains advantage on death saving throws for 24 hours.
 
- - [ ]  **M2. Munition Storage**
-
+###### M2. Munition Storage
+ - [ ] 
 - These rooms were once used to store volatile munitions. A character who spends 1 minute searching one of these rooms can make a DC 15 Intelligence (Investigation) check, finding one of the following items on a success. No more than two of each item can be found:
 	- **Bomb**. See “Explosives” in the Dungeon Master’s Guide for more information on bombs.
 	- **Catapult Munition**. This device looks like a cannonball and weighs as much as one. It functions like the catapult munition found in area N3.
 
- - [ ]  **M3. Broken Elevator**
-
+###### M3. Broken Elevator
+ - [ ] 
 - This room is actually the top of a shaft that once connected the fortress basement to a tunnel network below the basement. An elevator hoist is still attached to the ceiling and has frayed ropes dangling from it. Twenty feet below the door, the shaft is impassibly choked with rubble. Characters can use the dangling ropes to lower themselves down to the rubble. A search of the rubble yields nothing of value, and the elevator platform itself is buried under tons of debris.
 
- - [ ]  **M4. Ruined Storage**
-
+###### M4. Ruined Storage
+ - [ ] 
 - Grain and other dry goods used to be stored here, but they have been consumed, leaving the room bare except for some empty sacks.
 
- - [ ]  **M5. Armory**
-
+###### M5. Armory
+ - [ ] 
 - These rooms held weapons and armor for the fort’s defenders. What’s left is described below.
 	- **North Room**. This room holds five suits of chain mail and five suits of splint armor.
 	- **Center Room**. This room holds six spears, three mauls, and three glaives. The weapons are battered but functional.
 	- **South Room**. This room holds five heavy crossbows and three dozen bolts.
 
- - [ ]  **M6. Treasury**
-
+###### M6. Treasury
+ - [ ] 
 - Malakar is here, digging through rubble and ancient treasures, seemingly looking for a particular artifact. When the players arrive, he finds it, and uses his magic to teleport away (probably monologuing first) - replacing himself with a daemogoth.
 - Once the daemogoth is destroyed, the players should return to The Biblioplex where Malakar teleported to (how to let the players know this?)
 
 #### Hunting Down Malakar
 
- - [ ]  **Finding Malakar**
+###### Finding Malakar
+ - [ ] 
+- 
 
-
- - [ ]  **Standoff**
-
+###### Standoff
+ - [ ] 
 * The assault on Strixhaven became the perfect misdirection for Malakar's true goals. During the ensuing chaos, he entered the Biblioplex and descended into the Hall of Oracles to harness the power of the Strixhaven Snarl, a maelstrom of power left behind from the creation of the world.
 * The party likely tries to intervene (or if not then one of the professors can), but are transported away the instant they get close to the Snarl.
 * They land somewhere in Khorvaire, accompanied by a professor (and/or other NPCs) who was trying to help, and who can direct them to the other magical schools of Eberron so they can learn more about the nature of magic and how to take on the BBEG.
