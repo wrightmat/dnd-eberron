@@ -38,7 +38,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ###### Dormitory Tower
  - [ ]  
 - The characters' welcome letters included the details of their dormitory assignments, and how to access their rooms. The transport circles described in the Biblioplex can be used to get the players to their individual dorm rooms by simply standing on one and thinking of their room. This method cannot be used to access any other dorm floors unless given permission to do so.
-- They arrive in a curved hallway, within a small alcove which contains a transport circle that can move the players back to the Biblioplex. The first door is closed and leads to the resident advisor's room. Three doors lead to shared (between two people) 15x15 rooms, one of which magically opens for each appropriate player. Flanking these rooms are two shared bathrooms (gender-neutral) which include showers. At the end of the hallway is a common room which can be seen clearly through a bank of floor-to-ceiling windows. All floors of the dorm tower have an identical layout.
+- They arrive in a curved hallway, within a small alcove which contains a transport circle that can move the players back to the Biblioplex. The first door is closed and leads to the resident advisor's room. Three doors lead to shared (between two people) 15 foot by 15 foot rooms, one of which magically opens for each appropriate player. Flanking these rooms are two shared bathrooms (gender-neutral) which include showers. At the end of the hallway is a common room which can be seen clearly through a bank of floor-to-ceiling windows. All floors of the dorm tower have an identical layout.
 - Each shared dorm room houses two wooden beds, each bunked over a wooden desk, and a small gelatinous cube refrigerator. On each desk is a sheet of paper, which outlines all of the events for Orientation Week, presented as a checklist. It states that each student must turn in their completed checklist to the RA at the end of the week, and this is required before starting classes.
 - Roll to determine which PCs are rooming with each other. Also choose a random NPC to be their RA.
 - Players have the evening to do whatever they'd like, describe how they're settling in, and chat with their roommate and possibly others in the hallway. In the morning, their Orientation Week begins!
@@ -85,7 +85,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ###### B6. Biblioplex Café
  - [ ]  
 - One wall of this area is covered with a mural made from a living tree’s roots, which move occasionally and make the entire place feel alive. The ceiling is covered in painted leaves, which change colors depending on the season thanks to a permanent illusion effect. The magic also prompts painted squirrels to run up and down the mural’s roots, and painted birds to chirp among the leaves.
-- Up to ten students are typically present here during the day. Ordinarily, three more students work here, but during orientation, the cafe's manager, Aisla Fitzbottom (chaotic good gnome commoner), is working alone. She is charmingly perky and has a mind like a steel trap when it comes to recognizing students. However, her organizational skills are somewhat lackadaisical.
+- Up to ten students are typically present here during the day. Ordinarily, three more students work here, but during orientation, the cafe's manager, **Aisla Fitzbottom** (chaotic good gnome commoner), is working alone. She is charmingly perky and has a mind like a steel trap when it comes to recognizing students. However, her organizational skills are somewhat lackadaisical.
 - The cafe always serves coffee and tea, which costs 1 cp per cup. The sandwich of the day varies. Roll below to determine which sandwich is available on any given day in the café.
 
 | d6  | Sandwhich                                            |
@@ -192,13 +192,13 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ###### Clue 3: Biblioplex Café
  - [ ]  
 - This clue refers to the Biblioplex Cafe in area B6.
-- When the characters enter the cafe, they see several students enjoying drinks and snacks. Aisla Fitzbottom, the cafe manager, is a Strixhaven staff member and the only worker behind the counter at present. The characters must present their scavenger hunt list to Aisla. When they do, she tells them to come behind the counter and help her quickly restock the cafe’s sandwiches and baked goods from several modified Howard’s handy haversacks.
-- If a character goes above and beyond in their assistance with a successful DC 15 Dexterity check, Aisla gives that character a random trinket (from the magic items in the campaign book). Many students have ignored her requests for help during the orientation, she says, so she decides to make an exception with a gift from her own pockets. Plus, she likes the new students’ ambition.
+- When the characters enter the cafe, they see several students enjoying drinks and snacks. **Aisla Fitzbottom**, the cafe manager, is a Strixhaven staff member and the only worker behind the counter at present. The characters must present their scavenger hunt list to Aisla. When they do, she tells them to come behind the counter and help her quickly restock the cafe’s sandwiches and baked goods from several modified Howard’s handy haversacks.
+- If a character goes above and beyond in their assistance with a successful DC 15 Dexterity check, Aisla gives that character a random trinket (from [[Strixhaven Trinkets]]). Many students have ignored her requests for help during the orientation, she says, so she decides to make an exception with a gift from her own pockets. Plus, she likes the new students’ ambition.
 
 ###### Clue 4: Book Garden
  - [ ]  
 - This clue refers to the book gardens of area B9.
-- When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence (Investigation) check reveals that three of the shrubs are not ordinary greenery, but are instead awakened shrubs, each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a cuddly Strixhaven mascot, representing a random mascot. This magic works only once per character.
+- When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence (Investigation) check reveals that three of the shrubs are not ordinary greenery, but are instead awakened shrubs, each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a [[Cuddly Strixhaven Mascot]], representing the owl from the Strixhaven coat of arms. This magic works only once per character.
 
 ###### Clue 5: Amphitheater
  - [ ]  
@@ -214,13 +214,15 @@ Chaos erupts in the library as students stream in all directions, their books an
 - In the western part of area B8, the characters see a half dozen old trunks strewn about. Sheets, blankets, large wooden frames, and half-painted wooden props are scattered haphazardly around the tables where members of the Live-Action Roleplaying Guild were setting up for a show. Rampaging throughout the mess is a trunk that has been transformed into a mimic, which attacks the characters as soon as they enter the area. Because the mimic is only temporarily animated, it has the following changes to its stat block:
 	- It has 30 hit points.
 	- It has disadvantage on attack rolls.
+
+`encounter: 1: Mimic`
+
 - Once it's defeated, the mimic turns back into an ordinary trunk.
-- If all the characters fall unconscious during the fight, Professor Mavinda Sharpbeak arrives on the scene at the start of the next round and finishes off the mimic. If the characters defeat the mimic, Professor Sharpbeak arrives on the scene shortly after the group dispatches it. She carries a bag of potions of healing, which she administers to any injured or unconscious characters.
-- A guidance counselor at Strixhaven, Professor Sharpbeak was overseeing the orientation activities, but the mass of fleeing students prevented her from responding to the incident immediately. When she has assisted any wounded characters, she introduces herself.
+- If all the characters fall unconscious during the fight, **Professor Mavinda Sharpbeak** arrives on the scene at the start of the next round and finishes off the mimic. If the characters defeat the mimic, Professor Sharpbeak arrives on the scene shortly after the group dispatches it. She carries a bag of potions of healing, which she administers to any injured or unconscious characters.
+- A guidance counselor at Strixhaven, **Professor Sharpbeak** was overseeing the orientation activities, but the mass of fleeing students prevented her from responding to the incident immediately. When she has assisted any wounded characters, she introduces herself.
 >“Students, well done!” Professor Sharpbeak exclaims, ruffling her feathers with pride. "Such bravery in this incoming class! And what a bizarre occurrence. I can’t remember any of those old costume trunks ever bearing a hint of magic — let alone that manner of transmutation. I will be having a word with the equipment managers over at the Rose Stage. They’re supposed to keep this sort of thing from happening!”
 
 - If the characters chat with the professor, she reassures them that this was an unfortunate incident — but sadly, not an unheard-of one, since strange monsters often find their way onto campus. Still, it’s nothing to worry about. Before she goes, she reaches into her bag and gives each character 1 platinum piece, thanking them again for their help and welcoming them to campus.
-
 - Characters who examine the mimic and succeed on a DC 12 Wisdom (Perception) check notice that the defeated trunk’s wood and leather has been rubbed with a black, oily substance. If asked about this, Professor Sharpbeak says it’s likely just a leather conditioner. With no magic remaining in the eldritch balm to reveal the contamination, she has no explanation for why the trunk temporarily turned into a mimic and attacked.
 
 ##### Day 3: College and Advisor
@@ -315,7 +317,15 @@ Chaos erupts in the library as students stream in all directions, their books an
  - [ ]  
 - Students of all ages gather at The Rose Stage for a celebration of the new year at Strixhaven. Each college is already seated in their own section when the first years arrive, where they are seated separately. The colleges are decked out in their colors and accompanied by their mascots.
 - This is just another opportunity to show off the various colleges, and allow players to converse with other students if they choose.
-- There should also be a speech/presentation by one of the main deans as well. What to cover?
+- **Opening Remarks**. Head Dean Tanazir Quandrix (or another high-ranking figure) on the grand purpose of Strixhaven and the philosophy of interconnection in magic.
+	- “Magic flows through every one of you, binding you to this world and each other. At Strixhaven, you will learn not only to wield it but to understand its place in creation.”
+	- “Whether you follow the path of Prismari’s artistry, Quandrix’s logic, or Witherbloom’s balance, remember this: magic is not a weapon to hoard but a gift to share.”
+- **Mascot Parade**. Each college parades its mascots (e.g., Prismari elementals, Quandrix fractals, etc.) in a colorful display. Players can cheer for their favorite or interact with mascots to learn more about their colleges’ unique magic.
+- Student Remarks. A Current Student Representative (e.g., a Silverquill third-year) presents the student’s perspective and practical advice.
+	- “Your first year at Strixhaven will be a whirlwind. Find your people, whether it’s through extracurriculars or late-night study sessions. And don’t forget—the Biblioplex is your best friend.”
+	- “Beware of mage duels. They’re exciting, but they have a way of landing you in detention. Trust me on that.”
+- Student Cheer. The speaker leads a student cheer and invites new students to join in. A group DC 14 Charisma (Performance) check determines how w
+
 
 ###### Secret Party
  - [ ]  
