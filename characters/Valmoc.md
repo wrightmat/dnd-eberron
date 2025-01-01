@@ -12,11 +12,11 @@ occupation: Traveling Guardian (for hire)
 alignment: Lawful Good
 languages: Celestial, Common, Dragonic
 ---
- #npc [[The Silver Scales]]
+ #npc 
 
 ![http://wizzle.tplinkdns.com:38090/index.php/s/RnMcmjpC2wwoyFe/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/RnMcmjpC2wwoyFe/preview)
 
-Valmoc is a silver dragonborn who serves as a sort of emissary for the silver dragons and the Silver Scales organization more generally. He's sort of the opposite of a mercenary - someone who is hired to protect others. The party will encounter him somewhere as they travel, as a means to learn about the Paladin Protectors of the Realm.
+Valmoc is a silver dragonborn who serves as a sort of emissary for the silver dragons and [[The Silver Scales]] organization more generally. He's sort of the opposite of a mercenary - someone who is hired to protect others. The party will encounter him somewhere as they travel, as a means to learn about the Paladin Protectors of the Realm.
 
 Valmoc embodies the stoicism and discipline associated with his dragonborn heritage. He speaks in measured tones, revealing little about himself or his true intentions. He is unyielding in his commitment to the party's protection, even if it means keeping them in the dark about the true extent of their significance.
 

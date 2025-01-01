@@ -7,8 +7,8 @@
 
 ### Characters and Locations
 
-- [[Dolom]] 
 - [[Elaydren d’Vown]]
+- **Sergeant Dolom** (male dwarf fighter). A leader of the Sharn Watch, who serves as the “face” of the Watch for outsiders (including parties of adventurers).
 
 - [[The Cogs]]
 

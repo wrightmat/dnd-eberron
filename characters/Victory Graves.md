@@ -8,7 +8,7 @@ attitude: Indifferent
 languages: Common, Thieves’ Cant, Telepathy
 statblock: inline
 ---
-#npc 
+ #npc 
 
 Victory "Vic" Graves grew up in a rough orphanage in Sarlona (probably Rhiavhaar) that forced her onto the streets as soon as the young human could feed and dress herself. Her childhood instilled what she considers life’s most valuable lesson: “The weak think someone will save them. The strong think others will fear them. The clever think everyone beneath them. In the end, it’s the ruthless who survive.”
 

@@ -4,11 +4,11 @@ race: Daelkyr
 occupation: Daelkyr Lord
 statblock: inline
 ---
- #npc #monster #daelkyr  [[Lharvion (Xoriat)]]
+ #npc #monster #daelkyr 
 
 ![https://static.wikia.nocookie.net/eberron/images/9/9e/Dyrrn.png|ws-med|right](https://static.wikia.nocookie.net/eberron/images/9/9e/Dyrrn.png)
 
-Dyrrn the Corruptor is considered to be the most powerful of the Daelkyr.
+Dyrrn the Corruptor is considered to be the most powerful of the Daelkyr, and is native to the plane of [[Lharvion (Xoriat)]].
 
 Dyrrn is known to its followers as the Corruptor, the Stealer of Thoughts, the Slithering Lord, and the Foul Labyrinth. In the lore of the Gatekeepers, it is said that Dyrrn plants thoughts in the weak minded-the seeds of terrible ideas that fester and grow. Those who are particularly brilliant often draw the attention of the Foul Labyrinth, which hungers to consume unique minds.
 

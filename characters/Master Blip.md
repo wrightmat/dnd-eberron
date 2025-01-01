@@ -3,7 +3,7 @@ gender: Male
 race: Autognome
 occupation: Quartermaster
 ---
- #npc [[Tu'narath]]
+ #npc 
 
 ![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png|ws-med|right](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-006.o-mister-blip.png)
 

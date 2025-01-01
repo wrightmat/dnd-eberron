@@ -4,11 +4,11 @@ race: Daelkyr
 occupation: Daelkyr Lord
 statblock: inline
 ---
- #npc #monster #daelkyr [[Lharvion (Xoriat)]]
+ #npc #monster #daelkyr 
 
 ![https://static.wikia.nocookie.net/eberron/images/d/db/Kyrzin.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/d/db/Kyrzin.jpg)
 
-The Prince of Slime is the daelkyr lord of slime and ooze.
+The Prince of Slime is the daelkyr lord of slime and ooze, originally from the plane of [[Lharvion (Xoriat)]].
 
 Kyrzin's chosen form roughly approximates a humanoid shape. He has the head and torso of a handsome human male, suspended in a green ooze with his human aspects partially dissolved.
 

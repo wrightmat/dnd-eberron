@@ -5,7 +5,7 @@ subrace: Chromatic (Blue)
 occupation: Faction Leader
 alignment: Chaotic Neutral
 ---
- #npc [[Draconic Factions]]
+ #npc 
 
 ![http://wizzle.tplinkdns.com:38090/index.php/s/7qKNRx5XgoG4f57/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/7qKNRx5XgoG4f57/preview)
 

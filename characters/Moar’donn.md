@@ -5,7 +5,7 @@ subrace: Chromatic (Black)
 occupation: Faction Leader
 alignment: Chaotic Evil
 ---
- #npc [[Draconic Factions]]
+ #npc 
 
 ![http://wizzle.tplinkdns.com:38090/index.php/s/WbeJSL2L5gLRccA/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/WbeJSL2L5gLRccA/preview)
 

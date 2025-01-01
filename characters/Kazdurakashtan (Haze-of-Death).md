@@ -4,13 +4,13 @@ race: Dragon
 subrace: Chromatic (White)
 alignment: Chaotic Evil
 ---
- #npc [[Draconic Factions]] [[The Chamber]]
+ #npc 
 
 ![https://static.wikia.nocookie.net/eberron/images/3/35/HazeofDeath.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/3/35/HazeofDeath.jpg)
 
 >"I have named the wind that blows through my lair (Gusstrill) and speak to it often. It is my sole companion."
 
-Kazdurakashtan was once a Chamber agent, but he decided to go rogue in Khorvaire to aid the humanoid races like the dragon Vvaraak once did. After establishing an order of dragon giants in the frozen north of Frostfell, he settled in Cyre because of a friendship with a Cyran professor, and hoped to negotiate an end to the Last War.
+Kazdurakashtan was once an agent of [[The Chamber]], but he decided to go rogue in Khorvaire to aid the humanoid races like the dragon Vvaraak once did. After establishing an order of dragon giants in the frozen north of Frostfell, he settled in Cyre because of a friendship with a Cyran professor, and hoped to negotiate an end to the Last War.
 
 When the Day of Mourning struck Cyre, Kazdurakashtan survived, but the cataclysm horrifically injured and mutated the dragon, driving him insane and causing him to forget his original name. After clawing his way out of the Glowing Chasm, he now lurks deep in the Mournland, searching for treasures to add to his hoard, and devouring anyone who runs across his path. He is now known as Haze-of-Death. His body is now a dismal gray color, and he is constantly surrounded by mist similar to the mist surrounding the Mournland. Patches of scales have fallen off his body, and bony growths protrude from various joints.
 

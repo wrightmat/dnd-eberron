@@ -3,7 +3,7 @@ gender: Male
 race: Giant Crab
 attitude: Helpful
 ---
- #npc [[Flamekeep]]
+ #npc 
 
 ![https://www.tribality.com/wp-content/uploads/2019/03/email-giant-crab.png|ws-med|right](https://www.tribality.com/wp-content/uploads/2019/03/email-giant-crab.png)
 
@@ -13,6 +13,6 @@ The party convinced the crab to leave the tower with them. They brought him to S
 
 ### Development
 
-* Before departing for the Astral, the party convinced Mr. Crab to move to Flamekeep where he could be kept safe by the church.
+* Before departing for the Astral, the party convinced Mr. Crab to move to [[Flamekeep]] where he could be kept safe by the church.
 
 ### References

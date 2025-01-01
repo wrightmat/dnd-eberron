@@ -3,7 +3,7 @@ gender: Female/Variable
 race: Archfey
 occupation: Anchor Baron
 ---
- #npc [[Rhaan (Thelanis)]]
+ #npc 
 
 The Forest Queen reflects the mystery and danger of the dark woods. She is protective of her beasts and despises the encroaching cities. In her tales, she rewards those who respect the wilds and show kindness to her beasts, but she is cruel to fools who stray from the path or hurt her subjects.
 

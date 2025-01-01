@@ -5,7 +5,7 @@ occupation: Lord of Blades
 alignment: Lawful Evil
 languages: Common
 ---
- #npc [[Mournland (Cyre)]]
+ #npc 
 
 ![https://static.wikia.nocookie.net/eberron/images/a/a5/Lord_of_Blades.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/a/a5/Lord_of_Blades.jpg)
 
@@ -15,7 +15,7 @@ Aaren d'Cannith was a member of House Cannith and son of Merrix d'Cannith, the c
 
 Actually, Aaren retreated to the secret lab that he had used to develop the original Dolurrh-connected Creation Forge after he returned from Xen’drik. Here, he spent many years creating his own perfect warforged body, that he could use to avenge the misuse of his children, and transferred his soul to it (presumably by killing himself) using the Creation Forge. Soon after this process was completed, the Day of Mourning occurred, and Aaren emerged from his lab within the safety of his new warforged body.
 
-In the years since he first appeared, the warforged who soon came to be known as the Lord of Blades has gathered followers from among the Warforged of Khorvaire, and sought to build an empire upon the ruins of Cyre, deep within the desolate Mournland. These followers call themselves "The Blades" and have joined his nation, centered in a great, hidden fortress where Warforged from all over Khorvaire can come and feel a sense of belonging. Today his Warforged roam the Mournland, patrolling the devastated terrain and salvaging resources from the ashes of Cyre.
+In the years since he first appeared, the warforged who soon came to be known as the Lord of Blades has gathered followers from among the Warforged of Khorvaire, and sought to build an empire upon the ruins of Cyre, deep within the desolate [[Mournland (Cyre)|Mournland]]. These followers call themselves "The Blades" and have joined his nation, centered in a great, hidden fortress where Warforged from all over Khorvaire can come and feel a sense of belonging. Today his Warforged roam the Mournland, patrolling the devastated terrain and salvaging resources from the ashes of Cyre.
 
 ### Stat Block
 

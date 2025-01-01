@@ -5,7 +5,7 @@ subrace: Metallic (Copper)
 occupation: Faction Leader, Hotelier
 alignment: Chaotic Neutral
 ---
- #npc [[Draconic Factions]]
+ #npc 
 
 ![http://wizzle.tplinkdns.com:38090/index.php/s/8Cqq8r8AJ9Ya6Lq/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/8Cqq8r8AJ9Ya6Lq/preview)
 

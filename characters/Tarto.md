@@ -3,7 +3,7 @@ gender: Female
 race: Hadozee
 occupation: Training Officer
 ---
- #npc [[Tu'narath]]
+ #npc 
 
 ![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png|ws-med|right](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/01-011.boatswain-tarto.png)
 

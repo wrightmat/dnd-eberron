@@ -4,7 +4,7 @@ race: Astral Elf
 occupation: Military Commander
 pronouns: they/them
 ---
- #npc [[Tu'narath]]
+ #npc 
 
 ![https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png|ws-med|right](https://media.dndbeyond.com/compendium-images/sja/9h8GiE7HbKsyOg18/02-005.o-sarthe-abizjn.png)
 

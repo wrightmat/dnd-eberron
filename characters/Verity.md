@@ -12,8 +12,9 @@ alignment: Chaotic Neutral
 languages: Celestial, Common, Thieves’ Cant
 background: Charlatan
 campaign: "[[C03 Riddles of the Third Age]]"
+player: "[[Kerrie Heath]]"
 ---
- #pc [[Kerrie Heath]]
+ #pc 
 
 ![https://www.dndbeyond.com/avatars/39526/908/1581111423-116417392.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/39526/908/1581111423-116417392.jpeg)
 

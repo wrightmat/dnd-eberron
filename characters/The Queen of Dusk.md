@@ -3,9 +3,9 @@ gender: Female/Variable
 race: Archfey
 occupation: Anchor Baron
 ---
- #npc [[Rhaan (Thelanis)]]
+ #npc 
 
-The Queen of Dusk is a powerful entity that rules over the domain of Dusk in Thelanis from her castle. Dusk is a land of perpetual twilight, which contains dazzling colors and magical beauty.
+The Queen of Dusk is a powerful entity that rules over the domain of Dusk in [[Rhaan (Thelanis)]] from her castle. Dusk is a land of perpetual twilight, which contains dazzling colors and magical beauty.
 
 Dusk is a fey queen of Thelanis embodying dusk, the time of day in between dark and light. She goes by many names and many faces, and prefers to be addressed formally.
 

@@ -4,17 +4,17 @@ race: Archfey
 occupation: Anchor Baron
 statblock: inline
 ---
- #npc [[Rhaan (Thelanis)]]
+ #npc 
 
 ![https://pbs.twimg.com/media/FOE6yhuXIAcCLr0?format=jpg&name=4096x4096|ws-med|right](https://pbs.twimg.com/media/FOE6yhuXIAcCLr0?format=jpg&name=4096x4096)
 
-The Prince of Frost, also called the Pale Prince and the Lord of the Long Night, was a mighty archfey. He was the mightiest of the fey faction called the Winter fey, although he was not truly their leader.
+The Prince of Frost, also called the Pale Prince and the Lord of the Long Night, is a mighty archfey. He is the mightiest of the fey faction called the Winter fey, although he was not truly their leader. He resides on the plane of [[Rhaan (Thelanis)]].
 
 The Prince of Frost resembled a slender eladrin with pale, icy blue skin, long white hair, and white eyes. He continually gave off an aura of freezing cold. His smile held no warmth.
 
-The Pale Prince was bitter and merciless, though not unnecessarily cruel. He allied with other archfey only against dire threats, and preferred to deal with his enemies quickly, viciously, and without regard for collateral damage. He held mortals in complete contempt.
+The Pale Prince is bitter and merciless, though not unnecessarily cruel. He allies with other archfey only against dire threats, and preferred to deal with his enemies quickly, viciously, and without regard for collateral damage. He holds mortals in complete contempt.
 
-The Prince of Frost had many powerful, innate magical abilities, such as being able to freeze mortal creatures and summon blizzards. He was known to speak the languages of elves, dragons, giants, and primordials, as well as the common language. The Pale Prince could see even when there was little light.
+The Prince of Frost has many powerful, innate magical abilities, such as being able to freeze mortal creatures and summon blizzards. He is known to speak the languages of elves, dragons, giants, and primordials, as well as the common language. The Pale Prince could see even when there was little light.
 
 The Prince of Frost was once the Prince of Summer, but his heart froze when his beloved fled with a mortal hero. The escaping lovers cast their spirits forward in time, and the Prince waits in his castle of frozen tears for their return and his revenge. Until then, he torments all virtuous heroes who cross his path, reflecting the story of a good person turned cruel by loss.
 

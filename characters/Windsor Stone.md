@@ -10,14 +10,15 @@ class: Barbarian
 subclass: Storm Herald
 alignment: Lawful Good
 campaign: "[[C01 What Dreams May Come]]"
+player: "[[Kerrie Heath]]"
 ---
- #pc [[Kerrie Heath]] [[Zarantryr (Kythri)]] [[Therendor (Syrania)]]
+ #pc 
 
 ![https://www.dndbeyond.com/avatars/37864/354/1581111423-75316650.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/37864/354/1581111423-75316650.jpeg)
 
-Windsor was born in Sharn, and his parents (Tourmaline and Vernon still live in the Oakbridge neighborhood of the Middle Northedge district. They run an art restoration shop in North Towers (Lower Central).
+Windsor was born in [[Sharn]], and his parents (Tourmaline and Vernon still live in the Oakbridge neighborhood of the Middle Northedge district. They run an art restoration shop in North Towers (Lower Central).
 
-Windsor attended school at Arcanix for 6 years, pursing the equivalent of a Masters degree, and then spent several years working at the library before setting out on his own. When Windsor met the adventuring party in 998 YK, he still held debt that he's trying to pay off, even after his parents' contribution and his working afterward.
+Windsor attended school at [[Arcanix]] for 6 years, pursing the equivalent of a Masters degree, and then spent several years working at the library before setting out on his own. When Windsor met the adventuring party in 998 YK, he still held debt that he's trying to pay off, even after his parents' contribution and his working afterward.
  * Calculated Arcanix tuition as 2 gp/day x 350 days (365 days a year, minus holidays) = 700 gp per year x 6 years = 4200 gp total. Had 1400 gp left when the adventure started in Nymm 998 YK.
  * Paid off the debt in Rhaan 998 YK, thanks to a substantial gift from Bystan, after Windsor saved his life. He sent the money off to the school via House Kundarak.
 

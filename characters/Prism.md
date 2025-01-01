@@ -10,8 +10,9 @@ subclass: Phantom
 alignment: Chaotic Neutral
 pronouns: she/her
 campaign: "[[C01 What Dreams May Come]]"
+player: "[[Claire Elrod]]"
 ---
- #pc [[Claire Elrod]] [[Rhaan (Thelanis)]] [[Aryth (Dolurrh)]]
+ #pc 
 
 ![https://www.dndbeyond.com/avatars/29693/195/1581111423-79286323.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/29693/195/1581111423-79286323.jpeg)
 

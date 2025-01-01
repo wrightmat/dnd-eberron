@@ -13,8 +13,9 @@ ideal: People. I'm committed to the people I care about, not ideals.
 bond: I will do anything to protect nature.
 flaw: I am suspicious of strangers and expect the worst of them.
 campaign: "[[C02 Curse of Strahd (Abridged)]]"
+player: "[[Jolene Harper]]"
 ---
- #pc [[Jolene Harper]]
+ #pc 
 
 ![https://www.dndbeyond.com/avatars/25837/112/637883860583922242.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/25837/112/637883860583922242.jpeg)
 

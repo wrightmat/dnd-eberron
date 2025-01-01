@@ -10,8 +10,9 @@ class: Cleric
 subclass: Grave Domain
 alignment: Lawful Good
 campaign: "[[C03 Riddles of the Third Age]]"
+player: "[[Alex Kelsch]]"
 ---
- #pc [[Alex Kelsch]]
+ #pc 
 
 Thana lived in Shae Mordai before it fell, and was present when the attack occured. When she woke up, she had become dhampir, and didn't remember anything that happened.
 

@@ -4,7 +4,7 @@ race: Daelkyr
 occupation: Daelkyr Lord
 statblock: inline
 ---
- #npc #monster #daelkyr [[Lharvion (Xoriat)]]
+ #npc #monster #daelkyr 
 
 ![https://static.wikia.nocookie.net/realmsofahlus/images/a/ac/Valaara.jpg|ws-med|right](https://static.wikia.nocookie.net/realmsofahlus/images/a/ac/Valaara.jpg)
 

@@ -7,11 +7,11 @@ alignment: Neutral
 goals: To learn as much as possible about the events of the last fifty years, and the dragon involvement in particular.
 attitude: Helpful
 ---
- #npc [[Sharn]]
+ #npc 
 
 ![https://db4sgowjqfwig.cloudfront.net/campaigns/171319/assets/869364/Flamewind2.png|ws-med|right](https://db4sgowjqfwig.cloudfront.net/campaigns/171319/assets/869364/Flamewind2.png)
 
-Flamewind is a gynosphinx with amazing oracular powers. Found in Xen'drik in 996 YK, Flamewind resides at Morgrave University in Sharn, where she spends her time in the university's library in trade for her visions of things to come.
+Flamewind is a gynosphinx with amazing oracular powers. Found in Xen'drik in 996 YK, Flamewind resides at Morgrave University in [[Sharn]], where she spends her time in the university's library in trade for her visions of things to come.
 
 Like other gynosphinxes, Flamewind has the body of a lion. However, orange stripes ripple across her deep black fur, giving the appearance of flames. Her falcon-like winds are also pure black, and her head resembles a beautiful elven woman rather than a human, with glittering golden eyes. Her face's features are distinctly feline, and her hair matches her black-and-orange fur. She usually wears platinum and gold chains around her neck and forearms, and a silver diadem on her brow.
 

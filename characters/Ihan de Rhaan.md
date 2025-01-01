@@ -4,7 +4,7 @@ race: Eladrin
 subrace: Summer
 occupation: Duke
 ---
- #npc [[Rhaan (Thelanis)]]
+ #npc 
 
 ![https://static.wikia.nocookie.net/forgottenrealms/images/d/de/Summer_eladrin-5e.jpg|ws-med|right](https://static.wikia.nocookie.net/forgottenrealms/images/d/de/Summer_eladrin-5e.jpg)
 

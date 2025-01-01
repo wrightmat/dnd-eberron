@@ -3,7 +3,7 @@ gender: Male
 race: Celestial
 occupation: Dark Power
 ---
- #npc [[Sypheros (Mabar)]]
+ #npc 
 
 A lich in rotting finery, The Bone King stands as a warning that even the mightiest lords eventually become dust and bone. He prefers to drain the life slowly from fragments he claims; he wants his hostages to dwell on their coming death while their land withers around them, for lords to turn on their people before he finally kills them all.
 

@@ -5,7 +5,7 @@ subrace: Winter
 occupation: Baron
 pronouns: she/her
 ---
- #npc [[Rhaan (Thelanis)]]
+ #npc 
 
 ![https://static.wikia.nocookie.net/dragonage/images/a/a3/Promotional_Celene.jpg|ws-med|right](https://static.wikia.nocookie.net/dragonage/images/a/a3/Promotional_Celene.jpg)
 

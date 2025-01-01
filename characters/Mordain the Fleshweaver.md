@@ -6,15 +6,13 @@ occupation: Transmutation Mage
 alignment: Neutral Evil
 attitude: Indifferent
 ---
- #npc [[Mordain’s Hall]]
+ #npc 
 
 ![https://static.wikia.nocookie.net/eberron/images/9/9c/Mordain.jpg|ws-med|right](https://static.wikia.nocookie.net/eberron/images/9/9c/Mordain.jpg)
 
 Mordain d'Phiarlan, better known as Mordain the Fleshweaver, is a disturbing transmutation mage of Droaam. Once a member of House Phiarlan and one of the greatest wizards of the Twelve, Mordain d'Phiarlan delved into the forbidden knowledge of the Closed Circle of Sharn. The 400-year-old wizard hides himself away in his secret hall in Droaam, continuing to explore the forbidden arts.
 
-Mordain is a powerful wizard, and a master of the transmutation school of magic. He can use his spells to polymorph, clone, and bind the souls of creatures.
-
-Mordain avoids interfering in the affairs and followers of the Daughters of Sora Kell, and they in turn steer well clear of his tower.
+Mordain is a powerful wizard, and a master of the transmutation school of magic. He can use his spells to polymorph, clone, and bind the souls of creatures. Mordain avoids interfering in the affairs and followers of the Daughters of Sora Kell, and they in turn steer well clear of his tower.
 
 ### History
 
@@ -32,7 +30,7 @@ Since they could not kill Mordain, the Twelve petrified the mage and prepared hi
 
 Mordain disappeared from the world until 873 YK, when a troop of Aundairian soldiers pursued a group of lycanthropes during the Purge. They discovered a tower jutting up from the woods of what is now Droaam. The only survivor of the squad was found with the bottom half of his body replaced with that of one of the lycanthropes he was hunting. Before he died of self-inflicted wounds he spoke of a tower "with blackened, leathery walls, twisted as the limb of a dragon reaching up to grasp the sun."
 
-Mordain had indeed taken up home in Droaam. He created a tower, and surrounded his home with the results of his gruesome experiments. Even the monsters of Droaam now steer clear of what the gnolls call KreshtRhyll, "the Forest of Flesh".
+Mordain had indeed taken up home in Droaam. He created a tower (known as [[Mordain’s Hall]] to outsiders), and surrounded his home with the results of his gruesome experiments. Even the monsters of Droaam now steer clear of what the gnolls call KreshtRhyll, "the Forest of Flesh".
 
 Since his exile, Mordain has spoken to nobody. Various nations of Khorvaire sent emissaries into KreshtRhyll hoping to enlist Mordain's aid during the Last War, mages have attempted to steal his secrets, and virtuous champions have sought to rid the world of him, but none have laid eyes on Mordain and returned unchanged, if they have returned at all. Mordain has secured his tower against scrying and teleportation. He occasionally sends out servants from his tower to search ancient daelkyr sites in Droaam and the Shadow Marches. His servants include many creatures of his own creation, as well as enslaved abominations, such as beholders, illithids, and umber hulks.
 

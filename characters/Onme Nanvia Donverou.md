@@ -10,14 +10,13 @@ subclass: Oath of Redemption
 alignment: Lawful Good
 pronouns: she/her
 campaign: "[[C01 What Dreams May Come]]"
+player: "[[Sara Edwards]]"
 ---
- #pc #npc  [[Sara Edwards]] [[Ring of Siberys]] [[Therendor (Syrania)]] [[Church of the Silver Flame]]
+ #pc 
 
 ![https://www.dndbeyond.com/avatars/17/463/636377891051966547.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/17/463/636377891051966547.jpeg)
 
-Trained as a Templar of the Silver Flame, where she began her training at the age of 16 after being sent there from the orphanage (since she wasn't adopted).
-
-Onme is originally from Thrane, where she was raised in an orphanage in Daskaran.
+Trained as a Templar of the Silver Flame, where she began her training at the age of 16 after being sent there from the orphanage (since she wasn't adopted). Onme is originally from Thrane, where she was raised in an orphanage in Daskaran, but was recruited into the [[Church of the Silver Flame]] at the earliest possible age.
 
 ### Development
 

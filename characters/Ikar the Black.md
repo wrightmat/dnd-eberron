@@ -5,11 +5,11 @@ occupation: Salvager
 attitude: Indifferent
 statblock: inline
 ---
- #npc [[Mournland (Cyre)]]
+ #npc 
 
 ![https://www.worldanvil.com/uploads/images/7d436c3bc606537c949ad600846c62e8.jpg|ws-med|right](https://www.worldanvil.com/uploads/images/7d436c3bc606537c949ad600846c62e8.jpg)
 
-Ikar the Black is the half-orc leader of Ikar's Salvage, a team of mercenaries and laborers (including warforged and Karrnathi undead). Ikar's Salvage searches the Mournland for lost treasures, selling former Cyran equipment. He was once a decorated Karrnathi officer during the Last War.
+Ikar the Black is the half-orc leader of Ikar's Salvage, a team of mercenaries and laborers (including warforged and Karrnathi undead). Ikar's Salvage searches the [[Mournland (Cyre)|Mournland]] for lost treasures, selling former Cyran equipment. He was once a decorated Karrnathi officer during the Last War.
 
 Ikar was a citizen of Karrnath, and like most Karrnathi, he joined the army during the Last War. While fighting on the front lines, Ikar was wounded during a Cyran push on the city of Atur. Ikar's wounds turned out to be lucky ones: he was in the infirmary on the Day of Mourning, and had he been stationed at his assignment, he would have perished with his comrades.
 

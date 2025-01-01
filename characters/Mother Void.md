@@ -3,7 +3,7 @@ gender: Female
 race: Endless
 occupation: All-Mother
 ---
- #npc [[The Outer Darkness]]
+ #npc 
 
 ![https://static.wikia.nocookie.net/sandman/images/2/2f/Mother_of_the_endless.png|ws-med|right](https://static.wikia.nocookie.net/sandman/images/2/2f/Mother_of_the_endless.png)
 
@@ -15,13 +15,13 @@ occupation: All-Mother
 
 >Your attempts to comprehend the incomprehensible are endearing, truly. But know this, I owe you no explanations, no justifications. My existence transcends your understanding.
 
-Mother Void, also known as Mother Night or Entropy, is a cosmic being and the embodiment of the absolute emptiness that predates creation. She is the mother of The Endless.
+Mother Void, also known as Mother Night or Entropy, is a cosmic being and the embodiment of the absolute emptiness that predates creation. She is the mother of [[The Endless]].
 
 Mother's physical form is a portly woman with long black hair who strongly resembles her daughter Despair. Her skin is night blue and contains the night sky. She wears a lavender dress with black and blue embroidery.
 
 Mother is disconnected from all things in reality, is utterly self-centered, and lacks empathy. She rarely leaves her own realm and enjoys her own privacy, having not had any contact with her children for quite some time.
 
-Mother Void is the personification of the primordial chaos, prior to the dragons’ arrival. Her entire domain was condensed down to the current Outer Darkness, and so she created her children in order to rule over the outer planes that the dragons had created, as an act of defiance. She despises the concept of the dragons and their creation - after all, what's so great about creation and order? Are things really going all that well on Eberron?
+Mother Void is the personification of the primordial chaos, prior to the dragons’ arrival. Her entire domain was condensed down to the current [[The Outer Darkness|Outer Darkness]], and so she created her children in order to rule over the outer planes that the dragons had created, as an act of defiance. She despises the concept of the dragons and their creation - after all, what's so great about creation and order? Are things really going all that well on Eberron?
 
 ### References
 

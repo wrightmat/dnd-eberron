@@ -12,8 +12,9 @@ ideal: Love (a hopeless romantic), Belonging, Superstition
 bond: Deeply loves and cares for the dearly departed Kavya and is looking for a way to bring her back.
 flaw: Fearful and insecure (struggles to be assertive and establish boundaries, especially toward the spirits who haunt him), Freezes under stress.
 campaign: "[[C02 Curse of Strahd (Abridged)]]"
+player: "[[Alex Kelsch]]"
 ---
- #pc [[Alex Kelsch]]
+ #pc 
 
 ![https://www.dndbeyond.com/avatars/30004/437/1581111423-87163956.jpeg|ws-med|right](https://www.dndbeyond.com/avatars/30004/437/1581111423-87163956.jpeg)
 

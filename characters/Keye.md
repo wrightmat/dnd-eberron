@@ -4,9 +4,9 @@ race: Warforged
 occupation: Thief
 attitude: Helpful
 ---
- #npc [[Sharn]]
+ #npc 
 
-Keye is a talented thief around Lower Sharn who is sought after by major criminal organizations, especially the Boromar Clan.
+Keye is a talented thief around Lower [[Sharn]] who is sought after by major criminal organizations, especially the Boromar Clan.
 
 She is now married to [[Cecilia McNab]].
 

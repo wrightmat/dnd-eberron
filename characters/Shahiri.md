@@ -12,8 +12,9 @@ languages: Common, Infernal
 background: Soldier
 pronouns: she/her
 campaign: "[[C03 Riddles of the Third Age]]"
+player: "[[Claire Elrod]]"
 ---
- #pc [[Claire Elrod]]
+ #pc 
 
 Shahiri used to be a guard or soldier and no longer is (because some people died who she was supposed to protect, including her mother). Has been doing mercenary work more recently.
 

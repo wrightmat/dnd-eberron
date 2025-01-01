@@ -4,7 +4,7 @@ race: Human
 occupation: Baron
 attitude: Helpful
 ---
- #npc [[Sharn]]
+ #npc 
 
 ![https://db4sgowjqfwig.cloudfront.net/images/5362027/Merrix_d_Cannith.png|ws-med|right](https://db4sgowjqfwig.cloudfront.net/images/5362027/Merrix_d_Cannith.png)
 
@@ -12,7 +12,7 @@ Baron Merrix d'Cannith is the current head of the southern holdings of House Can
 
 Merrix's main interests are in research, and development, particularly on the warforged. He also frequently sponsors expeditions into the Mournland to recover Cannith equipment and designs lost in the Day of Mourning, especially around the Cannith forgehold of Whitehearth. If one of the party members is a warforged, Merrix may take a personal interest in this character.
 
-Besides research into warforged, Merrix also works to improve the living conditions of warforged in Sharn. Warforged who work at the Cannith enclave are treated as equal to the other employees.
+Besides research into warforged, Merrix also works to improve the living conditions of warforged in [[Sharn]]. Warforged who work at the Cannith enclave are treated as equal to the other employees.
 
 ### References
 

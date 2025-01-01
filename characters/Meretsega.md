@@ -5,7 +5,7 @@ subrace: Metallic (Brass)
 occupation: Faction Leader
 alignment: Chaotic Evil
 ---
- #npc [[Draconic Factions]]
+ #npc 
 
 ![http://wizzle.tplinkdns.com:38090/index.php/s/kMx92SNBTWJRo9Y/preview|ws-med|right](http://wizzle.tplinkdns.com:38090/index.php/s/kMx92SNBTWJRo9Y/preview)
 
