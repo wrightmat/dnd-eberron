@@ -23,7 +23,7 @@ Check off as information is received. These should be gathered from Secrets and 
 
 ### DM Notes and Random Tables
 
-- Use of the modify memory spell by a bad guy to trick the players into believing that they're not adventurers and instead just settled down in Aundair (to maybe even live an alternative life). Mix between Fantasy High and Inner Light from Star Trek TNG.
+- Use of the modify memory spell by a bad guy to trick the players into believing that they're not adventurers and instead just settled down in Aundair (to maybe even live an alternative life). Mix between Fantasy High and "Inner Light" from Star Trek TNG. Could even allow the players to live out years as a montage like in the SG1 episode "Unending."
 - Ideas from ChatGPT:
 	- Mind-Controlled Agents: Battling charmed figures from different timelines.
 	- Disenchantment Ritual: Performing a ritual to break charms without affecting the timeline.
