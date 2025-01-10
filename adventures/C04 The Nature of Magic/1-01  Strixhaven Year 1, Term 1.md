@@ -11,12 +11,18 @@
 	* **Voice**: Low-pitched, Slow-paced, Gruff (rough, irritated), Clipped (short, abrupt phrases), Stoic (neutral expression, minimal movement).
 * **Aisla Fitzbottom** (CG female gnome commoner). Aisla runs the Biblioplex Café. She is charmingly perky and has a mind like a steel trap when it comes to recognizing students.
 	* **Voice**: High-pitched, Fast-paced, Sweet (soothing, charming), Rambling (long, unfocused sentences), Fidgety (taps, twitches, or fiddles with objects).
-* **Professor Mavinda Sharpbeak** (NG female owlin Silverquill professor of radiance). 
+* **Professor [[Mavinda Sharpbeak]]** (NG female owlin Silverquill professor of radiance). Whether helping students with interpersonal problems or picking their college, Mavinda is at the ready with wise words and a comforting wing.
+	* **Voice**: Medium-pitched, Medium-paced, Warm (friendly, inviting), Drawn-out vowels (elongated sounds, e.g., 'weeeeell...'), Cheerful (smiles, laughs often).
 * **Ellina Tanglewood** (CG female elf mage). The Strixhaven employee who manages the café and serves as its chief barista.
+	* **Voice**: Medium-pitched, Medium-paced, Warm (friendly, inviting), Rhythmic (musical cadence or patterned), Relaxed (slouched, casual stance).
 * **Verelda Lang** (CN female dryad professor from Witherbloom College). A respected arcano-biologist who teaches Quandrix College courses in addition to her Witherbloom College and general education offerings.
+	* **Voice**: Low-pitched, Slow-paced, Cold (distant, harsh), Pauses (frequently stops mid-sentence), Rigid (formal, upright posture).
 * **Javenesh Stoutclaw** (NG female owlin Lorehold apprentice). Student employee at Bow's End Tavern.
+	* **Voice**: Low-pitched, Medium-paced, Gruff (rough, irritated), Clipped (short, abrupt phrases), Cheerful (smiles, laughs often).
 * **Tulk “The Bulk” Tusktooth** (LG male orc gladiator). A Strixhaven employee, and the Bow's End Tavern manager, with a kind demeanor but no tolerance for misbehavior.
+	* **Voice**: Low-pitched, Fast-paced, Booming (loud and commanding), Rambling (long, unfocused sentences), Overly expressive (big hand gestures, exaggerated motions).
 * **Curtie Axechucker** (CN female dwarf commoner). A Strixhaven employee and beloved personality on campus. Chef Curtie views cooking as an art, and she teaches the four students who work for her to cook using hunches and passion instead of precision or science.
+	* **Voice**: Medium-pitched, Fast-paced, Sharp (precise, cutting), Repetitive phrases ('You see,' 'As I said'), Fidgety (taps, twitches, or fiddles with objects).
 
 * **Dormitory Tower**
 * **The Bibioplex**

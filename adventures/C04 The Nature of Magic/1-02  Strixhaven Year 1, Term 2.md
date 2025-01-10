@@ -7,10 +7,14 @@
 
 ### Characters and Locations
 
-* **Quentillius Antiphiun Melentor III** (N male human first-year student).
-* **Rubina Larkingdale** (LN human first-year student).
-* **Professor Johenne Totsky** (N human Silverquill professor of shadow).
+* **Quentillius Antiphiun Melentor III** (N male human first-year student). Quentillius approaches all his endeavors with the utmost seriousness. He believes one should either do something correctly or not at all.
+	* **Voice**: Medium-pitched, Slow-paced, Formal (polished, deliberate), Rhythmic (musical cadence or patterned), Grandiose (sweeping gestures, puffed chest).
+* **Rubina Larkingdale** (LN human first-year student). When Rubina walks into a room, people take notice. A measured performer with gravitas beyond her years, Rubina is a valued member of the Playactors Drama Guild who can handle weightier roles that more melodramatic actors can’t.
+	* **Voice**: High-pitched, Medium-paced, Sweet (soothing, charming), Repetitive phrases ('You know,' 'I mean'), Nervous (wrings hands, shuffles feet).
+* **Professor Johenne Totsky** (N human Silverquill professor of shadow). Theatrical director in charge of managing the Rose Stage and its performances on the Silverquill College campus of Strixhaven University. A lover of theatre who is immaculately dressed, Totsky was a talented inkcaster in her day. She is quite superstitious.
+	* **Voice**: Medium-pitched, Slow-paced, Warm (friendly, inviting), Pauses (frequently stops mid-sentence), Relaxed (slouched, casual stance).
 * **Murgaxor Grenshel** (NE male bullywug). Murgaxor is a bullywug who attended Strixhaven 200 years ago. He was a member of Witherbloom College, though there are no records of him participating in any activities or working on campus. A mean-spirited, egotistical spellcaster, Murgaxor was censured repeatedly for disregarding safety protocols, hexing and cursing peers, and using harmful magic while on campus. University officials believe Murgaxor began his illicit experiments with life-draining magic shortly after he enrolled as a student. In his third year, Murgaxor was expelled for using life-draining magic when it resulted in another student’s death. Murgaxor fled before he could be handed over to authorities. For a few years after his expulsion, Murgaxor was reportedly sighted around the outskirts of campus, specifically in Sedgemoor and Wiltroot Hall. Authorities believed something about those locations enhanced his magic, but he was never caught. Sightings soon stopped, and no further evidence of Murgaxor’s presence was found. Officials assumed he was dead and struck Murgaxor from Strixhaven’s records, as they considered him a blot on the university’s reputation. In reality, Murgaxor is one of Malakar Draksang's primary followers, and has been growing his power (and therefore Malakar's) by draining the life of animals across the swamp, while also coordinating the activity of mage hunters to cause problems across campus.
+	* **Voice**: Low-pitched, Slow-paced, Sinister (menacing, sly), Drawled (slow and exaggerated syllables), Menacing (narrowed eyes, furrowed brows).
 
 * **Captain Dapplewing’s Manor**
 * **The Rose Stage**
