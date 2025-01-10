@@ -325,7 +325,47 @@ Chaos erupts in the library as students stream in all directions, their books an
 - **Student Remarks**. A Current Student Representative (e.g., a Silverquill third-year) presents the student’s perspective and practical advice.
 	- “Your first year at Strixhaven will be a whirlwind. Find your people, whether it’s through extracurriculars or late-night study sessions. And don’t forget—the Biblioplex is your best friend.”
 	- “Beware of mage duels. They’re exciting, but they have a way of landing you in detention. Trust me on that.”
-- **Student Cheer**. The speaker leads a student cheer and invites new students to join in. A group DC 14 Charisma (Performance) check determines how well the cheer goes for the PC's secion.
+- **Student Cheer**. The speaker leads a student cheer and invites new students to join in. A group DC 14 Charisma (Performance) check determines how well the cheer goes for the PC's section.
+	- **Opening Verse (Call-and-Response):**
+		Caller: Who holds the power, strong and bold?
+		All: We do, we do — Strixhaven gold!
+		Caller: Through spell and scroll, through wand and flame —
+		All: Strixhaven forever, remember the name!
+	- **Lorehold (College of Archaeomancy):**
+"In the Lorehold section, a mix of bookish history buffs and thrill-seeking adventurers rises to their feet. One student drops a comically large book in their zeal to stand while another drapes its arm around a spirit and begins to chant..."
+		Lorehold stands with wisdom’s might,
+		Guardians of truth and endless light.
+		Through ancient lore, we seek and soar —  
+		Strixhaven forever, we explore!
+	- **Prismari (College of Elemental Arts):**
+“In the Prismari section, a dynamic contrast of artistic personalities bursts to life. One student carefully adjusts the color gradients on their flowing robes, while another leaps to their feet mid-spin, trailing an explosion of fiery sparks in their wake as they chant...”
+		Prismari flows with fire and ice,
+		Artful magic, bold and precise.
+		Through vivid forms, our spirits elate —  
+		Strixhaven forever, we create!
+	- **Quandrix (College of Numeromancy):**
+“In the Quandrix section, some students rise in perfect unison, their robes shimmering with fractal patterns, while one distracted dreamer frantically sketches magical equations in the air, their voice joining in late...”
+		Quandrix shapes the fractal flow,
+		Numbers rise and power will grow.
+		Through logic’s strength and boundless mind —
+		Quandrix forever, we align!
+	- **Silverquill (College of Eloquence):**
+“In the Silverquill section, some students rise with an elegant grace, their polished robes gleaming, while others stand with rebellious smirks, their quills raised like swords as they belt out their chant...”
+		Silverquill’s style is sharp and bright,
+		Courage and wit to claim the fight.
+		With minds of steel, our words are wise —
+		Strixhaven forever, we arise!
+	- **Witherbloom (College of Essence Studies):**
+In the Witherbloom section, one student throws back their hood, revealing a face streaked with mud, laughing wildly as they twirl a vine in the air, while another gently cradles a small, glowing plant as they chant..."
+		Witherbloom grows where life prevails,
+		Balancing cycles, nature unveils.
+		Through roots and veins, both wild and true —
+		Witherbloom forever, we renew!
+	- **Closing Verse (Call-and-Response):**
+		Caller: Strixhaven strong, united we stand —
+		All: Five great colleges, hand in hand!
+		Caller: Through spell and song, we lead the way —
+		All: Strixhaven forever, here to stay!
 - **Closing Remarks**. Tedric Taiva, Voice of the Founders, makes a rare appearance to give a more pragmatic view on magic and its use.
 	- “Magic is power, and power can protect or corrupt. Here, you will learn the difference — and decide which path you will walk.”
 
