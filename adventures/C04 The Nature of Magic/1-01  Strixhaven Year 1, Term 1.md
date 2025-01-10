@@ -8,7 +8,9 @@
 ### Characters and Locations
 
 * **Groff Lundquist** (NG male human commoner). A friendly Strixhaven staff member who runs the Biblioplex Student Store and is known for his ability to fashionably mix and match items of university apparel.
+	* **Voice**: Low-pitched, Slow-paced, Gruff (rough, irritated), Clipped (short, abrupt phrases), Stoic (neutral expression, minimal movement).
 * **Aisla Fitzbottom** (CG female gnome commoner). Aisla runs the Biblioplex Café. She is charmingly perky and has a mind like a steel trap when it comes to recognizing students.
+	* **Voice**: High-pitched, Fast-paced, Sweet (soothing, charming), Rambling (long, unfocused sentences), Fidgety (taps, twitches, or fiddles with objects).
 * **Professor Mavinda Sharpbeak** (NG female owlin Silverquill professor of radiance). 
 * **Ellina Tanglewood** (CG female elf mage). The Strixhaven employee who manages the café and serves as its chief barista.
 * **Verelda Lang** (CN female dryad professor from Witherbloom College). A respected arcano-biologist who teaches Quandrix College courses in addition to her Witherbloom College and general education offerings.

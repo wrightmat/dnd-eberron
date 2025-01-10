@@ -101,6 +101,74 @@
 | 20         | Exceptionally ugly                                          |
 ^random-npc-appearance
 
+##### Voice
+
+| dice: 1d3 | Pitch          |
+| --------- | -------------- |
+| 1         | High-pitched   |
+| 2         | Medium-pitched |
+| 3         | Low-pitched    |
+^random-npc-voice-pitch
+
+| dice: 1d3 | Speed                               |
+| --------- | ----------------------------------- |
+| 1         | Fast-paced (hurried, excitable)     |
+| 2         | Normal-paced                        |
+| 3         | Slow-paced (thoughtful, deliberate) |
+^random-npc-voice-speed
+
+
+| dice: 1d12 | Tone                                     |
+| ---------- | ---------------------------------------- |
+| 1          | Soft-spoken (gentle, quiet)              |
+| 2          | Warm (friendly, inviting)                |
+| 3          | Cold (distant, harsh)                    |
+| 4          | Gruff (rough, irritated)                 |
+| 5          | Sweet (soothing, charming)               |
+| 6          | Sinister (menacing, sly)                 |
+| 7          | Slurred (lazy or intoxicated)            |
+| 8          | Muttered (unclear, under breath)         |
+| 9          | Drawled (slow and exaggerated syllables) |
+| 10         | Nasal (whiny or sharp)                   |
+| 11         | Breathless (airy, faint)                 |
+| 12         | Sharp (precise, cutting)                 |
+^random-npc-voice-tone
+
+
+| dice: 1d12 | Cadence                                                     |
+| ---------- | ----------------------------------------------------------- |
+| 1          | Pauses (frequently stops mid-sentence)                      |
+| 2          | Rambling (long, unfocused sentences)                        |
+| 3          | Clipped (short, abrupt phrases)                             |
+| 4          | Rhythmic (musical cadence or patterned)                     |
+| 5          | Repetitive phrases ("You know," "As I said," etc.)          |
+| 6          | Monotone (flat, no variation in pitch)                      |
+| 7          | Interrupts self ("Wait—no, listen—")                        |
+| 8          | Drawn-out vowels (elongated sounds, e.g., "weeeeell...")    |
+| 9          | Fast interjections (speaks quickly but pauses at odd times) |
+| 10         | Questioning delivery (ends statements like questions)       |
+| 11         | Stutters (frequent starts and stops)                        |
+| 12         | Overly precise (enunciates every syllable clearly)          |
+^random-npc-voice-cadence
+
+
+| dice: 1d12 | Body Language                                              |
+| ---------- | ---------------------------------------------------------- |
+| 1          | Rigid (formal, upright posture)                            |
+| 2          | Relaxed (slouched, casual stance)                          |
+| 3          | Fidgety (taps, twitches, or fiddles with objects)          |
+| 4          | Looming (leans forward, invades personal space)            |
+| 5          | Withdrawn (avoids eye contact, shrinks back)               |
+| 6          | Cheerful (smiles, laughs often)                            |
+| 7          | Stoic (neutral expression, minimal movement)               |
+| 8          | Skeptical (raises eyebrows, smirks)                        |
+| 9          | Menacing (narrowed eyes, furrowed brows)                   |
+| 10         | Overly expressive (big hand gestures, exaggerated motions) |
+| 11         | Nervous (wrings hands, shuffles feet)                      |
+| 12         | Grandiose (sweeping gestures, puffed chest)                |
+^random-npc-voice-body-language
+
+
 ##### Talents, Mannerisms, and Interaction Trait
 
 | dice: 1d20 | Talents                              |

@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 309.5
   },
   "right": {
     "id": "c37e5cd9d654d368",
@@ -207,7 +207,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,6 +233,10 @@
   },
   "active": "b814f7f7d58bb650",
   "lastOpenFiles": [
+    "characters/Mavinda Sharpbeak.md",
+    "_rand/Random Tables.md",
+    "_rand/Generator - NPC.md",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
     "adventures/C04 The Nature of Magic/2-14  Hemomancy (Finale).md",
@@ -250,14 +255,10 @@
     "creatures/Brackish Trudge.md",
     "creatures/Swampgas Shade.md",
     "creatures/Swamp Naga.md",
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "_ref/Homebrew DM Mechanics.md",
     "_ref/Downtime Activities.md",
     "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
     "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
-    "adventures/C04 The Nature of Magic.md",
-    "other/Lorehold Primer.md",
-    "other/Strixhaven Pennant.md",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",

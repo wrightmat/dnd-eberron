@@ -12,6 +12,9 @@ Orientation:: `dice: [[Random Tables^random-npc-orientation]]`
 Relationship:: `dice: [[Random Tables^random-npc-relationship]]`
 
 Appearance:: `dice: [[Random Tables^random-npc-appearance]]`
+
+Voice:: `dice: [[Random Tables#^random-npc-voice-pitch]]`, `dice: [[Random Tables#^random-npc-voice-speed]]`, `dice: [[Random Tables#^random-npc-voice-tone]]`, `dice: [[Random Tables#^random-npc-voice-cadence]]`, `dice: [[Random Tables#^random-npc-voice-body-language]]`
+
 Talents:: `dice: [[Random Tables^random-npc-talents]]`
 Mannerisms:: `dice: [[Random Tables^random-npc-mannerisms]]`
 Interactions:: `dice: [[Random Tables^random-npc-interactions]]`
