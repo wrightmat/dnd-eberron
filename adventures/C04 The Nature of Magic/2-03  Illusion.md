@@ -36,6 +36,7 @@ Check off as information is received. These should be gathered from Secrets and 
 
 - Use "The Lion, The Witch, and The Wardrobe" as a major inspiration for this adventure, minus the Christian elements.
 - Could turn this into an Austen-esque regency RPG similar to A Court of Fey & Flowers (based partially on the Good Society system).
+- Alternatively, lean into illusion and Thelanis and create a metacurrency that allows the players to change the world in some way - treating it basically like a movie that the players are directing. Just need to make sure it's not too OP so the PCs can just write out the Prince or something similar.
 - Ideas from ChatGPT:
 	- Temporal Illusions: Distinguishing between real and time-shifted illusions.
 	- False Realities: Navigating through altered historical events.
