@@ -38,6 +38,20 @@
               "icon": "lucide-file",
               "title": "Session Zero"
             }
+          },
+          {
+            "id": "8a24bab235a1ab3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-00  Session One Intros"
+            }
           }
         ],
         "currentTab": 1
@@ -230,15 +244,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "97f22b5c9e620780",
+  "active": "b814f7f7d58bb650",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
+    "sessions/C04/Session Zero.md",
+    "characters/Aither Calobra Lightwood.md",
     "sessions/C03/2024-01-25.md",
     "sessions/C03/2024-03-14.md",
     "sessions/C03/2024-02-22.md",
     "sessions/C03/2024-02-15.md",
     "sessions/C03/2024-01-04.md",
-    "sessions/C04/Session Zero.md",
-    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "sessions/C04",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "adventures/C04 The Nature of Magic/2-02  Transmutation.md",
@@ -258,7 +273,6 @@
     "adventures/C04 The Nature of Magic/2-06  Necromancy.md",
     "adventures/C04 The Nature of Magic/2-05  Evocation.md",
     "adventures/C04 The Nature of Magic/2-04  Abjuration.md",
-    "creatures/Murgaxor.md",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",
