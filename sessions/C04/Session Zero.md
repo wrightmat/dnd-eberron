@@ -58,18 +58,13 @@ Magic is everywhere on campus. The campus culture encourages finding magical sol
 	- Exams occur at regular intervals during the campaign, simulating the academic challenges of Strixhaven.
 	- Each exam consists of two skill checks:
 		- A Study Check (completed during downtime) where players prepare for the exam by choosing a relevant skill to roll against a DC, which they can make only once. Success on the Study Check grants advantage on the Exam Check.
-		- An Exam Check (rolled during the exam session) using skills tied to the subject matter.
-			- Both Checks Succeed: Pass with flying colors and gain Inspiration or other rewards.
-			- One Check Succeeds: Pass and gain modest rewards.
-			- Both Checks Fail: Fail the exam, leading to minor consequences (e.g., a damaged reputation or increased rivalry scores).
-		- Pulling an All-Nighter. 
-After pulling an all-nighter, a character gains two
-rerolls to use during the next Testing phase if the
-character succeeds on the ability check. Doing so
-imposes a cost: the character gains 1 level of exhaustion
-that takes effect at the start of the day of
-the Exam. This level of exhaustion can’t be removed
-until after the Exam.
+		- Exam Checks (rolled during the exam session) consist of two rolls using skills tied to the subject matter, rolled against a DC set in the exam information. Re-rolls gained from studying can be used on either check.
+			- **Failed** (Both Checks Fail). No successful ability checks means a character failed, having gotten fewer than half the questions correct. If a character fails an Exam, they must attend tutoring with a random faculty member until they achieve at least a passed Exam in a different Exams encounter. A student who must attend tutoring can’t take part in any Extracurriculars or Jobs (losing any benefit) until they achieve at least a passed Exam during another exam.
+			- **Passed** (One Check Succeeds). One successful ability check means a character passed, having gotten half or more of the questions correct, but not all the questions. The character gains one Student Die, explained below.
+			- **Aced** (Both Checks Succeed). Two successful ability checks mean the character aced the Exam, having gotten all the questions correct. The character gains two Student Dice, explained below.
+	- **Pulling an All-Nighter**. After pulling an all-nighter, a character gains two rerolls to use during the next Testing phase if the character succeeds on the ability check. Doing so imposes a cost: the character gains 1 level of exhaustion that takes effect at the start of the day of the Exam. This level of exhaustion can’t be removed until after the Exam.
+	- **Cheating**. An unscrupulous character can cheat on an Exam. Doing so requires a successful Charisma (Deception) check and a successful Dexterity (Sleight of Hand) check, both using the DC set for the Exam. If a character cheats, they can’t use any rerolls from their Studying phase.
+	- **Student Dice**. A Student Die gained from an Exam is a d4 the player can roll and add to an ability check that the character makes, provided the check uses one of the two skills featured in the Exam. The player can wait until after rolling the d20 before rolling the Student Die, but must do so before you say whether the check succeeds or fails. No more than one Student Die can be rolled per check. After rolling a Student Die, a player can’t roll it again until the character finishes a long rest. Players should note any Student Dice they gain and the skills those dice can apply to on their tracking sheet. At the end of each academic year, players lose any Student Dice their characters have earned from an Exam.
 - **Extracurricular Activities**
 	- Players can join up to two extracurriculars, such as clubs or sports teams. While a student participates in an Extracurricular, they gain a Student Die and a Relationship Point.
 	- Each character gains one Student Die for each Extracurricular they are participating in. A Student Die is a d4 the player can roll and add to an ability check that the character makes, provided the check uses one of the skills listed in the Extracurricular’s description.
