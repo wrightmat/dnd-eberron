@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+                "file": "sessions/C04/Session Zero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-01  Strixhaven Year 1, Term 1"
+              "title": "Session Zero"
             }
           }
         ],
@@ -112,10 +112,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md"
+                "file": "sessions/C04/Session Zero.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-01  Strixhaven Year 1, Term 1"
+              "title": "Outline of Session Zero"
             }
           },
           {
@@ -124,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md"
+                "file": "sessions/C04/Session Zero.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1-01  Strixhaven Year 1, Term 1"
+              "title": "File properties for Session Zero"
             }
           },
           {
@@ -207,8 +207,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,16 +230,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b814f7f7d58bb650",
+  "active": "97f22b5c9e620780",
   "lastOpenFiles": [
+    "sessions/C03/2024-01-25.md",
+    "sessions/C03/2024-03-14.md",
+    "sessions/C03/2024-02-22.md",
+    "sessions/C03/2024-02-15.md",
+    "sessions/C03/2024-01-04.md",
+    "sessions/C04/Session Zero.md",
+    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
+    "sessions/C04",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "adventures/C04 The Nature of Magic/2-02  Transmutation.md",
     "adventures/C04 The Nature of Magic/2-03  Illusion.md",
     "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "characters/Mavinda Sharpbeak.md",
     "_rand/Random Tables.md",
     "_rand/Generator - NPC.md",
-    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "adventures/C04 The Nature of Magic/2-14  Hemomancy (Finale).md",
     "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
     "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
@@ -253,12 +259,6 @@
     "adventures/C04 The Nature of Magic/2-05  Evocation.md",
     "adventures/C04 The Nature of Magic/2-04  Abjuration.md",
     "creatures/Murgaxor.md",
-    "creatures/Brackish Trudge.md",
-    "creatures/Swampgas Shade.md",
-    "creatures/Swamp Naga.md",
-    "_ref/Homebrew DM Mechanics.md",
-    "_ref/Downtime Activities.md",
-    "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",
@@ -279,7 +279,6 @@
     "dnd-eberron/public/_img/Sarlona_Ohr_Kaluun.png",
     "dnd-eberron/public/_img/Sarlona_Nulakesh.png",
     "dnd-eberron/public/_img/Sarlona_Dor_Maleer.png",
-    "dnd-eberron/public/_img",
     "dnd-eberron/canvas_maps/Thronehold.canvas",
     "dnd-eberron/canvas_maps/Mournland.canvas",
     "dnd-eberron/canvas_maps/Labyrinth of the Lantern's Light.canvas",
