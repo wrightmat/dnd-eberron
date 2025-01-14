@@ -52,9 +52,23 @@
               "icon": "lucide-file",
               "title": "1-01  Strixhaven Year 1, Term 1"
             }
+          },
+          {
+            "id": "dcfcc37075627056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ref/Magic - Custom Spells.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magic - Custom Spells"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md"
+                "file": "_ref/Magic - Custom Spells.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-01  Strixhaven Year 1, Term 1"
+              "title": "Outline of Magic - Custom Spells"
             }
           },
           {
@@ -227,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+                "file": "_ref/Magic - Custom Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1-01  Strixhaven Year 1, Term 1"
+              "title": "Outgoing links from Magic - Custom Spells"
             }
           },
           {
@@ -252,7 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,14 +285,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8a24bab235a1ab3c",
+  "active": "dcfcc37075627056",
   "lastOpenFiles": [
+    "_ref/Magic.md",
+    "_ref/Magic - Custom Spells.md",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "_ref/Dungeon Types.md",
+    "_ref/Factions.md",
+    "_ref/Games.md",
+    "_ref/Modular Magic Items (Vestiges).md",
+    "_ref/Mazes Using Cards.md",
+    "_ref/Lingering Injury.md",
+    "adventures/C04 The Nature of Magic.md",
+    "sessions/C04/Session Zero.md",
     "adventures/C04 The Nature of Magic/1-05  Strixhaven Year 3, Term 1.md",
     "adventures/C04 The Nature of Magic/1-04  Strixhaven Year 2, Term 2.md",
     "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
-    "sessions/C04/Session Zero.md",
     "characters/Aither Calobra Lightwood.md",
     "sessions/C03/2024-01-25.md",
     "sessions/C03/2024-03-14.md",
@@ -291,15 +314,6 @@
     "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
     "characters/Mavinda Sharpbeak.md",
     "_rand/Random Tables.md",
-    "_rand/Generator - NPC.md",
-    "adventures/C04 The Nature of Magic/2-14  Hemomancy (Finale).md",
-    "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
-    "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
-    "adventures/C04 The Nature of Magic/2-11  Psionics.md",
-    "adventures/C04 The Nature of Magic/2-10  Artifice.md",
-    "adventures/C04 The Nature of Magic/2-09  Conjuration.md",
-    "adventures/C04 The Nature of Magic/2-08  Divination.md",
-    "adventures/C04 The Nature of Magic/2-07  Enchantment.md",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",

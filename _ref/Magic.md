@@ -55,24 +55,6 @@ While I don't suggest to add any spells or move any from existing schools, that 
 | Hemomancy     | Body    | Maroon  | Sanguinity and Sacrifice     | Shavarath       |                        | CON            |
 | Entropomancy  | Chaos   | Black   | Chaos and Change             | Kythri          | Chaos (Lorehold)       | CHA/WIS?       |
 
-### Custom Spells
-
-**Spell Points** (SP)
-- Points are allocated to a spell based on its level, and are used to build the spell effects.
-- The points available for building a spell are 1 + twice the spell’s level. Cantrips are considered level 0.
-- Additional points are added for each component used in the casting (verbal, somatic, material). Material components with a cost add additional points (see below).
-
-| Material Cost | Additional SP |
-| ------------- | ------------- |
-| 5 gp          | +0.5 SP       |
-| 10 gp         | +1 SP         |
-| 50 gp         | +1.5 SP       |
-| 100 gp        | +2 SP         |
-| 500 gp        | +2.5 SP       |
-| 1,000 gp      | +3 SP         |
-| 5,000 gp      | +3.5 SP       |
-| 25,000 gp     | +4 SP         |
-
 
 ### Additional Subclasses
 
@@ -260,4 +242,3 @@ You take 1d10 force damage if you end your turn inside an object. If you return 
 * Psionics: https://media.wizards.com/2020/dnd/downloads/UA2020_PsionicOptions.pdf
 * Ability Damage: https://forums.giantitp.com/showthread.php?655915-Ability-Damage-Resource-2-0
 * Ability Damage: https://www.dandwiki.com/wiki/SRD:Ability_Score_Loss
-* Custom Spells: https://drive.google.com/file/d/1Jn399HM7bYivdwXMhHGJwd0dlm-5K4XC/view

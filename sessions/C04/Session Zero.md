@@ -32,6 +32,10 @@ Study at Strixhaven isn’t about learning to be a wizard but about learning to 
 subclass or feat; or they manifest magical abilities that aren’t even spells.
 Magic is everywhere on campus. The campus culture encourages finding magical solutions to the most mundane problems, and if characters need access to a spell they can’t cast, they have a strong chance of finding someone who can cast it.
 
+- **Campus and NPC Events**
+	- The book encourages the DM to weave in campus events, from magical pranks to festive celebrations. Events provide opportunities for characters to roleplay, engage with NPCs, and further their goals.
+	- About a third of the time of Strixhaven is designed to be downtime, taking place between the adventures outlined in the book. This is the time where your character is in classes (which we'll usually approach in a very summarized manner), interacting with other students, studying, etc. We'll start basically every session outlining what your characters have been up to over the previous days and weeks.
+	- The campaign includes a diverse cast of NPC students and professors, each with unique personalities and quirks. I will be using a card-based system to select which NPCs are present in various locations as needed.
 - **Magical College System**
 	- Players are sorted into one of five colleges starting in the second year, each with unique themes and magical philosophies:
 		- Lorehold - Explores the past and preserves its lessons for future generations. Also called the College of Archaeomancy.
@@ -73,10 +77,6 @@ Magic is everywhere on campus. The campus culture encourages finding magical sol
 - **Jobs**
 	- A student who works a Job gains 5 gp at the start of each week that they hold the Job. If a student quits during the academic year, they stop earning this money at the end of the week in which they quit.
 	- While a character works a Job, they gain a positive or negative Relationship Point (the player’s choice) with one student NPC at that Job. This represents a coworker with whom the character is often scheduled and with whom they can easily form a connection.
-- **Campus and NPC Events**
-	- The book encourages the DM to weave in campus events, from magical pranks to festive celebrations.
-	- Events provide opportunities for characters to roleplay, engage with NPCs, and further their goals.
-	- The campaign includes a diverse cast of NPC students and professors, each with unique personalities and quirks. I will be using a card-based system to select which NPCs are present in various locations as needed.
 
 ##### Miscellany
 
