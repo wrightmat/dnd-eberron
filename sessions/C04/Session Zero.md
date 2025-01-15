@@ -34,7 +34,11 @@ Magic is everywhere on campus. The campus culture encourages finding magical sol
 
 - **Campus and NPC Events**
 	- The book encourages the DM to weave in campus events, from magical pranks to festive celebrations. Events provide opportunities for characters to roleplay, engage with NPCs, and further their goals.
-	- About a third of the time of Strixhaven is designed to be downtime, taking place between the adventures outlined in the book. This is the time where your character is in classes (which we'll usually approach in a very summarized manner), interacting with other students, studying, etc. We'll start basically every session outlining what your characters have been up to over the previous days and weeks.
+	- About a third of the time of Strixhaven is designed to be downtime, taking place between the adventures outlined in the book. This is the time where your character is in classes (which we'll usually approach in a very summarized manner), interacting with other students, studying, etc. We'll start basically every session outlining what your characters have been up to over the previous days and weeks - I'll tell you how many weeks have passed. For each week, you can focus on one aspect of your school experience, on top of regular class attendance.
+		- Job: gain your 5 gp for the week, and optionally have a scene with a coworker (relationship point)
+		- Extracurricular: optionally have a scene with a coworker (relationship point)
+		- Study: follow the studying rules to gain a student die
+		- Spellcraft: take time to study custom spell creation and gain a spell point
 	- The campaign includes a diverse cast of NPC students and professors, each with unique personalities and quirks. I will be using a card-based system to select which NPCs are present in various locations as needed.
 - **Magical College System**
 	- Players are sorted into one of five colleges starting in the second year, each with unique themes and magical philosophies:
