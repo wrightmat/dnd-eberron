@@ -115,44 +115,43 @@ NB: a spellcaster can only create a spell that works and fits within their base 
 - The ability to spend Spell Points on these features is "unlocked" by completing the course "History of Magical Features" in the third year.
 - As many features as desired can be stacked on the spell, as long as the Spell Point cost can be paid (and the stacked effects are logical, as determined by the DM).
 
-| Feature                                                      | Spell Points       |
-| ------------------------------------------------------------ | ------------------ |
-| Extinguishes or sets objects on fire                         | -1                 |
-| Lightly obscures area                                        | -1                 |
-| Difficult terrain                                            | -1                 |
-| Simple static illusion (including disguise)                  | -1                 |
-| Dispels gas and vapors                                       | -1                 |
-| Automatic movement each turn (rolling gas or flowing water)  | -1                 |
-| Move the spell as an action                                  | -2                 |
-| Heavily obscures area                                        | -2                 |
-| Advantage/disadvantage on next attack                        | -2                 |
-| +1d4 to attacks and saves                                    | -2                 |
-| Knock prone                                                  | -2                 |
-| Charm                                                        | -2                 |
-| Lose concentration                                           | -2                 |
-| Adjustable illusion                                          | -3                 |
-| Move the spell as a bonus action                             | -3                 |
-| Effect lasts for the spell's duration                        | -3                 |
-| Blind (or deafen)                                            | -4                 |
-| Suggestion                                                   | -4                 |
-| Restrain                                                     | -4                 |
-| Incapacitate                                                 | -4                 |
-| Stun or Paralyze                                             | -8                 |
-| Raise from dead                                              | -16                |
-| Repeat use each action                                       | Action cost        |
-| Repeat use each bonus action                                 | Action cost + 1    |
-| Move creature                                                | Distance / 5’      |
-| Move object                                                  | Distance / 10’     |
-| Light                                                        | Bright range / 20’ |
-| Level scaling: increase damage based on table                | -1 per level       |
-| Level scaling: increase area, duration, or number of targets | -2 per level       |
-| Level scaling: increase Save DC by 1                         | -2 per level       |
-| Level scaling: add other new feature                         | -2 per level       |
-| Target knows it was charmed                                  | +1                 |
-| Ends if you wear armor                                       | +1                 |
-| Ends if target takes damage or is harmed                     | +1                 |
-| Ends if spell is re-cast                                     | +1                 |
-| Dispersed by strong wind or fire                             | +2                 |
+| Feature                                                                              | Spell Points       |
+| ------------------------------------------------------------------------------------ | ------------------ |
+| Extinguishes or sets objects on fire                                                 | -1                 |
+| Lightly obscures area                                                                | -1                 |
+| Difficult terrain                                                                    | -1                 |
+| Simple static illusion (including disguise)                                          | -1                 |
+| Dispels gas and vapors                                                               | -1                 |
+| Automatic movement each turn (rolling gas or flowing water)                          | -1                 |
+| Move the spell as an action                                                          | -2                 |
+| Heavily obscures area                                                                | -2                 |
+| Advantage/disadvantage on next attack                                                | -2                 |
+| +1d4 to attacks and saves                                                            | -2                 |
+| Knock prone                                                                          | -2                 |
+| Lose concentration                                                                   | -2                 |
+| Effect ends on a successful save                                                     | -2                 |
+| Blinded, deafened, frightened (single round or requiring line of sight), or grappled | -2                 |
+| Adjustable illusion                                                                  | -3                 |
+| Move the spell as a bonus action                                                     | -3                 |
+| Effect lasts for the spell's duration                                                | -3                 |
+| Restrained, charmed, frightened (persistent), or poisoned                            | -4                 |
+| Stunned, paralyzed, or incapacitated                                                 | -8                 |
+| Petrified or unconscious                                                             |                    |
+| Raise from dead                                                                      | -16                |
+| Repeat use each action                                                               | Action cost        |
+| Repeat use each bonus action                                                         | Action cost + 1    |
+| Move creature                                                                        | Distance / 5’      |
+| Move object                                                                          | Distance / 10’     |
+| Light                                                                                | Bright range / 20’ |
+| Level scaling: increase damage based on table                                        | -1 per level       |
+| Level scaling: increase area, duration, or number of targets                         | -2 per level       |
+| Level scaling: increase Save DC by 1                                                 | -2 per level       |
+| Level scaling: add other new feature                                                 | -2 per level       |
+| Target knows it was charmed                                                          | +1                 |
+| Ends if you wear armor                                                               | +1                 |
+| Ends if target takes damage or is harmed                                             | +1                 |
+| Ends if spell is re-cast                                                             | +1                 |
+| Dispersed by strong wind or fire                                                     | +2                 |
 
 #### Finalizing Spell Creation
 
