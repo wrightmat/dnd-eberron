@@ -32,11 +32,11 @@
 - The players escape into the streets of Wroat, a city brimming with tension as Nebik’s regime grows increasingly oppressive.
 - Nebik uses Scrying and Clairvoyance to track potential threats. Players can detect these surveillance spells with Detect Magic and find ways to counter them (Nondetection, antimagic zones, or physical obstructions).
 - Clue Trail: The players discover that encoded notes, magical markings, and other hidden messages are scattered throughout the city, left by Nebik’s dissenters.
-
+- This should be run as a full mystery, complete with multiple locations and clues. Goal is probably to find out how Nebik managed this and where he's currently located.
 
 ###### Confronting Nebik
  - [ ] 
-- 
+- Straight up combat!
 
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.
@@ -45,11 +45,7 @@ Check off as information is received. These should be gathered from Secrets and 
 
 ### DM Notes and Random Tables
 
-- Ideas from ChatGPT:
-	- Detective Work: Using spells like Detect Magic, Detect Good and Evil, and Detect Poison and Disease to uncover hidden dangers and clues left by the BBEG.
-	- Corrupted Prophecies: Interpreting and rectifying corrupted prophecies that the Eye now produces, which lead the players into traps or false leads.
-	- Astral Projections: Entering the Astral Plane to retrieve a lost prophecy fragment hidden by the BBEG.
-	- Time Scrying: Using scrying spells to locate the BBEG and track his movements through different points in time.
+- 
 
 ### References
 

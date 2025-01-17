@@ -59,16 +59,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-09  Conjuration.md",
+                "file": "adventures/C04 The Nature of Magic/2-08  Divination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-09  Conjuration"
+              "title": "2-08  Divination"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic.md"
+                "file": "adventures/C04 The Nature of Magic/2-08  Divination.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of C04 The Nature of Magic"
+              "title": "Outline of 2-08  Divination"
             }
           },
           {
@@ -285,11 +285,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8a24bab235a1ab3c",
+  "active": "dcfcc37075627056",
   "lastOpenFiles": [
     "adventures/C04 The Nature of Magic/2-09  Conjuration.md",
-    "locations/Greenheart.md",
     "adventures/C04 The Nature of Magic.md",
+    "locations/Greenheart.md",
     "adventures/C04 The Nature of Magic/2-08  Divination.md",
     "adventures/C04 The Nature of Magic/2-07  Enchantment.md",
     "adventures/C04 The Nature of Magic/2-06  Necromancy.md",
