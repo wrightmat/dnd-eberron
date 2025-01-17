@@ -86,10 +86,10 @@
 * [[2-03  Illusion]]: Pylas Pyrial in Zilargo/Thelanis, The Prince of Frost, and a court intrigue adventure.
 * [[2-04  Abjuration]]: Morgrave University in Sharn, and a city-rampaging combat adventure.
 * [[2-05  Evocation]]: Rekkenmark Academy in Karrnath, and ???
-* [[2-06  Necromancy]]: Xen'drik and a necromantic war between two factions
-* [[2-07  Enchantment]]: University of Wynarn in Fairhaven, Aundair, and ???
-* [[2-08  Divination]]: The Citadel in Wroat, the King's Dark Lanterns (and Wands), and a pre-cog arrest
-* [[2-09  Conjuration]]: Oalian, Greenheart in the Eldeen Reaches, and ???
+* [[2-06  Necromancy]]: The jungles of Xen'drik, and a necromantic war between two factions.
+* [[2-07  Enchantment]]: A small town in Aundair, and memories modified leading to alternative lives lived.
+* [[2-08  Divination]]: The Citadel in Wroat, the King's Dark Lanterns (and Wands), and a pre-cog arrest.
+* [[2-09  Conjuration]]: Greenheart in the Eldeen Reaches, Oalian, and a dungeon crawl inside of a living tree.
 * [[2-10  Artifice]]: Lord of Blades, The Mournland, and ???
 * [[2-11  Psionics]]: Adar in Sarlona, and ???
 
