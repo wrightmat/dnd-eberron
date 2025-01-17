@@ -6,9 +6,12 @@
 
 ### Characters and Locations
 
-* 
+* **Professor Korynth Alshain** (male human, Head of Abjuration Studies). A meticulous scholar who helped create the Aegis Matrix, now wracked with guilt over its failure. Despite his reserved demeanor, he’s determined to see it restored.
+* **Ryn Stormhold** (non-binary half-orc, Captain of the University Guard). A pragmatic and battle-hardened defender of Morgrave University, skeptical of outsiders. They aid the players with tactical advice and defenses against the Arcane Devourer.
+* **Archivist Thariel** (female elf, Keeper of Magical Relics). A nervous but brilliant curator of the Vault of Forgotten Relics, deeply protective of its treasures. She provides cryptic guidance on handling rogue artifacts and hints at Oriq involvement.
+* **Arcane Devourer**. A horrifying magical construct that consumes magic, radiating an antimagic field. It was unleashed by the Aegis Matrix’s failure and must be weakened before direct confrontation.
 
-* **Morgrave University, Sharn**
+* **Morgrave University, [[Sharn]]**
 
 ### Scenes and Situations
 
@@ -36,11 +39,13 @@
 ###### Reassembling the Aegis Matrix
  - [ ] 
 - The components must be reassembled in the Central Ward Nexus, a secure chamber beneath the university. This process involves aligning the components into their proper configuration to restore the artifact’s protective power.
-- Probably need some sort of cool puzzle
+- Probably need some sort of cool puzzle here....
 
 ###### Confronting the Arcane Devourer
  - [ ] 
-- 
+- With the Aegis Matrix restored, the players can weaken the Arcane Devourer. The restored wards disrupt its antimagic aura, allowing the players to fight it directly. Key mechanics:
+	- The Matrix projects protective fields, giving the players safe zones where they can prepare attacks or regroup.
+	- The Devourer’s abilities escalate as it takes damage, forcing players to stay mobile and adapt.
 
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.
@@ -49,11 +54,8 @@ Check off as information is received. These should be gathered from Secrets and 
 
 ### DM Notes and Random Tables
 
-- A large monster that consumes magic, based on the Arcanaton from Pathfinder (and possibly taking the Antimagic Cone from the Beholder), is rampaging across Morgrave. Maybe named an Arcane Devourer (like an Intellect Devourer), possibly with appearance and other traits based on the Eldrazi from MtG. The players may need to find a way to weaken it before they can take it on? But with little help from anyone else, since all their magic is gone.
-- Ideas from ChatGPT:
-	- Protective Barriers: Navigating through layers of magical barriers within the sanctum.
-	* Guardian Constructs: Battling constructs enhanced with abjuration spells like Shield and Warding Bond.
-	* Counterspell Duels: Engaging in duels where counterspells and dispels are crucial to victory.
+- **Arcane Devourer** (inspired by Intellect Devourer). A large monster that consumes magic, based on the Arcanaton from Pathfinder (and possibly taking the Antimagic Cone from the Beholder), is rampaging across Morgrave. Possibly with appearance and other traits based on the Eldrazi from MtG.
+	- Need to create a custom stat block for this!
 
 ### References
 

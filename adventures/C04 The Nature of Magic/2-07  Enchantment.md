@@ -2,15 +2,34 @@
 
 ### Background and Hook(s)
 
-* 
+* The players awaken in Aundair, with no memory of their lives as adventurers. They find themselves living mundane but fulfilling lives, each tailored to their desires and personalities. This is the result of a powerful modify memory spell cast by an enigmatic enchanter, intended to neutralize their threat and prevent them from interfering with a larger plan.
+* As the adventure unfolds, subtle inconsistencies in their lives begin to appear. The players must piece together the truth, recover their memories, and break free from the enchantment before they lose themselves entirely.
 
 ### Characters and Locations
 
 * 
 
-* **University of Wynarn, Aundair**
+* **[[Aundair]]**
 
 ### Scenes and Situations
+
+###### Phase 1: Comfortable Lives
+ - [ ] 
+- Players begin immersed in their false lives. Create opportunities for them to engage with their crafted roles (e.g., running a shop, teaching students, raising a family).
+- Introduce small inconsistencies — a wrong name, a missing detail, or a sense of déjà vu. These are subtle and meant to provoke curiosity. No Wisdom saving throws should be made at this point.
+Player Agency: Encourage roleplaying as they adapt to their new lives and react to the inconsistencies. No immediate pressure to uncover the truth, allowing immersion.
+
+###### Scene
+ - [ ] 
+- 
+
+###### Scene
+ - [ ] 
+- 
+
+###### Scene
+ - [ ] 
+- 
 
 ###### Scene
  - [ ] 
@@ -23,11 +42,9 @@ Check off as information is received. These should be gathered from Secrets and 
 
 ### DM Notes and Random Tables
 
-- Use of the modify memory spell by a bad guy to trick the players into believing that they're not adventurers and instead just settled down in Aundair (to maybe even live an alternative life). Mix between Fantasy High and "Inner Light" from Star Trek TNG. Could even allow the players to live out years as a montage like in the SG1 episode "Unending."
-- Ideas from ChatGPT:
-	- Mind-Controlled Agents: Battling charmed figures from different timelines.
-	- Disenchantment Ritual: Performing a ritual to break charms without affecting the timeline.
-	- Persuasion Duels: Engaging in social challenges to outwit and break enchantments.
+- Each player begins the adventure living a carefully crafted alternative life, based on their character’s desires or fears. A good way to craft this could be to fulfill whatever the characters' motivation is and present that as their life.
 
 ### References
 
+- "Inner Light" from Star Trek: TNG
+- "Unending" from Stargate: SG-1 (living out years as a montage)

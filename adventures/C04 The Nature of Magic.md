@@ -82,9 +82,9 @@
 
 * This act is marked by the players being teleported to Khorvaire. None of the PCs can use any magical spells or magic items (although the world around them seems largely normal) until they investigate and address that school of magic (in the appropriate adventure, as outlined below). They encounter a local scholar who reveals that, while no widespread calamities have occurred yet, magic has started behaving strangely in subtle ways.
 * Malakar and his Oriq are trying to wipe out the different schools of magic by eliminating any master of that school (usually by going back in time and eliminating them from the timeline), or disrupting the education of it through the major academic organization. At each nexus, a dragonshard is found somewhere nearby, embedded in the ground (with an very high Arcana check revealing that it appears to function to channel magic).
-* [[2-02  Transmutation]]: Mordain the Fleshweaver (Mordain's Hall in Droaam), and a time travel adventure
-* [[2-03  Illusion]]: Korranberg and Pylas Pyrial in Zilargo, and The Prince of Frost
-* [[2-04  Abjuration]]: Morgrave University in Sharn, and ???
+* [[2-02  Transmutation]]: Mordain the Fleshweaver (Mordain's Hall in Droaam), and a time travel adventure.
+* [[2-03  Illusion]]: Pylas Pyrial in Zilargo/Thelanis, The Prince of Frost, and a court intrigue adventure.
+* [[2-04  Abjuration]]: Morgrave University in Sharn, and a city-rampaging combat adventure.
 * [[2-05  Evocation]]: Rekkenmark Academy in Karrnath, and ???
 * [[2-06  Necromancy]]: Xen'drik and a necromantic war between two factions
 * [[2-07  Enchantment]]: University of Wynarn in Fairhaven, Aundair, and ???
