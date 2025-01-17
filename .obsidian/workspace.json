@@ -59,12 +59,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ref/Magic - Custom Spells.md",
+                "file": "adventures/C04 The Nature of Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic - Custom Spells"
+              "title": "C04 The Nature of Magic"
+            }
+          },
+          {
+            "id": "62048ef2e65fb37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C04 The Nature of Magic/2-02  Transmutation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-02  Transmutation"
             }
           }
         ],
@@ -140,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ref/Magic - Custom Spells.md"
+                "file": "adventures/C04 The Nature of Magic.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Magic - Custom Spells"
+              "title": "Outline of C04 The Nature of Magic"
             }
           },
           {
@@ -287,9 +301,15 @@
   },
   "active": "dcfcc37075627056",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/2-02  Transmutation.md",
+    "adventures/C04 The Nature of Magic.md",
+    "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
+    "adventures/C04 The Nature of Magic/2-10  Artifice.md",
+    "adventures/C04 The Nature of Magic/2-11  Psionics.md",
+    "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
+    "_ref/Magic - Custom Spells.md",
     "sessions/C04/Session Zero.md",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
-    "_ref/Magic - Custom Spells.md",
     "_ref/Magic.md",
     "_ref/Dungeon Types.md",
     "_ref/Factions.md",
@@ -297,7 +317,6 @@
     "_ref/Modular Magic Items (Vestiges).md",
     "_ref/Mazes Using Cards.md",
     "_ref/Lingering Injury.md",
-    "adventures/C04 The Nature of Magic.md",
     "adventures/C04 The Nature of Magic/1-05  Strixhaven Year 3, Term 1.md",
     "adventures/C04 The Nature of Magic/1-04  Strixhaven Year 2, Term 2.md",
     "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
@@ -309,11 +328,6 @@
     "sessions/C03/2024-02-15.md",
     "sessions/C03/2024-01-04.md",
     "sessions/C04",
-    "adventures/C04 The Nature of Magic/2-02  Transmutation.md",
-    "adventures/C04 The Nature of Magic/2-03  Illusion.md",
-    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
-    "characters/Mavinda Sharpbeak.md",
-    "_rand/Random Tables.md",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
     "canvas_maps/Thronehold.canvas",

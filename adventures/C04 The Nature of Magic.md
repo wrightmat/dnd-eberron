@@ -86,7 +86,7 @@
 * [[2-03  Illusion]]: Korranberg and Pylas Pyrial in Zilargo, and The Prince of Frost
 * [[2-04  Abjuration]]: Morgrave University in Sharn, and ???
 * [[2-05  Evocation]]: Rekkenmark Academy in Karrnath, and ???
-* [[2-06  Necromancy]]: Xen'drik and a necromatic war between two factions
+* [[2-06  Necromancy]]: Xen'drik and a necromantic war between two factions
 * [[2-07  Enchantment]]: University of Wynarn in Fairhaven, Aundair, and ???
 * [[2-08  Divination]]: The Citadel in Wroat, the King's Dark Lanterns (and Wands), and a pre-cog arrest
 * [[2-09  Conjuration]]: Oalian, Greenheart in the Eldeen Reaches, and ???
