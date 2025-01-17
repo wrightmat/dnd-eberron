@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-03  Illusion.md",
+                "file": "adventures/C04 The Nature of Magic/2-04  Abjuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-03  Illusion"
+              "title": "2-04  Abjuration"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-03  Illusion.md"
+                "file": "adventures/C04 The Nature of Magic/2-04  Abjuration.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-03  Illusion"
+              "title": "Outline of 2-04  Abjuration"
             }
           },
           {
@@ -287,10 +287,11 @@
   },
   "active": "dcfcc37075627056",
   "lastOpenFiles": [
-    "adventures/C04 The Nature of Magic.md",
     "locations/Rhaan (Thelanis).md",
-    "locations/Pylas Pyrial.md",
+    "adventures/C04 The Nature of Magic/2-04  Abjuration.md",
     "adventures/C04 The Nature of Magic/2-03  Illusion.md",
+    "adventures/C04 The Nature of Magic.md",
+    "locations/Pylas Pyrial.md",
     "adventures/C04 The Nature of Magic/2-02  Transmutation.md",
     "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
     "adventures/C04 The Nature of Magic/2-10  Artifice.md",
@@ -312,7 +313,6 @@
     "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "characters/Aither Calobra Lightwood.md",
     "sessions/C03/2024-01-25.md",
-    "sessions/C03/2024-03-14.md",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
