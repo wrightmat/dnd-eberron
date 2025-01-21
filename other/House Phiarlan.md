@@ -1,20 +1,10 @@
 ---
-Image: "![https://static.wikia.nocookie.net/eberron/images/7/7a/Phiarlan.jpg/revision/latest?cb=20220509101034|250](https://static.wikia.nocookie.net/eberron/images/7/7a/Phiarlan.jpg/revision/latest?cb=20220509101034)"
 Type: Dragonmarked House
 Leader: "\rBaron Elvinor Elorrenthi d'Phiarlan"
 ---
  #organization #dragonmarks 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Leader** | `=this.Leader` |
-> ###### Comments
-> `=this.Comments`
+![https://static.wikia.nocookie.net/eberron/images/7/7a/Phiarlan.jpg/revision/latest?cb=20220509101034|ws-med|right](https://static.wikia.nocookie.net/eberron/images/7/7a/Phiarlan.jpg/revision/latest?cb=20220509101034)
 
 House Phiarlan is a dragonmarked house known throughout Khorvaire, although they are now based in Sharn, Breland, after their former base of operation in Cyre was destroyed in the Mourning. To the public, Phiarlan is a house of entertainment composed of bards, actors, artists, and acrobats, though in secret it is a house of spies. The public face of House Phiarlan is the Entertainers and Artisans Guild, which manages most of the entertainment industry of Khorvaire, but they also secretly run the Serpentine Table, which collects and sells information.
 

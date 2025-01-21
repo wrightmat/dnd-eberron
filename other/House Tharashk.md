@@ -1,20 +1,10 @@
 ---
-Image: "![https://static.wikia.nocookie.net/eberron/images/9/96/Tharashk.jpg/revision/latest?cb=20220509101122|250](https://static.wikia.nocookie.net/eberron/images/9/96/Tharashk.jpg/revision/latest?cb=20220509101122)"
 Type: Dragonmarked House
 Leader: "The Triumvirate: Daric d'Velderan, Khundar'aashta, Maagrim Torrn d'Tharashk"
 ---
  #organization #dragonmarks 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Leader** | `=this.Leader` |
-> ###### Comments
-> `=this.Comments`
+![https://static.wikia.nocookie.net/eberron/images/9/96/Tharashk.jpg/revision/latest?cb=20220509101122|ws-med|right](https://static.wikia.nocookie.net/eberron/images/9/96/Tharashk.jpg/revision/latest?cb=20220509101122)
 
 House Tharashk is a human and half-orc dragonmarked house that has recently begun spreading throughout Khorvaire, though it is still heavily based in the Shadow Marches. The house is the second youngest of the Dragonmarked houses. Its members are renowned prospectors, bounty hunters, and inquisitives. Tharashk is the only house to hire monstrous laborers and mercenaries from Droaam, with whom they have an alliance.
 
@@ -41,7 +31,7 @@ Unlike other dragonmarked houses, Tharashk's clans are incredibly important and 
 * **Khundar'aashta** (NE male half-orc rogue). Dragonmark heir and one of the three who make up the ruling Triumvirate of House Tharashk. He is also the leader of the Aashta clan.
 * **Maagrim Torrn d'Tharashk** (NN female half-orc druid). Heir of Siberys and one of the three triumvirs who make up the ruling council of House Tharashk, the Triumvirate. She is also the leader of Clan Torrn and is a supporter of the clan's secret organization, the Valshar'ak Seal, though she is unable to take a direct role within the Seal as her duties as house triumvir prevent it.
 * **[[Logo d'Tharashk]]** (LE male orc). Member of both the Finders Guild and the Clifftop Guild at Sharn, Breland.
-* **[[Boraz d’Tharashk]]** (male half-orc). Member of the Finders Guild in the Eldeen Reaches.
+* **Boraz d’Tharashk** (male half-orc). Member of the Finders Guild in the Eldeen Reaches.
 * **Lord Khundran d'Torrn** (LN male half-orc). Leader of House Tharashk operations in Graywall in Droaam.
 * **Urlev Torrn** (NN male half-orc druid). Gatekeeper Druid and the venerable leader of a secret society within House Tharashk known as the Valshar'ak Seal.
 * **Kalaash'arrna** (NE male half-orc). Inquisitive of House Tharashk who runs an independent but licensed inquisitive service named Information Acquisition (Lhash'ta'raak in Orcish) or "InAc" in Sharn, Breland.

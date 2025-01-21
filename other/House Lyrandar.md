@@ -1,20 +1,10 @@
 ---
-Image: "![https://static.wikia.nocookie.net/eberron/images/c/cf/Dragonmarked_House_COA_Lyrandar.jpg/revision/latest?cb=20220509100831|250](https://static.wikia.nocookie.net/eberron/images/c/cf/Dragonmarked_House_COA_Lyrandar.jpg/revision/latest?cb=20220509100831)"
 Type: Dragonmarked House
 Leader: Baron Esravash d'Lyrandar
 ---
  #organization #dragonmarks 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Leader** | `=this.Leader` |
-> ###### Comments
-> `=this.Comments`
+![https://static.wikia.nocookie.net/eberron/images/c/cf/Dragonmarked_House_COA_Lyrandar.jpg/revision/latest?cb=20220509100831|ws-med|right](https://static.wikia.nocookie.net/eberron/images/c/cf/Dragonmarked_House_COA_Lyrandar.jpg/revision/latest?cb=20220509100831)
 
 House Lyrandar is a half-elven dragonmarked house operating throughout Khorvaire with its enclave located on Stormhome, an island city-state just north of Aundair.
 

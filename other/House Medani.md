@@ -1,20 +1,10 @@
 ---
-Image: "![https://static.wikia.nocookie.net/eberron/images/e/e2/Medani.jpg/revision/latest?cb=20220509100956|250](https://static.wikia.nocookie.net/eberron/images/e/e2/Medani.jpg/revision/latest?cb=20220509100956)"
 Type: Dragonmarked House
 Leader: Baron Trelib d'Medani
 ---
  #organization #dragonmarks 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Leader** | `=this.Leader` |
-> ###### Comments
-> `=this.Comments`
+![https://static.wikia.nocookie.net/eberron/images/e/e2/Medani.jpg/revision/latest?cb=20220509100956|ws-med|right](https://static.wikia.nocookie.net/eberron/images/e/e2/Medani.jpg/revision/latest?cb=20220509100956)
 
 House Medani is a half-elven dragonmarked house that is known as the smallest and one of the youngest houses. However, despite its size and age, its members are seemingly everywhere, working as operatives in various fields such as bodyguards, sentries, and inquisitives. Unlike most dragonmarked houses, Medani has a strong geographical location as the majority of its members are Brelish nationals and live in Breland.
 

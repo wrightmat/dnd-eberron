@@ -1,20 +1,10 @@
 ---
-Image: "![https://static.wikia.nocookie.net/eberron/images/9/94/Thuranni1.jpg/revision/latest?cb=20140703163344|250](https://static.wikia.nocookie.net/eberron/images/9/94/Thuranni1.jpg/revision/latest?cb=20140703163344)"
 Type: Dragonmarked House
 Leader: Baron Elar d'Thuranni
 ---
  #organization #dragonmarks 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Leader** | `=this.Leader` |
-> ###### Comments
-> `=this.Comments`
+![https://static.wikia.nocookie.net/eberron/images/9/94/Thuranni1.jpg/revision/latest?cb=20140703163344|ws-med|right](https://static.wikia.nocookie.net/eberron/images/9/94/Thuranni1.jpg/revision/latest?cb=20140703163344)
 
 House Thuranni is an elven dragonmarked house that has split off of House Phiarlan and become their direct rivals competing in entertainment and espionage. House Thuranni is the youngest of the dragonmarked houses, having split from House Phiarlan during the Last War. To the public, agents of House Thuranni are artists, entertainers and beautiful courtiers, however, like Phiarlan, Thuranni also offers more clandestine services as well. House Thuranni's specialty is in assassinations.
 

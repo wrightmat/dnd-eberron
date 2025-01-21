@@ -1,20 +1,10 @@
 ---
-Image: "![https://static.wikia.nocookie.net/eberron/images/7/79/House_Sivis_coat_of_arms.jpg/revision/latest?cb=20220509100853|250](https://static.wikia.nocookie.net/eberron/images/7/79/House_Sivis_coat_of_arms.jpg/revision/latest?cb=20220509100853)"
 Type: Dragonmarked House
 Leader: Doyenne Lysse Lyrriman d'Sivis
 ---
  #organization #dragonmarks 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Leader** | `=this.Leader` |
-> ###### Comments
-> `=this.Comments`
+![https://static.wikia.nocookie.net/eberron/images/7/79/House_Sivis_coat_of_arms.jpg/revision/latest?cb=20220509100853|ws-med|right](https://static.wikia.nocookie.net/eberron/images/7/79/House_Sivis_coat_of_arms.jpg/revision/latest?cb=20220509100853)
 
 House Sivis is a gnome dragonmarked house operating throughout Khorvaire though they remain strongly based out of Zilargo.
 

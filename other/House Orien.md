@@ -1,20 +1,10 @@
 ---
-Image: "![https://static.wikia.nocookie.net/eberron/images/2/24/Orien.jpg/revision/latest?cb=20220509101018|250](https://static.wikia.nocookie.net/eberron/images/2/24/Orien.jpg/revision/latest?cb=20220509101018)"
 Type: Dragonmarked House
 Leader: Baron Kwanti d'Orien
 ---
  #organization #dragonmarks
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Leader** | `=this.Leader` |
-> ###### Comments
-> `=this.Comments`
+![https://static.wikia.nocookie.net/eberron/images/2/24/Orien.jpg/revision/latest?cb=20220509101018|ws-med|right](https://static.wikia.nocookie.net/eberron/images/2/24/Orien.jpg/revision/latest?cb=20220509101018)
 
 House Orien is a human dragonmarked house found throughout Khorvaire, with its major enclave located in Passage, Aundair. The house specializes in courier services and land-based transport. Although House Cannith invented the lightning rail, House Orien are the ones who operate and manage it.
 

@@ -1,20 +1,10 @@
 ---
-Image: "![https://static.wikia.nocookie.net/eberron/images/b/bf/Dragonmarked_House_COA_Cannith.jpg/revision/latest?cb=20220509100729|250](https://static.wikia.nocookie.net/eberron/images/b/bf/Dragonmarked_House_COA_Cannith.jpg/revision/latest?cb=20220509100729)"
 Type: Dragonmarked House
 Leader: Zorlan d'Cannith (East), Merrix d'Cannith (South), Jorlanna d'Cannith (West)
 ---
- #organization #dragonmarks [[Prism]]
+ #organization #dragonmarks 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Leader** | `=this.Leader` |
-> ###### Comments
-> `=this.Comments`
+![https://static.wikia.nocookie.net/eberron/images/b/bf/Dragonmarked_House_COA_Cannith.jpg/revision/latest?cb=20220509100729|ws-med|right](https://static.wikia.nocookie.net/eberron/images/b/bf/Dragonmarked_House_COA_Cannith.jpg/revision/latest?cb=20220509100729)
 
 House Cannith is a human dragonmarked house whose members are well known for their innovation and advancements in technology. They are responsible for technological wonders such as the warforged and the lightning rail. House Cannith provides repair services and the house's gorgon mark is a known and trusted symbol that appears on magical and mundane items. Through past wars, Cannith have become the most politically powerful dragonmarked house.
 
@@ -68,11 +58,11 @@ Jorlanna’s cousin was Aaren, making her second cousin to Merrix (I think), and
 * **Lady [[Elaydren d’Vown]]**. Noble non-heir member of House Cannith who resides in Sharn.
 * **[[Lord of Blades (Aaren d’Cannith)]]**. A former member of House Cannith and son of Merrix d'Cannith, the creator of the warforged. Aaren advanced his father's creation by giving sapience to the warforged, a discovery that was coopted by his father.
 * **Haestus d'Cannith** (CE male forgewraith [formerly human]). Once an amateur necromancer and the overseer of a House Cannith facility before his death at the hands of a Karrnathi raiding party. Haestus returned from the dead as a forgewraith, and still haunts his old facility.
-* Starrin d'Cannith. The last patriarch of the unified House Cannith.
-* Norran d'Cannith. The only son of former Cannith patriarch Starrin d'Cannith, Norran died along with his father on the Day of Mourning in Cyre. Norran was the only direct descendant of Starrin and next in line to rule House Cannith, but Norran had fathered no children himself. With his death the house fell into chaos as to who would rule in his stead.
-* Merrix d'Cannith (Senior). A former member of House Cannith and the creator of the warforged. His son Aaren d'Cannith advanced the warforged by granting them sentience. His grandson of the same name, Merrix d'Cannith, is the current Baron of Cannith South.
-* Hadran d'Cannith. Proposed the wizard organization known as The Twelve after the War of the Mark as a way to promote unity between the dragonmarked houses and pursue joint research of dragonmarks and other arcane magical phenomenon.
-* Aleisa d'Cannith. Mother of Lei d'Cannith.
+* **Starrin d'Cannith**. The last patriarch of the unified House Cannith.
+* **Norran d'Cannith**. The only son of former Cannith patriarch Starrin d'Cannith, Norran died along with his father on the Day of Mourning in Cyre. Norran was the only direct descendant of Starrin and next in line to rule House Cannith, but Norran had fathered no children himself. With his death the house fell into chaos as to who would rule in his stead.
+* **Merrix d'Cannith (Senior)**. A former member of House Cannith and the creator of the warforged. His son Aaren d'Cannith advanced the warforged by granting them sentience. His grandson of the same name, Merrix d'Cannith, is the current Baron of Cannith South.
+* **Hadran d'Cannith**. Proposed the wizard organization known as The Twelve after the War of the Mark as a way to promote unity between the dragonmarked houses and pursue joint research of dragonmarks and other arcane magical phenomenon.
+* **Aleisa d'Cannith**. Mother of Lei d'Cannith.
 
 ### Locations
 

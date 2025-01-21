@@ -1,22 +1,12 @@
 ---
-Image: "![https://static.wikia.nocookie.net/eberron/images/e/e8/Vadalis.jpg/revision/latest?cb=20220509101134|250](https://static.wikia.nocookie.net/eberron/images/e/e8/Vadalis.jpg/revision/latest?cb=20220509101134)"
 Type: Dragonmarked House
 Leader: "\rDalin d'Vadalis"
 ---
  #organization #dragonmarks 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Leader** | `=this.Leader` |
-> ###### Comments
-> `=this.Comments`
+![https://static.wikia.nocookie.net/eberron/images/e/e8/Vadalis.jpg/revision/latest?cb=20220509101134|ws-med|right](https://static.wikia.nocookie.net/eberron/images/e/e8/Vadalis.jpg/revision/latest?cb=20220509101134)
 
-House Vadalis, also known as the House of Handling', is a human dragonmarked house bearing the Mark of Handling that operates throughout Khorvaire. With the power to calm and control beasts, the house's most significant trade is in the breeding and training of animals. They also maintain the Handlers Guild, which dominates animal-related industries. Their headquarters are at Foalswood in the Eldeen Reaches, where the Mark of Handling originally appeared about 2,000 years ago.
+House Vadalis, also known as the House of Handling, is a human dragonmarked house bearing the Mark of Handling that operates throughout Khorvaire. With the power to calm and control beasts, the house's most significant trade is in the breeding and training of animals. They also maintain the Handlers Guild, which dominates animal-related industries. Their headquarters are at Foalswood in the Eldeen Reaches, where the Mark of Handling originally appeared about 2,000 years ago.
 
 House Vadalis possesses the Mark of Handling. This dragonmark grants various magical abilities related to calming and controlling animals and bestows a primal bond to the natural world, allowing them to domesticate even the most exotic and difficult beasts. Vadalis has turned this gift into a booming business in magebred animals and become industry leaders in livestock breeding and animal training. While all members of House Vadalis are humans, not all members carry the Mark of Handling, but they may still work within the house.
 

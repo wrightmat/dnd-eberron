@@ -1,20 +1,10 @@
 ---
-Image: "![https://static.wikia.nocookie.net/eberron/images/2/21/Jorasco.jpg/revision/latest?cb=20220509100919|250](https://static.wikia.nocookie.net/eberron/images/2/21/Jorasco.jpg/revision/latest?cb=20220509100919)"
 Type: Dragonmarked House
 Leader: Baron Ulara d'Jorasco
 ---
  #organization #dragonmarks 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Leader** | `=this.Leader` |
-> ###### Comments
-> `=this.Comments`
+![https://static.wikia.nocookie.net/eberron/images/2/21/Jorasco.jpg/revision/latest?cb=20220509100919|ws-med|right](https://static.wikia.nocookie.net/eberron/images/2/21/Jorasco.jpg/revision/latest?cb=20220509100919)
 
 House Jorasco is a halfling dragonmarked house operating throughout Khorvaire. Although their house enclave is located in Karrnath, their dragonmark originated among the nomadic tribes on the Talenta Plains.
 

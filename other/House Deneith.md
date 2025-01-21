@@ -1,20 +1,10 @@
 ---
-Image: "![https://static.wikia.nocookie.net/eberron/images/3/3d/Dragonmarked_House_COA_Deneith.jpg/revision/latest?cb=20220509100747|250](https://static.wikia.nocookie.net/eberron/images/3/3d/Dragonmarked_House_COA_Deneith.jpg/revision/latest?cb=20220509100747)"
-Leader: Baron Breven d'Deneith
 Type: Dragonmarked House
+Leader: Baron Breven d'Deneith
 ---
  #organization #dragonmarks 
 
-> [!infobox]
-> # `=this.file.name`
-> `=this.Image`
-> ###### Basic Information
-> |  |  |
-> | ---- | ---- |
-> | **Type** | `=this.Type` |
-> | **Leader** | `=this.Leader` |
-> ###### Comments
-> `=this.Comments`
+![https://static.wikia.nocookie.net/eberron/images/3/3d/Dragonmarked_House_COA_Deneith.jpg/revision/latest?cb=20220509100747|ws-med|right](https://static.wikia.nocookie.net/eberron/images/3/3d/Dragonmarked_House_COA_Deneith.jpg/revision/latest?cb=20220509100747)
 
 House Deneith is a human dragonmarked house whose members are highly acclaimed mercenaries and bodyguards known for their efficiency and martial skill. Deneith are the muscle of the dragonmarked houses, providing raw power to a nation's army. Taking sides is bad for business, so during the Last War, Deneith remained neutral, or rather, provided soldiers to all sides. Now that the war has ended Deneith members are hired for guarding monarchs and chasing down criminals.
 
