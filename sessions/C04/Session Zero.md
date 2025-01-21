@@ -87,7 +87,7 @@ Magic is everywhere on campus. The campus culture encourages finding magical sol
 - For character creation, I encourage you to explore unique magic users and sources of magic from Eberron (such as dragonmarks) - let's have some fun exploring magic!
 - You can use the Owlin species from the book if you'd like, but don't use the backgrounds or feats from the book, as they're too specific to the colleges. I will likely grant or at least allow a feat from your selected college after year two.
 - Think specifically about your character's motivation or goal(s) - in other words, why are you at Strixhaven?
-- I do intent this to be a roleplay heavy campaign. You'll have more opportunity to gain benefits from inspiration and other sources, but you'll likely be asked to play out a scene in order to gain this benefit. For example, student may choose to study together in order to gain advantage via the Help action, but I'll ask you to play out what this study session looks like.
+- I do intend this to be a roleplay heavy campaign. You'll have more opportunity to gain benefits from inspiration and other sources, but you'll likely be asked to play out a scene in order to gain this benefit. For example, students may choose to study together in order to gain advantage via the Help action, but I'll ask you to play out what this study session looks like.
 
 ##### Break
 Use this time to review the survey, compile the results, and transfer information to the players' note pages.

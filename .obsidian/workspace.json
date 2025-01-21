@@ -26,20 +26,6 @@
             }
           },
           {
-            "id": "b814f7f7d58bb650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/C04/Session Zero.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session Zero"
-            }
-          },
-          {
             "id": "8a24bab235a1ab3c",
             "type": "leaf",
             "state": {
@@ -54,21 +40,21 @@
             }
           },
           {
-            "id": "dcfcc37075627056",
+            "id": "b814f7f7d58bb650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-08  Divination.md",
+                "file": "sessions/C04/Session Zero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-08  Divination"
+              "title": "Session Zero"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-08  Divination.md"
+                "file": "sessions/C04/Session Zero.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-08  Divination"
+              "title": "Outline of Session Zero"
             }
           },
           {
@@ -285,12 +271,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dcfcc37075627056",
+  "active": "b814f7f7d58bb650",
   "lastOpenFiles": [
-    "adventures/C04 The Nature of Magic/2-09  Conjuration.md",
     "adventures/C04 The Nature of Magic.md",
-    "locations/Greenheart.md",
+    "sessions/C04/Session Zero.md",
     "adventures/C04 The Nature of Magic/2-08  Divination.md",
+    "adventures/C04 The Nature of Magic/2-09  Conjuration.md",
+    "locations/Greenheart.md",
     "adventures/C04 The Nature of Magic/2-07  Enchantment.md",
     "adventures/C04 The Nature of Magic/2-06  Necromancy.md",
     "other/Mabaran Resonator Diagram.md",
@@ -307,7 +294,6 @@
     "adventures/C04 The Nature of Magic/2-11  Psionics.md",
     "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "_ref/Magic - Custom Spells.md",
-    "sessions/C04/Session Zero.md",
     "_ref/Magic.md",
     "_ref/Dungeon Types.md",
     "_ref/Factions.md",
