@@ -6,7 +6,7 @@
 * [[Jolene Harper]]
 * [[Kerrie Heath]]
 * [[Sara Edwards]]
-* [[Trey]]
+* [[Trey Martinez]]
 
 ### Setting(s)
 
