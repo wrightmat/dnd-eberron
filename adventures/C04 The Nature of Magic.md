@@ -73,9 +73,9 @@
 	* The first group of five schools should be the locations in central Khorvaire.
 	* The second group of five schools should be the location in outer Khorvaire and other continents.
 	* The final three schools are all on Argonnesson, and will need to be tackled roughly sequentially before taking on the finale.
-* Malakar and his Oriq, in collaboration with House Tarkanan, are trying to wipe out the different schools of magic by eliminating any master of that school (usually by going back in time and eliminating them from the timeline), or disrupting the education of it through the major academic organization. At each nexus, a dragonshard is found somewhere nearby, embedded in the ground (with a very high Arcana check revealing that it appears to function to channel magic).
+* Malakar and his Oriq, in collaboration with House Tarkanan, are trying to wipe out the different schools of magic by eliminating any master of that school (usually by going back in time and eliminating them from the timeline), or disrupting the education of it through the major academic organization.
 	* [[2-02  Abjuration]]: Morgrave University in Sharn, and a city-rampaging combat adventure.
-	* [[2-03  Enchantment]]: A small town in Aundair, and memories modified leading to alternative lives lived.
+	* [[2-03  Enchantment]]: Lathleer in Aundair, memories modified and alternative lives lived.
 	* [[2-04  Evocation]]: Rekkenmark Academy in Karrnath, and ???
 	* [[2-05  Divination]]: The Citadel in Wroat, the King's Dark Lanterns (and Wands), and a pre-cog arrest mystery.
 	* [[2-06  Transmutation]]: Mordain the Fleshweaver (Mordain's Hall in Droaam), and a time travel adventure.
@@ -96,6 +96,7 @@
 	* Healing spells backfire, causing horrific injuries instead of curing.
 	* Graveyards across Khorvaire see uncontrolled undead uprisings.
 	* Malfunctioning warforged revert to lifeless constructs or turn hostile.
+* **Second Pinch Point**: At each nexus visited, a large dragonshard is found somewhere nearby, embedded in the ground (with a very high Arcana check revealing that it appears to function to channel magic).
 * **Third Plot Point**: The PCs learn that the dragonshards they've been finding at each nexus form a sort of sigil, but only learn this because they encounter and are attacked by a group of Oriq who appear to be manipulating the sigil in some way. After the fight, they learn that the sigil is a teleportation device keyed to the dragonshard network, designed to send the players back to Argonnesson. But unfortunately the sigil has been sabotaged by Zaelith and leads directly to their lab instead of Strixhaven.
 
 #### Act 3

@@ -2,14 +2,14 @@
 
 ### Background and Hook(s)
 
-* The players awaken in Aundair, with no memory of their lives as adventurers. They find themselves living mundane but fulfilling lives, each tailored to their desires and personalities. This is the result of a powerful modify memory spell cast by an enigmatic enchanter, intended to neutralize their threat and prevent them from interfering with a larger plan.
+* The players awaken in Aundair, with no memory of their lives as adventurers. They find themselves living mundane but fulfilling lives, each tailored to their desires and personalities. This is the result of a powerful *modify memory* spell cast by an enigmatic enchanter, intended to neutralize their threat and prevent them from interfering with a larger plan.
 * As the adventure unfolds, subtle inconsistencies in their lives begin to appear. The players must piece together the truth, recover their memories, and break free from the enchantment before they lose themselves entirely.
 
 ### Characters and Locations
 
 * **Caleon Merris** (male human). Caleon is the charismatic mayor of the idyllic Aundairian town where the players live their false lives. Warm and approachable, he’s beloved by the townsfolk for his generosity and genuine care. Caleon frequently visits the players, offering kind words, advice, and assistance with their daily lives. In reality, he's a powerful Oriq enchanter.
 
-* **[[Aundair]]**
+* **Lathleer, [[Aundair]]**
 
 ### Scenes and Situations
 
