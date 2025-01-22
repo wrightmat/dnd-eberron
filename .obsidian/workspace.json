@@ -57,21 +57,18 @@
             "id": "45802a48e3c8276d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic Outline.canvas",
-                "viewState": {
-                  "x": 11.194429525540215,
-                  "y": 366.9120795383924,
-                  "zoom": -0.929051746633649
-                }
+                "file": "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "C04 The Nature of Magic Outline"
+              "icon": "lucide-file",
+              "title": "1-06  Strixhaven Year 3, Term 2"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic.md"
+                "file": "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of C04 The Nature of Magic"
+              "title": "Outline of 1-06  Strixhaven Year 3, Term 2"
             }
           },
           {
@@ -155,10 +152,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "adventures/C04 The Nature of Magic.md"
+                "file": "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for C04 The Nature of Magic"
+              "title": "File properties for 1-06  Strixhaven Year 3, Term 2"
             }
           },
           {
@@ -167,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04 The Nature of Magic.md",
+                "file": "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C04 The Nature of Magic"
+              "title": "Backlinks for 1-06  Strixhaven Year 3, Term 2"
             }
           },
           {
@@ -238,8 +235,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,47 +258,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "cfd54b303c997c98",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c78e2b3d576b6745",
-        "type": "window",
-        "children": [
-          {
-            "id": "9e516450ed396f1a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "debdc9657dacf972",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 176,
-        "width": 874,
-        "height": 410,
-        "maximize": false,
-        "zoom": 2.5
-      }
-    ]
-  },
-  "active": "debdc9657dacf972",
+  "active": "45802a48e3c8276d",
   "lastOpenFiles": [
-    "adventures/C04 The Nature of Magic/2-04  Evocation.md",
-    "adventures/C04 The Nature of Magic.md",
-    "adventures/C04 The Nature of Magic/2-03  Enchantment.md",
+    "adventures/C04 The Nature of Magic/1-04  Strixhaven Year 2, Term 2.md",
+    "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
+    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "adventures/C04 The Nature of Magic Outline.canvas",
+    "adventures/C04 The Nature of Magic.md",
+    "adventures/C04 The Nature of Magic/2-04  Evocation.md",
+    "adventures/C04 The Nature of Magic/2-03  Enchantment.md",
     "locations/Fairhaven.md",
     "adventures/C04 The Nature of Magic/2-09  Necromancy.md",
     "adventures/C04 The Nature of Magic/2-08  Illusion.md",
@@ -322,9 +287,6 @@
     "other/Dragonmarked Houses.md",
     "other/House Vol.md",
     "other/House Vadalis.md",
-    "other/House Thuranni.md",
-    "other/House Tharashk.md",
-    "other/House Sivis.md",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
