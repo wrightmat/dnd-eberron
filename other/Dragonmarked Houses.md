@@ -15,5 +15,5 @@
 | [[House Tharashk]]  | Finding              | Half-Orc | Zarash'ak, Shadow Marches                     | Bounty hunting, Finding dragonshards | Finders Guild, Liondrake's Roar                                    |
 | [[House Thuranni]]  | Shadow               | Elf      | Regalport, Lhazaar Principalities             | Entertainment                        | Shadow Network, True Shapers                                       |
 | [[House Vadalis]]   | Handling             | Human    | Foalswood, Eldeen Reaches                     | Breeding/training animals            | Handler’s Guild, Balinor's Blessed                                 |
-| House Tarkanan      | Aberrant dragonmarks | Any      | Sharn, Breland                                | Assassination                        |                                                                    |
-| House Vol           | Mark of Death        | Elves    | Destroyed in −2600 YK                         |                                      |                                                                    |
+| [[House Tarkanan]]  | Aberrant dragonmarks | Any      | Sharn, Breland                                | Assassination                        |                                                                    |
+| [[House Vol]]       | Mark of Death        | Elves    | Destroyed in −2600 YK                         |                                      |                                                                    |

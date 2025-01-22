@@ -6,7 +6,7 @@ The Oriq are mostly mages who couldn't pass the entrance exam of Strixhaven or d
 
 The Oriq reside far from Strixhaven but often infiltrate the university looking for spells and recruits for their dark schemes. Oriq agents use deception, stealth, and their darkly powerful brand of magic in pursuit of their sinister goals.
 
-The Oriq have recently associated with House Tarkanan of Khorvaire, as they are known aberrant dragonmark bearers. House Tarkanan serves as their agents across Khorvaire in the Oriq efforts to siphon magic away from the continent.
+The Oriq have recently associated with [[House Tarkanan]] of Khorvaire, as they are known aberrant dragonmark bearers. House Tarkanan serves as their agents across Khorvaire in the Oriq efforts to siphon magic away from the continent.
 
 ### History
 
