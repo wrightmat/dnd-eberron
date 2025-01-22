@@ -387,6 +387,11 @@ In the Witherbloom section, one student throws back their hood, revealing a face
 	- **Potion Roulette**. A table offers drinks spiked with mild, harmless potions. Effects might include glowing skin, levitation, or temporary minor transformations (like turning blue or growing gills). Players can partake for fun or attempt an Arcana check to identify potion effects in advance. For each potion drank, roll on the Wild Magic table.
 	- **Drinking Games**. Simulate any number of drinking games, such as quarters or beer pong, with checks. Contested Dexterity checks against another player or the DM (for NPCs). Whoever fails has to take a drink, requiring a Constitution saving throw (DC based on the number of drinks), with failure resulting in a level of Exhaustion. Too many levels of exhaustion means the player passes out, missing the rest of the party.
 
+##### Week End
+
+- At the end of Orientation Week, the players should level up to 2nd level.
+- Play out of each of the next three weeks as downtime. For each of them, have each player describe how they're spending it (studying, working a job, etc.) and add relationship points as necessary.
+
 #### Week 4: Frog's the Word
 
 ###### Introducing the Firejolt Café
@@ -627,8 +632,8 @@ Check off as information is received. These should be gathered from Secrets and 
 
 ### DM Notes and Random Tables
 
-- At the end of Orientation Week, the players should level up to 2nd level. At the end of this adventure (midterm of their first year), the players should level up to 3rd level.
-- Replace the Mimic with something else more interesting?
+- At the end of Orientation Week, the players should level up to 2nd level.
+- At the end of this adventure (midterm of their first year), the players should level up to 3rd level.
 
 ### References
 

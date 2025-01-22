@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
-                "mode": "preview",
+                "file": "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-06  Strixhaven Year 3, Term 2"
+              "title": "2-01  Khorvaire Opening"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md"
+                "file": "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-06  Strixhaven Year 3, Term 2"
+              "title": "Outline of 2-01  Khorvaire Opening"
             }
           },
           {
@@ -152,10 +152,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md"
+                "file": "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1-06  Strixhaven Year 3, Term 2"
+              "title": "File properties for 2-01  Khorvaire Opening"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
+                "file": "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1-06  Strixhaven Year 3, Term 2"
+              "title": "Backlinks for 2-01  Khorvaire Opening"
             }
           },
           {
@@ -260,6 +260,10 @@
   },
   "active": "45802a48e3c8276d",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
+    "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
+    "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
+    "adventures/C04 The Nature of Magic/1-05  Strixhaven Year 3, Term 1.md",
     "adventures/C04 The Nature of Magic/1-04  Strixhaven Year 2, Term 2.md",
     "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
     "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
@@ -275,7 +279,6 @@
     "adventures/C04 The Nature of Magic/2-06  Transmutation.md",
     "adventures/C04 The Nature of Magic/2-05  Divination.md",
     "adventures/C04 The Nature of Magic/2-02  Abjuration.md",
-    "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
     "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
     "sessions/C04/Session Zero.md",
     "DM Screen.md",
@@ -284,9 +287,6 @@
     "locations/Central Plateau.md",
     "locations/Dolurrh's Dawn.md",
     "characters/Araam.md",
-    "other/Dragonmarked Houses.md",
-    "other/House Vol.md",
-    "other/House Vadalis.md",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",

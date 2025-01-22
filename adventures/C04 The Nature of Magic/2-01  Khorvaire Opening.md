@@ -43,7 +43,13 @@ Check off as information is received. These should be gathered from Secrets and 
 
 ### DM Notes and Random Tables
 
-- 
+- Rough leveling plan:
+	- 9th level upon arriving to Khorvaire
+	- 10th level after completing the first five adventures (at second plot point)
+	- 11th level after completing the second five adventures (at the third plot point)
+	- 12th level after completing the final two adventures prior to the finale
+- Oriq Blood Mage stat block is CR 9, so should be used for the regular Oriq agents encountered during the following adventures.
+- Create custom stat blocks for the BBEG and his lieutenants.
 
 ### References
 

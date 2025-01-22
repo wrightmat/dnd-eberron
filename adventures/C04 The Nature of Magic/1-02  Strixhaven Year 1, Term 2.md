@@ -215,19 +215,23 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 `encounter: 1: Quadrone`
 
-- **Sassy Sally Jane**. Among the dolls on the display shelf is the target of the characters’ quest — the pink-haired doll known as Sassy Sally Jane. The doll is programmed with spoken phrases and trigger conditions, which the characters might activate.
-	- The rude phrases that are part of Sassy Sally Jane’s reputation are the subject of much speculation on campus, but no current students know what they are. Once the characters recover the doll, they will likely press her hand to trigger these phrases.
-	- The Phrases table offers some suggestions, but feel free to come up with additional phrases that you and your players will find fun and amusing.
+- **Sassy Sally Jane**. Among the dolls on the display shelf is the target of the characters’ quest — the pink-haired doll known as Sassy Sally Jane. The doll is programmed to utter rumors and secrets about other students, much like a "Burn Book", but in doll form. It can also record new phrases by whoever possessed the doll, which can be used to record new secrets, or used in a more unique way such as to cheat on tests.
 - **Treasure**. Sitting underneath Sassy Sally Jane is a doll wearing a suit and adorned with a large white mustache. A purse held in the doll’s hands contains 25 gp.
 
-| d6  | Phrase                                  |
-| --- | --------------------------------------- |
-| 1   | “Really? In those robes?”               |
-| 2   | “G-R-O-S-S. Gross.”                     |
-| 3   | “I heard you snack on owlbear pellets.” |
-| 4   | “If you say so.”                        |
-| 5   | “How about ‘Hells, no!’”                |
-| 6   | “No one believes that’s chocolate.”     |
+| d12 | NPC Student                 | Secret/Rumor                                                                                                                       |
+|-----|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Larine Arneza               | "Larine hooked up with a visiting bard during the last Rose Stage concert — in the Biblioplex no less!"                            |
+| 2   | Melwythorne                 | "Melwythorne’s been sneaking off to the Sedgemoor at night… and not alone. Let’s just say it’s steamy in there."                   |
+| 3   | Quentillius A. Melentor III | "Quentillius’s perfect hair? A glamour spell. He’s been buying spell components from a Witherbloom student… and paying in favors." |
+| 4   | Zanther Bowen               | "Zanther was seen slipping into the Firejolt Café kitchen after hours… to stash some questionable mushrooms he’s been selling."    |
+| 5   | Tilana Kapule               | "Tilana was caught sharing a little more than magical theories with a professor. Office hours, indeed."                            |
+| 6   | Cadoras Damellawar          | "Cadoras’s wild party trick? Brewing his own alchemical ‘tea’ that makes you see things… and I mean things."                       |
+| 7   | Rosie Wuzfeddlims           | "Rosie had a fling with an Oriq agent and got a magic tattoo out of it. Don’t ask where."                                          |
+| 8   | Aurora Luna Wynterstarr     | "Aurora's 'moonlit rituals'? Not for studying. She’s been sneaking out to meet someone in the Prismari dorms."                     |
+| 9   | Blakely Margedi             | "Blakely's love poems? Inspired by TWO people on campus. Neither knows about the other."                                           |
+| 10  | Helezana Grara              | "Helezana got caught skinny-dipping in the Witherbloom swamps with a professor’s familiar watching."                               |
+| 11  | Mina Lee                    | "Mina’s 'study tea'? More like an experimental blend of stimulants she sells to crammers during finals week."                      |
+| 12  | Ingrid Egilsil              | Ingrid Egilsil: "This girl is the nastiest skank bitch I’ve ever met. Do NOT trust her. She is a fugly slut!!"                     |
 
 ###### Post Quest
  - [ ] 
@@ -619,7 +623,7 @@ Check off as information is received. These should be gathered from Secrets and 
 ### DM Notes and Random Tables
 
 - At the end of this adventure, the party levels up to 4th level.
-- Replace the doll with something more interesting? Like something that can be used to help them cheat on tests?
+- The Sassy Sally Jane doll modified to utter rumors and secrets about other students, much like a "Burn Book", but in doll form.
 
 ### References
 

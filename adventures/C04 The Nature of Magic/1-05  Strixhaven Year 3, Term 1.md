@@ -362,7 +362,6 @@ Check off as information is received. These should be gathered from Secrets and 
 ### DM Notes and Random Tables
 
 - At the conclusion of this adventure, during midterm break, the players should level up to 7th level.
-- Move the Sedgemoor Harvest somewhere else. Too much going on in that one area! Can we find a way to make it around Quandrix somewhere?
 
 ### References
 
