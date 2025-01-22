@@ -2,7 +2,7 @@
 
 ### Background and Hook(s)
 
-* Extus Narr has gone back in time and killed Mordain the Fleshweaver, wiping out the Tower of Mordain and the focus of transmutation magic in the process. This has created an alternate timeline that the players currently reside on, but a mysterious obelisk can be used to travel back in time and attempt to correct the events of the past.
+* The Oriq and/or House Tarkanan has gone back in time and killed Mordain the Fleshweaver, wiping out the Tower of Mordain and the focus of transmutation magic in the process. This has created an alternate timeline that the players currently reside on, but a mysterious obelisk can be used to travel back in time and attempt to correct the events of the past.
 
 ### Characters and Locations
 

@@ -67,9 +67,26 @@
 
 #### Act 2
 
-* Everything that happens after the PCs are transported to Khorvaire is the second act.
+* Everything that happens after the PCs are transported to Khorvaire is the second act. This act is marked by the players being teleported to Khorvaire. None of the PCs can use any magical spells or magic items (although the world around them seems largely normal) until they investigate and address that school of magic (in the appropriate adventure, as outlined below). They encounter a local scholar who reveals that, while no widespread calamities have occurred yet, magic has started behaving strangely in subtle ways.
+* The act is structured as a sort of mystery, with five schools of magic being clued as options during each section of the act (separated by plot point funnels). Each node has at least three clues that lead to other adventure nodes as well as the plot point. Ideally, the PCs  will be motivated enough by wanting to get their magic back to visit all of the clued areas, but this should be treated as an open world. The node in the center has the most clues pointing to it (5), and therefore is the most likely location for the PCs to move toward. The nodes on the outside have the least number of clues (3). So the center node should be the school that the most PCs are connected to, and will want to address first (thereby further increasing the chances they find each other quickly).
+	* The starting locations, upon landing in Khorvaire, are the first nodes with at least three clues pointing to at least two other locations. So no matter where the PCs land, they'll have options on where to go next (and have a good chance of meeting up in the second group of nodes).
+	* The first group of five schools should be the locations in central Khorvaire.
+	* The second group of five schools should be the location in outer Khorvaire and other continents.
+	* The final three schools are all on Argonnesson, and will need to be tackled roughly sequentially before taking on the finale.
+* Malakar and his Oriq, in collaboration with House Tarkanan, are trying to wipe out the different schools of magic by eliminating any master of that school (usually by going back in time and eliminating them from the timeline), or disrupting the education of it through the major academic organization. At each nexus, a dragonshard is found somewhere nearby, embedded in the ground (with a very high Arcana check revealing that it appears to function to channel magic).
+	* [[2-02  Abjuration]]: Morgrave University in Sharn, and a city-rampaging combat adventure.
+	* [[2-03  Enchantment]]: A small town in Aundair, and memories modified leading to alternative lives lived.
+	* [[2-04  Evocation]]: Rekkenmark Academy in Karrnath, and ???
+	* [[2-05  Divination]]: The Citadel in Wroat, the King's Dark Lanterns (and Wands), and a pre-cog arrest mystery.
+	* [[2-06  Transmutation]]: Mordain the Fleshweaver (Mordain's Hall in Droaam), and a time travel adventure.
+	* [[2-07  Conjuration]]: Greenheart in the Eldeen Reaches, Oalian, and a dungeon crawl inside of a living tree.
+	* [[2-08  Illusion]]: Pylas Pyrial in Zilargo/Thelanis, The Prince of Frost, and a court intrigue adventure.
+	* [[2-09  Necromancy]]: The jungles of Xen'drik, and a necromantic war between two factions.
+	* [[2-10  Artifice]]: Lord of Blades, The Mournland, and ???
+	* [[2-11  Psionics]]: Adar in Sarlona, and ???
+
 * **First Pinch Point**: Some evidence that magic is being drained from the world. As a wide magic world, this may show in the form of basic spells like *[[prestidigitation]]*, that's used everywhere for lots of things, have stopped working. This may occur any time after 1st adventure is completed.
-* **Second Plot Point (Midpoint)**: Clear and dramatic demonstration of there being less magic in the world. Magical disaster(s) that serve as key moments of tension - which may include any of these depending on where they players are at this time. Any of these may occur after the 4th adventure is completed.
+* **Second Plot Point (Midpoint)**: Clear and dramatic demonstration of there being less magic in the world. Magical disaster(s) that serve as key moments of tension - which may include any of these depending on where they players are at this time (after completion of the first five adventures).
 	* Towers in Sharn fall from the sky, killing hundreds and sowing chaos.
 	* Airships lose control as their elemental rings fail, crashing to the ground.
 	* Planar manifest zones destabilize, releasing dangerous energy and creatures.
@@ -79,21 +96,7 @@
 	* Healing spells backfire, causing horrific injuries instead of curing.
 	* Graveyards across Khorvaire see uncontrolled undead uprisings.
 	* Malfunctioning warforged revert to lifeless constructs or turn hostile.
-* **Second Pinch Point**: The players discover or learn that the dragonshards form a sort of sigil, but only learn this because they encounter and are attacked by a group of Oriq who appear to be studying or manipulating the sigil in some way (and possibly find a notebook they drop explaining everything). Occurs after the 7th adventure.
-* **Third Plot Point**: Eventually (after the final adventure) the PCs uncover the sigil's true purpose: it is a teleportation device keyed to the dragonshard network, designed to send the players back to Argonnesson. But unfortunately the sigil has been sabotaged by Zaelith and leads directly to their lab instead of Strixhaven.
-
-* This act is marked by the players being teleported to Khorvaire. None of the PCs can use any magical spells or magic items (although the world around them seems largely normal) until they investigate and address that school of magic (in the appropriate adventure, as outlined below). They encounter a local scholar who reveals that, while no widespread calamities have occurred yet, magic has started behaving strangely in subtle ways.
-* Malakar and his Oriq are trying to wipe out the different schools of magic by eliminating any master of that school (usually by going back in time and eliminating them from the timeline), or disrupting the education of it through the major academic organization. At each nexus, a dragonshard is found somewhere nearby, embedded in the ground (with an very high Arcana check revealing that it appears to function to channel magic).
-* [[2-02  Transmutation]]: Mordain the Fleshweaver (Mordain's Hall in Droaam), and a time travel adventure.
-* [[2-03  Illusion]]: Pylas Pyrial in Zilargo/Thelanis, The Prince of Frost, and a court intrigue adventure.
-* [[2-04  Abjuration]]: Morgrave University in Sharn, and a city-rampaging combat adventure.
-* [[2-05  Evocation]]: Rekkenmark Academy in Karrnath, and ???
-* [[2-06  Necromancy]]: The jungles of Xen'drik, and a necromantic war between two factions.
-* [[2-07  Enchantment]]: A small town in Aundair, and memories modified leading to alternative lives lived.
-* [[2-08  Divination]]: The Citadel in Wroat, the King's Dark Lanterns (and Wands), and a pre-cog arrest mystery.
-* [[2-09  Conjuration]]: Greenheart in the Eldeen Reaches, Oalian, and a dungeon crawl inside of a living tree.
-* [[2-10  Artifice]]: Lord of Blades, The Mournland, and ???
-* [[2-11  Psionics]]: Adar in Sarlona, and ???
+* **Third Plot Point**: The PCs learn that the dragonshards they've been finding at each nexus form a sort of sigil, but only learn this because they encounter and are attacked by a group of Oriq who appear to be manipulating the sigil in some way. After the fight, they learn that the sigil is a teleportation device keyed to the dragonshard network, designed to send the players back to Argonnesson. But unfortunately the sigil has been sabotaged by Zaelith and leads directly to their lab instead of Strixhaven.
 
 #### Act 3
 
@@ -135,7 +138,7 @@
 * Use mana nexuses as metaphors for chakras — points where energy gathers and flows — requiring balance and restoration to achieve harmony.
 * Malakar has the goal to essentially collect all the Mana for himself, turning himself into a god (the first true god of Eberron, higher than the Sovereigns). He's using forbidden blood magic to further his goal, and the Strixhaven Snarl as a conduit to channel the mana. The dragons despise blood magic (especially since it uses dragon blood), and its use was the reason why they destroyed the giants of Xen'drik (who were beginning to practice blood magic).
 * The original Oriq were aberrant dragonmark bearers born on Argonnesson. These marks are not random; they are the result of mana reacting to imbalances in the world. When magic is hoarded or twisted (such as through blood magic), the resulting disruptions cause aberrant dragonmarks to manifest in mortals. Malakar’s use of blood magic exacerbates these imbalances, leading to an increase in aberrant dragonmarks across Khorvaire and Argonnesson. He seeks to control and refine these marks, using the chaos they represent to enhance his power and manipulate the flow of mana.
-* The Oriq have recently associated with House Tarkanan of Khorvaire, as they are known aberrant dragonmark bearers. House Tarkanan serves as their agents across Khorvaire in the Oriq efforts to siphon magic away from the continent.
+* 
 * In the climax of the campaign, the players uncover the true nature of aberrant dragonmarks and their role in the balance of magic. Aberrant dragonmarks are not flaws but safeguards of creation. They emerge when magic becomes too concentrated or hoarded, acting as a release valve for mana’s chaotic energy. This aligns with the campaign’s themes of balance and interdependence. The marks bridge the gap between chaos (as the origin of magic) and order (as its structured application). They are proof that magic cannot be fully controlled or monopolized.
 * Possibly have adventures in Act 3 where the players need to manifest their own aberrant dragonmarks in order to take on the Oriq? If going this route, the dragonmarks should play into the final battle in a major way.
 * Puzzles:

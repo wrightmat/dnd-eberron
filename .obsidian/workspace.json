@@ -45,16 +45,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/C04/Session Zero.md",
+                "file": "adventures/C04 The Nature of Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Zero"
+              "title": "C04 The Nature of Magic"
+            }
+          },
+          {
+            "id": "45802a48e3c8276d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "adventures/C04 The Nature of Magic Outline.canvas",
+                "viewState": {
+                  "x": 11.194429525540215,
+                  "y": 366.9120795383924,
+                  "zoom": -0.929051746633649
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "C04 The Nature of Magic Outline"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,10 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/C04/Session Zero.md"
+                "file": "adventures/C04 The Nature of Magic Outline.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session Zero"
+              "title": "Outline of C04 The Nature of Magic Outline"
             }
           },
           {
@@ -138,10 +155,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sessions/C04/Session Zero.md"
+                "file": "adventures/C04 The Nature of Magic Outline.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Session Zero"
+              "title": "File properties for C04 The Nature of Magic Outline"
             }
           },
           {
@@ -244,8 +261,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b814f7f7d58bb650",
+  "active": "45802a48e3c8276d",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic.md",
+    "adventures/C04 The Nature of Magic Outline.canvas",
+    "adventures/C04 The Nature of Magic/2-09  Necromancy.md",
+    "adventures/C04 The Nature of Magic/2-08  Illusion.md",
+    "adventures/C04 The Nature of Magic/2-07  Conjuration.md",
+    "adventures/C04 The Nature of Magic/2-06  Transmutation.md",
+    "adventures/C04 The Nature of Magic/2-05  Divination.md",
+    "adventures/C04 The Nature of Magic/2-04  Evocation.md",
+    "adventures/C04 The Nature of Magic/2-03  Enchantment.md",
+    "adventures/C04 The Nature of Magic/2-02  Abjuration.md",
+    "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
+    "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
     "sessions/C04/Session Zero.md",
     "DM Screen.md",
     "other/House Tarkanan.md",
@@ -260,18 +289,6 @@
     "other/House Tharashk.md",
     "other/House Sivis.md",
     "other/House Phiarlan.md",
-    "other/House Orien.md",
-    "other/House Medani.md",
-    "other/House Lyrandar.md",
-    "other/House Kundarak.md",
-    "other/House Jorasco.md",
-    "other/House Ghallanda.md",
-    "other/House Deneith.md",
-    "other/House Cannith.md",
-    "adventures/C04 The Nature of Magic.md",
-    "adventures/C04 The Nature of Magic/2-06  Necromancy.md",
-    "adventures/C04 The Nature of Magic/2-07  Enchantment.md",
-    "adventures/C04 The Nature of Magic/2-08  Divination.md",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
@@ -300,7 +317,6 @@
     "canvas_maps/Labyrinth of the Lantern's Light.canvas",
     "canvas_maps/Mournland.canvas",
     "Untitled.canvas",
-    "canvas_maps/Argonnessen.canvas",
-    "canvas_docs_maps/mournland.canvas"
+    "canvas_maps/Argonnessen.canvas"
   ]
 }
