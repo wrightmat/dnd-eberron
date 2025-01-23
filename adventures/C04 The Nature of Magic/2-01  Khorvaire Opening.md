@@ -50,6 +50,8 @@ Check off as information is received. These should be gathered from Secrets and 
 	- 12th level after completing the final two adventures prior to the finale
 - Oriq Blood Mage stat block is CR 9, so should be used for the regular Oriq agents encountered during the following adventures.
 - Create custom stat blocks for the BBEG and his lieutenants.
+- https://www.reddit.com/r/DnDHomebrew/comments/11a47mz/oc_blood_mage_statblack_10_blood_magic_spells/
+- https://www.5esrd.com/database/creature/blood-mage/
 
 ### References
 
