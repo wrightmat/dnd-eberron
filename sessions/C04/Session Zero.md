@@ -9,7 +9,9 @@ session:
 ### Pre-Session Notes:
 
 ##### Questionnaire
-Send out at the start of the session (or even before the session) so players have time to fill it out while I talk. Then review the results during the break.
+**Results**:
+- As a group, you are looking for a story heavy campaign, in which problem-solving and exploring are the focus. (so this campaign will be perfect for you!)
+- Most popular location is iTap, with Hexagon Alley being second. So we'll continue with the current setup of iTap as the primary location, and moving to Hexagon Alley when events necessitate it (I'm not aware of any on Monday, but I'm sure there will be occasionally).
 
 ##### New 2024 Rules
 Lots of various changes, mostly balance-related. Review anything you want to use and don't assume it's the same!

@@ -11,4 +11,11 @@ Lines/Veils::
 #### Player Archetypes
 Preferred archetypes (from the 2024 DMG), from favorite (1) to least favorite.
 
-1) 
+1) Acting
+2) Problem-solving
+3) Storytelling
+4) Exploring
+5) Instigating
+6) Socializing
+7) Fighting
+8) Optimizing
