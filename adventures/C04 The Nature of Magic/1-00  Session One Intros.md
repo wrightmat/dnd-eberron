@@ -25,6 +25,12 @@
 >Warm regards,
 >Tedric Taiva, Voice of the Founders
 
+ - [ ]  **Jolene's Character**
+
+- Opening scene should be a dream that she's having, where she's surrounded by children, and doing nanny duties such as cooking for them and cleaning up after them.
+- When she wakes up, the new scene is a stark contrast, where she's completely alone and surrounded only by quiet.
+- Ask Jolene what she's doing, and after exploring that a bit, have the paper drake show up.
+
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.
 

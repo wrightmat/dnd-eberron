@@ -59,16 +59,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
+                "file": "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-01  Khorvaire Opening"
+              "title": "1-00  Session One Intros"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md"
+                "file": "adventures/C04 The Nature of Magic.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-01  Khorvaire Opening"
+              "title": "Outline of C04 The Nature of Magic"
             }
           },
           {
@@ -152,10 +152,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md"
+                "file": "adventures/C04 The Nature of Magic.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2-01  Khorvaire Opening"
+              "title": "File properties for C04 The Nature of Magic"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
+                "file": "adventures/C04 The Nature of Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2-01  Khorvaire Opening"
+              "title": "Backlinks for C04 The Nature of Magic"
             }
           },
           {
@@ -258,12 +258,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "45802a48e3c8276d",
+  "active": "b814f7f7d58bb650",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
+    "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
     "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
-    "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "adventures/C04 The Nature of Magic.md",
     "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
     "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
@@ -286,7 +287,6 @@
     "other/Oriq Order.md",
     "locations/Central Plateau.md",
     "locations/Dolurrh's Dawn.md",
-    "characters/Araam.md",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
