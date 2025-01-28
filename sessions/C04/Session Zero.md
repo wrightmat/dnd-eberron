@@ -121,7 +121,7 @@ If enough time remains (at least an hour), go ahead and start the [[1-00  Sessio
 	* Fighter (Eldritch Knight eventually)
 	* Sage background
 	* Motivation: Wants to follow the dreams he's always had, while also learning to defend himself. Wants to live his life how he wants to live it - which he's not entirely sure of yet (since his wife always told him what to do).
-	* From Xen'drik (Stormreach)
+	* From Xen'drik (Stormreach), but moved to Khorvaire long ago
 	* Recently widowed (shitty wife), so decided to live his dream and go to school.
 	* Equivalent to early 20s (being an elf), so is basically a traditional student.
 - Hawthorne Winters (he/him) - Kerrie
@@ -150,5 +150,5 @@ If enough time remains (at least an hour), go ahead and start the [[1-00  Sessio
 	- Warlock (Pact of Genie)
 	- Faction Agent background
 	- Motivation: To find a "cure" for the yuan-ti appearance, and to expand upon her magic (obtaining a genie patron).
-	- Is a hired hitperson for her faction (dragonmarked house?)
+	- Is a hired hitperson for her faction (dragonmarked house? or Valenar warclan?)
 
