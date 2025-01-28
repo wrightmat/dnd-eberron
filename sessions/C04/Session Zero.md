@@ -14,7 +14,7 @@ session:
 - Most popular location is iTap, with Hexagon Alley being second. So we'll continue with the current setup of iTap as the primary location, and moving to Hexagon Alley when events necessitate it (I'm not aware of any on Monday, but I'm sure there will be occasionally).
 **Misc. Review**:
 - If at least 3 players have confirmed attendance, we will play.
-- Start time - change to 7pm consistently?
+- Start time - change to 7pm consistently? No- keep 6:30pm
 - Using 2024 rules, but for character creation you can use any legacy content you like.
 
 ##### New 2024 Rules
@@ -115,4 +115,4 @@ If enough time remains (at least an hour), go ahead and start the [[1-00  Sessio
 
 ### Post-Session Write-Up:
 
-* 
+* Look into 2nd edition spell crafting rules.

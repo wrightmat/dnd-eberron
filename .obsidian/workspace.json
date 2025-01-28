@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic.md"
+                "file": "sessions/C04/Session Zero.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of C04 The Nature of Magic"
+              "title": "Outline of Session Zero"
             }
           },
           {
@@ -241,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C04 The Nature of Magic.md",
+                "file": "sessions/C04/Session Zero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C04 The Nature of Magic"
+              "title": "Outgoing links from Session Zero"
             }
           },
           {
@@ -285,8 +285,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b814f7f7d58bb650",
+  "active": "45802a48e3c8276d",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic.md",
     "sessions/C04/Session Zero.md",
     "sessions/C03/2024-01-04.md",
     "sessions/C02/2023-10-05.md",
@@ -300,7 +301,6 @@
     "players/Trey Martinez.md",
     "players/Kerrie Heath.md",
     "players/Alex Kelsch.md",
-    "adventures/C04 The Nature of Magic.md",
     "players/Claire Elrod.md",
     "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
