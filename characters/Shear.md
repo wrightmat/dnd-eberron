@@ -9,10 +9,10 @@ race: Warforged
 class: Druid
 subclass: 
 alignment: Neutral Good
-campaign: "[[C04 The Nature of Magic]]"
 languages: 
 background: Wildspacer
-comments:
+campaign: "[[C04 The Nature of Magic]]"
+player: "[[Trey Martinez]]"
 ---
  #pc 
 
@@ -39,7 +39,7 @@ comments:
 
 ### DM Notes
 
-- Trey would like a pet of some sort, like maybe a bird (owl probably) or a drake.
+- Trey would like a pet of some sort, like maybe a bird (owl probably) or a drake. So Shear should join Familiar House!
 - Possibly use something like dream sequences to elucidate Shear's forgotten background.
 	- A good initial one would be related to the Owlin of Strixhaven being similar to the Owl Totem protector of the Twilight Forest, Strigix of Lamannia.
 

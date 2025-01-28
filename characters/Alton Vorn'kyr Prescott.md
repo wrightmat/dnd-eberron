@@ -9,10 +9,10 @@ race: Elf
 class: Fighter
 subclass: 
 alignment: 
-campaign: "[[C04 The Nature of Magic]]"
 languages: 
 background: Sage
-comments:
+campaign: "[[C04 The Nature of Magic]]"
+player: "[[Alex Kelsch]]"
 ---
  #pc 
 

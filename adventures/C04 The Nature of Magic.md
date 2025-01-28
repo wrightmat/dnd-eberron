@@ -8,7 +8,11 @@
 
 ### Player Characters
 
-- 
+- [[Alton Vorn'kyr Prescott]] (Alex)
+- [[Hawthorne Winters]] (Kerrie)
+- [[Cosset Theris]] (Jolene)
+- [[Shear]] (Trey)
+- ??? (Sara)
 
 ### Major NPCs
 
@@ -23,7 +27,7 @@
 - **Scroll and Bones Society** (Strixhaven)
 	- A secret society that's existed since the founding of the University, but it unknown by most. It functions as an elite organization where only the most exemplary students are asked to pledge themselves.
 	- Initiates into the Scroll and Bones Society participate in a secret initiation ceremony in which a new spell, tailored specifically to them, is inscribed onto a scroll for the first time.
-	- This organization has a secret meeting house located somewhere under Central Campus, where only members know the true location. It appeals most ot those of Lawful alignments.
+	- This organization has a secret meeting house located somewhere under Central Campus, where only members know the true location. It appeals most to those of Lawful alignments.
 - **Oriq Order** (Strixhaven)
 	- A secret society who uses magics "forbidden by the colleges of Strixhaven," and are obsessed with power at any cost. Most members are actually drop-outs of or those denied admission to Strixhaven, but the Order does attempt to draw members from the student body in order to further their goals.
 	- Initiates into the Oriq Order learn all about the forbidden magic of Hemomancy. Those who complete the ritual of initiation are given a special feat that marked them as a member of the Oriq Order.

@@ -9,10 +9,10 @@ race: Warforged
 class: Wizard
 subclass: 
 alignment: Neutral Good
-campaign: "[[C04 The Nature of Magic]]"
 languages: 
 background: Sage
-comments:
+campaign: "[[C04 The Nature of Magic]]"
+player: "[[Jolene Harper]]"
 ---
  #pc 
 

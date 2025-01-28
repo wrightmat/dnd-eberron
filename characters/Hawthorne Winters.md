@@ -9,10 +9,10 @@ race: Tiefling
 class: Wizard
 subclass: 
 alignment: Neutral Good
-campaign: "[[C04 The Nature of Magic]]"
 languages: 
 background: Guild Artisan
-comments:
+campaign: "[[C04 The Nature of Magic]]"
+player: "[[Kerrie Heath]]"
 ---
  #pc 
 
