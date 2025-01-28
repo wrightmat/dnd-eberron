@@ -8,10 +8,14 @@ session:
 
 ### Pre-Session Notes:
 
-##### Questionnaire
+##### Questionnaire and Misc. Review
 **Results**:
-- As a group, you are looking for a story heavy campaign, in which problem-solving and exploring are the focus. (so this campaign will be perfect for you!)
+- As a group, you are looking for a story heavy campaign, in which problem-solving and exploring are the focus. (so do I have the campaign for you!)
 - Most popular location is iTap, with Hexagon Alley being second. So we'll continue with the current setup of iTap as the primary location, and moving to Hexagon Alley when events necessitate it (I'm not aware of any on Monday, but I'm sure there will be occasionally).
+**Misc. Review**:
+- If at least 3 players have confirmed attendance, we will play.
+- Start time - change to 7pm consistently?
+- Using 2024 rules, but for character creation you can use any legacy content you like.
 
 ##### New 2024 Rules
 Lots of various changes, mostly balance-related. Review anything you want to use and don't assume it's the same!
