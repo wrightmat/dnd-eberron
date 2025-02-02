@@ -37,7 +37,7 @@
 - We see various buildings, constructed from sturdy wood and stone, with buttressed walls and arched entrances. One such building sports a simple hanging sign outside denoting it as the "Inn" (ask Kerrie the name). Inside the warmth of the fire casts shadows on the aging face of an older tiefling man.
 - Ask Kerrie what Hawthorne is doing in the Inn, all by himself as the few patrons have gone to bed.
 - Thunder cracks outside and lighting illuminates the room for a short time. The storms have become routine to Hawthorne, but he likes to stay awake and helpful to any patrons who may not be as familiar.
-- Just as the lightning flashes again, the paper drake appears at the window. As it's closed, the paper gets wetter and wetter as it frantically slaps its wings against the window, trying to garner any attention at all.
+- Just as the lightning flashes again, the paper drake appears at the window. Since it's closed, the paper gets wetter and wetter as it frantically slaps its wings against the window, trying to garner any attention at all.
 
  - [ ]  **Alton Prescott** (Alex)
 
@@ -45,9 +45,11 @@
 
  - [ ]  **Shear** (Trey)
 
+- Open with Shear waking up in a dilapidated shine on the border of the Forsaken Forest. This is the Forsaken Shrine which Shear spends a lot of time, sometimes even spending the night near the place where he was found.
+- He leaves and heads back to the town he actually lives in, Skairn.  After passing through the Driftwood Market, as he always does on his way home, he arrives at the Moonlit Forge where Brugha (the orc who essentially raised him) is working.
 - 
 
- - [ ]  **???** (Sara)
+ - [ ]  **Zsehissu** (Sara)
 
 - 
 
