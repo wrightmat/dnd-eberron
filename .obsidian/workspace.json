@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-00  Session One Intros.md"
+                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-00  Session One Intros"
+              "title": "Outline of 1-01  Strixhaven Year 1, Term 1"
             }
           },
           {
@@ -138,10 +138,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-00  Session One Intros.md"
+                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1-00  Session One Intros"
+              "title": "File properties for 1-01  Strixhaven Year 1, Term 1"
             }
           },
           {
@@ -272,12 +272,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "72c7e3307080fefc",
+  "active": "e7b72366d74ea006",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "characters/Zsehissu sulsall uistihi.md",
     "characters/Alton Vorn'kyr Prescott.md",
-    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "characters/Hawthorne Winters.md",
     "characters/Cosset Theris.md",
     "DM Screen.md",
@@ -299,7 +300,6 @@
     "adventures/C03 Riddles of the Third Age.md",
     "adventures/C02 Curse of Strahd (Abridged).md",
     "adventures/C01 What Dreams May Come.md",
-    "adventures/C01 What Dreams May Come/1-01  Delethorn Warehouse.md",
     "adventures/C04 The Nature of Magic Outline.canvas",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",

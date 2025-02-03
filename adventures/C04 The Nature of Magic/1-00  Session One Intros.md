@@ -40,7 +40,6 @@
 
  - [ ]  **Hawthorne Winters** (Kerrie)
 
-- ASK: Does Hawthorne have any other family, besides his missing daughter?
 - We see various buildings, constructed from sturdy wood and stone, with buttressed walls and arched entrances. One such building sports a simple hanging sign outside denoting it as the "Inn" (ask Kerrie the name). Inside the warmth of the fire casts shadows on the aging face of an older tiefling man.
 - Ask Kerrie what Hawthorne is doing in the Inn, all by himself as the few patrons have gone to bed.
 - Thunder cracks outside and lighting illuminates the room for a short time. The storms have become routine to Hawthorne, but he likes to stay awake and helpful to any patrons who may not be as familiar.
