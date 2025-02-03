@@ -23,7 +23,7 @@
 >We look forward to welcoming you to our campus, where you will be part of a legacy that has shaped Eberron’s brightest minds. The enclosed spell will teleport you to Argonnessen whenever you've prepared.
 >
 >Warm regards,
->Tedric Taiva, Voice of the Founders
+>Jadzi, Oracle of Strixhaven
 
  - [ ]  **Cosset Theris** (Jolene)
 

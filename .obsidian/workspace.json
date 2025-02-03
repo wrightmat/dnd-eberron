@@ -52,9 +52,19 @@
               "icon": "lucide-file",
               "title": "1-01  Strixhaven Year 1, Term 1"
             }
+          },
+          {
+            "id": "de57da4e54d3572f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,11 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "adventures/C04 The Nature of Magic/1-00  Session One Intros.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 1-00  Session One Intros"
+              "title": "Outline"
             }
           },
           {
@@ -137,11 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "adventures/C04 The Nature of Magic/1-00  Session One Intros.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 1-00  Session One Intros"
+              "title": "File properties"
             }
           },
           {
@@ -272,13 +278,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "72c7e3307080fefc",
+  "active": "de57da4e54d3572f",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "locations/Lathleer.md",
     "locations/Skairn.md",
     "locations/Eberron.md",
-    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "characters/Zsehissu sulsall uistihi.md",
     "characters/Alton Vorn'kyr Prescott.md",
