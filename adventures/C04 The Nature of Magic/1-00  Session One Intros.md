@@ -58,7 +58,11 @@
 
  - [ ]  **Zsehissu** (Sara)
 
-- Skills: Deception and Intimidation
+- Zsehissu is stationed at The Verdant Coil, a clandestine operations hub nestled within Io’vakas, where orders for assassinations and espionage flow like whispers through the jungle-shrouded city. The place is a mixture of refined, austere efficiency and serpentine menace — silken curtains, hushed conversations, and hidden blades.
+- Her current task? Paperwork. Officially, she’s on standby. Unofficially, it’s a tedious watch-and-wait game behind a desk, skimming coded documents, sifting through information, and preparing for a job that may never come.
+- Ask Sara what she's doing at her desk. After exploring that a bit, she hears something nearby. It seems as though a piece of paper, possibly one of the many important coded documents dotting your desk, has been folded into a form (a dragon?) and is moving around the room. Zsehissu knows that if it's discovered that one of the documents she tends to has gone missing, she'll never get another assignment!
+- Overseer Veksha (male yuan-ti assassin), Zsehissu's boss, is a cold, calculating yuan-ti pureblood with golden scales and slit-pupil eyes. She speaks in slow, deliberate tones, as if constantly measuring the weight of every word. Veksha doesn't think highly of wasted motion, and she certainly wouldn't be pleased if Zsehissu left her post for anything less than an assassination.
+- Sara will need to come up with a plan to retrieve the document without alerting her boss. This may require a Deception or Intimidation check to talk with her boss can convince him that she needs to be able to leave her desk for some reason so she can covertly investigate the paper. Or it could be a Stealth check to sneak away from her desk without her boss noticing. Either way, success means she is able to get to the paper drake and discover that instead of a secret yuan-ti document, it's her acceptance letter to Strixhaven!
 
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.

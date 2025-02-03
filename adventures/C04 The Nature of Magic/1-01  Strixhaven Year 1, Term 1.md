@@ -633,7 +633,7 @@ Check off as information is received. These should be gathered from Secrets and 
 ### DM Notes and Random Tables
 
 - At the end of Orientation Week, the players should level up to 2nd level.
-- At the end of this adventure (midterm of their first year), the players should level up to 3rd level.
+- At the end of this adventure (midterm of their first year), the players should level up to 3rd level. Ask what they did on their midterm break to gain their subclass.
 
 ### References
 
