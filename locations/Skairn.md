@@ -13,6 +13,7 @@ Skairn is a rough-and-tumble yet oddly vibrant pirate town, where the sea meets 
 
 * **Brugha Deepbrand** (female orc smith). The gruff but warm-hearted owner of The Moonlit Forge. She took a warforged named Shear under her wing when he arrived in Skairn, teaching him how to work metal while helping him adapt to the world.
 * **Captain Veylan “Black Tide” Kordann** (male pirate captain). The unofficial ruler of Skairn, Veylan is an aging but cunning pirate who keeps the town in check.
+* **Old Toma** (male tortle druid). A retired sailor who claims to have once sailed to the edge of the world. Now he spends his days near the Driftwood Market, telling tales of spirits, manifest zones, and forgotten gods.
 
 ### Locations
 

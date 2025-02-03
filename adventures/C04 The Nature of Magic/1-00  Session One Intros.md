@@ -41,13 +41,14 @@
 
  - [ ]  **Alton Prescott** (Alex)
 
-- ASK: Does Alton live alone now, or what's his living situation? Any family or others around?
+- Alton lives alone now, in a large Aundairan town called Lathleer, and the only extended family around is his ex-wife's family.
+- 
 
  - [ ]  **Shear** (Trey)
 
 - Open with Shear waking up in a dilapidated shine on the border of the Forsaken Forest. This is the Forsaken Shrine which Shear spends a lot of time, sometimes even spending the night near the place where he was found.
 - He leaves and heads back to the town he actually lives in, Skairn.  After passing through the Driftwood Market, as he always does on his way home, he arrives at the Moonlit Forge where Brugha (the orc who essentially raised him) is working.
-- 
+- After spending whatever time he'd like doing whatever he'd like with the day, Shear retires upstairs to his room. Inside of the room sits the paper drake.
 
  - [ ]  **Zsehissu** (Sara)
 
