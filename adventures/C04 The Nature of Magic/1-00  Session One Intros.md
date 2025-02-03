@@ -28,6 +28,7 @@
  - [ ]  **Cosset Theris** (Jolene)
 
 - Opening scene should be a dream that she's having, where she's surrounded by children inside of a lavish Cyran mansion, doing nanny duties such as cooking for them and cleaning up after them. Dwell in this scene for a bit and ask Jolene what Cosset is doing with her day. Ask her the names of the children.
+- Ask for a History or Arcana check (DC 15), with success revealing this is a dream (continuing below) and failure continuing the dream (continue to ask questions about the scene).
 - When she wakes up, the new scene is a stark contrast, where she's completely alone and surrounded only by quiet.
 - Ask Jolene what she's doing, and after exploring that a bit, have her find the Strixhaven acceptance letter belonging to one of the children.
 
@@ -37,22 +38,27 @@
 - We see various buildings, constructed from sturdy wood and stone, with buttressed walls and arched entrances. One such building sports a simple hanging sign outside denoting it as the "Inn" (ask Kerrie the name). Inside the warmth of the fire casts shadows on the aging face of an older tiefling man.
 - Ask Kerrie what Hawthorne is doing in the Inn, all by himself as the few patrons have gone to bed.
 - Thunder cracks outside and lighting illuminates the room for a short time. The storms have become routine to Hawthorne, but he likes to stay awake and helpful to any patrons who may not be as familiar.
-- Just as the lightning flashes again, the paper drake appears at the window. Since it's closed, the paper gets wetter and wetter as it frantically slaps its wings against the window, trying to garner any attention at all.
+- Just as the lightning flashes again, the paper drake appears at the window. Since it's closed, the paper gets wetter and wetter as it frantically slaps its wings against the window, trying to garner any attention at all. Ask for an Investigation check (DC 15, so he can use passive if he prefers), which reveals the paper drake at the window, and the storm getting stronger.
 
  - [ ]  **Alton Prescott** (Alex)
 
 - Alton lives alone now, in a large Aundairan town called Lathleer, and the only extended family around is his ex-wife's family.
-- 
+- Start the scene with him leaving his job as a stone mason/carver, and ask Alex what he does on his way home.
+	- **Madame Elise Gibbard** (female human noble). She spots him passing and offers a polite but patronizing nod. “Ah, Mr. Prescott. Have you given thought to tailoring something more fitting? You still wear a laborer’s garb.” If Alton is curt, she’ll sigh, “It’s a shame to see the Prescott name fall into such disrepair.”
+	- **Tobin "Toby" Arkwright** (street vendor who sells roasted nuts and sweet rolls near Alton’s usual route home). “Evenin’, Mr. Prescott! Got a fresh batch today — first one’s free for my favorite stone man!” (He thinks Alton is grumpy but still likes him.)
+- Note that when Alton arrives home, it's a stately but somewhat cold noble residence, still bearing his wife’s family crest on the gates.
+- Alton makes himself dinner (a small already constructed plate, warmed in a small oven - TV dinner style) and settles into a large book about magic. As he's reading. he hears a strange sound at the door. When the door is opened, ask for a Perception check (DC 15). On a failure, he sees nothing, and when he turns around the paper drake is galivanting around his house! On a success, he does hear the paper drake behind him.
+- Alton will need to catch the paper drake that's running around his house, requiring a DC 14 Athletics check.
 
  - [ ]  **Shear** (Trey)
 
-- Open with Shear waking up in a dilapidated shine on the border of the Forsaken Forest. This is the Forsaken Shrine which Shear spends a lot of time, sometimes even spending the night near the place where he was found.
-- He leaves and heads back to the town he actually lives in, Skairn.  After passing through the Driftwood Market, as he always does on his way home, he arrives at the Moonlit Forge where Brugha (the orc who essentially raised him) is working.
-- After spending whatever time he'd like doing whatever he'd like with the day, Shear retires upstairs to his room. Inside of the room sits the paper drake.
+- Open with Shear in his small room above the Moonlit Forge (in the town of Skairn), where he starts his day. When he leaves the room, he is greeted by Brugha (the orc who essentially raised him), who is working at the forge.
+- Shear leaves the Moonlit Forge and walks through the Driftwood Market, on his way to the Forsaken Shrine where he often spends his days. Ask Trey if Shear goes anywhere else, or does anything, on his way to the shrine.
+- Shear arrives at a dilapidated shine on the border of the Forsaken Forest. This is the Forsaken Shrine, near the place where he was found. When he steps inside, he immediately knows something is amiss (passive Perception of 16), and that his things have been rummaged through by some creature which has since left (passive Insight of 16). Shear will need to track the creature through the Forsaken Forest, by succeeding in a DC 14 Survival check, with failure resulting in the paper drake finding him first.
 
  - [ ]  **Zsehissu** (Sara)
 
-- 
+- Skills: Deception and Intimidation
 
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.

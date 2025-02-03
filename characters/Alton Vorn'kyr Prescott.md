@@ -16,8 +16,8 @@ player: "[[Alex Kelsch]]"
 ---
  #pc 
 
-- From Xen'drik (Stormreach), but moved to Khorvaire long ago (probably somewhere in Aundair).
-* Recently widowed (shitty wife), so decided to live his dream and go to school.
+- From Xen'drik (Stormreach), but moved to Khorvaire long ago (to Lathleer in Aundair, where he met his wife).
+* Recently widowed (shitty wife, named Lyssa), so decided to live his dream and go to school.
 * Equivalent to early 20s (being an elf), so is basically a traditional student.
 
 ### Motivation and Goal(s)
