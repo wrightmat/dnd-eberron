@@ -28,6 +28,12 @@
  - [ ]  **Cosset Theris** (Jolene)
 
 - Opening scene should be a dream that she's having, where she's surrounded by children inside of a lavish Cyran mansion, doing nanny duties such as cooking for them and cleaning up after them. Dwell in this scene for a bit and ask Jolene what Cosset is doing with her day. Ask her the names of the children.
+	- Alis ir'Theris – The eldest, a studious and responsible child who dreamed of becoming a mage like their parents.
+	- Jorren ir'Theris – The mischievous middle child, always sneaking off to explore the world beyond their family's estate.
+	- Melis ir'Theris – A gentle and artistic soul, with a love for painting and storytelling.
+	- Thadric ir'Theris – The bold and adventurous one, always pretending to be a Cyran knight.
+	- Seraphina ir'Theris – The youngest, bright-eyed and full of endless questions about the world.
+	- Vey ir'Theris – Quiet and observant, with an uncanny ability to notice things others missed.
 - Ask for a History or Arcana check (DC 15), with success revealing this is a dream (continuing below) and failure continuing the dream (continue to ask questions about the scene).
 - When she wakes up, the new scene is a stark contrast, where she's completely alone and surrounded only by quiet.
 - Ask Jolene what she's doing, and after exploring that a bit, have her find the Strixhaven acceptance letter belonging to one of the children.

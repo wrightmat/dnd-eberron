@@ -18,6 +18,7 @@ player: "[[Kerrie Heath]]"
 
 - Owns an Inn in a small town in Sarlona (Ardhmen, Syrkarn).
 - His daughter (Lyra) left for Strixhaven, even though Hawthorne objected initially, and then disappeared without a trace.
+- Hawthorne has parents that live elsewhere in town. He hasn't seen Lyra's mother in years, they divorced before Lyra has even old enough to remember her.
 
 ### Motivation and Goal(s)
 
