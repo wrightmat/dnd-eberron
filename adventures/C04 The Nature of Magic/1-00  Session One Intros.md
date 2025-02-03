@@ -48,9 +48,9 @@
  - [ ]  **Alton Prescott** (Alex)
 
 - Alton lives alone now, in a large Aundairan town called Lathleer, and the only extended family around is his ex-wife's family.
-- Start the scene with him leaving his job as a stone mason/carver, and ask Alex what he does on his way home.
-	- **Madame Elise Gibbard** (female human noble). She spots him passing and offers a polite but patronizing nod. “Ah, Mr. Prescott. Have you given thought to tailoring something more fitting? You still wear a laborer’s garb.” If Alton is curt, she’ll sigh, “It’s a shame to see the Prescott name fall into such disrepair.”
-	- **Tobin "Toby" Arkwright** (street vendor who sells roasted nuts and sweet rolls near Alton’s usual route home). “Evenin’, Mr. Prescott! Got a fresh batch today — first one’s free for my favorite stone man!” (He thinks Alton is grumpy but still likes him.)
+- Start the scene with him leaving his job as a stone mason/carver, and ask Alex what he does on his way home. If nothing else, he walks along Willow Way toward his manor, where he's greeted by various town members as "Mr. Prescott" (which he probably doesn't appreciate) ala Belle in Beauty and the Beast.
+	- **Tobin "Toby" Arkwright** (street vendor who sells roasted nuts and sweet rolls near Alton’s usual route home). “Bonsoir, M’sieur Prescott! Fresh batch today — ze first one’s free for my favorite stone man” (He thinks Alton is grumpy but still likes him.)
+	- **Madame Elise Gibbard** (female human noble). She spots him passing and offers a polite but patronizing nod. “Ah, Monsieur Prescott. Surely, you 'ave considered 'aving somezing more elegant made, non? Zis… attire is still so practical.” If Alton is curt, she’ll sigh, “It’s a shame to ze the Prescott name fall into such... disrepair.”
 - Note that when Alton arrives home, it's a stately but somewhat cold noble residence, still bearing his wife’s family crest on the gates.
 - Alton makes himself dinner (a small already constructed plate, warmed in a small oven - TV dinner style) and settles into a large book about magic. As he's reading. he hears a strange sound at the door. When the door is opened, ask for a Perception check (DC 15). On a failure, he sees nothing, and when he turns around the paper drake is galivanting around his house! On a success, he does hear the paper drake behind him.
 - Alton will need to catch the paper drake that's running around his house, requiring a DC 14 Athletics check.
@@ -58,6 +58,8 @@
  - [ ]  **Shear** (Trey)
 
 - Open with Shear in his small room above the Moonlit Forge (in the town of Skairn), where he starts his day. When he leaves the room, he is greeted by Brugha (the orc who essentially raised him), who is working at the forge.
+	- "Rise an’ shine, then. Sun’s been up an hour an’ all, but I s’pose it don’t matter much to you, eh?"
+	- "What’re ye up to today, then? Gonna make yerself useful, or just thinkin’ deep thoughts again?"
 - Shear leaves the Moonlit Forge and walks through the Driftwood Market, on his way to the Forsaken Shrine where he often spends his days. Ask Trey if Shear goes anywhere else, or does anything, on his way to the shrine.
 - Shear arrives at a dilapidated shine on the border of the Forsaken Forest. This is the Forsaken Shrine, near the place where he was found. When he steps inside, he immediately knows something is amiss (passive Perception of 16), and that his things have been rummaged through by some creature which has since left (passive Insight of 16). Shear will need to track the creature through the Forsaken Forest, by succeeding in a DC 14 Survival check, with failure resulting in the paper drake finding him first.
 

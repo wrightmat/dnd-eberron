@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md"
+                "file": "adventures/C04 The Nature of Magic/1-00  Session One Intros.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-01  Strixhaven Year 1, Term 1"
+              "title": "Outline of 1-00  Session One Intros"
             }
           },
           {
@@ -138,10 +138,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md"
+                "file": "adventures/C04 The Nature of Magic/1-00  Session One Intros.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1-01  Strixhaven Year 1, Term 1"
+              "title": "File properties for 1-00  Session One Intros"
             }
           },
           {
@@ -272,11 +272,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7b72366d74ea006",
+  "active": "72c7e3307080fefc",
   "lastOpenFiles": [
-    "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "locations/Lathleer.md",
+    "locations/Skairn.md",
+    "locations/Eberron.md",
     "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
+    "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "characters/Zsehissu sulsall uistihi.md",
     "characters/Alton Vorn'kyr Prescott.md",
     "characters/Hawthorne Winters.md",
@@ -284,8 +287,6 @@
     "DM Screen.md",
     "characters/Shear.md",
     "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
-    "locations/Skairn.md",
-    "locations/Lathleer.md",
     "creatures/Paper Drake.md",
     "locations/Aundair.md",
     "adventures/C04 The Nature of Magic.md",
@@ -299,7 +300,6 @@
     "sessions/C02/2023-10-05.md",
     "adventures/C03 Riddles of the Third Age.md",
     "adventures/C02 Curse of Strahd (Abridged).md",
-    "adventures/C01 What Dreams May Come.md",
     "adventures/C04 The Nature of Magic Outline.canvas",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
