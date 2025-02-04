@@ -10,7 +10,7 @@
 * **Groff Lundquist** (NG male human commoner). A friendly Strixhaven staff member who runs the Biblioplex Student Store and is known for his ability to fashionably mix and match items of university apparel.
 	* **Voice**: Low-pitched, Slow-paced, Gruff (rough, irritated), Clipped (short, abrupt phrases), Stoic (neutral expression, minimal movement).
 * **Aisla Fitzbottom** (CG female gnome commoner). Aisla runs the Biblioplex Café. She is charmingly perky and has a mind like a steel trap when it comes to recognizing students.
-	* **Voice**: High-pitched, Fast-paced, Sweet (soothing, charming), Rambling (long, unfocused sentences), Fidgety (taps, twitches, or fiddles with objects).
+	* **Voice**: High-pitched, Fast-paced, Sweet (soothing, charming), Rambling (long, unfocused sentences), Fidgety (taps, twitches, or fiddles with objects), slight Irish accent (using "my dear" a lot).
 * **Professor [[Mavinda Sharpbeak]]** (NG female owlin Silverquill professor of radiance). Whether helping students with interpersonal problems or picking their college, Mavinda is at the ready with wise words and a comforting wing.
 	* **Voice**: Medium-pitched, Medium-paced, Warm (friendly, inviting), Drawn-out vowels (elongated sounds, e.g., 'weeeeell...'), Cheerful (smiles, laughs often).
 * **Ellina Tanglewood** (CG female elf mage). The Strixhaven employee who manages the café and serves as its chief barista.
@@ -54,7 +54,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ##### Day 2: Biblioplex Scavenger Hunt
 
 ###### Introducing the Biblioplex
- - [ ]  
+ - [x]  ✅ 2025-02-03
 - Day 2 of Orientation, consisting of a scavenger hunt, begins in the Biblioplex, the university’s grand library.
 >Majestic marble archways, tomes seemingly stacked for miles, and the infectious energy of hundreds of young adults fill the Biblioplex, the grand library at the heart of Strixhaven University. The sights, sounds, and sparks of magic in the air are wondrous.
 >Your acceptance letter stated that you must report to the Biblioplex’s Hall of Oracles to receive instructions on new-student orientation. The hall sits at the center of the Biblioplex’s first floor, and you can already see students gathering there.
@@ -188,17 +188,17 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - Explain the Biblioplex’s areas in detail before the characters begin this scavenger hunt, so they have an idea of which areas the clues point to. Have the characters begin the scavenger hunt with the first clue, since it points to the room they’re already standing in. The players can then complete the other clues in any order they wish.
 
 ###### Clue 1: Hall of Oracles
- - [ ]  
+ - [x]  ✅ 2025-02-03
 - This clue refers the characters to the room they start the orientation in (area B11).
 - If a character touches the pooled energy below the snarl, they momentarily lose track of their body, overwhelmed by the snarl’s magical power. The character automatically disengages from the snarl and discovers that they are holding a [[potion of healing]].
 
 ###### Clue 2: Student Art Gallery
- - [ ]  
+ - [x]  ✅ 2025-02-03
 - This clue refers to the Student and Alumni Art Gallery in area B12.
-- When the characters wander through the gallery, they see a portrait of several older alumni wearing Prismari College robes. If a character examines the portrait, they find a plaque that reads: “At Strixhaven we were all inspired.” Below the plaque is a small lever. If a character uses an action to pull the lever, a box pops out of the wall containing a Strixhaven pennant for each character in the party. Once it dispenses the pennants, the box disappears back into the wall and doesn’t work for the characters again.
+- When the characters wander through the gallery, they see a portrait of several older alumni wearing Prismari College robes. If a character examines the portrait, they find a plaque that reads: “At Strixhaven we were all inspired.” Below the plaque is a small lever. If a character uses an action to pull the lever, a box pops out of the wall containing a [[Strixhaven Pennant]] for each character in the party. Once it dispenses the pennants, the box disappears back into the wall and doesn’t work for the characters again.
 
 ###### Clue 3: Biblioplex Café
- - [ ]  
+ - [x]  ✅ 2025-02-03
 - This clue refers to the Biblioplex Cafe in area B6.
 - When the characters enter the cafe, they see several students enjoying drinks and snacks. **Aisla Fitzbottom**, the cafe manager, is a Strixhaven staff member and the only worker behind the counter at present. The characters must present their scavenger hunt list to Aisla. When they do, she tells them to come behind the counter and help her quickly restock the cafe’s sandwiches and baked goods from several modified Howard’s handy haversacks.
 - If a character goes above and beyond in their assistance with a successful DC 15 Dexterity check, Aisla gives that character a random trinket (from [[Strixhaven Trinkets]]). Many students have ignored her requests for help during the orientation, she says, so she decides to make an exception with a gift from her own pockets. Plus, she likes the new students’ ambition.
@@ -214,7 +214,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - When the characters reach the amphitheater, they see an impressively lavish stage, with the curtains drawn back as if to reveal performers on the opening night of a major production. If a character recites, sings, hums, belches, or otherwise emits any line or tune while standing on the stage, bright floodlights snap on around the stage’s perimeter — a number of lights equal to the number of characters in the group. Approaching any of the lights reveals a recess in which lies a hooded lantern filled with oil.
 
 ###### That Trunk Has Teeth!
- - [ ]  
+ - [x]  ✅ 2025-02-03
 - Once the characters have completed as much of the scavenger hunt as they wish, they hear a commotion coming from the west shelves of the main stacks in area B10. Read or paraphrase the following:
 >The joyous and energetic atmosphere of the first floor is shattered by panicked shouting. “That trunk!” a young elf screams, pointing toward the stacks as she runs by. “That trunk has teeth! Please, anyone, stop it!”
 Chaos erupts in the library as students stream in all directions, their books and papers flying as they shout in fear. The only faculty mages in sight are trying to deal with panicked students. You can't just let some monster ruin the first week. Time to step up!

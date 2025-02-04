@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 306.5
   },
   "right": {
     "id": "c37e5cd9d654d368",
@@ -232,9 +232,14 @@
   },
   "active": "e7b72366d74ea006",
   "lastOpenFiles": [
-    "other/Cuddly Strixhaven Mascot.md",
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "other/Dragon Claws (Vestige).md",
+    "sessions/2025-02-10.md",
+    "sessions/2025-02-03.md",
     "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "sessions/2025-01-27.md",
+    "other/Strixhaven Pennant.md",
+    "other/Cuddly Strixhaven Mascot.md",
     "locations/Skairn.md",
     "locations/Lathleer.md",
     "DM Screen.md",
@@ -249,15 +254,10 @@
     "creatures/Paper Drake.md",
     "locations/Aundair.md",
     "adventures/C04 The Nature of Magic.md",
-    "sessions/C04/2025-01-27.md",
     "characters/Aither Calobra Lightwood.md",
     "adventures/C03 Riddles of the Third Age/1-11  Sarlona and the Final Lair.md",
     "sessions/C03/2024-01-04.md",
     "locations/Olarune (Lamannia).md",
-    "_templates/Character - PC.md",
-    "characters/Adara Bristalfyr.md",
-    "sessions/C02/2023-10-05.md",
-    "adventures/C03 Riddles of the Third Age.md",
     "adventures/C04 The Nature of Magic Outline.canvas",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
