@@ -4,12 +4,6 @@
 
 * Do an in-depth scene with each player where they get their Strixhaven acceptance letter during the course of a normal day in their life. The twist is that the letter is delivered in the form of an enchanted Paper Drake that anyone but the applicant sees as a plain piece of paper (possibly like a paper airplane if flying). Each scene should consist of the Paper Drake appearing, the player needing to wrangle the Drake in order to read the letter (which causes the Drake to unfold and collapse temporarily so it can be read), and then the Drake flying off leaving behind a piece of itself with a teleportation spell (which leads to Strixhaven when the player reads it).
 
-### Characters and Locations
-
-* 
-
-* 
-
 ### Scenes and Situations
 
  - [ ]  **Acceptance Letter**
