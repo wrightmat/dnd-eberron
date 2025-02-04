@@ -39,12 +39,12 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ##### Day 1: Moving In
 
 ###### Introduction
- - [ ] 
+ - [x]  ✅ 2025-02-03
 - This adventure begins when students have arrived on Strixhaven’s campus and the term’s classes are about to start. For the characters, the first order of business is to complete the week of orientation events required of first-year students.
 - Players are welcome to explore campus, but are encouraged to find their dorm rooms since it's already late evening.
 
 ###### Dormitory Tower
- - [ ]  
+ - [x]  ✅ 2025-02-03
 - The characters' welcome letters included the details of their dormitory assignments, and how to access their rooms. Transport circles located on the central campus (just as those described in the Biblioplex) can be used to get the players to their dorm rooms by simply standing on one and thinking of their room. This method cannot be used to access any other dorm floors unless given permission to do so.
 - They arrive in a curved hallway, within a small alcove which contains a transport circle that can move the players back to the central campus. The first door is closed and leads to the resident advisor's room. Three doors lead to shared (between two people) 15 foot by 15 foot rooms, one of which magically opens for each appropriate player. Flanking these rooms are two shared bathrooms (gender-neutral) which include showers. At the end of the hallway is a common room which can be seen clearly through a bank of floor-to-ceiling windows. All floors of the dorm tower have an identical layout.
 - Each shared dorm room houses two wooden beds, each bunked over a wooden desk, and a small gelatinous cube refrigerator. On each desk is a sheet of paper, which outlines all of the events for Orientation Week, presented as a checklist. It states that each student must turn in their completed checklist to the RA at the end of the week, and this is required before starting classes.
@@ -169,7 +169,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - At the center of this area stands a statue depicting a mighty, benevolent dragon. The magical statue reads aloud the contents of most books placed in front of it if a character makes that request verbally or mentally. (The magic of the statue can assess text such as verbal curses that present a danger if read aloud, and the statue ignores requests to read such text.)
 
 ###### Orientation Challenge
- - [ ]  
+ - [x]  ✅ 2025-02-03
 - When the characters enter the Hall of Oracles to begin orientation, read or paraphrase the following:
 >An almost sacrosanct sense of calm descends as you step into the Hall of Oracles. "Brilliant scholars," says a rich, soothing voice radiating from the hall’s central snarl of glowing energy. "Your attention, please.
 “As you are now Strixhaven University students, this storied Biblioplex will be your second home for research, studies, and even leisure. And to introduce you to it, we will embark on Orientation Week's first event — a scavenger hunt!"
@@ -204,12 +204,12 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - If a character goes above and beyond in their assistance with a successful DC 15 Dexterity check, Aisla gives that character a random trinket (from [[Strixhaven Trinkets]]). Many students have ignored her requests for help during the orientation, she says, so she decides to make an exception with a gift from her own pockets. Plus, she likes the new students’ ambition.
 
 ###### Clue 4: Book Garden
- - [ ]  
+ - [x]  ✅ 2025-02-03
 - This clue refers to the book gardens of area B9.
 - When the characters enter a book garden, they see a lush arboretum. A successful DC 10 Intelligence (Investigation) check reveals that three of the shrubs are not ordinary greenery, but are instead awakened shrubs, each with a glistening crown of leaves. If a character uses an action to pat the shrubs on these leaves, the branches part to reveal a [[Cuddly Strixhaven Mascot]], representing the owl from the Strixhaven coat of arms. This magic works only once per character.
 
 ###### Clue 5: Amphitheater
- - [ ]  
+ - [x]  ✅ 2025-02-03
 - This clue refers to the amphitheater in area B13.
 - When the characters reach the amphitheater, they see an impressively lavish stage, with the curtains drawn back as if to reveal performers on the opening night of a major production. If a character recites, sings, hums, belches, or otherwise emits any line or tune while standing on the stage, bright floodlights snap on around the stage’s perimeter — a number of lights equal to the number of characters in the group. Approaching any of the lights reveals a recess in which lies a hooded lantern filled with oil.
 
