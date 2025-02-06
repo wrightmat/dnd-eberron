@@ -9,7 +9,7 @@
 
 * **Caleon Merris** (male human). Caleon is the charismatic mayor of the idyllic Aundairian town where the players live their false lives. Warm and approachable, he’s beloved by the townsfolk for his generosity and genuine care. Caleon frequently visits the players, offering kind words, advice, and assistance with their daily lives. In reality, he's a powerful Oriq enchanter.
 
-* **Lathleer, [[Aundair]]**
+* **Askelios, [[Aundair]]**
 
 ### Scenes and Situations
 

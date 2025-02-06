@@ -79,7 +79,7 @@
 	* The final three schools are all on Argonnesson, and will need to be tackled roughly sequentially before taking on the finale.
 * Malakar and his Oriq, in collaboration with House Tarkanan, are trying to wipe out the different schools of magic by eliminating any master of that school (usually by going back in time and eliminating them from the timeline), or disrupting the education of it through the major academic organization.
 	* [[2-02  Abjuration]]: Morgrave University in Sharn, and a city-rampaging combat adventure.
-	* [[2-03  Enchantment]]: Lathleer in Aundair, memories modified and alternative lives lived.
+	* [[2-03  Enchantment]]: Askelios in Aundair, with memories modified and alternative lives lived.
 	* [[2-04  Evocation]]: Rekkenmark Academy in Karrnath, and ???
 	* [[2-05  Divination]]: The Citadel in Wroat, the King's Dark Lanterns (and Wands), and a pre-cog arrest mystery.
 	* [[2-06  Transmutation]]: Mordain the Fleshweaver (Mordain's Hall in Droaam), and a time travel adventure.
@@ -87,7 +87,7 @@
 	* [[2-08  Illusion]]: Pylas Pyrial in Zilargo/Thelanis, The Prince of Frost, and a court intrigue adventure.
 	* [[2-09  Necromancy]]: The jungles of Xen'drik, and a necromantic war between two factions.
 	* [[2-10  Artifice]]: Lord of Blades, The Mournland, and ???
-	* [[2-11  Psionics]]: Adar in Sarlona, and ???
+	* [[2-11  Psionics]]: Nulakesh in Sarlona, and a mental mystery.
 
 * **First Pinch Point**: Some evidence that magic is being drained from the world. As a wide magic world, this may show in the form of basic spells like *[[prestidigitation]]*, that's used everywhere for lots of things, have stopped working. This may occur any time after 1st adventure is completed.
 * **Second Plot Point (Midpoint)**: Clear and dramatic demonstration of there being less magic in the world. Magical disaster(s) that serve as key moments of tension - which may include any of these depending on where they players are at this time (after completion of the first five adventures).

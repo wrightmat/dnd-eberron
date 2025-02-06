@@ -12,7 +12,7 @@
 * **Aevryn Soulsong** (male drow cleric). A spiritual leader attuned to Dolurrh’s energies. He believes the zone is a test of the drow’s faith and advocate for balance over destruction.
 * **Voryn Blackspire** (male shadar-kai knight). Kaelith’s enforcer, Voryn is a stoic warrior who sees the players as obstacles until proven otherwise. He respects honor but will not hesitate to eliminate threats.
 
-* **Xen'drik**
+* **Pyramid of Ebon Flame, Xen'drik**
 
 ### Scenes and Situations
 

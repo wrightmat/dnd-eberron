@@ -52,9 +52,23 @@
               "icon": "lucide-file",
               "title": "1-01  Strixhaven Year 1, Term 1"
             }
+          },
+          {
+            "id": "1b7ddc8368729a8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C04 The Nature of Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C04 The Nature of Magic"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +87,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -126,10 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md"
+                "file": "adventures/C04 The Nature of Magic.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-01  Strixhaven Year 1, Term 1"
+              "title": "Outline of C04 The Nature of Magic"
             }
           },
           {
@@ -206,6 +224,49 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "bc9ab70c03cf8682",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "adventures/C04 The Nature of Magic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from C04 The Nature of Magic"
+            }
+          },
+          {
+            "id": "9415ab54a22343e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99c94a00c2f7ae31",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -230,13 +291,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7b72366d74ea006",
+  "active": "1b7ddc8368729a8f",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/2-03  Enchantment.md",
+    "adventures/C04 The Nature of Magic.md",
+    "adventures/C04 The Nature of Magic/2-11  Psionics.md",
+    "sessions/C03/2024-01-04.md",
+    "adventures/C04 The Nature of Magic/2-09  Necromancy.md",
+    "adventures/C03 Riddles of the Third Age/1-01  Ten Regions Vignettes.md",
+    "sessions/C03/2024-01-11.md",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "other/Dragon Claws (Vestige).md",
     "sessions/2025-02-10.md",
     "sessions/2025-02-03.md",
-    "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "sessions/2025-01-27.md",
     "other/Strixhaven Pennant.md",
     "other/Cuddly Strixhaven Mascot.md",
@@ -251,13 +319,6 @@
     "characters/Cosset Theris.md",
     "characters/Shear.md",
     "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
-    "creatures/Paper Drake.md",
-    "locations/Aundair.md",
-    "adventures/C04 The Nature of Magic.md",
-    "characters/Aither Calobra Lightwood.md",
-    "adventures/C03 Riddles of the Third Age/1-11  Sarlona and the Final Lair.md",
-    "sessions/C03/2024-01-04.md",
-    "locations/Olarune (Lamannia).md",
     "adventures/C04 The Nature of Magic Outline.canvas",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
