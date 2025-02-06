@@ -3,7 +3,7 @@
 ### Background and Hook(s)
 
 * The dragon totems are not just statues; they are temporal anchors, used by the dragons to observe the past and future. Each totem corresponds to a moment in history, allowing powerful seers to witness events without interfering. However, someone has begun tampering with the totems, attempting to rewrite history itself.
-* After all of the time periods have been visited, the dragonshard that Extus used to escape is found that leads the party to a showdown with the first lieutenant.
+* After all of the time periods have been visited, the dragonshard that Extus used to escape is found that leads the party to a showdown with the first lieutenant back on Totem Beach.
 
 ### Characters and Locations
 
@@ -192,9 +192,13 @@
     - DC 15: Shear
 	    - You stand at the heart of the inferno, surrounded by twisted, corrupted creatures. The ancient trees scream as they wither, their spirits torn apart by an unseen force. You fight alone, your form shifting between animal and metal, but the flames keep coming. A single figure stands beyond the fire — indistinct, watching. As the forest collapses, you take one final step forward before the vision fades.
 	- DC 15: Alton
-		- You kneel, a shattered greatsword in your hands, blood soaking into the dust. The ruins of a fortress lie around you, its once-proud walls collapsed. Figures move beyond the rubble — warriors, mages, but their faces are lost in the haze. A final adversary steps forward, blade raised, and you don't move to stop them.
+		- The battlefield is still, the clash of blades and magic fading into silence. You kneel amid the ruins of a fortress, a shattered greatsword in your hands, blood pooling at your feet. The faces of the fallen blur together, their names lost in the haze. A shadow moves toward you — someone you once trusted, their weapon raised, hesitation flickering for only a moment before they drive the blade home. You do not resist.
 	- DC 15: Zsehissu
-		- 
+		- The contract is complete. Another body crumples to the floor, its final breath slipping away into the cold air. You turn, wiping the blood from your blade, but something feels wrong. The room is silent — too silent. The shadows around you shift, figures emerging, their weapons already drawn. They were waiting for you. You reach for your next move, but the strike comes faster than expected, precise and practiced. As darkness overtakes you, the last thing you hear is a voice you recognize, murmuring the words you have spoken to so many others: "It’s nothing personal."
+	- DC 15: Hawthorne
+		- The struggle is already over by the time you collapse to the stone floor, crimson pooling beneath you. The masked figure stands above you, their blade still slick with your blood, their stance rigid, unreadable. Behind them, others move, their voices distant, speaking words you no longer have the strength to process. But your focus remains on the figure before you, the one who hasn’t yet lowered their weapon. A flash of familiarity cuts through the haze—the curve of a horn, the shape of their stance, the way their breath catches just slightly. As your vision fades, you understand the truth too late.
+	- DC 15: Cosset
+		- The house is quiet, frozen in time. Toys remain where they were last played with, books left open to stories that will never be finished. The halls stretch on, unchanged, untouched, as if waiting for voices that will never return. You stand in the center of the nursery, and time begins to slip away and lose all meaning. Dust begins to settle over your frame, creeping into the joints of your body, the weight of years pressing down. Your limbs refuse to move. There is no battle, no catastrophe, no final words — only stillness, as the world simply forgets you were ever here.
 - The presence of others (_Perception, Medicine_)
     - DC 12: Some of you die alone, others surrounded by figures whose faces are obscured. One of them seems familiar.
     - DC 15: Someone is holding your hand in your final moments. They are speaking, but their words are muffled, as if not yet written.
@@ -223,6 +227,20 @@
 - The final battle for this adventure should take place on the Totem Beach, surrounded by the dragon totems. Maybe they can play a role somehow?
 - Extus's tactics should focus on shifting the battlefield as much as possible using dunamancy magic. Maybe even reversing gravity and sending things into the sky to create a crazy, dynamic battlefield!
 - At the midpoint of the battle (half HP for Extus), the scene below should happen.
+- Phase 1: Optional Floating Platforms
+	- Extus causes the dragon totems to float in the air and flip upside down, creating floating platforms that the players can choose to use to their advantage. This also alludes to future battle phases.
+- Phase 2: Gravity Inversion – Fighting Upside Down
+	- Extus reverses gravity, sending himself and all combatants into the sky, where additional floating platforms now act as the battlefield.
+	- Any creatures that fail a saving throw are flung upwards until they grab onto something (Athletics/Acrobatics check).
+	- Spells with projectile trajectories may function differently, bending due to shifting gravitational pull.
+- Phase 3: Chaotic Gravity – Constantly Shifting Directions
+	- Extus, now more unstable, begins shifting gravity in different directions every round.
+	- The battlefield moves horizontally, diagonally, and even rotates, forcing players to constantly reposition.
+	- At this point, Extus fights more aggressively, trying to break the party’s formation and send them into hazards.
+- Phase 4: Singularity Collapse – The Final Gambit
+	- Extus, realizing he is losing, creates an unstable singularity, pulling all combatants toward its center.
+	- Floating platforms crumble, forcing players to rely on midair combat or last-second positioning.
+	- This phase is a desperate struggle, where one final strike can determine the battle’s outcome.
 
 ###### 13. The Hidden Vision – The Shadow Beyond Time
  - [ ] 
