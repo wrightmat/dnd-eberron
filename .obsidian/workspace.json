@@ -54,17 +54,62 @@
             }
           },
           {
-            "id": "1b7ddc8368729a8f",
+            "id": "84507111e8e612fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
+                "file": "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-13  Dunamancy"
+              "title": "2-01  Khorvaire Opening"
+            }
+          },
+          {
+            "id": "896f453c0966764b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/C04 The Nature of Magic.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C04 The Nature of Magic"
+            }
+          },
+          {
+            "id": "0d1494115c6ce4e1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "adventures/C04 The Nature of Magic Outline.canvas",
+                "viewState": {
+                  "x": -14.331286791973184,
+                  "y": 249.11959621538293,
+                  "zoom": -0.6883613960204031
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "C04 The Nature of Magic Outline"
+            }
+          },
+          {
+            "id": "c1cb4076c7056f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/Arcanix.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arcanix"
             }
           }
         ],
@@ -141,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
+                "file": "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-13  Dunamancy"
+              "title": "Outline of 2-01  Khorvaire Opening"
             }
           },
           {
@@ -231,12 +276,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
+                "file": "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2-13  Dunamancy"
+              "title": "Outgoing links from 2-01  Khorvaire Opening"
             }
           },
           {
@@ -291,35 +336,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1b7ddc8368729a8f",
+  "active": "84507111e8e612fb",
   "lastOpenFiles": [
+    "locations/Fairhaven.md",
+    "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
+    "locations/Arcanix.md",
+    "adventures/C04 The Nature of Magic.md",
+    "adventures/C04 The Nature of Magic Outline.canvas",
+    "locations/Stormhome.md",
+    "adventures/C04 The Nature of Magic/2-02  Abjuration.md",
+    "adventures/C04 The Nature of Magic/2-06  Transmutation.md",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
     "adventures/C04 The Nature of Magic/2-11  Psionics.md",
     "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
-    "adventures/C04 The Nature of Magic.md",
-    "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "adventures/C04 The Nature of Magic/2-08  Illusion.md",
     "adventures/C04 The Nature of Magic/2-09  Necromancy.md",
     "adventures/C04 The Nature of Magic/2-10  Artifice.md",
-    "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
     "adventures/C04 The Nature of Magic/2-14  Hemomancy (Finale).md",
-    "adventures/C04 The Nature of Magic Outline.canvas",
     "characters/Cosset Theris.md",
     "other/Oriq Order.md",
-    "adventures/C04 The Nature of Magic/2-06  Transmutation.md",
     "adventures/C04 The Nature of Magic/2-03  Enchantment.md",
     "sessions/C03/2024-01-04.md",
     "adventures/C03 Riddles of the Third Age/1-01  Ten Regions Vignettes.md",
     "sessions/C03/2024-01-11.md",
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "other/Dragon Claws (Vestige).md",
     "sessions/2025-02-10.md",
     "sessions/2025-02-03.md",
     "sessions/2025-01-27.md",
-    "other/Strixhaven Pennant.md",
-    "other/Cuddly Strixhaven Mascot.md",
-    "locations/Skairn.md",
-    "locations/Lathleer.md",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",

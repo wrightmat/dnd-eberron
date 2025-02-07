@@ -7,7 +7,9 @@
 
 ### Characters and Locations
 
-* 
+* **Professor Lysten Vorrith** (male human abjuration wizard). A reserved but perceptive researcher at the Floating Towers of Arcanix. He’s concerned about Morgrave’s failing wards and is one of the few openly discussing it.
+* **Raeda Syvalis** (female elven wizard). Head librarian at the Library of Robideur of Arcanix, who has a great general understanding of magic. Can answer any questions about what's going on with magic in the area, and direct to any of the clued locations.
+* **Professor Theon Aldair** (male human scholar). A historian at the University of Wyrnarn who tracks magical phenomena but is dismissive of conspiracy theories.
 
 * **[[Arcanix]], Aundair**
 * **[[Fairhaven]], Aundair**
@@ -18,22 +20,52 @@
 ###### 1. Arcanix
  - [ ] 
 - The primary point of interest here should be the Floating Towers, where any player landing here could get information about magic.
-- Players landing here could also learn immediately about the troubles with Divination magic in the area, and the recent issues with the Eye of Siberys.
+- A small tavern in the nearby farming village could direct any player as needed. A traveling member of the Path of Light (Aither, along with her traveling companion Seralath) is there.
+- Professor Lysten Vorrith can comment directly on the three clued school of magic adventures (especially in Sharn), while Raeda Syvalis can comment generally on magic in the area. Also Tanila, the headmistress of Arcanix, can be found and questioned if needed; as well as Windsor, Astra, and/or Chip.
+- Clues: Transmutation (Shadow Marches), Enchantment (Aundair), Abjuration (Sharn)
 
 ###### 2. Fairhaven
  - [ ] 
 - The primary point of interest should be the University of Wynarn, where any player landing here could get information about magic.
+- Professor Theon Aldair can comment generally on magic in the area, as well as give clues.
+- The Dome of Light is basically a small chapel for the Path of Light. A traveling member (Aither, along with her traveling companion Seralath) can be found there.
 
 ###### 3. Stormhome
  - [ ] 
 - Players landing here would immediately notice that storms have racked the island. If asking around, they'd learn that until recently, magic controlled the weather here but that magic is no longer working. The Raincallers Guild Hall would be the place to ask about that.
+- 
 
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.
 
+**General:**
  - [ ]  Malakar’s ultimate goal is to consume all mana, transcending mortality and becoming a godlike being beyond the Sovereigns’ reach.
  - [ ]  While no widespread calamities have occurred yet, magic has started behaving strangely in subtle ways.
- - [ ]  
+**Transmutation (A):**
+ - [ ]  There used to be places in the Marches where the land itself was alive with magic — places where the trees grew strange and creatures changed in unnatural ways. But now? Nothing. Just untouched wilderness, like it was never there.
+ - [ ]  I heard of a relic deep in the Shadow Marches — an obelisk that shows visions of a world that never was. People say it’s just an illusion, but some claim they’ve seen reflections of themselves… changed, as if they had lived another life.
+ - [ ]  They say certain spells don’t work right anymore. Transmutation magic just… fails, like the world forgot how to change. And the strangest part? No one can remember when it started.
+ - [ ]  **Path of Light**: The cycle of transformation is missing. All things should grow, evolve, and change, yet the world remains static where it should flow. Something has severed the natural order, leaving only echoes of what once was.
+**Enchantment (B):**
+ - [ ]  No one’s heard from a certain village in Aundair for months. No letters, no travelers — just silence. People who go to check on it? They don’t come back.
+ - [ ]  A powerful mage passed through a small town not long ago, and since then, no one has left. No letters, no travelers.
+ - [ ]  Something’s wrong with enchantment magic. Spells that once soothed the mind or bent wills simply fail, and those who relied on charm or persuasion find their words ringing hollow.
+ - [ ]  **Path of Light**: To manipulate the mind is to imprison the soul. Aundair hides a wound where memory is stolen, and those trapped within are kept from walking the path toward enlightenment.
+**Abjuration (C):**
+ - [ ]  Morgrave University’s wards are failing. Spells that have held for centuries are unraveling, and no one knows why.
+ - [ ]  They’ve shut down entire wings of Morgrave’s libraries. Some say it’s a security risk, but others whisper that even the simplest protective spells won’t hold anymore.
+ - [ ]  A scholar in Morgrave swore he had the perfect defense against magical attacks. He tested it last week. It didn’t work. He’s dead.
+ - [ ]  **Path of Light**: Protection is the foundation of balance. When the barriers between forces break, entropy follows. Something unseen is unraveling the world’s safeguards, and none can stand against what is to come.
+**Evocation (D):**
+ - [ ]  Something burned through the arcane wards at Rekkenmark. They say the entire building shook like a storm was trapped inside, and not a single apprentice who witnessed it has spoken since.
+ - [ ]  A military outpost near Rekkenmark was completely leveled — burned to the ground in an instant. No one saw what did it, and there were no signs of a battle.
+ - [ ]  There was an accident at the university — so they claim. But survivors talk of spellcasters who lost control, their power turning on them, as if the magic itself had been taken over.
+ - [ ]  **Path of Light**: Mana is not meant to be wielded as a weapon of reckless fury. In Karrnath, destruction grows wild, unbound from order, threatening to sever the flow of life itself.
+**Divination (E):**
+ - [ ]  The King’s Dark Lanterns are arresting people before they even commit crimes. They claim they ‘saw’ the guilt in their future, but how can fate be judged before it even unfolds?
+ - [ ]  A high-ranking noble in Wroat fled the city, claiming someone ‘saw’ something in her future she didn’t like. No one knows where she went, but the Lanterns are hunting her.
+ - [ ]  The King’s Wands have been acting strangely. Their leader, Captain Nebik, speaks of visions — he says he can see everything before it happens. But his eyes look hollow, as if something else is staring through them.
+ - [ ]  **Path of Light**: To see is not always to understand. True vision flows with the light of Irian, yet in Wroat, something twists the future into chains, binding the world to paths it was never meant to walk.
 
 ### DM Notes and Random Tables
 
