@@ -124,13 +124,13 @@
 
 **Focal Points**
 - The suspended warforged body at the center of the forge (Investigation, Medicine)
-	- DC 12: The form is incomplete — there is no soul yet bound to it.
+	- DC 10: The form is incomplete — there is no soul yet bound to it.
 	- DC 15: The bindings include an experimental integration of planar magic, suggesting Cannith drew inspiration from sources beyond their own traditions.
 - The human overseer at the controls (Insight, History)
-	- DC 12: His expression is uncertain — he is considering something, but none of the artificers around him seem to notice.
+	- DC 10: His expression is uncertain — he is considering something, but none of the artificers around him seem to notice.
 	- DC 15: He mutters under his breath about "the cost of true sentience," implying he understands this act is creating something more than just a construct.
 - The surrounding machinery and arcane inscriptions (Perception, Nature)
-	- DC 12: The sigils inlaid across the forge bear resemblance to those used in elemental binding, a technique most commonly seen in the construction of airships.
+	- DC 10: The sigils inlaid across the forge bear resemblance to those used in elemental binding, a technique most commonly seen in the construction of airships.
 	- DC 15: The inscriptions include reference to something called "The Divine Spark," a term that is not present in any modern Cannith records.
 
 ###### 8. The Mark of Prophecy’s First Appearance
@@ -140,13 +140,13 @@
 
 **Focal Points**
 - The child at the center of the ritual, staring at their own hands (Medicine, Insight)
-	- DC 12: The glowing sigils are not carved or inked—they shift and move across their skin, forming intricate shapes before dissolving and reforming.
+	- DC 10: The glowing sigils are not carved or inked — they shift and move across their skin, forming intricate shapes before dissolving and reforming.
 	- DC 15: The child does not appear afraid but is mouthing something silently — on closer observation, they are speaking Draconic, though they should be too young to know the language.
 - The gathered dragons watching from a distance (Perception, History)
-	- DC 12: They are not performing the ritual — this is not their doing. They are observing, not acting, as if awaiting confirmation of something.
+	- DC 10: They are not performing the ritual — this is not their doing. They are observing, not acting, as if awaiting confirmation of something.
 	- DC 15: One dragon shifts uneasily, its talons gripping the stone. It has a similar sigil carved into its scales, though old and faded, suggesting this has happened before.
 - The shifting symbols in the sky above the mountaintop (Investigation, Religion)
-	- DC 12: The patterns resemble sections of the Draconic Prophecy found in ancient texts, but they are changing in real time, as if new prophecy is being written in this moment.
+	- DC 10: The patterns resemble sections of the Draconic Prophecy found in ancient texts, but they are changing in real time, as if new prophecy is being written in this moment.
 	- DC 15: These symbols are not just foretelling events — they are reacting to the presence of the child, suggesting prophecy is not entirely predetermined but can be influenced.
 
 ###### 9. The Moment Malakar Chose His Path
@@ -172,13 +172,13 @@
 
 **Focal Points**
 - The battlefield and warring factions (_Perception, History_)
-    - DC 12: This is not just a war — it is a collapse of reality itself, as if something is unraveling the very fabric of magic.
+    - DC 10: This is not just a war — it is a collapse of reality itself, as if something is unraveling the very fabric of magic.
     - DC 15: The factions are not as clear-cut as dragons vs. mortals. Some dragons fight alongside humanoids, while others turn against their own kind.
 - The dragonshard spire at the center of the war (_Investigation, Nature_)
-    - DC 12: The energy radiating from the spire is similar to the magic being drained from Khorvaire — it is a focal point of immense power.
+    - DC 10: The energy radiating from the spire is similar to the magic being drained from Khorvaire — it is a focal point of immense power.
     - DC 15: The structure resembles the snarls they have encountered before, but this one appears to be fully under someone’s control.
 - The future versions of the party (_Insight, Religion_)
-    - DC 12: Each version moves with purpose, as if they have already accepted their fate in this war.
+    - DC 10: Each version moves with purpose, as if they have already accepted their fate in this war.
     - DC 15: At least one of them is missing, their absence unspoken but deeply felt by the others.
 
 ###### 11. The Future – Their Own Deaths
@@ -200,10 +200,10 @@
 	- DC 15: Cosset
 		- The house is quiet, frozen in time. Toys remain where they were last played with, books left open to stories that will never be finished. The halls stretch on, unchanged, untouched, as if waiting for voices that will never return. You stand in the center of the nursery, and time begins to slip away and lose all meaning. Dust begins to settle over your frame, creeping into the joints of your body, the weight of years pressing down. Your limbs refuse to move. There is no battle, no catastrophe, no final words — only stillness, as the world simply forgets you were ever here.
 - The presence of others (_Perception, Medicine_)
-    - DC 12: Some of you die alone, others surrounded by figures whose faces are obscured. One of them seems familiar.
+    - DC 10: Some of you die alone, others surrounded by figures whose faces are obscured. One of them seems familiar.
     - DC 15: Someone is holding your hand in your final moments. They are speaking, but their words are muffled, as if not yet written.
 - The final sensation before the vision fades (_Religion, Nature_)
-    - DC 12: There is no overwhelming pain, only acceptance, as if this moment had already been lived before.
+    - DC 10: There is no overwhelming pain, only acceptance, as if this moment had already been lived before.
     - DC 15: The moment stretches beyond time — you feel something watching, waiting, but whether it is a force of judgment or understanding is unclear.
 
 ###### 12. The Future – First Mortal to Become a God
@@ -213,13 +213,13 @@
 
 **Focal Points**
 - The figure undergoing the transformation (Insight, Religion)
-	- DC 12: Their body is changing, but it is not being reshaped by external forces — this transformation is coming from within.
+	- DC 10: Their body is changing, but it is not being reshaped by external forces — this transformation is coming from within.
 	- DC 15: The energy surrounding them is not divine in origin but drawn from the raw fabric of magic itself.
 - The arcane circle on the floor (Investigation, History)
-	- DC 12: The runes bear similarities to modern apotheosis rituals, but this predates any recorded attempts at ascension.
+	- DC 10: The runes bear similarities to modern apotheosis rituals, but this predates any recorded attempts at ascension.
 	- DC 15: Some of the markings resemble the energy patterns of snarls, suggesting a connection between divine power and the raw force of magic.
 - The reaction of the onlookers (Perception, Medicine)
-	- DC 12: Some look awed, while others seem terrified, as if they were not expecting the ritual to succeed.
+	- DC 10: Some look awed, while others seem terrified, as if they were not expecting the ritual to succeed.
 	- DC 15: One among them subtly backs away, as if realizing too late that they may have made a mistake in allowing this to happen.
 
 ###### The Battle with Extus Narr
@@ -253,13 +253,13 @@
 
 **Focal Points**
 - The presence moving through the void (Insight, Religion)
-    - DC 12: This entity is not a god or a mortal force. It is something older, beyond magic and time.
+    - DC 10: This entity is not a god or a mortal force. It is something older, beyond magic and time.
     - DC 15: This is Mother Void, the mother of the Endless, a being that exists outside fate itself.
 - The shifting space around you (Investigation, Perception)
-    - DC 12: The void is not empty. It pulses, as though aware of you, reacting to your presence.
+    - DC 10: The void is not empty. It pulses, as though aware of you, reacting to your presence.
     - DC 15: The darkness is not absence but potential, raw creation before it is shaped into reality.
 - Extus Narr’s reaction (History, Nature)
-    - DC 12: Extus is truly shaken, more than you have ever seen him. He is not in control here.
+    - DC 10: Extus is truly shaken, more than you have ever seen him. He is not in control here.
     - DC 15: His magic does not work in this place. He is unable to manipulate time, as if the concept itself does not exist here.
 
 ### Secrets and Clues
