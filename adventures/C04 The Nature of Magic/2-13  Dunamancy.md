@@ -224,23 +224,25 @@
 
 ###### The Battle with Extus Narr
  - [ ] 
-- The final battle for this adventure should take place on the Totem Beach, surrounded by the dragon totems. Maybe they can play a role somehow?
-- Extus's tactics should focus on shifting the battlefield as much as possible using dunamancy magic. Maybe even reversing gravity and sending things into the sky to create a crazy, dynamic battlefield!
-- At the midpoint of the battle (half HP for Extus), the scene below should happen.
-- Phase 1: Optional Floating Platforms
+- The final battle for this adventure takes place on the Totem Beach, surrounded by the dragon totems.
+- Extus's tactics focus on shifting the battlefield as much as possible using dunamancy magic. Even reversing gravity and sending things into the sky to create a crazy, dynamic battlefield!
+- At the midpoint of the battle (half HP for Extus), Scene 13 (The Hidden Vision) below should happen.
+- **Phase 1**: Optional Floating Platforms
 	- Extus causes the dragon totems to float in the air and flip upside down, creating floating platforms that the players can choose to use to their advantage. This also alludes to future battle phases.
-- Phase 2: Gravity Inversion – Fighting Upside Down
+- **Phase 2**: Gravity Inversion – Fighting Upside Down
 	- Extus reverses gravity, sending himself and all combatants into the sky, where additional floating platforms now act as the battlefield.
 	- Any creatures that fail a saving throw are flung upwards until they grab onto something (Athletics/Acrobatics check).
 	- Spells with projectile trajectories may function differently, bending due to shifting gravitational pull.
-- Phase 3: Chaotic Gravity – Constantly Shifting Directions
+- **Phase 3**: Chaotic Gravity – Constantly Shifting Directions
 	- Extus, now more unstable, begins shifting gravity in different directions every round.
 	- The battlefield moves horizontally, diagonally, and even rotates, forcing players to constantly reposition.
 	- At this point, Extus fights more aggressively, trying to break the party’s formation and send them into hazards.
-- Phase 4: Singularity Collapse – The Final Gambit
+- **Phase 4**: Singularity Collapse – The Final Gambit
 	- Extus, realizing he is losing, creates an unstable singularity, pulling all combatants toward its center.
 	- Floating platforms crumble, forcing players to rely on midair combat or last-second positioning.
 	- This phase is a desperate struggle, where one final strike can determine the battle’s outcome.
+
+`encounter: 1: Extus Narr`
 
 ###### 13. The Hidden Vision – The Shadow Beyond Time
  - [ ] 
