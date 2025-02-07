@@ -126,6 +126,8 @@
     - The battlefield itself **changes every round**, making positioning difficult.
     - Time fractures, causing players to **experience their actions out of order**, forcing them to plan around unpredictable cause-and-effect loops.
 
+`encounter: 1: Zaelith T'Kaarn`
+
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.
 

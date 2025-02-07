@@ -401,7 +401,7 @@ Check off as information is received. These should be gathered from Secrets and 
 ### DM Notes and Random Tables
 
 - Use the Detention Bog only if/when the players actually get detention!
-- Go ahead and level the party up to 9th level at some point near the end of this adventure (right before or after going to Khorvaire?)
+- Wait to level the party up to 9th level until after they leave their initial Khorvaire locations.
 
 ### References
 

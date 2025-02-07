@@ -23,7 +23,7 @@ damage_immunities: Psychic
 condition_immunities: Charmed
 senses: Passive Perception 16
 languages: Abyssal, Celestial, Common, Draconic, Infernal, Sylvan
-cr: 14
+cr: 15
 spells:
   - "As an action, Extus casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):"
   - At will: Detect Magic, Detect Thoughts, Disguise Self, Invisibility, Light, Mage Armor (included in AC), Mage Hand, Prestidigitation, Sapping Sting (level 11)

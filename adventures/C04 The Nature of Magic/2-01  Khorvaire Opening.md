@@ -75,12 +75,11 @@ Check off as information is received. These should be gathered from Secrets and 
 ### DM Notes and Random Tables
 
 - Rough leveling plan:
-	- 9th level upon arriving to Khorvaire
+	- 9th level soon after arriving in Khorvaire (after finding their way out of the initial location)
 	- 11th level after completing the first five adventures (at second plot point)
 	- 13th level after completing the second five adventures (at the third plot point)
 	- 15th level after completing the final two adventures prior to the finale
 - Oriq Blood Mage stat block is CR 9, so should be used for the regular Oriq agents encountered during the following adventures.
-- Create custom stat blocks for the Oriq lieutenants (look to Wildemont for dunamancy monsters).
 - Use the Extus Narr stat block from Strixhaven Supplemental for Malakar (CR 16). Then he summons the Blood Avatar (CR 21).
 - https://www.reddit.com/r/DnDHomebrew/comments/11a47mz/oc_blood_mage_statblack_10_blood_magic_spells/
 - https://www.5esrd.com/database/creature/blood-mage/
