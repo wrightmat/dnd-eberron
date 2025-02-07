@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
+                "file": "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-12  Entropomancy"
+              "title": "2-13  Dunamancy"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
+                "file": "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-12  Entropomancy"
+              "title": "Outline of 2-13  Dunamancy"
             }
           },
           {
@@ -231,12 +231,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
+                "file": "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2-12  Entropomancy"
+              "title": "Outgoing links from 2-13  Dunamancy"
             }
           },
           {
@@ -272,7 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,13 +293,13 @@
   },
   "active": "1b7ddc8368729a8f",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/2-11  Psionics.md",
+    "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
     "adventures/C04 The Nature of Magic.md",
     "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "adventures/C04 The Nature of Magic/2-08  Illusion.md",
     "adventures/C04 The Nature of Magic/2-09  Necromancy.md",
     "adventures/C04 The Nature of Magic/2-10  Artifice.md",
-    "adventures/C04 The Nature of Magic/2-11  Psionics.md",
-    "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
     "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
     "adventures/C04 The Nature of Magic/2-14  Hemomancy (Finale).md",
     "adventures/C04 The Nature of Magic Outline.canvas",
