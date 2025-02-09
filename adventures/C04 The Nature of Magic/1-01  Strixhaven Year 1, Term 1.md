@@ -438,8 +438,8 @@ Seeing no faculty nearby, the student beckons to the characters.
 ###### A Great Frog Race
  - [ ]  
 - Characters following the student who invited them to the frog race are led to the fireside lounge (area F5) of Firejolt Café. As in the scene above, the student speaking in this scene should be a student the characters have interacted with. Read or paraphrase the following, altering the text to incorporate the student’s name or other details:
->The air buzzes with excitement—and the smell of coffee—as you make your way toward the back of Firejolt Café and duck into the lounge to witness the scene.
->Hidden from the view of the barista station, the lounge’s central table has been pushed toward the wall and its chairs haphazardly tossed out of the way. In the middle of the room hop four unusual frogs. Each is glowing in vibrant colors—red, blue, violet, and orange—and has been outfitted with a tiny costume. One wears a makeshift cape, another has suspenders, a third wears a stylish bow tie, and the fourth has a top hat perched jauntily on its head.
+>The air buzzes with excitement — and the smell of coffee — as you make your way toward the back of Firejolt Café and duck into the lounge to witness the scene.
+>Hidden from the view of the barista station, the lounge’s central table has been pushed toward the wall and its chairs haphazardly tossed out of the way. In the middle of the room hop four unusual frogs. Each is glowing in vibrant colors — red, blue, violet, and orange — and has been outfitted with a tiny costume. One wears a makeshift cape, another has suspenders, a third wears a stylish bow tie, and the fourth has a top hat perched jauntily on its head.
 >Someone has used chalk to mark lanes on the floor, and multiple students are trying to corral the frogs into a starting position.
 
 - A student notices the characters and shouts, “You’re just in time! Want to race these frogs with us?”

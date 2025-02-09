@@ -143,4 +143,4 @@ Check off as information is received. These should be gathered from Secrets and 
 ### References
 
 - 5e Wild Magic Spells (Homebrew): https://www.gmbinder.com/share/-Le8QjC35It68zqqfdgf
-- Deep Magic from Kobold Press
+- Deep Magic from Kobold Press (Chaos Magic)

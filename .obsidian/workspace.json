@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
-                "mode": "preview",
+                "file": "adventures/C04 The Nature of Magic/2-11  Psionics.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-13  Dunamancy"
+              "title": "2-11  Psionics"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
+                "file": "adventures/C04 The Nature of Magic/2-11  Psionics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-13  Dunamancy"
+              "title": "Outline of 2-11  Psionics"
             }
           },
           {
@@ -231,12 +231,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
+                "file": "adventures/C04 The Nature of Magic/2-11  Psionics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2-13  Dunamancy"
+              "title": "Outgoing links from 2-11  Psionics"
             }
           },
           {
@@ -293,19 +293,19 @@
   },
   "active": "a208779a01c6fbda",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
     "adventures/C04 The Nature of Magic/2-14  Hemomancy (Finale).md",
+    "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "creatures/Zaelith T'Kaarn.md",
     "creatures/Extus Narr.md",
     "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
     "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
-    "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
     "adventures/C04 The Nature of Magic.md",
     "creatures/Malakar Draksang.md",
     "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
     "creatures/Untitled.md",
-    "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
     "adventures/C04 The Nature of Magic Outline.canvas",
     "locations/Arcanix.md",
     "locations/Fairhaven.md",

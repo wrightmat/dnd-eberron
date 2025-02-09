@@ -271,8 +271,7 @@ Check off as information is received. These should be gathered from Secrets and 
 
 ### DM Notes and Random Tables
 
-- Maybe some final time-hopping adventure, where we can visit various times/locations such as the Last War and other important events?
-- Could also tie together time and death, and have vignettes with each of the characters as they see their own deaths and decide how to handle the scene. See Dimension 20 Season 11 (The Seven) Episode 9 (Time and Space).
+- These scenes were all written by ChatGPT, so still need plenty of review and edits.
 
 ### References
 
