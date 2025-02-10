@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-11  Psionics.md",
+                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-11  Psionics"
+              "title": "1-01  Strixhaven Year 1, Term 1"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-11  Psionics.md",
+                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2-11  Psionics"
+              "title": "Outline of 1-01  Strixhaven Year 1, Term 1"
             }
           },
           {
@@ -231,12 +231,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/2-11  Psionics.md",
+                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2-11  Psionics"
+              "title": "Outgoing links from 1-01  Strixhaven Year 1, Term 1"
             }
           },
           {
@@ -293,6 +293,7 @@
   },
   "active": "a208779a01c6fbda",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/2-11  Psionics.md",
     "adventures/C04 The Nature of Magic/2-12  Entropomancy.md",
     "adventures/C04 The Nature of Magic/2-14  Hemomancy (Finale).md",
     "adventures/C04 The Nature of Magic/2-13  Dunamancy.md",
@@ -312,7 +313,6 @@
     "locations/Stormhome.md",
     "adventures/C04 The Nature of Magic/2-02  Abjuration.md",
     "adventures/C04 The Nature of Magic/2-06  Transmutation.md",
-    "adventures/C04 The Nature of Magic/2-11  Psionics.md",
     "adventures/C04 The Nature of Magic/2-08  Illusion.md",
     "adventures/C04 The Nature of Magic/2-09  Necromancy.md",
     "adventures/C04 The Nature of Magic/2-10  Artifice.md",
