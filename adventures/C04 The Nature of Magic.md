@@ -12,7 +12,7 @@
 - [[Hawthorne Winters]] (Kerrie)
 - [[Cosset Theris]] (Jolene)
 - [[Shear]] (Trey)
-- [[Zsehissu sulsall uistihi]] (Sara)
+- [[Zsehissu 'Mina' sulsall uistihi]] (Sara)
 
 ### Major NPCs
 

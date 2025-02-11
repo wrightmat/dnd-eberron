@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+                "file": "sessions/2025-02-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-01  Strixhaven Year 1, Term 1"
+              "title": "Outline of 2025-02-10"
             }
           },
           {
@@ -291,12 +291,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a208779a01c6fbda",
+  "active": "3d2341acb1c3aec9",
   "lastOpenFiles": [
-    "sessions/2025-02-10.md",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
-    "sessions/2025-02-03.md",
     "adventures/C04 The Nature of Magic.md",
+    "sessions/2025-02-10.md",
+    "characters/Zsehissu 'Mina' sulsall uistihi.md",
+    "sessions/2025-02-03.md",
     "sessions/2025-01-27.md",
     "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "adventures/C04 The Nature of Magic/2-11  Psionics.md",
@@ -319,7 +320,6 @@
     "adventures/C04 The Nature of Magic/2-08  Illusion.md",
     "adventures/C04 The Nature of Magic/2-09  Necromancy.md",
     "adventures/C04 The Nature of Magic/2-10  Artifice.md",
-    "characters/Cosset Theris.md",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",

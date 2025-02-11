@@ -17,6 +17,7 @@ player: "[[Sara Edwards]]"
  #pc 
 
 - Is a hired hitperson for the Yuan-ti of Io'vakas, and operates in complete secret.
+- Goes by the nickname "Mina" (for those who don't know she's a yuan-ti).
 
 ### Motivation and Goal(s)
 
