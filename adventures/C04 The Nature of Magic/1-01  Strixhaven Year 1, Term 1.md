@@ -236,12 +236,12 @@ Chaos erupts in the library as students stream in all directions, their books an
 ##### Day 3: College and Advisor
 
 ###### Tour Each College
- - [ ]  
+ - [x]  ✅ 2025-02-10
 - One item on the orientation checklist instructs the students to orient themselves to campus by visiting each of the five colleges, and getting a signature from one older student in that college.
 - This is an opportunity for the players to meet a number of NPCs. Randomly select a student NPC for them to meet at each location.
 
 ###### Meet With an Advisor
- - [ ]  
+ - [x]  ✅ 2025-02-10
 - Another item on the checklist lists the student's academic advisor, and instructs them to meet with them and complete their class schedule during the meeting.
 - This is an opportunity for the players to meet a number of NPCs. Randomly select a professor NPC for each player.
 - Have the players choose at least three courses their characters are taking this year, either by coming up with the courses themselves or by rolling on the First-Year Courses table. Inform them that the characters are also enrolled in a required course, Magical Physiologies. In addition, each player can choose an elective from the Elective Courses table - these same courses are available to all students every year, are considered General Studies courses, and are taught at the Biblioplex.
@@ -271,7 +271,7 @@ Chaos erupts in the library as students stream in all directions, their books an
 - All the available extracurricular activities and jobs are on display across the Biblioplex. Each student should be encouraged to get involved in at least one (with a maximum of two allowed). If any player visits a location outside of the Biblioplex that has a job (such as the Firejolt Café), then a job could be offered to them there as well.
 
 ###### Extracurriculars
- - [ ]  
+ - [x]  ✅ 2025-02-10
 - Extracurriculars — the campus clubs and societies students can join — are a key part of student life at Strixhaven. Using the rules that follow, characters can join Extracurriculars to add flavor to adventures, gain minor rules benefits, and perhaps more easily befriend — or irritate — their classmates.
 - At any point during the book’s adventures, a character can gain the benefit of two of the Extracurriculars noted below, as described later in this section. If a student character also works on campus using the Job rules, the character can benefit from only one Extracurricular.
 - Characters can gain the benefit from a new Extracurricular only by joining it at the start of an academic year, which corresponds to the beginning of a new adventure. Typically, joining an Extracurricular in between academic years isn’t eventful. Players should note the changes on their tracking sheet.
@@ -300,7 +300,7 @@ Chaos erupts in the library as students stream in all directions, their books an
 | Student-Mages of Faith                | Insight, Religion            | Melwythorne, Shuvadri Glintmantle                     | These pious students of many faiths gather to share prayers and theological debates and to celebrate one another’s high holidays.<br>Goal:                                                                             | B14  |
 
 ###### Jobs
- - [ ]  
+ - [x]  ✅ 2025-02-10
 - Working in gainful employment while at school can provide a character with a modicum of cash and help forge connections with student coworkers. The coworker listed in the table below represents each job location and can be found in the area listed.
 - A character can hold one Job at a time, and they can participate in only one Extracurricular while they have a Job. A student can switch Jobs whenever they wish, even in the middle of the academic year, as long as they don’t work more than one Job at a time. At your discretion, switching Jobs in the middle of the year might lead to a roleplaying scenario.
 - While a student has a Job, they earn a wage and a Relationship Point:
@@ -322,7 +322,7 @@ Chaos erupts in the library as students stream in all directions, their books an
 ##### Day 5: Pep Rally and Secret Party
 
 ###### Pep Rally
- - [ ]  
+ - [x]  ✅ 2025-02-10
 - Students of all ages gather at The Rose Stage for a celebration of the new year at Strixhaven. Each college is already seated in their own section when the first years arrive, where they are seated separately. The colleges are decked out in their colors and accompanied by their mascots.
 - This is just another opportunity to show off the various colleges, and allow players to converse with other students if they choose.
 - **Opening Remarks**. Dean Augusta Tullus remarks on the grand purpose of Strixhaven and the philosophy of interconnection in magic.
@@ -364,7 +364,7 @@ Chaos erupts in the library as students stream in all directions, their books an
 		With minds of steel, our words are wise —
 		Strixhaven forever, we arise!
 	- **Witherbloom (College of Essence Studies):**
-In the Witherbloom section, one student throws back their hood, revealing a face streaked with mud, laughing wildly as they twirl a vine in the air, while another gently cradles a small, glowing plant as they chant..."
+"In the Witherbloom section, one student throws back their hood, revealing a face streaked with mud, laughing wildly as they twirl a vine in the air, while another gently cradles a small, glowing plant as they chant..."
 		Witherbloom grows where life prevails,
 		Balancing cycles, nature unveils.
 		Through roots and veins, both wild and true —
