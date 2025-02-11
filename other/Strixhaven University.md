@@ -56,7 +56,7 @@
 For those courses selected by at least one PC student (excluding Required courses, which already have a curriculum in the book), I've asked ChatGPT to come up with some points of curriculum (similar to Secrets and Clues) that give the PCs information and may allude or clue into events later in the campaign. The idea here is to give a piece of information or two during each session recap of previous weeks in that course.
 
 ###### Arcano-Botany for Beginners
-**Fellow Students**: 
+**Fellow Students**: Catherine Shepherd, Helezana Grara, Joran Brightspark, Killian Lu
  - [ ]  Arcane decay and its effects on plant life, foreshadowing the mana crisis in Act 2.
  - [ ]  Manifest zones and plant growth, linking to Thelanis, Mabar, and the Eldeen Reaches.
  - [ ]  Oalian, the Awakened Oak, as a case study in sentient magical flora.
@@ -65,8 +65,8 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  Fungal magic and its connection to decay and renewal, tying into necromantic energy.
 
 ###### Basic Magical Auras
-**Fellow Students**: 
- - [ ]  Overview of the Schools of Magic, their principles, and interactions.
+**Fellow Students**: Willow "Will" Nailo, Finnian Sparkwhistle, Shuvadri Glintmantle, Rebecca "Becca" Dominic
+ - [ ]  Overview of the Schools of Magic, their principles, and interactions (including aura colors).
  - [ ]  Ley lines and mana nexuses, their importance and foreshadowing disruptions in Act 2.
  - [ ]  Aberrant dragonmarks and their unpredictable aura patterns, linking to the Oriq and House Tarkanan.
  - [ ]  How dragonshards amplify or distort auras, foreshadowing Act 2.
@@ -74,7 +74,7 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  The ethics of aura reading — is it an invasion of privacy?
 
 ###### Beginning Computational Magic
-**Fellow Students**: 
+**Fellow Students**: Toren Dustfall, Kaelin Wildclaw, Tilana Kapule, Larine Arneza
  - [ ]  The structure of spells — breaking them into levels, damage, and components.
  - [ ]  Custom spell design — introduction to creating and balancing new magic.
  - [ ]  Numeromancy — the mathematical approach to spellcasting.
@@ -83,7 +83,7 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  Spell matrices and their vulnerabilities, foreshadowing anti-magic sabotage.
 
 ###### Beginning Inkomancy
-**Fellow Students**: 
+**Fellow Students**: Blakely Margedi, Mesmerelda Gar, Cadoras Damellawar, Rosimyffenbip "Rosie" Wuzfeddlims
  - [ ]  The magical properties of inks and how they retain enchantments.
  - [ ]  Living glyphs and self-sustaining sigils, paralleling teleportation sigils in Act 2.
  - [ ]  Historical magical calligraphy, linking to the Xoriat sealing ritual.
@@ -92,7 +92,7 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  Ink-based summoning sigils, foreshadowing conjuration disruptions.
 
 ###### History of Magic and Art
-**Fellow Students**: 
+**Fellow Students**: Fabian Ashborne, Edward "Teddy" Ironbreaker, Urzmaktok Grojsh, Rinn Silverfrond
  - [ ]  Manifest Zones and Art – Locations where art becomes magical due to planar influence, linking to Thelanis, Fernia, and other Elemental Planes.
  - [ ]  The Ever-Changing Canvases of Kythri – How chaos and randomness influence artistic magic, tying into Entropomancy.
  - [ ]  Painting with the Elements – How elemental magic interacts with artistic expression.
@@ -101,7 +101,7 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  Songs and the Magic of Air – How Syranian and Lamannian winds shape bardic and musical traditions.
 
 ###### Introduction to Conjuration
-**Fellow Students**: 
+**Fellow Students**: Nelson Dawoud, Ingrid Egilsil, Farid Kahn, Kiya Alwan
  - [ ]  Conjuring from Elemental Planes – Why elementals are easier to summon, linking to elemental instability.
  - [ ]  Artifacts that amplify conjuration magic, possibly linked to dragonshards.
  - [ ]  The Nature of Conjured Beings – Are they real? Do they have free will?
@@ -110,7 +110,7 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  Magebred Creatures and Arcane Summoning – How House Vadalis experiments with conjuration magic.
 
 ###### Introduction to Evocation
-**Fellow Students**: 
+**Fellow Students**: Aurora Luna Wynterstarr, Melwythorne, Quentillius Antiphiun Melentor III, Nora Ann Wu
  - [ ]  The Science of Magical Explosions – How evocation interacts with energy and material.
  - [ ]  Evocation and ley line resonance, foreshadowing the later importance of ley lines.
  - [ ]  Karrnathi military evocation training, setting up the Rekkenmark adventure.
@@ -119,7 +119,7 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  The concept of "wildfire magic", mirroring chaotic mana.
 
 ###### Introduction to Transmutation
-**Fellow Students**: 
+**Fellow Students**: Grayson Wildemere, Rubina Larkingdale, Mina Lee, Drazhomir Yarnask
  - [ ]  The Philosophy of Change – How transmutation embodies impermanence, mirroring campaign themes.
  - [ ]  Alchemical Transmutation vs. Magical Transmutation – Why some changes are stable and others are not.
  - [ ]  Living Matter vs. Non-Living Matter – Why polymorphing a rock is different from polymorphing a person.
@@ -128,9 +128,79 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  Wild Magic and Uncontrolled Transmutation – How chaos magic influences transformation, including eldritch transmutations from Xoriat.
  - [ ]  When Transmutation Breaks Reality – The dangers of alchemists and mages pushing magical change too far.
 
+### Students
+
+| Name                               | Race       | Year and College          |
+| ---------------------------------- | ---------- | ------------------------- |
+| Agatha Zaphrin                     | Shifter    | First Year (Quandrix)     |
+| Alara Veilsong                     | Eladrin    | Second Year (Quandrix)    |
+| Argentis                           | Warforged  | New Student (Prismari)    |
+| Aurora Luna Wynterstarr            | Dhampir    | First Year (Witherbloom)  |
+| Bhedum “Rampart“ Sooviij           | Loxodon    | First Year (Lorehold)     |
+| Blakely Margedi                    | Human      | Second Year (Silverquill) |
+| Bryndis Doldarun                   | Dwarf      | New Student (Silverquill) |
+| Cadoras Damellawar                 | Elf        | First Year (Quandrix)     |
+| Catherine Shepherd                 | Human      | First Year (Witherbloom)  |
+| Drazhomir Yarnask                  | Minotaur   | Second Year (Quandrix)    |
+| Drugar Thornshade                  | Hobgoblin  | Second Year (Witherbloom) |
+| Edward (Teddy) Ironbreaker         | Dwarf      | First Year (Prismari)     |
+| Fabian Ashborne                    | Tiefling   | First Year (Prismari)     |
+| Farid Kahn                         | Human      | First Year (Quandrix)     |
+| Finnian Sparkwhistle               | Gnome      | Second Year (Prismari)    |
+| Grayson Wildemere                  | Human      | First Year (Silverquill)  |
+| Greta Gorunn                       | Dwarf      | First Year (Lorehold)     |
+| Helezana Grara                     | Elf        | First Year (Witherbloom)  |
+| Ingrid Egilsil                     | Aasimar    | Second Year (Lorehold)    |
+| Ithicha                            | Lizardfolk | New Student (Quandrix)    |
+| Javenesh Stoutclaw                 | Owlin      | Second Year (Lorehold)    |
+| Joran Brightspark                  | Halfling   | First Year (Prismari)     |
+| Kaelin Wildclaw                    | Shifter    | First Year (Witherbloom)  |
+| Killian Lu                         | Human      | Second Year (Silverquill) |
+| Kiya Alwan                         | Half-Elf   | Second Year (Quandrix)    |
+| Larine Arneza                      | Human      | First Year (Quandrix)     |
+| Leonidas                           | Tabaxi     | New Student (Witherbloom) |
+| Melwythorne                        | Dryad      | First Year (Witherbloom)  |
+| Mesmerelda Gar                     | Human      | First Year (Silverquill)  |
+| Mina Lee                           | Changeling | Second Year (Silverquill) |
+| Nelson Dawoud                      | Half-Elf   | First Year (Silverquill)  |
+| Nora Ann Wu                        | Human      | Second Year (Prismari)    |
+| Quentillius Antiphiun Melentor III | Human      | First Year (Prismari)     |
+| Rebecca “Becca” Dominic            | Dwarf      | Second Year (Lorehold)    |
+| Rhit                               | Goblin     | New Student (Lorehold)    |
+| Rinn Silverfrond                   | Half-Elf   | Second Year (Witherbloom) |
+| Rosie Wuzfeddlims                  | Gnome      | First Year (Lorehold)     |
+| Rubina Larkingdale                 | Human      | First Year (Silverquill)  |
+| Shuvadri Glintmantle               | Owlin      | First Year (Silverquill)  |
+| Tilana Kapule                      | Kalashtar  | First Year (Quandrix)     |
+| Toren Dustfall                     | Half-Orc   | Second Year (Prismari)    |
+| Urzmaktok Grojsh                   | Orc        | Second Year (Witherbloom) |
+| Vanxun Pakul                       | Dragonborn | First Year (Lorehold)     |
+| Willow (Will) Nailo                | Halfling   | First Year (Prismari)     |
+| Zanther Bowen                      | Genasi     | First Year (Lorehold)     |
+
 ### Maps
 
+#### All Campus
+![http://wizzle.tplinkdns.com:38090/index.php/s/C8XrRQNc7o9df9g/preview](http://wizzle.tplinkdns.com:38090/index.php/s/C8XrRQNc7o9df9g/preview)
 
+#### Central Campus
+![http://wizzle.tplinkdns.com:38090/index.php/s/i7wGLgCecM4iyk8/preview](http://wizzle.tplinkdns.com:38090/index.php/s/i7wGLgCecM4iyk8/preview)
+
+#### Lorehold
+![http://wizzle.tplinkdns.com:38090/index.php/s/WPSm9PjbP3YCXJY/preview](http://wizzle.tplinkdns.com:38090/index.php/s/WPSm9PjbP3YCXJY/preview)
+
+#### Prismari
+![http://wizzle.tplinkdns.com:38090/index.php/s/3ztER5df7M5Z4zW/preview](http://wizzle.tplinkdns.com:38090/index.php/s/3ztER5df7M5Z4zW/preview)
+
+#### Quandrix
+![http://wizzle.tplinkdns.com:38090/index.php/s/sgWkBsn4bck3mJ2/preview](http://wizzle.tplinkdns.com:38090/index.php/s/sgWkBsn4bck3mJ2/preview)
+
+#### Silverquill
+![http://wizzle.tplinkdns.com:38090/index.php/s/DmARs4WJAS7oc7L/preview](http://wizzle.tplinkdns.com:38090/index.php/s/DmARs4WJAS7oc7L/preview)
+
+#### Witherbloom
+![http://wizzle.tplinkdns.com:38090/index.php/s/rjEKX96pCdsoHTc/preview](http://wizzle.tplinkdns.com:38090/index.php/s/rjEKX96pCdsoHTc/preview)
 
 ### References
 
+- Strixhaven: A Curriculum of Chaos
