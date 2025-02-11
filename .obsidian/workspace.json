@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2025-02-03.md",
+                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-03"
+              "title": "Outline of 1-01  Strixhaven Year 1, Term 1"
             }
           },
           {
@@ -291,11 +291,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3d2341acb1c3aec9",
+  "active": "a208779a01c6fbda",
   "lastOpenFiles": [
+    "sessions/2025-02-03.md",
     "adventures/C04 The Nature of Magic.md",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
-    "sessions/2025-02-03.md",
     "sessions/2025-01-27.md",
     "sessions/2025-02-10.md",
     "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
