@@ -30,7 +30,7 @@
     - Morridan (mathematics)
     - Soladas (history)
     - The Tabernacle (religion and philosophy)
-*This essentially works as a graduate/post-graduate school, with very focused research happening in particular areas.*
+  *This essentially works as a graduate/post-graduate school, with very focused research happening in particular areas.*
 
 - **Strixhaven University** is located on north end of the continent of Argonnessen, on the east end of the Great Barrier, south of the Wyrmsfang Jungle. The school was started by five dragons many centuries ago, and has since strived to attract only the most spectacular students from across Eberron, recruiting entirely in secret.
 

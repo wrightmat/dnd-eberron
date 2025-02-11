@@ -27,7 +27,13 @@ player: "[[Alex Kelsch]]"
 
 ### Development
 
-- 
+- **Strixhaven**
+	- **Academic Advisor**: Breena (Silverquill)
+	- **Extracurricular(s)/Job**: Distinguished Society of Fine Artists (interested in sculpture), Strixhaven Iron-Lifters Society
+	- **Year 1 Courses**: Magical Physiologies, History of Magic and Art, Introduction to Evocation, Beginning Inkomancy
+	- **Year 2 Courses**: 
+	- **Year 3 Courses**: 
+	- **Year 4 Courses**: 
 
 ### Timeline
 

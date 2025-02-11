@@ -26,7 +26,13 @@ player: "[[Kerrie Heath]]"
 
 ### Development
 
-- 
+- **Strixhaven**
+	- **Academic Advisor**: Tivash (Witherbloom)
+	- **Extracurricular(s)/Job**: Strixhaven Star, Bow’s End Tavern (server)
+	- **Year 1 Courses**: Magical Physiologies, Beginning Computational Magic, Introduction to Evocation, Basic Magical Auras
+	- **Year 2 Courses**: 
+	- **Year 3 Courses**: 
+	- **Year 4 Courses**: 
 
 ### Timeline
 
