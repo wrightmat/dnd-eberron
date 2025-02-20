@@ -86,7 +86,7 @@
 
 ###### Choosing a Mage Tower Mascot
  - [ ] 
-- As mentioned in “The Game of Mage Tower,” each team in a Mage Tower game chooses a mascot creature to represent them and to serve as a focal point of the game’s scoring. If the characters discuss finding a mascot to represent their team, Professor Sharpbeak assures them that any mascot they find at Wiltroot Hall could serve as their team mascot. If the characters don’t ask about mascots now, you can prompt them to choose a mascot later in the academic year, when the game approaches. Mascots don’t confer benefits in the game, although Mage Tower participants are often sentimental about their mascots.
+- As mentioned in “The Game of Mage Tower,” each team in a Mage Tower game chooses a mascot creature to represent them and to serve as a focal point of the game’s scoring. If the characters discuss finding a mascot to represent their team, Professor Sharpbeak assures them that any mascot they find at the Cultivarium could serve as their team mascot. If the characters don’t ask about mascots now, you can prompt them to choose a mascot later in the academic year, when the game approaches. Mascots don’t confer benefits in the game, although Mage Tower participants are often sentimental about their mascots.
 
 ###### The Cultivarium
  - [ ] 

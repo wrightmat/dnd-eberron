@@ -82,7 +82,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - With successful DC 15 Intelligence (History) check, a character recalls that the individuals depicted were Captain Dapplewing’s favorite military compatriots, all great friends of Strixhaven.
 - A character who succeeds on a DC 15 Wisdom (Perception) check notices that the boxy dwarf “coat racks” are moving slightly. Both are designed to serve as attendants and use the duodrone stat block. Without professors to control them, the coat racks attack the characters either when they first notice the coat racks moving or as they move into area C3.
 
-`encounter: 2: Duodrone`
+`encounter: 2: Modron Duodrone`
 
 ###### C3. Grand Hall
  - [ ] 
@@ -120,7 +120,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 - A student’s magic trick, the stoles in both these areas each animate into a fire snake if any character moves within 5 feet of the busts. The fire snakes wink out of existence when defeated.
 
-`encounter: 1: Fire Snake`
+`encounter: 1: Salamander Fire Snake`
 
 ###### C8. Kitchen
  - [ ] 
@@ -176,7 +176,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ###### C15. Faculty Storage
  - [ ] 
 - Boxes and filing cabinets have been crammed into this area, filled with old written records and outdated research. If the characters spend a few minutes searching here, they can easily find a box labeled “Manor Archive.” This details all the historical information found at the start of the “Captain Dapplewing’s Manor” section.
-- **Treasure**. The paneling in the northeast corner conceals a secret door that isn’t fully shut, and so it can be found by any character who searches the area. Beyond the door is a secondary storage area holding boxes with personal items that faculty members have stashed away from prying eyes. Any character who searches the secondary storage area spots a ring of mind shielding seemingly lost by someone while working in the room. The inscription “V. Lang” inside the band hints that the ring belongs to Verelda Lang, the characters’ Magical Physiologies professor. If they bring the lost ring to her, she is effusive in her thanks — and then offers it to the characters as a gift, trying to conceal her pride at their accomplishments.
+- **Treasure**. The paneling in the northeast corner conceals a secret door that isn’t fully shut, and so it can be found by any character who searches the area. Beyond the door is a secondary storage area holding boxes with personal items that faculty members have stashed away from prying eyes. Any character who searches the secondary storage area spots a [[ring of mind shielding]] seemingly lost by someone while working in the room. The inscription “V. Lang” inside the band hints that the ring belongs to Verelda Lang, the characters’ Magical Physiologies professor. If they bring the lost ring to her, she is effusive in her thanks — and then offers it to the characters as a gift, trying to conceal her pride at their accomplishments.
 
 ###### C16. Reflection Room
  - [ ] 
@@ -197,7 +197,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
  - [ ] 
 >Several delicate tea sets are arranged on the floor in this room, alongside beautifully woven kneeling rugs and cabinets against the walls.
 
-- **Treasure**. One cabinet along the east wall is filled with tea-making supplies, plus a bottle with a sweet-smelling liquid inside. The bottle holds a potion of mind reading.
+- **Treasure**. One cabinet along the east wall is filled with tea-making supplies, plus a bottle with a sweet-smelling liquid inside. The bottle holds a [[potion of mind reading]].
 
 ###### C19. Student Storage
  - [ ] 
@@ -213,7 +213,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 - Dangerous in a way the faculty members don’t understand yet, the dress is actually a hostile Construct. It uses the quadrone stat block and can shoot the bones from its wings using the quadrone’s shortbow attack. When the characters enter this area, it attacks.
 
-`encounter: 1: Quadrone`
+`encounter: 1: Modron Quadrone`
 
 - **Sassy Sally Jane**. Among the dolls on the display shelf is the target of the characters’ quest — the pink-haired doll known as Sassy Sally Jane. The doll is programmed to utter rumors and secrets about other students, much like a "Burn Book", but in doll form. It can also record new phrases by whoever possessed the doll, which can be used to record new secrets, or used in a more unique way such as to cheat on tests.
 - **Treasure**. Sitting underneath Sassy Sally Jane is a doll wearing a suit and adorned with a large white mustache. A purse held in the doll’s hands contains 25 gp.
@@ -237,7 +237,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
  - [ ] 
 - If the characters retrieve Sassy Sally Jane, the students waiting outside Captain Dapplewing’s Manor cheer quietly. All the students can easily steal back to their dormitories without getting caught. The characters’ peers are true to their word and pay for the characters’ lunches for a month. Further, the characters can keep Sassy Sally Jane. (However, obvious use of the doll around faculty members results in Sassy Sally Jane being confiscated again!)
 - If all the characters are reduced to 0 hit points inside the manor, they spend the night unconscious and are found by members of the faculty in the morning. The characters are taken to the infirmary in their respective dorms, then formally chastised and made to attend special behavioral courses that prevent them from participating in any Extracurriculars or Jobs for the rest of this academic year. All the characters immediately lose any benefits from these activities.
-- **A Sibling’s Gift**. If a student asked the characters for Sassy Sally Jane for their younger brother and the characters give them the doll, the student gives them the promised [[Driftglobe]]. If no student approached the characters with this request, a student with whom a character has at least 1 positive Relationship Point asks the characters for the doll to give it as a gift to her younger brother shortly after this quest ends.
+- **A Sibling’s Gift**. If a student asked the characters for Sassy Sally Jane for their younger brother and the characters give them the doll, the student gives them the promised [[driftglobe]]. If no student approached the characters with this request, a student with whom a character has at least 1 positive Relationship Point asks the characters for the doll to give it as a gift to her younger brother shortly after this quest ends.
 
 #### Week 19: Magical Physiologies Exam: Slaadi
 
