@@ -244,7 +244,7 @@
 ###### End of the Year
  - [ ] 
 - Once word gets out about what happened in the locker room, the characters are celebrated as heroes on campus. Feel free to add roleplaying scenes that reinforce how the characters’ actions kept calamity away from Strixhaven.
-- If you’re running this adventure as part of a Strixhaven campaign, the characters move toward their third year at Strixhaven as admired students on campus.
+- The characters move toward their third year at Strixhaven as admired students on campus.
 
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.

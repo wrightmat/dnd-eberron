@@ -328,7 +328,7 @@ Although members of Lorehold College have been known to visit the Ruins of Caerd
 - **Glyphs of Warding**. In each 5-foot square marked X on map 6.4 is a glyph of warding placed by Malakar. Finding each glyph requires a successful DC 16 Intelligence (Investigation) check. If the wights in area N5 warned the characters about the glyphs, checks made to find them have advantage.
 - Once a glyph is found, a successful DC 16 Intelligence (Arcana) check disables it. Otherwise, the glyph triggers the first time a creature enters the 5-foot square, activating a hypnotic pattern spell (save DC 16) centered on the glyph.
 
-`encounter: 1: daemogoth`
+`encounter: 1: Daemogoth`
 
 - **Necrotic Locus**. In the middle of the fortress is a disgusting orb of bone, flesh, and necrotic energy. The first time a character sees it, read:
 >Pained eyes bulge from a 5-foot-diameter sphere of glistening muscle, ashen skin, and yellowed bone. Oily vapor issues from six mouths on the surface of the sphere, which sits pulsing on the ground.

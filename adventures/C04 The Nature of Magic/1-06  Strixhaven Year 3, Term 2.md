@@ -214,7 +214,7 @@
 >Bright murals cover the walls of this broad, pillared hall, depicting people through the ages receiving blessings from fiery gods. A stone double door stands at the far end of the room, while stairs rise to the west and another hall opens to the east.
 
 - People who bring their offerings to the gods prepare their prayers in this area, meditating on the blessing they want. A salamander and four fire snakes are in this room. The salamander stands guard before the door to area I5, while each fire snake lingers near one of the room’s pillars. These creatures are hostile and attack any strangers that enter the room.
-- **Door**. A narrow, 10-foot-tall stone double door bars the way to area I5. A character must succeed on a DC 14 Strength (Athletics) check to open the door. As the door opens, it grinds nosily, alerting any creatures in this room and areas I4 and I5.\
+- **Door**. A narrow, 10-foot-tall stone double door bars the way to area I5. A character must succeed on a DC 14 Strength (Athletics) check to open the door. As the door opens, it grinds nosily, alerting any creatures in this room and areas I4 and I5.
 - **Murals**. The murals covering the walls depict a great planar incursion from Fernia, the place of fire, that happened long ago.
 
 ###### I3. Blessings Memorial
@@ -439,7 +439,7 @@
 - The final note is repeated dozens of times on the back of the log. The handwriting is also clearly not the same as Tullus’s cramped script, being a heavier scrawl.
 - These notes provide a piecemeal record of Dean Tullus discovering the Oriq Orb and suggest something unusual with Tullus’s behavior.
 
-- **Treasure**. The curios decorating the room have historical significance but are of little value. Six of the dusty relics are worth 25 gp each, but the rest are of interest only to scholars. A character who succeeds on DC 18 Wisdom (Perception) check finds a wand of secrets buried under papers on a shelf.
+- **Treasure**. The curios decorating the room have historical significance but are of little value. Six of the dusty relics are worth 25 gp each, but the rest are of interest only to scholars. A character who succeeds on DC 18 Wisdom (Perception) check finds a [[wand of secrets]] buried under papers on a shelf.
 
 ###### L9. Deans’ Records Room
  - [ ] 
@@ -464,10 +464,11 @@
 - In the course of the battle, Tullus speaks mechanically, making threatening declarations such as “You can’t stop what’s coming.” A character who succeeds on a DC 12 Wisdom (Insight) check can tell the dean doesn’t seem like herself.
 
 `encounter: 4: Spirit Statue Mascot`
+`encounter: 1: Lorehold Professor of Order`
 
 - **Reaching Tullus**. A character who tries to reason with Dean Tullus and succeeds on a DC 14 Charisma (Persuasion) check causes the dean to hesitate. This doesn’t affect her action on any given round, but if characters succeed on making these checks on three different rounds, Tullus clutches her head and screams “No!” She then falls unconscious.
 - **Oriq Orb**. Throughout the battle, Tullus clutches the green orb. The wicked Oriq bloodmage Malakar Draksang controls her through this device, but separating her from the orb doesn’t break his control. When Tullus is defeated or rendered unconscious, the orb slips from her hand.
-- **Treasure**. On the worktables lie five nonmagical historical relics from Dean Tullus’s and Dean Plargg’s ongoing research. These dusty objects — mostly mundane stone or jade vessels — are each worth 100 gp. Additionally, a character who spends 10 minutes searching the library and succeeds on a DC 16 Intelligence (Investigation) check discovers a Lorehold primer.
+- **Treasure**. On the worktables lie five nonmagical historical relics from Dean Tullus’s and Dean Plargg’s ongoing research. These dusty objects — mostly mundane stone or jade vessels — are each worth 100 gp. Additionally, a character who spends 10 minutes searching the library and succeeds on a DC 16 Intelligence (Investigation) check discovers a [[Lorehold primer]].
 
 ###### Aftermath
  - [ ] 
@@ -490,3 +491,4 @@ Check off as information is received. These should be gathered from Secrets and 
 ### References
 
 - Strixhaven: A Curriculum of Chaos, Chapter 6
+- Journeys Through the Radiant Citadel, Trail of Destruction (Fang Crater Practicum)
