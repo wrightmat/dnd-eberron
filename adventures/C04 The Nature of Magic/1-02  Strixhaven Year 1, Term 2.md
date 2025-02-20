@@ -35,7 +35,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - The note isn’t signed, but will be later revealed as coming from a student the characters know.
 - The characters have several hours before their peers are expecting them at midnight, so allow them to prepare for this outing any way they wish. Provide them with the following information, and then when they’re ready, go to the “Recover Sassy Sally Jane” section below.
 
-- The talk of the campus for decades, Sassy Sally Jane is a pink-haired doll in a patchwork tartan dress. Inside the doll is a voice box that some clever students rigged to repeat rude phrases whenever the doll’s hand is squeezed. Jokesters used it to irritate faculty and staff members extensively before it was confiscated. The doll has sat in the attic of Captain Dapplewing’s Manor ever since, alongside other broken, malfunctioning, or forbidden items.
+- The talk of the campus for decades, Sassy Sally Jane is a pink-haired doll in a patchwork tartan dress. Inside the doll is a voice box that some clever students rigged to repeat rumors about other students whenever the doll’s hand is squeezed. Jokesters used it to irritate faculty and staff members extensively before it was confiscated. The doll has sat in the attic of Captain Dapplewing’s Manor ever since, alongside other broken, malfunctioning, or forbidden items.
 - Captain Dapplewing’s manor house is used as a learning annex by esteemed dual-college faculty members and their favored students.
 - A two-story home, the house is located on the central campus and serves as both faculty offices and the setting for lavish dinner parties and intellectual gatherings. A character knows all the information in the “Captain Dapplewing’s Manor” section later in this adventure with a successful DC 12 Intelligence (History) check.
 
@@ -49,7 +49,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 >“This is it. Sassy Sally Jane is up there in the attic. For years, people have tried to liberate her. For years, they’ve failed. But we think this year is different. This year, you’re on campus.”
 >“You’re looking for a pink-haired doll wearing a patchwork tartan dress. Now, go in there and become campus legends. If you can bring her back, we’ll all pay for your lunches for a week. No, for a month!”
 
-- If the characters are hesitant to take this dare, a student with whom a character has at least 1 Relationship Point approaches them. The student misses their younger brother terribly and has decided that Sassy Sally Jane would make an excellent gift. The student offers the characters a driftglobe in exchange for retrieving Sassy Sally Jane and giving them the doll.
+- If the characters are hesitant to take this dare, a student with whom a character has at least 1 Relationship Point approaches them. The student misses their younger brother terribly and has decided that Sassy Sally Jane would make an excellent gift. The student offers the characters a [[driftglobe]] in exchange for retrieving Sassy Sally Jane and giving them the doll.
 
 ###### Captain Dapplewing’s Manor
  - [ ] 

@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
-                "mode": "source",
+                "file": "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-01  Strixhaven Year 1, Term 1"
+              "title": "1-02  Strixhaven Year 1, Term 2"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+                "file": "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-01  Strixhaven Year 1, Term 1"
+              "title": "Outline of 1-02  Strixhaven Year 1, Term 2"
             }
           },
           {
@@ -255,10 +255,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "069cd16361699c48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa73ea795a9ceb2d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 486.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,13 +295,15 @@
   },
   "active": "a208779a01c6fbda",
   "lastOpenFiles": [
-    "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
+    "creatures/Strixhaven Campus Guide.md",
     "adventures/C04 The Nature of Magic.md",
+    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
+    "creatures/Duodrone.md",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
     "creatures/Malakar Draksang.md",
     "adventures/C04 The Nature of Magic/2-14  Hemomancy (Finale).md",
     "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
-    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "other/Cuddly Strixhaven Mascot.md",
     "other/Strixhaven University.md",
     "characters/Aither Calobra Lightwood.md",
@@ -303,8 +321,6 @@
     "characters/Hawthorne Winters.md",
     "characters/Alton Vorn'kyr Prescott.md",
     "sessions/2025-02-03.md",
-    "sessions/2025-01-27.md",
-    "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "adventures/C04 The Nature of Magic Outline.canvas",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
