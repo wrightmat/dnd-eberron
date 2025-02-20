@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
+                "file": "adventures/C04 The Nature of Magic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-07  Strixhaven Year Four"
+              "title": "Outline of C04 The Nature of Magic"
             }
           },
           {
@@ -277,10 +277,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a208779a01c6fbda",
+  "active": "72c7e3307080fefc",
   "lastOpenFiles": [
-    "adventures/C04 The Nature of Magic.md",
     "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
+    "creatures/Malakar Draksang.md",
+    "adventures/C04 The Nature of Magic.md",
     "adventures/C04 The Nature of Magic/2-14  Hemomancy (Finale).md",
     "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
     "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
@@ -304,7 +305,6 @@
     "sessions/2025-02-03.md",
     "sessions/2025-01-27.md",
     "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
-    "adventures/C04 The Nature of Magic/2-11  Psionics.md",
     "adventures/C04 The Nature of Magic Outline.canvas",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",

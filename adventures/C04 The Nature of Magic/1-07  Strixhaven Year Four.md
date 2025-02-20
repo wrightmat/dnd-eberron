@@ -3,12 +3,13 @@
 ### Background and Hook(s)
 
 * As the fourth and final year of the characters’ academic career at Strixhaven dawns, the university faces a crisis. In this adventure, the characters come face-to-face with an awful truth: not only does the Oriq threaten the safety of everyone on campus, but the university’s masters are powerless against the villains. It becomes clear that the characters must drop their studies and stop them at all costs.
-* While the Strixhaven faculty investigate the Oriq and their schemes, it becomes clear that the villains have warded themselves from their spells so student aid will be needed to defeat them. The characters are called on to help track the villains to their lair and stop their wicked plans.
+* While the Strixhaven faculty investigate the Oriq and their schemes, it becomes clear that the villains have warded themselves from their spells so student aid will be needed to defeat them. The characters are called on to help track the villains to their lair - the Fortress Badlands and the even further yet Ruins of Caerdoon - and stop their wicked plans. But Malakar has other plans...
 
 ### Characters and Locations
 
 * **Verelda Lang** (CN dryad)
-* **Y’demi** (NE human Oriq blood mage)
+* **Y’demi** (NE female human Oriq blood mage)
+- **Malakar Draksang** (NE male dragonborn Oriq blood mage).
 
 * **Firejolt Café**
 * **Sedgemoor**
@@ -352,8 +353,11 @@ Although members of Lorehold College have been known to visit the Ruins of Caerd
 >Torches illuminate a spacious chamber that has crates and boxes stashed in its corners. Five stout, wooden doors line the chamber’s south wall. Soggy texts and scrolls lie in puddles on the floor. To the north, you hear a loud rustling sound.
 
 - Malakar's digging through items in the treasury (area M6) is the source of the sound. If the characters make any loud noises here, Malakar notices their presence, although he remains in area M6.
-- The soggy books and blank scrolls lying in puddles on the floor were used by Malakar to prepare for his ritual; they no longer have any value. But any player investigating them may find any of the following clues from the scraps (written in Draconic and partially destroyed, but still readable):
-
+- The soggy books and blank scrolls lying in puddles on the floor were used by Malakar to prepare for his ritual; they no longer have any value. Any player doing an Investigation check may find any of the following clues from the scraps (written in Draconic and partially destroyed, but still readable):
+	- DC 12: A scribbled note: “Final preparation: the artifact will complete the sigil at the Snarl’s core.”
+	- DC 15: A bloodstained letter from an Oriq agent: “Our work here is done, Master. Strixhaven’s heart remains unguarded. The moment approaches.”
+	- DC 18: An unfinished Oriq research entry: “The Snarl: The heart of Strixhaven’s power, hidden in plain sight.”
+	- DC 20: A list of magical sites with the Biblioplex circled in red ink.
 - **Crates**. A character who spends 1 minute searching the crates can, with a successful DC 15 Intelligence (Arcana or Nature) check, find one of the following useful concoctions. Only one of each concoction can be found here:
 	- **Alchemist’s Doom**. Stored in a flask, this concoction is alchemist’s fire, except it deals 7 (2d6) fire damage at the start of the target’s turns.
 	- **Elixir of Life**. Whoever drinks this concoction gains advantage on death saving throws for 24 hours.
@@ -387,20 +391,24 @@ Although members of Lorehold College have been known to visit the Ruins of Caerd
 	- DC 15: *“The Blood Avatar walks where the Weave is weakest.”*
 	- DC 18: *“The Library is more than a vault — it is a Nexus.”* (Implying the Biblioplex's importance)
 	- DC 20: *“The Great Convergence — when the Snarl is unbound, the world’s mana shall coalesce into the hands of the worthy.”*
-- Malakar is here, digging through rubble and ancient treasures, seemingly looking for a particular artifact. When the players arrive, he finds it, and uses his magic to teleport away (probably monologuing first) - replacing himself with a daemogoth.
-- Once the daemogoth is destroyed, the players should return to The Biblioplex where Malakar teleported to.
+- Malakar is here, digging through rubble and ancient treasures, seemingly looking for a particular artifact. When the players arrive, he finds it, and uses his magic to teleport away (monologuing first) - replacing himself with a daemogoth. Instead of teleporting with a generic effect, Malakar tears open a swirling red portal that visibly shows the Biblioplex in the background (with a successful DC 15 Perception check).
+	- “Ah… so you finally caught up. You’re too late, of course. The real work begins elsewhere.”
+	- “The Snarl has slumbered for too long. I will shape it to my will and transcend the gods themselves.”
+	- “Run along, little students. Go back to your lectures. I have history to rewrite.”
+	- “You have failed before you even knew the game was being played.”
+- Once the daemogoth is destroyed, the players should return to The Biblioplex where Malakar teleported to (as clued by the inscriptions, scraps, and monologue).
 
 `encounter: 1: daemogoth`
 
-#### Hunting Down Malakar
+#### Standoff with Malakar
 
-###### Finding Malakar
+###### Back to Strixhaven
  - [ ] 
-- 
+- As the players set foot back on their campus, they immediately see that all of their friends and fellow students are engaged in combat with a variety of Oriq members - everything from mage hunters to Oriq blood mages. But they seem to have things under control, and the more pressing matter seems to be the bright glowing magic emerging from the center of the Biblioplex.
 
-###### Standoff
+###### The Biblioplex
  - [ ] 
-* The assault on Strixhaven became the perfect misdirection for Malakar's true goals. During the ensuing chaos, he entered the Biblioplex and descended into the Hall of Oracles to harness the power of the Strixhaven Snarl, a maelstrom of power left behind from the creation of the world.
+* The assault on Strixhaven was the perfect misdirection for Malakar's true goals. During the ensuing chaos, he entered the Biblioplex and entered the Hall of Oracles to harness the power of the Strixhaven Snarl, a maelstrom of power left behind from the creation of the world.
 * The party likely tries to intervene (or if not then one of the professors can), but are transported away the instant they get close to the Snarl.
 * They land somewhere in Khorvaire, accompanied by a professor (and/or other NPCs) who was trying to help, and who can direct them to the other magical schools of Eberron so they can learn more about the nature of magic and how to take on the BBEG.
 

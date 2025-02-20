@@ -16,7 +16,7 @@
 
 ### Major NPCs
 
-- **Malakar Draksang** (male dragonborn blood mage). Malakar was a warlock who attended Strixhaven as part of Silverquill College many years ago, but he was passed over for the role of Oracle. He had a special hatred for the Dragonsguard, who had stood in his way, and all the rest of Strixhaven's elite with them. Malakar was all ego, for he believed he was the preeminent mage in the entirety of Eberron. His arrogance was spiked with fits of rage — he was furious that others did not appreciate and recognize his superiority, and he would take it out on anyone who did not show utter deference to him. Malakar practiced all forms of forbidden magic, but was especially drawn toward blood magic, as he strived to awaken the Blood Avatar to demolish Strixhaven University and claim its world-renowned library of spells for himself.
+- **Malakar Draksang** (NE male dragonborn Oriq blood mage). Malakar was a warlock who attended Strixhaven as part of Silverquill College many years ago, but he was passed over for the role of Oracle. He had a special hatred for the Dragonsguard, who had stood in his way, and all the rest of Strixhaven's elite with them. Malakar was all ego, for he believed he was the preeminent mage in the entirety of Eberron. His arrogance was spiked with fits of rage — he was furious that others did not appreciate and recognize his superiority, and he would take it out on anyone who did not show utter deference to him. Malakar practiced all forms of forbidden magic, but was especially drawn toward blood magic, as he strived to awaken the Blood Avatar to demolish Strixhaven University and claim its world-renowned library of spells for himself.
 
 ### Organizations and Factions
 
