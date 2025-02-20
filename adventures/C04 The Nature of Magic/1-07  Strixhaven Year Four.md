@@ -2,7 +2,8 @@
 
 ### Background and Hook(s)
 
-* As the fourth and final year of the characters’ academic career at Strixhaven dawns, the university faces a crisis. In this adventure, the characters come face-to-face with an awful truth: not only does the Oriq threaten the safety of everyone on campus, but the university’s masters are powerless against the villains. It becomes clear that the characters must drop their studies and stop him at all costs.
+* As the fourth and final year of the characters’ academic career at Strixhaven dawns, the university faces a crisis. In this adventure, the characters come face-to-face with an awful truth: not only does the Oriq threaten the safety of everyone on campus, but the university’s masters are powerless against the villains. It becomes clear that the characters must drop their studies and stop them at all costs.
+* While the Strixhaven faculty investigate the Oriq and their schemes, it becomes clear that the villains have warded themselves from their spells so student aid will be needed to defeat them. The characters are called on to help track the villains to their lair and stop their wicked plans.
 
 ### Characters and Locations
 
@@ -81,7 +82,7 @@ At the end of the characters’ first Exam in Professor Lang’s class, she take
 >“Our best faculty researchers are digging through Strixhaven’s past trying to find anything helpful, but we could use your help searching for clues. I’ve arranged for you to lead an expedition to the Fortress Badlands, where Tullus found the orb. Needless to say, there’s extra credit in it for you if you’ll help us once again.”
 
 - Once the characters are ready to venture into the Fortress Badlands, Professor Lang provides directions but warns the characters that this location might be dangerous. Although Dean Tullus didn’t run into any problems there, it’s likely that someone led her to the orb and removed any threats that might impede his plan to manipulate her.
-- Indeed, the Fortress Badlands have become a haven for acolytes of Oriq teachings and their thralls.
+- Indeed, the Fortress Badlands have become a haven for acolytes of Oriq teachings and their thralls. Both the Ruins of Caerdoon and the Fortress Badlands (servings as a sort of gateway to the former) are located between the two large mountain ranges south of Fang Crater (and north of Io'lokar) in The Vast.
 
 #### Week 6: Into the Badlands
 
@@ -228,7 +229,7 @@ This winding network of tunnels and alcoves holds collections of books, scrolls,
 >A copper basin on a wrought-iron stand rests on the floor in the middle of this cave. A pool of smelly water fills the cave’s northwest corner.
 
 - Malakar lived here before decamping to the Ruins of Caerdoon. Y’demi (neutral evil human Oriq blood mage) resides here now, waiting for Malakar’s imminent call to join him.
-- Copper Basin. The copper basin contains a gallon of fresh blood. So long as she can see the basin and there’s a gallon or more of blood in it, Y’demi can use the following bonus action:
+- **Copper Basin**. The copper basin contains a gallon of fresh blood. So long as she can see the basin and there’s a gallon or more of blood in it, Y’demi can use the following bonus action:
 	- **Sanguine Tentacles (1/Day)**. The blood in the copper basin disappears as tentacles of congealed blood fill a 10-foot cube centered at a point on the ground that Y’demi can see within 15 feet of her. The effect lasts for 1 minute, during which time that area is difficult terrain. Any creature entering that area for the first time on a turn or starting its turn there must succeed on a DC 13 Dexterity saving throw or be restrained by the tentacles. A creature that starts its turn restrained by the tentacles takes 10 (3d6) bludgeoning damage. A creature restrained by the tentacles can use its action to make either a DC 13 Strength (Athletics) check or a DC 13 Dexterity (Acrobatics) check, ending the restrained condition on itself on a success.
 
 `encounter: 1: Oriq Blood Mage`
@@ -236,11 +237,11 @@ This winding network of tunnels and alcoves holds collections of books, scrolls,
 - **Roleplaying Y’demi**. Y’demi works with Malakar because she’s fascinated with his magic, but she isn’t willing to die for him.
 - Y’demi fights until she loses half or more of her hit points, then makes a cutting remark as she tries to escape. Y’demi is patient and cunning. If captured, she tells the students about Malakar's trip to Caerdoon, if she thinks doing so will help keep her alive. She won’t help the party hurt him, but if a character succeeds on a DC 18 Charisma (Intimidation) check, she gives short, honest answers to the characters’ questions.
 - **Secret Door**. A character who searches the southeast wall and succeeds on a DC 15 Wisdom (Perception) check finds a door disguised to blend with the surrounding stone. This 5-foot-wide, 10-foot-tall stone door opens to a hallway that ends at another secret door, beyond which is area U2. From inside the hallway, characters can spot either secret door without having to make a check.
-- **Smelly Pool of Water**. The smelly water in the northwest pool is drinkable.\
+- **Smelly Pool of Water**. The smelly water in the northwest pool is drinkable.
 
 ###### Developments
  - [ ] 
-The information in these areas should give a clear picture of the extent of the Oriq threat that still remains, and that the Ruins of Caerdoon should be their next target. However, since they have some time, encourage them to return to campus to make any final preparations — not to mention have one final visit with their Friends, Rivals, and Beloveds — before heading into this adventure’s final areas.
+- The information in these areas should give a clear picture of the extent of the Oriq threat that still remains, and that the Ruins of Caerdoon should be their next target. However, since they have some time, encourage them to return to campus to make any final preparations — not to mention have one final visit with their Friends, Rivals, and Beloveds — before heading into this adventure’s final areas.
 
 #### This Is Surreal, Isn’t It?
 
@@ -259,6 +260,12 @@ The information in these areas should give a clear picture of the extent of the 
 
 #### Ruins of Caerdoon
 
+Although members of Lorehold College have been known to visit the Ruins of Caerdoon on archaeology expeditions, the area is far from safe or well explored. Most of the fortress has fallen to ruin, but potent magic and sturdy construction have left enough stone standing to make it defensible. Notable features are summarized below:
+- **Desecrated Earth**. The area is awash in necrotic energy. Undead here have advantage on saving throws against being turned.
+- **Fortress Walls**. The fortress looks like a blast of energy blew the top two-thirds of it away. The walls are roughly 10 feet high and 2 feet thick unless otherwise specified.
+- **Illumination**. No light sources are present in the ruins, which are illuminated by sunlight during the day and moonlight at night.
+- **Trees**. The trees here are gnarled and have discolored leaves.
+
 ###### N1. Haunted Watchtower
  - [ ] 
 - The fortress used to have multiple watchtowers covering all approaches but now has only one battered tower near the south road. A wraith — the tormented remnant of a long-dead garrison commander — stands watch. When it detects visitors, the wraith lets out a shriek that puts the ruins on alert and activates the necromantic barrier described in area N2.
@@ -275,7 +282,7 @@ The information in these areas should give a clear picture of the extent of the 
 - When the dome appears, read the following:
 >A wall of writhing darkness climbs forty feet in the air, forming an opaque dome around the ruins.
 
-- Any creature in or above the moat when the dome appears must make a DC 13 Dexterity saving throw, taking 22 (5d8) necrotic damage on a failed save, or half as much damage on a successful one. The creature chooses if it’s inside or outside the dome. The dome deals 22 (5d8) necrotic damage to any creature that touches it. A creature takes this damage only once per turn.
+- Any creature in or above the moat when the dome appears must make a DC 13 Dexterity saving throw, taking `dice:5d8` necrotic damage on a failed save, or half as much damage on a successful one. The creature chooses if it’s inside or outside the dome. The dome deals `dice:5d8` necrotic damage to any creature that touches it. A creature takes this damage only once per turn.
 - Nothing can physically pass through the dome unless certain conditions are met, as explained below. However, the dome doesn’t block ethereal creatures or prevent the use of spells such as dimension door or teleport.
 - The dome is impervious to most damage. However, a character who examines the dome and succeeds on a DC 15 Intelligence (Arcana) check ascertains that it’s possible to make a temporary hole in the dome by dealing radiant damage to it, and that a skilled arcanist can manipulate the dome’s magical harmonics to make it susceptible to other damage types, as well (as described below).
 - Dealing at least 25 radiant damage to the dome with an attack or a spell creates a 10-foot-diameter hole in it. Appearing at the point where the attack or spell made first contact with the dome, this hole remains open for 1 minute.
@@ -287,7 +294,7 @@ The information in these areas should give a clear picture of the extent of the 
 
 - The broken siege weapons form a 10-foot-high, 40-foot-long barricade.
 - **Catapult Munition**. A character who searches the area and succeeds on a DC 15 Wisdom (Perception) check finds a catapult munition roughly the size and weight of a cannonball amid the wreckage. A successful DC 13 Intelligence (Arcana) check reveals that the munition is powerful enough to damage the Shield of the Fallen in area N2, provided the dome’s magical harmonics are altered so that the dome becomes susceptible to fire damage.
-- The munition can be thrown up to 30 feet and explodes on impact. Any creature within a 15-foot-radius sphere centered on the point of impact must make a DC 14 Dexterity saving throw, taking 35 (10d6) fire damage on a failed save, or half as much damage on a successful one. In addition, each object in that area that isn’t being worn or carried takes 35 (10d6) fire damage.
+- The munition can be thrown up to 30 feet and explodes on impact. Any creature within a 15-foot-radius sphere centered on the point of impact must make a DC 14 Dexterity saving throw, taking `dice:10d6` fire damage on a failed save, or half as much damage on a successful one. In addition, each object in that area that isn’t being worn or carried takes 35 (10d6) fire damage.
 
 ###### N4. Supply Train
  - [ ] 
@@ -316,18 +323,20 @@ The information in these areas should give a clear picture of the extent of the 
  - [ ] 
 >Little remains of the once-proud fortress. Only ten feet or so of the walls remain, worn and bleached by time and weather.
 
-- Khelvor the daemogoth patrols the fortress, eager to defend Malakar in exchange for all the sweet suffering that’s about to occur. He is a cunning, self-serving sadist.
+- Khelvor the daemogoth patrols the fortress, eager to defend Malakar in exchange for all the sweet suffering that’s about to occur. He is a cunning, self-serving sadist. If drawn to combat, the daemogoth should only fight to about half HP, and then flee - he's needed later when Malakar teleports away (area M6).
 - **Glyphs of Warding**. In each 5-foot square marked X on map 6.4 is a glyph of warding placed by Malakar. Finding each glyph requires a successful DC 16 Intelligence (Investigation) check. If the wights in area N5 warned the characters about the glyphs, checks made to find them have advantage.
 - Once a glyph is found, a successful DC 16 Intelligence (Arcana) check disables it. Otherwise, the glyph triggers the first time a creature enters the 5-foot square, activating a hypnotic pattern spell (save DC 16) centered on the glyph.
+
+`encounter: 1: daemogoth`
 
 - **Necrotic Locus**. In the middle of the fortress is a disgusting orb of bone, flesh, and necrotic energy. The first time a character sees it, read:
 >Pained eyes bulge from a 5-foot-diameter sphere of glistening muscle, ashen skin, and yellowed bone. Oily vapor issues from six mouths on the surface of the sphere, which sits pulsing on the ground.
 
 - A character who examines the sphere and succeeds on a DC 15 Intelligence (Arcana) check ascertains that it powers the dome around the ruins (see area N2), and that its haphazard construction makes it susceptible to having its innards torn out or its magic destabilized.
 - The Locus is a Medium object with AC 15; 50 hit points; a damage threshold of 15; immunity to necrotic, poison, and psychic damage; and resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. The Locus can’t be moved, but it can be damaged in the following special ways:
-	- **Rip Out Its Guts**. A character can reach inside the Locus through one of its mouths and try to rip out its innards with a DC 15 Strength (Athletics) check. If the check fails, the character is unsuccessful and takes 10 necrotic damage. If the check succeeds, the character takes 5 necrotic damage and deals 22 (4d10) slashing damage to the Locus, ignoring its damage threshold and resistance to slashing damage.
-	- **Undo It with Magic**. A character within 5 feet of the Locus can use an action to try to overload it using an incantation taught in school. The character concludes the incantation by making an Intelligence (Arcana) check. If the check fails, the character takes 5 necrotic damage. If the check succeeds, the Locus takes 22 (4d10) force damage, ignoring its damage threshold.
-Once the Locus is destroyed, the dome vanishes.
+	- **Rip Out Its Guts**. A character can reach inside the Locus through one of its mouths and try to rip out its innards with a DC 15 Strength (Athletics) check. If the check fails, the character is unsuccessful and takes 10 necrotic damage. If the check succeeds, the character takes 5 necrotic damage and deals `dice:4d10` slashing damage to the Locus, ignoring its damage threshold and resistance to slashing damage.
+	- **Undo It with Magic**. A character within 5 feet of the Locus can use an action to try to overload it using an incantation taught in school. The character concludes the incantation by making an Intelligence (Arcana) check. If the check fails, the character takes 5 necrotic damage. If the check succeeds, the Locus takes `dice:4d10` force damage, ignoring its damage threshold.
+- Once the Locus is destroyed, the dome vanishes, revealing a large staircase leading down to the basement.
 
 ###### Descending to the Basement
  - [ ] 
@@ -340,13 +349,14 @@ Once the Locus is destroyed, the dome vanishes.
 
 ###### M1. Central Chamber
  - [ ] 
->Torches illuminate a spacious chamber that has crates and boxes stashed in its corners. Five stout, wooden doors line the chamber’s south wall. Soggy texts and scrolls lie in puddles on the floor. To the north, you hear an eerie chant made up of guttural croaks.
+>Torches illuminate a spacious chamber that has crates and boxes stashed in its corners. Five stout, wooden doors line the chamber’s south wall. Soggy texts and scrolls lie in puddles on the floor. To the north, you hear a loud rustling sound.
 
-- Murgaxor is the source of the chant. If the characters make any loud noises here, Murgaxor notices their presence, although he remains in area M6.
-- The soggy books and blank scrolls lying in puddles on the floor were used by Murgaxor to prepare for his ritual; they no longer have any value.
+- Malakar's digging through items in the treasury (area M6) is the source of the sound. If the characters make any loud noises here, Malakar notices their presence, although he remains in area M6.
+- The soggy books and blank scrolls lying in puddles on the floor were used by Malakar to prepare for his ritual; they no longer have any value. But any player investigating them may find any of the following clues from the scraps (written in Draconic and partially destroyed, but still readable):
+
 - **Crates**. A character who spends 1 minute searching the crates can, with a successful DC 15 Intelligence (Arcana or Nature) check, find one of the following useful concoctions. Only one of each concoction can be found here:
-- **Alchemist’s Doom**. Stored in a flask, this concoction is alchemist’s fire, except it deals 7 (2d6) fire damage at the start of the target’s turns.
-- **Murgaxor’s Elixir of Life**. Whoever drinks this concoction gains advantage on death saving throws for 24 hours.
+	- **Alchemist’s Doom**. Stored in a flask, this concoction is alchemist’s fire, except it deals 7 (2d6) fire damage at the start of the target’s turns.
+	- **Elixir of Life**. Whoever drinks this concoction gains advantage on death saving throws for 24 hours.
 
 ###### M2. Munition Storage
  - [ ] 
@@ -371,8 +381,16 @@ Once the Locus is destroyed, the dome vanishes.
 
 ###### M6. Treasury
  - [ ] 
+- Inscribed on the walls are broken inscriptions in ancient Draconic, partially destroyed but still readable with an Intelligence (History or Arcana) check.
+	- DC 10: *“Beware the Blood Ritual — what is drained cannot be restored.”*
+	- DC 12: *“The Key to Godhood lies at the Source.”* (The "Source" = the Snarl)
+	- DC 15: *“The Blood Avatar walks where the Weave is weakest.”*
+	- DC 18: *“The Library is more than a vault — it is a Nexus.”* (Implying the Biblioplex's importance)
+	- DC 20: *“The Great Convergence — when the Snarl is unbound, the world’s mana shall coalesce into the hands of the worthy.”*
 - Malakar is here, digging through rubble and ancient treasures, seemingly looking for a particular artifact. When the players arrive, he finds it, and uses his magic to teleport away (probably monologuing first) - replacing himself with a daemogoth.
-- Once the daemogoth is destroyed, the players should return to The Biblioplex where Malakar teleported to (how to let the players know this?)
+- Once the daemogoth is destroyed, the players should return to The Biblioplex where Malakar teleported to.
+
+`encounter: 1: daemogoth`
 
 #### Hunting Down Malakar
 
