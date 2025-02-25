@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic.md",
+                "file": "sessions/2025-01-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C04 The Nature of Magic"
+              "title": "2025-01-27"
             }
           },
           {
@@ -46,7 +46,7 @@
               "type": "markdown",
               "state": {
                 "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -80,23 +80,9 @@
               "icon": "lucide-file",
               "title": "2025-02-24"
             }
-          },
-          {
-            "id": "a8e75909213f0d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "other/Strixhaven University.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strixhaven University"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,6 +148,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 42.96875,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -169,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2025-02-24.md",
+                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-24"
+              "title": "Outline of 1-01  Strixhaven Year 1, Term 1"
             }
           },
           {
@@ -184,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sessions/2025-02-24.md"
+                "file": "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-02-24"
+              "title": "File properties for 1-01  Strixhaven Year 1, Term 1"
             }
           },
           {
@@ -248,6 +235,24 @@
               "title": "All properties"
             }
           }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "313ed7ce69cdfc5c",
+        "type": "tabs",
+        "dimension": 57.03125,
+        "children": [
+          {
+            "id": "367d45ec67a5142b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
         ]
       }
     ],
@@ -271,16 +276,51 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9d387b382c88e5b6",
+  "floating": {
+    "id": "4f0bb29f80903189",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5d82d4919d3e266f",
+        "type": "window",
+        "children": [
+          {
+            "id": "49b75db9cb72829b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "90d6cd7799d5a5ac",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 176,
+        "width": 915,
+        "height": 535,
+        "maximize": false,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "a208779a01c6fbda",
   "lastOpenFiles": [
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
-    "other/Strixhaven University.md",
     "sessions/2025-02-10.md",
     "sessions/2025-02-24.md",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "other/Strixhaven University.md",
+    "sessions/2025-01-27.md",
     "adventures/C04 The Nature of Magic.md",
     "locations/Strixhaven University.md",
     "sessions/2025-02-03.md",
-    "sessions/2025-01-27.md",
     "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
     "creatures/Peryton.md",
     "creatures/Spectator.md",
