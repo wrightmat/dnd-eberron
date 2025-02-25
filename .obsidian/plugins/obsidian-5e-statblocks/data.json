@@ -9428,6 +9428,81 @@
         "note": "creatures/Darkling Elder.md",
         "mtime": 1708455168714
       }
+    ],
+    [
+      "Swampgas Shade",
+      {
+        "source": "ToB3",
+        "environment": "Swamp",
+        "name": "Swampgas Shade",
+        "size": "Medium",
+        "type": "Undead",
+        "alignment": "Neutral Evil",
+        "ac": 13,
+        "hp": 39,
+        "hit_dice": "6d8 + 12",
+        "speed": "0 ft., fly 40 ft. (hover)",
+        "stats": [
+          6,
+          17,
+          15,
+          8,
+          12,
+          8
+        ],
+        "saves": [
+          {
+            "Wis": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 5
+          }
+        ],
+        "damage_vulnerabilities": "radiant",
+        "damage_resistances": "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks",
+        "damage_immunities": "necrotic, poison",
+        "condition_immunities": "exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "understands all languages it knew in life but can’t speak",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Amorphous.",
+            "desc": "The swampgas shade can move through a space as narrow as 1 inch wide without squeezing."
+          },
+          {
+            "name": "Rejuvenation.",
+            "desc": "If it dies within its bound region, the swampgas shade returns to life in 1d4 days and regains all its hp. This trait doesn’t function if the swampgas shade is put to rest, which occurs after its corpse has been reburied outside the swamp."
+          },
+          {
+            "name": "Swampbound.",
+            "desc": "The swampgas shade is bound to a region of swamp within 1 mile of its body. If the shade leaves this region, it loses its Soul Drain action until it returns to the region. If it remains outside the region, it automatically teleports back to its corpse after 24 hours, regardless of distance."
+          },
+          {
+            "name": "Swamp Camouflage.",
+            "desc": "The swampgas shade has advantage on Dexterity (Stealth) checks made to hide in swampy terrain."
+          },
+          {
+            "name": "Undead Nature.",
+            "desc": "The swampgas shadow doesn’t require air, food, drink, or sleep."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Haunting Murmurs.",
+            "desc": "Ranged Spell Attack: +3 to hit, range 60 ft., one creature. Hit: 8 (1d8 + 3) psychic damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Swampland Stealth.",
+            "desc": "The swampgas shade takes the Hide action. It must be in swampy terrain to use this bonus action."
+          }
+        ],
+        "layout": "Basic 5e Layout (Custom)"
+      }
     ]
   ],
   "defaultLayouts": {},

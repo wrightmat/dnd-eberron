@@ -41,10 +41,6 @@
 - **The Twelve** (Faction: Korth, Karrnath)
 	- **Beliefs**: The Twelve is an arcane think tank formed by the Dragonmarked Houses to research and codify the uses of magic. While traditionally focused on practical applications, some members explore deeper metaphysical questions about the nature of mana.
 	- **Role**: They can provide the players with access to arcane knowledge about dragonshards, ley lines, and nexuses. However, their ties to the Dragonmarked Houses may complicate alliances.
-- **Seekers of the Spiral** (Faction: multiple locations)
-	- **Beliefs**: This independent cabal believes the concentric nature of magic reflects a universal truth: chaos and order are inextricably linked. They study chaos magic in secret, believing it to hold the key to understanding the origins of all magic, but fear its misuse could unravel creation.
-	- **Role**: They are tied to Zaelith T’Kaarn’s past and entropic experiments, holding fragmented records of the explosion that transformed them. Some members may aid the players, while others harbor dangerous ambitions of their own.
-	- **Headquarters**: Stormreach (Xen’drik), and others as needed
 
 ### Outline
 

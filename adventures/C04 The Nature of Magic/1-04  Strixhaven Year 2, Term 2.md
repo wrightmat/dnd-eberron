@@ -256,7 +256,7 @@ Check off as information is received. These should be gathered from Secrets and 
 
 ### DM Notes and Random Tables
 
-- At the completion of this adventure, the end of the second year, the players should level up to 6th level.
+- At the completion of this adventure, the end of the second year, the players should level up to 5th level.
 
 ### References
 

@@ -396,6 +396,9 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - She explains eldritch balm to the characters and says she believes it’s likely that the Sedgemoor waters used to brew the latest batch of eldritch balm were corrupted in some way. She doesn’t necessarily suspect foul play but mentions that, in the past, students have been caught practicing forbidden magic in the more remote parts of Sedgemoor, the bayou that encompasses Witherbloom College’s campus. Such sinister magic might be responsible for the balm’s corruption, but a random surge of wild magic is an equally likely explanation in her mind. In any case, this corruption must have caused objects treated with the eldritch balm and creatures that came into contact with it to take on temporary — and dangerous — magical properties.
 - Professor Totsky gives the characters a flask of holy water and explains that pouring it into the underwater spring whose waters are used to create eldritch balm will settle the waters and prevent further corruption. She describes the location of the spring (area S7) to help the characters find it. She urges the characters to take on this task so she can immediately track down the rest of the contaminated balm and remove it from objects on campus.
 
+> [!info] Eldritch Balm
+> Used at Strixhaven for decades, eldritch balm is an alchemical salve made from the sludgy, acidic waters of Sedgemoor, the bayou that encompasses the Witherbloom College campus. Once these waters undergo an alchemical process in Witherbloom’s faculty laboratories, the resulting eldritch balm is used to magically treat and strengthen objects, from storage trunks to cooking vats to stage props and more. The balm’s effects differ depending on the objects treated, but it typically provides resistance to certain types of damage or other protections useful on a campus where magic often goes awry.
+
 #### Week 24: Magical Physiologies Practicum
 
 ###### Introduction
@@ -409,8 +412,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 ###### Sedgemoor
  - [ ] 
-- Encompassing Witherbloom College’s campus, Sedgemoor is a wild bayou known for the range of strange creatures that call it home. It is also a rich source of fungi, herbs, spider silk, and other prime components for spells and potions.
-- Sedgemoor isn’t usually dangerous, and it’s routine for students to be sent here as part of their coursework.
+- Encompassing Witherbloom College’s campus, Sedgemoor is a wild bayou known for the range of strange creatures that call it home. It is also a rich source of fungi, herbs, spider silk, and other prime components for spells and potions. Sedgemoor isn’t usually dangerous, and it’s routine for students to be sent here as part of their coursework.
 - **Sedgemoor Features**. Sedgemoor has the following features:
 	- **Building Doors**. The doors to the research sheds (areas S4 and S5) are unlocked.
 	- **Swamp Water.** The watery areas on the map are shallow along the shore, growing deeper off the map. Characters walking between islets and tree stumps sink several inches in mud and water, making all these areas difficult terrain.
@@ -464,7 +466,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 - **Clearing the Waters**. With the scorpion defeated, the characters must pour their holy water from Professor Totsky into the spring. When they do, the liquid from Totsky’s flask purifies the spring, ending the threat of corruption.
 - **Murgaxor’s Journal**. A character spots a small, oilskin-wrapped journal sitting atop a small stump. The same black eldritch balm seen throughout the year can be found scattered here as well. Water damage has rendered much of the journal unreadable, but what remains reveals sinister thoughts. It’s clear that some nefarious personality has been experimenting with life-draining magic in the marsh and has been doing so for some time.
-- The journal belonged to the evil Murgaxor; it slipped out of his pocket while he practiced the corrupting magic that caused this academic year’s mishaps. The journal notes that Murgaxor’s last step in this scheme involved the Rose Stage Festival. It also contains a crudely drawn sketch of Wiltroot Hall (which a PC would recognize with a DC 12 Intelligence check, or another student/professor would be able to tell them).
+- The journal belonged to the evil Murgaxor; it slipped out of his pocket while he practiced the corrupting magic that caused this academic year’s mishaps. The journal notes that Murgaxor’s last step in this scheme involved the Rose Stage Festival (and the Owlbear attack). It also contains a crudely drawn sketch of Wiltroot Hall (which a PC would recognize with a DC 12 Intelligence check, or another student/professor would be able to tell them).
 
 #### Week 26: Secrets in Sedgemoor
 
@@ -560,7 +562,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
  - [ ] 
 >Stained paint brushes and empty watercolor palettes are scattered on a table in this small thatched-roof hut, which has a view of large clearings to the north and south.
 
-The table in the building holds enough materials to create a set of painter’s supplies and a set of calligrapher’s supplies.
+- The table in the building holds enough materials to create a set of painter’s supplies and a set of calligrapher’s supplies.
 
 ###### W11. Northwestern Clearing
  - [ ] 
@@ -622,7 +624,7 @@ Check off as information is received. These should be gathered from Secrets and 
 
 ### DM Notes and Random Tables
 
-- At the end of this adventure, the party levels up to 4th level.
+- At the end of this adventure, the party levels up to 3rd level. Ask what they did over their summer break to gain their subclass.
 - The Sassy Sally Jane doll modified to utter rumors and secrets about other students, much like a "Burn Book", but in doll form.
 
 ### References
