@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2025-01-27.md",
+                "file": "sessions/2025-02-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-27"
+              "title": "Outline of 2025-02-24"
             }
           },
           {
@@ -170,10 +170,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sessions/2025-01-27.md"
+                "file": "sessions/2025-02-24.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-01-27"
+              "title": "File properties for 2025-02-24"
             }
           },
           {
@@ -235,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -258,14 +258,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a208779a01c6fbda",
+  "active": "cf6336532a0797eb",
   "lastOpenFiles": [
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "sessions/2025-01-27.md",
     "sessions/2025-02-24.md",
     "sessions/2025-03-03.md",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
     "adventures/C04 The Nature of Magic.md",
-    "sessions/2025-01-27.md",
     "sessions/2025-02-10.md",
     "other/Strixhaven University.md",
     "locations/Strixhaven University.md",

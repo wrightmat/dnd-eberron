@@ -163,7 +163,7 @@
     "creatures": [
       {
         "name": "Alton",
-        "initiative": 7,
+        "initiative": 3,
         "static": false,
         "modifier": 0,
         "hp": 12,
@@ -185,7 +185,7 @@
       },
       {
         "name": "Hawthorne",
-        "initiative": 17,
+        "initiative": 12,
         "static": false,
         "modifier": 1,
         "hp": 7,
@@ -207,7 +207,7 @@
       },
       {
         "name": "Shear",
-        "initiative": 5,
+        "initiative": 18,
         "static": false,
         "modifier": 1,
         "hp": 20,
@@ -223,13 +223,13 @@
         "enabled": true,
         "level": 1,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Zsehissu",
-        "initiative": 19,
+        "initiative": 4,
         "static": false,
         "modifier": 1,
         "hp": 11,
@@ -248,103 +248,11 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Giant Frog",
-        "initiative": 2,
-        "static": false,
-        "modifier": 1,
-        "hp": 18,
-        "currentMaxHP": 18,
-        "cr": "1/4",
-        "ac": 11,
-        "currentAC": 11,
-        "id": "ID_489a084919ba",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "4d8",
-        "rollHP": false
-      },
-      {
-        "name": "Giant Frog",
-        "initiative": 20,
-        "static": false,
-        "modifier": 1,
-        "hp": 18,
-        "currentMaxHP": 18,
-        "cr": "1/4",
-        "ac": 11,
-        "currentAC": 11,
-        "id": "ID_393a58886b6b",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "4d8",
-        "rollHP": false
-      },
-      {
-        "name": "Giant Frog",
-        "initiative": 6,
-        "static": false,
-        "modifier": 1,
-        "hp": 18,
-        "currentMaxHP": 18,
-        "cr": "1/4",
-        "ac": 11,
-        "currentAC": 11,
-        "id": "ID_89985809385a",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "4d8",
-        "rollHP": false
-      },
-      {
-        "name": "Giant Frog",
-        "initiative": 19,
-        "static": false,
-        "modifier": 1,
-        "hp": 18,
-        "currentMaxHP": 18,
-        "cr": "1/4",
-        "ac": 11,
-        "currentAC": 11,
-        "id": "ID_49880889b9fa",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "4d8",
-        "rollHP": false
       }
     ],
-    "state": true,
+    "state": false,
     "name": null,
-    "round": 4,
+    "round": 1,
     "logFile": "",
     "rollHP": false
   },
