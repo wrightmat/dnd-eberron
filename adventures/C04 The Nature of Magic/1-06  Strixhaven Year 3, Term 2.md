@@ -486,7 +486,7 @@ Check off as information is received. These should be gathered from Secrets and 
 
 ### DM Notes and Random Tables
 
-- At the conclusion of this adventure, finishing their third year, the players should level up to 8th level.
+- At the conclusion of this adventure, finishing their third year, the players should level up to 7th level.
 
 ### References
 

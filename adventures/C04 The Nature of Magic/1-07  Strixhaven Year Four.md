@@ -427,7 +427,7 @@ Check off as information is received. These should be gathered from Secrets and 
 ### DM Notes and Random Tables
 
 - Use the Detention Bog only if/when the players actually get detention!
-- Wait to level the party up to 9th level until after they leave their initial Khorvaire locations.
+- At the conclusion of their party at the Bow's End Tavern (see "This Is Surreal, Isn't It?") level the party up to 8th level. NB: They will level up to 9th after they leave their initial Khorvaire locations.
 
 ### References
 
