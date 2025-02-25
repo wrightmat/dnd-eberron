@@ -56,8 +56,10 @@
 For those courses selected by at least one PC student (excluding Required courses, which already have a curriculum in the book), I've asked ChatGPT to come up with some points of curriculum (similar to Secrets and Clues) that give the PCs information and may allude or clue into events later in the campaign. The idea here is to give a piece of information or two during each session recap of previous weeks in that course.
 
 ###### Arcano-Botany for Beginners
+**PC(s)**: Shear
 **Fellow Students**: Catherine Shepherd, Helezana Grara, Joran Brightspark, Killian Lu
- - [ ]  Arcane decay and its effects on plant life, foreshadowing the mana crisis in Act 2.
+**Professor**: Lisette (Witherbloom)
+ - [x] Arcane decay and its effects on plant life, foreshadowing the mana crisis in Act 2. ✅ 2025-02-24
  - [ ]  Manifest zones and plant growth, linking to Thelanis, Mabar, and the Eldeen Reaches.
  - [ ]  Oalian, the Awakened Oak, as a case study in sentient magical flora.
  - [ ]  The role of plants in mana restoration, possibly hinting at a solution in Act 2.
@@ -65,8 +67,10 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  Fungal magic and its connection to decay and renewal, tying into necromantic energy.
 
 ###### Basic Magical Auras
+**PC(s)**: Hawthorne
 **Fellow Students**: Willow "Will" Nailo, Finnian Sparkwhistle, Shuvadri Glintmantle, Rebecca "Becca" Dominic
- - [ ]  Overview of the Schools of Magic, their principles, and interactions (including aura colors).
+**Professor**: Nassari (General Studies)
+ - [x] Overview of the Schools of Magic, their principles, and interactions (including aura colors). ✅ 2025-02-24
  - [ ]  Ley lines and mana nexuses, their importance and foreshadowing disruptions in Act 2.
  - [ ]  Aberrant dragonmarks and their unpredictable aura patterns, linking to the Oriq and House Tarkanan.
  - [ ]  How dragonshards amplify or distort auras, foreshadowing Act 2.
@@ -74,8 +78,10 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  The ethics of aura reading — is it an invasion of privacy?
 
 ###### Beginning Computational Magic
+**PC(s)**: Shear, Mina, Hawthorne
 **Fellow Students**: Toren Dustfall, Kaelin Wildclaw, Tilana Kapule, Larine Arneza
- - [ ]  The structure of spells — breaking them into levels, damage, and components.
+**Professors**: Adrix and Nev (Quandrix)
+ - [x] The structure of spells — breaking them into levels, damage, and components. ✅ 2025-02-24
  - [ ]  Custom spell design — introduction to creating and balancing new magic.
  - [ ]  Numeromancy — the mathematical approach to spellcasting.
  - [ ]  Runes as computational logic, setting up sigils and magical constructs.
@@ -83,8 +89,10 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  Spell matrices and their vulnerabilities, foreshadowing anti-magic sabotage.
 
 ###### Beginning Inkomancy
+**PC(s)**: Alton, Mina
 **Fellow Students**: Blakely Margedi, Mesmerelda Gar, Cadoras Damellawar, Rosimyffenbip "Rosie" Wuzfeddlims
- - [ ]  The magical properties of inks and how they retain enchantments.
+**Professor**: Brenneth Blackstone (Silverquill)
+ - [x] The magical properties of inks and how they retain enchantments. ✅ 2025-02-24
  - [ ]  Living glyphs and self-sustaining sigils, paralleling teleportation sigils in Act 2.
  - [ ]  Historical magical calligraphy, linking to the Xoriat sealing ritual.
  - [ ]  Forgeries and magically altered documents, hinting at rewritten truths.
@@ -92,8 +100,10 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  Ink-based summoning sigils, foreshadowing conjuration disruptions.
 
 ###### History of Magic and Art
+**PC(s)**: Alton
 **Fellow Students**: Fabian Ashborne, Edward "Teddy" Ironbreaker, Urzmaktok Grojsh, Rinn Silverfrond
- - [ ]  Manifest Zones and Art – Locations where art becomes magical due to planar influence, linking to Thelanis, Fernia, and other Elemental Planes.
+**Professor**: Zaffai (Prismari)
+ - [x] Manifest Zones and Art – Locations where art becomes magical due to planar influence, linking to Thelanis, Fernia, and other Elemental Planes. ✅ 2025-02-24
  - [ ]  The Ever-Changing Canvases of Kythri – How chaos and randomness influence artistic magic, tying into Entropomancy.
  - [ ]  Painting with the Elements – How elemental magic interacts with artistic expression.
  - [ ]  Sculpting with Earth and Stone – The role of transmutation and geomancy in shaping cities, monuments, and magical constructs.
@@ -101,8 +111,9 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  Songs and the Magic of Air – How Syranian and Lamannian winds shape bardic and musical traditions.
 
 ###### Introduction to Conjuration
+**PC(s)**: Shear
 **Fellow Students**: Nelson Dawoud, Ingrid Egilsil, Farid Kahn, Kiya Alwan
- - [ ]  Conjuring from Elemental Planes – Why elementals are easier to summon, linking to elemental instability.
+ - [x] Conjuring from Elemental Planes – Why elementals are easier to summon, linking to elemental instability. ✅ 2025-02-24
  - [ ]  Artifacts that amplify conjuration magic, possibly linked to dragonshards.
  - [ ]  The Nature of Conjured Beings – Are they real? Do they have free will?
  - [ ]  Ethical implications of summoning sentient beings.
@@ -110,8 +121,9 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  Magebred Creatures and Arcane Summoning – How House Vadalis experiments with conjuration magic.
 
 ###### Introduction to Evocation
+**PC(s)**: Alton, Hawthorne
 **Fellow Students**: Aurora Luna Wynterstarr, Melwythorne, Quentillius Antiphiun Melentor III, Nora Ann Wu
- - [ ]  The Science of Magical Explosions – How evocation interacts with energy and material.
+ - [x] The Science of Magical Explosions – How evocation interacts with energy and material. ✅ 2025-02-24
  - [ ]  Evocation and ley line resonance, foreshadowing the later importance of ley lines.
  - [ ]  Karrnathi military evocation training, setting up the Rekkenmark adventure.
  - [ ]  Mana overexertion and its dangers (including uncontrolled magical surges), hinting at later instability.
@@ -119,8 +131,9 @@ For those courses selected by at least one PC student (excluding Required course
  - [ ]  The concept of "wildfire magic", mirroring chaotic mana.
 
 ###### Introduction to Transmutation
+**PC(s)**: Shear
 **Fellow Students**: Grayson Wildemere, Rubina Larkingdale, Mina Lee, Drazhomir Yarnask
- - [ ]  The Philosophy of Change – How transmutation embodies impermanence, mirroring campaign themes.
+ - [x] The Philosophy of Change – How transmutation embodies impermanence, mirroring campaign themes. ✅ 2025-02-24
  - [ ]  Alchemical Transmutation vs. Magical Transmutation – Why some changes are stable and others are not.
  - [ ]  Living Matter vs. Non-Living Matter – Why polymorphing a rock is different from polymorphing a person.
  - [ ]  The Limits of Magical Transformation – Why some forms cannot be permanently altered, foreshadowing Act 2’s instability.
