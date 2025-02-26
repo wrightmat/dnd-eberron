@@ -47,6 +47,8 @@
 	- The Matrix projects protective fields, giving the players safe zones where they can prepare attacks or regroup.
 	- The Devourer’s abilities escalate as it takes damage, forcing players to stay mobile and adapt.
 
+`encounter: 1: Arcane Devourer`
+
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.
 
