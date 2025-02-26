@@ -22,19 +22,7 @@
 ###### Student Schedules
  - [ ] 
 - Before starting this adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses themselves or by rolling on the Third-Year Courses table. Inform them that the characters are also enrolled in a required course, Advanced Arcane History.
-
-| d10 | Course                               | Offered By  |
-|-----|--------------------------------------|-------------|
-| 1   | Advanced Abstraction                 | Quandrix    |
-| 2   | Aquatic Cryptozoology                | Witherbloom |
-| 3   | Ethics in Enchantment                | Silverquill |
-| 4   | Extradimensional Architecture        | Quandrix    |
-| 5   | History of Magic Rings               | Lorehold    |
-| 6   | Introductory Aesthemancy             | Prismari    |
-| 7   | Overview of Magical Notation         | Silverquill |
-| 8   | Advanced Arcano-mycology             | Witherbloom |
-| 9   | Principles of Warsinging             | Lorehold    |
-| 10  | Turning Inner Fire into Outer Flames | Prismari    |
+- [[other/Strixhaven University#Courses|Courses]]
 
 ###### Cordially Invited
  - [ ] 

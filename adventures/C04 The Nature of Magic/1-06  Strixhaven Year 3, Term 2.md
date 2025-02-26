@@ -81,11 +81,11 @@
 
 ###### K4. Second-Floor Study
  - [ ] 
-- The collection of books upon the second floor focuses on historical accounts of mage-explorers and archaeomancers. Attending this collection day and night are 1d4 cogwork archivists (see chapter 7).
+- The collection of books upon the second floor focuses on historical accounts of mage-explorers and archaeomancers. Attending this collection day and night are `encounter: 1d4: Cogwork Archivist`.
 
 ###### K5. Infirmary Intake
  - [ ] 
-- This infirmary is staffed by Zertha DeSantos (lawful good human Lorehold professor of order; see chapter 7). Colorful, framed art bears the messages “Keep eating habits healthy!” and “Never practice dangerous magic without a buddy!”
+- This infirmary is staffed by Zertha DeSantos (lawful good human Lorehold professor of order). Colorful, framed art bears the messages “Keep eating habits healthy!” and “Never practice dangerous magic without a buddy!”
 
 ###### K6. Infirmary Hall
  - [ ] 
@@ -118,7 +118,7 @@
 | 9–10 | Sick Leave                  |
 ###### Archivist Attack
  - [ ] 
-- In response to a dropped table or minor damage to the library shelves, two cogwork archivists move to attack the offending students. It’s unclear why the archivists react so aggressively.
+- In response to a dropped table or minor damage to the library shelves, `encounter: 2: Cogwork Archivist` move to attack the offending students. It’s unclear why the archivists react so aggressively.
 
 ###### Firebreak
  - [ ] 
@@ -131,12 +131,12 @@
 
 ###### Look Out
  - [ ] 
-- Someone shouts a warning as a box of heavy decorations drops from a balcony several floors up. A random character must succeed on a DC 14 Dexterity saving throw or take 10 (3d6) bludgeoning damage.
+- Someone shouts a warning as a box of heavy decorations drops from a balcony several floors up. A random character must succeed on a DC 14 Dexterity saving throw or take `dice:3d6` bludgeoning damage.
 - If no character is in a place where something could fall on them, choose a character and let them notice the box about to fall on a student on the first floor. The character has an instant to try to mitigate the danger — perhaps by casting a spell or using a class feature. If they can’t, the box hits the student and deals damage as described above.
 
 ###### Sick Leave
  - [ ] 
-- During the hall’s preparation, a student complains of having a headache that’s suddenly gotten worse, and they head to the third-floor infirmary. Although the characters have no way of knowing it, this student is cursed by the Oriq Orb. When this happens, increase the number of sick students in the “Waking Nightmares” section by one. If a character escorts the student to the infirmary, Professor DeSantos doesn’t find anything wrong with the student and encourages them to lie down in the sickroom (area K7) until they feel better.
+- During the hall’s preparation, a student complains of having a headache that’s suddenly gotten worse, and they head to the third-floor infirmary. Although the characters have no way of knowing it, this student is cursed by the [[Oriq Orb]]. When this happens, increase the number of sick students in the “Waking Nightmares” section by one. If a character escorts the student to the infirmary, Professor DeSantos doesn’t find anything wrong with the student and encourages them to lie down in the sickroom (area K7) until they feel better.
 
 ###### Waking Nightmares
  - [ ] 
@@ -161,7 +161,7 @@
 - Curtie couldn’t hear what the dean said to the students and doesn’t remember anything useful beyond this. She begs the characters not to spread rumors about the tavern until it’s clear what happened.
 
 - **Talking to the Dean.** If the characters wish to ask Dean Tullus about why she was at Bow’s End Tavern, meeting with her immediately proves impossible, as the professor is busy with her classes and personal research. However, a teaching assistant can make an appointment for the characters to talk to the dean during her office hours three days after the chaos at Kollema Hall. This meeting takes place in Tullus’s office in the Deans’ Wing of Archaeo Memorial Hall.
-- Should the characters meet with Dean Tullus, they find her polite but cold. She admits she was at the tavern, but only to ensure preparations for the Magister’s Masquerade were on track. She remembers seeing some of her students at the tavern but doesn’t remember what they spoke about. She claims to be cordial with all her students. Characters who succeed on a DC 12 Wisdom (Insight) check suspect Tullus isn’t being entirely truthful, but aren’t sure what about. Those who succeed on a DC 12 Wisdom (Perception) check also notice the green orb the dean showcased during class occupying a prominent space behind her desk.
+- Should the characters meet with Dean Tullus, they find her polite but cold. She admits she was at the tavern, but only to ensure preparations for the Magister’s Masquerade were on track. She remembers seeing some of her students at the tavern but doesn’t remember what they spoke about. She claims to be cordial with all her students. Characters who succeed on a DC 12 Wisdom (Insight) check suspect Tullus isn’t being entirely truthful, but aren’t sure what about. Those who succeed on a DC 12 Wisdom (Perception) check also notice the purple orb the dean showcased during class occupying a prominent space behind her desk.
 - If the characters persist in their questioning, Dean Tullus brushes off any implication of impropriety and mentions that the Strixhaven administration is making its own investigation into the events at Kollema Hall — one that will scrutinize everyone who was there. She ends the meeting by telling the characters to focus on studying for their upcoming exams.
 
 #### Week 24: Advanced Arcane History Practicum
@@ -190,7 +190,7 @@
 - If the characters calm Marnun and explain they aren’t headed to the Gate of Illumination to make an offering, the fire giant stops threatening them and shares the following information:
 	- Tlexolotls dwell deep in volcanoes. When their sleep is disturbed, volcanic eruptions often follow.
 	- The tlexolotl that inhabits Fang Crater has awakened. Marnun has seen it moving inside the volcanic pool connected to the Gate of Illumination.
-	- Salamanders and fire snakes serve this tlexolotl. They have been stealing offerings meant for the gods and are carrying them back to Jademount.
+	- Salamanders and fire snakes serve this tlexolotl. They have been stealing offerings meant for the gods and are carrying them back to Fernia.
 	- Marnun doesn’t know why the tlexolotl is hoarding offerings, but he has seen salamanders going to volcanoes throughout the region with them.
 - Marnun doesn’t know much more. While he’s happy to fight any salamanders he encounters, he’s too large to slip into the Gate of Illumination and find out what’s happening there. If the characters are willing to do so, Marnun offers to travel with them and defend them along the way.
 
@@ -215,7 +215,9 @@
 
 - People who bring their offerings to the gods prepare their prayers in this area, meditating on the blessing they want. A salamander and four fire snakes are in this room. The salamander stands guard before the door to area I5, while each fire snake lingers near one of the room’s pillars. These creatures are hostile and attack any strangers that enter the room.
 - **Door**. A narrow, 10-foot-tall stone double door bars the way to area I5. A character must succeed on a DC 14 Strength (Athletics) check to open the door. As the door opens, it grinds nosily, alerting any creatures in this room and areas I4 and I5.
-- **Murals**. The murals covering the walls depict a great planar incursion from Fernia, the place of fire, that happened long ago.
+- **Murals**. The murals covering the walls depict a great planar incursion from Fernia, the plane of fire, that happened long ago.
+
+`encounter: 1: Salamander, 4: Salamander Fire Snake`
 
 ###### I3. Blessings Memorial
  - [ ] 
@@ -225,7 +227,7 @@
 - **Leuchis**. At the north of the room, this white stone statue depicts a tiefling offering a sculpted ring to the heavens. His other arm is bent as if holding something, but it is empty. An etching at the base of the statue reads, “Leuchis, who traveled on the wind.”
 - **Lilva**. In the middle of the room, this red stone statue of a dwarf holds a large urn as if about to take a drink. An etching on the statue’s base reads, “Lilva, who brewed the waters of the gods.”
 - **Pattox**. At the room’s south, this blue stone statue of a human holds up a seed, offering it to the heavens. His other arm is crooked, as if holding something that’s missing. The etching at the foot of the statue reads, “Pattox, who brought the rain with a seed.”
-- A character who succeeds on a DC 12 Intelligence (History or Religion) check recognizes these statues as devout figures from local legends who earned the favor of the gods. If Ollin is with the party, they can also share this information.
+- A character who succeeds on a DC 12 Intelligence (History or Religion) check recognizes these statues as devout figures from local legends who earned the favor of the gods.
 - The statues are magical, but their power was disrupted when the urns held by two of the statues were removed. They’re currently in areas I4 and I5. Only the urn on the statue of Lilva remains; inside the urn is a worn, stone cup.
 - If the empty white urn is placed back upon the statue of Leuchis, the urn fills with nonflammable oil. If the empty blue urn is placed back upon the statue of Pattox, the urn fills with water. Both urns magically fill in this way once per week.
 - If the contents of the white and blue urns are poured into the red urn, they create a bright red magical fluid that is equivalent to three potions of resistance (fire).
@@ -237,7 +239,7 @@
 - This room held the ashes of priests who sought to be interred near the gods, along with small remembrances for the dead. Salamanders have raided this room and thrown most of the memorial items into the volcano, leaving little behind.
 - The salamander resting here is named Xind, and it was wounded during an encounter with Marnun.
 - **Xind the Salamander**. Xind is a salamander with 1 hit point and no will to fight. Upon seeing the characters, it throws up its hands and says in Ignan, “I give up.” In return for being left alone, Xind is willing to tell the characters about Izel’s plan to collect offerings and cast them into volcanoes across the region, waking dozens of other tlexolotls. It can also relate any other detail of the Izel’s plot from the adventure’s background.
-- **Mural**. A character who succeeds on a DC 14 Knowledge (Religion) check recognizes that the mural depicts a great planar incursion from Fernia, the place of fire, that happened long ago and devastated the region. If Ollin is with the group, they can also explain the mural’s significance.
+- **Mural**. A character who succeeds on a DC 14 Knowledge (Religion) check recognizes that the mural depicts a great planar incursion from Fernia, the place of fire, that happened long ago and devastated the region.
 - **Treasure**. A character who spends at least 5 minutes sifting through the debris finds a sand-colored pouch embroidered with colorful, geometrically stylized animals. This is a tan [[bag of tricks]]. Any creature created by the bag looks artistically stylized in a manner similar to the embroidery on the bag. This doesn’t affect the creatures’ statistics.
 - An intact white stone urn lies near the mural. This urn is part of one of the statues in area I3.
 
@@ -261,9 +263,11 @@
 	- Izel has instructed his salamander servants to make offerings at the volcanoes where his family dwells and wake them. So far the salamanders have made some small offerings, causing other tlexolotls to stir.
 	- Izel doesn’t understand or care that the awakening tlexolotls endanger the region’s populace. The Elemental has little experience with Humanoids or the concept of mortality.
 	- The magma vents beneath the volcano connect to Fernia. Izel convinced the awed salamanders on the other side to assist him. He knows nothing of the vicious attacks they’ve conducted to fetch offerings for him.
-- Through convincing roleplaying or by succeeding on a DC 20 Charisma (Persuasion) check, a character can talk Izel out of his plans and persuade him to send his salamander allies away. Any such negotiation needs to account for the fact that Izel will be lonely if this happens. If Ollin is with the party, they volunteer to stay at the Gate of Illumination — Ollin believes keeping Izel content is important and wants to help keep the region safe (they also like the idea of having a regular audience).
+- Through convincing roleplaying or by succeeding on a DC 20 Charisma (Persuasion) check, a character can talk Izel out of his plans and persuade him to send his salamander allies away. Any such negotiation needs to account for the fact that Izel will be lonely if this happens.
 
-- **Lava**. A creature that enters the lava in this area for the first time on a turn or that starts its turn there takes 55 (10d10) fire damage.
+`encounter: 1: Tlexolotl`
+
+- **Lava**. A creature that enters the lava in this area for the first time on a turn or that starts its turn there takes `dice:10d10` fire damage.
 - **Missing Student**. If a student went missing earlier in the adventure, they're here. The tlexolotl can’t understand them, so it has had them manacled to the western wall. If asked, they explain that the tlexolotl didn’t harm them — it seemed curious about them, not hostile. Their manacles have no locks, as the salamanders melted them closed. Each manacle has AC 19, 10 hit points, and immunity to poison and psychic damage, or can be broken as an action with a successful DC 18 Strength (Athletics) check.
 - **Treasure**. One of the obsidian altars holds the artifact that went missing. There are also four ruby-encrusted torch sconces, two on each altar. The sconces are easily removed, and each is worth 750 gp.
 
@@ -274,7 +278,7 @@
 #### Week 26: A Starlit Night
 
 - The Magister’s Masquerade occurs in the final weeks of the academic year as students’ final exams conclude. The events of the ball precipitate the end of the adventure, so tie up any loose plots characters are involved in prior to starting this section or during its more free-form parts.
-- While the masquerade is the climax of the academic year, the adventure’s final challenges take place at Archaeo Memorial Hall as the characters’ investigation of Dean Tullus comes to a head. During the Masquerade, the dean uses the crowd to spread Murgaxor’s curse, sowing the seeds for the villain’s future magical plots. Use opportunities at the masquerade to fuel the characters’ suspicions and ultimately encourage them to investigate the dean’s office, as detailed in the “Midnight at Lorehold” section.
+- While the masquerade is the climax of the academic year, the adventure’s final challenges take place at Archaeo Memorial Hall as the characters’ investigation of Dean Tullus comes to a head. During the Masquerade, the dean uses the crowd to spread the Oriq curse, sowing the seeds for the villain’s future magical plots. Use opportunities at the masquerade to fuel the characters’ suspicions and ultimately encourage them to investigate the dean’s office, as detailed in the “Midnight at Lorehold” section.
 
 ###### Preparing for the Masquerade
  - [ ] 
@@ -325,7 +329,7 @@
  - [ ] 
 - Use the Magister’s Masquerade as an opportunity to heighten the characters’ suspicions about Dean Tullus. After her welcome announcement, Dean Tullus grows distant. In the course of the evening, a character keeping an eye on the dean can make a DC 12 Wisdom (Insight) check. On a success, the character notices the dean engaged in one of the following strange behaviors:
 	- Dean Tullus moves through the crowd, letting her hand drift across the backs of those she passes.
-	- The dean faces a bookshelf and momentarily examines something she’s holding. Green light from an unseen source illuminates her, then fades.
+	- The dean faces a bookshelf and momentarily examines something she’s holding. Purple light from an unseen source illuminates her, then fades.
 	- Dean Tullus ignores and moves away from anyone who tries to engage her in conversation.
 
 ###### Masquerade Festivities
@@ -382,7 +386,7 @@
 >A double door opens onto a stately, carpeted hall hung with unlit lamps and fine portraits. There are doors to either side of the entrance, a double door in each wall halfway along the hall, and a single door at the far end.
 
 - The portraits here depict past deans of Lorehold and are invested with a measure of their spirits. Any visible creature not part of the Lorehold faculty that enters this hall after hours and proceeds more than 10 feet down the hall causes the portraits to watch the interloper and whisper.
-- If a character proceeds more than 20 feet down the hall without addressing the portraits, the paintings target them with disconcerting magic. Each creature in the hall that can hear the whispers must make a DC 14 Wisdom saving throw. On a failed save, the creature takes 10 (3d6) psychic damage and must immediately use its reaction, if available, to move as far as its speed allows out of the Lorehold Deans’ Wing. If the creature succeeds, it takes half as much damage and doesn’t have to flee the area.
+- If a character proceeds more than 20 feet down the hall without addressing the portraits, the paintings target them with disconcerting magic. Each creature in the hall that can hear the whispers must make a DC 14 Wisdom saving throw. On a failed save, the creature takes `dice:3d6` psychic damage and must immediately use its reaction, if available, to move as far as its speed allows out of the Lorehold Deans’ Wing. If the creature succeeds, it takes half as much damage and doesn’t have to flee the area.
 - If a character addresses any of the portraits, one or more of them reply and insist to know the characters’ business in the Deans’ Wing. The portraits all have the personalities of the deans they depict and are generally stodgy and pedantic. However, characters who succeed on a DC 16 Charisma (Persuasion) check can convince the portraits that the party belongs there. The portraits won’t use their magic on the characters if so convinced.
 
 ###### L2. Administrative Office
@@ -396,12 +400,16 @@
 - These porches are used as sitting and meal areas on the rare occasion that social events are held at the Deans’ Wing. The characters can easily hop over the railings here and access the building through one of the side doors. These doors open easily from the inside, but from the outside they’re locked and require a successful DC 25 Dexterity check using thieves tools to open.
 - **Spirit Statues**. Two spirit statue mascots stand on each of these porches. They house the spirits of departed Lorehold faculty, and they politely ask anyone who hops the railing to use the main doors during working hours. If they’re ignored, the statues shout an alarm, calling the characters “trespassers” as they move to attack. This alerts the two cogwork archivists in the nearby Records Room (area L4), which remain in that area, and causes the invisible stalker that guards the wing to arrive in 1d4 rounds.
 
+`encounter: 2: Spirit Statue Mascot`
+
 ###### L4. Records Room
  - [ ] 
 >Bound volumes of Lorehold records cram this room’s tall bookshelves and round tables. A double door and numerous plain doors lead from the chamber.
 
 - Two cogwork archivists work in each of these records rooms after hours, sorting and organizing. If they notice the characters, the archivists demand to know why they are in the Deans’ Wing after hours. If they aren’t convinced by the response, they try to grapple the intruders and eject them from the building.
 - **Research**. The bookshelves here contain detailed records of Lorehold’s staff, students, and curriculum going back centuries. A character who spends 10 minutes going through the records and succeeds on a DC 14 Intelligence (Investigation) check discovers a map of the Deans’ Wing. This map clearly marks that there is a hidden space behind a wall of the Deans’ Records Room (area L9).
+
+`encounter: 2: Cogwork Archivist`
 
 ###### L5. Restricted Records Room
  - [ ] 
@@ -414,14 +422,15 @@
 - During the day, office staff mind this desk and keep track of the deans’ appointments. The desk is filled with unremarkable office supplies.
 - If the party has not already encountered the invisible stalker that serves as the wing’s guardian, it’s currently in this room. It waits until intruders move to leave the room, then attacks from behind.
 
+`encounter: 1: Invisible Stalker`
+
 ###### L7. Dean Plargg’s Office
  - [ ] 
 - A bronze nameplate on the door to this room reads “Plargg, Dean of Chaos.”
 >A clean desk and several stiff-looking chairs fill this austere office. Behind the desk, between various framed academic honors, hangs a mace with a spherical head.
 
 - Dean Plargg, the owner of this office, shares responsibilities as Lorehold’s dean with Dean Tullus. The gruff orc professor specializes in military history and is known for his perfect recall of countless battles and historic events. Beyond office supplies, books on military history (all scribed in the tactile lettering that Plargg invented), and Plargg’s awards, the only thing of interest in the room is one of the dean’s prized discoveries.
-
-- **Treasure**. Hanging behind Plargg’s desk is a mace of smiting with a round head and a grip wrapped in thick red rope. If a character takes this item and any Lorehold faculty member sees them using it, the faculty member confiscates it and returns it to this office.
+- **Treasure**. Hanging behind Plargg’s desk is a [[mace of smiting]] with a round head and a grip wrapped in thick red rope. If a character takes this item and any Lorehold faculty member sees them using it, the faculty member confiscates it and returns it to this office.
 
 ###### L8. Dean Tullus’s Office
  - [ ] 
@@ -446,7 +455,6 @@
 >Ancient books and flaking scrolls fill the racks lining the walls of this musty records room. A large case stands along the wall opposite the door.
 
 - This room holds documents detailing the research of Lorehold’s deans, past and present. While some of the work here contains fascinating historical discoveries, there’s little of value to the characters.
-
 - **Secret Door**. A bookcase in the north wall disguises a secret door. Characters can find the door by examining the case and succeeding on a DC 18 Wisdom (Perception) check. The door is under the effects of an alarm spell, which alerts Dean Tullus if anyone opens it.
 - **Deans’ Repository**. Anyone who opens the secret door finds a 6-foot-tall, 4-foot-wide, carved wooden frame hanging against the wall inside. Within the frame swirls dense gray fog. This frame is a portal that teleports anyone who enters to the extradimensional space called the Deans’ Repository (detailed in the next section).
 
@@ -458,7 +466,7 @@
 - The Deans’ Repository is a spacious extradimensional library. The only passage leading to or from it is the portal on the wall opposite the fireplace. This portal is the duplicate of the one in area L9 of the Deans’ Wing.
 
 - **Confronting Dean Tullus**. Dean Tullus is sitting in one of the chairs by the fireplace when the characters arrive. She’s gazing into the Oriq Orb, which she holds in her hands. If she notices the characters or if the characters attack her, she responds as follows:
->Her face lit by the eerie green light of the glass orb she holds, Dean Tullus says, “You shouldn’t have come. Ancient ones, take them!” Four of the statues around the room respond, their eyes flaring with amber light.
+>Her face lit by the eerie purple light of the glass orb she holds, Dean Tullus says, “You shouldn’t have come. Ancient ones, take them!” Four of the statues around the room respond, their eyes flaring with amber light.
 
 - The four corner statues animate and attack, obeying Dean Tullus’s commands. After activating them, Dean Tullus joins the fray.
 - In the course of the battle, Tullus speaks mechanically, making threatening declarations such as “You can’t stop what’s coming.” A character who succeeds on a DC 12 Wisdom (Insight) check can tell the dean doesn’t seem like herself.
@@ -467,13 +475,13 @@
 `encounter: 1: Lorehold Professor of Order`
 
 - **Reaching Tullus**. A character who tries to reason with Dean Tullus and succeeds on a DC 14 Charisma (Persuasion) check causes the dean to hesitate. This doesn’t affect her action on any given round, but if characters succeed on making these checks on three different rounds, Tullus clutches her head and screams “No!” She then falls unconscious.
-- **Oriq Orb**. Throughout the battle, Tullus clutches the green orb. The wicked Oriq bloodmage Malakar Draksang controls her through this device, but separating her from the orb doesn’t break his control. When Tullus is defeated or rendered unconscious, the orb slips from her hand.
+- **Oriq Orb**. Throughout the battle, Tullus clutches the purple orb. The wicked Oriq bloodmage Malakar Draksang controls her through this device, but separating her from the orb doesn’t break his control. When Tullus is defeated or rendered unconscious, the orb slips from her hand.
 - **Treasure**. On the worktables lie five nonmagical historical relics from Dean Tullus’s and Dean Plargg’s ongoing research. These dusty objects — mostly mundane stone or jade vessels — are each worth 100 gp. Additionally, a character who spends 10 minutes searching the library and succeeds on a DC 16 Intelligence (Investigation) check discovers a [[Lorehold primer]].
 
 ###### Aftermath
  - [ ] 
 - If Dean Tullus survives her confrontation with the characters, she’s free of Oriq influence and grateful to these resourceful students. She covers for the characters when other faculty members ask about any strangeness (or missing possessions) in the Deans’ Wing.
-- If Dean Tullus was killed, the masters of Strixhaven cast raise dead to restore her to life. She quickly realizes what transpired and keeps the characters’ role in her death between her and the characters.
+- If Dean Tullus was killed, the masters of Strixhaven cast *[[raise dead]]* to restore her to life. She quickly realizes what transpired and keeps the characters’ role in her death between her and the characters.
 - The academic year soon draws to a peaceful close. Give the characters an opportunity to wrap up any remaining plans they still have, but in a scant few days classes end, the dormitories close, and the characters have a several-month-long break before the beginning of their fourth and final year at Strixhaven.
 
 ### Secrets and Clues

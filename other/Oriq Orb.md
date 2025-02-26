@@ -2,7 +2,7 @@
 
 _Wondrous Item, legendary (requires attunement)_
 
-Roiling green mist fills this glass orb, which an exiled Strixhaven mage once used in foul magical experiments. Oriq magic has infused the orb, which is used to spread a terrible curse among Strixhaven’s students.
+Roiling purple mist fills this glass orb, which an exiled Strixhaven mage once used in foul magical experiments. Oriq magic has infused the orb, which is used to spread a terrible curse among Strixhaven’s students.
 
 **Sentience**. The Oriq Orb is a sentient, chaotic evil magic item with the following properties:
 - The orb has an Intelligence of 20, a Wisdom of 16, and a Charisma of 16, as well as hearing and darkvision out to a range of 30 feet.

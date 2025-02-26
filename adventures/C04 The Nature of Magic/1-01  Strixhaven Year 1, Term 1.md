@@ -245,15 +245,7 @@ Chaos erupts in the library as students stream in all directions, their books an
 - Another item on the checklist lists the student's academic advisor, and instructs them to meet with them and complete their class schedule during the meeting.
 - This is an opportunity for the players to meet a number of NPCs. Randomly select a professor NPC for each player.
 - Have the players choose at least three courses their characters are taking this year, either by coming up with the courses themselves or by rolling on the First-Year Courses table. Inform them that the characters are also enrolled in a required course, Magical Physiologies. In addition, each player can choose an elective from the Elective Courses table - these same courses are available to all students every year, are considered General Studies courses, and are taught at the Biblioplex.
-
-| d6  | First-Year Course             | Offered By      |
-| --- | ----------------------------- | --------------- |
-| 1   | Arcano-botany for Beginners   | Witherbloom     |
-| 2   | Basic Magical Auras           | General Studies |
-| 3   | Beginning Computational Magic | Quandrix        |
-| 4   | Beginning Inkomancy           | Silverquill     |
-| 5   | History of Magic and Art      | Prismari        |
-| 6   | Introduction to Archaeomancy  | Lorehold        |
+- [[other/Strixhaven University#Courses|Courses]]
 
 | d8  | Elective Course               |
 | --- | ----------------------------- |

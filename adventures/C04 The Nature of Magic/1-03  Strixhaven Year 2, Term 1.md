@@ -27,19 +27,7 @@
 ###### Course Selection
  - [ ] 
 - Before the adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses or by rolling on the Second-Year Courses table. Inform them that the characters are also enrolled in a required course, Scrivening and Symbology.
-
-| d10 | Course                        | Offered By  |
-|-----|-------------------------------|-------------|
-| 1   | Applied Computational Magic   | Quandrix    |
-| 2   | Basic Arcane Artifacts        | Lorehold    |
-| 3   | Electro-choreography          | Prismari    |
-| 4   | Historical Figures in Magic   | Lorehold    |
-| 5   | Introduction to Reanimation   | Witherbloom |
-| 6   | Life Auras and Necrosis       | Witherbloom |
-| 7   | Linguistics in Spellcasting   | Silverquill |
-| 8   | Pyromancy and the Arts        | Prismari    |
-| 9   | Quantitative Arcano-physics   | Quandrix    |
-| 10  | Verbal Components and the Law | Silverquill |
+- [[other/Strixhaven University#Courses|Courses]]
 
 ###### Back in Session
  - [ ] 
@@ -232,7 +220,7 @@
 ###### Practice Time
  - [ ] 
 - Once the characters resolve the altercation with the amalgamated mascots, the party on the Rose Stage resumes. Before the characters leave the area, Rosie Wuzfeddlims approaches them. The gnome announces that Aerojaunt Field is reserved for the characters’ Mage Tower team to practice.
-- The characters’ designated practice slot is in six weeks. As a student referee, Rosie is tasked with helping the characters learn the rules of Mage Tower and the game’s basic techniques. Further, as long as the entire party has not made a Rival of Rosie, she promises to gift their team a **stone of good luck** after they practice that can be used at the game later in the year.
+- The characters’ designated practice slot is in six weeks. As a student referee, Rosie is tasked with helping the characters learn the rules of Mage Tower and the game’s basic techniques. Further, as long as the entire party has not made a Rival of Rosie, she promises to gift their team a [[Stone of Good Luck (Luckstone)]] after they practice that can be used at the game later in the year.
 
 #### Week 7: Scrivening and Symbology Exam: Glyph of Warding
 
@@ -247,8 +235,8 @@
 ##### Testing Phase
  - [ ] 
 - On the day of the Exam, each character makes two ability checks related to parts of the test:
-	- Glyph of Warding Shapes. Identifying the shapes commonly used when a mage casts a glyph of warding requires a successful DC 15 Intelligence (Investigation) check.
-	- Common Glyph Effects. Writing an essay on common magical effects and triggers associated with glyph of warding spells requires a successful DC 15 Intelligence (Arcana) check.
+	- **Glyph of Warding Shapes**. Identifying the shapes commonly used when a mage casts a glyph of warding requires a successful DC 15 Intelligence (Investigation) check.
+	- **Common Glyph Effects**. Writing an essay on common magical effects and triggers associated with glyph of warding spells requires a successful DC 15 Intelligence (Arcana) check.
 - Have each player note their character’s Exam results — how many Student Dice they gained and what skills they used during the test — on their copies of the tracking sheet.
 
 #### Week 10: Practice Makes Perfect
@@ -344,7 +332,7 @@
 - On the day of the Exam, each character makes two ability checks related to parts of the test:
 	- **Symbol Surfaces**. Identifying the most suitable surfaces to scribe a symbol on requires a successful DC 16 Intelligence (Investigation) check.
 	- **Avoiding Symbol Effects**. Writing up the details of common methods to avoid triggering symbols, plus physical and mental techniques for resisting their effects once they have been triggered, requires a successful DC 16 Charisma (Persuasion) check.
-- Have each player note their character’s Exam results — how many Student Dice they gained and what skills they used during the test—on their copies of the tracking sheet.
+- Have each player note their character’s Exam results — how many Student Dice they gained and what skills they used during the test — on their copies of the tracking sheet.
 
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.

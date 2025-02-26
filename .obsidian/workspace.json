@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
-                "mode": "preview",
+                "file": "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-03  Strixhaven Year 2, Term 1"
+              "title": "1-07  Strixhaven Year Four"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
+                "file": "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-03  Strixhaven Year 2, Term 1"
+              "title": "Outline of 1-07  Strixhaven Year Four"
             }
           },
           {
@@ -142,10 +142,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md"
+                "file": "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1-03  Strixhaven Year 2, Term 1"
+              "title": "File properties for 1-07  Strixhaven Year Four"
             }
           },
           {
@@ -231,21 +231,25 @@
   },
   "active": "72c7e3307080fefc",
   "lastOpenFiles": [
-    "adventures/C04 The Nature of Magic/1-05  Strixhaven Year 3, Term 1.md",
     "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
-    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
     "sessions/2025-03-03.md",
+    "other/Oriq Orb.md",
+    "creatures/Tlexolotl.md",
+    "creatures/Untitled.md",
+    "creatures/Cogwork Archivist.md",
+    "adventures/C04 The Nature of Magic/1-05  Strixhaven Year 3, Term 1.md",
+    "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
+    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
+    "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
+    "other/Strixhaven University.md",
+    "adventures/C04 The Nature of Magic/1-04  Strixhaven Year 2, Term 2.md",
+    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
     "sessions/2025-02-24.md",
     "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
-    "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
-    "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
-    "adventures/C04 The Nature of Magic/1-04  Strixhaven Year 2, Term 2.md",
-    "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
     "adventures/C04 The Nature of Magic.md",
     "creatures/Swampgas Shade.md",
     "sessions/2025-01-27.md",
     "sessions/2025-02-10.md",
-    "other/Strixhaven University.md",
     "locations/Strixhaven University.md",
     "sessions/2025-02-03.md",
     "creatures/Peryton.md",
@@ -253,10 +257,6 @@
     "creatures/Lorehold Professor of Order.md",
     "creatures/Spirit Statue Mascot.md",
     "creatures/Mage Hunter.md",
-    "creatures/Grick Alpha.md",
-    "creatures/Galeb Duhr.md",
-    "creatures/Modron Duodrone.md",
-    "creatures/Modron Quadrone.md",
     "adventures/C04 The Nature of Magic Outline.canvas",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",

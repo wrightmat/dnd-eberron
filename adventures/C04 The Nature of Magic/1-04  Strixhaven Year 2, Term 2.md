@@ -159,7 +159,7 @@
  - [ ] 
 >"As you step into the grand entrance hall of the Arithmodrome, your eyes are immediately drawn to a figure seemingly made of shifting, glowing mathematical symbols, hovering near the center of the room. It mutters equations and theorems to itself, its form expanding and contracting with each solved equation.
 
-- The strange figure is Esix, Fractal Bloom, a living theorem created by Quandrix students. Over the years, a few professors have tried to deactivate it, but all their formulas somehow end up dividing by zero and fizzling out. Esix never seems to register these would-be threats, as it remains consumed by its own calculations.
+- The strange figure is **Esix, Fractal Bloom**, a living theorem created by Quandrix students. Over the years, a few professors have tried to deactivate it, but all their formulas somehow end up dividing by zero and fizzling out. Esix never seems to register these would-be threats, as it remains consumed by its own calculations.
 - Esix challenges the players to add to its ongoing equation without causing it to collapse or reach a mundane solution. Each player can contribute by suggesting a mathematical principle, formula, or even a magical theory that aligns with Quandrix ideologies. Successful contributions impress Esix, which then eagerly shifts aside, revealing pathways to the next areas and even offering hints or advice based on its vast calculations.
 
 ###### A2. The Constellation Puzzle

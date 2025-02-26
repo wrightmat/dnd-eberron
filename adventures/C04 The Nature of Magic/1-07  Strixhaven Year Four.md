@@ -24,15 +24,7 @@
 ###### Student Schedules
  - [ ] 
 - Before starting this adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses themselves or by rolling on the Fourth-Year Courses table. Inform them that the characters are also enrolled in a required course, Arcane Herbology.
-
-| d6  | Course                           | Offered By      |
-| --- | -------------------------------- | --------------- |
-| 1   | Advanced Applied Magic           | General Studies |
-| 2   | Advanced Lumimancy               | Silverquill     |
-| 3   | Applied Illusory Arts            | Quandrix        |
-| 4   | Arcane Macroeconomics            | Lorehold        |
-| 5   | Eldritch and Arcane Performances | Prismari        |
-| 6   | Extraplanar Cryptozoology        | Witherbloom     |
+- [[other/Strixhaven University#Courses|Courses]]
 
 ###### A Sinister Shadow
  - [ ] 
