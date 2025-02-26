@@ -120,7 +120,7 @@ This winding network of tunnels and alcoves holds collections of books, scrolls,
 >Books and scroll cases are tucked in nooks along the west wall of this open cave. Many of the book spines and scroll cases bear the Strixhaven star.
 
 - Items bearing the Strixhaven star were stolen from the university. A character who succeeds on a DC 12 Intelligence (Investigation) check while searching the collection finds several annotated books about the Caerdoon region, located a few miles from the badlands. The annotations, sloppily written in Common, deal with locating sites of large battles and how best to explore those locations.
-- **Treasure**. Characters who spend at least 10 minutes searching this area find a [[spell scroll]] of *fear* and a [[spell scroll]] of *false life*.
+- **Treasure**. Characters who spend at least 10 minutes searching this area find a [[spell scroll]] of *[[fear]]* and a [[spell scroll]] of *[[false life]]*.
 
 ###### T3C. Empty Chamber
  - [ ] 
@@ -156,18 +156,21 @@ This winding network of tunnels and alcoves holds collections of books, scrolls,
  - [ ] 
 >The pungent odors of sweet potpourri and chemical preservatives waft from this cave. Carved into the walls are shelves bearing specimen jars, notebooks, and containers of herbs and alchemical reagents. In the middle of the cave rests a smooth stone slab covered in a rusty stain.
 
-- Malakar conducted horrific experiments here. Primarily, he worked on transferring life from one creature to another.
+- Malakar and other Oriq conducted horrific experiments here. Primarily, he worked on transferring life from one creature to another.
 - A character who spends at least 30 minutes skimming the notebooks can make a DC 15 Intelligence (Arcana) check, piecing together the nature of the Oriq’s work on a success. What the notebooks describe lines up with the maladies that plagued Strixhaven over the last few years.
 - Harmless samples of flesh are stored here in jars. However, some experiments created a few unfortunate Undead, which are described below.
 - **Box of Helping Hands**. This unmarked, 2-foot-by-3-foot metal box has a simple latch keeping it closed. The box contains a dozen crawling claws. If the lid is opened, the crawling claws quickly skitter out. A character who immediately tries to close the lid can make a DC 15 Dexterity check; if the check succeeds, 1d6 crawling claws escape before the lid shuts; the others are trapped in the box, unable to escape until it is opened again.
-- On their first turn in combat, crawling claws that escaped from the box scurry about the cave, knocking over jars of chemical supplies and creating a chemical mixture that fills the cave with noxious gas for 1 minute. When a creature enters the gas-filled cave for the first time on a turn or starts its turn there, that creature must make a DC 13 Constitution saving throw, taking 22 (5d8) poison damage on a failed save, or half as much damage on a successful one. Creatures that don’t need to breathe are immune to the gas, as are the crawling claws. A gust of wind spell or similar magic disperses the gas.
+- On their first turn in combat, crawling claws that escaped from the box scurry about the cave, knocking over jars of chemical supplies and creating a chemical mixture that fills the cave with noxious gas for 1 minute. When a creature enters the gas-filled cave for the first time on a turn or starts its turn there, that creature must make a DC 13 Constitution saving throw, taking `dice:5d8` poison damage on a failed save, or half as much damage on a successful one. Creatures that don’t need to breathe are immune to the gas, as are the crawling claws. A gust of wind spell or similar magic disperses the gas.
 
 `encounter: 12: Crawling Claw`
 
-- **Skull in a Jug**. Vargas Kancia was a Prismari student; he was researching elemental nodes in the badlands when he was abducted by Malakar, whose experiments transformed Vargas into a flameskull. Vargas rests in an unsealed, straight-sided glass jar filled with clear goo. If another creature comes within 5 feet of the jug, Vargas awakens, flies out of the jug covered in goo, and erupts in emerald flames. Vargas is confused and enraged, attacking whichever creature awakened him.
+- **Skull in a Jug**. Vargas Kancia was a Prismari student; he was researching elemental nodes in the Badlands when he was abducted by Malakar, whose experiments transformed Vargas into a flameskull. Vargas rests in an unsealed, straight-sided glass jar filled with clear goo. If another creature comes within 5 feet of the jug, Vargas awakens, flies out of the jug covered in goo, and erupts in emerald flames. Vargas is confused and enraged, attacking whichever creature awakened him.
+
+`encounter: 1: Flameskull`
+
 - A character can use an action to try to persuade Vargas to cease his attacks, doing so with a successful DC 15 Charisma (Persuasion) check. Once he is talked down, Vargas realizes his anger is unjustified, apologizes for his outburst, and offers to help the characters for the remainder of the adventure. Vargas’s priorities are to see Malakar brought to justice and to resume his studies at Strixhaven.
 - **Secret Door**. A character who searches the northwest wall of the cave and succeeds on a DC 15 Wisdom (Perception) check finds a door disguised to blend with the surrounding stone. This 5-foot-wide, 10-foot-tall stone door opens into a cramped secret chamber.
-- **Treasure**. The secret chamber is unlit and contains a set of alchemist’s supplies along with two potions of healing (greater) and one potion of poison.
+- **Treasure**. The secret chamber is unlit and contains a set of alchemist’s supplies along with two [[potion of healing|potions of healing]] (greater) and one [[potion of poison]].
 
 ###### T6. Mushroom Cave
  - [ ] 
@@ -216,6 +219,8 @@ This winding network of tunnels and alcoves holds collections of books, scrolls,
 >Two mud-caked, human-sized creatures stand inert in front of the northern exit to this chamber. Crude, articulated skulls of badlands wolves are attached to their heads. Both guards reek of death.
 
 - Y’demi created these horrifying Undead to guard her sleeping area. Both use the ghast stat block and start combat with 5 temporary hit points, having recently bathed in area U1. The creatures attack without mercy. Combat here alerts Y’demi in area U4, and she investigates.
+
+`encounter: 2: Ghast`
 
 ###### U4. Living Area
  - [ ] 
@@ -271,8 +276,7 @@ Although members of Lorehold College have been known to visit the Ruins of Caerd
 >Hundreds of voices wail in rage and frustration from a moat of viscid slime that surrounds the crumbling ruins. At the fortress’s southern tip, a shattered bridge droops over the sludge, a ten-foot-wide hole smashed through its center.
 
 - Hundreds of soldiers died in ages past assaulting the walls of Caerdoon, and their moss-covered bones rest at the bottom of the fortress’s moat.
-- **Shield of the Fallen**. When a creature not approved by Malakar moves within 10 feet of the moat, a 40-foot-high, 1-inch-thick dome of opaque necrotic energy erupts from the middle of the moat to enclose the ruined fortress (area N6).
-- When the dome appears, read the following:
+- **Shield of the Fallen**. When a creature not approved by Malakar moves within 10 feet of the moat, a 40-foot-high, 1-inch-thick dome of opaque necrotic energy erupts from the middle of the moat to enclose the ruined fortress (area N6). When the dome appears, read the following:
 >A wall of writhing darkness climbs forty feet in the air, forming an opaque dome around the ruins.
 
 - Any creature in or above the moat when the dome appears must make a DC 13 Dexterity saving throw, taking `dice:5d8` necrotic damage on a failed save, or half as much damage on a successful one. The creature chooses if it’s inside or outside the dome. The dome deals `dice:5d8` necrotic damage to any creature that touches it. A creature takes this damage only once per turn.
@@ -287,7 +291,7 @@ Although members of Lorehold College have been known to visit the Ruins of Caerd
 
 - The broken siege weapons form a 10-foot-high, 40-foot-long barricade.
 - **Catapult Munition**. A character who searches the area and succeeds on a DC 15 Wisdom (Perception) check finds a catapult munition roughly the size and weight of a cannonball amid the wreckage. A successful DC 13 Intelligence (Arcana) check reveals that the munition is powerful enough to damage the Shield of the Fallen in area N2, provided the dome’s magical harmonics are altered so that the dome becomes susceptible to fire damage.
-- The munition can be thrown up to 30 feet and explodes on impact. Any creature within a 15-foot-radius sphere centered on the point of impact must make a DC 14 Dexterity saving throw, taking `dice:10d6` fire damage on a failed save, or half as much damage on a successful one. In addition, each object in that area that isn’t being worn or carried takes 35 (10d6) fire damage.
+- The munition can be thrown up to 30 feet and explodes on impact. Any creature within a 15-foot-radius sphere centered on the point of impact must make a DC 14 Dexterity saving throw, taking `dice:10d6` fire damage on a failed save, or half as much damage on a successful one. In addition, each object in that area that isn’t being worn or carried takes `dice:10d6` fire damage.
 
 ###### N4. Supply Train
  - [ ] 
@@ -344,7 +348,7 @@ Although members of Lorehold College have been known to visit the Ruins of Caerd
  - [ ] 
 >Torches illuminate a spacious chamber that has crates and boxes stashed in its corners. Five stout, wooden doors line the chamber’s south wall. Soggy texts and scrolls lie in puddles on the floor. To the north, you hear a loud rustling sound.
 
-- Malakar's digging through items in the treasury (area M6) is the source of the sound. If the characters make any loud noises here, Malakar notices their presence, although he remains in area M6.
+- Malakar digging through items in the treasury (area M6) is the source of the sound. If the characters make any loud noises here, Malakar notices their presence, although he remains in area M6.
 - The soggy books and blank scrolls lying in puddles on the floor were used by Malakar to prepare for his ritual; they no longer have any value. Any player doing an Investigation check may find any of the following clues from the scraps (written in Draconic and partially destroyed, but still readable):
 	- DC 12: A scribbled note: “Final preparation: the artifact will complete the sigil at the Snarl’s core.”
 	- DC 15: A bloodstained letter from an Oriq agent: “Our work here is done, Master. Strixhaven’s heart remains unguarded. The moment approaches.”
