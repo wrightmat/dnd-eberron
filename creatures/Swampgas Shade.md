@@ -40,7 +40,7 @@ traits:
 actions:
   - name: Soul Drain.
     desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) psychic damage, and the target's Charisma score is reduced by 1d4. The target dies if this reduces its Charisma to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. If a Humanoid dies from this attack, it can’t be restored to life until the swampgas shade is put to rest (see the Rejuvenation trait)."
-    name: Haunting Murmurs.
+  - name: Haunting Murmurs.
     desc: "Ranged Spell Attack: +3 to hit, range 60 ft., one creature. Hit: 8 (1d8 + 3) psychic damage."
 bonus_actions:
   - name: Swampland Stealth.

@@ -11,7 +11,6 @@ name: Water Weird
 size: Large
 type: Elemental
 alignment: Neutral
-environment: [Underdark, Urban]
 ac: 13
 hp: 58
 hit_dice: 9d10 + 9

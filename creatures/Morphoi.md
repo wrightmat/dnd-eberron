@@ -30,8 +30,8 @@ actions:
     desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage."
   - name: Trident.
     desc: "Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft., or +5 to hit, range 20/60 ft., one target. Hit: 4 (1d8) piercing damage if used with both hands to make a melee attack, or 6 (1d6 + 3) if thrown."
-    name: Shortbow.
-  - desc: "Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+  - name: Shortbow.
+    desc: "Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
 ```
 
 _These blue-skinned humanoids wield tridents and have unusual faces with vertical eyes but no mouth or nose._
