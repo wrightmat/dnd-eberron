@@ -120,7 +120,6 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 27.95138888888889,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -256,23 +255,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "18337dccd38d1e96",
-        "type": "tabs",
-        "dimension": 72.04861111111111,
-        "children": [
-          {
-            "id": "a8172daea0dce82e",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -297,9 +279,9 @@
   },
   "active": "801c5d1e4c593eaa",
   "lastOpenFiles": [
-    "creatures/Cactid.md",
-    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
     "sessions/2025-03-03.md",
+    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
+    "creatures/Cactid.md",
     "sessions/2025-01-27.md",
     "other/Strixhaven University.md",
     "sessions/2025-02-24.md",

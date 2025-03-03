@@ -211,7 +211,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
  - [ ] 
 >This cramped attic holds oddities considered too strange to display on the manor’s main floor. An adult-sized riding toy resembling a roc on a spring, a fine dress with wings made of bones, and a display shelf holding dozens of dolls are among the curiosities here.
 
-- Dangerous in a way the faculty members don’t understand yet, the dress is actually a hostile Construct. It uses the quadrone stat block and can shoot the bones from its wings using the quadrone’s shortbow attack. When the characters enter this area, it attacks.
+- Dangerous in a way the faculty members don’t understand yet, the dress is actually a hostile Construct. It uses the quadrone stat block and can shoot the bones from its wings using the quadrone’s gears launcher attack. When the characters enter this area, it attacks.
 
 `encounter: 1: Modron Quadrone`
 
@@ -248,13 +248,6 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - In the days before the Exam, the characters can study the course material. A character can use any ability check and skill during the Studying phase.
 - Once you’ve asked each player how their character is approaching the Studying phase, resolve that phase by having each character who studies make a DC 12 ability check. Make sure players keep track of their characters’ rerolls and apply them during the Testing phase.
 
-##### Testing Phase
- - [ ] 
-- On the day of the Exam, each character makes two ability checks related to parts of the test:
-	- **Slaad Facts**. Choosing the correct multiple choice answers to questions about red, blue, green, gray, and death slaadi requires a successful DC 12 Intelligence (Arcana) check.
-	- **Defusing Slaad Confrontations**. Writing short essays about commonly accepted ways to keep slaadi calm during unexpected encounters requires a successful DC 12 Wisdom (Insight) check.
-- Have each player note their character’s Exam results — how many Student Dice they gained and what skills they used during the test — on their copies of the tracking sheet.
-
 > [!info] All About Slaadi
 > To give this Exam more flavor, describe some of the facts the characters are trying to memorize, such as the following:
 > - Slaadi are Aberrations known for their regenerative abilities and magic resistance.
@@ -264,6 +257,13 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 > - A green slaad usually wields a staff and can hurl both fireballs and magical flames at its foes.
 > - Death slaadi are rumored to have a stench so bad it can be deadly. In reality, they can cast the cloudkill spell.
 > - Inexperienced scholars and adventurers sometimes assume that “slaad” is a misspelling or mispronunciation. Calling these creatures “salads” is frowned upon.
+
+##### Testing Phase
+ - [ ] 
+- On the day of the Exam, each character makes two ability checks related to parts of the test:
+	- **Slaad Facts**. Choosing the correct multiple choice answers to questions about red, blue, green, gray, and death slaadi requires a successful DC 12 Intelligence (Arcana) check.
+	- **Defusing Slaad Confrontations**. Writing short essays about commonly accepted ways to keep slaadi calm during unexpected encounters requires a successful DC 12 Wisdom (Insight) check.
+- Have each player note their character’s Exam results — how many Student Dice they gained and what skills they used during the test — on their copies of the tracking sheet.
 
 #### Week 22: The Rose Stage
 
