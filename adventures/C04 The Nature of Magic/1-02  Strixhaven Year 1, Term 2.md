@@ -63,7 +63,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 	- **Lighting**. By night, the interior of the manor is in darkness.
 	- **Magic Stairs**. Stairs and steps in the manor are enchanted to move and reshape themselves for full accessibility.
 	- **Transport Circles**. A runic circle is painted on the floor near each staircase in the manor, as well as at the top and bottom of the steps leading inside the building in area C1. These circles are permanent, customized teleportation circles. Anyone can move onto a circle and mentally focus on the floor to which they wish to travel. (The circle leading to the attic is in the manor’s hidden staircase, which must be found first.) When a character is teleported from a circle near a staircase, they arrive on the destination floor on the runic circle nearest the corresponding staircase. The circle outside the main entrance automatically transports characters directly in front of the manor’s front doors.
-	- **Security**. If an outside door is smashed or the characters engage in noticeable vandalism, a Silverquill professor of radiance and a Quandrix professor of substance arrive at the manor in 1d4 rounds. Both are serving as campus security for the night and deal with the characters as noted below.
+	- **Security**. If an outside door is smashed or the characters engage in noticeable vandalism, a Silverquill professor of radiance and a Quandrix professor of substance arrive at the manor in `dice:1d4` rounds. Both are serving as campus security for the night and deal with the characters as noted below.
 - If the characters are on their best behavior, avoiding combat and trying not to break anything, they should be able to have fun in this event without worrying about lasting damage to the manor. All the Constructs here (including the Earl and the dragon heads plaque) have a self-restoring quality that allows them to repair damage taken during a skirmish. But if characters egregiously smash open doors or engage in property damage, impose repercussions even if their mission to retrieve Sassy Sally Jane is successful.
 
 > [!warning] The Jig is Up!
@@ -144,7 +144,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - This spacious deck has a low railing that the characters can easily climb over to access the locked glass door leading into the manor.
 - The pots of greenery on either side of this deck are filled with magic vegetation that was recently transplanted and is only loosely rooted. The round after the characters first enter this area, three of these plants attack — two from the pot on the west side of the deck and one from the pot to the east. Each plant uses the violet fungus stat block.
 
-`encounter: 2: Violet Fungus`
+`encounter: 3: Violet Fungus`
 
 ###### C11. Side Deck
  - [ ] 
