@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
+                "file": "sessions/2025-03-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-02  Strixhaven Year 1, Term 2"
+              "title": "Outline of 2025-03-03"
             }
           },
           {
@@ -244,11 +244,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "801c5d1e4c593eaa",
+  "active": "72c7e3307080fefc",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
     "DM Screen.md",
     "adventures/C04 The Nature of Magic.md",
-    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
     "sessions/2025-03-03.md",
     "sessions/2025-01-27.md",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
