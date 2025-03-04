@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2025-01-27.md",
+                "file": "sessions/2025-03-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-27"
+              "title": "2025-03-03"
             }
           },
           {
@@ -60,7 +60,7 @@
               "type": "markdown",
               "state": {
                 "file": "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -134,7 +134,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
-        "dimension": 36.19791666666667,
+        "dimension": 31.42361111111111,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -228,7 +228,7 @@
       {
         "id": "df2cf5633b77a1ad",
         "type": "tabs",
-        "dimension": 63.802083333333336,
+        "dimension": 68.57638888888889,
         "children": [
           {
             "id": "c2489903949d12ad",
@@ -263,18 +263,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c2489903949d12ad",
+  "active": "801c5d1e4c593eaa",
   "lastOpenFiles": [
+    "sessions/2025-03-03.md",
+    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
+    "sessions/2025-01-27.md",
+    "adventures/C04 The Nature of Magic.md",
+    "DM Screen.md",
     "creatures/Modron Duodrone.md",
     "creatures/Mindrot Thrall.md",
-    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
-    "adventures/C04 The Nature of Magic.md",
-    "sessions/2025-01-27.md",
     "sessions/2025-02-03.md",
     "sessions/2025-02-24.md",
     "other/Driftglobe.md",
-    "sessions/2025-03-03.md",
-    "DM Screen.md",
     "creatures/Cactid.md",
     "other/Strixhaven University.md",
     "adventures/C07. A Tidecrown Affair.md",

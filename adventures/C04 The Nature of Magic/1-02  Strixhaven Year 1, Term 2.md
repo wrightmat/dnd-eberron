@@ -166,7 +166,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 - Once Captain Dapplewing’s study, this large office is often used for sensitive discussions among faculty members. The decor has stayed the same since Captain Dapplewing’s time.
 - On the northern wall, a plaque holds the heads of a black and a red dragon, each clearly constructed from metallic crafting supplies. This device is a strange magic curiosity that was once a favorite of the captain’s and that faculty members using the office know to avoid. The plaque animates both heads to attack any character who moves within 5 feet of it.
-- While animated, each dragon head has blindsight out to a range of 30 feet and is blind beyond that distance. On initiative count 20, the black dragon head exhales a glob of acid while the red dragon exhales a fiery missile, each targeting one creature the head can see (+6 to hit). A creature hit by either attack takes 6 (1d8 + 2) damage of the appropriate type (acid or fire).
+- While animated, each dragon head has blindsight out to a range of 30 feet and is blind beyond that distance. On initiative count 20, the black dragon head exhales a glob of acid while the red dragon exhales a fiery missile, each targeting one creature the head can see (+6 to hit). A creature hit by either attack takes `dice:1d8 + 2` damage of the appropriate type (acid or fire).
 - Each head has a speed of 0, AC 16, 25 hit points, and immunity to poison and psychic damage. Their ability scores are as follows: Strength 6, Dexterity 14, Constitution 10, Intelligence 3, Wisdom 3, and Charisma 1.
 
 ###### C14. Central Passageway
@@ -225,7 +225,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 | 3   | Quentillius A. Melentor III | "Quentillius’s perfect hair? A glamour spell. He’s been buying spell components from a Witherbloom student… and paying in favors." |
 | 4   | Zanther Bowen               | "Zanther was seen slipping into the Firejolt Café kitchen after hours… to stash some questionable mushrooms he’s been selling."    |
 | 5   | Tilana Kapule               | "Tilana was caught sharing a little more than magical theories with a professor. Office hours, indeed."                            |
-| 6   | Cadoras Damellawar          | "Cadoras’s wild party trick? Brewing his own alchemical ‘tea’ that makes you see things… and I mean things."                       |
+| 6   | Greta Gorunn                | "Greta is the strongest and she loves her little sister."                                                                          |
 | 7   | Rosie Wuzfeddlims           | "Rosie had a fling with an Oriq agent and got a magic tattoo out of it. Don’t ask where."                                          |
 | 8   | Aurora Luna Wynterstarr     | "Aurora's 'moonlit rituals'? Not for studying. She’s been sneaking out to meet someone in the Prismari dorms."                     |
 | 9   | Blakely Margedi             | "Blakely's love poems? Inspired by TWO people on campus. Neither knows about the other."                                           |
