@@ -42,7 +42,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 ###### Recover Sassy Sally Jane
  - [ ] 
 - Once the characters are prepared, they can make their way to Captain Dapplewing’s Manor. It’s easy to find on the central campus, since a well-lit path leads right up to the house, and a few students are milling around outside. Once they notice the characters heading their way, these students get visibly excited.
-- Another student is part of this scene — ideally a student the characters have interacted with, or another radom student. When you’re ready to begin this event, read or paraphrase the following:
+- Another student is part of this scene — ideally a student the characters have interacted with, or another random student. When you’re ready to begin this event, read or paraphrase the following:
 >As the bright light of the central campus fades into the verdant grounds of Captain Dapplewing’s Manor, you see a small group of your peers congregated underneath a massive oak tree in the manor’s front yard.
 
 - One student turns to another and says in a stage whisper, “I told you they’d arrive! Now pay up, you goof!” Turning to the characters, the student points to the manor house and says:

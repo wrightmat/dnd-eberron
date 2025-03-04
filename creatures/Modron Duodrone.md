@@ -25,7 +25,7 @@ actions:
   - name: Multiattack.
     desc: "The modron makes two Clockwork Blade attacks."
   - name: Clockwork Blade.
-    desc: "_Melee or Ranged Attack Roll:_ +3, reach 5 ft. or range 30 ft. _Hit:_ 4 (1d6 + 1) Force damage. _Hit or Miss:_ The blade magically returns to the modron’s hand immediately after a ranged attack."
+    desc: "Melee or Ranged Attack Roll: +3 to hit, reach 5 ft. or range 30 ft. _Hit:_ 4 (1d6 + 1) Force damage. _Hit or Miss:_ The blade magically returns to the modron’s hand immediately after a ranged attack."
 ```
 
 ### References
