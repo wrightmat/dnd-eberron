@@ -224,9 +224,13 @@ For those courses selected by at least one PC student (excluding Required course
 3. **Secret Tunnel Found Under Bow’s End Tavern!** A couple of tipsy students stumbled into a hidden passage beneath Bow’s End. Where does it lead? Is it ancient? Magical? Or just a really elaborate way to avoid paying your tab?
 4. **Secret Dean Romance?** Sources claim that two of Strixhaven’s esteemed deans have been seen sneaking off to private meetings under the stars. Is it a passionate academic debate, or something more?
 5. **Mage Tower Scandal!** Rumors swirl that one of the star players on the Strixhaven Mage Tower team has been seen meeting with a shadowy figure. Is it a secret society's recruitment attempt, or something even darker?
-6. Dragon in Disguise? – One first-year student swears they saw a professor shift into draconic form for just a moment before returning to normal. A trick of the light, or is there a secret dragon among the faculty?
-7. Dueling Club Rivalry Heats Up! – Word has it that a pair of particularly competitive students from different colleges are planning an unsanctioned, after-hours duel to settle a long-standing grudge. Place your bets now!
-8. Forbidden Spell Circulating? – A mysterious grimoire has been spotted changing hands between students in the Prismari dorms. Some claim it's just a book on performance magic, but others whisper that it's a tome of forbidden spells.
+6. **Dragon in Disguise?** One first-year student swears they saw a professor shift into draconic form for just a moment before returning to normal. A trick of the light, or is there a secret dragon among the faculty?
+7. **Dueling Club Rivalry Heats Up!** Word has it that a pair of particularly competitive students from different colleges are planning an unsanctioned, after-hours duel to settle a long-standing grudge. Place your bets now!
+8. **Forbidden Spell Circulating?** A mysterious grimoire has been spotted changing hands between students in the Prismari dorms. Some claim it's just a book on performance magic, but others whisper that it's a tome of forbidden spells.
+9. **The Case of the Missing Mascots!** More than one college mascot has gone missing for hours at a time, only to reappear with no explanation. A prank war, or something more sinister?
+10. **Arcane Relic in the Ruins?** A senior Lorehold student swears they uncovered an ancient magical relic in the ruins outside campus—but before they could study it, it vanished. Who has it now?
+11. **Professor or Phantasm?** Some students swear they’ve taken classes with a particular professor… only to find no official record of them existing. An elaborate prank, or has Strixhaven hired an instructor from beyond the grave?
+12. **The Never-Ending Party?** A secret party is said to be held somewhere on campus where time itself is… different. Some students return minutes later, while others claim to have lost an entire day. What magic is at work here?
 
 ##### Hawthorne-Specific
 1. **Hawthorne Winters has a secret family back home.** He says he’s searching for his daughter, but sources claim he left behind an entire brood in a distant land. How many Winters children are running around Strixhaven? Only time (or a birth registry) will tell!

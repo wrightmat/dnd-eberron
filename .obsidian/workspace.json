@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/Strixhaven University.md",
+                "file": "sessions/2025-03-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Strixhaven University"
+              "title": "Outline of 2025-03-10"
             }
           },
           {
@@ -170,10 +170,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "other/Strixhaven University.md"
+                "file": "sessions/2025-03-10.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Strixhaven University"
+              "title": "File properties for 2025-03-10"
             }
           },
           {
@@ -258,12 +258,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9aac623083f31372",
+  "active": "72c7e3307080fefc",
   "lastOpenFiles": [
+    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
+    "other/Strixhaven University.md",
     "sessions/2025-03-10.md",
     "adventures/C04 The Nature of Magic.md",
     "DM Screen.md",
-    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
     "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
     "adventures/C04 The Nature of Magic/1-06  Strixhaven Year 3, Term 2.md",
     "adventures/C04 The Nature of Magic/1-05  Strixhaven Year 3, Term 1.md",
@@ -286,7 +287,6 @@
     "creatures/Modron Duodrone.md",
     "creatures/Mindrot Thrall.md",
     "sessions/2025-02-24.md",
-    "other/Driftglobe.md",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",
     "sessions/C03",
