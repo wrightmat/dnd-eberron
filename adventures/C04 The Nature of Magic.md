@@ -50,6 +50,10 @@
 * **Inciting Incident**: BBEG's entry into the Biblioplex, and capturing of the Strixhaven Snarl.
 * **First Plot Point**: Transportation of the PCs to Khorhaire.
 * **Dramatic Question**: Will the players be able to build sufficient power to stop the BBEG?
+- Will need to provide some information throughout the first act to give clues to and guidance for the second act.
+	- First, the PCs should receive a representation of the magic circle (with only the eight "outer" school denoted) - this should be at the end of the first year.
+	- At the end of the second year, they should receive the "ley lines map" handout (with only the lines, no points), as the capstone to Scrivening and Symbology.
+	- If they dig deeper into either map, they might be able to find more information, and possibly even the more detailed versions. Otherwise, they should receive the "ley lines and points" map when they land in Khorvaire - giving them all the pieces to figure out that the points are color-coded to the schools of magic.
 
 * Start out in Strixhaven, which is located in The Vast in Argonnessen, and has been teaching dragons and exceptional non-dragons in secrets for a long time. Each player should have some significant tie to magic - so discourage full martial classes like fighters and barbarians, but if used then the PC should think about where their power comes from, and how they want to grow their power as part of their character arc.
 	* Could be fun to have different lectures that outline how each of the classes manipulate Mana to create magical effects.
