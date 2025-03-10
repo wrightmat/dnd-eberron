@@ -63,14 +63,14 @@
 | 6   | **Drama**. The student is anxious about something that happened during their break or about the impending academic year (perhaps the masquerade).                                                |
 - **Rumors**. Additionally, in the course of the reception, characters might hear any of the gossip on the Third-Year Rumor Mill table. Not all the rumors are true, as noted in the table, but some foreshadow events later in this adventure.
 
-| d6  | Rumor                                                                                                | Accuracy                    |
-| --- | ---------------------------------------------------------------------------------------------------- | --------------------------- |
-| 1   | Some professors seek to change Mage Tower for the sake of student safety. Many students oppose this. | False                       |
-| 2   | There’s a ailment going around campus. Several students say they haven’t been feeling well.          | True (Murgaxor’s influence) |
-| 3   | Rumor has it that the Magister’s Masquerade is actually a secret test.                               | False                       |
-| 4   | People are still on edge after mage hunters crept onto campus last year.                             | True                        |
-| 5   | Supposedly one of the Founder Dragons will be a surprise guest of honor at the masquerade.           | False                       |
-| 6   | Dean Tullus wants this year’s masquerade to focus on Strixhaven history—boring to many students.     | True                        |
+| d6  | Rumor                                                                                                | Accuracy              |
+| --- | ---------------------------------------------------------------------------------------------------- | --------------------- |
+| 1   | Some professors seek to change Mage Tower for the sake of student safety. Many students oppose this. | False                 |
+| 2   | There’s a ailment going around campus. Several students say they haven’t been feeling well.          | True (Oriq influence) |
+| 3   | Rumor has it that the Magister’s Masquerade is actually a secret test.                               | False                 |
+| 4   | People are still on edge after mage hunters crept onto campus last year.                             | True                  |
+| 5   | Supposedly one of the Founder Dragons will be a surprise guest of honor at the masquerade.           | False                 |
+| 6   | Dean Tullus wants this year’s masquerade to focus on Strixhaven history—boring to many students.     | True                  |
 - **Masquerade Committee**. A student committee organizes the Magister’s Masquerade, and its leaders use the reception to get other students excited about the event. Characters who approach the committee table learn that, throughout the academic year, third-year students will periodically be assigned tasks to help prepare for the masquerade. The adventure assumes that committee leaders are in charge of much of the masquerade’s orchestration, but if your players are excited about contributing to the event’s decor, menu, entertainment, and so on, you can incorporate their suggestions into the descriptions of the preparation tasks and the masquerade itself.
 
 - **Snack Sampling**. Characters who investigate any of the tavern tables laden with snacks find an array of magic-infused dishes. Roll or choose an option from Bow’s End Snacks table to see what’s available at any given table. All these dishes include magical ingredients meant to give the dishes a little extra flair. The first time a creature samples any of these dishes, it must succeed on a DC 12 Charisma (Deception) check to avoid making an alarmed face, coughing loudly, or having another potentially embarrassing reaction.

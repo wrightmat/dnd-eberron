@@ -430,6 +430,12 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 - This is one of the three islets (along with areas S3 and S7) where the characters can collect spell components for Professor Lang.
 - Any character who ventures into the swamp on the west side of this islet stumbles into an area of quicksand.
 
+> [!note]- Quicksand
+> A quicksand pit covers the ground in roughly a 10-foot-square area and is usually 10 feet deep. When a creature enters the area, it sinks 1d4 + 1 feet into the quicksand and becomes restrained. At the start of each of the creature’s turns, it sinks another 1d4 feet. As long as the creature isn’t completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand.
+> A creature that is completely submerged in quicksand can’t breathe (see the suffocation rules in the Player’s Handbook).
+
+A creature can pull another creature within its reach out of a quicksand pit by using its action and succeeding on a Strength check. The DC is 5 plus the number of feet the target creature has sunk into the quicksand.
+
 ###### S3. Central Islet
  - [ ] 
 >The largest islet in this part of the swamp, this landmass features two wooden research sheds with an ancient tree stump between them.

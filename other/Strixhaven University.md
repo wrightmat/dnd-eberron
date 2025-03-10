@@ -214,6 +214,28 @@ For those courses selected by at least one PC student (excluding Required course
 #### Witherbloom
 ![http://wizzle.tplinkdns.com:38090/index.php/s/rjEKX96pCdsoHTc/preview](http://wizzle.tplinkdns.com:38090/index.php/s/rjEKX96pCdsoHTc/preview)
 
+### Strixhaven Star
+
+#### Grayson's Gossip Column
+
+##### General Gossip
+1. **The Real First-Year Feud?** Everyone’s talking about the so-called rivalry between two campus cliques, but the real drama? A heated argument between two students over who "deserved" the last deluxe muffin at the Firejolt Café. Rumor has it, grudges were sworn and friendships ended that day.
+2. **Milo Thistleberry’s ‘Magic of Love’ is a Total Scam!** The hopelessly romantic third-year Prismari swore his love potions were foolproof, but last week’s incident suggests otherwise. Four students suddenly fell in love—with inanimate objects. A bookshelf, a mop, a particularly nice hat, and the Firejolt Café’s espresso machine all received heartfelt confessions. Oops.
+3. **Secret Tunnel Found Under Bow’s End Tavern!** A couple of tipsy students stumbled into a hidden passage beneath Bow’s End. Where does it lead? Is it ancient? Magical? Or just a really elaborate way to avoid paying your tab?
+4. **Secret Dean Romance?** Sources claim that two of Strixhaven’s esteemed deans have been seen sneaking off to private meetings under the stars. Is it a passionate academic debate, or something more?
+5. **Mage Tower Scandal!** Rumors swirl that one of the star players on the Strixhaven Mage Tower team has been seen meeting with a shadowy figure. Is it a secret society's recruitment attempt, or something even darker?
+6. Dragon in Disguise? – One first-year student swears they saw a professor shift into draconic form for just a moment before returning to normal. A trick of the light, or is there a secret dragon among the faculty?
+7. Dueling Club Rivalry Heats Up! – Word has it that a pair of particularly competitive students from different colleges are planning an unsanctioned, after-hours duel to settle a long-standing grudge. Place your bets now!
+8. Forbidden Spell Circulating? – A mysterious grimoire has been spotted changing hands between students in the Prismari dorms. Some claim it's just a book on performance magic, but others whisper that it's a tome of forbidden spells.
+
+##### Hawthorne-Specific
+1. **Hawthorne Winters has a secret family back home.** He says he’s searching for his daughter, but sources claim he left behind an entire brood in a distant land. How many Winters children are running around Strixhaven? Only time (or a birth registry) will tell!
+2. **A dangerous past?** Hawthorne doesn’t just investigate shady business—he was shady business. Whispers abound that he fled his home to escape a scandal of his own making. What did he do? And why is he so keen to keep it buried?
+3. **Boring or brilliant?** Some say Professor Mariq wished for "more exciting journalism" after reading Hawthorne’s latest piece. Others say she fell asleep halfway through. Should we be concerned that our investigative reporters have the thrill factor of a History of Parchment lecture?
+4. **Why is he always lurking?** A first-year student reported Hawthorne watching them from the shadows as they studied in the Biblioplex. Was he researching a story, or just being creepy?
+5. **Winters or Wildfire?** He claims to prefer a quiet life, but when’s the last time you saw someone "calmly" interrogate an entire faculty department? Word is, he nearly got thrown out of the Hall of Oracles for aggressively demanding answers about an "urgent personal matter."
+6. **The Ghost of the Star.** No one sees him arrive, and no one sees him leave. Does Hawthorne actually live in the Strixhaven Star’s offices? A source swears they saw him napping under a desk!
+
 ### References
 
 - Strixhaven: A Curriculum of Chaos
