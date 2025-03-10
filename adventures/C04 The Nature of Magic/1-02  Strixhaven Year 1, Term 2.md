@@ -403,7 +403,7 @@ The scenes below are broken out into the adventures from the Strixhaven book (Ch
 
 ###### Introduction
  - [ ] 
-- A few weeks after the incident at the Rose Stage Festival, the characters are scheduled to collect spell components from Sedgemoor and bring those samples back to Professor Lang, as their Magical Physiologies Practicum. This gives them a convenient opportunity to investigate that area on behalf of Professor Totsky.
+- A few weeks after the incident at the Rose Stage Festival, the characters are scheduled to collect spell components from Sedgemoor and bring those samples back to Professor Lang, as their Magical Physiologies Practicum. Areas S2, S3, and S7 are the three islets the players need to visit in order to collect spell components. This also gives them a convenient opportunity to investigate that area on behalf of Professor Totsky.
 - The characters know that they must pour the flask of holy water given to them by Professor Totsky into an underwater spring somewhere in area S7. Doing so should prevent future flare-ups of the wild magic that tainted the eldritch balm behind all the strange campus mishaps. In addition, they can find Murgaxor’s journal, which points to a spellcaster’s troublesome meddling, at Wiltroot Hall.
 - When the characters venture into Sedgemoor, read or paraphrase the following to set the scene:
 >Your expedition has brought you to one of the more dismal parts of Sedgemoor, the bayou that encompasses the Witherbloom campus. Muddy swamp water flows between raised islets covered with fungi and foliage. Large tree stumps jut out of the water in random places. A pair of rickety wooden docks and two wooden huts are the only indication that people ever come here.

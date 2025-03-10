@@ -2,44 +2,53 @@
 
 ### Background and Hook(s)
 
-* Have each player roll a d4 and drop them in a different location across central Khorvaire based on the roll (with a 4 being a re-roll or DM/player choice). Then they either need to find a way to get back to each other, communicate with each other, or gather their own information about what's going on in their location.
+* Have each player roll a d6 and drop them in a different location in Sharn based on the roll and the random table below. Then they either need to find a way to get back to each other, communicate with each other, or gather their own information about what's going on in their location.
 * The players’ first goal becomes clear: discover why their magic was drained and seek a way to restore it. Initial exploration uncovers a fragment of a dragonshard imbued with unusual magical energy, pointing toward nexuses of power tied to the schools of magic.
 
 ### Characters and Locations
 
-* **Professor Lysten Vorrith** (male human abjuration wizard). A reserved but perceptive researcher at the Floating Towers of Arcanix. He’s concerned about Morgrave’s failing wards and is one of the few openly discussing it.
-* **Raeda Syvalis** (female elven wizard). Head librarian at the Library of Robideur of Arcanix, who has a great general understanding of magic. Can answer any questions about what's going on with magic in the area, and direct to any of the clued locations.
-* **Professor Theon Aldair** (male human scholar). A historian at the University of Wyrnarn who tracks magical phenomena but is dismissive of conspiracy theories.
-* **Olin Darrek** (male human veteran). Primary dockmaster, who knows that House Lyrandar is panicking about magic disruptions.
-* **Torrin d'Lyrandar** (male half-elf druid). Leader of the Raincaller's Guild. A broad-shouldered, weathered half-elf with sea-spray-colored eyes and long, salt-and-pepper hair braided with small silver tokens representing storms and tides. He wears deep blue robes embroidered with shifting wave patterns, and a Lyrandar heir’s dragonmark of storm is faintly visible on his forearm.
+* **Tibbin "Taps" Fallowfist** (male Halfling bartender). 
+* **Jorvax Tain** (non-binary Human skycoach pilot). 
+* **Brother Tern-9** (male Warforged priest of the Sovereign Host). 
+* **Magister Olinna Veks** (female Human abjurer). 
+* **Sailen Valt** (male Drow smuggler). 
+* **Madame Solvara** (female Elf playwright and illusionist). 
 
-* **[[Arcanix]], Aundair**
-* **[[Fairhaven]], Aundair**
-* **[[Stormhome]], Aundair**
+* **[[Sharn]], Breland**
 
 ### Scenes and Situations
 
-###### 1. Arcanix
+| 1d6 | Landing Location                                               | Details                                                                                                                                                                                                                                           | NPC Encountered                                                                                                                                                              |
+| --- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Chance** (Lower Tavick's Landing, Dragoneyes)                | You wake up slumped over a table in a smoky, rowdy tavern. Dice roll across the table as an orc cheers, "Your turn to bet, mate!" You have no idea what you’re gambling on, but coins are missing from your pouch.                                | **Tibbin "Taps" Fallowfist** (Halfling bartender, runs a shady but fair business. “Eh? You showed up outta nowhere, but hey, as long as you pay your tab, who cares?”)       |
+| 2   | **A Skycoach, Mid-Air** (Upper Central, Floating above Skyway) | You appear mid-air inside a moving skycoach taxi! The startled driver nearly crashes as you phase into existence. You're in the richest part of the city with no idea where the others are.                                                       | **Jorvax Tain** (Human skycoach pilot, exasperated but fair. "You nearly got us killed! Where did you even come from?")                                                      |
+| 3   | **The Fallen Bell Ruins** (Lower Dura, Fallen)                 | You wake up in the ruins of a collapsed temple, half-buried under loose stones. Scattered offerings of silver and old flowers suggest it's still in use. You hear footsteps approaching.                                                          | **Brother Tern-9** (Warforged priest of the Sovereign Host, calm and measured. “Perhaps the gods placed you here for a reason, traveler.”)                                   |
+| 4   | **The Azure Gateway** (Upper Menthis, University District)     | You appear in a private library and arcane study space near Morgrave University, where scholars conduct experiments on magical wards. However, the wards are failing, and the resident arcanists are arguing about strange occurrences on campus. | **Magister Olinna Veks** (Human abjurer, pale and sweating. “The protections are unraveling. If Morgrave can’t hold its own wards, what does that mean for the rest of us?”) |
+| 5   | **A Smuggler’s Warehouse** (The Upper Cogs)                    | You land among crates marked with House Tarkanan’s sigil, full of contraband. A group of smugglers is mid-deal and you were not invited.                                                                                                          | **Sailen Valt** (Drow smuggler, dangerous but curious. “You’re either the worst spy in Sharn or just the dumbest. Either way, I want answers.”)                              |
+| 6   | **Classic Theater** (Middle Menthis, Smoky Towers)             | You appear mid-performance on a massive theater stage. A packed audience of Sharn’s wealthiest patrons gasps in confusion. The spotlight is on you.                                                                                               | **Madame Solvara** (Elf playwright and illusionist, thrilled by drama. “What an entrance! Now, dear, what’s your monologue?”)                                                |
+###### 1. Chance
  - [ ] 
-- The primary point of interest here should be the Floating Towers, where any player landing here could get information about magic.
-- The Floating Towers of Arcanix normally drift serenely above, held in place by powerful enchantments. Now, they shudder, lurch, and occasionally drop a few feet before correcting themselves. Some towers tilt at unnatural angles, and villagers watch nervously, fearing one might fall.
-- A small tavern in the nearby farming village could direct any player as needed. A traveling member of the Path of Light (Aither, along with her traveling companion Seralath) is there.
-- Professor Lysten Vorrith can comment directly on the three clued school of magic adventures (especially in Sharn), while Raeda Syvalis can comment generally on magic in the area. Also Tanila, the headmistress of Arcanix, can be found and questioned if needed; as well as Windsor, Astra, and/or Chip.
-- Clues: Transmutation (Shadow Marches), Enchantment (Aundair), Abjuration (Sharn)
+- 
 
-###### 2. Fairhaven
+###### 2. Skycoach
  - [ ] 
-- The primary point of interest should be the University of Wynarn, where any player landing here could get information about magic.
-- The famous Everbright Lanterns that line the streets of Fairhaven pulse erratically, some flickering out completely. No mage has been able to keep them steady.
-- The Dome of Light is basically a small chapel for the Path of Light. A traveling member (Aither, along with her traveling companion Seralath) can be found there.
-- Professor Theon Aldair can comment generally on magic in the area, as well as give clues.
+- 
 
-###### 3. Stormhome
+###### 3. Fallen Bell Ruins
  - [ ] 
-- Players landing here would immediately notice that storms have racked the island. If asking around, they'd learn that until recently, magic controlled the weather here but that magic is no longer working. The Raincallers Guild Hall would be the place to ask about that.
-- Sister Aither is at the docks, observing failing airships and trying to comfort the stranded travelers.
-- Dockmaster Olin Darrek knows that House Lyrandar is panicking about magic disruptions.
-- Master Torrin d'Lyrandar, leader of the Raincaller's Guild, can be found at their headquarters and answer any questions about magic in the area.
+- 
+
+###### 4. Azure Gateway
+ - [ ] 
+- 
+
+###### 5. Smuggler's Warehouse
+ - [ ] 
+- 
+
+###### 6. Classic Theater
+ - [ ] 
+- 
 
 ### Secrets and Clues
 Check off as information is received. These should be gathered from Secrets and Clues in Characters and Locations above, as well as anything particular to the Scenes and Situations in this adventure.
