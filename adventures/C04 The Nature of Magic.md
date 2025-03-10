@@ -138,6 +138,9 @@
 ### DM Notes
 
 * Main concept is the nature of [[Magic]], and its power in the world, using Buddhist/Jainist ideals. **Philosophy**: The pursuit of ultimate power through magic represents a rejection of interdependence, leading to isolation and suffering. This contrasts with the ideal of using magic as a tool to serve others and promote harmony.
+	* The Magic Circle denotes the eight "standard" school of magic in an outer ring, with three lesser-known schools (artifice, dunamancy, psionics) in an inner ring, and the largely unknown school of entropomancy (chaos magic, or "wild magic") in the center. The outlawed school of hemomancy isn't present on the wheel at all, but it alluded to in the runic text around the central circle.
+		* Inner ring runic text: "That which is possibility becomes thought, that which is thought becomes real, and that which is real must serve."
+		* Center circle runic text: "To break the circle is to glimpse the source; to command the source is to surrender the self."
 * Look into the idea of custom created spells. Could be a fun class or like a "capstone project".
 * Use the [[Path of Light]] as the primary organization to drive the story. Turns out their views of magic have been right all along!
 * Use mana nexuses as metaphors for chakras — points where energy gathers and flows — requiring balance and restoration to achieve harmony.
