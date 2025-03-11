@@ -60,7 +60,7 @@
               "type": "markdown",
               "state": {
                 "file": "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -277,46 +277,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "2e1d68aeaa392e16",
-    "type": "floating",
-    "children": [
-      {
-        "id": "58c018810676f77f",
-        "type": "window",
-        "children": [
-          {
-            "id": "761c4c4cdd6d1cd5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "98aa24c0c938dcd8",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 794,
-        "y": 290,
-        "width": 1024,
-        "height": 474,
-        "maximize": false,
-        "zoom": 2
-      }
-    ]
-  },
-  "active": "cf6336532a0797eb",
+  "active": "801c5d1e4c593eaa",
   "lastOpenFiles": [
     "other/Strixhaven University.md",
-    "sessions/2025-03-10.md",
     "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
+    "sessions/2025-03-10.md",
     "sessions/2025-03-03.md",
     "adventures/C04 The Nature of Magic.md",
     "DM Screen.md",
