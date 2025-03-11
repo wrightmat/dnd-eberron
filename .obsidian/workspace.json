@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,6 +148,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 41.05902777777778,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2025-03-10.md",
+                "file": "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-10"
+              "title": "Outline of 1-02  Strixhaven Year 1, Term 2"
             }
           },
           {
@@ -170,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sessions/2025-03-10.md"
+                "file": "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-03-10"
+              "title": "File properties for 1-02  Strixhaven Year 1, Term 2"
             }
           },
           {
@@ -235,11 +236,29 @@
               "title": "Tags"
             }
           }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "f574d7a26cd42899",
+        "type": "tabs",
+        "dimension": 58.94097222222222,
+        "children": [
+          {
+            "id": "3ca3cdb21b4a873d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 469.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,11 +277,47 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "72c7e3307080fefc",
+  "floating": {
+    "id": "2e1d68aeaa392e16",
+    "type": "floating",
+    "children": [
+      {
+        "id": "58c018810676f77f",
+        "type": "window",
+        "children": [
+          {
+            "id": "761c4c4cdd6d1cd5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "98aa24c0c938dcd8",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 794,
+        "y": 290,
+        "width": 1024,
+        "height": 474,
+        "maximize": false,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "cf6336532a0797eb",
   "lastOpenFiles": [
-    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
     "other/Strixhaven University.md",
     "sessions/2025-03-10.md",
+    "adventures/C04 The Nature of Magic/1-02  Strixhaven Year 1, Term 2.md",
+    "sessions/2025-03-03.md",
     "adventures/C04 The Nature of Magic.md",
     "DM Screen.md",
     "adventures/C04 The Nature of Magic/1-07  Strixhaven Year Four.md",
@@ -274,7 +329,6 @@
     "sessions/2025-02-10.md",
     "sessions/2025-02-03.md",
     "sessions/2025-01-27.md",
-    "sessions/2025-03-03.md",
     "adventures/C04 The Nature of Magic/2-01  Khorvaire Opening.md",
     "adventures/C04 The Nature of Magic Outline.canvas",
     "locations/The Cogs.md",
