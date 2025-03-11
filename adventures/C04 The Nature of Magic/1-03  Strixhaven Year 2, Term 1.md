@@ -3,7 +3,7 @@
 ### Background and Hook(s)
 
 * In this adventure, the characters return to Strixhaven University as second-year students. As the year gets underway, the characters’ peers urge them to form a team and compete in a high-profile game of Mage Tower. They’ll investigate the odd behavior of the magical creatures at the game’s center while they prepare for the big game. And throughout the year, nefarious forces strew havoc across the campus — right up to the characters’ fateful game day at Strixhaven Stadium. Will the characters unveil and thwart the threats before something terrible befalls the event?
-* At the end of this year, the players will face off against a few mage hunters - monsters created and used by the Oriq to wreck havoc across Strixhaven. By the end of this adventure, it should be clear to the players that there's something bigger going on here.
+* At the end of this year, the players will face off against a few mage hunters - monsters created and used by the Oriq to wreck havoc across Strixhaven. By the end of this adventure, it should be clear to the players that there's something bigger going on here. Maybe they even learn who the Oriq are.
 
 ### Characters and Locations
 
@@ -301,7 +301,7 @@
 - Regardless which team wins, Rosie slaps her thigh with glee, declaring that she hasn’t had so much fun in ages. She reaches into one of her knapsacks and pulls out a smooth, glowing stone. She says:
 >“As promised, here’s a gift — think of it as a good luck charm for the upcoming game!”
 
-- The stone is a stone of good luck, and the characters are welcome to keep it indefinitely.
+- The stone is a [[Stone of Good Luck (Luckstone)]], and the characters are welcome to keep it indefinitely.
 
 ###### An Unwelcome Visitor
  - [ ] 
