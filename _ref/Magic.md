@@ -99,12 +99,32 @@ You awaken to your psionic potential, which enhances your mind and body.
 
 ##### Telekinetic (TCoE)
 
+You learn to move things with your mind, granting you the following benefits:
+- Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+- You learn the *[[mage hand]]* cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
+- As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
+
 ##### Telepathic (TCoE)
 
+You awaken the ability to mentally connect with others, granting you the following benefits:
+- Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+- You can speak telepathically to any creature you can see within 60 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
+- You can cast the *[[detect thoughts]]* spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 2nd level or higher, you can cast this spell with them.
+
 #### Spell List
+
 The spells below tag on the "psionics" tag, along with their usual school of magic.
 
-[[mind sliver]], mind spike, psychic lance, dissonant whispers, feeblemind, phantasmal force, phantasmal killer, psychic scream, shadow blade, staggering smite, synaptic static, Tasha's mind whip, weird, wrathful smite, mind blank, suggestion, command, friends, message, charm person, cause fear, fear, enemies abound, dream, mental prison, mirror image, major image, calm emotions, guidance, bless, bane, hideous laughter, confusion, crown of madness, befuddlement, geas, power word kill, power word pain, power word fortify, power word stun, Yolande's regal presence, antipathy/sympathy, blur, dominate beast, dominate monster, dominate person, dream, enthrall, mass suggestion, modify memory, sleep
+- **Cantrip**: friends, message, [[mind sliver]]
+- **1st-level**: cause fear, charm person, command, dissonant whispers, hideous laughter, sleep, wrathful smite
+- **2nd-level**: calm emotions, crown of madness, mind spike, phantasmal force, shadow blade, suggestion, Tasha's mind whip
+- **3rd-level**: enemies abound, fear, major image
+- **4th-level**: confusion, dominate beast, phantasmal killer, psychic lance, staggering smite
+- **5th-level**: dominate person, dream, geas, modify memory, synaptic static, Yolande's regal presence
+- **6th-level**: mass suggestion, mental prison
+- **7th-level**: dream of the blue veil, mirage arcane
+- **8th-level**: antipathy/sympathy, befuddlement, dominate monster, feeblemind, mind blank, power word stun
+- **9th-level**: psychic scream, weird
 
 ### Dunamancy
 
@@ -121,7 +141,16 @@ The spells below tag on the "psionics" tag, along with their usual school of mag
 
 #### Spell List
 
-
+- Cantrip: guidance, sapping sting
+- 1st-level: bane, bless, gift of alacrity, magnify gravity
+- 2nd-level: fortune's favor, immovable object, mirror image, wristpocket
+- 3rd-level: pulse wave
+- 4th-level: gravity sinkhole
+- 5th-level: banishing smite, temporal shunt
+- 6th-level: gravity fissure
+- 7th-level: project image, reverse gravity, tether essence
+- 8th-level: dark star, reality break
+- 9th-level: ravenous void, time ravage, time stop
 
 ### Entropomancy
 
@@ -131,6 +160,19 @@ The spells below tag on the "psionics" tag, along with their usual school of mag
 - Wizard: Entropist (Deep Magic, Kobold Press)
 - Bard: College of Entropy (Deep Magic, Kobold Press)
 - Barbarian: Path of Wild Magic
+
+#### Spell List
+
+- Cantrip: 
+- 1st-level: chaos bolt, magic missile
+- 2nd-level: blur, enthrall, 
+- 3rd-level: 
+- 4th-level: 
+- 5th-level: 
+- 6th-level: disintegrate
+- 7th-level: power word fortify, power word pain, 
+- 8th-level: 
+- 9th-level: power word heal, power word kill
 
 ### Hemomancy
 
