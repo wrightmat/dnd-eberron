@@ -489,7 +489,7 @@ Check off as information is received. These should be gathered from Secrets and 
 
  - [ ]  The magic circle is a map of creation, with chaos at its heart and order on its edges.
  - [ ]  The closer one works to the center of the magic circle, the more unpredictable magic becomes.
- - [ ]  Hemomancy (blood magic) has been forbidden for so long that most modern scholars deny it even exists.
+ - [ ]  Sangromancy (blood magic) has been forbidden for so long that most modern scholars deny it even exists.
  - [ ]  Primal druids claim to hear the “heartbeat of Eberron” when near certain mana nexuses.
 
 ### DM Notes and Random Tables

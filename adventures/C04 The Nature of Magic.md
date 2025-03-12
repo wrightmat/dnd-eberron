@@ -30,7 +30,7 @@
 	- This organization has a secret meeting house located somewhere under Central Campus, where only members know the true location. It appeals most to those of Lawful alignments.
 - **Oriq Order** (Strixhaven)
 	- A secret society who uses magics "forbidden by the colleges of Strixhaven," and are obsessed with power at any cost. Most members are actually drop-outs of or those denied admission to Strixhaven, but the Order does attempt to draw members from the student body in order to further their goals.
-	- Initiates into the Oriq Order learn all about the forbidden magic of Hemomancy. Those who complete the ritual of initiation are given a special feat that marked them as a member of the Oriq Order.
+	- Initiates into the Oriq Order learn all about the forbidden magic of Sangromancy. Those who complete the ritual of initiation are given a special feat that marked them as a member of the Oriq Order.
 	- This organization has a secret meeting location on the far south end of campus (between and past Prismari and Witherbloom), several miles from campus, known as the Fortress Badlands. It appeals most to those of Evil alignments.
 	- The original Oriq were aberrant dragonmark bearers born on Argonnesson. These marks are not random; they are the result of mana reacting to imbalances in the world. When magic is hoarded or twisted (such as through blood magic), the resulting disruptions cause aberrant dragonmarks to manifest in mortals.
 	- The Oriq have recently associated with House Tarkanan of Khorvaire, as they are known aberrant dragonmark bearers. House Tarkanan serves as their agents across Khorvaire in the Oriq efforts to siphon magic away from the continent.
@@ -112,7 +112,7 @@
 - This act is marked by the players' return to Argonnessen. Two additional adventures will be tackled, based on the school practiced by Malakar's lieutenants, before returning to Strixhaven proper to take on the big bad himself.
 - [[2-12  Entropomancy]]: Verthicha'vivex in Argonnessen, Zaelith T'Kaarn (Oriq Second Lieutenant), and a planar jaunt.
 - [[2-13  Dunamancy]]: Argonnessen, Extus Narr (Oriq First Lieutenant), and a time hopping jaunt?
-- [[2-14  Hemomancy (Finale)]]: Strixhaven, Final confrontation with Malakar
+- [[2-14  Sangromancy(Finale)]]: Strixhaven, Final confrontation with Malakar
 
 ### Player-Facing Information
 
@@ -138,7 +138,7 @@
 ### DM Notes
 
 * Main concept is the nature of [[Magic]], and its power in the world, using Buddhist/Jainist ideals. **Philosophy**: The pursuit of ultimate power through magic represents a rejection of interdependence, leading to isolation and suffering. This contrasts with the ideal of using magic as a tool to serve others and promote harmony.
-	* The Magic Circle denotes the eight "standard" school of magic in an outer ring, with three lesser-known schools (artifice, dunamancy, psionics) in an inner ring, and the largely unknown school of entropomancy (chaos magic, or "wild magic") in the center. The outlawed school of hemomancy isn't present on the wheel at all, but it alluded to in the runic text around the central circle.
+	* The Magic Circle denotes the eight "standard" school of magic in an outer ring, with three lesser-known schools (Artifice, Dunamancy, Psionics) in an inner ring, and the largely unknown school of Entropomancy (chaos magic, or "wild magic") in the center. The outlawed school of Sangromancy isn't present on the wheel at all, but it alluded to in the runic text around the central circle.
 		* Inner ring runic text: "That which is possibility becomes thought, that which is thought becomes real, and that which is real must serve."
 		* Center circle runic text: "To break the circle is to glimpse the source; to command the source is to surrender the self."
 * Look into the idea of custom created spells. Could be a fun class or like a "capstone project".
