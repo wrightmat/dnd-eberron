@@ -36,8 +36,9 @@ The table below also associates each type of magic to a classical element (inclu
 While I don't suggest to add any spells or move any from existing schools, that is something that could be done under this structure.
 
 **Outer circle** (schools): Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, Transmutation
-**Inner circle**: Artifice, Psionics, Dunamancy, Hemomancy
+**Inner circle**: Artifice, Psionics, Dunamancy
 **Center**: Entropomancy
+**Hidden**: Hemomancy
 
 | Type          | Element | Color   | School of…                   | Plane (Eberron) | Dean (Strixhaven)      | Ability Damage |
 | ------------- | ------- | ------- | ---------------------------- | --------------- | ---------------------- | -------------- |
@@ -47,134 +48,96 @@ While I don't suggest to add any spells or move any from existing schools, that 
 | Enchantment   | Light   | Purple  | Influence and Illumination   | Irian           | Radiance (Silverquill) |                |
 | Evocation     | Fire    | Red     | Energy and Eruption          | Fernia          | Expression (Prismari)  |                |
 | Illusion      | Shadow  | Magenta | Subterfuge and Shadow        | Mabar           | Shadow (Silverquill)   |                |
-| Necromancy    | Death   | Green   | Death and Decay              | Dolurrh         | Vein (Witherbloom)     | STR            |
 | Transmutation | Water   | Orange  | Alteration and Adaptation    | Thelanis        | Substance (Quandrix)   |                |
-| Artifice      | Life    | Olive   | Invention and Innovation     | Daanvi          | Order (Lorehold)       | INT?           |
-| Psionics      | Mind    | Indigo  | Mind and Memory              | Dal Quor        |                        | INT/WIS?       |
-| Dunamancy     | Spirit  | Teal    | Potentiality and Possibiilty | Xoriat          | Theory (Quandrix)      | DEX?           |
+| Necromancy    | Death   | Green   | Death and Decay              | Dolurrh         | Vein (Witherbloom)     | STR            |
+| Artifice      | Life    | Olive   | Invention and Innovation     | Daanvi          | Order (Lorehold)       | INT            |
+| Psionics      | Mind    | Indigo  | Mind and Memory              | Dal Quor        |                        | WIS            |
+| Dunamancy     | Spirit  | Teal    | Potentiality and Possibiilty | Xoriat          | Theory (Quandrix)      | DEX            |
+| Entropomancy  | Chaos   | Black   | Chaos and Change             | Kythri          | Chaos (Lorehold)       | CHA            |
 | Hemomancy     | Body    | Maroon  | Sanguinity and Sacrifice     | Shavarath       |                        | CON            |
-| Entropomancy  | Chaos   | Black   | Chaos and Change             | Kythri          | Chaos (Lorehold)       | CHA/WIS?       |
+
+### Psionics
+
+It is possible to create a psionic character within the structure of the existing rules by following the steps below (and incorporating a few homebrew feats):
+- **Psionic Classes**. Take an existing class that comes with Psionics (such as one of the suggested ones below).
+- **Psionic Feats**. A player can willingly take the Psion feat whenever they would take a general feat (or ability score improvement) from their class. They may also take one of the other feats listed below (including two from TCoE).
+- **Spell List Switch**. A player character who is already a spellcaster can opt to just replace their class’ spell list with the Psionic Spell list (with GM approval). Doing so grants the player with some incredible Psionic spells, but they may have to sacrifice some of their class’ core spells.
+
+#### Suggested Classes
+
+- Wizard: School of Psionics​ (UA), or any School subclass
+- Sorcerer: Aberrant Mind​
+- Fighter: Psi Knight​
+- Rogue: Soulknife​
+- Monk: Psi Blade​
+- Bard: College of Whispers
+
+#### Feats
+
+##### Psion
+**Prerequisite**: Intelligence, Wisdom, or Charisma score of 13+
+
+You awaken to your psionic potential, which enhances your mind and body.
+- Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20. Your psionic ability modifier will usually be the highest score of the 3.
+- You harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is 1d6. You gain one.
+- You may completely replace your class’ spell list with the Psionic spell list. When you do so, the spells don't require verbal, somatic, or material components that lack a gold cost. Because of this, the spells can't be seen being cast, for the purposes of spells such as *counterspell*.
+
+**Psionic Talent Options**. You can use your Psionic Talent die once on each of your turns in the following ways:
+- Psi-Boosted Ability. When you make an ability check, you can roll your Psionic Talent die and add the number rolled to the check. You can choose to do so before or after rolling the d20, but before you know whether the check succeeded or failed.
+- Psi-Guided Strike. Once on each of your turns when you miss with an attack roll, you can roll your Psionic Talent die and add the number rolled to the attack, potentially causing a miss to hit instead.
+- Psi-Shield. Once on each of your turns when a creature hits you with an attack roll, you can roll your Psionic Talent die and subtract the result from the creatures attack roll, potentially causing a hit to miss.
+- Psi-Healing. Once on each of your turns, you can roll a Psionic Talent die and heal yourself or another creature by the amount rolled.
+
+**Changing the Die’s Size**.
+- If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is 1d6 and you roll a 6, it becomes 1d4. If it’s 1d4 and you roll a 4, it becomes unusable until you finish a long rest.
+- Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. This represents you conserving psionic energy for later use. For example, if you roll a 1 on 1d4, the die then becomes 1d6.
+- When you reach certain levels in this class, the starting size of your Psionic Talent die increases: at 5th level (d8), 11th level (d10), and 17th level (d12).
+
+**Psi Replenishment**. As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can’t use Psi Replenishment again until you finish a long rest. Whenever you finish a long rest, your Psionic Talent die also resets to its starting size.
+
+**Reference**: https://www.enworld.org/threads/good-psionics-themed-wizard-subclass.682849/
+
+##### Telekinetic (TCoE)
+
+##### Telepathic (TCoE)
+
+#### Spell List
+The spells below tag on the "psionics" tag, along with their usual school of magic.
+
+[[mind sliver]], mind spike, psychic lance, dissonant whispers, feeblemind, phantasmal force, phantasmal killer, psychic scream, shadow blade, staggering smite, synaptic static, Tasha's mind whip, weird, wrathful smite, mind blank, suggestion, command, friends, message, charm person, cause fear, fear, enemies abound, dream, mental prison, mirror image, major image, calm emotions, guidance, bless, bane, hideous laughter, confusion, crown of madness, befuddlement, geas, power word kill, power word pain, power word fortify, power word stun, Yolande's regal presence, antipathy/sympathy, blur, dominate beast, dominate monster, dominate person, dream, enthrall, mass suggestion, modify memory, sleep
+
+### Dunamancy
+
+#### Suggested Classes
+
+- Wizard: Chronurgy Magic (EGtW)
+- Wizard: Dunamancy Magic (EGtW)
+- Fighter: Echo Knight (EGtW)
+- Barbarian: Path of the Probable (Path of Fundamental Chaos from Critical Role)
+
+#### Feats
 
 
-### Additional Subclasses
 
-#### Psionics
+#### Spell List
 
-| Level | PB  | Psi Die | Focus Points | Spells Known | Features                    |
-| ----- | --- | ------- | ------------ | ------------ | --------------------------- |
-| 1st   | +2  | 1d6     | -            | 5            | Spellcasting, Psionic Power |
-| 2nd   | +2  | 1d6     | 2            | 6            | Psychic Focus               |
-| 3rd   | +2  | 1d6     | 3            | 7            | Telepathic Speech           |
-| 4th   | +2  | 1d6     | 4            | 9            | Ability Score Improvement   |
-| 5th   | +3  | 1d8     | 5            | 10           | Empowered Psionics          |
-| 6th   | +3  | 1d8     | 6            | 11           | Psychic Defenses            |
-| 7th   | +3  | 1d8     | 7            | 12           | Thought Form                |
-| 8th   | +3  | 1d8     | 8            | 13           | Ability Score Improvement   |
-| 9th   | +4  | 1d8     | 9            | 14           |                             |
-| 10th  | +4  | 1d8     | 10           | 16           | Empowered Focus             |
-| 11th  | +4  | 1d10    | 11           | 17           |                             |
-| 12th  | +4  | 1d10    | 12           | 17           | Ability Score Improvement   |
-| 13th  | +5  | 1d10    | 13           | 18           |                             |
-| 14th  | +5  | 1d10    | 14           | 18           | Thought Travel              |
-| 15th  | +5  | 1d10    | 15           | 19           |                             |
-| 16th  | +5  | 1d10    | 16           | 19           | Ability Score Improvement   |
-| 17th  | +6  | 1d12    | 17           | 20           |                             |
-| 18th  | +6  | 1d12    | 18           | 20           |                             |
-| 19th  | +6  | 1d12    | 19           | 20           |                             |
-| 20th  | +6  | 1d12    | 20           | 20           |                             |
-Spells: [[mind sliver]], mind spike, psychic lance, dissonant whispers, feeblemind, phantasmal force, phantasmal killer, psychic scream, shadow blade, staggering smite, synaptic static, Tasha's mind whip, weird, wrathful smite, mind blank, suggestion, command, friends, message, charm person, cause fear, fear, enemies abound, dream, mental prison, mirror image, major image, calm emotions, guidance, bless, bane, hideous laughter, confusion, crown of madness, befuddlement, geas, power word kill, power word pain, power word fortify, power word stun, Yolande's regal presence, antipathy/sympathy, blur, dominate beast, dominate monster, dominate person, dream, enthrall, mass suggestion, modify memory, sleep
 
-**Cantrips and Spells**. At 1st level, you know three spells of your choice from the psion spell list. You learn additional psion spells of your choice at higher levels, as shown in the Spells Known column of the Psion table. All psion spells can be cast at-will, just as cantrips, or powered up using Focus Points (starting at Psion 2nd level).
 
-**Spellcasting Ability**. Intelligence is your spellcasting ability for your psion spells, since you channel your spells through mental energy. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a psion spell you cast and when making an attack roll with one.
-- Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
-- Spell attack modifier = your proficiency bonus + your Intelligence modifier
+### Entropomancy
 
-1. **Spellcasting**
-You can cast any spell from the psion spell list, doing so psionically. When you do so, the spell doesn't require verbal, somatic, or material components that lack a gold cost. Because of this, the spell can't be seen being cast, for the purposes of spells such as *counterspell*.
+#### Suggested Classes
 
-1. **Psionic Power**
-You harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psi die, the starting size of which is a d6.
-If you roll the highest number on your Psi die, it decreases by one die size after the roll. This represents you burning through your psionic energy. For example, if the die is a d6 and you roll a 6, it becomes a d4. If it’s a d4 and you roll a 4, it becomes unusable until you finish a long rest.
-Whenever you finish a long rest, your Psi die resets to its starting size. When you reach certain levels in this class, the starting size of your Psi die increases: at 5th level (d8), 11th level (d10), and 17th level (d12).
-**Psi Replenishment**. As a bonus action, you can calm your mind for a moment and restore your Psi die to its starting size. You then can’t use Psi Replenishment again until you finish a long rest.
+- Sorcerer: Wild Magic
+- Wizard: Entropist (Deep Magic, Kobold Press)
+- Bard: College of Entropy (Deep Magic, Kobold Press)
+- Barbarian: Path of Wild Magic
 
-2. **Psychic Focus**
-When you cast a spell, you choose how much mental energy you channel into it. To do so, roll your Psi die. The result determines the maximum level at which the spell can be cast, requiring one Focus Point to be spent for each level. For example, a cantrip can always be cast for free, while a 2nd level spell always requires two Focus Points (and a roll of 2 or higher on the Psi die).
+### Hemomancy
 
-3. **Telepathic Speech**
-Starting at 3rd level, you can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). A creature can’t use this telepathy if it can’t speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don’t need to speak a common language to understand each other.
-The telepathic connection lasts for a number of minutes equal to the number rolled on your Psi die. It ends early if you are incapacitated or die or if you use this ability to form a connection with a different creature.
+#### Suggested Classes
 
-5. **Empowered Psionics**
-At 5th level, when you deal psychic or force damage with a psion spell, you can add your Intelligence modifier to the damage against one of the spell's targets.
-
-6. **Psychic Defenses**
-At 6th level, you gain resistance to psychic damage, and you have advantage on saving throws against being charmed or frightened.
-
-7. **Thought Form**
-At 7th level, you can use an action to magically transform your body into pure psionic energy. The transformation lasts for 10 minutes, until you use a bonus action to assume your normal form, or until you are incapacitated or die.
-While in thought form, you are a figure of luminous psychic energy. Your form can appear as anything you wish, but it is obviously magical, is the same size as you, and sheds dim light in a 5-foot radius. Any other equipment you are wearing or carrying transforms with you and melds into your thought form. You gain immunity to psychic damage and resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
-You can transform using this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
-
-10. **Empowered Focus**
-Starting at 10th level, you can maintain concentration on more than one spell from the psion spell list, by spending one Focus Point for each additional spell being concentrated on. When losing concentration while concentrating on more than one spell, you pick which spell to lose. You can optionally can use any mental ability score (in place of Constitution) for concentration checks.
-
-14. **Thought Travel**
-Starting at 14th level, while using your Thought Form, you have a flying (hover) speed equal to your walking speed, and you can move through other creatures and objects as if they were difficult terrain.
-You take 1d10 force damage if you end your turn inside an object. If you return to your normal form while inside an object, you are shunted to the nearest unoccupied space, and you take 1d10 force damage for every 5 feet traveled.
-
-##### Aberrant Mind (Sorcerer)
-
-##### Psi Warrior (Fighter)
-
-##### Soulknife (Rogue)
-
-##### College of Whispers (Bard)
-
-- May need to re-flavor some to make it more psionic
-
-#### Dunamancy
-
-##### Chronurgist (Wizard)
-
-- Wildemount
-
-##### Echo Knight (Fighter)
-
-- Wildemount
-
-##### Path of the Probable (Barbarian)
-
-- Use Path of Fundamental Chaos from Critical Role (Ashton Greymoore) as a base
-
-##### ??? (Monk)
-
-#### Entropomancy
-
-##### Wild Magic (Sorcerer)
-
-##### Entropist (Wizard)
-
-- Deep Magic from Kobold Press
-
-##### College of Chaos (Bard)
-
-- Deep Magic from Kobold Press (College of Entropy)
-
-##### Path of Wild Magic (Barbarian)
-
-#### Hemomancy
-
-##### Blood Hunter (Ranger)
-
-- Wildemount
-
-##### Blood Mage (Wizard?)
-
-- Based on Strixhaven Blood Mage monster stat block
-
-##### ??? (Warlock)
+- Ranger: Blood Hunter (EGtW)
+- Wizard: Blood Mage (based on Strixhaven's Blood Mage monster stat block)
 
 ### DM Notes and Random Tables
 
@@ -240,5 +203,6 @@ You take 1d10 force damage if you end your turn inside an object. If you return 
 * The Buddhist concept of water becoming a wave and then returning to the water, but the water always being the same - as discussed in The Good Place.
 * https://www.reddit.com/r/UnearthedArcana/comments/dbnf5e/13_schools_of_magic_a_worldspecific_list_with_lore/
 * Psionics: https://media.wizards.com/2020/dnd/downloads/UA2020_PsionicOptions.pdf
+* Psionics: https://www.enworld.org/threads/good-psionics-themed-wizard-subclass.682849/
 * Ability Damage: https://forums.giantitp.com/showthread.php?655915-Ability-Damage-Resource-2-0
 * Ability Damage: https://www.dandwiki.com/wiki/SRD:Ability_Score_Loss
