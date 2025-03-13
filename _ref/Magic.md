@@ -70,7 +70,7 @@ While I don't suggest to add any spells or move any from existing schools, that 
 The spells below take on the "Artifice" tag, along with their usual school of magic.
 
 - **Cantrip**: Acid Splash, Booming Blade, Create Bonfire, Dancing Lights, Fire Bolt, Frostbite, Green-Flame Blade, Light, Lightning Lure, Mage Hand, Magic Stone, Mending, Poison Spray, Prestidigitation, Ray of Frost, Resistance, Shocking Grasp, Spare the Dying, Sword Burst, Thorn Whip, Thunderclap
-- **1st-level**: Absorb Elements, Alarm, Catapult, Cure Wounds, Detect Magic, Disguise Self, Expeditious Retreat, Faerie Fire, False Life, Feather Fall, Grease, Identify, Jump, Longstrider, Purify Food and Drink, Sanctuary, Snare, Tasha's Caustic Brew
+- **1st-level**: Absorb Elements, Alarm, Catapult, Cure Wounds, Detect Magic, Disguise Self, Expeditious Retreat, Faerie Fire, Feather Fall, Grease, Identify, Jump, Longstrider, Purify Food and Drink, Sanctuary, Snare, Tasha's Caustic Brew
 - **2nd-level**: Aid, Air Bubble, Alter Self, Arcane Lock, Continual Flame, Darkvision, Enhance Ability, Enlarge/Reduce, Heat Metal, Invisibility, Kinetic Jaunt, Lesser Restoration, Levitate, Magic Mouth, Magic Weapon, Protection from Poison, Pyrotechnics, Rope Trick, See Invisibility, Skywrite, Spider Climb, Web
 - **3rd-level**: Ashardalon's Stride, Blink, Catnap, Create Food and Water, Dispel Magic, Elemental Weapon, Flame Arrows, Fly, Glyph of Warding, Intellect Fortress, Protection from Energy, Revivify, Tiny Servant, Water Breathing, Water Walk
 - **4th-level**: Arcane Eye, Elemental Bane, Fabricate, Freedom of Movement, Leomund's Secret Chest, Mordenkainen's Faithful Hound, Mordenkainen's Private Sanctum, Otiluke's Resilient Sphere, Stone Shape, Stoneskin, Summon Construct
@@ -81,7 +81,7 @@ The spells below take on the "Artifice" tag, along with their usual school of ma
 It is possible to create a psionic character within the structure of the existing rules by following the steps below (and incorporating a few homebrew feats):
 - **Psionic Classes**. Take an existing class that comes with Psionics (such as one of the suggested ones below).
 - **Psionic Feats**. A player can willingly take the Psion feat whenever they would take a general feat (or ability score improvement) from their class. They may also take one of the other feats listed below (including two from TCoE).
-- **Spell List Switch**. A player character who is already a spellcaster can opt to just replace their class’ spell list with the Psionic Spell list (with GM approval). Doing so grants the player with some incredible Psionic spells, but they may have to sacrifice some of their class’ core spells.
+- **Spell List Switch**. A player character who is already a spellcaster replaces their class’ spell list with the Psionic Spell list. Doing so grants the player some incredible Psionic spells, but they may have to sacrifice some of their class’ core spells.
 
 #### Suggested Classes
 
@@ -95,7 +95,7 @@ It is possible to create a psionic character within the structure of the existin
 #### Feats
 
 ##### Psionics
-**Prerequisite**: Intelligence, Wisdom, or Charisma score of 13+
+**Prerequisite**: Spellcasting Feature, Intelligence, Wisdom, or Charisma score of 13+
 
 You awaken to your psionic potential, which enhances your mind and body, granting you the following benefits:
 - Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20. Your psionic ability modifier will usually be the highest score of the 3.
@@ -133,6 +133,11 @@ You awaken the ability to mentally connect with others, granting you the followi
 - You can speak telepathically to any creature you can see within 60 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
 - You can cast the *[[detect thoughts]]* spell, requiring no spell slot or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 2nd level or higher, you can cast this spell with them.
 
+##### Thought Shield
+**Prerequisite**: Psionics feat
+
+Your thoughts can't be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
+
 #### Spell List
 
 The spells below take on the "Psionic" tag, along with their usual school of magic.
@@ -162,7 +167,7 @@ The spells below take on the "Psionic" tag, along with their usual school of mag
 ##### Dunamancy
 **Prerequisite**: Intelligence, Wisdom, or Charisma score of 13+
 
-You replace your class’ spell list with spells from the Dunamancy spell list.
+If you have a class spell list, you replace it with spells from the Dunamancy spell list.
 
 In addition, your failures create stored potential, which you can unleash at crucial moments, granting you the following benefits:
 - You gain a Potential Pool represented by a number of d4s.
@@ -206,7 +211,7 @@ The spells below take on the "Dunamancy" tag, along with their usual school of m
 ##### Entropomancy
 **Prerequisite**: Intelligence, Wisdom, or Charisma score of 13+
 
-You replace your class’ spell list with spells from the Entropomancy spell list.
+If you have a class spell list, you replace it with spells from the Entropomancy spell list.
 
 In addition, you exist in multiple potential states at once and can tap into them. At the start of your turn, roll a d6 and set it aside as your Flux Die. You can use this die in one of two ways before the start of your next turn:
 - Replace a d20 roll you make (attack, ability check, or save) with the Flux Die roll +10.
@@ -219,6 +224,13 @@ Once used, roll a new Flux Die at the start of your next turn.
 You gain more control over the chaos all around you, granting you the following benefits:
 - Increase your Dexterity score by 1, to a maximum of 20.
 - If your Flux Die matches the d20 roll you are replacing, you can roll a new Flux Die immediately, potentially chaining effects.
+
+##### Entropic Ward
+**Prerequisite**: Entropomancy feat
+
+You learn to magically ward yourself against attack and to turn an enemy's failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.
+
+You can use this feature a number of times equal to your Proficiency Bonus, and all uses reset after a long rest.
 
 #### Spell List
 
@@ -245,14 +257,14 @@ The spells below take on the "Entropomancy" tag, along with their usual school o
 #### Feats
 
 ##### Sangromancy
-**Prerequisite**: Constitution score of 13+
+**Prerequisite**: Spellcasting or Pact Magic Feature, Constitution score of 13+
 
-You replace your class’ spell list with spells from the Sangromancy spell list.
+You augment your class’ spell list with spells from the Sangromancy spell list.
 
 In addition, you are able to use your own life essence to channel your magical abilities, granting you the following benefits:
 - Whenever your current hit points are below your hit point maximum, you can use your own body as an arcane focus.
 - When casting a spell that requires a costly material component, you can forego the component by taking 1d10 necrotic damage per 50 gp of the cost of the component (minimum 1d10). This damage can’t be reduced in any way. If this damage reduces you to 0 hit points, the spell fails but the spell slot is not expended.
-- You can spend hit dice in place of spell slots at a one-to-one ratio. Meaning that you're able to cast a 2nd-level spell without expending a spell slot by expending two hit dice instead. Expended hit dice are no longer available to use for healing during a short rest, and are replenished as usual after a long rest.
+- You can spend hit dice in place of spell slots at a one-to-one ratio. Meaning that you're able to cast a 2nd-level spell without expending a spell slot by expending two hit dice instead. When doing so, roll the hit dice being expended and take the amount of damage rolled. Expended hit dice are no longer available to use for healing during a short rest, and are replenished as usual after a long rest.
 
 ##### Internal Fortitude
 **Prerequisite**: Sangromancy feat
@@ -260,19 +272,33 @@ In addition, you are able to use your own life essence to channel your magical a
 You gain a greater awareness of the blood flowing through your veins and of the heart that pumps it — and some measure of control over both — granting you the following benefits:
 - Increase your Constitution score by 1, to a maximum of 20.
 - When you are subjected to a disease or poison effect that allows a Constitution saving throw to take only half damage, you instead take no damage on a successful save and only half damage on a failed one.
+- When you cast a Sangromancy spell, you regain a number of hit points equal to the level of the spell.
+
+##### Blood for Blood
+**Prerequisite**: Sangromancy feat
+
+You become more familiar with the power that blood carries, granting you the following benefits:
+- When you deal damage to a creature with a spell you cast, you can expend and roll a hit die to add its result to the damage dealt to that creature.
+- Should you possess the blood (from a wound of at least 1 HP) of a target, that target has disadvantage on any saves made against your spells and your spell attack rolls are made with advantage.
+
+##### Red Renewal
+**Prerequisite**: Sangromancy feat
+
+When you finish a short rest, you can choose expended hit dice to recover. When you do, choose a number of expended hit dice equal to half your level and regain them. You regain an equivalent number of dice from your Full Blooded feature. Once you use this feature, you can’t use it again until you finish a long rest.
 
 #### Spell List
 
 The spells below take on the "Sangromancy" tag, along with their usual school of magic.
 
-- Cantrip: Blood Tide*, Chill Touch
-- 1st-level: Arms of Hadar, Blood Scarab*, Bloody Hands*, Bloody Smite*, Stanch*, Weapon of Blood*
-- 2nd-level: Blood Lure*, Bloodshot*, Caustic Blood*, Wither and Bloom
-- 3rd-level: Blood Armor*, Vampiric Touch, Vital Mark*
-- 4th-level: Black Tentacles, Blood and Steel*, Blood Puppet*, Blood Spoor*, Boiling Blood*
-- 5th-level: Antilife Shell, Cruor of Visions*, Exsanguinate*, Exsanguinating Cloud*, Sanguine Horror*
-- 6th-level: Create Homunculus, Eyebite
-- 7th-level: Aspect of the Dragon*, Finger of Death, Legend Killer*
+- **Cantrip**: Blood Tide*, Chill Touch
+- **1st-level**: Arms of Hadar, Blood Scarab*, Bloody Hands*, Bloody Smite*, False Life, Stanch*, Weapon of Blood*
+- **2nd-level**: Blood Lure*, Bloodshot*, Caustic Blood*, Wither and Bloom
+- **3rd-level**: Blood Armor*, Vampiric Touch, Vital Mark*
+- **4th-level**: Black Tentacles, Blood and Steel*, Blood Puppet*, Blood Spoor*, Boiling Blood*
+- **5th-level**: Antilife Shell, Cruor of Visions*, Exsanguinate*, Exsanguinating Cloud*, Sanguine Horror*
+- **6th-level**: Create Homunculus, Eyebite
+- **7th-level**: Aspect of the Dragon*, Finger of Death, Legend Killer*
+- **8th-level**: Abi-Dalzim's Horrid Wilting
 
 ### DM Notes and Random Tables
 

@@ -66,9 +66,23 @@
               "icon": "lucide-file",
               "title": "1-03  Strixhaven Year 2, Term 1"
             }
+          },
+          {
+            "id": "12da2a8d03e7ff6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ref/Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magic"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
+                "file": "_ref/Magic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-03  Strixhaven Year 2, Term 1"
+              "title": "Outline of Magic"
             }
           },
           {
@@ -156,10 +170,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md"
+                "file": "_ref/Magic.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1-03  Strixhaven Year 2, Term 1"
+              "title": "File properties for Magic"
             }
           },
           {
@@ -244,11 +258,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "50973f844fa9fd3c",
+  "active": "12da2a8d03e7ff6c",
   "lastOpenFiles": [
     "sessions/2025-03-17.md",
-    "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
     "_ref/Magic.md",
+    "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
     "creatures/Malakar Draksang.md",
     "creatures/Zaelith T'Kaarn.md",
     "adventures/C04 The Nature of Magic.md",
