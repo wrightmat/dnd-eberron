@@ -139,7 +139,7 @@ The spells below take on the "Psionic" tag, along with their usual school of mag
 
 - **Cantrip**: Friends, Message, [[Mind Sliver]]
 - **1st-level**: Cause Fear, Charm Person, Command, Dissonant Whispers, Hideous Laughter, Sleep, Wrathful Smite
-- **2nd-level**: Calm Emotions, Crown of Madness, Mind Spike, Phantasmal Force, Shadow Blade, Suggestion, Tasha's Mind Whip
+- **2nd-level**: Calm Emotions, Crown of Madness, Detect Thoughts, Mind Spike, Phantasmal Force, Shadow Blade, Suggestion, Tasha's Mind Whip
 - **3rd-level**: Enemies Abound, Fear, Major Image
 - **4th-level**: Dominate Beast, Phantasmal Killer, Psychic Lance, Staggering Smite
 - **5th-level**: Dominate Person, Dream, Geas, Modify Memory, Synaptic Static, Telekinesis, Yolande's Regal Presence
@@ -179,16 +179,16 @@ You can use this ability a number of times equal to your proficiency bonus, and 
 
 The spells below take on the "Dunamancy" tag, along with their usual school of magic.
 
-- Cantrip: Guidance, Sapping Sting
-- 1st-level: Bane, Bless, Gift of Alacrity, Magnify Gravity
-- 2nd-level: Fortune's Favor, Gentle Repose, Immovable Object, Mirror Image, Wristpocket
-- 3rd-level: Haste, Pulse Wave, Slow
-- 4th-level: Gate Seal, Gravity Sinkhole
-- 5th-level: Banishing Smite, Passwall, Temporal Shunt
-- 6th-level: Forbiddance, Gravity Fissure, Scatter
-- 7th-level: Forcecage, Project Image, Reverse Gravity, Tether Essence
-- 8th-level: Dark Star, Demiplane, Maze, Reality Break
-- 9th-level: Gate, Ravenous Void, Time Ravage, Time Stop
+- Cantrip: Guidance, Quicken*, Sapping Sting
+- 1st-level: Anticipate Weakness*, Auspicious Warning*, Bane, Bless, Chronal Lance*, Foretell Distraction*, Gift of Alacrity, Magnify Gravity, Seer's Reaction*
+- 2nd-level: Anticipate Attack*, Decelerate*, Fortune's Favor, Gentle Repose, Immovable Object, Mirror Image, Time Step*, Wristpocket
+- 3rd-level: Accelerate*, Anticipate Arcana*, Haste, Pulse Wave, Slow
+- 4th-level: Flickering Fate*, Gate Seal, Gravity Sinkhole, Quick Time*, Reset*, Scry Ambush*, Time Vortex*
+- 5th-level: Banishing Smite, Passwall, Temporal Shunt, Wall of Time*
+- 6th-level: Forbiddance, Gravity Fissure, Scatter, Time Loop*
+- 7th-level: Alter Time Flow*, Forcecage, Project Image, Ravages of Time*, Reverse Gravity, Right the Stars*, Tether Essence, Time Jaunt*
+- 8th-level: Dark Star, Demiplane, Maze, Reality Break, Time Jump*, Time Slippage*
+- 9th-level: Gate, Ravenous Void, Time Ravage, Time Stop, Time in a Bottle*
 
 ### Entropomancy
 
@@ -219,14 +219,14 @@ If your Flux Die matches the d20 roll you are replacing, you can roll a new Flux
 The spells below take on the "Entropomancy" tag, along with their usual school of magic.
 
 - Cantrip: Control Flames, Gust
-- 1st-level: Chaos Bolt, Color Spray, Magic Missile, Zephyr Strike
-- 2nd-level: Blur, Enthrall, Vortex Warp
-- 3rd-level: Dispel Magic, Hunger of Hadar, Hypnotic Pattern
+- 1st-level: Chaos Bolt, Color Spray, Magic Missile, Undermine Armor*, Unruly Item*, Zephyr Strike
+- 2nd-level: Blur, Enthrall, Frenzied Bolt*, Mist of Wonders*, Timely Distraction*, Vortex Warp
+- 3rd-level: Dispel Magic, Entropic Damage Field*, Hunger of Hadar, Hypnotic Pattern
 - 4th-level: Confusion, Control Water, Polymorph
-- 5th-level: Control Winds, Steel Wind Strike, 
-- 6th-level: Disintegrate, 
-- 7th-level: Power Word Fortify, Power Word Pain, Prismatic Spray, Teleport
-- 8th-level: Control Weather, Maddening Darkness
+- 5th-level: Control Winds, Steel Wind Strike
+- 6th-level: Chaotic World*, Disintegrate, Misfortune*
+- 7th-level: Power Word Fortify, Power Word Pain, Prismatic Spray, Teleport, Uncontrollable Transformation*, Wild Trajectory*
+- 8th-level: Control Weather, Maddening Darkness, Paragon of Chaos*
 - 9th-level: Mass Polymorph, Power Word Heal, Power Word Kill, Prismatic Wall, Storm of Vengeance
 
 ### Sangromancy
@@ -236,18 +236,35 @@ The spells below take on the "Entropomancy" tag, along with their usual school o
 - Ranger: Blood Hunter (EGtW)
 - Wizard: Blood Mage (based on Strixhaven's Blood Mage monster stat block)
 
+#### Feats
+
+##### Sangromancy
+**Prerequisite**: Constitution score of 13+
+
+You are able to use your own life essence to channel your magical abilities, granting you the following benefits:
+- Whenever your current hit points are below your hit point maximum, you can use your own body as an arcane focus.
+- When casting a spell that requires a costly material component, you can forego the component by taking 1d10 necrotic damage per 50 gp of the cost of the component (minimum 1d10). This damage can’t be reduced in any way. If this damage reduces you to 0 hit points, the spell fails but the spell slot is not expended.
+- You can spend hit dice in place of spell slots at a one-to-one ratio. Meaning that you're able to cast a 2nd-level spell without expending a spell slot by expending two hit dice instead. Expended hit dice are no longer available to use for healing during a short rest, and are replenished as usual after a long rest.
+
+##### Internal Fortitude
+**Prerequisite**: Sangromancy feat
+
+You gain a greater awareness of the blood flowing through your veins and of the heart that pumps it — and some measure of control over both — granting you the following benefits:
+- Increase your Constitution score by 1, to a maximum of 20.
+- When you are subjected to a disease or poison effect that allows a Constitution saving throw to take only half damage, you instead take no damage on a successful save and only half damage on a failed one.
+
 #### Spell List
 
 The spells below take on the "Sangromancy" tag, along with their usual school of magic.
 
-- Cantrip: 
-- 1st-level: arms of hadar
-- 2nd-level: 
-- 3rd-level: 
-- 4th-level: black tentacles, 
-- 5th-level: antilife shell
-- 6th-level: create homunculus
-- 7th-level: finger of death, 
+- Cantrip: Blood Tide*
+- 1st-level: Arms of Hadar, Blood Scarab*, Bloody Hands*, Bloody Smite*, Stanch*, Weapon of Blood*
+- 2nd-level: Blood Lure*, Bloodshot*, Caustic Blood*
+- 3rd-level: Blood Armor*, Vital Mark*
+- 4th-level: Black Tentacles, Blood and Steel*, Blood Puppet*, Blood Spoor*, Boiling Blood*
+- 5th-level: Antilife Shell, Cruor of Visions*, Exsanguinate*, Exsanguinating Cloud*, Sanguine Horror*
+- 6th-level: Create Homunculus
+- 7th-level: Aspect of the Dragon*, Finger of Death
 - 8th-level: 
 - 9th-level: 
 

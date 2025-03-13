@@ -27,7 +27,7 @@ cr: 14
 spells:
   - "As an action, Extus casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):"
   - At will: Detect Magic, Detect Thoughts, Disguise Self, Invisibility, Light, Mage Armor (included in AC), Mage Hand, Prestidigitation, Chaos Bolt
-  - 2/Day Each: Entropic Damage Field, Frenzied Bolt, Mist of Wonders, Timely Distraction, Undermind Armor, Unruly Item, Wild Trajectory
+  - 2/Day Each: Entropic Damage Field, Frenzied Bolt, Mist of Wonders, Timely Distraction, Undermine Armor, Unruly Item, Wild Trajectory
   - 1/Day Each: Chaotic World, Misfortune, Paragon of Chaos, Uncontrollable Transformation
 traits:
   - name: Legendary Resistance (3/Day).
