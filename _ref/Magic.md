@@ -97,10 +97,10 @@ It is possible to create a psionic character within the structure of the existin
 ##### Psionics
 **Prerequisite**: Intelligence, Wisdom, or Charisma score of 13+
 
-You awaken to your psionic potential, which enhances your mind and body.
+You awaken to your psionic potential, which enhances your mind and body, granting you the following benefits:
 - Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20. Your psionic ability modifier will usually be the highest score of the 3.
 - You harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is 1d6. You gain one.
-- You may completely replace your class’ spell list with the Psionic spell list. When you do so, the spells don't require verbal, somatic, or material components that lack a gold cost. Because of this, the spells can't be seen being cast, for the purposes of spells such as *counterspell*.
+- You replace your class’ spell list with the Psionic spell list. When you do so, the spells don't require verbal, somatic, or material components that lack a gold cost. Because of this, the spells can't be seen being cast, for the purposes of spells such as *[[counterspell]]*.
 
 **Psionic Talent Options**. You can use your Psionic Talent die once on each of your turns in the following ways:
 - Psi-Boosted Ability. When you make an ability check, you can roll your Psionic Talent die and add the number rolled to the check. You can choose to do so before or after rolling the d20, but before you know whether the check succeeded or failed.
@@ -137,12 +137,12 @@ You awaken the ability to mentally connect with others, granting you the followi
 
 The spells below take on the "Psionic" tag, along with their usual school of magic.
 
-- **Cantrip**: Friends, Message, [[Mind Sliver]]
+- **Cantrip**: Encode Thoughts, Friends, Message, [[Mind Sliver]]
 - **1st-level**: Cause Fear, Charm Person, Command, Dissonant Whispers, Hideous Laughter, Sleep, Wrathful Smite
 - **2nd-level**: Calm Emotions, Crown of Madness, Detect Thoughts, Mind Spike, Phantasmal Force, Shadow Blade, Suggestion, Tasha's Mind Whip
-- **3rd-level**: Enemies Abound, Fear, Major Image
+- **3rd-level**: Enemies Abound, Fear, Major Image, Sending
 - **4th-level**: Dominate Beast, Phantasmal Killer, Psychic Lance, Staggering Smite
-- **5th-level**: Dominate Person, Dream, Geas, Modify Memory, Synaptic Static, Telekinesis, Yolande's Regal Presence
+- **5th-level**: Contact Other Plane, Dominate Person, Dream, Geas, Legend Lore, Modify Memory, Synaptic Static, Telekinesis, Yolande's Regal Presence
 - **6th-level**: Mass Suggestion, Mental Prison
 - **7th-level**: Dream of the Blue Veil, Mirage Arcane
 - **8th-level**: Antipathy/Sympathy, Befuddlement, Dominate Monster, Feeblemind, Mind Blank, Power Word Stun
@@ -162,7 +162,9 @@ The spells below take on the "Psionic" tag, along with their usual school of mag
 ##### Dunamancy
 **Prerequisite**: Intelligence, Wisdom, or Charisma score of 13+
 
-Your failures create stored potential, which you can unleash at crucial moments.
+You replace your class’ spell list with spells from the Dunamancy spell list.
+
+In addition, your failures create stored potential, which you can unleash at crucial moments, granting you the following benefits:
 - You gain a Potential Pool represented by a number of d4s.
 - Building Potential: Whenever you miss an attack, fail a saving throw, or fail an ability check, add one d4 to your Potential Pool (max of your Proficiency Bonus).
 - Unleashing Potential: Before rolling an attack roll, ability check, or saving throw, you can spend any number of dice from the Potential Pool to add them to your roll.
@@ -182,13 +184,13 @@ The spells below take on the "Dunamancy" tag, along with their usual school of m
 - Cantrip: Guidance, Quicken*, Sapping Sting
 - 1st-level: Anticipate Weakness*, Auspicious Warning*, Bane, Bless, Chronal Lance*, Foretell Distraction*, Gift of Alacrity, Magnify Gravity, Seer's Reaction*
 - 2nd-level: Anticipate Attack*, Decelerate*, Fortune's Favor, Gentle Repose, Immovable Object, Mirror Image, Time Step*, Wristpocket
-- 3rd-level: Accelerate*, Anticipate Arcana*, Haste, Pulse Wave, Slow
+- 3rd-level: Accelerate*, Anticipate Arcana*, Counterspell, Haste, Pulse Wave, Slow
 - 4th-level: Flickering Fate*, Gate Seal, Gravity Sinkhole, Quick Time*, Reset*, Scry Ambush*, Time Vortex*
 - 5th-level: Banishing Smite, Passwall, Temporal Shunt, Wall of Time*
 - 6th-level: Forbiddance, Gravity Fissure, Scatter, Time Loop*
 - 7th-level: Alter Time Flow*, Forcecage, Project Image, Ravages of Time*, Reverse Gravity, Right the Stars*, Tether Essence, Time Jaunt*
 - 8th-level: Dark Star, Demiplane, Maze, Reality Break, Time Jump*, Time Slippage*
-- 9th-level: Gate, Ravenous Void, Time Ravage, Time Stop, Time in a Bottle*
+- 9th-level: Gate, Ravenous Void, Time Ravage, Time Stop, Time in a Bottle*, Wish
 
 ### Entropomancy
 
@@ -204,7 +206,9 @@ The spells below take on the "Dunamancy" tag, along with their usual school of m
 ##### Entropomancy
 **Prerequisite**: Intelligence, Wisdom, or Charisma score of 13+
 
-You exist in multiple potential states at once and can tap into them. At the start of your turn, roll a d6 and set it aside as your Flux Die. You can use this die in one of two ways before the start of your next turn:
+You replace your class’ spell list with spells from the Entropomancy spell list.
+
+In addition, you exist in multiple potential states at once and can tap into them. At the start of your turn, roll a d6 and set it aside as your Flux Die. You can use this die in one of two ways before the start of your next turn:
 - Replace a d20 roll you make (attack, ability check, or save) with the Flux Die roll +10.
 - Replace an enemy's d20 roll (attack against you or saving throw against your spell) with the Flux Die roll.
 Once used, roll a new Flux Die at the start of your next turn.
@@ -212,22 +216,24 @@ Once used, roll a new Flux Die at the start of your next turn.
 ##### Cascading Chaos
 **Prerequisite**: Entropomancy feat
 
-If your Flux Die matches the d20 roll you are replacing, you can roll a new Flux Die immediately, potentially chaining effects.
+You gain more control over the chaos all around you, granting you the following benefits:
+- Increase your Dexterity score by 1, to a maximum of 20.
+- If your Flux Die matches the d20 roll you are replacing, you can roll a new Flux Die immediately, potentially chaining effects.
 
 #### Spell List
 
 The spells below take on the "Entropomancy" tag, along with their usual school of magic.
 
 - Cantrip: Control Flames, Gust
-- 1st-level: Chaos Bolt, Color Spray, Magic Missile, Undermine Armor*, Unruly Item*, Zephyr Strike
-- 2nd-level: Blur, Enthrall, Frenzied Bolt*, Mist of Wonders*, Timely Distraction*, Vortex Warp
-- 3rd-level: Dispel Magic, Entropic Damage Field*, Hunger of Hadar, Hypnotic Pattern
-- 4th-level: Confusion, Control Water, Polymorph
-- 5th-level: Control Winds, Steel Wind Strike
+- 1st-level: Chaos Bolt, Color Spray, Ill-Fated Word*, Magic Missile, Roaming Pain*, Undermine Armor*, Unruly Item*, Zephyr Strike
+- 2nd-level: Bad Timing*, Blur, Chaotic Vitality*, Elemental Twist*, Enthrall, Frenzied Bolt*, Mist of Wonders*, Shifting the Odds*, Timely Distraction*, Vortex Warp
+- 3rd-level: Calm of the Storm*, Dispel Magic, Entropic Damage Field*, Hunger of Hadar, Hypnotic Pattern, Surge Dampener*
+- 4th-level: Chaotic Form*, Confusion, Control Water, Fluctuating Alignment*, Polymorph, Wild Shield*
+- 5th-level: Babble*, Control Winds, Mass Surge Dampener*, Steel Wind Strike
 - 6th-level: Chaotic World*, Disintegrate, Misfortune*
 - 7th-level: Power Word Fortify, Power Word Pain, Prismatic Spray, Teleport, Uncontrollable Transformation*, Wild Trajectory*
-- 8th-level: Control Weather, Maddening Darkness, Paragon of Chaos*
-- 9th-level: Mass Polymorph, Power Word Heal, Power Word Kill, Prismatic Wall, Storm of Vengeance
+- 8th-level: Control Weather, Maddening Darkness, Paragon of Chaos*, Roaming Winds of Limbo*
+- 9th-level: Mass Polymorph, Power Word Heal, Power Word Kill, Prismatic Wall, Storm of Vengeance, Unshackled Magic*
 
 ### Sangromancy
 
@@ -241,7 +247,9 @@ The spells below take on the "Entropomancy" tag, along with their usual school o
 ##### Sangromancy
 **Prerequisite**: Constitution score of 13+
 
-You are able to use your own life essence to channel your magical abilities, granting you the following benefits:
+You replace your class’ spell list with spells from the Sangromancy spell list.
+
+In addition, you are able to use your own life essence to channel your magical abilities, granting you the following benefits:
 - Whenever your current hit points are below your hit point maximum, you can use your own body as an arcane focus.
 - When casting a spell that requires a costly material component, you can forego the component by taking 1d10 necrotic damage per 50 gp of the cost of the component (minimum 1d10). This damage can’t be reduced in any way. If this damage reduces you to 0 hit points, the spell fails but the spell slot is not expended.
 - You can spend hit dice in place of spell slots at a one-to-one ratio. Meaning that you're able to cast a 2nd-level spell without expending a spell slot by expending two hit dice instead. Expended hit dice are no longer available to use for healing during a short rest, and are replenished as usual after a long rest.
@@ -257,16 +265,14 @@ You gain a greater awareness of the blood flowing through your veins and of the 
 
 The spells below take on the "Sangromancy" tag, along with their usual school of magic.
 
-- Cantrip: Blood Tide*
+- Cantrip: Blood Tide*, Chill Touch
 - 1st-level: Arms of Hadar, Blood Scarab*, Bloody Hands*, Bloody Smite*, Stanch*, Weapon of Blood*
-- 2nd-level: Blood Lure*, Bloodshot*, Caustic Blood*
-- 3rd-level: Blood Armor*, Vital Mark*
+- 2nd-level: Blood Lure*, Bloodshot*, Caustic Blood*, Wither and Bloom
+- 3rd-level: Blood Armor*, Vampiric Touch, Vital Mark*
 - 4th-level: Black Tentacles, Blood and Steel*, Blood Puppet*, Blood Spoor*, Boiling Blood*
 - 5th-level: Antilife Shell, Cruor of Visions*, Exsanguinate*, Exsanguinating Cloud*, Sanguine Horror*
-- 6th-level: Create Homunculus
-- 7th-level: Aspect of the Dragon*, Finger of Death
-- 8th-level: 
-- 9th-level: 
+- 6th-level: Create Homunculus, Eyebite
+- 7th-level: Aspect of the Dragon*, Finger of Death, Legend Killer*
 
 ### DM Notes and Random Tables
 
