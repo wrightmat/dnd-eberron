@@ -259,12 +259,19 @@ The spells below take on the "Entropomancy" tag, along with their usual school o
 ##### Sangromancy
 **Prerequisite**: Spellcasting or Pact Magic Feature, Constitution score of 13+
 
-You augment your class’ spell list with spells from the Sangromancy spell list.
+You can augment your class’ spell list with spells from the Sangromancy spell list.
 
 In addition, you are able to use your own life essence to channel your magical abilities, granting you the following benefits:
 - Whenever your current hit points are below your hit point maximum, you can use your own body as an arcane focus.
 - When casting a spell that requires a costly material component, you can forego the component by taking 1d10 necrotic damage per 50 gp of the cost of the component (minimum 1d10). This damage can’t be reduced in any way. If this damage reduces you to 0 hit points, the spell fails but the spell slot is not expended.
 - You can spend hit dice in place of spell slots at a one-to-one ratio. Meaning that you're able to cast a 2nd-level spell without expending a spell slot by expending two hit dice instead. When doing so, roll the hit dice being expended and take the amount of damage rolled. Expended hit dice are no longer available to use for healing during a short rest, and are replenished as usual after a long rest.
+
+##### Blood for Blood
+**Prerequisite**: Sangromancy feat
+
+You become more familiar with the power that blood carries, granting you the following benefits:
+- When you deal damage to a creature with a spell you cast, you can expend and roll a hit die to add its result to the damage dealt to that creature.
+- Should you possess the blood (from a wound of at least 1 HP) of a target, that target has disadvantage on any saves made against your spells and your spell attack rolls are made with advantage.
 
 ##### Internal Fortitude
 **Prerequisite**: Sangromancy feat
@@ -274,17 +281,13 @@ You gain a greater awareness of the blood flowing through your veins and of the 
 - When you are subjected to a disease or poison effect that allows a Constitution saving throw to take only half damage, you instead take no damage on a successful save and only half damage on a failed one.
 - When you cast a Sangromancy spell, you regain a number of hit points equal to the level of the spell.
 
-##### Blood for Blood
+##### Regenerative
 **Prerequisite**: Sangromancy feat
 
-You become more familiar with the power that blood carries, granting you the following benefits:
-- When you deal damage to a creature with a spell you cast, you can expend and roll a hit die to add its result to the damage dealt to that creature.
-- Should you possess the blood (from a wound of at least 1 HP) of a target, that target has disadvantage on any saves made against your spells and your spell attack rolls are made with advantage.
-
-##### Red Renewal
-**Prerequisite**: Sangromancy feat
-
-When you finish a short rest, you can choose expended hit dice to recover. When you do, choose a number of expended hit dice equal to half your level and regain them. You regain an equivalent number of dice from your Full Blooded feature. Once you use this feature, you can’t use it again until you finish a long rest.
+You have the ability to heal unusually quickly. You gain the following benefits:
+- Increase your Constitution score by 1, to a maximum of 20.
+- As a reaction when you take damage that doesn’t reduce you to 0 hit points, you can expend and roll 1 hit die. You regain hit points equal to the result of the roll + your Constitution modifier.
+- When you expend a hit die to regain hit points and roll the maximum, you can roll that hit die 1 additional time and add the result to the amount of hit points you regain.
 
 #### Spell List
 
@@ -292,7 +295,7 @@ The spells below take on the "Sangromancy" tag, along with their usual school of
 
 - **Cantrip**: Blood Tide*, Chill Touch
 - **1st-level**: Arms of Hadar, Blood Scarab*, Bloody Hands*, Bloody Smite*, False Life, Stanch*, Weapon of Blood*
-- **2nd-level**: Blood Lure*, Bloodshot*, Caustic Blood*, Wither and Bloom
+- **2nd-level**: Arcane Vigor, Blood Lure*, Bloodshot*, Caustic Blood*, Wither and Bloom
 - **3rd-level**: Blood Armor*, Vampiric Touch, Vital Mark*
 - **4th-level**: Black Tentacles, Blood and Steel*, Blood Puppet*, Blood Spoor*, Boiling Blood*
 - **5th-level**: Antilife Shell, Cruor of Visions*, Exsanguinate*, Exsanguinating Cloud*, Sanguine Horror*
