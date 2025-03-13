@@ -94,7 +94,7 @@ It is possible to create a psionic character within the structure of the existin
 
 #### Feats
 
-##### Psion
+##### Psionics
 **Prerequisite**: Intelligence, Wisdom, or Charisma score of 13+
 
 You awaken to your psionic potential, which enhances your mind and body.
@@ -118,6 +118,7 @@ You awaken to your psionic potential, which enhances your mind and body.
 **Reference**: https://www.enworld.org/threads/good-psionics-themed-wizard-subclass.682849/
 
 ##### Telekinetic (TCoE)
+**Prerequisite**: Psionics feat
 
 You learn to move things with your mind, granting you the following benefits:
 - Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -125,6 +126,7 @@ You learn to move things with your mind, granting you the following benefits:
 - As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
 
 ##### Telepathic (TCoE)
+**Prerequisite**: Psionics feat
 
 You awaken the ability to mentally connect with others, granting you the following benefits:
 - Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -157,7 +159,17 @@ The spells below take on the "Psionic" tag, along with their usual school of mag
 
 #### Feats
 
+##### Dunamancy
+**Prerequisite**: Intelligence, Wisdom, or Charisma score of 13+
+
+Your failures create stored potential, which you can unleash at crucial moments.
+- You gain a Potential Pool represented by a number of d4s.
+- Building Potential: Whenever you miss an attack, fail a saving throw, or fail an ability check, add one d4 to your Potential Pool (max of your Proficiency Bonus).
+- Unleashing Potential: Before rolling an attack roll, ability check, or saving throw, you can spend any number of dice from the Potential Pool to add them to your roll.
+- Your Potential Pool resets after a long rest.
+
 ##### Chronal Control
+**Prerequisite**: Dunamancy feat
 
 You can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll.
 
@@ -186,6 +198,21 @@ The spells below take on the "Dunamancy" tag, along with their usual school of m
 - Wizard: Entropist (Deep Magic, Kobold Press)
 - Bard: College of Entropy (Deep Magic, Kobold Press)
 - Barbarian: Path of Wild Magic
+
+#### Feats
+
+##### Entropomancy
+**Prerequisite**: Intelligence, Wisdom, or Charisma score of 13+
+
+You exist in multiple potential states at once and can tap into them. At the start of your turn, roll a d6 and set it aside as your Flux Die. You can use this die in one of two ways before the start of your next turn:
+- Replace a d20 roll you make (attack, ability check, or save) with the Flux Die roll +10.
+- Replace an enemy's d20 roll (attack against you or saving throw against your spell) with the Flux Die roll.
+Once used, roll a new Flux Die at the start of your next turn.
+
+##### Cascading Chaos
+**Prerequisite**: Entropomancy feat
+
+If your Flux Die matches the d20 roll you are replacing, you can roll a new Flux Die immediately, potentially chaining effects.
 
 #### Spell List
 
