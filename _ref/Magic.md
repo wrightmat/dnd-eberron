@@ -56,6 +56,26 @@ While I don't suggest to add any spells or move any from existing schools, that 
 | Entropomancy  | Chaos   | Black   | Chaos and Change             | Kythri          | Chaos (Lorehold)       | CHA            |
 | Sangromancy   | Body    | Maroon  | Sanguinity and Sacrifice     | Shavarath       |                        | CON            |
 
+### Artifice
+
+#### Suggested Classes
+
+- Artificer: Alchemist
+- Artificer: Armorer
+- Artificer: Battlesmith
+- Artificer: Cartographer
+
+#### Spell List
+
+The spells below take on the "Artifice" tag, along with their usual school of magic.
+
+- **Cantrip**: Acid Splash, Booming Blade, Create Bonfire, Dancing Lights, Fire Bolt, Frostbite, Green-Flame Blade, Light, Lightning Lure, Mage Hand, Magic Stone, Mending, Poison Spray, Prestidigitation, Ray of Frost, Resistance, Shocking Grasp, Spare the Dying, Sword Burst, Thorn Whip, Thunderclap
+- **1st-level**: Absorb Elements, Alarm, Catapult, Cure Wounds, Detect Magic, Disguise Self, Expeditious Retreat, Faerie Fire, False Life, Feather Fall, Grease, Identify, Jump, Longstrider, Purify Food and Drink, Sanctuary, Snare, Tasha's Caustic Brew
+- **2nd-level**: Aid, Air Bubble, Alter Self, Arcane Lock, Continual Flame, Darkvision, Enhance Ability, Enlarge/Reduce, Heat Metal, Invisibility, Kinetic Jaunt, Lesser Restoration, Levitate, Magic Mouth, Magic Weapon, Protection from Poison, Pyrotechnics, Rope Trick, See Invisibility, Skywrite, Spider Climb, Web
+- **3rd-level**: Ashardalon's Stride, Blink, Catnap, Create Food and Water, Dispel Magic, Elemental Weapon, Flame Arrows, Fly, Glyph of Warding, Intellect Fortress, Protection from Energy, Revivify, Tiny Servant, Water Breathing, Water Walk
+- **4th-level**: Arcane Eye, Elemental Bane, Fabricate, Freedom of Movement, Leomund's Secret Chest, Mordenkainen's Faithful Hound, Mordenkainen's Private Sanctum, Otiluke's Resilient Sphere, Stone Shape, Stoneskin, Summon Construct
+- **5th-level**: Animate Objects, Bigby's Hand, Create Spelljamming Helm, Creation, Greater Restoration, Skill Empowerment, Transmute Rock, Wall of Stone
+
 ### Psionics
 
 It is possible to create a psionic character within the structure of the existing rules by following the steps below (and incorporating a few homebrew feats):
@@ -65,7 +85,7 @@ It is possible to create a psionic character within the structure of the existin
 
 #### Suggested Classes
 
-- Wizard: School of Psionics​ (UA), or any School subclass
+- Wizard: School subclasses
 - Sorcerer: Aberrant Mind​
 - Fighter: Psi Knight​
 - Rogue: Soulknife​
@@ -113,18 +133,18 @@ You awaken the ability to mentally connect with others, granting you the followi
 
 #### Spell List
 
-The spells below tag on the "psionics" tag, along with their usual school of magic.
+The spells below take on the "Psionic" tag, along with their usual school of magic.
 
-- **Cantrip**: friends, message, [[mind sliver]]
-- **1st-level**: cause fear, charm person, command, dissonant whispers, hideous laughter, sleep, wrathful smite
-- **2nd-level**: calm emotions, crown of madness, mind spike, phantasmal force, shadow blade, suggestion, Tasha's mind whip
-- **3rd-level**: enemies abound, fear, major image
-- **4th-level**: confusion, dominate beast, phantasmal killer, psychic lance, staggering smite
-- **5th-level**: dominate person, dream, geas, modify memory, synaptic static, Yolande's regal presence
-- **6th-level**: mass suggestion, mental prison
-- **7th-level**: dream of the blue veil, mirage arcane
-- **8th-level**: antipathy/sympathy, befuddlement, dominate monster, feeblemind, mind blank, power word stun
-- **9th-level**: psychic scream, weird
+- **Cantrip**: Friends, Message, [[Mind Sliver]]
+- **1st-level**: Cause Fear, Charm Person, Command, Dissonant Whispers, Hideous Laughter, Sleep, Wrathful Smite
+- **2nd-level**: Calm Emotions, Crown of Madness, Mind Spike, Phantasmal Force, Shadow Blade, Suggestion, Tasha's Mind Whip
+- **3rd-level**: Enemies Abound, Fear, Major Image
+- **4th-level**: Dominate Beast, Phantasmal Killer, Psychic Lance, Staggering Smite
+- **5th-level**: Dominate Person, Dream, Geas, Modify Memory, Synaptic Static, Telekinesis, Yolande's Regal Presence
+- **6th-level**: Mass Suggestion, Mental Prison
+- **7th-level**: Dream of the Blue Veil, Mirage Arcane
+- **8th-level**: Antipathy/Sympathy, Befuddlement, Dominate Monster, Feeblemind, Mind Blank, Power Word Stun
+- **9th-level**: Psychic Scream, Weird
 
 ### Dunamancy
 
@@ -137,20 +157,26 @@ The spells below tag on the "psionics" tag, along with their usual school of mag
 
 #### Feats
 
+##### Chronal Control
 
+You can magically exert limited control over the flow of time around a creature. As a reaction, after you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll.
+
+You can use this ability a number of times equal to your proficiency bonus, and you regain any expended uses when you finish a long rest.
 
 #### Spell List
 
-- Cantrip: guidance, sapping sting
-- 1st-level: bane, bless, gift of alacrity, magnify gravity
-- 2nd-level: fortune's favor, immovable object, mirror image, wristpocket
-- 3rd-level: pulse wave
-- 4th-level: gate seal, gravity sinkhole
-- 5th-level: banishing smite, temporal shunt
-- 6th-level: forbiddance, gravity fissure
-- 7th-level: forcecage, project image, reverse gravity, tether essence
-- 8th-level: dark star, reality break
-- 9th-level: gate, ravenous void, time ravage, time stop
+The spells below take on the "Dunamancy" tag, along with their usual school of magic.
+
+- Cantrip: Guidance, Sapping Sting
+- 1st-level: Bane, Bless, Gift of Alacrity, Magnify Gravity
+- 2nd-level: Fortune's Favor, Gentle Repose, Immovable Object, Mirror Image, Wristpocket
+- 3rd-level: Haste, Pulse Wave, Slow
+- 4th-level: Gate Seal, Gravity Sinkhole
+- 5th-level: Banishing Smite, Passwall, Temporal Shunt
+- 6th-level: Forbiddance, Gravity Fissure, Scatter
+- 7th-level: Forcecage, Project Image, Reverse Gravity, Tether Essence
+- 8th-level: Dark Star, Demiplane, Maze, Reality Break
+- 9th-level: Gate, Ravenous Void, Time Ravage, Time Stop
 
 ### Entropomancy
 
@@ -163,16 +189,18 @@ The spells below tag on the "psionics" tag, along with their usual school of mag
 
 #### Spell List
 
-- Cantrip: control flames, gust
-- 1st-level: chaos bolt, color spray, magic missile, zephyr strike
-- 2nd-level: blur, enthrall, 
-- 3rd-level: dispel magic, 
-- 4th-level: control water, 
-- 5th-level: control winds, steel wind strike, 
-- 6th-level: disintegrate, 
-- 7th-level: power word fortify, power word pain, 
-- 8th-level: control weather, 
-- 9th-level: power word heal, power word kill
+The spells below take on the "Entropomancy" tag, along with their usual school of magic.
+
+- Cantrip: Control Flames, Gust
+- 1st-level: Chaos Bolt, Color Spray, Magic Missile, Zephyr Strike
+- 2nd-level: Blur, Enthrall, Vortex Warp
+- 3rd-level: Dispel Magic, Hunger of Hadar, Hypnotic Pattern
+- 4th-level: Confusion, Control Water, Polymorph
+- 5th-level: Control Winds, Steel Wind Strike, 
+- 6th-level: Disintegrate, 
+- 7th-level: Power Word Fortify, Power Word Pain, Prismatic Spray, Teleport
+- 8th-level: Control Weather, Maddening Darkness
+- 9th-level: Mass Polymorph, Power Word Heal, Power Word Kill, Prismatic Wall, Storm of Vengeance
 
 ### Sangromancy
 
@@ -183,13 +211,15 @@ The spells below tag on the "psionics" tag, along with their usual school of mag
 
 #### Spell List
 
+The spells below take on the "Sangromancy" tag, along with their usual school of magic.
+
 - Cantrip: 
 - 1st-level: arms of hadar
 - 2nd-level: 
 - 3rd-level: 
 - 4th-level: black tentacles, 
 - 5th-level: antilife shell
-- 6th-level: 
+- 6th-level: create homunculus
 - 7th-level: finger of death, 
 - 8th-level: 
 - 9th-level: 
