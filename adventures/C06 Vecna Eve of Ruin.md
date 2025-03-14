@@ -27,7 +27,7 @@
 ### DM Notes
 
 * Would need MAJOR changes based on the reviews I've seen. Some of the best information is from Dungeon Master of None, who gave some great information on how to make the campaign more interesting as well. Would only be worth doing if the players were really into the idea.
-* Vecna and Kas need a more tragic and complex backstory, based on the image of them on a date from the campaign book. I've already written this up in the Vecna page, and it's really the only thing that makes the campaign interesting and possibly worth running.
+* Vecna and Kas need a more tragic and complex backstory, based on the image of them on a date from the campaign book. I've already written this up on the [[Vecna]] page, and it's really the only thing that makes the campaign interesting and possibly worth running.
 * Each PC should have a major secret they protect (rather than an ideal/bond/flaw) that if revealed would allow Vecna to have some power over them.
 
 ### References
