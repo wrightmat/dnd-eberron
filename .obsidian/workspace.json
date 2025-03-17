@@ -222,22 +222,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "7ecb5c62f1f3dc72",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e923ae4be04b58a5",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",

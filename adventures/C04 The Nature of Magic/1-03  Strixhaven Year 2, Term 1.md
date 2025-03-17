@@ -94,8 +94,7 @@
  - [ ] 
 >Stepping into a fractal forest, you're immediately enveloped by an intricate network of paths and trees that repeat in mesmerizing patterns. One particular pattern near the center appears slightly more vibrant and complex, as if part of the forest itself is watching you.
 
-- A magical indoor forest where paths and trees follow fractal patterns, creating a complex maze-like environment.
-
+- A magical indoor forest where paths and trees follow fractal patterns, creating a complex maze-like environment. A successful DC 14 Survival check is required to navigate the maze-like room and locate the mascot.
 - **Mascot**. A fractal mascot can be found here. The fractal is one of the mascots the characters must catalog for Professor Sharpbeak, as mentioned in the “Mascot Hunting” section earlier.
 
 ###### C3. Main Lecture Hall
@@ -103,13 +102,13 @@
 >In the Main Lecture Hall, tiered seats circle a central stage where magical demonstrations are performed. The hall is silent now, expectant, as if waiting for the next great discovery to be unveiled.
 
 - An amphitheater with seating that can morph to accommodate various species and sizes.
+- **Mage Hunter Chitin**. A successful DC 15 Wisdom (Perception) check reveals a piece of chipped chitin plating. This plating sloughed off the mage hunters while they lingered here, but the characters can identify it only if they’re familiar with mage hunters. If a character shows the plating to a faculty member, the faculty member says it could have come from a dangerous creature but is unsure of its origin.
 
 ###### C4. Genetics Workshop
  - [ ] 
 >This workshop is alive with the buzz of magical energy and the vivid colors of enhanced plants. Near a cluster of particularly vibrant flowers, the air shimmers with a subtle luminescence that seems to dance, suggesting the presence of something magical and artistic melding with the surroundings
 
-- Filled with advanced magical and scientific equipment for genetic modification of plants.
-- **Challenge**. The art elemental mascot is “painting” the room with magical flowers, creating an illusion-filled space. Players must determine which mascot is real in a room full of illusions. A successful Wisdom (Perception) check (DC 14) can reveal which flowers are illusions and which are real.
+- Filled with advanced magical and scientific equipment for genetic modification of plants. A successful Wisdom (Perception) check (DC 14) can reveal which flowers are illusions and which are real, locating the mascot in the process.
 - **Mascot**. A mischievous art elemental mascot rests amidst the flowers. The art elemental is one of the mascots the characters must catalog for Professor Sharpbeak, as mentioned in the “Mascot Hunting” section earlier.
 
 **Aquatic and Aerobic Ecosystems**
@@ -120,12 +119,13 @@
 
 - Contains large, transparent tanks with aquatic plants and creatures.
 
+`encounter: 1: Water Weird`
+
 ###### C6. Aviary Dome
  - [ ] 
 >A transparent dome structure rises high above you, filled with the calls of exotic birds and the rustle of wings. Sunlight filters through the leaves of towering trees, casting playful shadows on the ground.
 
-- A glass-domed room filled with flying creatures and tall trees.
-- **Challenge**. A flock of Quandrix-augmented birds mimics the players’ voices and spells, making communication confusing.
+- A glass-domed room filled with flying creatures and tall trees. A flock of Quandrix-augmented birds mimics the players’ voices and spells, making communication confusing.
 
 **Desert and Mountain Ecosystems**
 
