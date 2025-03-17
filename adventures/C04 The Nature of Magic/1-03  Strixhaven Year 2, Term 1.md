@@ -87,13 +87,15 @@
  - [ ] 
 >The entrance foyer of The Cultivarium greets you with its grandeur, featuring high ceilings and creeping vines that adjust their growth as you watch. The atmosphere is one of constant, subtle change, mirroring the dynamic nature of Quandrix magic.
 
-- A grand entryway filled with floating geometric sculptures and vines that move subtly as if solving equations
+- A grand entryway filled with floating geometric sculptures and vines that move subtly as if solving equations.
+- **Challenge**. As players enter, the animated vines briefly entangle the first creature that steps inside (DC 13 Strength check to escape). This foreshadows more unpredictable plant behavior throughout the Cultivarium.
 
 ###### C2. Fractal Forest
  - [ ] 
 >Stepping into a fractal forest, you're immediately enveloped by an intricate network of paths and trees that repeat in mesmerizing patterns. One particular pattern near the center appears slightly more vibrant and complex, as if part of the forest itself is watching you.
 
-- A magical indoor forest where paths and trees follow fractal patterns, creating a complex maze-like environment
+- A magical indoor forest where paths and trees follow fractal patterns, creating a complex maze-like environment.
+
 - **Mascot**. A fractal mascot can be found here. The fractal is one of the mascots the characters must catalog for Professor Sharpbeak, as mentioned in the “Mascot Hunting” section earlier.
 
 ###### C3. Main Lecture Hall
@@ -107,6 +109,7 @@
 >This workshop is alive with the buzz of magical energy and the vivid colors of enhanced plants. Near a cluster of particularly vibrant flowers, the air shimmers with a subtle luminescence that seems to dance, suggesting the presence of something magical and artistic melding with the surroundings
 
 - Filled with advanced magical and scientific equipment for genetic modification of plants.
+- **Challenge**. The art elemental mascot is “painting” the room with magical flowers, creating an illusion-filled space. Players must determine which mascot is real in a room full of illusions. A successful Wisdom (Perception) check (DC 14) can reveal which flowers are illusions and which are real.
 - **Mascot**. A mischievous art elemental mascot rests amidst the flowers. The art elemental is one of the mascots the characters must catalog for Professor Sharpbeak, as mentioned in the “Mascot Hunting” section earlier.
 
 **Aquatic and Aerobic Ecosystems**
@@ -122,6 +125,7 @@
 >A transparent dome structure rises high above you, filled with the calls of exotic birds and the rustle of wings. Sunlight filters through the leaves of towering trees, casting playful shadows on the ground.
 
 - A glass-domed room filled with flying creatures and tall trees.
+- **Challenge**. A flock of Quandrix-augmented birds mimics the players’ voices and spells, making communication confusing.
 
 **Desert and Mountain Ecosystems**
 
