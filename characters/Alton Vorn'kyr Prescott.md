@@ -19,7 +19,6 @@ player: "[[Alex Kelsch]]"
 - From Xen'drik (Stormreach), but moved to Khorvaire long ago (to Lathleer in Aundair, where he met his wife).
 * Recently widowed (shitty wife, named Lyssa), so decided to live his dream and go to school.
 * Equivalent to early 20s (being an elf), so is basically a traditional student.
-* Alex is interested in exploring blood magic with this character, after facing off (and dying during the battle) with Murgaxor. He would prefer to not be part of the Oriq 
 
 ### Motivation and Goal(s)
 
@@ -44,5 +43,9 @@ player: "[[Alex Kelsch]]"
 +
 +
 ```
+
+### DM Notes
+
+- Alex is interested in exploring blood magic with this character, after facing off (and dying during the battle) with Murgaxor. He would prefer to not be part of the Oriq, but maybe question why blood magic needs to be forbidden and if it can be used in a better context.
 
 ### References

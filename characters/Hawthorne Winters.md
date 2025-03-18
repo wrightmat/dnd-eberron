@@ -28,9 +28,10 @@ player: "[[Kerrie Heath]]"
 
 - **Strixhaven**
 	- **Academic Advisor**: Tivash (Witherbloom)
+	- **College**: Quandrix
 	- **Extracurricular(s)/Job**: Strixhaven Star, Bow’s End Tavern (server)
 	- **Year 1 Courses**: Magical Physiologies, Beginning Computational Magic, Introduction to Evocation, Basic Magical Auras
-	- **Year 2 Courses**: 
+	- **Year 2 Courses**: Scrivening and Symbology, Applied Computational Magic, Linguistics in Spellcasting, Somatic Components and You
 	- **Year 3 Courses**: 
 	- **Year 4 Courses**: 
 

@@ -26,6 +26,14 @@ player: "[[Jolene Harper]]"
 
 ### Development
 
+- **Strixhaven**
+    - **Academic Advisor**: 
+    - **College**: Lorehold
+    - **Extracurricular(s)/Job**: Resident Advisor (Night Shift, with Nora), Dragonsguard Historical Society
+    - **Year 1 Courses**: Magical Physiologies, Beginning Computational Magic, Introduction to Archaeomancy, History of Magic and Art
+    - **Year 2 Courses**: Scrivening and Symbology, Linguistics in Spellcasting, Somatic Components and You, Material Components and Magic, Historical Figures in Magic
+    - **Year 3 Courses**:
+    - **Year 4 Courses**:
 - 
 
 ### Timeline

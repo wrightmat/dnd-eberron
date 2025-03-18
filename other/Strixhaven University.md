@@ -62,29 +62,25 @@ For those courses selected by at least one PC student (excluding Required course
  - [x] Arcane decay and its effects on plant life, foreshadowing the mana crisis in Act 2. ✅ 2025-02-24
  - [ ]  Manifest zones and plant growth, linking to Thelanis, Mabar, and the Eldeen Reaches.
  - [ ]  Oalian, the Awakened Oak, as a case study in sentient magical flora.
- - [ ]  The role of plants in mana restoration, possibly hinting at a solution in Act 2.
  - [ ]  The role of druidic magic in sustaining ecosystems, tying into the Conjuration nexus.
- - [ ]  Fungal magic and its connection to decay and renewal, tying into necromantic energy.
 
 ###### Basic Magical Auras
 **PC(s)**: Hawthorne
 **Fellow Students**: Willow "Will" Nailo, Finnian Sparkwhistle, Shuvadri Glintmantle, Rebecca "Becca" Dominic
 **Professor**: Nassari (General Studies)
  - [x] Overview of the Schools of Magic, their principles, and interactions (including aura colors). ✅ 2025-02-24
- - [ ]  Ley lines and mana nexuses, their importance and foreshadowing disruptions in Act 2.
  - [ ]  Aberrant dragonmarks and their unpredictable aura patterns, linking to the Oriq and House Tarkanan.
  - [ ]  How dragonshards amplify or distort auras, foreshadowing Act 2.
  - [ ]  The influence of different planes on magical auras, teasing planar travel.
  - [ ]  The ethics of aura reading — is it an invasion of privacy?
 
-###### Beginning Computational Magic
+###### Beginning Computational Magic (§)
 **PC(s)**: Shear, Mina, Hawthorne
 **Fellow Students**: Toren Dustfall, Kaelin Wildclaw, Tilana Kapule, Larine Arneza
 **Professors**: Adrix and Nev (Quandrix)
  - [x] The structure of spells — breaking them into levels, damage, and components. ✅ 2025-02-24
  - [ ]  Custom spell design — introduction to creating and balancing new magic.
  - [ ]  Numeromancy — the mathematical approach to spellcasting.
- - [ ]  Runes as computational logic, setting up sigils and magical constructs.
  - [ ]  The dangers of unstable magical equations, connecting these "unstable" magics to the forbidden and lesser-known schools.
  - [ ]  Spell matrices and their vulnerabilities, foreshadowing anti-magic sabotage.
 
@@ -95,7 +91,6 @@ For those courses selected by at least one PC student (excluding Required course
  - [x] The magical properties of inks and how they retain enchantments. ✅ 2025-02-24
  - [ ]  Living glyphs and self-sustaining sigils, paralleling teleportation sigils in Act 2.
  - [ ]  Historical magical calligraphy, linking to the Xoriat sealing ritual.
- - [ ]  Forgeries and magically altered documents, hinting at rewritten truths.
  - [ ]  Hidden spells within texts, teasing lost knowledge about any number of topics.
  - [ ]  Ink-based summoning sigils, foreshadowing conjuration disruptions.
 
@@ -115,8 +110,7 @@ For those courses selected by at least one PC student (excluding Required course
 **Fellow Students**: Nelson Dawoud, Ingrid Egilsil, Farid Kahn, Kiya Alwan
  - [x] Conjuring from Elemental Planes – Why elementals are easier to summon, linking to elemental instability. ✅ 2025-02-24
  - [ ]  Artifacts that amplify conjuration magic, possibly linked to dragonshards.
- - [ ]  The Nature of Conjured Beings – Are they real? Do they have free will?
- - [ ]  Ethical implications of summoning sentient beings.
+ - [ ]  The Nature of Conjured Beings – Are they real? Do they have free will? Ethical implications of summoning sentient beings?
  - [ ]  The Relationship Between Conjuration and Chaos – How summoning interacts with unstable magic, foreshadowing planar imbalances.
  - [ ]  Magebred Creatures and Arcane Summoning – How House Vadalis experiments with conjuration magic.
 
@@ -124,7 +118,6 @@ For those courses selected by at least one PC student (excluding Required course
 **PC(s)**: Alton, Hawthorne
 **Fellow Students**: Aurora Luna Wynterstarr, Melwythorne, Quentillius Antiphiun Melentor III, Nora Ann Wu
  - [x] The Science of Magical Explosions – How evocation interacts with energy and material. ✅ 2025-02-24
- - [ ]  Evocation and ley line resonance, foreshadowing the later importance of ley lines.
  - [ ]  Karrnathi military evocation training, setting up the Rekkenmark adventure.
  - [ ]  Mana overexertion and its dangers (including uncontrolled magical surges), hinting at later instability.
  - [ ]  Historical magical explosions, paralleling future uncontrolled magic.
@@ -134,12 +127,73 @@ For those courses selected by at least one PC student (excluding Required course
 **PC(s)**: Shear
 **Fellow Students**: Grayson Wildemere, Rubina Larkingdale, Mina Lee, Drazhomir Yarnask
  - [x] The Philosophy of Change – How transmutation embodies impermanence, mirroring campaign themes. ✅ 2025-02-24
- - [ ]  Alchemical Transmutation vs. Magical Transmutation – Why some changes are stable and others are not.
- - [ ]  Living Matter vs. Non-Living Matter – Why polymorphing a rock is different from polymorphing a person.
  - [ ]  The Limits of Magical Transformation – Why some forms cannot be permanently altered, foreshadowing Act 2’s instability.
  - [ ]  Historical Transmutation Disasters – Famous cases where magical transformation went terribly wrong (including, specifically, Mordain and the Forest of Flesh).
- - [ ]  Wild Magic and Uncontrolled Transmutation – How chaos magic influences transformation, including eldritch transmutations from Xoriat.
  - [ ]  When Transmutation Breaks Reality – The dangers of alchemists and mages pushing magical change too far.
+ - [ ]  Living Matter vs. Non-Living Matter – Why polymorphing a rock is different from polymorphing a person.
+
+###### Applied Computational Magic
+**PC(s)**: Shear, Mina, Hawthorne
+**Fellow Students**: 
+**Professor**: 
+ - [ ]  Mana Flow and Feedback Loops – Studying how magic self-replicates or depletes in a given system, hinting at the larger depletion of magic across Khorvaire and how it might be reversed.
+ - [ ]  Ley lines and mana nexuses, their importance and foreshadowing disruptions in Act 2.
+ - [ ]  Runes as computational logic, setting up sigils and magical constructs.
+
+###### Life Auras and Necrosis
+**PC(s)**: Shear, Alton
+**Fellow Students**: 
+**Professor**: 
+ - [ ]  The Balance of Irian and Mabar – Understanding the interplay between positive and negative energy planes, and the flow of magic from life to death.
+ - [ ]  Leylines and Life Magic – Studying the connection between leyline nexuses and natural life force, subtly hinting at how magic is being siphoned in Khorvaire.
+ - [ ]  The Cost of Power: Forbidden Magic and Life Force – A historical look at magic that draws upon the life force of the caster or another being, noting that many cultures outlawed such practices.
+
+###### Linguistics in Spellcasting
+**PC(s)**: Alton, Mina, Hawthorne, Cosset
+**Fellow Students**: 
+**Professor**: 
+ - [ ]  Draconic: The Language of Magic – Studying why Draconic is the foundation of many spells, linking to the origins of magic and the dragons’ role in protecting it.
+ - [ ]  Runes of the Giants – Examining the ancient magic of Xen’drik and how giant runes could be a missing link in understanding certain magics.
+ - [ ]  Language and Forbidden Magic – Investigating how secret tongues and encoded scripts hide dangerous spells, foreshadowing the Oriq’s hidden knowledge.
+
+###### Material Components and Magic
+**PC(s)**: Cosset
+**Fellow Students**: 
+**Professor**: 
+ - [ ]  The Cost of Magic: Why Material Components Matter – Studying the balance of magic’s energy exchange, and the necessity of materials in spellcasting.
+ - [ ]  The Role of Dragonshards in Magic – Exploring Eberron, Siberys, and Khyber dragonshards and their importance.
+ - [ ]  Sacrificial Magic: When Components are More Than Just Tools – Examining cases where spell components go beyond simple reagents, requiring something personal (a drop of blood, a lock of hair, a heartfelt memory). 
+
+###### Somatic Components and You
+**PC(s)**: Shear, Alton, Mina, Hawthorne, Cosset
+**Fellow Students**: 
+**Professor**: 
+ - [ ]  Gesture Precision and Spell Power – Understanding how minor changes in movement alter spell effectiveness.
+ - [ ]  One-Handed and Subtle Casting – Studying methods to cast while restrained.
+ - [ ]  Martial Spellcasting and Combat Flow – Exploring techniques for hybrid spellblade fighting.
+
+###### Historical Figures in Magic
+**PC(s)**: Cosset
+**Fellow Students**: 
+**Professor**: 
+ - [ ]  Vvaraak and the Gatekeepers – Discussing the dragon Vvaraak and the druidic Gatekeepers' role in sealing extraplanar threats.
+ - [ ]  The Fall of the Su’lat League – An ancient civilization that combined elemental power with destructive evocation, paralleling the dangerous potential of magic hoarding.
+ - [ ]  The Lost Theorems of Vecna – Examining how knowledge and secrets can be both powerful and dangerous.
+
+###### Pyromancy and the Arts
+**PC(s)**: Alton
+**Fellow Students**: 
+**Professor**: 
+ - [ ]  Fire as Destruction and Creation – Understanding how fire is both a force of renewal and devastation.
+ - [ ]  The Emotional Element: How Passion Fuels Fire Magic – Exploring the connection between strong emotions and fire magic, particularly how intense focus or fury enhances its effects.
+ - [ ]  Fire in Ritual and Symbolism – Examining fire as a sacred and ceremonial force in various cultures.
+
+###### Introduction to Abjuration
+**PC(s)**: Shear
+**Fellow Students**: 
+ - [ ]  The History of Protective Spells – Studying famous magical defenses, focusing on the famous barriers of Morgrave University.
+ - [ ]  Arcane Seals and Forbidden Knowledge – Exploring how powerful secrets are locked away.
+ - [ ]  The Limits of Abjuration – Understanding what abjuration can’t block, reinforcing the players’ need to seek unconventional solutions.
 
 ### Students
 

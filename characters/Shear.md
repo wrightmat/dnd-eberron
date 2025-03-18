@@ -29,9 +29,10 @@ player: "[[Trey Martinez]]"
 
 - **Strixhaven**
 	- **Academic Advisor**: Nils (Silverquill)
-	- **Extracurricular(s)/Job**: Fantastical FIorticulture Club, Dragonchess Club
+	- **College**: Witherbloom
+	- **Extracurricular(s)/Job**: Fantastical FIorticulture Club, Mage-Students of Faith, Dragonchess Club (quit after 1st Year)
 	- **Year 1 Courses**: Magical Physiologies, Arcano-botony for Beginners, Beginning Computational Magic, Introduction to Conjuration, Introduction to Transmutation
-	- **Year 2 Courses**: 
+	- **Year 2 Courses**: Scrivening and Symbology, Applied Computational Magic, Somatic Components and You, Life Auras and Necrosis, Introduction to Abjuration
 	- **Year 3 Courses**: 
 	- **Year 4 Courses**: 
 
