@@ -18,6 +18,7 @@ player: "[[Sara Edwards]]"
 
 - Is a hired hitperson for the Yuan-ti of Io'vakas, and operates in complete secret.
 - Goes by the nickname "Mina" (for those who don't know she's a yuan-ti).
+- Genie: Naram-Sin (Dao - Earth Genie)
 
 ### Motivation and Goal(s)
 
