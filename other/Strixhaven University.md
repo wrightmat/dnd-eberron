@@ -134,16 +134,16 @@ For those courses selected by at least one PC student (excluding Required course
 
 ###### Applied Computational Magic
 **PC(s)**: Shear, Mina, Hawthorne
-**Fellow Students**: Agatha Zaphrin, Kiya Alwan, 
-**Professor**:  (Quandrix)
+**Fellow Students**: Agatha Zaphrin, Kiya Alwan, Cadoras Damellawar
+**Professor**: Imbraham (Quandrix)
  - [ ]  Mana Flow and Feedback Loops – Studying how magic self-replicates or depletes in a given system, hinting at the larger depletion of magic across Khorvaire and how it might be reversed.
  - [ ]  Ley lines and mana nexuses, their importance and foreshadowing disruptions in Act 2.
  - [ ]  Runes as computational logic, setting up sigils and magical constructs.
 
 ###### Life Auras and Necrosis
 **PC(s)**: Shear, Alton
-**Fellow Students**: Catherine Shepherd, Rinn Silverfrond, 
-**Professor**:  (Witherbloom)
+**Fellow Students**: Catherine Shepherd, Rinn Silverfrond, Shuvadri Glintmantle, Urzmaktok Grojsh
+**Professor**: Willowdusk (Witherbloom)
  - [ ]  The Balance of Irian and Mabar – Understanding the interplay between positive and negative energy planes, and the flow of magic from life to death.
  - [ ]  Leylines and Life Magic – Studying the connection between leyline nexuses and natural life force, subtly hinting at how magic is being siphoned in Khorvaire.
  - [ ]  The Cost of Power: Forbidden Magic and Life Force – A historical look at magic that draws upon the life force of the caster or another being, noting that many cultures outlawed such practices.
@@ -151,15 +151,15 @@ For those courses selected by at least one PC student (excluding Required course
 ###### Linguistics in Spellcasting
 **PC(s)**: Alton, Mina, Hawthorne, Cosset
 **Fellow Students**: Kilian Lu, Blakely Margedi
-**Professor**:  (Silverquill)
+**Professor**: Fain (Silverquill)
  - [ ]  Draconic: The Language of Magic – Studying why Draconic is the foundation of many spells, linking to the origins of magic and the dragons’ role in protecting it.
  - [ ]  Runes of the Giants – Examining the ancient magic of Xen’drik and how giant runes could be a missing link in understanding certain magics.
  - [ ]  Language and Forbidden Magic – Investigating how secret tongues and encoded scripts hide dangerous spells, foreshadowing the Oriq’s hidden knowledge.
 
 ###### Material Components and Magic
 **PC(s)**: Cosset
-**Fellow Students**: Helezana Grara, Drugar Thornshade
-**Professor**:  (Witherbloom)
+**Fellow Students**: Helezana Grara, Drugar Thornshade, Mesmerelda Gar, Aurora Luna Wynterstarr
+**Professor**: Verelda Lang (Witherbloom)
  - [ ]  The Cost of Magic: Why Material Components Matter – Studying the balance of magic’s energy exchange, and the necessity of materials in spellcasting.
  - [ ]  The Role of Dragonshards in Magic – Exploring Eberron, Siberys, and Khyber dragonshards and their importance.
  - [ ]  Sacrificial Magic: When Components are More Than Just Tools – Examining cases where spell components go beyond simple reagents, requiring something personal (a drop of blood, a lock of hair, a heartfelt memory). 
@@ -167,22 +167,22 @@ For those courses selected by at least one PC student (excluding Required course
 ###### Somatic Components and You
 **PC(s)**: Shear, Alton, Mina, Hawthorne, Cosset
 **Fellow Students**: Fabian Ashborne, Finnian Sparkwhistle
-**Professor**:  (Prismari)
+**Professor**: Arkin Minexes (Prismari)
  - [ ]  Gesture Precision and Spell Power – Understanding how minor changes in movement alter spell effectiveness.
  - [ ]  One-Handed and Subtle Casting – Studying methods to cast while restrained.
  - [ ]  Martial Spellcasting and Combat Flow – Exploring techniques for hybrid spellblade fighting.
 
 ###### Historical Figures in Magic
 **PC(s)**: Cosset
-**Fellow Students**: 
-**Professor**:  (Lorehold)
+**Fellow Students**: Zanther Bowen, Vanxun Pakul, Grayson Wildemere, Quintillius Antiphiun Melentor III
+**Professor**: Losheel (Lorehold)
  - [ ]  Vvaraak and the Gatekeepers – Discussing the dragon Vvaraak and the druidic Gatekeepers' role in sealing extraplanar threats.
  - [ ]  The Fall of the Su’lat League – An ancient civilization that combined elemental power with destructive evocation, paralleling the dangerous potential of magic hoarding.
  - [ ]  The Lost Theorems of Vecna – Examining how knowledge and secrets can be both powerful and dangerous.
 
 ###### Pyromancy and the Arts
 **PC(s)**: Alton
-**Fellow Students**: Joran Brightspark, Toren Dustfall
+**Fellow Students**: Joran Brightspark, Toren Dustfall, Nelson Dawoud, Bhedum "Rampart" Sooviij
 **Professor**:  (Prismari)
  - [ ]  Fire as Destruction and Creation – Understanding how fire is both a force of renewal and devastation.
  - [ ]  The Emotional Element: How Passion Fuels Fire Magic – Exploring the connection between strong emotions and fire magic, particularly how intense focus or fury enhances its effects.
@@ -190,7 +190,7 @@ For those courses selected by at least one PC student (excluding Required course
 
 ###### Introduction to Abjuration
 **PC(s)**: Shear
-**Fellow Students**: 
+**Fellow Students**: Tilana Kapule, Drazhomir Yarnask, Rhitt, Mina Lee
  - [ ]  The History of Protective Spells – Studying famous magical defenses, focusing on the famous barriers of Morgrave University.
  - [ ]  Arcane Seals and Forbidden Knowledge – Exploring how powerful secrets are locked away.
  - [ ]  The Limits of Abjuration – Understanding what abjuration can’t block, reinforcing the players’ need to seek unconventional solutions.
