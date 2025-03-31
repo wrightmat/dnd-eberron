@@ -45,30 +45,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-03  Strixhaven Year 2, Term 1"
-            }
-          },
-          {
-            "id": "139e890dfb930044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/2025-02-10.md",
+                "file": "adventures/C04 The Nature of Magic/1-04  Strixhaven Year 2, Term 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-10"
+              "title": "1-04  Strixhaven Year 2, Term 2"
             }
           },
           {
-            "id": "72c7e3307080fefc",
+            "id": "139e890dfb930044",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,9 +66,37 @@
               "icon": "lucide-file",
               "title": "2025-03-17"
             }
+          },
+          {
+            "id": "72c7e3307080fefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/2025-03-31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-31"
+            }
+          },
+          {
+            "id": "e0dcadf854a36223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "other/Strixhaven University.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strixhaven University"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,6 +162,7 @@
       {
         "id": "508d77a3ae41db1d",
         "type": "tabs",
+        "dimension": 35.24305555555556,
         "children": [
           {
             "id": "97f22b5c9e620780",
@@ -155,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2025-03-17.md",
+                "file": "other/Strixhaven University.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-17"
+              "title": "Outline of Strixhaven University"
             }
           },
           {
@@ -170,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sessions/2025-03-17.md"
+                "file": "other/Strixhaven University.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-03-17"
+              "title": "File properties for Strixhaven University"
             }
           },
           {
@@ -235,6 +250,24 @@
               "title": "Tags"
             }
           }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "c41572d93d108480",
+        "type": "tabs",
+        "dimension": 64.75694444444444,
+        "children": [
+          {
+            "id": "b1020516d154d4f8",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
         ]
       }
     ],
@@ -258,11 +291,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "72c7e3307080fefc",
+  "active": "e0dcadf854a36223",
   "lastOpenFiles": [
-    "other/Strixhaven University.md",
+    "sessions/2025-03-31.md",
     "sessions/2025-03-17.md",
+    "adventures/C04 The Nature of Magic/1-04  Strixhaven Year 2, Term 2.md",
+    "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
     "sessions/2025-02-10.md",
+    "other/Strixhaven University.md",
     "sessions/2025-02-24.md",
     "characters/Alton Vorn'kyr Prescott.md",
     "adventures/C04 The Nature of Magic.md",
@@ -272,8 +308,6 @@
     "characters/Zsehissu 'Mina' sulsall uistihi.md",
     "adventures/C04 The Nature of Magic/1-01  Strixhaven Year 1, Term 1.md",
     "sessions/2025-02-03.md",
-    "adventures/C04 The Nature of Magic/1-03  Strixhaven Year 2, Term 1.md",
-    "adventures/C04 The Nature of Magic/1-04  Strixhaven Year 2, Term 2.md",
     "sessions/2025-01-27.md",
     "locations/Strixhaven University.md",
     "adventures/C04 The Nature of Magic/1-00  Session One Intros.md",
@@ -285,7 +319,6 @@
     "adventures/C05 The Heart of Khyber.md",
     "adventures/C07. A Tidecrown Affair.md",
     "_ref/Magic.md",
-    "creatures/Malakar Draksang.md",
     "adventures/C04 The Nature of Magic Outline.canvas",
     "sessions/C04",
     "public/_img/Astral_Sea_Map.png",

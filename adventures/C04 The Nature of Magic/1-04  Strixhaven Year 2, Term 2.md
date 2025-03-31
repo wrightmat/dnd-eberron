@@ -49,7 +49,7 @@
 `encounter: 1: Galeb Duhr`
 
 - Examining the wand the student used to accidentally summon the galeb duhr reveals that it’s different in weight and texture than the other wands.
-- A successful DC 16 Intelligence (Arcana) check reveals that the wand is a summoning device, albeit a strange one intended to work only once. Further, a successful DC 16 Intelligence (Investigation) check reveals slimy remnants stuck into the wand’s grooves, while a successful DC 16 Intelligence (Nature) check reveals that the slimy substance is algae from Witherbloom’s campus.
+- A successful DC 16 Intelligence (Arcana) check reveals that the wand is a summoning device, albeit a strange one intended to work only once. Further, a successful DC 16 Intelligence (Investigation) check reveals slimy and chitinous remnants stuck into the wand’s grooves.
 
 #### Week 18: Scrivening and Symbology Exam: Augury
 
@@ -153,7 +153,7 @@
 ###### The Arithmodrome
  - [ ] 
 - The Quandrix campus is alive with dynamic sculptures made of water behaving in odd ways: cube-shaped fountains, arching aqueducts that flow through the air, towers of solid-seeming water. One water structure holds a secret: a mysterious inner expanse called the Arithmodrome. From the outside, the Arithmodrome looks like a large cube of water, ten feet on each side. The inside is an apparently boundless theory-space that suspends the rules of reality. Mages use this space to explore theoretical numerical possibilities.
-- A mage hunter secretly pursues the players as they navigate the Arithmodrome. For each incorrectly solved puzzle or other significant delay, add one to a d6 clock. On a 6, a mage hunter finds the players and attack.
+- A mage hunter secretly pursues the players as they navigate the Arithmodrome. For each incorrectly solved puzzle or other significant delay, add one to a d6 clock. On a 6, a mage hunter finds the players and attacks.
 
 ###### A1. The Gateway of Infinity
  - [ ] 

@@ -200,7 +200,7 @@
 ###### The Contest
  - [ ] 
 - Stacking mascots without the creatures toppling over is a major bragging right, and the characters have the opportunity of earning that now.
-- Further, Greta Gorunn has offered a belt of dwarvenkind as the prize for this contest. Her parents sent her the belt as a gift, but she thinks it’s more fun to offer the belt as a trophy.
+- Further, Greta Gorunn has offered a [[belt of dwarvenkind]] as the prize for this contest. Her parents sent her the belt as a gift, but she thinks it’s more fun to offer the belt as a trophy.
 - In this contest, up to four teams of two students apiece race to create the highest stack of gathered mascots. At least one team should consist of NPC students, and you should make rolls for them. If the characters have Rivals, two of them form this opposing team. If not, choose students randomly.
 - Characters who don’t wish to form a team can participate by cheering or heckling, as described below:
 	- **Encourage a Team**. A character can shout encouragement to a single team. If they do, one member of that team has advantage on their ability check in the stacking game.
@@ -249,9 +249,7 @@
  - [ ] 
 - Aerojaunt Field was once the university’s primary sports field. Now, years after the construction of Strixhaven Stadium, the field sees far less use. Its official purpose is as a dedicated practice field for Strixhaven’s high-profile student teams, whose official matches take place in newer facilities elsewhere on campus.
 - However, less competitive teams hold their matches on this field, most notably the Intramural Silkball Club. The elevated ramps used in silkball matches were permanently built into Aerojaunt Field, whose name evokes a popular silkball move that involves using magic to hop through the air.
-
-- Mage Tower practice takes place at Aerojaunt Field. This practice field is on the central campus, and it’s available for anyone to use.
-- When the characters are ready to begin practice, read or paraphrase the following:
+- Mage Tower practice takes place at Aerojaunt Field. This practice field is on the central campus, and it’s available for anyone to use. When the characters are ready to begin practice, read or paraphrase the following:
 >Before you is a carefully maintained dirt field. In the center, an elongated hexagon etched in glowing, magical chalk outlines a series of ramps built into the dirt.
 
 - Dugouts face each other on opposite sides of the field. North of the dugouts are bleachers, and south of the dugouts are some outbuildings. Right now, the most prominent feature is a gnome dressed in black-and-white striped shorts and a matching tunic. A knapsack hangs at her side, and a large whistle dangles from her neck. Rosie Wuzfeddlims, one of Strixhaven’s student referees, is ready for some serious game time.
@@ -265,15 +263,13 @@
 
 - The doors to these sheds are locked, but Rosie has the key, as do several faculty members. A character using thieves’ tools can open either lock with a successful DC 25 Dexterity check.
 - This shed’s central silo contains a jumble of obsolete equipment that belongs to the gymnastics club. Old practice horses, balance beams, disassembled high bars, floor mats, and more are shoved against the curved wall.
-
-**Treasure**. In the main silo’s northeast corner are two unlocked chests. Both contain stacks of outdated gymnastics uniforms. However, a cloak of displacement lies forgotten at the bottom of one chest. If the characters try to find the cloak’s owner, Rosie or any faculty member learns the cloak is unclaimed, so the characters are welcome to keep it.
+- **Treasure**. In the main silo’s northeast corner are two unlocked chests. Both contain stacks of outdated gymnastics uniforms. However, a [[cloak of displacement]] lies forgotten at the bottom of one chest. If the characters try to find the cloak’s owner, Rosie or any faculty member learns the cloak is unclaimed, so the characters are welcome to keep it.
 
 ###### A2. Southeastern Outbuilding
  - [ ] 
 - The doors to these sheds are locked, but Rosie has a key. A successful DC 25 Dexterity check using thieves’ tools opens each lock.
 - This shed’s central silo holds old silkball and Mage Tower equipment: bins of deflated silkballs, wooden dummy mascots, and dented field rakes.
-
-**Treasure**. In the main silo’s northwest corner are two unlocked chests that both contain stacks of outdated silkball uniforms. However, a cloak of elvenkind lies forgotten at the bottom of one chest. If the characters try to find the cloak’s owner, Rosie or any faculty member learns the cloak is unclaimed, so the characters are welcome to keep it.
+- **Treasure**. In the main silo’s northwest corner are two unlocked chests that both contain stacks of outdated silkball uniforms. However, a [[cloak of elvenkind]] lies forgotten at the bottom of one chest. If the characters try to find the cloak’s owner, Rosie or any faculty member learns the cloak is unclaimed, so the characters are welcome to keep it.
 
 ###### A3. Practice Field
  - [ ] 
@@ -283,7 +279,7 @@
 
 ###### A4. Dugout
  - [ ] 
-- In each dugout, a small vial was accidentally left behind. In the west dugout, the vial contains oil of slipperiness. In the east dugout, it’s a potion of climbing. A character who searches a dugout finds the relevant vial tucked underneath a back bench.
+- In each dugout, a small vial was accidentally left behind. In the west dugout, the vial contains [[oil of slipperiness]]. In the east dugout, it’s a [[potion of climbing]]. A character who searches a dugout finds the relevant vial tucked underneath a back bench.
 
 ###### A5. Bleachers
  - [ ] 
