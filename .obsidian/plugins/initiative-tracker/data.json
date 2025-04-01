@@ -239,7 +239,7 @@
         "currentAC": 9,
         "path": "creatures/Mineral Ooze.md",
         "id": "ID_8b191b4babe8",
-        "currentHP": 67,
+        "currentHP": 5,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -273,7 +273,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 3,
+    "round": 7,
     "logFile": "",
     "rollHP": false
   },
