@@ -136,7 +136,7 @@ For those courses selected by at least one PC student (excluding Required course
 **PC(s)**: Shear, Mina, Hawthorne
 **Fellow Students**: Agatha Zaphrin, Kiya Alwan, Cadoras Damellawar
 **Professor**: Imbraham (Quandrix)
- - [ ]  Mana Flow and Feedback Loops – Studying how magic self-replicates or depletes in a given system, hinting at the larger depletion of magic across Khorvaire and how it might be reversed.
+ - [x] Mana Flow and Feedback Loops – Studying how magic self-replicates or depletes in a given system, hinting at the larger depletion of magic across Khorvaire and how it might be reversed. ✅ 2025-03-31
  - [ ]  Ley lines and mana nexuses, their importance and foreshadowing disruptions in Act 2.
  - [ ]  Runes as computational logic, setting up sigils and magical constructs.
 
@@ -144,7 +144,7 @@ For those courses selected by at least one PC student (excluding Required course
 **PC(s)**: Shear, Alton
 **Fellow Students**: Catherine Shepherd, Rinn Silverfrond, Shuvadri Glintmantle, Urzmaktok Grojsh
 **Professor**: Willowdusk (Witherbloom)
- - [ ]  The Balance of Irian and Mabar – Understanding the interplay between positive and negative energy planes, and the flow of magic from life to death.
+ - [x] The Balance of Irian and Mabar – Understanding the interplay between positive and negative energy planes, and the flow of magic from life to death. ✅ 2025-03-31
  - [ ]  Leylines and Life Magic – Studying the connection between leyline nexuses and natural life force, subtly hinting at how magic is being siphoned in Khorvaire.
  - [ ]  The Cost of Power: Forbidden Magic and Life Force – A historical look at magic that draws upon the life force of the caster or another being, noting that many cultures outlawed such practices.
 
@@ -152,7 +152,7 @@ For those courses selected by at least one PC student (excluding Required course
 **PC(s)**: Alton, Mina, Hawthorne, Cosset
 **Fellow Students**: Kilian Lu, Blakely Margedi
 **Professor**: Fain (Silverquill)
- - [ ]  Draconic: The Language of Magic – Studying why Draconic is the foundation of many spells, linking to the origins of magic and the dragons’ role in protecting it.
+ - [x] Draconic: The Language of Magic – Studying why Draconic is the foundation of many spells, linking to the origins of magic and the dragons’ role in protecting it. ✅ 2025-03-31
  - [ ]  Runes of the Giants – Examining the ancient magic of Xen’drik and how giant runes could be a missing link in understanding certain magics.
  - [ ]  Language and Forbidden Magic – Investigating how secret tongues and encoded scripts hide dangerous spells, foreshadowing the Oriq’s hidden knowledge.
 
@@ -168,7 +168,7 @@ For those courses selected by at least one PC student (excluding Required course
 **PC(s)**: Shear, Alton, Mina, Hawthorne, Cosset
 **Fellow Students**: Fabian Ashborne, Finnian Sparkwhistle
 **Professor**: Arkin Minexes (Prismari)
- - [ ]  Gesture Precision and Spell Power – Understanding how minor changes in movement alter spell effectiveness.
+ - [x] Gesture Precision and Spell Power – Understanding how minor changes in movement alter spell effectiveness. ✅ 2025-03-31
  - [ ]  One-Handed and Subtle Casting – Studying methods to cast while restrained.
  - [ ]  Martial Spellcasting and Combat Flow – Exploring techniques for hybrid spellblade fighting.
 
@@ -183,15 +183,15 @@ For those courses selected by at least one PC student (excluding Required course
 ###### Pyromancy and the Arts
 **PC(s)**: Alton
 **Fellow Students**: Joran Brightspark, Toren Dustfall, Nelson Dawoud, Bhedum "Rampart" Sooviij
-**Professor**:  (Prismari)
- - [ ]  Fire as Destruction and Creation – Understanding how fire is both a force of renewal and devastation.
+**Professor**: Veyran (Prismari)
+ - [x] Fire as Destruction and Creation – Understanding how fire is both a force of renewal and devastation. ✅ 2025-03-31
  - [ ]  The Emotional Element: How Passion Fuels Fire Magic – Exploring the connection between strong emotions and fire magic, particularly how intense focus or fury enhances its effects.
  - [ ]  Fire in Ritual and Symbolism – Examining fire as a sacred and ceremonial force in various cultures.
 
 ###### Introduction to Abjuration
 **PC(s)**: Shear
 **Fellow Students**: Tilana Kapule, Drazhomir Yarnask, Rhitt, Mina Lee
- - [ ]  The History of Protective Spells – Studying famous magical defenses, focusing on the famous barriers of Morgrave University.
+ - [x] The History of Protective Spells – Studying famous magical defenses, focusing on the famous barriers of Morgrave University. ✅ 2025-03-31
  - [ ]  Arcane Seals and Forbidden Knowledge – Exploring how powerful secrets are locked away.
  - [ ]  The Limits of Abjuration – Understanding what abjuration can’t block, reinforcing the players’ need to seek unconventional solutions.
 
