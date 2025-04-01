@@ -201,7 +201,7 @@
         "enabled": true,
         "level": 1,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -245,7 +245,7 @@
         "enabled": true,
         "level": 1,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -260,7 +260,7 @@
         "ac": 14,
         "currentAC": 14,
         "id": "ID_cb8aab4b181a",
-        "currentHP": 42,
+        "currentHP": 10,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -273,7 +273,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 2,
+    "round": 5,
     "logFile": "",
     "rollHP": false
   },
