@@ -195,9 +195,18 @@ In ordered stars beyond the skies.”
 
 ###### A3. The Trial of Tiles
  - [ ] 
->
+>You arrive at a recessed platform tiled in colored crystal panels. Most are glowing faintly in place, locked into a harmonious grid of precise spacing. But five crystals lie on the floor, their lights dimmed — each etched with sigils, arrows, and shapes.
+>Every tile glows faintly with arcane energy and bears a unique arrangement of color, symbols, and etched patterns.
+>The five loose crystals hum softly as you approach, awaiting repositioning. When all are placed in alignment with the matrix's logic, the path forward will open.
 
-- 
+- There’s a grid of magical panels, most locked in place. Five panels are missing and lie to the side.
+- Players must return each to its correct place by ensuring that each panel shares exactly one matching property with each neighbor (no diagonals).
+- Attempting to move a fixed panel reveals it is magically sealed. Placing a panel incorrectly causes it to resist fusion, glowing red and floating slightly above the grid instead of locking in.
+- When all are placed correctly, a harmonious chime echoes and a door activates, leading to the next room.
+- Hints
+	- “Study the fixed panels carefully. Their arrangement isn’t random — each reflects a logical harmony.”
+	- “Equivalence is the foundation of structure. Neighbors must always share one trait... but only one.”
+	- “There are four traits to track: color, direction, dot number, and line number. Each panel has one of each.”
 
 ###### A4. Combat and Riddles
  - [ ] 
