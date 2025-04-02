@@ -164,29 +164,95 @@
 
 ###### A2. The Constellation Puzzle
  - [ ] 
->You enter a circular room under a domed ceiling painted like a night sky, with stars that subtly glow. At the center lies a pedestal holding a map of constellations which can be rotated and adjusted. The walls feature doors, each marked with a different constellation.
+>This domed chamber hums with structured energy. Fractal vines etched in turquoise and jade flow across the crystalline walls in shifting geometric loops. Suspended in the air is a slow-spinning constellation of gemstone-like stars, arranged in symmetrical orbit.
+>At the center of the room stands a circular pedestal made of pale stone and silver inlay. Six colored dials are embedded on its surface — each a different hue: diamond (silver), emerald (green), amethyst (violet), sapphire (blue), ruby (red), and topaz (gold). Each dial displays numbers from 0 to 30 and currently rests at 0.
 
-- Players need to align the constellation map with the dome's star patterns to reveal the correct door. A correct alignment causes the corresponding door to unlock, while a misalignment sounds a soft tone that could attract mage hunters (add one to the clock).
-- A DC 15 Arcana check, or use of a spell such as *augury*, is required to align the map to the correct door and proceed.
+As a character approaches, magical glyphs spiral outward from the base of the pedestal, forming luminous script in midair. The inscription reads:
 
-###### A3. The Symbological Maze
+>“Of six, two hold the answer true—
+One colored green, one colored blue.
+From growth and thought the sums arise,
+In ordered stars beyond the skies.”
+
+- Projected above the chamber is a starfield of illusionary, color-coded stars. The number of stars per color is:
+	- Diamond (silver): 3
+	- Emerald (green): 8
+	- Amethyst (violet): 12
+	- Sapphire (blue): 16
+	- Ruby (red): 24
+	- Topaz (gold): 30
+- Touching the stars reveals that all are illusory except the emerald and sapphire stars, which are tangible and hum faintly.
+- The poem directs attention to two dials: one green (emerald) and one blue (sapphire). Players must:
+	- Count the number of emerald (green) stars: 8
+	- Count the number of sapphire (blue) stars: 16
+	- Set the emerald dial to 8 and the sapphire dial to 16
+	- Leave all other dials at 0
+- When entered correctly, the center of the pedestal emits a soft harmonic chime, and a door opens, leading to the next room.
+- Hints (Checks)
+	- DC 10 Investigation: The starfield is arranged deliberately and symmetrically. Green and blue stars appear more "anchored" in their positioning.
+	- DC 12 Arcana: Only the emerald and sapphire stars radiate more than illusion magic. These colors may be significant.
+	- DC 14 Insight: The rhyme’s phrasing suggests duality and exclusion — only two dials are needed, and the rest are “noise.”
+
+###### A3. The Trial of Tiles
  - [ ] 
->This expansive library is a maze of bookshelves, each filled with ancient tomes and scrolls. At intervals, large stones engraved with parts of a massive runic circle are found, seemingly disordered. A faintly glowing trail on the floor offers a clue to the stones' proper arrangement.
+>
 
-- The puzzle requires reordering the glyph stones to complete a large protective rune that historically guarded ancient magical knowledge. Players must follow the glowing trail to place the stones correctly. Completing the rune not only clears the magical haze but also reveals hidden writings on the shelves that provide lore and hints for the final puzzle.
-- A DC 15 Arcana check, or use of a spell such as *augury*, is required to align the stones and open the way forward.
+- 
 
-###### A4. The Chamber of Echoes
+###### A4. Combat and Riddles
  - [ ] 
->The chamber you enter is eerily silent, with walls that seem to absorb sound. Engraved tablets are set into each wall, filled with ancient symbology. A lone pedestal in the center holds a quill that seems to await your touch.
+>
 
-- To solve the puzzle, players must use the quill to trace a symbol glyph on one of the tablets, choosing from several options. Each symbol represents a different magical effect; the correct one will unlock the final room. Tracing the wrong symbol can unleash harmful magical effects or summon a spectral guardian.
+- 
 
-###### A5. The Vault of Secrets
+###### A5. Rest Room
  - [ ] 
->This small, heavily warded room glows with the light of countless glyphs that cover every surface. In the center, a single plinth holds an ornate chest. The air is thick with the power of the wards, making each step feel heavy and significant.
+>You step into a circular chamber of smooth stone, its domed ceiling spiraling like a nautilus shell. Faint blue-green light pulses from fractal patterns carved into the walls, shifting gently as if breathing. At the center, a hovering model of the Arithmodrome rotates slowly, its rooms and glyphs updating in real time. The air is cool and still, and the space hums with quiet harmony—as though the room itself is thinking, and content to let you rest.
 
-- The final puzzle requires players to deactivate the glyph of warding protecting the chest. They must decipher the interconnected warding glyphs to find the one keystone glyph that, when dispelled, will neutralize the others without triggering a defensive explosion. Success grants them access to the treasure; failure could mean a devastating magical backlash.
+- A detailed magical projection shows the Arithmodrome from above, constantly updating to reflect any changes within the dungeon. PCs can study it for clues about what rooms they've passed or missed (DC 14 Investigation or Arcana check to learn something useful about an unexplored wing).
+
+###### A6. A Sequence of Unfortunate Events
+ - [ ] 
+>You find yourselves in a room with a single door on the far side. As you enter, the door behind you shuts and locks. The door on the far side of the room is locked as well, effectively trapping you inside. You can all see that the door is filled keyholes, all lined up in rows, each row ending with a doorknob. The room itself it lined with thousands of keys hanging on hooks all over the walls. On the floor, glowing glyphs swirl into readable form:
+>	How will you escape?
+>	Perhaps you can count the ways
+>	The keys must be inserted in proper succession
+>	Or you'll lose your head, forgive the expression.
+>	I'm not without mercy, so I offer this hint
+>	You see the solution, if merely a glint:
+>	In nature, you see it, always within reach
+>	In storms, and in flowers, and shells on the beach.
+>	In order to leave here, you must do the math
+>	If you do not, you'll soon feel my wrath...
+>You hear a bell chime as a single improbably sharp blue-green fractal descends from the ceiling.
+
+- Fractals continue to emerge from the ceiling every 30 seconds, increasing in number, following the pattern below. For each fractal that falls, have an appropriate number of creatures makes a DC 15 Dexterity saving throw to avoid them.
+- This pattern of fractals is also a clue to the puzzle's solution. The fractals are appearing in a Fibonacci Sequence, a mathematical formula in which each succeeding number is the sum of the two numbers that preceded it:
+
+| Round | Number of Axes |
+| ----- | -------------- |
+| 1     | 1              |
+| 2     | 1              |
+| 3     | 2              |
+| 4     | 3              |
+| 5     | 5              |
+| 6     | 8              |
+| 7     | 13             |
+| 8     | 21             |
+| 9     | 34             |
+| 10    | 55             |
+
+- The keyholes in the wall present as a grid of eight rows, each with 21 key holes.
+- A DC 10 Intelligence (Investigation) check reveals that all the keys lining the walls are the same, suggesting that there is another solution beyond finding the right key.
+- Inserting keys into the wall in the Fibonacci Sequence unlocks each row.  Unlocking every row opens the door leading to the next room.
+
+###### A7. The Convergence Core
+ - [ ] 
+>You enter a wide, high-ceilinged chamber of smooth stone and humming sigils, where arched walkways and raised platforms form a layered lattice around the central floor. Lines of glowing numerals scroll along the walls, weaving into and out of geometric diagrams that shift and re-align with each passing moment. At the heart of the room stands a pedestal of interlocked rings, supporting a metallic cube etched with glyphs and sliding panels — its design precise, deliberate, and inviting.
+>The chamber is quiet. Too quiet, perhaps — but easy to dismiss as the silence of completion.
+
+- The cube is a 3D Sudoku puzzle that can be physically handed to the players to solve. If solved, inside is a... special item?
+- But really the cub is primarily a distraction. As the players attempt to solve it, the Mage Hunter continues to draw nearer. If no one is paying attention (specifying Perception checks), then the Mage Hunter surprises the party when it eventually arrives!
 
 #### Week 26: Battle of Strixhaven
 
@@ -261,3 +327,5 @@ Check off as information is received. These should be gathered from Secrets and 
 ### References
 
 - Strixhaven: A Curriculum of Chaos, Chapter 5
+- https://thedmlair.com/blogs/news/3-free-rpg-puzzles-1?srsltid=AfmBOoqQI1qF2NAqayZKyxI3ALlbEy3nqtL5kyhaYWwsOP2kfBk7p7Vh
+- https://www.gmbinder.com/share/-MbqrgGgKHAx7sW5ChKC
