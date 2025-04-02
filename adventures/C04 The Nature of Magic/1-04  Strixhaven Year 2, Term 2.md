@@ -210,19 +210,20 @@ In ordered stars beyond the skies.”
 
 ###### A4. Combat and Riddles
  - [ ] 
->You enter a chamber bathed in a pale turquoise glow. The floor is an uninterrupted sheet of polished crystal, marked only by two marble pedestals that rise from the surface like numbers from a solved equation. Arcane glyphs spiral up their sides, converging on flat stone faces where glowing script has begun to form — riddles, etched in light.
+>You enter a chamber bathed in a pale turquoise glow. The floor is an uninterrupted sheet of polished crystal, marked only by three marble pedestals that rise from the surface like numbers from a solved equation. Arcane glyphs spiral up their sides, converging on flat stone faces where glowing script has begun to form — riddles, etched in light.
 >Suspended above each pedestal is a jagged, smoky shard of translucent crystal, about the size of a housecat. They hover in place, turning slowly in the air, utterly silent. 
 
 - Each pedestal has a riddle written on it. If either riddle is answered incorrectly, the crystal creature (Grimmlet) above it attacks the player who answered.
 - If both riddles are answered correctly, then the door into the next room opens.
 
->Two and two again will always equal four, unless you pair them in a way that equals 18 more.
-
-Answer: 22
+>No square can hold me, no cube contain — I’m prime and odd, a sharp refrain.
+- Answer: 13 (the famously "lonely" prime)
 
 >You count me not, though I'm the start; In every sum, I play my part.
+- Answer: Zero
 
-Answer: Zero
+>I circle round without an end — My digits spiral, twist, and bend.
+- Answer: π
 
 `encounter: 1: Grimmlet`
 
